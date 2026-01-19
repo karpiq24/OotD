@@ -1,0 +1,23 @@
+---
+title: Themis
+tags: [location]
+region: Zatoka Cerulańska
+type: Wyspa / Miasto
+population: Amazonki
+---
+
+# Themis
+
+![Placeholder](../../assets/placeholder.png)
+
+Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek.
+
+## Ciekawe Miejsca
+- **...**: ...
+
+## Mieszkańcy
+- [[Yala Pierwsza]] (Przywódczyni)
+- Amazonki (Frakcja)
+
+## Historia
+Themis jest potęgą morską na Morzu Ceruleańskim. Obecnie Amazonki znajdują się pod wpływem [[Lutheria|Lutherii]], co czyni je sojuszniczkami Tytanów.
