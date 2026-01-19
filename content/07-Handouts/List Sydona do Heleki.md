@@ -1,0 +1,17 @@
+---
+title: List Sydona do Heleki
+tags:
+  - handout
+  - letter
+type: Letter
+---
+
+# List Sydona do Heleki
+
+_Typ (List/Notatka)_
+
+## Treść
+
+**HELEKA… NADSZEDŁ CZAS ABYŚ WYPEŁNIŁA PRZYSIĘGĘ SŁUŻBY, KTÓRĄ NIEGDYŚ MI PRZYSIĘGŁAŚ. ZNASZ SEKRETNE ŚCIEŻKI PRZEZ ZAPOMNIANE MORZE DO JASKINI GDZIE PRZEBYWA MOJA CÓRKA. ZNAJDŹ JĄ I PRZYPROWADŹ DO PRAXYS BEZ SZKODY, A UWOLNIĘ CIĘ Z TWOJEJ PRZYSIĘGI.**
+
+**— SYDON, PAN WSZECHRZECZY**
