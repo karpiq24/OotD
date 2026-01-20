@@ -1,10 +1,7 @@
 ---
-title: Frakcje i Gildie
-tags: [index]
+title: Factions
 ---
 
-# ⚔️ Frakcje i Gildie
-
-Organizacje, stowarzyszenia i grupy wpływów w świecie Thylea.
+# Factions
 
 - [[Zakon Sydona]]

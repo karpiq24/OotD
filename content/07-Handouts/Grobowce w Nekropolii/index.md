@@ -1,8 +1,8 @@
 ---
-title: Grobowce w Nekropolii
+title: Grobowce W Nekropolii
 ---
 
-# Grobowce w Nekropolii
+# Grobowce W Nekropolii
 
 - [[Tomb of Adonis]]
 - [[Tomb of Balmytria]]

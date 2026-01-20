@@ -1,12 +1,12 @@
 ---
-title: NPCs
+title: Lista postaci niezależnych
 ---
 
-# NPCs
+# Lista postaci niezależnych
 
 - [[Acastus]]
-- [[Adonis Neurdagon]]
 - [[Adonis]]
+- [[Adonis Neurdagon]]
 - [[Aella]]
 - [[Aesop]]
 - [[Aetius]]
@@ -69,16 +69,16 @@ title: NPCs
 - [[Talieus Pierwszy]]
 - [[Taran Neurdagon]]
 - [[Tars d’Lyrandar]]
-- [[Telamok]]
+- [[Telamok|Telamok Arkelander]]
 - [[Thylea]]
 - [[Tysophale]]
 - [[Vallus]]
 - [[Ventis]]
-- [[Versi Pierwsza]]
 - [[Versi]]
+- [[Versi Pierwsza]]
 - [[Volkan]]
-- [[Xander]]
-- [[Yala Pierwsza]]
+- [[Xander|Xander Huorath]]
 - [[Yala]]
+- [[Yala Pierwsza]]
 - [[Zarmulax]]
 - [[Zephyrus]]

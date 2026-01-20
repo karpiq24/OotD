@@ -1,10 +1,10 @@
 ---
-title: Items and Loot
+title: Items And Loot
 ---
 
-# Items and Loot
+# Items And Loot
 
-- [[Smoczy Róg]]
-- [[Ultros]]
 - [[Kaduceusz Damona]]
-- [[Spellbooks/index|Spellbooks]]
+- [[Smoczy Róg]]
+- [[Spellbooks]]
+- [[Ultros]]
