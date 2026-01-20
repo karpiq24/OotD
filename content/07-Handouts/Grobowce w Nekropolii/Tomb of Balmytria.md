@@ -7,12 +7,9 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Balmytria
+> Ten masywny grobowiec przyćmiewa pozostałe w [[content/03-Locations/Kontynent Thylea/Góra Telamok.md#Nekropolia|Nekropolii]]. Został wykonany z najbielszego marmuru, który zachował swoją barwę przez długie lata, grobowiec jest wsparty ogromnymi, wijącymi się filarami. Kiedy się zbliżacie, zdajecie sobie sprawę, że nie są to zwykłe kolumny, ale posągi wyrzeźbione w kształcie smoków w różnych pozach, podtrzymujące konstrukcję. Wejściem są duże, podwójne drzwi wykonane z brązu, na których wyryto epitafium:
 
-_Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Telamok/index.md|Nekropolii]]_
-
-## Treść
-> **[[content/02-People/NPCs/Balmytria.md|BALMYTRIA]]**
-> 
+> **[[content/02-People/NPCs/Balmytria.md|BALMYTRIA]]**  
 > **ZAPRZYSIĘŻONA [[content/02-People/NPCs/Xander.md|XANDERA]]**
 > 
 > Czytelniku, muszę dać ci znać:  
@@ -22,10 +19,10 @@ _Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Tela
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 
-Ten masywny grobowiec przyćmiewa pozostałe w Nekropolii. Został wykonany z najbielszego marmuru, który zachował swoją barwę przez długie lata, grobowiec jest wsparty ogromnymi, wijącymi się filarami w kształcie smoków.
-
-Wnętrze jest okrągłe, podobnie jak ogromny sarkofag spoczywający pośrodku pomieszczenia. Wykonany z białego marmuru, ma 20 stóp średnicy i 5 stóp wysokości, a na pokrywie znajduje się wspaniały obraz przedstawiający srebrnego smoka. Na ścianach widnieją 3 imponujące murale:
-
-1.  **Przybycie**: Przedstawia jednego ogromnego srebrnego smoka, jednego dużego brązowego smoka i trzy młodsze brązowe, niosące ludzkich wojowników nad morzem.
-2.  **Lądowanie**: Przedstawia srebrnego smoka lądującego na zielonym wybrzeżu [[content/03-Locations/Kontynent Thylea/index.md|Thylei]]. Wojownik (Xander) wyciąga rękę na powitanie do grupy ludzi.
-3.  **Cywilizacja**: Mapa kontynentu z rozwijającymi się miastami [[content/03-Locations/Kontynent Thylea/Mytros.md|Mytros]], [[content/03-Locations/Kontynent Thylea/Arezja.md|Aresia]] i [[content/03-Locations/Kontynent Thylea/Estoria.md|Estoria]].
+> Pomimo zewnętrznych kwadratowych ścian, wnętrze jest okrągłe, podobnie jak ogromny sarkofag spoczywający pośrodku pomieszczenia. Wykonany z białego marmuru, ma 20 stóp średnicy i 5 stóp wysokości, a na pokrywie znajduje się wspaniały obraz przedstawiający srebrnego smoka. Na ścianach widnieją 3 imponujące murale, każdy najwyraźniej stanowiący ważny element historii [[content/05-Lore/History of Thylea.md#Arrival of the Dragonlords (Przybycie Smoczych Władców)|Smoczych Lordów]] w [[content/02-People/NPCs/Thylea.md|Thylei]], wszystkie nienaturalnie nieskazitelne, o głębokiej kolorystyce.
+> 
+> Pierwszy panel przedstawia małą grupę: jednego ogromnego srebrnego smoka, jednego dużego brązowego smoka i trzy młodsze, mniejsze brązowe. Wszystkie niosą na grzbietach potężnych ludzkich wojowników, uzbrojonych i opancerzonych, latają po niebiosach, nad morzem. Ten mural jest głównie w kolorze niebieskim.
+> 
+> Następna mozaika przedstawia tę samą grupę przybywającą na zielone wybrzeże Thylei. Podczas gdy brązowe smoki pozostają w górze, srebrny smok ląduje na nowym kontynencie, a jej wojownik stawia pierwsze kroki na ziemi. Podchodzi do grupy wynędzniałych ludzi, wyciąga rękę na powitanie i choć niektórzy z nich kulą się ze strachu przed jego potężnym smokiem, wielu podnosi oczy z ciekawością, a nawet uwielbieniem. Na tej mozaice dominuje kolor zielony.
+> 
+> Ostatni panel przedstawia dużą mapę kontynentu Thylea, otoczoną obrazami przedstawiającymi pracę śmiertelników w budownictwie i religii. To, co wydaje się być maleńkimi osadami z drewna i siana, rozrasta się w duże miasta z brązu i marmuru, nad którymi zawsze lata co najmniej jeden smok. Łatwo jest dostrzec trzy główne metropolie – Mytros, Aresia i Estoria. Ten mural jest głównie w kolorze brązu.

@@ -7,11 +7,7 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Telamok
-
-_Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Telamok/index.md|Nekropolii]]_
-
-## Treść
-> **[[content/02-People/NPCs/Telamok.md|TELAMOK ARKELANDER]]**
+> **[[content/02-People/NPCs/Telamok Arkelander.md|TELAMOK ARKELANDER]]**
 > 
 > **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Tysophale.md|TYSOPHALE]]**
 > 
@@ -20,9 +16,8 @@ _Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Tela
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 
-Wewnątrz znajduje się marmurowy sarkofag z wizerunkiem brodatego wojownika o dumnym obliczu.
-
-Wyblakłe murale:
-*   **Masakra**: [[content/02-People/NPCs/Telamok.md|Telamok]] przemierzający łąki i góry, masakrujący centaurów, minotaurów, cyklopów, satyry i nimfy. Ofiary wydają się mali i bezradni wobec Lorda.
-*   **Klątwa?**: Telamok unosi włócznię przeciwko starej satyrzycy, która śmieje mu się w twarz.
-*   **Koniec**: Telamok leży martwy na płycie, ale ostatnia scena pokazuje go wstającego i odchodzącego w zniekształconej formie.
+> Wewnątrz krypty znajduje się duży marmurowy sarkofag z wyrytym na pokrywie wojownikiem: mężczyzna z długimi, falowanymi włosami i szorstką brodą patrzy przed siebie z dumną twarzą, ubrany w zbroję, dzierżący kopis i tarczę.
+> 
+> Ściany i sufit pokryte są wyblakłymi muralami przedstawiającymi tego samego wojownika: Telamok Arkelander przemierza samotnie łąki i góry, zawsze z mieczem i tarczą w dłoni, dokonując masakry wojowników wszelkiego rodzaju, w tym śmiertelnych mężczyzn i kobiet, centaurów i minotaurów, cyklopów i gyganów, satyry i nimfy. Chociaż wszystkie jego ofiary trzymają własną broń, to niektóre z nich wyraźnie nie trzymają jej prawidłowo i nie noszą zbroi. W porównaniu do Smoczego Lorda wydają się mali, przestraszeni i bezradni.
+> 
+> Sufit ukazuje jego ostatnie dni: potężny jak zawsze mężczyzna unosi włócznię przeciwko starej i wątłej satyrzycy trzymającej laskę i sztylet, ale ona śmieje mu się w twarz i wskazuje na niego jednym palcem. Później mężczyzna leży martwy na kamiennej płycie, ranny i blady. A jednak coś jest nie tak: wstaje i odchodzi zgarbiony i zniekształcony.

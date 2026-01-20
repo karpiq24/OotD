@@ -10,9 +10,9 @@ type: Prologue
 
 ## Inwokacja do Muzy
 
-> Opowiedz, [[Muza Wspomnień|Muzo Wspomnień]]
+> Opowiedz, Muza Wspomnień
 > 
-> Opowiedz nam historię Wybawicieli o [[Bohaterowie|Bohaterach]], o Czempionach
+> Opowiedz nam historię Wybawicieli o [[Bohaterowie Przepowiedni|Bohaterach]], o Czempionach
 > 
 > Opowiedz o Odysei [[Smoczy Lordowie|Smoczych Lordów]]
 > 
@@ -24,7 +24,7 @@ type: Prologue
 > 
 > Opowiedz o [[Versir]]ze, Wiecznym, który po stuleciach powrócił do [[Thylea|Thylei]] i odkrył los Zaginionych Tytanów,
 > 
-> Opowiedz o [[Arevon Elorrenthi|Arevon]]ie, Poszukującym, który przybył z odległych krain i odnalazał ukryte tajemnice Thylei,
+> Opowiedz o [[Arevon Elorrenthi|Arevon]]ie, Poszukującym, który przybył z odległych krain i odnalazł ukryte tajemnice Thylei,
 > 
 > Opowiedz o [[Orion Xul|Orion]]ie, Półbogu, który odnalazł własną matkę i dorównał w boskości swojemu ojcu,
 > 
@@ -48,4 +48,4 @@ Na tronie [[Praxys]], Wieży Burz, dwie masywne postacie stoją nad idealną rep
 
 ## Prolog
 
-Przyszłość Thylei wygląda ponuro. Potwory zagrażają drogom, zepsucie dociera do miast. Sydon żąda codziennych ofiar w każdej świątyni, a jego siostra-żona Lutheria porywa dzieci do swoich sekretnych rytuałów. [[Przysięga Pokoju]], która niegdyś chroniła osadników przed Bliźniaczymi Tytanami, zaczęła słabnąć, a wraz z nią [[Pięciu Bogów]] ma związane ręce. Dodatkowo teraz [[Wyrocznia]] przepowiedziała zagładę Thylei.
+Przyszłość Thylei wygląda ponuro. Potwory zagrażają drogom, zepsucie dociera do miast. Sydon żąda codziennych ofiar w każdej świątyni, a jego siostra-żona Lutheria porywa dzieci do swoich sekretnych rytuałów. [[10 Przysięga Pokoju|Przysięga Pokoju]], która niegdyś chroniła osadników przed Bliźniaczymi Tytanami, zaczęła słabnąć, a wraz z nią [[Pięciu Bogów]] ma związane ręce. Dodatkowo teraz [[Versi|Wyrocznia]] przepowiedziała zagładę Thylei.

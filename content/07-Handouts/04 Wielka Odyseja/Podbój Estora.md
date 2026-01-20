@@ -17,11 +17,11 @@ Migoczące światło latarni rzuca długie, tańczące cienie na ciasne pomieszc
 
 Nagle znane odgłosy cichną, zastąpione dźwiękami tętniącego życiem obozu wojennego – rżeniem koni, szmerem mężczyzn przygotowujących się do bitwy. Patrzysz oczami dowódcy tego obozu. Nie… Nie tyle patrzysz, co w tym momencie jesteś nim. Przed tobą góruje olbrzymi brązowy posąg, mijasz go i wkraczasz do namiotu.
 
-Wewnątrz twojego namiotu wojennego gromadzisz się z [[Damon|Damonem]] i twoimi najbardziej zaufanymi porucznikami. Studiujesz mapy rozłożone na stole, wodząc palcem po konturach fortyfikacji [[Gygani|Gyganów]]. „Mój brat [[Telamok]] wysłał mnie tutaj, abym zabezpieczył tereny nadające się do uprawy. Ta forteca stoi na drodze naszej chwalebnej przyszłości. Musimy zabezpieczyć przeprawę przez rzekę. Tak, ich katapulty są potężne”, przyznajesz, „Ale ich obrona nie jest nie do zdobycia”.
+Wewnątrz twojego namiotu wojennego gromadzisz się z [[Damon|Damonem]] i twoimi najbardziej zaufanymi porucznikami. Studiujesz mapy rozłożone na stole, wodząc palcem po konturach fortyfikacji [[Gyganie|Gyganów]]. „Mój brat [[Telamok]] wysłał mnie tutaj, abym zabezpieczył tereny nadające się do uprawy. Ta forteca stoi na drodze naszej chwalebnej przyszłości. Musimy zabezpieczyć przeprawę przez rzekę. Tak, ich katapulty są potężne”, przyznajesz, „Ale ich obrona nie jest nie do zdobycia”.
 
 „Proponuję frontalny atak”, mówisz z przekonaniem. „[[Arkyrania]] i ja poprowadzimy szarżę, a nasza armia podąży za nami.”
 
-[[Damon]], zawsze ostrożny, kręci głową. „Estorze, z całym szacunkiem, ale katapulty i balisty [[Gygani|Gyganów]] są zbyt dużym zagrożeniem. Mogą zdziesiątkować nasze szeregi, zanim zbliżymy się do murów, a jeden smok nie zdobędzie tych umocnień.”
+[[Damon]], zawsze ostrożny, kręci głową. „Estorze, z całym szacunkiem, ale katapulty i balisty [[Gyganie|Gyganów]] są zbyt dużym zagrożeniem. Mogą zdziesiątkować nasze szeregi, zanim zbliżymy się do murów, a jeden smok nie zdobędzie tych umocnień.”
 
 Marszczysz brwi. „Więc co proponujesz? Ukryć się w krzakach i czekać, aż mój brat przyśle posiłki?”
 
@@ -33,7 +33,7 @@ Milczysz przez chwilę, rozważając jego słowa. Pomysł z posągiem wydaje ci 
 
 [[Damon]] skinął głową, zadowolony, że udało mu się przekonać cię do rozsądniejszego planu.
 
-[[Gygani]] patrzą na dar z mieszaniną ciekawości i nieufności. Ich przywódca, potężny brutal o imieniu [[Photios]], wydaje rozkazy w swoim gardłowym języku. [[Damon]], zawsze dyplomata, uspokaja ich obawy obietnicami pokoju i dobrej woli. Obserwujesz szaradę z ledwo skrywaną pogardą.
+[[Gyganie]] patrzą na dar z mieszaniną ciekawości i nieufności. Ich przywódca, potężny brutal o imieniu [[Photios]], wydaje rozkazy w swoim gardłowym języku. [[Damon]], zawsze dyplomata, uspokaja ich obawy obietnicami pokoju i dobrej woli. Obserwujesz szaradę z ledwo skrywaną pogardą.
 
 Bramy skrzypią otwierając się, a posąg wjeżdża na kołach w samo serce twierdzy. Stoisz w pustym brzuchu posągu, twoje zmysły są czujne, gdy dzień powoli przechodzi w noc. W końcu, pod osłoną ciemności, wychodzisz.
 
@@ -41,7 +41,7 @@ Katapulty wyłaniają się przed tobą, ich masywne ramiona rzucają długie cie
 
 „Niedługa zacznie się zabawa.”, myślisz sobie, ogarnia cię ponura satysfakcja.
 
-Patrol [[Gygani|Gyganów]] skręca za róg, a ich szorstkie głosy rozbrzmiewają w nocy. Wtapiasz się w cienie, wstrzymując oddech, gdy maszerują obok, nieświadomi twojej obecności.
+Patrol [[Gyganie|Gyganów]] skręca za róg, a ich szorstkie głosy rozbrzmiewają w nocy. Wtapiasz się w cienie, wstrzymując oddech, gdy maszerują obok, nieświadomi twojej obecności.
 
 Z powrotem w posągu czekasz, a napięcie rośnie z każdą chwilą. Następnego ranka, słyszysz panikę w fortecy. [[Damon]] już pewnie wie, że nie do końca posłuchałeś jego rad. Wydałeś dodatkowe rozkazy. Nie ma tu miejsca na dyplomacje. Z unieszkodliwionymi katapultami i balistami nic nie zatrzyma twojej armii i smoczycy. Rozpoczął się szturm na mury, a [[Arkyrania]] osłania żołnierzy. W końcu z ekscytacją wypadasz z wnętrza statuy. Przerażenie na twarzy młodej gyganki, modlącej się o ratunek do [[Sydon|Sydona]] dodaje ci sił. Odcinasz jej głowę jednym szybkim cięciem i rzucasz się na plecy obrońców murów.
 

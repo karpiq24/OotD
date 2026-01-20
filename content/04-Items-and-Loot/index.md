@@ -7,4 +7,5 @@ title: Items And Loot
 - [[Kaduceusz Damona]]
 - [[Smoczy Róg]]
 - [[Spellbooks]]
+- [[Titansbane]]
 - [[Ultros]]

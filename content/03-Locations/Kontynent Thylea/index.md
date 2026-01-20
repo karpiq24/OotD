@@ -5,12 +5,16 @@ title: Kontynent Thylea
 # Kontynent Thylea
 
 - [[Arezja]]
-- [[Drzewo Serca]]
 - [[Estoria]]
 - [[Góra Telamok]]
-- [[Góra Telamok]]
 - [[Heartlands]]
+- [[Kontynent Thylea]]
 - [[Mytros]]
 - [[Praxys]]
+- [[Półwysep Arezyjski]]
+- [[Stary Las]]
 - [[The Mortal Kingdoms]]
+- [[Wielkie Stepy]]
+- [[Xanderia]]
 - [[Zaginiona Kuźnia]]
+- [[Ścieżka Umarłych]]

@@ -7,10 +7,6 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Cosmo
-
-_Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Telamok/index.md|Nekropolii]]_
-
-## Treść
 > **[[content/02-People/NPCs/Cosmo.md|COSMO PHOBAS]]**
 > 
 > **SYN [[content/02-People/NPCs/Rizon Phobas.md|RIZON PHOBAS]]**
@@ -21,10 +17,8 @@ _Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Tela
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 
-Na środku sali stoi sarkofag z szarego marmuru, przedstawiający Cosmo w formalnym himationie, z kopisem i łukiem. Jego twarz wygląda na zmęczoną.
-
-Bezbarwne murale ukazują życie nowego pokolenia Smoczych Lordów:
-*   Polowanie z ogromnym lwem w młodości.
-*   Rozmowy z ważnymi osobistościami i udzielanie rad.
-*   Samotne siedzenie przy stole ze zbroją i tarczą z emblematami Zakonu.
-*   [[content/02-People/NPCs/Cosmo.md|Mężczyzna]] podnoszący rękojeść kopisu do pięknej młodej kobiety o dużej, muskularnej budowie (mural na suficie).
+> Na środku sali stoi sarkofag z szarego marmuru, wygląda niemal skromnie: przedstawia ciało krótkowłosego, pozbawionego brody mężczyzny w formalnym himationie. Kopis spoczywa na jego pasie, a na plecach widać łuk, ale nie widać żadnej zbroi ani tarczy. Jego twarz wygląda na zbyt zmęczoną jak na swój wiek.
+> 
+> Wzdłuż ścian bezbarwne murale ukazują życie nowego pokolenia Smoczych Lordów: nie wrzuconego w wojnę i podboje, niekoniecznie obarczonego koroną, niekoniecznie z wielkim celem do osiągnięcia. Pokazują etapy życia mężczyzny: polowanie z ogromnym lwem z łukiem w młodości; odkładanie broni oraz rozmowy z osobistościami o pozornie ważnym znaczeniu i udzielanie im rad; i siedzenie samotnie przy stole, na którym spoczywa zbroja i tarcza z wyrzeźbionymi emblematami Zakonu. Wydaje się być samotny.
+> 
+> Ostatni mural na suficie wywołuje jednak inne emocje: mężczyzna podnosi rękojeść kopisu do pięknej młodej kobiety o dużej, muskularnej budowie. Jej oczy są pewne siebie i zdecydowane, a mężczyzna wygląda na szczęśliwego i zadowolonego.

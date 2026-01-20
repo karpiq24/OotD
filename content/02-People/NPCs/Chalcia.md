@@ -3,11 +3,9 @@ title: Chalcia
 tags:
   - person
   - npc
-  - titan
-race: Tytan
+race:
 gender: Female
-occupation: Bogini Szybkości
-affiliation: Tytani
+affiliation:
 image_prompt:
 ---
 
@@ -15,7 +13,10 @@ image_prompt:
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Tytan Szybkości_
+_Córka Sydona i Lutherii_
+
+## Opis
+Dziecko Bliźniaczych Tytanów.
 
 ## Historia
-Jedyna, która zdołała uciec przed pułapką [[Lutheria|Lutherii]]. Schroniła się pod wulkanem, ale została tam żywcem pogrzebana w krypcie.
+Nazwana po ciotce, [[Chalcia Pierwsza|Chalci Pierwszej]].

@@ -15,6 +15,6 @@ Chwała Wybrańcom Wyroczni!
 
 Jako strażnik Smoczej Kaplicy mam do Was prośbę. Wielu wierzy, że wszystkie smoki z potomstwa [[Balmytria|Balmytrii]] zginęły wraz z nią podczas Pierwszej Wojny, pięćset lat temu. Jednakże moje badania wskazują, że pozostałe cztery smoki mogły zostać schwytane przez Tytanów. Jeśli to prawda, należy je odnaleźć i uratować.
 
-Błagam, bądźcie czujni podczas Waszej podróży. Jako nieliczni Wybrańcy Wyroczni, wierzę, że te smoki będą wam służyć, o ile będziecie trzymali się ideałów ich dawnych panów. Niech [[Muza Wspomnień|Los]] was prowadzi.
+Błagam, bądźcie czujni podczas Waszej podróży. Jako nieliczni Wybrańcy Wyroczni, wierzę, że te smoki będą wam służyć, o ile będziecie trzymali się ideałów ich dawnych panów. Niech Los was prowadzi.
 
 — [[Aesop]], Strażnik Smoczej Kaplicy

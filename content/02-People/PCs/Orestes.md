@@ -13,7 +13,7 @@ image_prompt: male  minotaur, muscular build, powerful physique, broad shoulders
 
 ![Orestes](../../assets/Orestes.png)
 
-_Minotaur Barbarian, [[05-Lore/Epic Paths#The Doomed One (Skazany na Zagładę)|The Doomed One]]_
+_Minotaur Barbarian, [[05-Lore/Epic Paths#The Doomed One (Zgubiony)|The Doomed One]]_
 _**Zgubiony**, który trzykrotnie przeciwstawił się śmierci i stawił jej czoła jak równy z równym._
 
 

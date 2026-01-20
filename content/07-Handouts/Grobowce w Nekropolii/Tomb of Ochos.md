@@ -7,18 +7,12 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Ochos
-
-_Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Telamok/index.md|Nekropolii]]_
-
-## Treść
 > **[[content/02-People/NPCs/Ochos Arkelander.md|OCHOS ARKELANDER]]**
 > 
 > **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Hexia.md|HEXII]]**
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 
-Grobowiec ten jest wyjątkowo prosty. Sarkofag pośrodku jest pozbawiony ozdób i wizerunku. Czuwa nad nim zgarbiony posąg z brązu bez twarzy.
-
-Większość malowideł na ścianach jest bezbarwna:
-*   **Wojna z Centaurami**: [[content/02-People/NPCs/Ochos Arkelander.md|Ochos]] prowadzący hoplitów na Wielkich Stepach przeciwko centaurom.
-*   **Formacje**: Sceny ukazujące mistrzostwo taktyczne — falangi, zamykające się kręgi oraz gwałtowne ataki rozbijające szeregi wroga.
+> W porównaniu z prawie każdym innym grobowcem, ten wygląda płasko i prosto. Sarkofag znajdujący się pośrodku pomieszczenia jest całkowicie pozbawiony ozdób, nie ma nawet twarzy mężczyzny wyrzeźbionej na jego szarej powierzchni. Nad sarkofagiem czuwa posąg z brązu bez twarzy, zgarbiony, z rękami dotykającymi marmuru.
+> 
+> Na ścianach nadal widnieją malowidła, ale w większości są bezbarwne: na każdym z nich konkretny człowiek zdaje się przewodzić grupie hoplitów na Wielkich Stepach, zawsze walczących z centaurami. Obrazy oferują zimne i efektowne piękno, hoplici przybierają różne, ale zawsze śmiercionośne formacje na każdym panelu: solidną falangę uderzającą z przodu; zamykający się długi krąg, zmuszający centaury do walki lub próby przeskoczenia nad nim, co kończy się niepowodzeniem; gwałtowny atak, szybko niszczący jedną stronę pola bitwy, aby natychmiast odwrócić się i naciskać na resztę, zmuszając wrogów do odwrotu.
