@@ -168,7 +168,7 @@ def process_directory(current_path, dirs, files):
             link_data.append((filename_no_ext, file_title))
 
     # Sort
-    link_data.sort(key=lambda x: x[1].lower())
+    link_data.sort(key=lambda x: x[0].lower())
     
     # Generate the bullet points string
     list_content = generate_list_content(link_data)

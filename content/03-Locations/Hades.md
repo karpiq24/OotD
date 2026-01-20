@@ -15,4 +15,4 @@ _Netherworld / Underworld_
 Królestwo zmarłych, do którego trafiają dusze po śmierci.
 
 ## Historia
-Miejsce, do którego została zesłana [[Yala]]. Rządzone (lub patrolowane) przez [[Lutheria|Lutherię]], Panią Snów.
+Miejsce, do którego została zesłana [[Yala]].

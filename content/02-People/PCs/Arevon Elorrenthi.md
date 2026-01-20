@@ -13,7 +13,7 @@ image_prompt: young  adult male elf, slender build, angular face, high cheekbone
 
 ![Arevon](../../assets/Arevon.png)
 
-_Elf Druid, [[05-Lore/Epic Paths#The Seeking One (Poszukiwacz)|The Seeking One]]_
+_Elf Druid, [[05-Lore/Epic Paths#The Seeking One (Poszukujący)|The Seeking One]]_
 _**Poszukujący**, który przybył z odległych krain i odnalazał ukryte tajemnice [[Thylea|Thylei]]._
 
 

@@ -16,7 +16,7 @@ _Streszczenie sztuki teatralnej opisującej romanse boga Pythora i zazdrość je
 
 ### Akt I
 
-Tragedia zaczyna się od [[Pythor|Pythora]], który szuka swojego miejsca na świecie w roli Boga Bitwy po rozpoczęciu się [[Przysięga Pokoju|Przysięgi Pokoju]]. Wygłasza kilka monologów na temat swojego obowiązku zachowania czujności przez następne 500 lat. [[Pythor]] przedstawiany jest jako ktoś, kto nie jest w stanie zbyt długo skupić się na żadnej pojedynczej rzeczy.
+Tragedia zaczyna się od [[Pythor|Pythora]], który szuka swojego miejsca na świecie w roli Boga Bitwy po rozpoczęciu się [[10 Przysięga Pokoju|Przysięgi Pokoju]]. Wygłasza kilka monologów na temat swojego obowiązku zachowania czujności przez następne 500 lat. [[Pythor]] przedstawiany jest jako ktoś, kto nie jest w stanie zbyt długo skupić się na żadnej pojedynczej rzeczy.
 
 Pierwszy akt kończy się odnalezieniem silnej elfiej kobiety o imieniu [[Hexia]], która została adoptowana do rodziny z czterema innymi siostrami. [[Pythor]] oznajmia, że jego celem w życiu staje się miłość do [[Hexia|Hexii]] z którą bierze ślub i porzuca bitwy przeciwko Tytanom.
 

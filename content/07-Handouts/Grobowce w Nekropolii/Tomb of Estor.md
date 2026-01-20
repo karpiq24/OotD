@@ -7,10 +7,6 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Estor
-
-_Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Telamok/index.md|Nekropolii]]_
-
-## Treść
 > **[[content/02-People/NPCs/Estor Arkelander.md|ESTOR ARKELANDER]]**
 > 
 > **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Arkyrania.md|ARKYRANII]]**
@@ -21,9 +17,6 @@ _Inskrypcja i opis grobowca w [[content/03-Locations/Kontynent Thylea/Góra Tela
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 
-W środku grobowca spoczywa krwistoczerwony sarkofag z obliczem krzyczącego i uśmiechniętego Estora. Ściany i sufit zdobią niepokojące murale:
-
-*   Masakra rdzennych ras: driad, satyrów, minotaurów i osadników. Detale ukazują odcięte kończyny i przerażenie na twarzach ofiar.
-*   Panel sufitowy: Estor unosi miecz przeciwko sześcio-rękim gigantom. Za nim znajduje się smok w pozie bólu, krzyczący z szeroko otwartą szczęką.
-
-Całość jest przesiąknięta czerwienią, podkreślając krwawy charakter rządów Lorda.
+> Wasz wzrok skierowany jest na środek grobowca, gdzie spoczywa krwistoczerwony sarkofag. Ma oblicze mężczyzny z szeroko otwartymi oczami i rozdziawionymi ustami, krzyczącego z wściekłości, a jednocześnie lekko uśmiechniętego. Ściany i sufit zdobią niepokojące murale: zamiast bohaterskich bitew, płaskorzeźby przedstawiają wysokiego mężczyznę dzierżącego duże jednoręczne ostrze, wznoszącego je przeciwko nieuzbrojonym driadom, satyrom, minotaurom, a nawet rasom osadników. Obraz jest niezwykle szczegółowy: niektórym postaciom odcięto kończyny, innym twarze na zawsze zamarły w przerażonych krzykach, a wiele z nich zostało głęboko ranionych przez ostrze Smoczego Lorda. Na obrazach dominuje kolor czerwony, widać każdą kroplę krwi. U niektórych ofiar na policzkach pojawiają się strumienie łez.
+> 
+> Panel sufitowy jest szczególnie mrożący krew w żyłach: mężczyzna unosi miecz przeciwko nieuzbrojonej grupie [[content/05-Lore/History of Thylea.md#The First War (Pierwsza Wojna)|6-rękich gigantów (Gyganów)]]. Jeden z nich, większy od pozostałych, powstaje przeciwko wojownikowi pomimo wyraźnego strachu w jego oczach; inni, zbyt mali, kulą się ze strachu. Za Smoczym Lordem znajduje się smok in nieoczekiwanej pozie: leży na podłodze, z przednimi nogami rozłożonymi do przodu i otwartymi dłońmi skierowanymi w stronę nieba. Jest zwrócony twarzą do mężczyzny z szeroko otwartymi oczami, a jego długa szczęka otwiera się, jakby krzyczała z bólu.

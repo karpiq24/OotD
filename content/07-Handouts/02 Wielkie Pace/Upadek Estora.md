@@ -31,6 +31,6 @@ W ostatnim akcie [[Estor Arkelander|Estor]] powraca i odnajduje martwe smoki i S
 
 Następna scena przedstawia [[Estor Arkelander|Estora]] żeglującego na wietrze, walczącego u boku Pięciu Bogów. Bitwy kończą się zwycięstwem za zwycięstwem, ale [[Estor Arkelander|Estor]] nie wkłada w te bitwy serca.
 
-Ostatnia scena, która ma rozgrywać się w przyszłości, przedstawia [[Estor Arkelander|Estora]] kilkadziesiąt lat po złożeniu [[Przysięga Pokoju|Przysięgi Pokoju]], próbującego utrzymać jedność królestwa [[Mytros]] pod przywództwem Dowódcy Smoczych Lordów: [[Cosmo]]. Jest przedstawiany jako zirytowany słabą postawą, jaką dowódca zajmuje w ochronie osadników, jest zły na Bogów, że pozostawili Tytanów na wolności.
+Ostatnia scena, która ma rozgrywać się w przyszłości, przedstawia [[Estor Arkelander|Estora]] kilkadziesiąt lat po złożeniu [[10 Przysięga Pokoju|Przysięgi Pokoju]], próbującego utrzymać jedność królestwa [[Mytros]] pod przywództwem Dowódcy Smoczych Lordów: [[Cosmo]]. Jest przedstawiany jako zirytowany słabą postawą, jaką dowódca zajmuje w ochronie osadników, jest zły na Bogów, że pozostawili Tytanów na wolności.
 
 Na koniec wygłasza końcowy monolog o tym, jak zabierze swój potężny statek do [[Lutheria|Lutherii]], na jej diamentowy tron ​​w [[Morze Otchłani]] i zakończy ten impas raz na zawsze. Sztuka kończy się, gdy jego załoga wypływa ze sceny.

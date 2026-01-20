@@ -13,7 +13,7 @@ Pochodzisz z rodu, który został przeklęty wieki temu za czyny przodka, który
 ## The Demi-God (Półbóg)
 Jesteś śmiertelnym dzieckiem Pythora, boga bitwy. Twoja matka została porwana przez zielonego smoka, gdy byłeś mały. Wyrocznia przewidziała, że możesz dołączyć do panteonu, jeśli wykonasz trzy wielkie prace i odkupisz swojego ojca, który popadł w rozpacz. (Inspiracja: Herakles).
 
-## The Doomed One (Skazany na Zagładę)
+## The Doomed One (Zgubiony)
 Urodziłeś się pod złym znakiem, wieszczącym zagładę o epickich rozmiarach. Twoi rodzice zginęli w tajemniczych okolicznościach. Wyrocznia wezwała cię, co oznacza, że twoja bezimienna zagłada nadeszła, ale może ona odzwierciedlać los całego świata. (Inspiracja: Achilles, Elric).
 
 ## The Dragonslayer (Zabójca Smoków)
@@ -52,8 +52,8 @@ Od zawsze słyszałeś głosy zmarłych. Twoja wielka miłość zniknęła, a po
 ## The Repentant One (Pokutnik)
 Byłeś niegdyś potężnym sfinksem, ale twoja pycha i okrucieństwo doprowadziły do upadku. Zostałeś oszukany przez Panią Snów i pozbawiony mocy, stając się śmiertelnikiem. Teraz szukasz odkupienia i sposobu na odzyskanie swojej prawdziwej formy. (Inspiracja: Kirke, Iggwilv).
 
-## The Seeking One (Poszukiwacz)
+## The Seeking One (Poszukujący)
 Jesteś odkrywcą z dalekich krain, którego statek rozbił się u wybrzeży Thylei. Twoje przybycie zostało przepowiedziane przez Wyrocznię. Chcesz zbadać tę mityczną krainę, odkryć losy Smoczych Władców i zapisać sekrety Thylei. (Inspiracja: Karol Darwin, Ferdynand Magellan).
 
-## The Timeless One (Ponadczasowy)
+## The Timeless One (Wieczny)
 Jesteś dzieckiem Versi, Tytanki Proroctwa. Ukryty na Wyspie Czasu przed gniewem Sydona i Lutherii, spędziłeś tam wieki, nie starzejąc się. Powróciłeś niedawno do świata, by odzyskać laskę swojej matki i odnaleźć Zaginionych Tytanów. (Inspiracja: Zeus i Kronos, Kapitan Ameryka).

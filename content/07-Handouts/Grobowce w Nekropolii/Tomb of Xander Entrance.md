@@ -7,14 +7,11 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Xander Entrance
-
-_Opis wejścia do grobowca [[content/02-People/NPCs/Xander.md|Xandera]] w [[content/03-Locations/Kontynent Thylea/Góra Telamok/index.md|Nekropolii]]_
-
-## Treść
-Wejście jest osłonięte portykiem z kolumnami w kształcie śmiertelnych wojowników. Główne wejście blokuje płyta z lwami:
-
-> **[[content/02-People/NPCs/Xander.md|XANDER HUORATH]]**
+> Wejście jest wykonane z marmuru wyrzeźbionego w zboczu góry, ale wygląda na stare. Jest osłonięty imponującym portykiem ze zniszczonymi kolumnami w kształcie posągów, ale zamiast smoków konstrukcję podtrzymują śmiertelni wojownicy. Silni mężczyźni i kobiety w napierśnikach i hełmach.
 > 
+> Wejście do grobowca blokuje ciężka, rzeźbiona płyta, po bokach której stoją dwa posągi siedzących lwów. Pośrodku bryły znajduje się uchwyt z brązu, a nad nią znajdują się słowa wyryte w marmurze.
+
+> **[[content/02-People/NPCs/Xander.md|XANDER HUORATH]]**  
 > **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Balmytria.md|BALMYTRII]]**
 > 
 > Ten człowiek zdobył koronę nieśmiertelnej chwały,  
@@ -22,24 +19,29 @@ Wejście jest osłonięte portykiem z kolumnami w kształcie śmiertelnych wojow
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 
-### Boczne Komnaty
-Wokół wejścia znajdują się cztery mniejsze komnaty:
+> Wokół tego okazałego wejścia znajdują się cztery mniejsze komnaty, po dwie z każdej strony, podobne do wszystkich innych grobowców wokół [[content/03-Locations/Kontynent Thylea/Góra Telamok.md#Nekropolia|Nekropolii]]. Wszystkie zostały zasklepione zwykłymi kamiennymi płytami. Od lewej do prawej, można odczytać napisy wyryte w płytach:
 
-1.  **[[content/02-People/NPCs/Aetius.md|AETIUS]]** (Przyjaciel i Powiernik)
-    > Żyłem najlepiej jak mogłem, a potem umarłem.  
-    > Uważaj gdzie stąpasz,  
-    > grób jest szeroki.
+> **AETIUS  
+> PRZYJACIEL I POWIERNIK**
+> 
+> Żyłem najlepiej jak mogłem, a potem umarłem.  
+> Uważaj gdzie stąpasz,  
+> grób jest szeroki.
 
-2.  **[[content/02-People/NPCs/Aster.md|ASTER]]** (Żona i Przewodnik)
-    > Lśnij, póki żyjesz,  
-    > gorej bez smutku,  
-    > albowiem życie jest krótkie,  
-    > a czas, złodziejem.
+> **ASTER  
+> ŻONA I PRZEWODNIK**
+> 
+> Lśnij, póki żyjesz,  
+> gorej bez smutku,  
+> albowiem życie jest krótkie,  
+> a czas, złodziejem.
 
-3.  **[[content/02-People/NPCs/Eustace.md|EUSTACE]]** (Najlepszy Chłopiec)
-    > Ty, który przechodzisz tą ścieżką,  
-    > jeśli przypadkiem ujrzysz ten pomnik.  
-    > Nie śmiej się, błagam, choć to grób psa.  
-    > Łzy spadły na mnie, mistrz obsypał mnie popiołem.
+> **EUSTACE  
+> NAJLEPSZY CHŁOPIEC**
+> 
+> Ty, który przechodzisz tą ścieżką,  
+> jeśli przypadkiem ujrzysz ten pomnik.  
+> Nie śmiej się, błagam, choć to grób psa.  
+> Łzy spadły na mnie, mistrz obsypał mnie popiołem.
 
-4.  **Pusta Komnata**: Płyta bez nazwy ani epitafium.
+> Płyta przy ostatnim wejściu nie ma nazwy ani epitafium.

@@ -19,7 +19,7 @@ _Autor nieznany_
 
 ### Wstęp: Cisza na Niebiosach
 
-Gdy ucichły szczęk oręża i krzyki umierających po Pierwszej Wojnie, a [[Przysięga Pokoju]] spowiła Thyleę swym kruchym całunem, na niebie zapanowała nienaturalna cisza. Zniknęły potężne sylwetki smoków, które przez lata były zarówno symbolem nadziei dla osadników, jak i zwiastunem zniszczenia dla ich wrogów.
+Gdy ucichły szczęk oręża i krzyki umierających po Pierwszej Wojnie, a [[10 Przysięga Pokoju|Przysięga Pokoju]] spowiła Thyleę swym kruchym całunem, na niebie zapanowała nienaturalna cisza. Zniknęły potężne sylwetki smoków, które przez lata były zarówno symbolem nadziei dla osadników, jak i zwiastunem zniszczenia dla ich wrogów.
 
 Los srebrnej królowej, [[Balmytria|Balmytrii]], jest nam znany i opłakiwany. Jej doczesne szczątki spoczęły w monumentalnym grobowcu w [[Góra Telamok|Nekropolii Telamok]], milczącym świadectwie jej ostatecznego poświęcenia. Jednakże los pozostałych czterech z jej rodu – jej brązowego potomstwa, które wraz ze swymi jeźdźcami stanowiło trzon Zakonu – pozostaje jedną z największych nierozwiązanych zagadek naszej historii. Ostatnie wiarygodne relacje umiejscawiają ich w pobliżu Złotego Serca, tuż przed kulminacyjnymi dniami wojny, gdy losy świata wisiały na włosku. Co stało się z Wielką Czwórką? Co sprawiło, że zniknęły bez śladu?
 
@@ -33,7 +33,7 @@ Każdy ze smoków mógł paść ofiarą z innego powodu, jako celny cios wymierz
     
 *   **[[Raspytrion]]**, wierny towarzysz pięknego, lecz próżnego [[Adonis Neurdagon|Adonisa Neurdagona]]. Czyż [[Lutheria]], Pani Snów i ułudy, nie mogłaby z łatwością zwabić go w pułapkę, obiecując mu odbicie jego wspaniałości w tysiącu magicznych luster, tylko po to, by go zniewolić?
     
-*   **[[Arkyrania]]**, smoczyca dosiadana przez budzącego grozę [[Estor Arkelander|Estora Arkelandera]]. Jej los mógł być bezpośrednią zemstą za okrucieństwa, jakich dopuścił się jej jeździec na ludach fey, dzieciach [[Lutheria|Lutherii]]. Być może to właśnie jej schwytanie było ceną za rzeź [[Gygani|Gyganów]].
+*   **[[Arkyrania]]**, smoczyca dosiadana przez budzącego grozę [[Estor Arkelander|Estora Arkelandera]]. Jej los mógł być bezpośrednią zemstą za okrucieństwa, jakich dopuścił się jej jeździec na ludach fey, dzieciach [[Lutheria|Lutherii]]. Być może to właśnie jej schwytanie było ceną za rzeź [[Gyganie|Gyganów]].
     
 *   **[[Sybolkorax]]**, potężny smok [[Rizon Phobas]], jedynej z przywódców, która przeżyła wojnę. Czy to możliwe, że jego ofiara – jego dobrowolne poddanie się lub heroiczna, przegrana walka w obronie innych – pozwoliła [[Rizon Phobas|Rizon]] ujść z życiem? Byłaby to tragedia godna największych eposów.
     
