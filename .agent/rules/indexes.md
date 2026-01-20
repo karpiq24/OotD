@@ -13,10 +13,8 @@ This rule applies whenever any content file (Markdown, etc.) is:
 - Changed (if the change affects the title/link representation)
 
 ## Action
-Always update the corresponding `index.md` file in the same directory (and potentially parent directories if necessary) to reflect the correct state of the content.
-
-### Details
-1. **Creation**: Add a link to the new file in the `index.md` of the directory.
-2. **Deletion**: Remove the link to the deleted file from `index.md`.
-3. **Move**: Remove from old `index.md`, add to new `index.md`.
-4. **Rename**: Update the link text and target in `index.md`.
+Instead of manually updating `index.md` files, run the update script:
+```bash
+python3 scripts/update_indexes.py
+```
+This script will recurse through the `content/` directory and update/regenerate all `index.md` files with correct links and titles, preserving existing descriptions and non-list content.
