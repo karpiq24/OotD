@@ -38,7 +38,7 @@ _
 
 ### 1 Dawn Age
 
-Mój brat [[Telamok]] jest głupcem. Powinien był poczekać, aż ja i mój statek zaatakujemy [[Praxys]]. Powiedziałem mu, że mam rozwiązanie, ale zdecydował, że nadszedł czas na pokaz siły z jego nowymi bogami. Nie chciał czekać, aż mój plan przyniesie owoce. Jak zwykle, za dużo w nim polityka, a za mało generała. Dlaczego tak wielu nadal podąża jego śladem? Nie wiem. Jego wyprawa z próżnym [[Adonis]]em jest skazana na porażkę bez mojego Ultrosa. Ci nowi bogowie, na których tak bardzo liczy, mają zbyt miękkie serca, nie są wystarczająco silni: nie zdołają zabić Tytanów.
+Mój brat [[Telamok Arkelander|Telamok]] jest głupcem. Powinien był poczekać, aż ja i mój statek zaatakujemy [[Praxys]]. Powiedziałem mu, że mam rozwiązanie, ale zdecydował, że nadszedł czas na pokaz siły z jego nowymi bogami. Nie chciał czekać, aż mój plan przyniesie owoce. Jak zwykle, za dużo w nim polityka, a za mało generała. Dlaczego tak wielu nadal podąża jego śladem? Nie wiem. Jego wyprawa z próżnym [[Adonis]]em jest skazana na porażkę bez mojego Ultrosa. Ci nowi bogowie, na których tak bardzo liczy, mają zbyt miękkie serca, nie są wystarczająco silni: nie zdołają zabić Tytanów.
 
 _  
 …Kilka wpisów dalej…  
@@ -61,7 +61,7 @@ _
 
 ### 0 Dawn Age
 
-Ekspedycja na [[Praxys]] przyniosła zaskakujące rezultaty. Tak jak się spodziewałem, flota została zatopiona, armia zniszczona, a ocalałych było niewielu. Mój drogi [[Telamok]] zostanie zapamiętany jako sprawca tej porażki. Jego miasto już zmieniło nazwę na [[Mytros]], historia o nim zapomni! Przyćmię go!
+Ekspedycja na [[Praxys]] przyniosła zaskakujące rezultaty. Tak jak się spodziewałem, flota została zatopiona, armia zniszczona, a ocalałych było niewielu. Mój drogi [[Telamok Arkelander|Telamok]] zostanie zapamiętany jako sprawca tej porażki. Jego miasto już zmieniło nazwę na [[Mytros]], historia o nim zapomni! Przyćmię go!
 
 Nowi bogowie zdołali uzyskać przysięgę pokoju od Tytanów! Muszę stworzyć sobie nowe królestwo w tym nowym świecie!
 

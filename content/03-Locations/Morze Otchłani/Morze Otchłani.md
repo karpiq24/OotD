@@ -10,13 +10,13 @@ population: Potwory, Podwodne Cywilizacje
 
 ![Placeholder](../../assets/placeholder.png)
 
-Najgłębsza i najmroczniejsza część wód otaczających Thyleę, domena legendarnego Krakena i innych groźnych stworzeń.
+Najgłębsza i najmroczniejsza część wód otaczających Thyleę, domena Pani Śmierci i Bogini Snów [[Lutheria|Lutherii]].
 
 ## Ciekawe Miejsca
 - **Sześciany Morza Otchłani**: Tajemnicze więzienia lub struktury wspomniane w [[List do Lutherii|Liście do Lutherii]].
 
 ## Mieszkańcy
-- Kraken (rzekomy mieszkaniec)
+- [[Lutheria]]
 - Uwięzione stworzenia w "sześcianach"
 
 ## Historia

@@ -18,7 +18,7 @@ _Legendarni bohaterowie dosiadający smoków._
 - [[Xander]]
 - [[Rizon Phobas]]
 - [[Adonis Neurdagon]]
-- [[Telamok]]
+- [[Telamok Arkelander]]
 - [[Estor Arkelander]]
 - [[Damon]]
 

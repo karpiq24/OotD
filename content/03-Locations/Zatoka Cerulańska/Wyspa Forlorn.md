@@ -11,6 +11,7 @@ population: Uninhabited (Monsters)
 ![Placeholder](../../assets/placeholder.png)
 
 Przeklęta wyspa, na której znajduje się kompleks świątynny skrywający potężną bestię.
+Zwana też Wyspą Chimery.
 
 ## Ciekawe Miejsca
 - **Kompleks Świątynny**: Starożytne ruiny opanowane przez potężne stworzenie.

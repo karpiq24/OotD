@@ -11,7 +11,7 @@ type: Wiersz / Mit
 _Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
-Wiersz o śmiertelniku, który z pychy pragnął powozić rydwanem [[Helios|Heliosa]] i ukraść złoto słońca. Jego marzenia zostały spalone przez ogniste rumaki, a on sam oślepiony. Jednak Helios okazał litość i przyjął go do swego boku.
+Wiersz o śmiertelniku, który z pychy pragnął powozić rydwanem [[Ogród Heliosa/Helios|Heliosa]] i ukraść złoto słońca. Jego marzenia zostały spalone przez ogniste rumaki, a on sam oślepiony. Jednak Helios okazał litość i przyjął go do swego boku.
 
 > W krainie bogów i nieskończonych niebios,
 > 

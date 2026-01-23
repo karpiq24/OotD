@@ -3,11 +3,11 @@ title: Zakon Sydona
 tags:
   - faction
   - organization
-leader: [[Gaius]], [[Hergeron Pierwszy]]
-headquarters: [[Praxys]], [[Mytros]] (incognito)
+leader: [[Gaius]], [[Hergeron]]
+headquarters: [[Praxys]], [[Mytros]]
 ---
 
-# ⚔️ Zakon Sydona
+# Zakon Sydona
 
 _Zakon wojowników i kapłanów oddanych Sydonowi, Panu Burz._
 
@@ -21,7 +21,7 @@ Organizacja militarno-religijna dążąca do przywrócenia panowania Tytanów na
 
 ## Kluczowe Postacie
 - [[Gaius]] (Dowódca Zakonu)
-- [[Hergeron Pierwszy]] (Boski patron i strateg)
+- [[Hergeron]] (Boski patron i strateg)
 
 ## Historia
 Zakon zdobył znaczne wpływy w Mytros, gdzie planuje sabotaż wewnętrzny (otwarcie bram, eliminacja dowódców) w momencie wygaśnięcia Przysięgi Pokoju.

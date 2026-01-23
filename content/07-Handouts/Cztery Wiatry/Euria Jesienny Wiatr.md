@@ -34,4 +34,4 @@ _Opowieść [[Euria|Eurii]], Jesiennego Wiatru_
 > 
 > Podążając, w końcu dotarłam do tej świątyni. Wyglądałaby na opuszczoną, gdyby nie jedna rzecz. Statua wspaniałego mężczyzny, wykonana ze złota, wysoki, silny i piękny. Gryf złożył pokłon mężczyźnie i wyruszył w swoją drogę. Ja zostałam i spędziliśmy tę noc razem. Nie spałam, nasze ciała poruszały się namiętnie, a mój umysł wypełniły niesamowite sny na jawie. Unosiłam się w powietrzu w ramionach złotego mężczyzny, stojąc na potężnym rydwanie, gwiazdy śpiewały na jego cześć, kiedy je mijaliśmy. Doznałam epifanii.
 > 
-> Rano zdecydowałam, że nigdy już nie opuszczę tego miejsca. To tutaj miałam się znaleźć. Byłam już pewna, to [[Helios]] jest jedynym prawdziwem bóstwem Thylei.
+> Rano zdecydowałam, że nigdy już nie opuszczę tego miejsca. To tutaj miałam się znaleźć. Byłam już pewna, to [[Ogród Heliosa/Helios]] jest jedynym prawdziwem bóstwem Thylei.

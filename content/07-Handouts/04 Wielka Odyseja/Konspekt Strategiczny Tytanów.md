@@ -32,9 +32,9 @@ _Zarys planu operacyjnego mającego na celu przywrócenie panowania Tytanów (Sy
 
 ~„Dzięki zręcznym i subtelnym machinacjom [[Lutheria|Lutherii]], Pani Snów, dumne Amazonki z [[Themis]] są całkowicie pod naszym wpływem. Stanowią największą śmiertelną siłę morską na Morzu Ceruleańskim – poza niekwestionowaną potęgą floty [[Sydon|Sydona]] – i być może najgroźniejszych wojowników lądowych, jakich widziała [[Thylea]]. Gdy dowodzi nimi nieustraszona [[Yala]], wątpię, by ktokolwiek na morzu mógł im się przeciwstawić. Falangi [[Mytros]], a nawet osławione oddziały z [[Arezja|Arezji]], zadrżą przed ich furią. Ich zadaniem będzie odcięcie [[Mytros]] od wszelkich morskich sojuszników i wsparcie naszego desantu.”~
 
-**~Sekcja VI: Barbarzyńcy z Wyspy Indigo – Neutralizacja Zagrożenia~**
+**~Sekcja VI: Barbarzyńcy z Wyspy Indygo – Neutralizacja Zagrożenia~**
 
-~„Barbarzyńcy z [[Wyspa Indigo|Wyspy Indigo]] mogliby okazać się użyteczni jako siła dywersyjna, jednak ich dzika natura i brak dyscypliny czynią ich wysoce nieprzewidywalnymi. Zdecydowaliśmy zatem o innym podejściu. Wysłaliśmy tam [[Ventis]], jedną z najpotężniejszych hodowlanych, miedzianych smoków [[Sydon|Sydona]]. Jej zadaniem jest sprowokowanie wewnętrznych walk i chaosu między plemionami. Jeśli my nie możemy ich skutecznie wykorzystać, zadbamy o to, by nikt inny również nie mógł tego zrobić. Zneutralizowana [[Wyspa Indigo]] nie będzie stanowić ani zagrożenia, ani potencjalnego wsparcia dla naszych wrogów.”~
+~„Barbarzyńcy z [[Wyspa Indygo|Wyspy Indygo]] mogliby okazać się użyteczni jako siła dywersyjna, jednak ich dzika natura i brak dyscypliny czynią ich wysoce nieprzewidywalnymi. Zdecydowaliśmy zatem o innym podejściu. Wysłaliśmy tam [[Ventis]], jedną z najpotężniejszych hodowlanych, miedzianych smoków [[Sydon|Sydona]]. Jej zadaniem jest sprowokowanie wewnętrznych walk i chaosu między plemionami. Jeśli my nie możemy ich skutecznie wykorzystać, zadbamy o to, by nikt inny również nie mógł tego zrobić. Zneutralizowana [[Wyspa Indygo]] nie będzie stanowić ani zagrożenia, ani potencjalnego wsparcia dla naszych wrogów.”~
 
 **Sekcja VII: Mytros – Ostateczne Starcie**
 
