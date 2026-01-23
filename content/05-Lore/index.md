@@ -4,6 +4,7 @@ title: Lore
 
 # Lore
 
+- [[Bestiariusz]]
 - [[Epic Paths]]
 - [[Factions of Thylea]]
 - [[History of Thylea]]
