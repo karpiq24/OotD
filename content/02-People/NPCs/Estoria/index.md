@@ -6,3 +6,6 @@ title: Estoria
 
 - [[Aesop]]
 - [[Anora]]
+- [[Galimus]]
+- [[Lakan]]
+- [[Lysis Arkelander]]

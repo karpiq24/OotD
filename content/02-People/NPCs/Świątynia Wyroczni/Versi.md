@@ -3,22 +3,28 @@ title: Versi
 tags:
   - person
   - npc
-race:
-gender: Female
+race: Nimfa
+gender: Żeńska
 occupation: Wyrocznia
-affiliation:
-image_prompt:
+affiliation: Niezależna
+image_prompt: A mystical water nymph rising from steaming hot springs, surrounded by ancient stone columns.
 ---
 
-# Versi
+# Versi (Wyrocznia)
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Wyrocznia Thylei_
+_Słynna nimfa wodna obdarzona darem proroctwa._
 
 ## Opis
-Córka [[Sydon|Sydona]].
+Versi, znana powszechnie jako **Wyrocznia**, zamieszkuje gorące źródła pod [[Świątynia Wyroczni|Świątynią Wyroczni]] na południe od [[Estoria|Estorii]]. Posiada dar proroctwa, a jej przepowiedni słuchają zarówno bogowie, jak i królowie.
+
+Jest córką [[Sydon|Sydona]], ale mimo swojego pochodzenia zawsze darzyła śmiertelników z [[Thylea|Thylei]] szczególną sympatią. Jest otoczona przez wielu wiernych kapłanów.
 
 ## Historia
-Przepowiedziała los bohaterów. Nosi imię po ubiotej ciotce - [[Versi Pierwsza|Versi Pierwszej]].
-To ona wezwała bohaterów przez poetkę w służbie Wyroczni.
+Versi przepowiedziała **Zagładę Thylei** (Doom of Thylea), która ma nadejść wraz z końcem [[10 Przysięga Pokoju|Przysięgi Pokoju]]. To ona wezwała bohaterów, aby spróbowali zapobiec tej katastrofie.
+
+Nosi imię po swojej ubitej ciotce - [[Versi Pierwsza|Versi Pierwszej]].
+
+## Lokacja
+- [[Świątynia Wyroczni]]

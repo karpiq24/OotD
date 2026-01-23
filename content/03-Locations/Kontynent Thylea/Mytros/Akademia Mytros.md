@@ -12,5 +12,7 @@ population: Studenci, Magowie
 
 Centrum wiedzy i magii w Mytros.
 
+Oprócz nauczania magii, jest to także miejsce studiowania filozofii i innych dziedzin intelektualnych. Obecnie składa się z wielu kolegiów poświęconych różnym szkołom magii (dywinacji, ewokacji itp.) oraz strzeżeniu wiedzy o Thylei. Jest to również miejsce, gdzie wspiera się zainteresowania teatrem, pieśnią i innymi sztukami.
+
 ## Historia
-Założona przez [[Damon|Damona]], wielkiego czarodzieja Smoczych Lordów.
+Założona wieki temu przez [[Damon|Damona]], wielkiego czarodzieja Smoczych Lordów, jako główne centrum wiedzy w Thylei.

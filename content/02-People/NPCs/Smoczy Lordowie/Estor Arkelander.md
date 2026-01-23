@@ -24,6 +24,7 @@ Okrutny, ambitny, pragnący nieśmiertelności i chwały. Nienawidzi Tytanów, a
 
 ## Historia
 Pierwszy Smoczy Lord, dzierżył potężne bronie przeciwko Tytanom.
-Kapitan statku [[Ultros]]. Wraz z załogą zawarł pakt z [[Lutheria]], zyskując "nieśmiertelność", która okazała się klątwą wiecznego gnicia bez śmierci. Zamordował swoich oficerów jako ofiarę dla Lutherii.
+Kapitan statku [[Ultros]]. Po utracie smoków, Smoczy Lordowie zbudowali flotę i wyruszyli na morze. Mówi się, że Estor pożeglował w same głębiny zaświatów, gdzie [[Lutheria]] śpi na swoim diamentowym tronie.
+Wraz z załogą zawarł pakt z [[Lutheria]], zyskując "nieśmiertelność", która okazała się klątwą wiecznego gnicia bez śmierci. Zamordował swoich oficerów jako ofiarę dla Lutherii.
 Jego brat to [[Telamok Arkelander|Telamok]]. Gardzi [[Xander]]em i [[Adonis Neurdagon|Adonisem]].
 Sprawca zagłady Gyganów na [[Wyspa Yonder]] i [[Wyspa Mojr]].
