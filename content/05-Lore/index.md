@@ -7,6 +7,7 @@ title: Lore
 - [[Epic Paths]]
 - [[Factions of Thylea]]
 - [[History of Thylea]]
+- [[Menaidy]]
 - [[Mythic Heroism]]
 - [[Myths of Thylea]]
 - [[Races]]

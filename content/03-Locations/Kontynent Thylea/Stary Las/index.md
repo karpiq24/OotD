@@ -4,5 +4,4 @@ title: Stary Las
 
 # Stary Las
 
-- [[Delphia]]
-- [[Demetria]]
+- [[Świątynia w Starym Lesie]]

@@ -14,11 +14,12 @@ value: Wysoka
 _Księga Zaklęć, Rzadki_
 
 ## Opis
-Księga zaklęć zawierająca czary nekromancji, iluzji i kwasu/trucizny.
+Mroczny tom oprawiony w ludzką skórę, wydzielający niepokojącą aurę. Zawiera czary nekromancji, iluzji i kwasu/trucizny.
 
 ## Właściwości
-Zawiera następujące zaklęcia:
+Zawiera mroczne rytuały i czary, w tym szczegółowy opis rytuału przemiany, który zmienia ludzką kobietę w [[Menaidy|Menaidę]].
 
+### Zaklęcia
 **1. Krąg**
 *   False Life
 *   Ray of Sickness
@@ -46,4 +47,5 @@ Zawiera następujące zaklęcia:
 *   Arcane Eye
 
 ## Historia
-Tytuł sugeruje związek z Menadami, szalonymi wyznawczyniami.
+Księga została napisana przez samą [[Lutheria|Lutherię]] i przekazana [[Demetria|Demetrii]], aby ta mogła tworzyć nowe sługi dla Pani Snów. Tytuł sugeruje związek z [[Menaidy|Menaidami]], szalonymi wyznawczyniami. Została znaleziona przez bohaterów w [[Świątynia w Starym Lesie]].
+
