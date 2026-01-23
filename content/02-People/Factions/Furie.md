@@ -4,11 +4,8 @@ tags:
   - faction
   - organization
   - gods
-race: Bóstwa / Istoty Niebiańskie
-gender: Żeńska
-occupation: Mścicielki
-affiliation: Prawo Naturalne
-image_prompt: Three winged terrifying goddesses of vengeance, with snaky hair and scourges, hunting oathbreakers.
+leader: []
+headquarters: []
 ---
 
 # Furie
@@ -18,10 +15,22 @@ image_prompt: Three winged terrifying goddesses of vengeance, with snaky hair an
 _Mścicielki ścigające tych, którzy łamią święte prawa._
 
 ## Opis
-Furie (Furies) to przerażające, skrzydlate istoty, które służą jako egzekutorki naturalnych praw Thylei. Są arbitrami sporów dotyczących złamania **Prawa Gościnności** (Guest Friendship) oraz **Świętych Przysiąg** (Sacred Oaths).
+Furie (Furies) to przerażające, skrzydlate istoty (bóstwa), które służą jako egzekutorki naturalnych praw Thylei. Są arbitrami sporów dotyczących złamania **Prawa Gościnności** (Guest Friendship) oraz **Świętych Przysiąg** (Sacred Oaths).
 
 Ścigają każdego, kto zostanie obłożony **Klątwą Zdrajcy** (Curse of the Treacherous), nękając go bez litości. Niewielu jest na tyle głupich, by dobrowolnie narazić się na ich gniew.
 
-## Rola
+## Cele
 - Egzekwowanie kary za złamanie przysięgi (Oathbreaker).
 - Ściganie łamiących zasady gościnności.
+
+## Siedziba
+Brak stałej siedziby. Pojawiają się tam, gdzie złamano prawo.
+
+## Członkowie
+Trzy skrzydlate boginie zemsty z wężowymi włosami i biczami.
+
+## Relacje
+- **Patron**: Prawo Naturalne.
+
+## Historia
+TBD

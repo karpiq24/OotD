@@ -1,11 +1,9 @@
 ---
 title: Smoczy Lordowie
-tags: [person, faction]
-race: Różne
-gender:
-occupation: Wojownicy, Jeźdźcy Smoków
-affiliation:
-image_prompt:
+tags:
+  - faction
+leader: []
+headquarters: []
 ---
 
 # Smoczy Lordowie
@@ -14,6 +12,15 @@ image_prompt:
 
 _Legendarni bohaterowie dosiadający smoków._
 
+## Opis
+Legendarni bohaterowie dosiadający smoków, którzy przybyli do Thylei.
+
+## Cele
+Osiedlenie się i walka z Tytanami.
+
+## Siedziba
+Różne królestwa (Mytros, Estoria, Aresia).
+
 ## Członkowie
 - [[Xander]]
 - [[Rizon Phobas]]
@@ -21,6 +28,10 @@ _Legendarni bohaterowie dosiadający smoków._
 - [[Telamok Arkelander]]
 - [[Estor Arkelander]]
 - [[Damon]]
+
+## Relacje
+- **Sojusznicy**: [[Pięciu Bogów]].
+- **Wrogowie**: Tytani, [[Gyganie]], [[Centuary]].
 
 ## Historia
 Przybyli do Thylei, by osiedlić się i walczyć z Tytanami.

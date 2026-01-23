@@ -7,69 +7,61 @@ description: Extracts entities (NPCs, Locations, Items, Lore, Handouts) from RPG
 
 This skill allows the agent to process session recaps and raw input files to update the D&D Campaign Wiki.
 
-## 1. Input Processing
-The agent should look for content in two places:
-1.  **Direct Text**: Provided by the user in the chat.
-2.  **Input Directory**: Files located in `input/`.
+## 1. Input Processing Strategy (Manual Agentic Workflow)
 
-### File Type Handling
-Check file extensions in `input/` and handle accordingly:
+The agent must manually read, analyze, and process each file. **Do not rely on scripts for content extraction** due to inconsistent formats.
 
--   **`.md` (Markdown)**:
-    -   **Session Logs**: If filename contains "Sesja" (e.g., `Sesja 64 - Tytuł.md`), move directly to `content/01-Sessions/`. Update the Session Index.
-    -   **Handouts**: If content looks like a letter/note, move to `content/07-Handouts/`.
-    -   **Source Content**: Otherwise, parse text to extract entities.
+### Core Loop
+For each target file in `input/`:
+1.  **READ**: Read the full content of the file.
+2.  **IDENTIFY**: Determine the type (Session Recap, Handout, Source Material).
+3.  **PARSE**: Go through the content section by section (or paragraph by paragraph).
+4.  **LINK/CREATE**: For every proper noun (Person, Place, Item), check if it exists in the wiki. Link it or create it.
+5.  **HANDLE ASSETS**: Move linked images/videos to appropriate asset folders and update links.
+6.  **MOVE**: Move the processed file to its final destination in `content/`.
 
--   **`.txt` (Text)**:
-    -   **Handouts**: Can be letters, riddles, or notes. Convert to `.md` in `content/07-Handouts/`.
-    -   **Raw Notes**: Parse for entities (NPCs, Locations) to update the Wiki.
+## 2. File Type Handling
 
--   **`.pdf` (PDF)**:
-    -   **Campaign Books**: Treat as large source material. Structure might be complex.
-    -   **Action**: Extract text. Identify sections (Headers).
-    -   **Parsing**: Break down into individual entities:
-        -   Characters -> `content/02-People/`
-        -   Locations -> `content/03-Locations/`
-        -   Lore/Rules -> `content/05-Lore/` or `content/06-Rules/`
+-   **Session Recaps** (e.g., "Sesja 64..."):
+    -   **Destination**: `content/01-Sessions/`
+    -   **Assets**: Create a subdirectory `content/assets/sessions/<Session Name>/`. Move all images/videos used in the recap there.
+    -   **Action**: Extract entities (NPCs, Locations) mentioned. Update the "Session Index" if one exists.
+-   **Handouts** (Letters, Notes, Images):
+    -   **Destination**: `content/07-Handouts/`
+    -   **Action**: Ensure it has a meaningful title. If it's an image, create a wrapper Markdown file.
+-   **Source Material** (Lore, Rulebooks):
+    -   **Destination**: `content/` (appropriate subfolder)
 
--   **`.png` / `.jpg` / `.webp` / `.mp4`**:
-    -   **Visual Handouts**: Move to `content/assets/`.
-    -   Create a reference file in `content/07-Handouts/`.
+## 3. Entity Linking and Creation Rules (CRITICAL)
 
-## 2. Entity Parsing
-**Goal**: Identify content for:
--   **People** (NPCs, PCs, Factions) -> `content/02-People/`
--   **Locations** (Cities, Dungeons, Kingdoms) -> `content/03-Locations/`
--   **Items** (Artifacts, Magic Items, Loot) -> `content/04-Items-and-Loot/`
--   **Lore** (Gods, History, events) -> `content/05-Lore/`
--   **Rules** (House rules mentioned) -> `content/06-Rules/`
--   **Handouts** (Visuals, Documents) -> `content/07-Handouts/`
+**Goal**: Every significant entity mentioned in the text must be wikilinked: `[[Entity Name]]`.
+**Constraint**: Do NOT modify the narrative content of the summary itself, only add wikilinks.
 
-## 3. File Management Rules
-For each identified entity:
-1.  **Search**: Check existence (`find_by_name`).
-2.  **Create (if new)**:
-    -   Create markdown file in correct subdirectory.
-    -   Use the standard Frontmatter template.
-    -   **Important**: If the input was a file in `input/`, **delete or archive** the input file after successful processing to keep the staging area clean.
-3.  **Update (if exists)**:
-    -   Append new info to "Notes" or "History".
+### The "Search First" Rule
+Before creating ANY new file or link:
+1.  **SEARCH**: Use `find_by_name` to see if the entity already exists.
+    -   *Example*: Input says "Kyrah the Goddess". Search for "Kyrah". Found `content/02-People/Kyrah.md`. Acknowledge existence.
+2.  **LINK**: In the text, replace "Kyrah the Goddess" with `[[Kyrah|Kyrah the Goddess]]`.
+    -   *Rule*: Always alias to the existing filename if the text differs.
 
-## 4. Templates
-When creating new files, you MUST use the templates located in the `resources/` directory of this skill.
-Read the template file using `view_file`, then populate it with extracted data.
+### The "Create with Template" Rule
+If the entity does **NOT** exist:
+1.  **DETERMINE TYPE**: Is it an NPC, Location, Item, or Handout?
+2.  **READ TEMPLATE**: Use `view_file` on the appropriate template in `.agent/skills/rpg-wiki-manager/resources/`.
+3.  **CREATE**: Create the new file in the correct directory using the template content.
+4.  **LINK**: Update the source text to link to this new file: `[[New Entity Name]]`.
 
-### Available Templates:
-- **NPCs**: `resources/NPC.md` (for Non-Player Characters)
-- **PCs**: `resources/PC.md` (for Player Characters)
-- **Locations**: `resources/Location.md` (for Cities, Dungeons, etc.)
-- **Items**: `resources/Item.md` (for Magic Items, Loot, etc.)
+## 4. Inconsistency Handling
 
-- **Handouts**: `resources/Handout.md` (for Maps, Letters, Images)
+-   **Ambiguous Names**: If "The Captain" is mentioned and you know who it is, link it: `[[Orestes|The Captain]]`.
+-   **Variant Spellings**: Fix spelling only if it's clearly a typo of a known name, and link it.
+-   **Missing Data**: If creating an NPC and you only know their name, fill the template with known info and leave others as "TBD" or empty. Do NOT invent information.
 
-## 5. Execution Flow
-1.  **Scan Input**: List files in `input/`.
-2.  **Process Files**: For each file, determine type and extract content.
-3.  **Parse & Link**: Identify entities and create wiki links.
-4.  **Update Wiki**: Write files to `content/`.
-5.  **Cleanup**: Remove processed files from `input/`.
+## 5. Templates
+
+You MUST use these templates for new files:
+-   **NPCs**: `resources/NPC.md`
+-   **Locations**: `resources/Location.md`
+-   **Items**: `resources/Item.md`
+-   **Handouts**: `resources/Handout.md`
+-   **Factions**: `resources/Faction.md`
