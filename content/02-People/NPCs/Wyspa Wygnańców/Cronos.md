@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Mężczyzna
 occupation: Były "Król" Wygnańców (Zmarły)
-affiliation: [[Wyspa Wygnańców]]
+affiliation: "[[Wyspa Wygnańców]]"
 ---
 
 # Cronos

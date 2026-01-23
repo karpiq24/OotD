@@ -3,7 +3,7 @@ title: Kult Lutherii
 tags:
   - faction
 leader: []
-headquarters: [[Mytros]], [[Winnice Mytros]]
+headquarters: "[[Mytros]], [[Winnice Mytros]]"
 ---
 
 # Kult Lutherii

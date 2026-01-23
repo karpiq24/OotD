@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Mężczyzna
 occupation: Strażnik Smoczej Kaplicy
-affiliation: [[Bohaterowie Przepowiedni]]
+affiliation: "[[Bohaterowie Przepowiedni]]"
 ---
 
 # Aesop

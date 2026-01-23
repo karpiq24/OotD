@@ -6,7 +6,7 @@ tags:
 race: Undead (formerly Human)
 gender: Male
 occupation: Kapitan [[Ultros]]
-affiliation: [[Smoczy Lordowie]]
+affiliation: "[[Smoczy Lordowie]]"
 image_prompt:
 ---
 

@@ -6,7 +6,7 @@ tags:
 race: Srebrny Smok
 gender: Kobieta
 occupation: Towarzyszka Gaiusa
-affiliation: [[Gaius]], [[Sydon]]
+affiliation: "[[Gaius]], [[Sydon]]"
 ---
 
 # Argyn

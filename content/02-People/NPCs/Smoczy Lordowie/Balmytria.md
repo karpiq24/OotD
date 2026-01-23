@@ -7,7 +7,7 @@ tags:
 race: Srebrny Smok
 gender: Female
 occupation: Przywódczyni Smoków
-affiliation: [[Smoczy Lordowie]]
+affiliation: "[[Smoczy Lordowie]]"
 image_prompt:
 ---
 

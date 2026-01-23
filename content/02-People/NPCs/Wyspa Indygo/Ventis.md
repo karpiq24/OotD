@@ -7,7 +7,7 @@ tags:
 race: Miedziany Smok
 gender: Kobieta
 occupation: Sługa Sydona
-affiliation: [[Sydon]], [[Wyspa Indygo]]
+affiliation: "[[Sydon]], [[Wyspa Indygo]]"
 ---
 
 # Ventis

@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Męski
 occupation: Pierwszy Smoczy Lord
-affiliation: [[Smoczy Lordowie]]
+affiliation: "[[Smoczy Lordowie]]"
 image_prompt:
 ---
 
