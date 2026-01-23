@@ -15,7 +15,6 @@ title: Estoria
 - [[Galimus]]
 - [[Korteva]]
 - [[Lakan]]
-- [[Lysis Arkelander]]
 - [[Lyssis Arkelander]]
 - [[Przyjazny Cyklop]]
 - [[Thobos]]
