@@ -18,6 +18,7 @@ title: Kontynent Thylea
 - [[Półwysep Arezyjski]]
 - [[Rzeka Arkelon]]
 - [[Stary Las]]
+- [[Stary Las]]
 - [[Wielkie Stepy]]
 - [[Xanderia]]
 - [[Ścieżka Umarłych]]

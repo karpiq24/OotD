@@ -18,6 +18,7 @@ title: Lista postaci niezależnych
 - [[Mytros]]
 - [[Nekropolia]]
 - [[Ogród Heliosa]]
+- [[Pholon]]
 - [[Pięciu Bogów]]
 - [[Sen Kasandry]]
 - [[Smoczy Lordowie]]

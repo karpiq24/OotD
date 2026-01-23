@@ -4,7 +4,8 @@ title: Items And Loot
 
 # Items And Loot
 
+- [[Hand of Kentiname]]
 - [[Kaduceusz Damona]]
-- [[Smoczy Róg]]
+- [[Róg Balmytrii]]
 - [[Spellbooks]]
 - [[Titansbane]]
