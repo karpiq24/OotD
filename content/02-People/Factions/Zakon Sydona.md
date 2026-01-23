@@ -3,8 +3,8 @@ title: Zakon Sydona
 tags:
   - faction
   - organization
-leader: [[Gaius]], [[Hergeron]]
-headquarters: [[Wyspa Yonder]], [[Praxys]]
+leader: "[[Gaius]], [[Hergeron]]"
+headquarters: "[[Wyspa Yonder]], [[Praxys]]"
 ---
 
 # Zakon Sydona

@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Mężczyzna
 occupation: Wygnaniec
-affiliation: [[Wyspa Wygnańców]]
+affiliation: "[[Wyspa Wygnańców]]"
 ---
 
 # Marius

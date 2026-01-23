@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Mężczyzna
 occupation: Wygnaniec, Seryjny morderca
-affiliation: [[Wyspa Wygnańców]]
+affiliation: "[[Wyspa Wygnańców]]"
 ---
 
 # Keelan

@@ -6,7 +6,7 @@ tags:
 race: Półelf
 gender: Mężczyzna
 occupation: Kapitan statku
-affiliation: [[Arevon Elorrenthi]]
+affiliation: "[[Arevon Elorrenthi]]"
 ---
 
 # Tars d’Lyrandar

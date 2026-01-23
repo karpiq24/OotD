@@ -4,8 +4,8 @@ tags:
   - faction
   - organization
   - criminal
-leader: [[Moxena|Lady of Coins]]
-headquarters: [[Mytros]]
+leader: "[[Moxena|Lady of Coins]]"
+headquarters: "[[Mytros]]"
 ---
 
 # Kult Węża

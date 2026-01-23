@@ -5,8 +5,8 @@ tags:
   - npc
 race: Człowiek
 gender: Mężczyzna
-occupation: "Król" Wygnańców
-affiliation: [[Wyspa Wygnańców]]
+occupation: '"Król" Wygnańców'
+affiliation: "[[Wyspa Wygnańców]]"
 ---
 
 # Stavros

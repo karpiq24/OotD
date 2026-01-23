@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Female
 occupation: Smoczy Lord
-affiliation: [[Smoczy Lordowie]]
+affiliation: "[[Smoczy Lordowie]]"
 image_prompt:
 ---
 

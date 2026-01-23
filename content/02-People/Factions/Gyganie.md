@@ -4,7 +4,7 @@ tags:
   - faction
   - race
 leader: []
-headquarters: [[Zatoka Cerulańska]]
+headquarters: "[[Zatoka Cerulańska]]"
 ---
 
 # Gyganie

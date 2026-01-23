@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Mężczyzna
 occupation: Król Mytros
-affiliation: [[Mytros]]
+affiliation: "[[Mytros]]"
 ---
 
 # Acastus

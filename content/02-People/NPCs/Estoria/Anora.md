@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Kobieta
 occupation: Królowa Estorii
-affiliation: [[Estoria]]
+affiliation: "[[Estoria]]"
 ---
 
 # Anora

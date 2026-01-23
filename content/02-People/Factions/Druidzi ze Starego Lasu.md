@@ -5,7 +5,7 @@ tags:
   - organization
   - druids
 leader: []
-headquarters: [[Stary Las]]
+headquarters: "[[Stary Las]]"
 ---
 
 # Druidzi ze Starego Lasu

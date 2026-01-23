@@ -6,7 +6,7 @@ tags:
 race: Nieśmiertelna (Bóstwo)
 gender: Kobieta
 occupation: Królowa Mytros
-affiliation: [[Mytros]], [[Piątka]]
+affiliation: "[[Mytros]], [[Piątka]]"
 ---
 
 # Vallus

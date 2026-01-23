@@ -4,8 +4,8 @@ tags:
   - faction
   - organization
   - military
-leader: [[Acastus]]
-headquarters: [[Mytros]]
+leader: "[[Acastus]]"
+headquarters: "[[Mytros]]"
 ---
 
 # Centurioni z Mytros
