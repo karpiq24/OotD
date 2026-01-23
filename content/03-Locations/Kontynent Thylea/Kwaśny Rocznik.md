@@ -1,23 +1,22 @@
 ---
-title: Kwaśny Winnik
+title: Kwaśny Rocznik
 tags: [location]
 region: Kontynent Thylea
-type:
+type: Gospoda
 population:
 ---
 
-# Kwaśny Winnik
+# Kwaśny Rocznik
 
 ![Placeholder](../../assets/placeholder.png)
 
-Krótki opis miejsca, jego atmosfera i ogólny wygląd.
+Gospoda prowadzona przez [[Aetala|Aetalę]], będąca miejscem spotkania Bohaterów Przepowiedni.
 
 ## Ciekawe Miejsca
-- **Miejsce 1**: Opis.
-- **Miejsce 2**: Opis.
+- **Główna Sala**: Miejsce, w którym [[Kyrah]] zebrała bohaterów.
 
 ## Mieszkańcy
-Szczególni NPC lub grupy zamieszkujące to miejsce.
+- [[Aetala]]: Karczmarka.
 
 ## Historia
-Wydarzenia związane z tym miejscem.
+Miejsce, w którym rozpoczęła się przygoda Bohaterów Przepowiedni. To tutaj [[Kyrah]] zleciła im upolowanie Wielkiego Dzika.

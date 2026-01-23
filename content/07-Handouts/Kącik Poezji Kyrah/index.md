@@ -6,9 +6,9 @@ title: Kącik Poezji Kyrah
 
 - [[Cukiereczki]]
 - [[Demetria]]
-- [[Helios]]
 - [[Kyrah's Gangsta Rap]]
 - [[O Bohaterach Przepowiedni|Bohaterowie Przepowiedni]]
+- [[O Heliosie|Helios]]
 - [[Pieśń Loreusa]]
 - [[Piwo]]
 - [[Suchary]]

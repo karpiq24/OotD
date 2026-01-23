@@ -5,6 +5,7 @@ title: Factions
 # Factions
 
 - [[Barbarzyńcy z Zatoki]]
+- [[Bliźniaczy Tytani]]
 - [[Bohaterowie Przepowiedni]]
 - [[Centurioni z Mytros]]
 - [[Cztery Wiatry]]

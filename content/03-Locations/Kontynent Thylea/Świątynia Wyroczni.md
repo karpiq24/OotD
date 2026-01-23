@@ -10,14 +10,14 @@ population:
 
 ![Placeholder](../../assets/placeholder.png)
 
-Krótki opis miejsca, jego atmosfera i ogólny wygląd.
+Świątynia, w której rezyduje Wyrocznia, znajdująca się w sercu Thylei.
 
 ## Ciekawe Miejsca
-- **Miejsce 1**: Opis.
-- **Miejsce 2**: Opis.
+- **Wewnętrzne Sanktuarium**: Miejsce, w którym Wyrocznia wygłasza swoje przepowiednie.
 
 ## Mieszkańcy
-Szczególni NPC lub grupy zamieszkujące to miejsce.
+- **Wyrocznia**: Tajemnicza postać wieszcząca przyszłość.
+- [[Kyrah]]: Często widywana w pobliżu wyroczni.
 
 ## Historia
-Wydarzenia związane z tym miejscem.
+Cel pierwszej podróży bohaterów po pokonaniu Wielkiego Dzika.
