@@ -39,4 +39,4 @@ Bohaterowie wyruszają do [[Estoria|Estorii]], gdzie dowiadują się o straszliw
 
 ## Szczegółowy opis wydarzeń
 
-Po opuszczeniu [[Świątynia Wyroczni|Świątyni Wyroczni]] bohaterowie wyruszają do [[Estoria|Estorii]]. W mieście dowiadują się o suszy i żądaniu złożenia ofiary z [[Anora|Anory]], córki króla [[Pythor|Pythora]]. Rozważają różne sposoby rozwiązania problemu. Ostatecznie ruszają tropem skradzionego [[Smoczy Róg|rogu Balmytrii]].
+Po opuszczeniu [[Świątynia Wyroczni|Świątyni Wyroczni]] bohaterowie wyruszają do [[Estoria|Estorii]]. W mieście dowiadują się o suszy i żądaniu złożenia ofiary z [[Anora|Anory]], córki króla [[Pythor|Pythora]]. Rozważają różne sposoby rozwiązania problemu. Ostatecznie ruszają tropem skradzionego [[Róg Balmytrii|rogu Balmytrii]].

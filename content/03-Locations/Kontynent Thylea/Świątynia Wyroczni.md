@@ -10,7 +10,7 @@ population: Akolici, Wyrocznia, Proteus
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Starożytna świątynia położona na południe od [[Estoria|Estorii]], wzniesiona nad gorącymi źródłami, w których rezyduje Wyrocznia._
+_Starożytna świątynia położona na wschód od [[Estoria|Estorii]], wzniesiona nad gorącymi źródłami, w których rezyduje [[Versi|Wyrocznia]]._
 
 ## Opis
 Świątynia Wyroczni to zespół budowli wykutych w zboczu góry. Najważniejszym miejscem jest **Wielka Grota**, w której bije gorące źródło zasilane wodami wulkanicznymi. To właśnie tam, pośród oparów i pary, [[Versi|Wyrocznia]] przyjmuje petentów i wygłasza swoje proroctwa. 

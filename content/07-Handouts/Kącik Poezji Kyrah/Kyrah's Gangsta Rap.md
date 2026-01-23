@@ -98,7 +98,7 @@ Rap Kyrah przedstawiający Bohaterów Przepowiedni i jej stosunek do Bliźniaczy
 > 
 > Nawet w młodości z Próby Feliksa był już znany.
 > 
-> Wyrocznia wróży mu wielkie czyny,
+> [[Versi|Wyrocznia]] wróży mu wielkie czyny,
 > 
 > To on może odrodzić Zakonu doktryny.
 > 

@@ -8,6 +8,7 @@ title: Estoria
 - [[Anora]]
 - [[Brax]]
 - [[Claus]]
+- [[Corinna]]
 - [[Delphion]]
 - [[Galimus]]
 - [[Lakan]]
