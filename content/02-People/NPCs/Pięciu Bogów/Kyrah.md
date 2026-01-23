@@ -20,6 +20,8 @@ _Jeden z [[The Powers of Thylea#Pięciu Bogów|Pięciu Bogów]] Thylei, Bogini M
 ## Opis
 Kyrah jest najmłodszą z Pięciu Bogów. Często podróżuje po Thylei w przebraniu, szukając natchnienia i wchodząc w interakcje ze śmiertelnikami w sposób bardziej bezpośredni niż inni bogowie. Słynie ze swojego pięknego głosu, gry na lirze oraz zamiłowania do płatania psikusów.
 
+Jest najszybszą z wszystkich bogów, zdolną zniknąć w mgnieniu oka i pokonywać ogromne odległości z każdym krokiem. Jej głos jest podobno piękniejszy niż jakikolwiek instrument muzyczny. Istnieje bardzo niewiele kaplic jej poświęconych, z wyjątkiem tych u bardów, którzy czczą ją jako Muzę.
+
 ## Osobowość
 Kyrah ucieleśnia kreatywność, wolność i radość życia. Jest postrzegana jako najbardziej przystępna z bóstw, kochająca sztukę i piękno we wszystkich formach. Bywa jednak również przebiegła i psotna, co odzwierciedla jej domenę podstępu.
 
