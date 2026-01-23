@@ -11,7 +11,7 @@ W wiekach poprzedzających założenie Mytros, śmiertelnicy nie mieli władzy n
 
 Zaciekawieni tymi dziwnymi uchodźcami, nimfy i satyry zaoferowali im gościnę, i tak powstało wiele małych osad. Centaury jednak nie okazały litości, a cyklopi pożerali ludzi w całości. Życie w Thylei było krótkie i brutalne dla tak zwanych "intruzów" z obcych ziem.
 
-W tej erze Bliźniaczy Tytani (Twin Titans) władali potężnymi mocami, niespotykanymi od zarania dziejów. Sydon był czczony jako Lord of Storms (Władca Burz). Mógł przywoływać apokaliptyczne burze swoją prawą ręką i kataklizmiczne trzęsienia ziemi lewą. Jego siostra-żona Lutheria władała krainą snów, a jej głos podobno ożywiał zmarłych.
+W tej erze [[Bliźniaczy Tytani]] (Twin Titans) władali potężnymi mocami, niespotykanymi od zarania dziejów. Sydon był czczony jako Lord of Storms (Władca Burz). Mógł przywoływać apokaliptyczne burze swoją prawą ręką i kataklizmiczne trzęsienia ziemi lewą. Jego siostra-żona Lutheria władała krainą snów, a jej głos podobno ożywiał zmarłych.
 
 Obawiając się zagłady, zdesperowani osadnicy budowali kapliczki dla Sydona i ucztowali na cześć Lutherii. Tysiące ofiar składano Panu Burz, a wino wylewano dla Pani Snów przy każdym posiłku. Bliźniacy początkowo byli niewzruszeni, ale z czasem przekonali się do wytrwałego kultu nieszczęsnych osadników.
 
@@ -27,7 +27,7 @@ Dragonlords byli symbolami nadziei dla udręczonego ludu. Ilekroć osada śmiert
 
 ## The First War (Pierwsza Wojna)
 
-Ale wielkie potęgi rządzące Thyleą stały się zazdrosne. Sydon i Lutheria, Bliźniaczy Tytani, nieśmiertelne dzieci bogini matki, zgromadzili wielkie armie, by zniszczyć miasto. Dragonlords odpowiedzieli, zbierając wszystkich śmiertelników w Thylei do zjednoczonego ataku na rodzime rasy, i tak rozpoczęła się First War (Pierwsza Wojna).
+Ale wielkie potęgi rządzące Thyleą stały się zazdrosne. Sydon i Lutheria, [[Bliźniaczy Tytani]], nieśmiertelne dzieci bogini matki, zgromadzili wielkie armie, by zniszczyć miasto. Dragonlords odpowiedzieli, zbierając wszystkich śmiertelników w Thylei do zjednoczonego ataku na rodzime rasy, i tak rozpoczęła się First War (Pierwsza Wojna).
 
 Historie o Pierwszej Wojnie są niejasne, przekazywane przez wieki w formie niszczejących zwojów i gobelinów. Pewne jest to, że rdzenne rasy zostały wygnane. Centaury wycofały się na stepy, podczas gdy satyry uciekły do lasów. Gygans, starożytna cywilizacja cyklopów, została unicestwiona, pozostawiając po sobie kruszejące ruiny upadłych miast.
 
