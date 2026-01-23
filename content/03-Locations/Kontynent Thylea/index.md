@@ -16,6 +16,7 @@ title: Kontynent Thylea
 - [[Nekropolia w Telamok]]
 - [[Obóz wojskowy Mytros]]
 - [[Półwysep Arezyjski]]
+- [[Rzeka Arkelon]]
 - [[Stary Las]]
 - [[Wielkie Stepy]]
 - [[Xanderia]]
