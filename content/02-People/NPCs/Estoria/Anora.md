@@ -5,21 +5,24 @@ tags:
   - npc
 race: Człowiek
 gender: Kobieta
-occupation: Królowa Estorii
+occupation: Księżniczka Estorii
 affiliation: "[[Estoria]]"
+image_prompt: A beautiful, noble young woman with a courageous but resigned expression, wearing fine silk robes suitable for a princess of Estoria, digital fantasy art style.
 ---
 
 # Anora
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
-_Królowa Estorii, córka Pythora._
+_Księżniczka Estorii, ukochana córka króla [[Pythor|Pythora]]._
 
 ## Opis
-Dzielna władczyni [[Estoria|Estorii]], broniąca miasta przed zagrożeniami.
+Uważana za dumę Estorii, Anora jest jedynym dzieckiem Pythora z jego ostatnią śmiertelną żoną, którą darzył wielką miłością.
 
 ## Osobowość
-Lojalna wobec swojego ludu i bogów Piątki.
+Odważna, lojalna i gotowa do najwyższych poświęceń dla dobra swojego ludu. Mimo młodego wieku, mieszkańcy Estorii uważają, że byłaby lepszym i bardziej odpowiedzialnym władcą niż jej ojciec.
 
 ## Historia
-Władczyni Estorii. [[Hergeron Pierwszy|Hergeron]] planuje wysłać centaury, aby oblężyły jej miasto i odciągnęły ją od pomocy dla [[Mytros]].
+Po utracie matki, która została uprowadzona przez smoczycę [[Hexia|Hexię]], Anora pozostała jedyną pociechą podupadającego na duchu ojca. Kiedy [[Zakon Sydona]] zażądał jej złożenia w ofierze na [[Skała Estora|Skale Estora]], by powstrzymać suszę i armię centaurów, Anora z pokorą zgodziła się na swój los, chcąc oszczędzić miastu zagłady. Została jednak uwięziona przez ojca w lochach pałacu, by zapobiec wypełnieniu żądania.
+
+Dodatkowo, [[Hergeron Pierwszy|Hergeron]] planuje wysłać centaury, aby oblężyły jej miasto i odciągnęły ją od pomocy dla [[Mytros]].

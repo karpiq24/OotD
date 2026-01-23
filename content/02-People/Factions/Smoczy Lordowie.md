@@ -2,36 +2,39 @@
 title: Smoczy Lordowie
 tags:
   - faction
-leader: []
-headquarters: []
+leader: "[[Xander]]"
+headquarters: "[[Mytros]], [[Estoria]], [[Arezja]]"
 ---
 
 # Smoczy Lordowie
 
 ![Smoczy Lordowie](../../assets/placeholder.png)
 
-_Legendarni bohaterowie dosiadający smoków._
+_Legendarny zakon bohaterów, którzy przybyli do Thylei dosiadając potężnych smoków._
 
 ## Opis
-Legendarni bohaterowie dosiadający smoków, którzy przybyli do Thylei.
+Smoczy Lordowie to starożytny zakon wojowników, którzy przybyli do Thylei pięć wieków temu na pokładzie legendarnego statku [[Ultros]]. Ich przybycie zakończyło rządy Tytanów nad ludźmi i elfami. Każdy z lordów był związany z potężnym smokiem (najczęściej brązowym lub złotym), co dawało im niemal boską siłę w walce.
 
 ## Cele
-Osiedlenie się i walka z Tytanami.
+- Ochrona śmiertelnych ras przed gniewem Tytanów.
+- Utrzymanie pokoju i rozwój cywilizacji w trzech królestwach.
+- Powstrzymanie powrotu [[Sydon|Sydona]] i [[Lutheria|Lutherii]] do władzy.
 
 ## Siedziba
-Różne królestwa (Mytros, Estoria, Aresia).
+Historycznie rządzili z trzech głównych miast: [[Mytros]], [[Estoria]] i [[Arezja]].
 
 ## Członkowie
-- [[Xander]]
+- [[Xander]] (przywódca zakonu)
 - [[Rizon Phobas]]
 - [[Adonis Neurdagon]]
 - [[Telamok Arkelander]]
-- [[Estor Arkelander]]
+- [[Estor Arkelander]] (kapitan [[Ultros|Ultrosa]])
 - [[Damon]]
 
 ## Relacje
-- **Sojusznicy**: [[Pięciu Bogów]].
-- **Wrogowie**: Tytani, [[Gyganie]], [[Centuary]].
+- **Sojusznicy**: [[Pięciu Bogów]] (którzy przybyli z nimi lub pojawili się wkrótce potem).
+- **Wrogowie**: [[Sydon]], [[Lutheria]], [[Gyganie]], [[Centuary]].
 
 ## Historia
-Przybyli do Thylei, by osiedlić się i walczyć z Tytanami.
+Przybyli do Thylei z innego świata i osiedlić się na tych ziemiach. Ich konflikt z Tytanami doprowadził do Pierwszej Wojny, która zakończyła się podpisaniem [[Przysięga Pokoju|Przysiędgi Pokoju]]. Większość Smoczych Lordów zginęła w walkach lub odeszła ze starości, a ich smoki zniknęły lub padły w bojach. Obecnie król [[Acastus]] z Mytros twierdzi, że wskrzesza ten zakon, choć wielu (w tym [[Aesop]]) podchodzi do tych zapowiedzi sceptycznie.
+
