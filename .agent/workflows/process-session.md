@@ -44,8 +44,9 @@ This workflow guides the agent through manually processing a single session reca
     -   Ensure frontmatter is correct.
     -   Verify image links work.
 
-6.  **Move File**:
+6.  **Move & Rename File**:
     -   Move the session file to `content/01-Sessions/`.
+    -   **Filename Format**: Always use `Sesja X - Title.md` (e.g., `Sesja 3 - Skradziony Róg.md`).
 
 7.  **Cleanup**:
     -   Delete original input file if needed.

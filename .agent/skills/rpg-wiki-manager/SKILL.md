@@ -24,7 +24,8 @@ For each target file in `input/`:
 
 -   **Session Recaps** (e.g., "Sesja 64..."):
     -   **Destination**: `content/01-Sessions/`
-    -   **Assets**: Create a subdirectory `content/assets/sessions/<Session Name>/`. Move all images/videos used in the recap there.
+    -   **Filename Format**: `Sesja X - Title.md` (e.g. `Sesja 3 - Skradziony Róg.md`).
+    -   **Assets**: Create a subdirectory `content/assets/sessions/<000>/` (3-digit session number). Move all images/videos used in the recap there.
     -   **Action**: Extract entities (NPCs, Locations) mentioned. Update the "Session Index" if one exists.
 -   **Handouts** (Letters, Notes, Images):
     -   **Destination**: `content/07-Handouts/`

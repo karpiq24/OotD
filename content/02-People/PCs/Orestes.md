@@ -19,6 +19,6 @@ _**Zgubiony**, który trzykrotnie przeciwstawił się śmierci i stawił jej czo
 
 ## Historia
 
-Orestes, minotaurzy barbarzyńca, po śmierci rodziców został przygarnięty przez rodzinę satyrów prowadzących browar w pobliżu Estorii. Choć wychowywał się wśród kadzi i chmielu, jego niezdarna natura często prowadziła do wypadków, w tym zmarnowania całej warki piwa, co zdegradowało go do prostych prac fizycznych. Mimo ciągłego pecha, nie opuszczała go nadzieja na odmianę losu.
+Orestes, minotaurzy barbarzyńca, po śmierci rodziców został przygarnięty przez rodzinę satyrów prowadzących browar w pobliżu Estorii. Wśród nich był jego kuzyn [[Brax]], który obecnie prowadzi [[Super Bar]] w mieście. Choć wychowywał się wśród kadzi i chmielu, jego niezdarna natura często prowadziła do wypadków, w tym zmarnowania całej warki piwa, co zdegradowało go do prostych prac fizycznych. Mimo ciągłego pecha, nie opuszczała go nadzieja na odmianę losu.
 
 Punktem zwrotnym stało się wydarzenie, gdy jedna z przenoszonych skrzyń okazała się zabójczym mimikiem. Orestes, dobywając starego młota swojego ojca, zdołał uratować towarzysza przed potworem. Teraz, jako "Skazany", wierzy, że poprzez bohaterskie czyny zdoła w końcu przełamać ciążącą nad nim klątwę nieszczęścia i uczynić w świecie coś dobrego.
