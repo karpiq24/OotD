@@ -27,6 +27,7 @@ title: Lista postaci niezależnych
 - [[Wyspa Forlorn]]
 - [[Wyspa Indygo]]
 - [[Wyspa Ognia]]
+- [[Wyspa Smoka]]
 - [[Wyspa Wygnańców]]
 - [[Zakon Sydona]]
 - [[Załoga Arevona]]

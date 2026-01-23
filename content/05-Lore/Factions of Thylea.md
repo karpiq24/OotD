@@ -14,3 +14,5 @@ tags: [lore, factions]
 *   **Lost Tribe of the Gygans (Zaginione Plemię Gyganów)**: Niedobitki cyklopów, dawnych władców Thylei, szukające zemsty.
 *   **Centaurs of the Steppes (Centaury ze Stepów)**: Koczowniczy ludzie podzieleni na walczące plemiona, żyjący według surowego kodeksu honorowego.
 *   **The Raving Ones (Szalejące)**: Istoty fey czczące Lutherię, zamieszkujące jaskinie na skraju Oldwood. Matki goatlings (koźludzi).
+*   **[[Bliźniaczy Tytani]] (Twin Titans)**: Starożytni władcy Thylei, Sydon i Lutheria, dążący do odzyskania kontroli nad krainą i zniszczenia śmiertelnych intruzów.
+
