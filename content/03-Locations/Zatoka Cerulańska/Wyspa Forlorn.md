@@ -1,12 +1,12 @@
 ---
-title: Samotna Wyspa
+title: Wyspa Forlorn
 tags: [location]
-region: Morze Thylejskie
+region: Zatoka Cerulańska
 type: Island
 population: Uninhabited (Monsters)
 ---
 
-# Samotna Wyspa
+# Wyspa Forlorn
 
 ![Placeholder](../../assets/placeholder.png)
 
