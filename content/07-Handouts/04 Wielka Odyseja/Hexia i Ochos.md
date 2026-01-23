@@ -30,7 +30,7 @@ On porusza się, a ty obracasz swą masywną głowę, by spojrzeć na niego jedn
 
 Przesuwa dłonią po płaskiej stronie głowni. Czujesz drżenie ogromnej, surowej mocy bijącej od broni, potencjał, od którego łuski na twojej szyi stają dęba.
 
-*(Głos [[Ochos Arkelander|Ochosa]] kontunuuje)* „[[Hergeron|Hergeron]] próbował nim władać przeciwko [[Sydon|Sydonowi]], ale nie był jeszcze ukończony. Zranił Pana Burz, owszem, ale nie zdołał oddzielić jego duszy od tego świata. To nie wystarczyło.” Spogląda na ciebie, a jego oczy płoną desperacką nadzieją, którą czujesz jako własną. „Ale teraz... my go mamy. Nie możemy go dokończyć, nie bez boskiego kowala. Ale być może, tylko być może... jego moc wystarczy. W ten sposób ich ocalimy, Hexio. Tak to zakończymy. Razem.”
+*(Głos [[Ochos Arkelander|Ochosa]] kontunuuje)* „[[Hergeron]] próbował nim władać przeciwko [[Sydon|Sydonowi]], ale nie był jeszcze ukończony. Zranił Pana Burz, owszem, ale nie zdołał oddzielić jego duszy od tego świata. To nie wystarczyło.” Spogląda na ciebie, a jego oczy płoną desperacką nadzieją, którą czujesz jako własną. „Ale teraz... my go mamy. Nie możemy go dokończyć, nie bez boskiego kowala. Ale być może, tylko być może... jego moc wystarczy. W ten sposób ich ocalimy, Hexio. Tak to zakończymy. Razem.”
 
 Opiera się o ciebie i znów zaczyna nucić swoją pieśń. W tej chwili, pod ciepłym słońcem, z jego pieśnią w powietrzu i obietnicą [[Titansbane]] w waszym wspólnym uścisku, wierzysz mu. Czujesz iskrę emocji, której nie potrafisz nazwać. Czuje się jak nadzieja.
 

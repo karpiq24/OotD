@@ -8,7 +8,7 @@ type: Pieśń
 
 # Pieśń Loreusa
 
-_Pieśń ze zbioru "Kącik Poezji [[content/02-People/NPCs/Kyrah.md|Kyrah]]"_
+_Pieśń ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
 Pieśń satyra Loreusa, który ukrywa się na statku. Loreus jest zakochany w Orionie, ale wie, że jego miłość jest beznadziejna, gdyż Orion związał się ze śmiertelną kobietą, Lyrą.

@@ -8,12 +8,12 @@ type: Wiersz / Legenda
 
 # Demetria
 
-_Wiersz ze zbioru "Kącik Poezji [[content/02-People/NPCs/Kyrah.md|Kyrah]]"_
+_Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
 Legenda o Demetrii, driadzie ze Starego Lasu.
-Żyła szczęśliwie z siostrą, dopóki [[content/02-People/NPCs/Estor Arkelander.md|Estor Arkelander]] nie ściął jej świętego drzewa na swój statek (prawdopodobnie [[content/04-Items-and-Loot/Statki/Ultros.md|Ultros]]).
-Demetria oszalała z nienawiści i w imieniu [[content/02-People/NPCs/Lutheria.md|Lutherii]] atakowała dzieci, dopóki nie została zabita przez herosów.
+Żyła szczęśliwie z siostrą, dopóki [[Estor Arkelander]] nie ściął jej świętego drzewa na swój statek (prawdopodobnie [[Ultros]]).
+Demetria oszalała z nienawiści i w imieniu [[Lutheria|Lutherii]] atakowała dzieci, dopóki nie została zabita przez herosów.
 
 > Ona była driadą ze Starego Lasu
 > 

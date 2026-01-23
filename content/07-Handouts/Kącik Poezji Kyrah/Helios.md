@@ -8,10 +8,10 @@ type: Wiersz / Mit
 
 # Helios
 
-_Wiersz ze zbioru "Kącik Poezji [[content/02-People/NPCs/Kyrah.md|Kyrah]]"_
+_Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
-Wiersz o śmiertelniku, który z pychy pragnął powozić rydwanem [[content/02-People/NPCs/Helios.md|Heliosa]] i ukraść złoto słońca. Jego marzenia zostały spalone przez ogniste rumaki, a on sam oślepiony. Jednak Helios okazał litość i przyjął go do swego boku.
+Wiersz o śmiertelniku, który z pychy pragnął powozić rydwanem [[Helios|Heliosa]] i ukraść złoto słońca. Jego marzenia zostały spalone przez ogniste rumaki, a on sam oślepiony. Jednak Helios okazał litość i przyjął go do swego boku.
 
 > W krainie bogów i nieskończonych niebios,
 > 

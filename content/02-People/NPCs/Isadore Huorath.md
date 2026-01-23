@@ -23,4 +23,4 @@ Wysoka, wysportowana kobieta o silnych ramionach i długich czarnych włosach.
 Wszechstronna, inteligentna i silna. Wybitna w sporcie, walce i filozofii.
 
 ## Historia
-Smoczy Lord, która nigdy nie wyszła za mąż i nie zdobyła "żadnego" (prawdopodobnie tronu lub specyficznego tytułu), ale cieszyła się szacunkiem wielu. Pod koniec życia była wątła i schorowana, a u jej boku zawsze trwał tajemniczy, zakapturzony mężczyzna (prawdopodobnie [[content/02-People/NPCs/Damon.md|Damon]]).
+Smoczy Lord, która nigdy nie wyszła za mąż i nie zdobyła "żadnego" (prawdopodobnie tronu lub specyficznego tytułu), ale cieszyła się szacunkiem wielu. Pod koniec życia była wątła i schorowana, a u jej boku zawsze trwał tajemniczy, zakapturzony mężczyzna (prawdopodobnie [[Damon]]).

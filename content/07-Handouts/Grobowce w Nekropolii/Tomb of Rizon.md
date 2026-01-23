@@ -7,9 +7,9 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Rizon
-> **[[content/02-People/NPCs/Rizon Phobas.md|RIZON PHOBAS]]**
+> **[[Rizon Phobas|RIZON PHOBAS]]**
 > 
-> **ZAPRZYSIĘŻONA [[content/02-People/NPCs/Sybolkorax.md|SYBOLKORAXA]]**
+> **ZAPRZYSIĘŻONA [[Sybolkorax|SYBOLKORAXA]]**
 > 
 > Zauważyła nasze kajdany strachu,  
 > ruszyła na konfrontacje z nadciągającą ciemnością.  

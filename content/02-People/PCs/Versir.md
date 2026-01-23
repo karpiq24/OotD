@@ -13,7 +13,7 @@ image_prompt: young  adult male, dark fantasy character, slender build, pale ala
 
 ![Versir](../../assets/Versir.png)
 
-_Aasmiar Paladin/Sorcerer, [[05-Lore/Epic Paths#The Timeless One (Wieczny)|The Timeless One]]_
+_Aasmiar Paladin/Sorcerer, [[Epic Paths#The Timeless One (Wieczny)|The Timeless One]]_
 _**Wieczny**, który po stuleciach powrócił do [[Thylea|Thylei]] i odkrył los Zaginionych Tytanów._
 
 

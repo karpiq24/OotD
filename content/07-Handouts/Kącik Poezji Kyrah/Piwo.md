@@ -8,7 +8,7 @@ type: Pieśń biesiadna
 
 # Piwo
 
-_Pieśń biesiadna ze zbioru "Kącik Poezji [[content/02-People/NPCs/Kyrah.md|Kyrah]]"_
+_Pieśń biesiadna ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
 Piosenka wychwalająca piwo i satyra, który je wynalazł. Wymienia różne gospody: Kwaśny Rocznik, Syrenie Gniazdo, Super Bar.

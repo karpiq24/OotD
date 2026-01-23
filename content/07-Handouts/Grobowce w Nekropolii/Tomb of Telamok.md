@@ -7,9 +7,9 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Telamok
-> **[[content/02-People/NPCs/Telamok Arkelander.md|TELAMOK ARKELANDER]]**
+> **[[Telamok Arkelander|TELAMOK ARKELANDER]]**
 > 
-> **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Tysophale.md|TYSOPHALE]]**
+> **ZAPRZYSIĘŻONY [[Tysophale|TYSOPHALE]]**
 > 
 > Oto on, wielki wojownik!  
 > Jednak wojna rządzi się swoimi prawami, nie ustępuje.

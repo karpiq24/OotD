@@ -7,8 +7,8 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Gregor
-> **[[content/02-People/NPCs/Gregor Huorath.md|GREGOR HUORATH]]**  
-> **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Hezzebal.md|HEZZEBALA]]**
+> **[[Gregor Huorath|GREGOR HUORATH]]**  
+> **ZAPRZYSIĘŻONY [[Hezzebal|HEZZEBALA]]**
 > 
 > Leć wojowniku, leć  
 > bo po naszej śmierci  

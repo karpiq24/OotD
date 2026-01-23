@@ -8,7 +8,7 @@ type: Pieśń / Wiersz
 
 # Troglodytów Smród
 
-_Pieśń ze zbioru "Kącik Poezji [[content/02-People/NPCs/Kyrah.md|Kyrah]]"_
+_Pieśń ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
 > Wybrani i przetestowani,

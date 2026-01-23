@@ -7,9 +7,9 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Ochos
-> **[[content/02-People/NPCs/Ochos Arkelander.md|OCHOS ARKELANDER]]**
+> **[[Ochos Arkelander|OCHOS ARKELANDER]]**
 > 
-> **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Hexia.md|HEXII]]**
+> **ZAPRZYSIĘŻONY [[Hexia|HEXII]]**
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 

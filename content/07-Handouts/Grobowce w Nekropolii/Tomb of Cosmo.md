@@ -7,9 +7,9 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Cosmo
-> **[[content/02-People/NPCs/Cosmo.md|COSMO PHOBAS]]**
+> **[[Cosmo|COSMO PHOBAS]]**
 > 
-> **SYN [[content/02-People/NPCs/Rizon Phobas.md|RIZON PHOBAS]]**
+> **SYN [[Rizon Phobas|RIZON PHOBAS]]**
 > 
 > Tutaj Cosmo, syn Rizon, spoczywa w świętym śnie:  
 > nie mów, że dobrzy umierają młodo, przyjacielu,  

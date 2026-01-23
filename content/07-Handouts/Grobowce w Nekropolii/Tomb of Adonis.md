@@ -7,9 +7,9 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Adonis
-> **[[content/02-People/NPCs/Adonis Neurdagon.md|ADONIS NEURDAGON]]**
+> **[[Adonis Neurdagon|ADONIS NEURDAGON]]**
 > 
-> **ZAPRZYSIĘŻONY [[content/02-People/NPCs/Raspytrion.md|RASPYTRIONA]]**
+> **ZAPRZYSIĘŻONY [[Raspytrion|RASPYTRIONA]]**
 > 
 > Najpiękniejszy ze Smoczych Lordów,  
 > Gdyby tylko władał mieczem równie wspaniale.
