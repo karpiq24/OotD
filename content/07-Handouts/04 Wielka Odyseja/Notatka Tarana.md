@@ -11,7 +11,7 @@ type: Notatka
 _Notatka od Tarana Neurdagona dotycząca zlecenia na bestię._
 
 ## Treść
-W kompleksie świątynnym na tej przeklętej [[Samotna Wyspa|Samotnej Wyspie]] ukrywa się stworzenie o znacznej mocy. Może być przebrane, spowite jakąś zwodniczą iluzją. Załączony kamień zdejmie wszelkie takie iluzje – użyj go, gdy będziesz blisko.
+W kompleksie świątynnym na tej przeklętej [[Wyspa Forlorn|Samotnej Wyspie]] ukrywa się stworzenie o znacznej mocy. Może być przebrane, spowite jakąś zwodniczą iluzją. Załączony kamień zdejmie wszelkie takie iluzje – użyj go, gdy będziesz blisko.
 
 Przynieś mi głowę tej bestii do [[Mytros]], a twoja nagroda będzie wysoka. Wdzięczność mojej rodziny czeka.
 
