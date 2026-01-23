@@ -23,4 +23,4 @@ Nimfa urodzona w górach nieopodal Starego Lasu.
 Zafascynowana pięknem i perfekcją, gardzi brzydotą i przyziemnością. Rozczarowana światem, odnalazła sens w kulcie Heliosa.
 
 ## Historia
-Opuściła swoją górę, by dołączyć do [[content/02-People/NPCs/Kyrah.md|Kyrah]] i zobaczyć świat. Rozczarowała się brzydotą i niedoskonałością Thylei (Starego Lasu, minotaurów, Arezji). Jej śpiew w Arezji został odrzucony. Po rozstaniu z wiatrami odnalazła świątynię ze złotym posągiem mężczyzny i oddała się kultowi Heliosa, uważając go za jedyne prawdziwe bóstwo.
+Opuściła swoją górę, by dołączyć do [[Kyrah]] i zobaczyć świat. Rozczarowała się brzydotą i niedoskonałością Thylei (Starego Lasu, minotaurów, Arezji). Jej śpiew w Arezji został odrzucony. Po rozstaniu z wiatrami odnalazła świątynię ze złotym posągiem mężczyzny i oddała się kultowi Heliosa, uważając go za jedyne prawdziwe bóstwo.

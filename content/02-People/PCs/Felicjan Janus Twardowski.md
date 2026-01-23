@@ -13,7 +13,7 @@ image_prompt: young  adult male human wizard, lean build, rugged fantasy adventu
 
 ![Felicjan](../../assets/Felicjan.png)
 
-_Human Wizard, [[05-Lore/Epic Paths#The Gifted One (Utalentowany)|The Gifted One]]_
+_Human Wizard, [[Epic Paths#The Gifted One (Utalentowany)|The Gifted One]]_
 _**Utalentowany**, który odkrył źródło swoich zdolności i doprowadził do odrodzenia Zakonu._
 
 

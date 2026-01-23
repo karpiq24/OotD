@@ -8,7 +8,7 @@ type: Pieśń / Rap
 
 # Kyrah's Gangsta Rap
 
-_Utwór ze zbioru "Kącik Poezji [[content/02-People/NPCs/Kyrah.md|Kyrah]]"_
+_Utwór ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
 Rap Kyrah przedstawiający Bohaterów Przepowiedni i jej stosunek do Bliźniaczych Tytanów. Kyrah przedstawia się jako "Bogini Muzyki, Kira".

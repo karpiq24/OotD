@@ -7,7 +7,7 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Myrto
-> **[[content/02-People/NPCs/Myrto Wspaniały.md|MYRTO WSPANIAŁY]]**
+> **[[Myrto Wspaniały|MYRTO WSPANIAŁY]]**
 > 
 > Niektórzy mówią, że Muza jest tylko jedna.  
 > Głupcy, policzcie jeszcze raz!  

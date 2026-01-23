@@ -13,7 +13,7 @@ image_prompt: male fantasy warrior, athletic build, elven features, wearing high
 
 ![Orion](../../assets/Orion.png)
 
-_Half-Elf Fighter, [[05-Lore/Epic Paths#The Demi-God (Półbóg)|Demigod]]_
+_Half-Elf Fighter, [[Epic Paths#The Demi-God (Półbóg)|Demigod]]_
 _**Półbóg**, który odnalazł własną matkę i dorównał w boskości swojemu ojcu._
 
 

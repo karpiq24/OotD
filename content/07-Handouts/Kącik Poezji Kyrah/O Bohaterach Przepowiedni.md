@@ -8,7 +8,7 @@ type: Wiersz / Relacja
 
 # Bohaterowie Przepowiedni
 
-_Wiersz ze zbioru "Kącik Poezji [[content/02-People/NPCs/Kyrah.md|Kyrah]]"_
+_Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_
 
 ## Treść
 Relacja z polowania na dzika z udziałem Bohaterów Przepowiedni i Kyrah.

@@ -7,7 +7,7 @@ type: Inskrypcja / Opis Grobowca
 ---
 
 # Tomb of Dorion
-> **[[content/02-People/NPCs/Dorion Neurdagon.md|DORION NEURDAGON]]**
+> **[[Dorion Neurdagon|DORION NEURDAGON]]**
 > 
 > Ostatni z wielkiego rodu.
 > 
