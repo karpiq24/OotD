@@ -29,7 +29,7 @@ U jej boku stał brązowy [[Sybolkorax]], lojalny smok, którego dosiadałam ja.
 
 [[Balmytria]] i [[Sybolkorax]] przybyli ze swoim brązowym potomstwem, które również zostało zgubione po śmierci smoczycy:
 
-*   [[Tysophale]], zaprzysiężona naszemu mistrzowi taktyki, [[Telamok|Telamokowi Arkelanderowi]], który zginął w ostatnich dniach wojny, podczas ataku na [[Praxys]].
+*   [[Tysophale]], zaprzysiężona naszemu mistrzowi taktyki, [[Telamok Arkelander|Telamokowi Arkelanderowi]], który zginął w ostatnich dniach wojny, podczas ataku na [[Praxys]].
     
 *   [[Raspytrion]], zaprzysiężony naszemu pięknemu [[Adonis Neurdagon|Adonisowi Neurdagonowi]], który zginął w ostatnich dniach wojny, podczas ataku na [[Praxys]].
     
@@ -42,7 +42,7 @@ Wraz z rodziną przybyły inne sprzymierzone smoki:
 
 *   Zielona [[Hexia]], zaprzysiężona [[Ochos Arkelander|Ochosowi Arkelanderowi]]. Została adoptowana przez [[Balmytria|Balmytrię]], po tym jak jej zła matka została zabita przez [[Sybolkorax|Sybolkoraxa]]. Po śmierci [[Ochos Arkelander|Ochosa]] z ręki [[Sydon|Sydona]], [[Hexia]] opuściła nas.
     
-*   Mosiężny [[Hezzebal]], zaprzysiężony twemu synowi, [[Gregor Huorath|Gregorowi Huoarathowi]], młody ojciec błogosławionej [[Isadore]], której nigdy nie poznał. [[Gregor Huorath|Gregor]] i jego smok zniknęli podczas wyprawy na Zapomniane Morze, którą zlecił im [[Estor Arkelander|Estor]].
+*   Mosiężny [[Hezzebal]], zaprzysiężony twemu synowi, [[Gregor Huorath|Gregorowi Huoarathowi]], młody ojciec błogosławionej [[Isadore Huorath|Isadore]], której nigdy nie poznał. [[Gregor Huorath|Gregor]] i jego smok zniknęli podczas wyprawy na Zapomniane Morze, którą zlecił im [[Estor Arkelander|Estor]].
     
 *   Mosiężna [[Orichalkos]], zaprzysiężona odważnemu [[Nikandros Caliros|Nikandrosowi Calirosowi]]. Ale kiedy [[Nikandros Caliros|Nikandros]] zginął w bitwie z [[Sydon|Sydonem]], [[Orichalkos]] oszalała i zabrała jego zwłoki i odleciała. Nigdy więcej jej nie widziano.
     
@@ -61,7 +61,7 @@ Bestie z [[Thylea|Thylei]] nie są takie jak te z innych krain. Pewnego dnia str
 
 W trzewiach oceanów zawsze krążyły szepty o głębokim terrorze, czymś jeszcze bardziej starożytnym i przerażającym niż [[Kraken]]. [[Xander]] w to wierzył, ale zawsze pokładał więcej wiary w legendy tubylców niż ja.
 
-Wkrótce [[Xanderia]] stała się rozległym terytorium, z wieloma osadami, z których niektóre były dowodzone przez Smoczych Lordów, takich jak [[Xander]], [[Telamok]] i [[Estor Arkelander|Estor]]. Mimo to sytuacja na granicach była napięta. Nasze patrole graniczne napotkały kilka koczowniczych plemion [[Thylean Centaur|Centaurów]], rozproszone leśne ludy [[Fey]] ze Starego Lasu pod rządami driady [[Delphia|Delphii]] i kilka wiosek [[Thylean Minotaur|minotaurów]]. Najpotężniejszą cywilizacją rdzennych ras było jednak imperium [[Gyganie|Gyganów]]. Nasi najlepsi generałowie, [[Telamok]] i [[Estor Arkelander|Estor]], uznali je za główne zagrożenie dla naszych królestw i opracowali plany.
+Wkrótce [[Xanderia]] stała się rozległym terytorium, z wieloma osadami, z których niektóre były dowodzone przez Smoczych Lordów, takich jak [[Xander]], [[Telamok Arkelander|Telamok]] i [[Estor Arkelander|Estor]]. Mimo to sytuacja na granicach była napięta. Nasze patrole graniczne napotkały kilka koczowniczych plemion [[Thylean Centaur|Centaurów]], rozproszone leśne ludy [[Fey]] ze Starego Lasu pod rządami driady [[Delphia|Delphii]] i kilka wiosek [[Thylean Minotaur|minotaurów]]. Najpotężniejszą cywilizacją rdzennych ras było jednak imperium [[Gyganie|Gyganów]]. Nasi najlepsi generałowie, [[Telamok Arkelander|Telamok]] i [[Estor Arkelander|Estor]], uznali je za główne zagrożenie dla naszych królestw i opracowali plany.
 
 ## Pierwsze lata wojny
 
@@ -77,7 +77,7 @@ Po tych pierwszych latach wojny wezwali swoich bogów na pomoc. [[Sydon]], Wład
 
 Nasze uziemione smoki na niewiele się zdały przeciwko jego potędze i przegraliśmy nasze pierwsze bitwy, straciliśmy nasze pierwsze smoki i Smoczych Lordów: [[Orichalkos]], [[Chaeristis]], [[Ochos Arkelander|Ochos]], [[Alina Davanos|Alina]], [[Nikandros Caliros|Nikandros]]... Co gorsza, [[Karpathos Aresianos|Karpathos]] zdradził nas podczas jednej z bitew, używając artefaktu, który zbudował [[Damon]] i zabił ciebie, naszego przywódcę. Niektórzy mówili, że inny z ich bogów, niejaka [[Lutheria]], siostra bliźniaczka [[Sydon|Sydona]], zawarła z nim układ. [[Karpathos Aresianos|Karpathos]] odleciał ze swoim smokiem, by stworzyć własne królestwo zwane [[Arezja|Arezją]] na południowym wschodzie.
 
-Losy wojny zmieniły się całkowicie. Bez twojego przywództwa czasy wyglądały ponuro. Próbowaliśmy zrobić, co w naszej mocy, z moim drogim [[Cosmo]], i zdecydowaliśmy się przejąć dowodzenie, ale [[Telamok]] również próbował przejąć przywództwo, komplikując sprawy. Prawdę mówiąc, to tylko [[Balmytria]] trzymała nas razem przez te kilka lat.
+Losy wojny zmieniły się całkowicie. Bez twojego przywództwa czasy wyglądały ponuro. Próbowaliśmy zrobić, co w naszej mocy, z moim drogim [[Cosmo]], i zdecydowaliśmy się przejąć dowodzenie, ale [[Telamok Arkelander|Telamok]] również próbował przejąć przywództwo, komplikując sprawy. Prawdę mówiąc, to tylko [[Balmytria]] trzymała nas razem przez te kilka lat.
 
 ## Nowi bogowie
 
@@ -91,9 +91,9 @@ Tytani nie mogli się równać z bogami. Wkrótce ziemie należały do nas, a [[
 
 ## Śmiertelny impas
 
-Ten impas był początkiem nowego rodzaju wojny, opartej na najazdach. W tych latach zginęło wielu tubylców i osadników. [[Jasena Ventrak|Jasena]] dużo dyskutowała z [[Versi]] i postanowiła spotkać się z niebezpiecznymi [[Mojry|Mojrami]], aby znaleźć rozwiązanie. Ale nigdy więcej jej nie zobaczyliśmy, [[Damon]] stwierdził, że nas zdradziła. [[Estor Arkelander|Estor]] i [[Telamok]] toczyli spór, ten pierwszy zlecił [[Gregor Huorath|Gregorowi]] i [[Hezzebal|Hezzebalowi]] tajną misję, ale nigdy więcej ich nie zobaczyliśmy.
+Ten impas był początkiem nowego rodzaju wojny, opartej na najazdach. W tych latach zginęło wielu tubylców i osadników. [[Jasena Ventrak|Jasena]] dużo dyskutowała z [[Versi]] i postanowiła spotkać się z niebezpiecznymi [[Mojry|Mojrami]], aby znaleźć rozwiązanie. Ale nigdy więcej jej nie zobaczyliśmy, [[Damon]] stwierdził, że nas zdradziła. [[Estor Arkelander|Estor]] i [[Telamok Arkelander|Telamok]] toczyli spór, ten pierwszy zlecił [[Gregor Huorath|Gregorowi]] i [[Hezzebal|Hezzebalowi]] tajną misję, ale nigdy więcej ich nie zobaczyliśmy.
 
-Nawet z bogami po naszej stronie, nigdy nie byliśmy tacy sami bez naszych smoków. Wbrew radom bogów i pomimo tego, że nasza liczebność znacznie się zmniejszyła, [[Telamok]] zdecydował się na desperacki najazd Smoczych Lordów na [[Praxys]], z [[Adonis Neurdagon|Adonisem]], [[Damon|Damonem]] i naszymi żołnierzami w [[Latająca Forteca Smoczych Lordów|latajacej fortecy]]. W międzyczasie miałam strzec naszej stolicy z niewielkimi siłami. Ale atak się nie powiódł. W końcu, gdy [[Estor Arkelander|Estor]] zabrał [[Ultros]], by wytoczyć ostateczną wojnę Tytanom, [[Damon]] wiedział, że będzie to oznaczać zgubę naszego świętego zakonu. Ale skoro [[Xander]] odszedł, kto mógł go powstrzymać? [[Xander]], co byś zrobił w takiej sytuacji? Straciliśmy tyle jedności i mądrości bez ciebie. Widzę to teraz, ten atak nie mógł się udać: byliśmy skazani na zagładę bez [[Estor Arkelander|Estora]] i jego [[Ultros|Ultrosa]]. Kolejny zdrajca.
+Nawet z bogami po naszej stronie, nigdy nie byliśmy tacy sami bez naszych smoków. Wbrew radom bogów i pomimo tego, że nasza liczebność znacznie się zmniejszyła, [[Telamok Arkelander|Telamok]] zdecydował się na desperacki najazd Smoczych Lordów na [[Praxys]], z [[Adonis Neurdagon|Adonisem]], [[Damon|Damonem]] i naszymi żołnierzami w [[Latająca Forteca Smoczych Lordów|latajacej fortecy]]. W międzyczasie miałam strzec naszej stolicy z niewielkimi siłami. Ale atak się nie powiódł. W końcu, gdy [[Estor Arkelander|Estor]] zabrał [[Ultros]], by wytoczyć ostateczną wojnę Tytanom, [[Damon]] wiedział, że będzie to oznaczać zgubę naszego świętego zakonu. Ale skoro [[Xander]] odszedł, kto mógł go powstrzymać? [[Xander]], co byś zrobił w takiej sytuacji? Straciliśmy tyle jedności i mądrości bez ciebie. Widzę to teraz, ten atak nie mógł się udać: byliśmy skazani na zagładę bez [[Estor Arkelander|Estora]] i jego [[Ultros|Ultrosa]]. Kolejny zdrajca.
 
 ## Przysięga pokoju
 

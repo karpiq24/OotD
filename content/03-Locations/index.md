@@ -6,7 +6,7 @@ title: Locations
 
 - [[Hades]]
 - [[Kontynent Thylea]]
+- [[Królestwo Syren]]
 - [[Morze Otchłani]]
-- [[Samotna Wyspa]]
 - [[Zapomniane Morze]]
 - [[Zatoka Cerulańska]]

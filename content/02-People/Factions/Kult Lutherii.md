@@ -19,4 +19,3 @@ Głównym zadaniem Kultu jest przetwarzanie winogron dostarczanych przez satyró
 
 ## Relacje
 - **[[Lutheria]]**: Patronka kultu.
-- **[[Thylean Satyr|Satyrowie]]**: Partnerzy handlowi i religijni w ramach starożytnej przysięgi.

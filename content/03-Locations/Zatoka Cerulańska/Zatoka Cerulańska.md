@@ -10,10 +10,8 @@ population:
 
 ![Placeholder](../../assets/placeholder.png)
 
-Krótki opis miejsca, jego atmosfera i ogólny wygląd.
+Plemiona barbarzyńców żyją na wyspach Zatoki. Są postrzegani jako niebezpieczni na równi z plemionami [[Thylean Centaur|centaurów]].
 
-## Ciekawe Miejsca
-- **Wyspy**: Zamieszkane przez "dzikusów" (wg Estora).
 
 ## Historia
 Obszar działań [[Estor Arkelander]].

@@ -10,13 +10,10 @@ population: Amazonki
 
 ![Placeholder](../../assets/placeholder.png)
 
-Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek.
-
-## Ciekawe Miejsca
-- **...**: ...
+Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek. Są one uważane za najbardziej przerażające ze wszystkich plemion barbarzyńskich w Zatoce.
 
 ## Mieszkańcy
-- [[Yala Pierwsza]] (Przywódczyni)
+- [[Yala]] (Przywódczyni)
 - Amazonki (Frakcja)
 
 ## Historia

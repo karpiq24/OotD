@@ -17,7 +17,7 @@ Migoczące światło latarni rzuca długie, tańczące cienie na ciasne pomieszc
 
 Nagle znane odgłosy cichną, zastąpione dźwiękami tętniącego życiem obozu wojennego – rżeniem koni, szmerem mężczyzn przygotowujących się do bitwy. Patrzysz oczami dowódcy tego obozu. Nie… Nie tyle patrzysz, co w tym momencie jesteś nim. Przed tobą góruje olbrzymi brązowy posąg, mijasz go i wkraczasz do namiotu.
 
-Wewnątrz twojego namiotu wojennego gromadzisz się z [[Damon|Damonem]] i twoimi najbardziej zaufanymi porucznikami. Studiujesz mapy rozłożone na stole, wodząc palcem po konturach fortyfikacji [[Gyganie|Gyganów]]. „Mój brat [[Telamok]] wysłał mnie tutaj, abym zabezpieczył tereny nadające się do uprawy. Ta forteca stoi na drodze naszej chwalebnej przyszłości. Musimy zabezpieczyć przeprawę przez rzekę. Tak, ich katapulty są potężne”, przyznajesz, „Ale ich obrona nie jest nie do zdobycia”.
+Wewnątrz twojego namiotu wojennego gromadzisz się z [[Damon|Damonem]] i twoimi najbardziej zaufanymi porucznikami. Studiujesz mapy rozłożone na stole, wodząc palcem po konturach fortyfikacji [[Gyganie|Gyganów]]. „Mój brat [[Telamok Arkelander|Telamok]] wysłał mnie tutaj, abym zabezpieczył tereny nadające się do uprawy. Ta forteca stoi na drodze naszej chwalebnej przyszłości. Musimy zabezpieczyć przeprawę przez rzekę. Tak, ich katapulty są potężne”, przyznajesz, „Ale ich obrona nie jest nie do zdobycia”.
 
 „Proponuję frontalny atak”, mówisz z przekonaniem. „[[Arkyrania]] i ja poprowadzimy szarżę, a nasza armia podąży za nami.”
 
@@ -27,7 +27,7 @@ Marszczysz brwi. „Więc co proponujesz? Ukryć się w krzakach i czekać, aż 
 
 „Nie”, odpowiada [[Damon]] spokojnie. „Zdobyliśmy posąg [[Sydon|Sydona]]. Jest pusty w środku Możemy go użyć, wystarczy tylko dokonać kilku przeróbek. Ukryjemy w środku odział, a oni wciągną nas do twierdzy. Pod osłoną nocy odział dokona sabotażu katapult. Rano postawimy im ultimatum. Z niesprawnymi machinami, będą musieli się poddać.”
 
-Milczysz przez chwilę, rozważając jego słowa. Pomysł z posągiem wydaje ci się… trochę tchórzliwy. Ale [[Damon]] ma rację – frontalny atak to spore ryzyko. Przypominają ci się słowa [[Telamok|Telamoka]], który naciskał abyś słuchał rad jego najbliższego przyjaciela.
+Milczysz przez chwilę, rozważając jego słowa. Pomysł z posągiem wydaje ci się… trochę tchórzliwy. Ale [[Damon]] ma rację – frontalny atak to spore ryzyko. Przypominają ci się słowa [[Telamok Arkelander|Telamoka]], który naciskał abyś słuchał rad jego najbliższego przyjaciela.
 
 „Dobrze”, mówisz w końcu. „Niech będzie po twojemu. Ale, ja sam też ukryję się w posągu.”
 
