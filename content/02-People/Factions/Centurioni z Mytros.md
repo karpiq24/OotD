@@ -17,8 +17,17 @@ _Regularna armia obrońców Mytros._
 ## Opis
 Centurioni to regularna armia z poboru, mająca za zadanie egzekwować prawo w królestwie [[Mytros]]. Chociaż centurioni oddają cześć patronce miasta podczas świąt religijnych, niemal każdy żołnierz modli się otwarcie do [[Pythor|Pythora]], boga bitwy.
 
-## Organizacja
-Najwyższym rangą centurionem jest Król [[Acastus]], który dowodzi armią i służy jako ostateczny arbiter sprawiedliwości dla miasta.
+## Cele
+Obrona Mytros i egzekwowanie prawa króla Acastusa.
+
+## Siedziba
+[[Mytros]]
+
+## Członkowie
+Najwyższym rangą centurionem jest Król [[Acastus]], który dowodzi armią.
+
+## Relacje
+- **Patron**: [[Pythor]] (nieoficjalnie), [[Mytros]] (oficjalnie).
 
 ## Historia
 Historia centurionów sięga Pierwszej Wojny, kiedy to podążali za Pythorem do walki przeciwko centaurom i gyganom.
