@@ -1,11 +1,10 @@
 ---
 title: Mojry
-tags: [person, faction, gods]
-race: Bogowie / Tytani
-gender: Female
-occupation: Tkaczki Losu
-affiliation: Sydon
-image_prompt:
+tags:
+  - faction
+  - gods
+leader: []
+headquarters: []
 ---
 
 # Mojry
@@ -14,9 +13,23 @@ image_prompt:
 
 _Tkaczki ludzkiego losu._
 
-Tajemnicze i niebezpieczne istoty, które mają włdzę nad przeznaczeniem. Według wizji [[Versi]], uległy podszeptom [[Sydon|Sydona]] i zawarły z nim pakt, skazując smocze jaja na spaczenie.
+## Opis
+Tajemnicze i niebezpieczne istoty (Bogowie/Tytani), które mają władzę nad przeznaczeniem.
+
+## Cele
+TBD
+
+## Siedziba
+TBD
+
+## Członkowie
+Trzy siostry.
+
+## Relacje
+- **Sojusznik**: [[Sydon]] (na mocy paktu).
+- **Wróg**: [[Jasena Ventrak]] (ofiara).
 
 ## Historia
-Zawarły pakt z [[Sydon|Sydonem]] w zamian za obietnicę potęgi.
+Według wizji [[Versi]], uległy podszeptom [[Sydon|Sydona]] i zawarły z nim pakt, skazując smocze jaja na spaczenie.
 Ich działania doprowadziły do spaczenia smoczych jaj, przyspieszając wzrost smoków, czyniąc je marionetkami.
 Dawniej [[Jasena Ventrak]] spotkała się z nimi, by znaleźć rozwiązanie dla impasu w wojnie, ale zgubiły ja jej własne targi z Mojrami.
