@@ -4,10 +4,15 @@ title: Factions
 
 # Factions
 
+- [[Barbarzyńcy z Zatoki]]
 - [[Bohaterowie Przepowiedni]]
+- [[Centurioni z Mytros]]
 - [[Cztery Wiatry]]
+- [[Druidzi ze Starego Lasu]]
+- [[Furie]]
 - [[Gyganie]]
 - [[Kult Lutherii]]
+- [[Kult Węża]]
 - [[Mojry]]
 - [[Myrmeki]]
 - [[Pięciu Bogów]]

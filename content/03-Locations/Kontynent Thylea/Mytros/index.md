@@ -7,5 +7,4 @@ title: Mytros
 - [[Akademia Mytros]]
 - [[Kolos Pythora]]
 - [[Mytros]]
-- [[Ultros]]
 - [[Winnice Mytros]]
