@@ -3,7 +3,7 @@ title: Cztery Wiatry
 tags:
   - faction
   - group
-leader: [[Kyrah]]
+leader: "[[Kyrah]]"
 headquarters: []
 ---
 

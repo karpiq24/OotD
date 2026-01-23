@@ -4,7 +4,7 @@ tags:
   - faction
   - gods
 leader: []
-headquarters: [[Mytros]]
+headquarters: "[[Mytros]]"
 ---
 
 # Pięciu Bogów

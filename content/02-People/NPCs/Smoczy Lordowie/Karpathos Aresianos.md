@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Male
 occupation: Smoczy Lord, Król Arezji
-affiliation: [[Arezja]], [[Smoczy Lordowie]] (dawniej)
+affiliation: "[[Arezja]], [[Smoczy Lordowie]] (dawniej)"
 image_prompt:
 ---
 

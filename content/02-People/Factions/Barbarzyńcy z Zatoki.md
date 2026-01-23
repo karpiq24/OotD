@@ -3,7 +3,7 @@ title: Barbarzyńcy z Zatoki
 tags:
   - faction
 leader: []
-headquarters: [[Zatoka Cerulańska]], [[Themis]]
+headquarters: "[[Zatoka Cerulańska]], [[Themis]]"
 ---
 
 # Barbarzyńcy z Zatoki

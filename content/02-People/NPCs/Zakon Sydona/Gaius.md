@@ -6,7 +6,7 @@ tags:
 race: Człowiek
 gender: Mężczyzna
 occupation: Dowódca Zakonu Sydona
-affiliation: [[Sydon]], [[Wyspa Yonder]]
+affiliation: "[[Sydon]], [[Wyspa Yonder]]"
 ---
 
 # Gaius

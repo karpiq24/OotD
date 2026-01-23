@@ -34,6 +34,8 @@ Kyrah często przyjmuje różne tożsamości, by podróżować wśród mieszkań
 ## Historia
 Kyrah od stuleci wpływa na kulturę i sztukę Thylei. Wielu artystów i poetów modli się do niej o natchnienie. 
 
+W [[Sesja 1 - Wielki Dzik]] to ona zebrała bohaterów w gospodzie [[Kwaśny Rocznik]], udając zwykłą (choć nieco zbyt pewną siebie) wysłanniczkę Wyroczni. Po wygłoszeniu przepowiedni przez [[Versi]], Kyrah zaoferowała się jako przewodniczka i towarzyszka podróży, nie przyjmując odmowy. Jej główną motywacją jest znalezienie inspiracji do napisania wielkiego eposu o czynach bohaterów.
+
 W przeszłości była blisko związana z istotami rasy Fey:
 - **[[Boreas]]**: Poznała go w jego młodości w [[Winnice Mytros|Winnicach Mytros]]. To ona zainspirowała go do opuszczenia domu i dołączenia do Czterech Wiatrów.
 - **[[Zephyrus]]**: Przez 150 lat łączyła ich głęboka więź i miłość. Podróżowali razem po wybrzeżach, dzieląc się sztuką i przygodami.
