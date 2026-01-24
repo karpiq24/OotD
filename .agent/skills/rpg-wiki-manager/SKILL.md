@@ -58,7 +58,15 @@ If the entity does **NOT** exist:
 -   **Variant Spellings**: Fix spelling only if it's clearly a typo of a known name, and link it.
 -   **Missing Data**: If creating an NPC and you only know their name, fill the template with known info and leave others as "TBD" or empty. Do NOT invent information.
 
-## 5. Templates
+## 5. Standard Directories for New Entities
+When creating NEW entities, always use these target directories:
+-   **NPCs**: `content/02-People/NPCs/` (or specific subfolder if known, e.g. `Mytros/`)
+-   **Locations**: `content/03-Locations/` (use `Kontynent Thylea/` or appropriate region if known)
+-   **Items**: `content/04-Items-and-Loot/`
+-   **Factions**: `content/02-People/Factions/`
+-   **Lore**: `content/05-Lore/`
+
+## 6. Templates
 
 You MUST use these templates for new files:
 -   **NPCs**: `resources/NPC.md`
