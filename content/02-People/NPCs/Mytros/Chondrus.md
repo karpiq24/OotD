@@ -6,8 +6,8 @@ tags:
 race: Tiefling
 gender: Male
 occupation: Doradca Króla
-affiliation: Mytros, Acastus, Sydon
-image_prompt:
+affiliation: [[Mytros]], [[Acastus]], [[Kult Lutherii]], [[Gaius]]
+image_prompt: A blue-skinned tiefling in black robes, whispering into a king's ear, manipulative smile, fantasy art style.
 ---
 
 # Chondrus
@@ -17,7 +17,10 @@ image_prompt:
 _Doradca Króla Acastusa_
 
 ## Opis
-Niebieskoskóry tiefling noszący czarne szaty.
+Chondrus to niebieskoskóry tiefling noszący eleganckie czarne szaty. Pełni funkcję głównego doradcy króla Acastusa, choć w rzeczywistości jest kapłanem **[[Lutheria|Lutherii]]** wywodzącym się ze **[[Stygian Row]]**.
+
+## Osobowość
+Jest przebiegły, manipulujący i cyniczny. Publicznie udaje pobożnego zwolennika Pięciu Bogów, wygłaszając płomienne mowy o nadziei na cud.
 
 ## Historia
-Doradca króla Acastusa. Twierdzi, że pragnie cudu od Pięciu Bogów, choć jego powiązania są podejrzane.
+Podczas narady w Sali Tronowej nalegał, by Vallus użyła swojej mocy aby odegnać burze Sydona.

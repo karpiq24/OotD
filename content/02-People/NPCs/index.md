@@ -22,6 +22,7 @@ title: Lista postaci niezależnych
 - [[Pięciu Bogów]]
 - [[Sen Kasandry]]
 - [[Smoczy Lordowie]]
+- [[Smoki]]
 - [[Stary Las]]
 - [[Tytani]]
 - [[Ultros]]

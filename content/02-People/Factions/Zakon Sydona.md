@@ -3,36 +3,23 @@ title: Zakon Sydona
 tags:
   - faction
   - organization
-leader: "[[Gaius]], [[Hergeron]]"
-headquarters: "[[Wyspa Yonder]], [[Praxys]]"
+leader: [[Gaius|Komandor Gaius]]
+headquarters: [[Świątynia Sydona]]
 ---
 
-# Zakon Sydona
+# Zakon Sydona (The Order of Sydon)
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Zakon wojowników i kapłanów oddanych Sydonowi, Panu Burz._
+_Fanatyczni wyznawcy Pana Burz._
 
-## Opis
-Organizacja militarno-religijna dążąca do przywrócenia panowania Tytanów nad Thyleą. Członkowie zakonu są fanatycznie lojalni wobec Sydona i czczą go ponad wszystkich innych bogów. Wypatrują znaków z niebios — w szczególności uderzeń piorunów — a ich kapłani przekazują wolę boga oceanów radzie Mytros.
+Zakon Sydona to potężna organizacja religijno-wojskowa z siedzibą w Mytros. Ich celem jest przywrócenie dominacji Tytanów i zakończenie kultu Pięciu Bogów, których uważają za uzurpatorów.
 
-Szeregi zakonu wypełnione są ciężkozbrojnymi paladynami noszącymi błękitne (cerulean) płaszcze i złote klamry, ale przyjmują oni prawdziwych wyznawców z każdego środowiska wojskowego. Zakon pragnie jedynie egzekwować wolę Sydona i znany jest z niszczenia kaplic Pięciu Bogów.
-
-## Cele
-- Przywrócenie porządku opartego na woli Tytanów.
-- Sabotaż wolnych miast, zwłaszcza Mytros.
-- Przygotowanie gruntu pod inwazję po zakończeniu Przysięgi Pokoju.
-
-## Siedziba
-[[Wyspa Yonder]], [[Praxys]].
+## Cechy
+*   **Lider**: **[[Gaius|Komandor Gaius]]**, paladyn dosiadający srebrnego smoka **[[Argyn]]**.
+*   **Siedziba**: [[Świątynia Sydona]] w Mytros oraz baza na wyspie [[Wyspa Yonder|Yonder]].
+*   **Wpływy**: Zakon cieszy się poparciem części arystokracji i młodych ludzi szukających siły. Król **[[Acastus]]** współpracuje z nimi.
+*   **Działania**: Wywierają presję na niszczenie świątyń Pięciu, patrolują ulice, a ich bogactwo (rzekomo z ruin gyganów) pozwala im na szerokie wpływy.
 
 ## Członkowie
-- [[Gaius]] (Dowódca Zakonu)
-- [[Hergeron]] (Boski patron i strateg)
-
-## Relacje
-- **Patron**: [[Sydon]].
-- **Wróg**: [[Pięciu Bogów]], [[Mytros]].
-
-## Historia
-Zakon zdobył znaczne wpływy w Mytros, gdzie planuje sabotaż wewnętrzny (otwarcie bram, eliminacja dowódców) w momencie wygaśnięcia Przysięgi Pokoju.
+Zakon składa się z kapłanów, paladynów i żołnierzy oddanych Sydonowi. Są dobrze uzbrojeni i zdyscyplinowani.
