@@ -9,6 +9,7 @@ title: Items And Loot
 - [[Kaduceusz Damona]]
 - [[Korona Smoczych Lordów]]
 - [[Młot Pythora]]
+- [[Podkowy Prędkości]]
 - [[Róg Balmytrii]]
 - [[Spellbooks]]
 - [[Tarcza Volkana]]
