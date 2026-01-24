@@ -39,6 +39,7 @@ This workflow guides the agent through manually processing a single session reca
         -   **Search Wiki** -> Search Book Source -> Link or Create (`resources/Location.md`) -> Link.
     -   For each **Item/Artifact** mentioned:
         -   **Search Wiki** -> Search Book Source -> Link or Create (`resources/Item.md`) -> Link.
+        -   **Destination for New Items**: `content/04-Items-and-Loot/`
 
 5.  **Final Polish**:
     -   Ensure frontmatter is correct.
