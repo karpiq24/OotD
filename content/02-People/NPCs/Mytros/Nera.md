@@ -1,5 +1,5 @@
 ---
-title: Nero
+title: Nera
 tags:
   - person
   - npc
@@ -10,11 +10,11 @@ affiliation: [[Kult Węża]], [[Moxena]]
 image_prompt: A shady female thief whispering in a dark corner of a tavern, looking suspicious, fantasy art style.
 ---
 
-# Nero
+# Nera
 
 ![Placeholder](../../assets/placeholder.png)
 
 _Złodziejka i członkini Kultu Węża._
 
 ## Opis
-Nero to siostra [[Grecos]]. Często przesiaduje w **[[Satyrzy Ogon]]**, świętując udane kradzieże. Jest członkinią **[[Kult Węża|Kultu Węża]]** i szpiegiem.
+Nera to siostra **[[Greciosa|Greciosy]]**. Często przesiaduje w **[[Satyrzy Ogon]]**, świętując udane kradzieże. Jest członkinią **[[Kult Węża|Kultu Węża]]** i szpiegiem.

@@ -21,4 +21,4 @@ Kult Węża to w rzeczywistości potężna gildia złodziei działająca w Mytro
 *   **Lokalizacja**: Ich wpływy są najsilniejsze w [[Stygian Row]], a plotki mówią o tajnym wejściu do ich kryjówki przez [[Kolos Pythora]].
 
 ## Członkowie
-Większość złodziei w mieście jest lojalna wobec Lady. Znani członkowie to bracia **Grecos** i **Nero** (szpiedzy) oraz kapitan **Varkon**.
+Większość złodziei w mieście jest lojalna wobec Lady. Znani członkowie to siostry **[[Greciosa]]** i **[[Nera]]** (szpiedzy) oraz kapitan **[[Varkon]]**.
