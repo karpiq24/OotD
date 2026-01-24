@@ -3,21 +3,21 @@ title: Talieus
 tags:
   - person
   - npc
-race:
+race: Tytan (Empyrean)
 gender: Male
 occupation:
-affiliation:
-image_prompt:
+affiliation: Sydon, Lutheria, Dzieci Tytanów
+image_prompt: A furious Titan baring his teeth, expressing raw anger, fantasy art style.
 ---
 
 # Talieus
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Syn Sydona i Lutherii_
+_Syn Sydona i Lutherii, ucieleśnienie gniewu._
 
 ## Opis
-Dziecko Bliźniaczych Tytanów.
+Talieus to tytan, który rzadko kryje swoją wściekłość. Często obnaża zęby w grymasie gniewu, gotów zniszczyć każdego, kto mu się sprzeciwi.
 
 ## Historia
-Nazwany po wuju, [[Talieus Pierwszy|Talieusie Pierwszym]].
+Nazwany po wuju, [[Talieus Pierwszy|Talieusie Pierwszym]]. Podczas spotkania na Górze Volkana patrzył na bohaterów z jawną wrogością i wściekłością.
