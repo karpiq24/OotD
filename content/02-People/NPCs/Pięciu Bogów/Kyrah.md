@@ -36,8 +36,10 @@ Kyrah od stuleci wpływa na kulturę i sztukę Thylei. Wielu artystów i poetów
 
 W [[Sesja 1 - Wielki Dzik]] to ona zebrała bohaterów w gospodzie [[Kwaśny Rocznik]], udając zwykłą (choć nieco zbyt pewną siebie) wysłanniczkę Wyroczni. Po wygłoszeniu przepowiedni przez [[Versi]], Kyrah zaoferowała się jako przewodniczka i towarzyszka podróży, nie przyjmując odmowy. Jej główną motywacją jest znalezienie inspiracji do napisania wielkiego eposu o czynach bohaterów.
 
+Podczas kryzysu w Mytros ([[Sesja 14 - Burza nad Mytros]]) Kyrah odegrała kluczową rolę. Na szczycie Góry Volkana dokonała niemożliwego – grała jednocześnie na **flecie, lutni i lirze**, poruszając się z boską szybkością. Jej muzyka, połączona z grą na harfie przez **[[Boreas|Boreasa]]** (którego przekonała do pomocy) i wspierana mocą **[[Vallus]]**, zdołała odeprzeć burzę Sydona i uspokoić Tytanów. To wydarzenie było też momentem odnowienia jej więzi z siostrą Vallus.
+
 W przeszłości była blisko związana z istotami rasy Fey:
-- **[[Boreas]]**: Poznała go w jego młodości w [[Winnice Mytros|Winnicach Mytros]]. To ona zainspirowała go do opuszczenia domu i dołączenia do Czterech Wiatrów.
+- **[[Boreas]]**: Poznała go w jego młodości w [[Winnice Mytros|Winnicach Mytros]]. To ona zainspirowała go do opuszczenia domu i dołączenia do Czterech Wiatrów. Ich spotkanie na Górze Volkana było początkiem pojednania.
 - **[[Zephyrus]]**: Przez 150 lat łączyła ich głęboka więź i miłość. Podróżowali razem po wybrzeżach, dzieląc się sztuką i przygodami.
 - **[[Euria]]**: Odnalazła ją na jej samotnej górze i przekonała do wyruszenia w świat.
 

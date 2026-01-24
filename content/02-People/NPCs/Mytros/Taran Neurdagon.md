@@ -3,23 +3,25 @@ title: Taran Neurdagon
 tags:
   - person
   - npc
-race: Man/Człowiek
-gender: Male/Mężczyzna
-occupation: Nobility/Szlachcic
-affiliation: House Neurdagon
+race: Human
+gender: Male
+occupation: Szlachcic, Kupiec
+affiliation: Ród Neurdagon, [[Mytros]]
+image_prompt: Weatlhy merchant lord in fine robes, standing in a lush garden estate, shrewd expression, fantasy art style.
 ---
 
 # Taran Neurdagon
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Szlachcic z Mytros, członek wpływowej rodziny Neurdagon._
+_Potężny kupiec i głowa rodu Neurdagon._
 
 ## Opis
-Fizyczny opis postaci.
+Taran Neurdagon to jeden z najbogatszych ludzi w Mytros. Jest potomkiem smoczego lorda **Adonisa Neurdagona**. Mieszka w opulentej **[[Posiadłość Neurdagonów|Posiadłości Neurdagonów]]** w Dzielnicy Szlacheckiej.
 
 ## Osobowość
-Cechy charakteru, motywacje, ideały.
+Jest dumnym i wpływowym arystokratą. Jego bogactwo opiera się głównie na nieruchomościach i handlu, w tym (choć niechętnie się do tego przyznaje) na handlu minotaurami.
 
-## Historia
-Krótka historia postaci i jej powiązania ze światem.
+## Cele
+Taran nienawidzi **[[Moxena|Pani Monet]]**, ponieważ jej ataki na handlarzy niewolników kosztują go fortunę. Oferuje nagrodę za jej głowę.
+Jego najmłodszy syn, **[[Sulla]]**, jest dla niego źródłem wstydu z powodu swojej obsesji na punkcie królowej Vallus.
