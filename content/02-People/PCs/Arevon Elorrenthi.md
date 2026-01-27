@@ -24,3 +24,5 @@ Arevon Elorrenthi, elficki druid z domu Phiarlan w Eberron, wychował się pośr
 Ocalały z katastrofy, Arevon szybko zaadaptował się do nowej rzeczywistości, wykorzystując swoje ocalałe zasoby, by przetrwać w obcym mieście Mytros. Zgłębiając historię i kulturę Thylei, otrzymał niespodziewane wezwanie od Wyroczni, która obiecała odpowiedzi na dręczące go pytania o los jego świata i przyczynę przybycia. Wyruszył więc w podróż, wierząc, że gwiazdy i przeznaczenie wskażą mu drogę powrotną lub nowy cel w tym dziwnym świecie.
 
 Podczas pobytu w [[Estoria|Estorii]], Arevon wykazał się sporą naiwnością wynikającą z nieznajomości lokalnych praw i klątw. Na [[Agora w Estorii|Agorze]] natknął się na [[Claus|Clausa]], rabusia grobów, i o mały włos nie dał się namówić na kupno przeklętego naszyjnika, co mogło sprowadzić na niego gniew bogów.
+
+W trakcie poszukiwań statku [[Ultros]] przy [[Martwe Wodospady]], Arevon stanął do walki z kapitanem widmo - [[Estor Arkelander|Estorem Arkelanderem]]. Padłszy ofiarą jego mrocznej mocy, został tymczasowo zabity, lecz interwencja bogini [[Kyrah]] przywróciła go do życia.

@@ -37,17 +37,27 @@ This workflow guides the agent through manually processing a single session reca
         -   **If New**: Create a file in `content/02-People/` using `resources/NPC.md`. Populate with Research. Then Link it.
     -   For each **Location** mentioned:
         -   **Search Wiki** -> Search Book Source -> Link or Create (`resources/Location.md`) -> Link.
-    -   For each **Item/Artifact** mentioned:
+    - For each **Item/Artifact** mentioned:
         -   **Search Wiki** -> Search Book Source -> Link or Create (`resources/Item.md`) -> Link.
         -   **Destination for New Items**: `content/04-Items-and-Loot/`
 
-5.  **Final Polish**:
+5.  **Entity Update Loop (New Information)**:
+    -   **Context**: The session recap contains the *latest events*.
+    -   **Action**: For every key Entity (NPC, PC, Location) involved in major events (deaths, pacts, battles, leadership changes):
+        -   **Read** their existing file.
+        -   **Append** a brief summary of the event to their `## Historia` or `## History` section.
+        -   **Link** back to the session: `W [[Sesja X - Tytuł]], ...`
+    -   **Examples**:
+        -   *NPC died*: "Zginął z ręki [Gracza] w [[Sesja X]]."
+        -   *Generic Location visited*: No update needed unless major change (e.g., destroyed).
+
+6.  **Final Polish**:
     -   Ensure frontmatter is correct.
     -   Verify image links work.
 
-6.  **Move & Rename File**:
+7.  **Move & Rename File**:
     -   Move the session file to `content/01-Sessions/`.
     -   **Filename Format**: Always use `Sesja X - Title.md` (e.g., `Sesja 3 - Skradziony Róg.md`).
 
-7.  **Cleanup**:
+8.  **Cleanup**:
     -   Delete original input file if needed.
