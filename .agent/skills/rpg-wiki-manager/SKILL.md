@@ -52,6 +52,12 @@ If the entity does **NOT** exist:
 3.  **CREATE**: Create the new file in the correct directory using the template content.
 4.  **LINK**: Update the source text to link to this new file: `[[New Entity Name]]`.
 
+### The "Update Existing" Rule
+If the entity **DOES** exist and plays a major role in the session (e.g. death, major revelation, change of status):
+1.  **UPDATE**: Edit the entity's file.
+2.  **APPEND**: Add a sentence to the `## Historia` section summarizing the new event.
+3.  **REFERENCE**: Explicitly link the session: `W [[Sesja X - Tytuł]]...`
+
 ## 4. Inconsistency Handling
 
 -   **Ambiguous Names**: If "The Captain" is mentioned and you know who it is, link it: `[[Orestes|The Captain]]`.
