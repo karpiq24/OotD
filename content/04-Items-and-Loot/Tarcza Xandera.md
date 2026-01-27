@@ -19,3 +19,5 @@ Wymaga dostrojenia.
 
 ## Historia
 Skradziona przez [[Graxis Rzeźnik|Graxisa]]. Często nazywana Tarczą [[Xander|Xandera]].
+
+W [[Sesja 23 - Nowe Przymierze]] została dostarczona przez [[Volkan|Volkana]], już w pełni sprawna.

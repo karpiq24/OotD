@@ -23,4 +23,7 @@ Orestes, minotaurzy barbarzyńca, po śmierci rodziców został przygarnięty pr
 
 Punktem zwrotnym stało się wydarzenie, gdy jedna z przenoszonych skrzyń okazała się zabójczym mimikiem. Orestes, dobywając starego młota swojego ojca, zdołał uratować towarzysza przed potworem. Teraz, jako "Skazany", wierzy, że poprzez bohaterskie czyny zdoła w końcu przełamać ciążącą nad nim klątwę nieszczęścia i uczynić w świecie coś dobrego.
 
+W [[Sesja 21 - Ukryte pragnienia Ismene]] zebrał liczne plotki podczas imprezy w Akademii.
+W [[Sesja 22 - Taniec z Meduzą]] znalazł na statku [[Varkon|Varkona]] posągi (w tym córkę [[Maximus|Maximusa]]) i zatopił statek, wyrąbując dziurę w dnie.
+
 Podczas wyprawy po legendarny statek [[Ultros]], Orestes został wybrany przez ducha driady [[Delphia|Delphi]] na nowego kapitana. Po pokonaniu [[Estor Arkelander|Estora]], stanął przed wyborem natury nowej załogi. Decydując się na **ścieżkę żywych**, uwolnił dusze dotychczasowej nieumarłej załogi, stając się dowódcą pustego, lecz gotowego do żeglugi okrętu. Ze swoimi nowymi obowiązkami oraz statkiem zdolnym przemierzać zarówno oceany, jak i niebiosa, Orestes przygotowuje się do ostatecznej rozgrywki.

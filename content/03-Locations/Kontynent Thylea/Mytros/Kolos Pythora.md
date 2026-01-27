@@ -10,14 +10,7 @@ population:
 
 ![Placeholder](../../assets/placeholder.png)
 
-Krótki opis miejsca, jego atmosfera i ogólny wygląd.
-
-## Ciekawe Miejsca
-- **Miejsce 1**: Opis.
-- **Miejsce 2**: Opis.
-
-## Mieszkańcy
-Szczególni NPC lub grupy zamieszkujące to miejsce.
+Wielki posąg boga [[Pythor|Pythora]] stojący w porcie [[Mytros]].
 
 ## Historia
-Wydarzenia związane z tym miejscem.
+W [[Sesja 23 - Nowe Przymierze]] okazało się, że wewnątrz Kolosa ukryta jest tajna siedziba [[Kult Węża|Kultu Węża]]. Tam drużyna spotkała się z [[Moxena|Moxeną]], aby sformalizować sojusz. Wejście znał [[Varkon]].

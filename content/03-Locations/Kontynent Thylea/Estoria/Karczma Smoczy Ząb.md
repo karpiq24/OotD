@@ -25,4 +25,4 @@ Ciesząca się dużą popularnością gospoda w [[Estoria|Estorii]], mieszcząca
 - **Krasnoludzkie Czaszki**: Starsi członkowie klanu krasnoludów szukają spokoju dla swoich bliskich poległych przed wiekami w [[Mithralowa Kuźnia|Mithralowych Kopalniach]]. Oferują 10 gp za każdą odzyskaną i zwróconą krasnoludzką czaszkę.
 
 ## Historia
-Miejsce odpoczynku bohaterów podczas ich pobytu w [[Estoria|Estorii]]. To tutaj dowiedzieli się o wielu lokalnych problemach i plotkach.
+Miejsce odpoczynku bohaterów podczas ich pobytu w [[Estoria|Estorii]] (m.in. w [[Sesja 3 - Skradziony Róg]]). To tutaj dowiedzieli się o wielu lokalnych problemach i plotkach.

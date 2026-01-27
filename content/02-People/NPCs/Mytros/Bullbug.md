@@ -18,3 +18,7 @@ _Heroiczna minotaur._
 
 ## Opis
 Bullbug to potężna minotaur o gołębim sercu. Jest jednym z niewolników na **[[Targ Minotaurów|Targu Minotaurów]]**, ale nie traci ducha.
+
+## Historia
+W [[Sesja 17 - Targ Minotaurów]] walczyła z [[Orestes|Orestesem]] na arenie. Po przegranej została wykupiona przez drużynę i uwolniona.
+W [[Sesja 20 - Noc Długich Rogów]] pomogła uratować i wyprowadzić z miasta grupę minotaurów podczas zamieszek.

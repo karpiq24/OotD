@@ -24,3 +24,5 @@ Cechy charakteru, motywacje, ideały.
 
 ## Historia
 Dowódca [[Obóz wojskowy Mytros]], którego bohaterowie spotkali w drodze do [[Świątynia Wyroczni]].
+
+W [[Sesja 1 - Wielki Dzik]] jego obóz został odwiedzony przez drużynę zmierzającą do Wyroczni po pokonaniu Wielkiego Dzika.

@@ -31,3 +31,5 @@ Statek jest artefaktem o niezwykłej mocy:
 ## Historia
 Zbudowany jako narzędzie Estora do walki z Tytanami podczas Pierwszej Wojny. To na jego pokładzie Estor zawarł pakt z [[Lutheria]]. W zamian za obietnicę "nieśmiertelności" dla siebie i swojej załogi, Estor zamordował swoich oficerów. Rytuał związał ich dusze ze statkiem na zawsze.
 Ultros był używany do niszczenia twierdz [[Gyganie|Gyganów]] i siania terroru na morzach. Po wojnie stał się więzieniem dla swojej załogi.
+
+W [[Sesja 24 - Ultros]] statek został odnaleziony przy [[Martwe Wodospady|Martwych Wodospadach]]. Po pokonaniu [[Estor Arkelander|Estora]], dowództwo nad statkiem objął [[Orestes]]. Wybrał on ścieżkę żywych, co wyzwoliło dotychczasową nieumarłą załogę. Statek jest teraz w rękach drużyny, ale wymaga nowej załogi.

@@ -28,4 +28,8 @@ Jego głównym celem jest odbudowa starożytnego **Zakonu Smoczych Lordów**. St
 
 ## Historia
 Ożenił się z Vallus 20 lat temu, co zapewniło mu tron. Od Sydona otrzymał smocze jaja, dzięki czemu wychował Icarusa i smoki dla swojej gwardii.
+
+Chce wskrzesić [[Smoczy Lordowie|zakon smoczych jeźdźców]].
 Wysłał bohaterów na poszukiwanie statku **[[Ultros]]**, wręczając im mapę po zażegnaniu burzy. Zrobił to jednak z pogardą, nazywając ich misję "tak zwanymi wielkimi pracami" i twierdząc, że Ultros nie będzie mu już potrzebny, skoro ma smoki.
+
+W [[Sesja 13 - Wezwani przez Króla]] spotkał się z drużyną, zachowując się arogancko. W [[Sesja 14 - Burza nad Mytros]] nagrodził bohaterów mapą do [[Ultros|Ultrosa]] po powstrzymaniu burzy.

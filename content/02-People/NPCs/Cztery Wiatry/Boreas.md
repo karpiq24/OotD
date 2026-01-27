@@ -25,4 +25,4 @@ W młodości żądny przygód i znudzony życiem w winnicy. Po traumatycznych pr
 ## Historia
 Zaprzyjaźnił się z [[Kyrah]] i uciekł z domu, by podróżować. Udał się na północ do centaurów z misją pokojową, ale został zniewolony. Uciekł używając magii i zabijając swoich oprawców. Po powrocie zastał rodziców martwych lub zaginionych. Obwinia Kyrah za swoje nieszczęścia.
 
-Niedawno został odnaleziony przez bohaterów i przekonany do pomocy w powstrzymaniu burzy nękającej Mytros. Wraz z [[Kyrah]] i [[Vallus]] odegrał swoją pieśń na **Górze Volkana**, co odpędziło gniew Sydona.
+W [[Sesja 14 - Burza nad Mytros]] został odnaleziony przez bohaterów i przekonany do pomocy w powstrzymaniu burzy nękającej Mytros. Wraz z [[Kyrah]] i [[Vallus]] odegrał swoją pieśń na **Górze Volkana**, co odpędziło gniew Sydona.

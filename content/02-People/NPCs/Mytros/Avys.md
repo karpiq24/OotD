@@ -24,4 +24,6 @@ Starsza, surowa kobieta, znana ze swojej wiedzy o mrocznych sztukach.
 Tajemnicza i wymagająca wobec swoich studentów.
 
 ## Historia
-Wykłada w Akademii w Mytros. Była nauczycielką Ismene Neurdagon, ucząc ją tajników nekromancji.
+Wykłada w Akademii w Mytros. Była nauczycielką [[Ismene Neurdagon|Ismene Neurdagon]], ucząc ją tajników nekromancji.
+
+W [[Sesja 21 - Ukryte pragnienia Ismene]] potwierdzono, że uczyła Ismene nekromancji, co ta wykorzystywała do badań nad ożywianiem materii.

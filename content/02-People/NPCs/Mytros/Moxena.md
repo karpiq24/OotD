@@ -28,5 +28,8 @@ Pochodzi z [[Themis|Wyspy Themis]]. Kilkanaście lat temu, wraz z siostrami, dok
 ### Działalność w Mytros
 W [[Mytros]] znana była jako "Pani Monet". Współpracowała z [[Hexia|Hexią]], porywając i sprzedając jej skamieniałych artystów (za pośrednictwem [[Varkon|Varkona]]). Do jej współpracowników należała [[Rhea]] oraz [[Versir]] (który ją zdradził).
 
+W [[Sesja 21 - Ukryte pragnienia Ismene]] jej działalność została ujawniona przez [[Astra|Astrę]], która doniosła [[Versir|Versirowi]] o układzie Moxeny z [[Hexia|Hexią]]. Drużyna odkryła również jej siatkę szpiegowską ([[Greciosa]] i [[Nera]]) oraz miejsce spotkań ([[Satyrzy Ogon]]).
+
 ### Sojusz z Drużyną
-Po zdemaskowaniu przez drużynę, znalazła się w potrzasku, zawarła z bohaterami nowe przymierze. W zamian za pomoc w powrocie na [[Themis]] i załatwienie sprawy ze smokiem [[Hexia|Hexii]], zgodziła się zaprzestać porywania ludzi w Mytros i przekazała informację o [[Posiadłość Neurdagonów]].
+W [[Sesja 22 - Taniec z Meduzą]], po zdemaskowaniu przez drużynę, znalazła się w potrzasku, zawarła z bohaterami nowe przymierze. Bohaterowie zobowiązali się pomóc jej wrócić na [[Themis|Wyspę Themis]] i obalić panującą tam fałszywą królową. W zamian Moxena przysięgła natychmiast zaprzestać porywania artystów w Mytros, przekazać informacje o [[Posiadłość Neurdagonów]] oraz w przyszłości pomóc drużynie w walce z [[Hexia|Hexią]].
+W [[Sesja 23 - Nowe Przymierze]] sformalizowała układ w [[Kolos Pythora|Kolosie Pythora]] i przekazała drużynie mapę [[Posiadłość Neurdagonów|Posiadłości Neurdagonów]].

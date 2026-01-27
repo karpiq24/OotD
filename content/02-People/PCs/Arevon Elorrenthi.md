@@ -25,4 +25,6 @@ Ocalały z katastrofy, Arevon szybko zaadaptował się do nowej rzeczywistości,
 
 Podczas pobytu w [[Estoria|Estorii]], Arevon wykazał się sporą naiwnością wynikającą z nieznajomości lokalnych praw i klątw. Na [[Agora w Estorii|Agorze]] natknął się na [[Claus|Clausa]], rabusia grobów, i o mały włos nie dał się namówić na kupno przeklętego naszyjnika, co mogło sprowadzić na niego gniew bogów.
 
+W [[Sesja 21 - Ukryte pragnienia Ismene]] znalazł w Akademii książkę "Golemy i Automatony", z której dowiedział się o [[Keledone]].
+
 W trakcie poszukiwań statku [[Ultros]] przy [[Martwe Wodospady]], Arevon stanął do walki z kapitanem widmo - [[Estor Arkelander|Estorem Arkelanderem]]. Padłszy ofiarą jego mrocznej mocy, został tymczasowo zabity, lecz interwencja bogini [[Kyrah]] przywróciła go do życia.

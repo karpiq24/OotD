@@ -19,4 +19,4 @@ image_prompt:
 _Najbogatszy kupiec z Arezji._
 
 ## Historia
-Jeden z najbardziej wpływowych ludzi w Arezji. Został wygnany na [[Wyspa Wygnańców|Wyspę Wygnańców]] po nieudanej próbie otrucia [[Sulla|syna]] [[Taran Neurdagon|Tarana Neurdagona]]. Jego wygnanie było znaczącym wydarzeniem politycznym.
+W [[Sesja 21 - Ukryte pragnienia Ismene]] drużyna dowiedziała się, że został wygnany na [[Wyspa Wygnańców|Wyspę Wygnańców]] po nieudanej próbie otrucia syna [[Taran Neurdagon|Tarana Neurdagona]]. Jego wygnanie było znaczącym wydarzeniem politycznym.

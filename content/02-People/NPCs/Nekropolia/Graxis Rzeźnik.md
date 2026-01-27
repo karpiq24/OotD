@@ -25,3 +25,5 @@ Nienawidzi [[Xander|Xandera]], [[Damon|Damona]] i wszystkich [[Smoczy Lordowie|S
 
 ## Historia
 Był ostatnim z plemienia stworzonego przez [[Lutheria|Lutherię]]. Kiedy [[Rizon Phobas]] pokonała jego lud, [[Damon]] rzucił klątwę na ocalałych, zmuszając ich do wiecznej służby jako strażników Nekropolii.
+
+W [[Sesja 9 - W Głębi Grobowca Xandera]] stanął na drodze Bohaterom Przepowiedni, broniąc dostępu do grobowca Xandera, ale został pokonany.

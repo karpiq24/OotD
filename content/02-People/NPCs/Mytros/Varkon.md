@@ -21,3 +21,6 @@ Varkon to półork, kapitan bandytów, który często przesiaduje w tawernie **[
 
 ## Działalność
 Pracuje dla **[[Moxena|Pani Monet]]**, wykonując brudną robotę dla **[[Kult Węża|Kultu Węża]]**. Przemyca skamieniałe ofiary Lady na Wyspę Smoka (Island of the Dragon) dla Hexii. Zna również tajne wejście do **[[Kolos Pythora|Kolosa Pythora]]**, używane przez kult.
+
+## Historia
+W [[Sesja 21 - Ukryte pragnienia Ismene]] spotkał się z [[Felicjan Janus Twardowski|Felicjanem]] w tawernie [[Satyrzy Ogon]]. Zgodził się zabrać drużynę na [[Wyspa Smoka|Smoczą Wyspę]] za 20 000 sztuk złota. Ujawnił lokalizację swojego statku, na który drużyna wkradła się pod nieobecność załogi.

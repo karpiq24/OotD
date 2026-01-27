@@ -23,4 +23,4 @@ Thobos jest przyjaznym niziołkiem, który z wielką gościnnością przyjmuje g
 Uczynny, spokojny i bardzo przywiązany do swojej społeczności. Chętnie pomaga bohaterom, mimo że jego możliwości są ograniczone przez fakt, iż wszystko w Woodhike jest dostosowane do rozmiarów małych ras.
 
 ## Historia
-Bohaterowie spotkali Thobosa, gdy Woodhike zmagało się z problemem bandytów i zaginionych zwierząt. Thobos poprosił ich o pomoc w rozwiązaniu tej sprawy, wierząc, że za kłopotami stoją ludzcy kłusownicy. Po pokonaniu grupy [[Korteva|Kortevy]], Thobos zaproponował przygarnięcie przyjaznego cyklopa do swojej społeczności.
+Bohaterowie spotkali Thobosa w [[Sesja 6 - Problemy w Woodhike]], gdy Woodhike zmagało się z problemem bandytów i zaginionych zwierząt. Thobos poprosił ich o pomoc w rozwiązaniu tej sprawy, wierząc, że za kłopotami stoją ludzcy kłusownicy. Po pokonaniu grupy [[Korteva|Kortevy]], Thobos zaproponował przygarnięcie przyjaznego cyklopa do swojej społeczności.
