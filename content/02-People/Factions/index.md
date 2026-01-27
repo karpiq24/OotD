@@ -4,6 +4,7 @@ title: Factions
 
 # Factions
 
+- [[Amazonki]]
 - [[Barbarzyńcy z Zatoki]]
 - [[Bliźniaczy Tytani]]
 - [[Bohaterowie Przepowiedni]]
