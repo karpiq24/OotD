@@ -7,6 +7,7 @@ title: Inne
 - [[Braz]]
 - [[Crassius Curio]]
 - [[Javon]]
+- [[Keledone]]
 - [[Kraken]]
 - [[Król Troglodytów]]
 - [[Pellenia]]
