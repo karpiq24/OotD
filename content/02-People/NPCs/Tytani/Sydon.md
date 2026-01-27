@@ -28,3 +28,5 @@ Wysłał list do Heleki z rozkazem przyprowadzenia jego córki.
 
 Wraz ze swoją siostrą-żoną [[Lutheria|Lutherią]] rządził Thyleą przez eony, zanim przybyli [[Smoczy Lordowie]]. Po Pierwszej Wojnie został zmuszony do zawarcia [[Przysięga Pokoju|Przysiędgi Pokoju]] z [[Pięciu Bogów|Pięcioma Bogami]], która na pięćset lat ograniczyła jego wpływ na śmiertelników. Obecnie, gdy magia przysięgi słabnie, Sydon coraz śmielej manifestuje swoją wolę, nękając [[Estoria|Estorię]] suszą i żądając krwawych ofiar, takich jak ta z księżniczki [[Anora|Anory]].
 
+W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] wylądował na stadionie w [[Mytros]], przybywając w towarzystwie burzowych chmur.
+
