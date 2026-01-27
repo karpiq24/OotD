@@ -26,3 +26,5 @@ Intelektualista, historyk i naukowiec. Mniej zainteresowany walką, bardziej wie
 
 ## Historia
 Jest lojalnym sługą [[Estor Arkelander|Estora]], dbającym o porządek na statku i morale (lub jego brak) kapitana.
+
+W [[Sesja 24 - Ultros]] zaoferował [[Orestes|Orestesowi]] naukę. Odszedł wraz z resztą załogi w zaświaty po tym, jak nowy kapitan wybrał ścieżkę żywych.

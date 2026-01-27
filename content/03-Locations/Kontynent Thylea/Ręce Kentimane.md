@@ -17,3 +17,5 @@ Skały te mają kształt olbrzymich dłoni wyciągniętych ku niebu. Pielgrzymi 
 
 ## Historia
 Według legend mogą to być skamieniałe dłonie samego tytana Kentimane, lub rzeźba stworzona ku jego czci.
+
+W [[Sesja 8 - Ścieżka Umarłych]] bohaterowie przeszli obok nich podczas wspinaczki na [[Góra Telamok|Górę Telamok]], dowiadując się, że to miejsce pielgrzymek.

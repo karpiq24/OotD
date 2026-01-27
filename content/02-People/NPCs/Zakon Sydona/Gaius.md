@@ -24,4 +24,8 @@ Niezachwianie oddany [[Sydon|Sydonowi]]. Ceni dyscyplinę, prawo i siłę. Jest 
 Gardzi Pięcioma Bogami: Pythora uważa za pijaka, Kyrah za marną poetkę, a Vallus za słabą władczynię zamkniętą w wieży. Jego celem jest zniszczenie świątyń Pięciu i oddanie miasta w ręce Sydona.
 
 ## Historia
-Gaius dowodził oddziałem kapitanów [[Zakon Sydona|Zakonu Sydona]], który przybył do [[Estoria|Estorii]], by wyegzekwować żądanie złożenia ofiary z księżniczki [[Anora|Anory]]. To on nadzorował procesję na [[Skała Estora|Skałę Estora]]. Mimo swojej lojalności wobec Sydona, szanuje odwagę – gdy bohaterowie dobrowolnie zajęli miejsce Anory i przeżyli noc, niechętnie pozwolił im odejść, uznając, że warunki ofiary zostały spełnione.
+Gaius dowodził oddziałem kapitanów [[Zakon Sydona|Zakonu Sydona]], który przybył do [[Estoria|Estorii]], by wyegzekwować żądanie złożenia ofiary z księżniczki [[Anora|Anory]] (wydarzenia z [[Sesja 5 - Skała Estora]]). To on nadzorował procesję na [[Skała Estora|Skałę Estora]]. Mimo swojej lojalności wobec Sydona, szanuje odwagę – gdy bohaterowie dobrowolnie zajęli miejsce Anory i przeżyli noc, niechętnie pozwolił im odejść, uznając, że warunki ofiary zostały spełnione.
+
+W [[Sesja 8 - Ścieżka Umarłych]] spotkał bohaterów na szlaku do Nekropolii. Dosiadając swojego srebrnego smoka, ostrzegł ich przed kontynuowaniem wspinaczki (choć nie zaatakował). W [[Sesja 7 - Uratować Księżniczkę]] został obwiniony przez Hergerona o porażkę w sprawie Anory.
+
+W [[Sesja 17 - Targ Minotaurów]] przybył pod [[Świątynia Pięciu|Świątynię Pięciu]]. [[Felicjan Janus Twardowski|Felicjan]] wykrył jego myślami, że jest obojętny wobec [[Lutheria|Lutherii]], ale czuje nienawiść do [[Chondrus|Chondrusa]].

@@ -21,5 +21,7 @@ Zakon Sydona to potężna organizacja religijno-wojskowa z siedzibą w Mytros. I
 *   **Wpływy**: Zakon cieszy się poparciem części arystokracji i młodych ludzi szukających siły. Król **[[Acastus]]** współpracuje z nimi.
 *   **Działania**: Wywierają presję na niszczenie świątyń Pięciu, patrolują ulice, a ich bogactwo (rzekomo z ruin gyganów) pozwala im na szerokie wpływy.
 
-## Członkowie
-Zakon składa się z kapłanów, paladynów i żołnierzy oddanych Sydonowi. Są dobrze uzbrojeni i zdyscyplinowani.
+## Historia
+Zakon został założony po Pierwszej Wojnie.
+
+W [[Sesja 2 - Przepowiednia]] oddział Zakonu próbował siłą powstrzymać Bohaterów Przepowiedni przed wejściem do [[Świątynia Wyroczni]].

@@ -27,3 +27,6 @@ Oficjalnie świątynia jest utrzymywana przez rodzinę handlarzy winem, promują
 W rzeczywistości odbywają się tu rytualne porwania i ofiary z ludzi podczas każdej pełni księżyca. Rodzeństwo Trellus i Septia porywa ludzi (głównie tych, których nikt nie będzie szukał) i składa ich w ofierze Pani Snów.
 W piwnicach z winem przetrzymywane są porwane dzieci, które rodzeństwo planuje indoktrynować do kultu.
 Oferują również nagrodę za odnalezienie "zaginionych karawan z winem".
+
+## Historia
+W [[Sesja 16 - Świątynia Lutherii]] została zinfiltrowana przez drużynę, która zabiła kapłanów [[Septia|Septię]] i [[Trellus|Trellusa]] oraz uratowała więzione dzieci.

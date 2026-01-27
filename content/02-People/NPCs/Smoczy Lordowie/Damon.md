@@ -24,3 +24,5 @@ Gdy Smoczy Lordowie wyruszyli w swoją ostatnią podróż na Zapomniane Morze, k
 
 Przekazał trzy cenne przedmioty do Świątyni Pięciu, w tym zwój z Przysięgą Pokoju (Oath of Peace). Przysięga ta powstrzymała [[Bliźniaczy Tytani|Bliźniaczych Tytanów]] przed zemstą na 500 lat, pod warunkiem wznowienia ofiar. Po spełnieniu zadania, Damon zniknął wraz ze swoim statkiem i ciałami swoich towarzyszy.
 Założył również Akademię w Mytros, centrum wiedzy i magii.
+
+W [[Sesja 8 - Ścieżka Umarłych]] bohaterowie spotkali go jako tajemniczego strażnika Nekropolii. W [[Sesja 9 - W Głębi Grobowca Xandera]] pomógł im doświadczyć wizji (Arevon otrzymał od niego artefakt).

@@ -23,4 +23,4 @@ Ari to maleńka istota o przezroczystych skrzydłach, ubrana w stroje z liści i
 Ciekawska, radosna i skora do płatania figli, ale jednocześnie bardzo troszcząca się o bezpieczeństwo lasu i mieszkańców Woodhike.
 
 ## Historia
-Wraz ze swoim towarzyszem [[Eli|Elim]], Ari pomagała bohaterom, informując ich o podejrzanych działaniach bandytów [[Korteva|Kortevy]] w nocy. To dzięki jej wskazówkom bohaterowie zdołali namierzyć obóz kłusowników.
+Wraz ze swoim towarzyszem [[Eli|Elim]], Ari pomagała bohaterom (w [[Sesja 6 - Problemy w Woodhike]]), informując ich o podejrzanych działaniach bandytów [[Korteva|Kortevy]] w nocy. To dzięki jej wskazówkom bohaterowie zdołali namierzyć obóz kłusowników.

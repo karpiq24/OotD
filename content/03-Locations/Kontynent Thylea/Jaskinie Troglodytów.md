@@ -24,3 +24,5 @@ Górny poziom dawnych kopalni Mithralowej Kuźni, obecnie, przejęty przez szcze
 
 ## Historia
 Kopalnie zostały opuszczone przez krasnoludy wieki temu po ataku Ogara Cerbera. Po zabiciu ogara przez bestię z głębin, górne poziomy zasiedliły troglodyci, którzy wyszli z Podmroku.
+
+W [[Sesja 11 - Mithralowa Kuźnia]] drużyna zeszła głębiej w jaskinie, walcząc z troglodytami i cerberem.

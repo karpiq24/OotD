@@ -21,3 +21,5 @@ Hergeron to potężny tytan, syn Bliźniaczych Tytanów. W przeciwieństwie do c
 
 ## Historia
 Nazwany po wuju, [[Hergeron Pierwszy|Hergeronie Pierwszym]]. Jest jednym z pięciorga dzieci Sydona i Lutherii, które pojawiły się podczas rytuału na Górze Volkana.
+
+W [[Sesja 7 - Uratować Księżniczkę]] obwinił [[Gaius|Commandera Gaiusa]] o porażkę związaną z niedopełnieniem ofiary z [[Anora|Anory]].

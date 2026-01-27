@@ -20,4 +20,4 @@ Obóz wojskowy armii [[Mytros]], zlokalizowany na szlaku w kierunku [[Świątyni
 - [[Braz]]: Minotaur-niewolnik pracujący w obozie.
 
 ## Historia
-Bohaterowie odwiedzili ten obóz podczas wyprawy do [[Świątynia Wyroczni]] po zabiciu Wielkiego Dzika.
+Bohaterowie odwiedzili ten obóz podczas wyprawy do [[Świątynia Wyroczni]] po zabiciu Wielkiego Dzika (w [[Sesja 1 - Wielki Dzik]]). Spotkali tu dowódcę [[Hileas|Hileasa]] oraz minotaura [[Braz|Braza]].

@@ -21,3 +21,5 @@ Członkini nowo formowanego przez króla Acastusa zakonu "Smoczych Lordów". Dos
 
 ## Historia
 Należy do frakcji Smoczych Lordów Acastusa, grupy lojalnej królowi Mytros, która ma na celu przywrócenie potęgi dawnych jeźdźców smoków, choć nie są oni częścią oryginalnego zakonu.
+
+W [[Sesja 20 - Noc Długich Rogów]] spotkała drużynę nad rzeką, prowadząc śledztwo w sprawie zamieszek na zlecenie króla [[Acastus|Acastusa]].

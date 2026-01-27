@@ -17,3 +17,6 @@ Kanały Mytros to cud inżynierii, łączący umiejętności planowania [[Vallus
 *   **[[Gniazdo Zapomnianych]]**: Osada wyrzutków.
 *   **Siedziba Króla Ghouli**: Obszar opanowany przez ghule.
 *   **Blokada Wodna**: Miejsce zablokowane przez żywiołaki.
+
+## Historia
+W [[Sesja 15 - W kanałach Mytros]] i [[Sesja 16 - Świątynia Lutherii]] służyły jako droga do [[Gniazdo Zapomnianych|Gniazda Zapomnianych]] oraz do [[Świątynia Lutherii|Świątyni Lutherii]].
