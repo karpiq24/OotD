@@ -5,7 +5,10 @@ title: Inne
 # Inne
 
 - [[Braz]]
+- [[Bront]]
 - [[Crassius Curio]]
+- [[Hywin]]
+- [[Iolaah]]
 - [[Javon]]
 - [[Keledone]]
 - [[Kraken]]

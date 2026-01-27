@@ -1,8 +1,10 @@
 ---
 title: Charybda
-tags: [location]
+tags:
+  - location
+  - hazard
 region: Zapomniane Morze
-type:
+type: Wir Morski
 population:
 ---
 
@@ -10,14 +12,10 @@ population:
 
 ![Placeholder](../../assets/placeholder.png)
 
-Krótki opis miejsca, jego atmosfera i ogólny wygląd.
+_Potężny i złowrogi wir morski, stanowiący śmiertelne zagrożenie dla żeglarzy._
 
-## Ciekawe Miejsca
-- **Miejsce 1**: Opis.
-- **Miejsce 2**: Opis.
-
-## Mieszkańcy
-Szczególni NPC lub grupy zamieszkujące to miejsce.
+## Opis
+Ogromny wir morski znajdujący się w Zatoce Cerulańskiej, na drodze między [[Mytros]] a [[Themis]]. Jest to jedno z najbardziej niebezpiecznych miejsc na morzu, o którym krążą liczne legendy.
 
 ## Historia
-Wydarzenia związane z tym miejscem.
+W [[Sesja 31 - Wyprawa na Themis]] drużyna napotkała Charybdę podczas rejsu na [[Themis]]. Statek został wciągnięty w wir, z którego niespodziewanie wyłonił się tytan [[Kentimane]], uwalniając bohaterów z pułapki.

@@ -15,6 +15,7 @@ title: Factions
 - [[Gyganie]]
 - [[Kult Lutherii]]
 - [[Kult Węża]]
+- [[Merfolki]]
 - [[Mojry]]
 - [[Myrmeki]]
 - [[Pięciu Bogów]]

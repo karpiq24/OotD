@@ -23,3 +23,5 @@ Według [[Quinn|Quinna]], "mruczy więcej niż mówi i wiecznie śmierdzi piwem"
 
 ## Historia
 Zwerbowany przez Quinna do ekspedycji. Przeżył katastrofę statku.
+
+Odnaleziony w [[Sesja 36 - Królowa, Dziedzic i Generał]] i wcielony do załogi Ultrosa.
