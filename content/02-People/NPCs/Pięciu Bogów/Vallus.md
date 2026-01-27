@@ -29,3 +29,5 @@ W [[Sesja 14 - Burza nad Mytros]] pomogła w rytuale powstrzymania burzy. Wyzna�
 W [[Sesja 22 - Taniec z Meduzą]] przyjęła pod swoją opiekę [[Nera|Nerę]] i [[Greciosa|Greciosę]], obiecując chronić je przed gniewem [[Acastus|Acastusa]].
 
 W [[Sesja 23 - Nowe Przymierze]] została poinformowana przez drużynę o zażegnaniu zagrożenia ze strony Moxeny. Zgodziła się zlokalizować [[Varkon|Varkona]], który mógł posiadać [[Antikythera|Antikytherę]].
+
+W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] wygłosiła mowę otwierającą Igrzyska i wyraziła obawy o los [[Kyrah]].

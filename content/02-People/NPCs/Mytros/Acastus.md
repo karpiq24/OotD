@@ -33,3 +33,5 @@ Chce wskrzesić [[Smoczy Lordowie|zakon smoczych jeźdźców]].
 Wysłał bohaterów na poszukiwanie statku **[[Ultros]]**, wręczając im mapę po zażegnaniu burzy. Zrobił to jednak z pogardą, nazywając ich misję "tak zwanymi wielkimi pracami" i twierdząc, że Ultros nie będzie mu już potrzebny, skoro ma smoki.
 
 W [[Sesja 13 - Wezwani przez Króla]] spotkał się z drużyną, zachowując się arogancko. W [[Sesja 14 - Burza nad Mytros]] nagrodził bohaterów mapą do [[Ultros|Ultrosa]] po powstrzymaniu burzy.
+
+W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] uroczyście rozpoczął igrzyska i powitał [[Sydon|Sydona]] oraz [[Lutheria|Lutherię]], choć przybycie nieumarłych wyraźnie go zaskoczyło.
