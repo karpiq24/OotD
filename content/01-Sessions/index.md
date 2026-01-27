@@ -20,6 +20,7 @@ title: Sesje
 - [[Sesja 21 - Ukryte pragnienia Ismene]]
 - [[Sesja 22 - Taniec z Meduzą]]
 - [[Sesja 23 - Nowe Przymierze]]
+- [[Sesja 24 - Ultros]]
 - [[Sesja 3 - Skradziony Róg|Sesja 3: Skradziony Róg]]
 - [[Sesja 4 - Mroczne sekrety Świątyni|Sesja 4: Mroczne sekrety Świątyni]]
 - [[Sesja 5 - Skała Estora|Sesja 5: Skała Estora]]

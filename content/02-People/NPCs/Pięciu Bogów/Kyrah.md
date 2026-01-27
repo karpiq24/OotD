@@ -44,3 +44,5 @@ W przeszłości była blisko związana z istotami rasy Fey:
 - **[[Euria]]**: Odnalazła ją na jej samotnej górze i przekonała do wyruszenia w świat.
 
 Jako **Notos**, Kyrah była sercem i inicjatorką [[Cztery Wiatry|Czterech Wiatrów]], grupy bardów niosących przesłanie pokoju. Choć grupa ostatecznie się rozpadła pod ciężarem niepowodzeń jej członków, Kyrah nadal pozostaje jedną z najbardziej wpływowych postaci w Thylei.
+
+W [[Sesja 24 - Ultros]] skonfrontowała się ze swoją przeszłością na pokładzie widmowego statku [[Ultros]]. Okazało się, że łączyła ją zła historia z [[Estor Arkelander|Estorem Arkelanderem]] (nazywał ją "Kiki" i wspominał, że ją "ujeżdżał"). Kyrah czuła się winna jego upadku, wierząc, że gdyby go nie opuściła, nie uległby [[Lutheria|Lutherii]]. Ostatecznie jednak odrzuciła poczucie winy. Gdy Estor masakrował drużynę, wkroczyła do akcji, używając swojej boskiej mocy, by uleczyć bohaterów i obedrzeć Estora z jego iluzji, ukazując go jako żałosnego szkieletora. Zadeklarowała, że nie pozwoli mu już nikogo skrzywdzić.
