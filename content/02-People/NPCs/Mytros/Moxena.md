@@ -23,7 +23,7 @@ Moxena jest Meduzą, choć przez długi czas ukrywała swoją naturę pod kaptur
 Przebiegła, zdeterminowana, ale też trawiona poczuciem winy. Twierdzi, że jej cele są "szlachetne".
 
 ## Historia
-Pochodzi z [[Themis|Wyspy Themis]]. Kilkanaście lat temu, wraz z siostrami, dokonała tam przewrotu i przejęła władzę. Obecnie twierdzi, że w młodości popełniła wielką krzywdę i chce ją naprawić.
+Pochodzi z [[Themis|Wyspy Themis]]. Kilkanaście lat temu, wraz z siostrami [[Leah|Leą]] i [[Nastura|Nasturą]], dokonała tam krwawego przewrotu. Zamordowały one prawdziwą królową, [[Thessilea|Thessileę]], po czym Nastura przybrała jej postać, by rządzić jako uzurpatorka. Prawowita spadkobierczyni, [[Darien]], została uwięziona. Moxena przez lata żyła z poczuciem winy z powodu tych wydarzeń, co stało się zarzewiem jej dążenia do naprawienia wyrządzonych krzywd.
 
 ### Działalność w Mytros
 W [[Mytros]] znana była jako "Pani Monet". Współpracowała z [[Hexia|Hexią]], porywając i sprzedając jej skamieniałych artystów (za pośrednictwem [[Varkon|Varkona]]). Do jej współpracowników należała [[Rhea]] oraz [[Versir]] (który ją zdradził).

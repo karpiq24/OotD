@@ -4,7 +4,6 @@ tags: [item]
 type: Rękawice
 rarity: Rare
 attunement: Tak
-value: TBD
 ---
 
 # Hand of Kentiname
