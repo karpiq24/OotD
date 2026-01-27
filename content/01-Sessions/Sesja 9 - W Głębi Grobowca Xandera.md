@@ -6,7 +6,7 @@
 
 ## Podsumowanie
 
-Bohaterowie weszli do [[Labirynt w Nekropolii|labiryntu]] w [[Nekropolia w Telamok|Nekropolii]], pokonując nieumarłe minotaury i odnajdując [[Grobowiec Xandera|grobowiec Xandera Houratha]]. Po otwarciu drzwi do grobowca, stoczyli walkę ze szkieletami i stanęli przed [[Graxis Rzeźnik|Graxisem Rzeźnikiem]], strażnikiem grobowca. Po pokonaniu go, [[Xander|Xander Hourath]] ukazał się bohaterom i przekazał im [[Topór Xandera]], [[Tarcza Volkana|Tarczę Xandera]] i [[Korona Smoczych Lordów|Koronę Smoczych Lordów]]. Następnie bohaterowie weszli do [[Tomb of Balmytria|grobowca Balmytrii]]. [[Arevon Elorrenthi|Arevon]] doświadczył wizji związanej z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]].
+Bohaterowie weszli do [[Labirynt w Nekropolii|labiryntu]] w [[Nekropolia w Telamok|Nekropolii]], pokonując nieumarłe minotaury i odnajdując [[Grobowiec Xandera|grobowiec Xandera Houratha]]. Po otwarciu drzwi do grobowca, stoczyli walkę ze szkieletami i stanęli przed [[Graxis Rzeźnik|Graxisem Rzeźnikiem]], strażnikiem grobowca. Po pokonaniu go, [[Xander|Xander Hourath]] ukazał się bohaterom i przekazał im [[Topór Xandera]], [[Tarcza Xandera|Tarczę Xandera]] i [[Korona Smoczych Lordów|Koronę Smoczych Lordów]]. Następnie bohaterowie weszli do [[Tomb of Balmytria|grobowca Balmytrii]]. [[Arevon Elorrenthi|Arevon]] doświadczył wizji związanej z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]].
 
 ## Kluczowe wydarzenia / decyzje
 
@@ -15,7 +15,7 @@ Bohaterowie weszli do [[Labirynt w Nekropolii|labiryntu]] w [[Nekropolia w Telam
 * Otwarcie drzwi do grobowca i walka ze szkieletami.
 * Spotkanie z [[Graxis Rzeźnik|Graxisem Rzeźnikiem]], strażnikiem grobowca.
 * Pokonanie Graxisa i spotkanie z [[Xander|Xandrem Hourathem]].
-* Otrzymanie [[Topór Xandera|Topora Xandera]], [[Tarcza Volkana|Tarczy Xandera]] i [[Korona Smoczych Lordów|Korony Smoczych Lordów]].
+* Otrzymanie [[Topór Xandera|Topora Xandera]], [[Tarcza Xandera|Tarczy Xandera]] i [[Korona Smoczych Lordów|Korony Smoczych Lordów]].
 * Wejście do [[Tomb of Balmytria|grobowca Balmytrii]].
 * Wizja [[Arevon Elorrenthi|Arevona]] związana z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]].
 
@@ -32,8 +32,8 @@ Bohaterowie weszli do [[Labirynt w Nekropolii|labiryntu]] w [[Nekropolia w Telam
 
 ## Szczegółowy opis wydarzeń
 
-Bohaterowie, kontynuując eksplorację [[Nekropolia w Telamok|Nekropolii]], weszli do [[Labirynt w Nekropolii|labiryntu]]. Podążając ścieżką, pokonali nieumarłe minotaury i dotarli do [[Grobowiec Xandera|grobowca Xandera Houratha]]. Napis na drzwiach głosił "Poznaj siebie i mów". [[Felicjan Janus Twardowski|Felicjan]], kładąc rękę na [[Tarcza Volkana|tarczy Xandera]], patrząc mu w oczy i przedstawiając się, otworzył drzwi.
+Bohaterowie, kontynuując eksplorację [[Nekropolia w Telamok|Nekropolii]], weszli do [[Labirynt w Nekropolii|labiryntu]]. Podążając ścieżką, pokonali nieumarłe minotaury i dotarli do [[Grobowiec Xandera|grobowca Xandera Houratha]]. Napis na drzwiach głosił "Poznaj siebie i mów". [[Felicjan Janus Twardowski|Felicjan]], kładąc rękę na [[Tarcza Xandera|tarczy Xandera]], patrząc mu w oczy i przedstawiając się, otworzył drzwi.
 
-Wewnątrz grobowca stoczyli walkę ze szkieletami, a następnie stanęli przed [[Graxis Rzeźnik|Graxisem Rzeźnikiem]], strażnikiem grobowca. Po pokonaniu go, ukazał się im sam [[Xander|Xander Hourath]]. Przekazał bohaterom [[Topór Xandera]], [[Tarcza Volkana|Tarczę Xandera]] i [[Korona Smoczych Lordów|Koronę Smoczych Lordów]], a następnie zniknął.
+Wewnątrz grobowca stoczyli walkę ze szkieletami, a następnie stanęli przed [[Graxis Rzeźnik|Graxisem Rzeźnikiem]], strażnikiem grobowca. Po pokonaniu go, ukazał się im sam [[Xander|Xander Hourath]]. Przekazał bohaterom [[Topór Xandera]], [[Tarcza Xandera|Tarczę Xandera]] i [[Korona Smoczych Lordów|Koronę Smoczych Lordów]], a następnie zniknął.
 
 Bohaterowie weszli do [[Tomb of Balmytria|grobowca Balmytrii]], wychodząc [[Damon]] przekazał [[Arevon Elorrenthi|Arevonowi]] artefakt, z pomocą którego doświadczył wizji związanej z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]].

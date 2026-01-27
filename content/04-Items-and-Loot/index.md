@@ -4,6 +4,7 @@ title: Items And Loot
 
 # Items And Loot
 
+- [[Antikythera]]
 - [[Burnished Dragonlord Coin]]
 - [[Hand of Kentiname]]
 - [[Kaduceusz Damona]]
@@ -12,6 +13,6 @@ title: Items And Loot
 - [[Podkowy Prędkości]]
 - [[Róg Balmytrii]]
 - [[Spellbooks]]
-- [[Tarcza Volkana]]
+- [[Tarcza Xandera]]
 - [[Titansbane]]
 - [[Topór Xandera]]

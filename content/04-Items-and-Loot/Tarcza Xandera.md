@@ -1,5 +1,5 @@
 ---
-title: Tarcza Volkana
+title: Tarcza Xandera
 tags: [item]
 type: Pancerz (Tarcza)
 rarity: Legendarny
@@ -7,11 +7,9 @@ attunement: Tak
 value: Bezcenny
 ---
 
-# Tarcza Volkana
+# Tarcza Xandera
 
 ![Placeholder](../../assets/placeholder.png)
-
-_Złota tarcza wykuta przez boga kowali, Volkana._
 
 ## Opis
 Wspaniała tarcza, która obecnie jest wgnieciona i uszkodzona. Wymaga naprawy przy użyciu Młota Pythora w [[Mithralowa Kuźnia|Mithralowej Kuźni]].
@@ -20,4 +18,4 @@ Wspaniała tarcza, która obecnie jest wgnieciona i uszkodzona. Wymaga naprawy p
 Wymaga dostrojenia. 
 
 ## Historia
-Została podarowana [[Xander|Xanderowi]] przez smokowców lub bogów. Skradziona przez Graxisa. Często nazywana Tarczą Xandera.
+Skradziona przez [[Graxis Rzeźnik|Graxisa]]. Często nazywana Tarczą [[Xander|Xandera]].
