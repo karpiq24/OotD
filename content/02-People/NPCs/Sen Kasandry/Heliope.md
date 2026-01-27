@@ -26,3 +26,5 @@ Ciekawska, zadaje mnóstwo pytań.
 
 ## Historia
 Zwerbowana przez [[Quinn|Quinna]] do ekspedycji. Przeżyła katastrofę statku.
+
+Odnaleziona w [[Sesja 36 - Królowa, Dziedzic i Generał]] i wcielona do załogi Ultrosa.

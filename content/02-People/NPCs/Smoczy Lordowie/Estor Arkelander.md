@@ -23,7 +23,6 @@ Powykręcana i zniekształcona istota, uwięziona między życiem a śmiercią.
 Okrutny, ambitny, pragnący nieśmiertelności i chwały. Nienawidzi Tytanów, ale zawarł pakt z [[Lutheria]].
 
 ## Historia
-## Historia
 Pierwszy Smoczy Lord, dzierżył potężne bronie przeciwko Tytanom. Brat [[Telamok Arkelander|Telamoka]]. Gardzi [[Xander]]em i [[Adonis Neurdagon|Adonisem]]. Odpowiedzialny za zagładę Gyganów na [[Wyspa Yonder]] i [[Wyspa Mojr]].
 
 ### Pakt i Upadek
@@ -32,3 +31,6 @@ W rzeczywistości była to klątwa. Po przebudzeniu zabił swoją załogę, w ty
 
 ### Spotkanie przy Martwych Wodospadach
 W [[Sesja 24 - Ultros]], Estor spotkał „Bohaterów Przepowiedni” przy [[Martwe Wodospady]]. Próbował ich zmanipulować, oferując statek w zamian za pomoc w opętaniu ciała jego potomka, króla [[Acastus|Acastusa]], by mógł na nowo prowadzić wojnę przeciw Sydonowi. Gdy odmówili, zaatakował. W walce zabił (tymczasowo) [[Astra|Astrę]] i [[Arevon Elorrenthi|Arevona]]. Został powstrzymany przez [[Kyrah]], która ujawniła jego prawdziwą, szkieletową formę. Ostatecznie pokonany przez [[Felicjan Janus Twardowski|Felicjana]], co zmusiło go do ucieczki w formie zjawy. Jego statek, [[Ultros]], został przejęty przez [[Orestes|Orestesa]].
+
+### Powrót Ducha
+W [[Sesja 36 - Królowa, Dziedzic i Generał]] jego duch objawił się [[Arevon Elorrenthi|Arevonowi]] w kajucie na [[Ultros|Ultrosie]], po tym jak heros doświadczył wizji [[Podbój Estora]]. Skomentował wizję słowami: "Ah, to były wspaniałe czasy…".

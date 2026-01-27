@@ -21,3 +21,5 @@ Yala to tytanka, która wydaje się darzyć innych pewnym szacunkiem, a przynajm
 
 ## Historia
 Nazwana po ciotce, [[Yala Pierwsza|Yali Pierwszej]]. Podczas spotkania na Górze Volkana spoglądała na bohaterów z szacunkiem.
+
+W [[Sesja 35 - W Wężowym Uścisku]] spotkała się z bohaterami w [[Kaplica Płodności]]. Zgodziła się nie mieszać w konflikt o tron Amazonek.

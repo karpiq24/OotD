@@ -29,6 +29,3 @@ Wyznawcy Thylei.
 ## Relacje
 - **Bóstwo**: [[Thylea]].
 - **Wrogowie**: Osadnicy z [[Mytros]] (w pewnym sensie, uważają ich za intruzów).
-
-## Historia
-TBD

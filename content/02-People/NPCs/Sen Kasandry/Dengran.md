@@ -23,3 +23,5 @@ Według [[Quinn|Quinna]], ma "urok wściekłego borsuka i higienę trolla".
 
 ## Historia
 Zwerbowany przez Quinna do ekspedycji w poszukiwaniu zaginionych artefaktów. Przeżył katastrofę statku zniszczonego przez wieloręką bestię.
+
+Odnaleziony w [[Sesja 36 - Królowa, Dziedzic i Generał]] i wcielony do załogi Ultrosa.

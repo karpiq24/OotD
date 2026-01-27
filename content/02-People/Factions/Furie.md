@@ -31,6 +31,3 @@ Trzy skrzydlate boginie zemsty z wężowymi włosami i biczami.
 
 ## Relacje
 - **Patron**: Prawo Naturalne.
-
-## Historia
-TBD

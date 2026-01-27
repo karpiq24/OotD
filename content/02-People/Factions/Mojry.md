@@ -17,10 +17,10 @@ _Tkaczki ludzkiego losu._
 Tajemnicze i niebezpieczne istoty (Bogowie/Tytani), które mają władzę nad przeznaczeniem.
 
 ## Cele
-TBD
+Utrzymanie równowagi świata poprzez przędzenie nici losu, często w sposób niezrozumiały dla śmiertelników.
 
 ## Siedziba
-TBD
+[[Wyspa Mojr]] (Głębiny Thylei).
 
 ## Członkowie
 Trzy siostry.
