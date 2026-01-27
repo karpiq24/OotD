@@ -23,4 +23,12 @@ Felicjan Janus Twardowski, urodzony w Mytros syn kowala, od najmłodszych lat wy
 
 Dopiero po dziesięciu latach, w obliczu nadciągającej wojny i poczucia zmarnowanego losu, Felicjan postanowił przełamać swój strach. Wspierany przez żonę, kapłankę Mytros, oraz pamięć o dawnych ambicjach, zdecydował się w końcu zaryzykować i wykorzystać swój magiczny dar, by stać się bohaterem, jakim zawsze miał być, stawiając czoła przeznaczeniu jako "Obdarowany".
 
+W [[Sesja 15 - W kanałach Mytros]] dowiedział się od Mistrza [[Chalcodon|Chalcodona]] o swojej prababce [[Despina|Despinie]] i jej związku z Wybrzeżem Mieczy.
+
+W [[Sesja 18 - Cienie Mytros]] odwiedził mędrca [[Vitalis|Vitalisa]], który zdradził mu, że aby znaleźć Fortecę Smoczych Lordów, musi odszukać tytana [[Talieus|Talieusa]].
+
+W [[Sesja 21 - Ukryte pragnienia Ismene]] znalazł w Akademii zwój o Tytanach oraz przeprowadził zwiad w piwnicy [[Posiadłość Neurdagonów|Posiadłości Neurdagonów]].
+
+W [[Sesja 22 - Taniec z Meduzą]] użył zaklęcia Fireball, aby powstrzymać statek [[Varkon|Varkona]].
+
 W [[Sesja 24 - Ultros]] to właśnie Felicjan zadał ostateczny cios potężnemu [[Estor Arkelander|Estorowi Arkelanderowi]], uwalniając załogę statku [[Ultros]] od tyranii ich przeklętego kapitana. Wykazał się potężną magią, która zdołała zranić istotę, która uważała się za nieśmiertelną.

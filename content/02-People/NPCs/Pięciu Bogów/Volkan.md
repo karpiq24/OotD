@@ -24,3 +24,5 @@ Cechy charakteru, motywacje, ideały.
 
 ## Historia
 Krótka historia postaci i jej powiązania ze światem.
+
+W [[Sesja 1 - Wielki Dzik]] otrzymał od bohaterów ofiarę w postaci [[Wielki Dzik|Wielkiego Dzika]], którego ci upolowali na zlecenie [[Kyrah]].

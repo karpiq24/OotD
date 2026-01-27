@@ -35,3 +35,5 @@ Estoria przez stulecia stanowiła główną linię obrony przed [[Thylean Centau
 
 ## Historia
 Zbudowana na ruinach dawnych osad, Estoria rozwinęła się pod rządami [[Pythor|Pythora]] po obaleniu tyrana Lysisa Arkelandera. Podlega [[Przysięga Pokoju|Przysiędze Pokoju]], jednak jej przyszłość jest niepewna ze względu na żądania [[Sydon|Sydona]].
+
+W [[Sesja 3 - Skradziony Róg]] do miasta przybyli Bohaterowie Przepowiedni, zastając je nękane suszą, która miała zostać przerwana jedynie ofiarą z córki króla.

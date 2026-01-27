@@ -23,5 +23,5 @@ Potężny centaur o mądrym spojrzeniu i imponującej sprawności fizycznej.
 Daremny, dumny ze swoich umiejętności jeździeckich i bojowych. Szanuje siłę i zręczność, ale stawia wysokie wymagania tym, którzy chcieliby zostać jego towarzyszami broni.
 
 ## Historia
-Bohaterowie spotkali go w drodze powrotnej ze [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]]. Opowiedział im o klątwie ciążącej na jego ludzie i poprosił o pomoc w jej zdjęciu. Podczas spotkania w okolicach [[Estoria|Estorii]], [[Orestes]] wyzwał Pholona na pojedynek/zawody, by zostać jego jeźdźcem. Orestes przegrał te zawody, przez co Pholon (na razie) nie uznał go za godnego partnera.
+Bohaterowie spotkali go w [[Sesja 4 - Mroczne sekrety Świątyni]] w drodze powrotnej ze [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]]. Opowiedział im o klątwie ciążącej na jego ludzie i poprosił o pomoc w jej zdjęciu. Podczas spotkania w okolicach [[Estoria|Estorii]], [[Orestes]] wyzwał Pholona na pojedynek/zawody, by zostać jego jeźdźcem. Orestes przegrał te zawody, przez co Pholon (na razie) nie uznał go za godnego partnera.
 

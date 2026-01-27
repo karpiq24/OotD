@@ -63,3 +63,6 @@ Prawa w Mytros są surowe. Długi spłaca się pracą (1 dzień za 1 sztukę zł
 ## Otoczenie
 *   **[[Kuźnia Volkana|Góra Volkana]]**: Wygasły wulkan, miejsce Wielkich Igrzysk.
 *   **[[Winnice Mytros]]**: Winnice zarządzane przez satyrów.
+
+## Historia
+W [[Sesja 13 - Wezwani przez Króla]] miasto nawiedziła potężna burza. Została ona zażegnana w [[Sesja 14 - Burza nad Mytros]] dzięki pomocy [[Boreas|Boreasa]] i drużyny.

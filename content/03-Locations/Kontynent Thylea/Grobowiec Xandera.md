@@ -21,3 +21,5 @@ Szczególni NPC lub grupy zamieszkujące to miejsce.
 
 ## Historia
 Wydarzenia związane z tym miejscem.
+
+W [[Sesja 9 - W Głębi Grobowca Xandera]] bohaterowie otworzyli wrota grobowca (Felicjan przedstawił się tytulem Xandera) i pokonali strażnika [[Graxis Rzeźnik|Graxisa]]. Wewnątrz spotkali ducha Xandera i otrzymali jego dary.

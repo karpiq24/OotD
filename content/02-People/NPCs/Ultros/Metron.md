@@ -25,3 +25,5 @@ Leniwy, tęskni za jedzeniem i snem, choć jako duch nie potrzebuje ich. Otwarty
 
 ## Historia
 Został zabity przez [[Estor Arkelander|Estora Arkelandera]], gdy poszedł go obudzić po brzemiennej w skutki nocy Estora z [[Lutheria|Lutherią]]. Estor, przebudzony jako potwór, rozpruł brzuch Metrona, rozpoczynając masakrę załogi.
+
+W [[Sesja 24 - Ultros]] spotkał się z drużyną i opowiedział o okolicznościach swojej śmierci. Odszedł wraz z resztą załogi po decyzji [[Orestes|Orestesa]].

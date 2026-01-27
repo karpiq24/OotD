@@ -24,3 +24,5 @@ Honorowy, ale ostrożny. Szanuje siłę i przeznaczenie. Jest wyznawcą Sydona (
 
 ## Historia
 Hukar i jego oddział patrolują okolice Wielkich Wodospadów Arkelon i opuszczonych dróg prowadzących do Mithralowej Kuźni. Ostrzega podróżnych przed troglodytami zamieszkującymi górne poziomy kopalń.
+
+W [[Sesja 10 - Świątynia Heliosa i Jaskinie Troglodytów]] spotkał bohaterów zmierzających do kuźni. Dwóch z jego wojowników zostało porwanych przez troglodytów, a bohaterowie pomogli ich uratować.

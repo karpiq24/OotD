@@ -19,4 +19,4 @@ Młot Pythora to potężny artefakt wykonany przez Volkana, Boga Kowali, w Mityc
 Jako broń stworzona przez boga, posiada potężne właściwości magiczne, choć dokładne statystyki mogą wymagać identyfikacji. W rękach Pythora był narzędziem zagłady.
 
 ## Historia
-Pythor używał tego młota podczas Pierwszej Wojny, niszcząc nim całe armie gyganów, centaurów i cyklopów. Przez wieki spoczywał w Estorii, aż Król Pythor przekazał go jednemu z Bohaterów Przepowiedni, Orionowi Xulowi, jako nagrodę za uratowanie jego córki Anory.
+Pythor używał tego młota podczas Pierwszej Wojny, niszcząc nim całe armie gyganów, centaurów i cyklopów. Przez wieki spoczywał w Estorii, aż Król Pythor przekazał go jednemu z Bohaterów Przepowiedni, Orionowi Xulowi, jako nagrodę za uratowanie jego córki Anory (w [[Sesja 7 - Uratować Księżniczkę]]).

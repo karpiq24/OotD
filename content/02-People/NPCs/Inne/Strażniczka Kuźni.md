@@ -24,3 +24,5 @@ Nienawidzi krasnoludów za swoje uwięzienie. Jest dumna ze swoich umiejętnośc
 
 ## Historia
 Została przyzywana przez krasnoludy wieki temu, by zasilać i obsługiwać Mithralową Kuźnię. Związana magicznym kontraktem, nie mogła opuścić tego miejsca. Bohaterowie zawarli z nią układ – uwolnienie w zamian za rok służby (i wykuwanie przedmiotów).
+
+W [[Sesja 11 - Mithralowa Kuźnia]] zawarła pakt z drużyną, zgadzając się służyć im przez rok w zamian za uwolnienie.

@@ -24,3 +24,5 @@ Wydaje się być pogodzony ze swoim losem niewolnika.
 
 ## Historia
 Napotkany przez bohaterów w [[Obóz wojskowy Mytros]]. Służył tam jako niewolnik pod dowództwem [[Hileas|Dowódcy Hileasa]].
+
+W [[Sesja 1 - Wielki Dzik]] spotkał w obozie Bohaterów, którzy zdziwili się jego stoickim spokojem wobec niewoli.

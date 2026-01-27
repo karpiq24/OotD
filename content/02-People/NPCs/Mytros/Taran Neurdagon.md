@@ -25,3 +25,6 @@ Jest dumnym i wpływowym arystokratą. Jego bogactwo opiera się głównie na ni
 ## Cele
 Taran nienawidzi **[[Moxena|Pani Monet]]**, ponieważ jej ataki na handlarzy niewolników kosztują go fortunę. Oferuje nagrodę za jej głowę.
 Jego najmłodszy syn, **[[Sulla]]**, jest dla niego źródłem wstydu z powodu swojej obsesji na punkcie królowej Vallus.
+
+## Historia
+W [[Sesja 19 - Pojedynek z Rozpruwaczem]] zaoferował Orionowi 10 000 złota za pozbycie się [[Moxena|Moxeny]] i [[Kult Węża|Kultu Węża]]. W [[Sesja 20 - Noc Długich Rogów]] odkryto tajne przejście w kanałach pod jego posiadłością.

@@ -21,3 +21,6 @@ Vitalis to niziołek, który mieszka w **[[Wielkie Ogrody|Wielkich Ogrodach]]**.
 
 ## Działalność
 Udziela rad każdemu, kto nakarmi go dobrym jedzeniem lub winem. Jego rady są trafne, choć często poprzedzone obraźliwymi żartami i beknięciami.
+
+## Historia
+W [[Sesja 18 - Cienie Mytros]] udzielił rady [[Felicjan Janus Twardowski|Felicjanowi]] w sprawie Fortecy Smoczych Lordów, kierując go do [[Talieus|Talieusa]].

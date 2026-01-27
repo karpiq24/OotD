@@ -26,3 +26,5 @@ Lojalny wobec [[Estor Arkelander|Estora Arkelandera]]. Chętnie opowiada o histo
 
 ## Historia
 Zna historię paktu Estora z [[Lutheria|Lutherią]] oraz masakry załogi, która doprowadziła do ich nieumarłego stanu.
+
+W [[Sesja 24 - Ultros]] opowiedział drużynie historię statku. Opuścił pokład i odszedł w zaświaty (lub zniknął) po tym, jak [[Orestes]] wybrał ścieżkę żywych.

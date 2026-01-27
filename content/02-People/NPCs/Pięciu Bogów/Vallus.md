@@ -23,3 +23,9 @@ Cechuje ją wysoka inteligencja i zręczność polityczna. Hergeron ceni jej umy
 
 ## Historia
 Jedna z bogiń Piątki, żona Acastusa, władczyni Mytros.
+
+W [[Sesja 14 - Burza nad Mytros]] pomogła w rytuale powstrzymania burzy. Wyznała, że żałuje małżeństwa z [[Acastus|Acastusem]] i wspomniała o bibliotece na [[Wyspa Yonder|Yonder]].
+
+W [[Sesja 22 - Taniec z Meduzą]] przyjęła pod swoją opiekę [[Nera|Nerę]] i [[Greciosa|Greciosę]], obiecując chronić je przed gniewem [[Acastus|Acastusa]].
+
+W [[Sesja 23 - Nowe Przymierze]] została poinformowana przez drużynę o zażegnaniu zagrożenia ze strony Moxeny. Zgodziła się zlokalizować [[Varkon|Varkona]], który mógł posiadać [[Antikythera|Antikytherę]].
