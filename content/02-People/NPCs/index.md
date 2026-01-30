@@ -4,6 +4,7 @@ title: Lista postaci niezależnych
 
 # Lista postaci niezależnych
 
+- [[Aegis]]
 - [[Amazonki]]
 - [[Arezja]]
 - [[Centaury]]
@@ -14,6 +15,7 @@ title: Lista postaci niezależnych
 - [[Kult Lutherii]]
 - [[Kult Węża]]
 - [[Kwaśny Rocznik]]
+- [[Laios]]
 - [[Mojry]]
 - [[Mytros]]
 - [[Nekropolia]]

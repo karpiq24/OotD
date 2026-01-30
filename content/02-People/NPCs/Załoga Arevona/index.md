@@ -6,5 +6,4 @@ title: Załoga Arevona
 
 - [[Baltia]]
 - [[Ivello Ostren]]
-- [[Lyra]]
 - [[Tars d’Lyrandar]]
