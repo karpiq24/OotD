@@ -26,3 +26,5 @@ Tam, nad grobem brata Astry ofiarowanego tytanom, wspólna nienawiść do Sydona
 W [[Sesja 21 - Ukryte pragnienia Ismene]] dowiedział się od [[Astra|Astry]], że jego sojuszniczka [[Moxena]] zdradziła go i zawarła układ z Tytanami (Hexią).
 W [[Sesja 22 - Taniec z Meduzą]] doszło do konfrontacji z Moxeną.
 W [[Sesja 23 - Nowe Przymierze]] wynegocjował nowe warunki współpracy z Moxeną. Wymusił na niej zaprzestanie porywania artystów oraz obietnicę pomocy w walce z Hexią w przyszłości, w zamian za wsparcie drużyny w obaleniu fałszywej królowej Themis.
+
+W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] ogłosił swoje przybycie przy [[Drzewo Serca|Drzewie Serca]], co uruchomiło portal i wizję historii Tytanów.

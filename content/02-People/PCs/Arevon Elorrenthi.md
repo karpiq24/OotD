@@ -28,3 +28,5 @@ Podczas pobytu w [[Estoria|Estorii]], Arevon wykazał się sporą naiwnością w
 W [[Sesja 21 - Ukryte pragnienia Ismene]] znalazł w Akademii książkę "Golemy i Automatony", z której dowiedział się o [[Keledone]].
 
 W trakcie poszukiwań statku [[Ultros]] przy [[Martwe Wodospady]], Arevon stanął do walki z kapitanem widmo - [[Estor Arkelander|Estorem Arkelanderem]]. Padłszy ofiarą jego mrocznej mocy, został tymczasowo zabity, lecz interwencja bogini [[Kyrah]] przywróciła go do życia.
+
+W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] z niezwykłą precyzją sterował [[Ultros|Ultrosem]] podczas sztormu zesłanego przez [[Sydon|Sydona]], ratując statek przed zniszczeniem.

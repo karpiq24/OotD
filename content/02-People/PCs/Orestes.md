@@ -27,3 +27,5 @@ W [[Sesja 21 - Ukryte pragnienia Ismene]] zebrał liczne plotki podczas imprezy 
 W [[Sesja 22 - Taniec z Meduzą]] znalazł na statku [[Varkon|Varkona]] posągi (w tym córkę [[Maximus|Maximusa]]) i zatopił statek, wyrąbując dziurę w dnie.
 
 Podczas wyprawy po legendarny statek [[Ultros]], Orestes został wybrany przez ducha driady [[Delphia|Delphi]] na nowego kapitana. Po pokonaniu [[Estor Arkelander|Estora]], stanął przed wyborem natury nowej załogi. Decydując się na **ścieżkę żywych**, uwolnił dusze dotychczasowej nieumarłej załogi, stając się dowódcą pustego, lecz gotowego do żeglugi okrętu. Ze swoimi nowymi obowiązkami oraz statkiem zdolnym przemierzać zarówno oceany, jak i niebiosa, Orestes przygotowuje się do ostatecznej rozgrywki.
+
+W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] nawigował w sztormie, znalazł [[Aegis|tajemniczego starca Aegisa]] w brzuchu wieloryba. Udało mu się również dosiąść pegaza.
