@@ -24,3 +24,5 @@ Pobożny, cierpliwy i głęboko wierzący w powrót smoków do Thylei. Jest jedn
 
 ## Historia
 Aesop od lat strzeże [[Smocza Kaplica|Smoczej Kaplicy]] i jej najcenniejszej relikwii, [[Róg Balmytrii]]. Kiedy róg został skradziony, Aesop był zrozpaczony, ale pokładał nadzieję w bohaterach przepowiedni. Wierzy, że smoki są kluczem do ochrony śmiertelników i prosi bohaterów, by po odzyskaniu rogu dostarczyli go królowej [[Vallus]] w Mytros, zamiast oddawać go w ręce Acastusa.
+
+W [[Sesja 38 - Bitwa w Kalderze]] przesłał bohaterom list, prosząc o odnalezienie czterech zaginionych smoków, które mogły przetrwać Pierwszą Wojnę.
