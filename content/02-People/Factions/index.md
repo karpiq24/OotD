@@ -5,6 +5,7 @@ title: Factions
 # Factions
 
 - [[Amazonki]]
+- [[AWSS|Artyści w Służbie Sydona (AWSS)]]
 - [[Barbarzyńcy z Zatoki]]
 - [[Bliźniaczy Tytani]]
 - [[Bohaterowie Przepowiedni]]
@@ -20,6 +21,10 @@ title: Factions
 - [[Mojry]]
 - [[Myrmeki]]
 - [[Pięciu Bogów]]
+- [[Plemię Delfina]]
+- [[Plemię Rekina]]
+- [[Plemię Wieloryba]]
+- [[Plemię Węgorza]]
 - [[Smoczy Lordowie]]
 - [[Tytani|Tytani (Pierwsi Tytani)]]
 - [[Zakon Sydona]]

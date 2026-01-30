@@ -6,10 +6,13 @@ title: Zatoka Cerulańska
 
 - [[Drzewo Serca]]
 - [[Kaplica Płodności]]
+- [[Kopalnia Żelaza]]
+- [[Korytarz Światów]]
 - [[Obóz Lwicy]]
 - [[Port Aella]]
 - [[Szaleństwo Tytana]]
 - [[Themis]]
+- [[Wieża Wiedźmy Lotosu]]
 - [[Więzienie Kieł]]
 - [[Wyspa Forlorn]]
 - [[Wyspa Indygo]]
