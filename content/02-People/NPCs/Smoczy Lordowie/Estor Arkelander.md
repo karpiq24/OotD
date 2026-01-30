@@ -34,3 +34,5 @@ W [[Sesja 24 - Ultros]], Estor spotkał „Bohaterów Przepowiedni” przy [[Mar
 
 ### Powrót Ducha
 W [[Sesja 36 - Królowa, Dziedzic i Generał]] jego duch objawił się [[Arevon Elorrenthi|Arevonowi]] w kajucie na [[Ultros|Ultrosie]], po tym jak heros doświadczył wizji [[Podbój Estora]]. Skomentował wizję słowami: "Ah, to były wspaniałe czasy…".
+
+W [[Sesja 37 - Próba Ognia]] zaoferował [[Arevon Elorrenthi|Arevonowi]] pomoc oraz wiedzę o skarbach w zamian za odzyskanie jego miecza. Drużyna jednak po naradzie odrzuciła jego ofertę.
