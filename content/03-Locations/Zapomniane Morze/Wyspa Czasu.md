@@ -17,7 +17,8 @@ Krótki opis miejsca, jego atmosfera i ogólny wygląd.
 - **Miejsce 2**: Opis.
 
 ## Mieszkańcy
-Szczególni NPC lub grupy zamieszkujące to miejsce.
+- Sfinksy (rodzeństwo [[Wiedźma Lotosu|Wiedźmy Lotosu]])
+
 
 ## Historia
 Wydarzenia związane z tym miejscem.

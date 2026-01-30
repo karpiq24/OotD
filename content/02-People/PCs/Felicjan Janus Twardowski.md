@@ -32,3 +32,6 @@ W [[Sesja 21 - Ukryte pragnienia Ismene]] znalazł w Akademii zwój o Tytanach o
 W [[Sesja 22 - Taniec z Meduzą]] użył zaklęcia Fireball, aby powstrzymać statek [[Varkon|Varkona]].
 
 W [[Sesja 24 - Ultros]] to właśnie Felicjan zadał ostateczny cios potężnemu [[Estor Arkelander|Estorowi Arkelanderowi]], uwalniając załogę statku [[Ultros]] od tyranii ich przeklętego kapitana. Wykazał się potężną magią, która zdołała zranić istotę, która uważała się za nieśmiertelną.
+
+W [[Sesja 41 - Wiedźma Lotosu]] zobaczył w [[Korytarz Światów|Korytarzu Światów]] wizję swojej śmierci oraz śmierci żony [[Melania Twardowska|Melanii]] z ręki Behemota w płonącym Mytros. Po zakręceniu Kołem Fortuny stał się wytrzymalszy i inteligentniejszy.
+
