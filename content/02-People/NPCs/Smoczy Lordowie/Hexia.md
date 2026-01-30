@@ -28,3 +28,5 @@ Po śmierci Ochosa Arkelandera zaszyła się w jaskini, strzegąc Titansbane i z
 W [[Sesja 7 - Uratować Księżniczkę]] [[Orion Xul]] dowiedział się od [[Pythor|Pythora]], że jego przeznaczeniem jest pokonanie Hexii.
 
 W [[Sesja 21 - Ukryte pragnienia Ismene]] odkryto, że zawarła układ z [[Moxena|Moxeną]], od której kupuje skamieniałych artystów, desperacko poszukując kogoś, kto idealnie odtworzy pieśń Ochosa.
+
+W [[Sesja 41 - Wiedźma Lotosu]] [[Orion Xul|Orion]] dowiedział się, że jej największą słabością jest bóg bitwy [[Pythor]].

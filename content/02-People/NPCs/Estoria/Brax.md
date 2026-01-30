@@ -24,3 +24,6 @@ Towarzyski, gadatliwy i dumny ze swoich trunków. Jako członek rodziny satyrów
 
 ## Historia
 Brax prowadzi [[Super Bar]] w [[Estoria|Estorii]], gdzie serwuje piwo z rodzinnego browaru. Jest kuzynem [[Orestes|Orestesa]] i wspiera go w jego dążeniu do przełamania pecha, choć sam uważa, że życie jest zbyt krótkie, by martwić się klątwami, gdy pod ręką jest pełny kufel.
+
+W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] towarzyszył bohaterom na [[Wyspa Skorpiona]]. Zainteresował się [[Nessa|Nessą]], kuzynką Pholona.
+

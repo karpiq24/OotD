@@ -30,3 +30,6 @@ W [[Sesja 21 - Ukryte pragnienia Ismene]] znalazł w Akademii książkę "Golemy
 W trakcie poszukiwań statku [[Ultros]] przy [[Martwe Wodospady]], Arevon stanął do walki z kapitanem widmo - [[Estor Arkelander|Estorem Arkelanderem]]. Padłszy ofiarą jego mrocznej mocy, został tymczasowo zabity, lecz interwencja bogini [[Kyrah]] przywróciła go do życia.
 
 W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] z niezwykłą precyzją sterował [[Ultros|Ultrosem]] podczas sztormu zesłanego przez [[Sydon|Sydona]], ratując statek przed zniszczeniem.
+
+W [[Sesja 41 - Wiedźma Lotosu]] w wieży [[Wiedźma Lotosu|Wiedźmy Lotosu]] odnalazł zaginionego członka swojej załogi, [[Garrick Vanalan|Garricka Vanalana]]. Dowiedział się od Wiedźmy, że Thylea jest kieszonkowym planem. Zakręcił magicznym Kołem Fortuny, zyskując zdolność przemiany w drzewca.
+
