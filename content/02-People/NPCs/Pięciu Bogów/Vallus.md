@@ -16,13 +16,16 @@ affiliation: "[[Mytros]], [[Piątka]]"
 _Królowa Mytros, bogini mądrości i jedna z bóstw Piątki._
 
 ## Opis
-Hergeron opisuje ją jako mądrą, przebiegłą i chytą. To ona faktycznie sprawuje władzę w [[Mytros]], w przeciwieństwie do jej męża [[Acastus|Acastusa]].
+Królowa Mytros, bogini mądrości i najstarsza córka [[Mytros (Bogini)|Mytros]].
+Niegdyś podróżowała daleko, badając ruiny i zbierając wiedzę.
 
 ## Osobowość
-Cechuje ją wysoka inteligencja i zręczność polityczna. Hergeron ceni jej umysł jako godnego przeciwnika.
+*   **Próżna:** Nigdy nie pokazuje się bez wykwintnych insygniów królewskich i przegląda się w srebrnym zwierciadle. Rozumie wagę pozorów w polityce.
+*   **Bystra:** Niezwykle spostrzegawcza, podejrzewana o czytanie w myślach. Rozpoznaje kłamstwo i wymusza prawdę spojrzeniem.
+"Arogancja może dotknąć nawet bardzo mądrych. Wierzcie mi — poślubiłam Acastusa."
 
 ## Historia
-Jedna z bogiń Piątki, żona Acastusa, władczyni Mytros.
+Jedna z bogiń Piątki, żona Acastusa (małżeństwo polityczne z 478 CE, nienawidzą się), władczyni Mytros. Działa blisko z kapłanami, by podtrzymać wiarę w Piątkę.
 
 W [[Sesja 14 - Burza nad Mytros]] pomogła w rytuale powstrzymania burzy. Wyznała, że żałuje małżeństwa z [[Acastus|Acastusem]] i wspomniała o bibliotece na [[Wyspa Yonder|Yonder]].
 

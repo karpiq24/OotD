@@ -22,6 +22,10 @@ Utrzymanie niezależności i ochrona swojej wyspy. Ostatnio, po raz pierwszy w h
 ## Siedziba
 Ich główną siedzibą jest wyspa [[Themis]].
 
+## Historia
+Pochodzą z wyspy Themis. Długo rządy sprawowała fałszywa królowa [[Nastura]], która jest meduzą podszywającą się pod zmarłą królową [[Thessilea|Thessileę]].
+Kilkanaście lat temu doszło do przewrotu, w którym trzy siostry (doradczynie królowej): [[Moxena]], [[Leah]] i [[Nastura]] zamordowały prawowitą władczynię. Prawowita dziedziczka, [[Darien]], została uwięziona w [[Więzienie Kieł|Kieł]].
+
 ## Członkowie
 Większość Amazonek to wojowniczki. Mężczyźni na wyspie traktowani są jako słudzy i mają podrzędną rolę.
 

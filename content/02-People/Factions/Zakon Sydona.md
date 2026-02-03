@@ -13,13 +13,13 @@ headquarters: [[Świątynia Sydona]]
 
 _Fanatyczni wyznawcy Pana Burz._
 
-Zakon Sydona to potężna organizacja religijno-wojskowa z siedzibą w Mytros. Ich celem jest przywrócenie dominacji Tytanów i zakończenie kultu Pięciu Bogów, których uważają za uzurpatorów.
+Zakon Sydona to potężna organizacja religijno-wojskowa, licząca ponad tysiąc rycerzy (*over one thousand knights*) w Mytros i na wyspach Zatoki Cerulańskiej. Ich celem jest przywrócenie dominacji Tytanów i zakończenie kultu Pięciu Bogów, których uważają za uzurpatorów.
 
 ## Cechy
 *   **Lider**: **[[Gaius|Komandor Gaius]]**, paladyn dosiadający srebrnego smoka **[[Argyn]]**.
-*   **Siedziba**: [[Świątynia Sydona]] w Mytros oraz baza na wyspie [[Wyspa Yonder|Yonder]].
-*   **Wpływy**: Zakon cieszy się poparciem części arystokracji i młodych ludzi szukających siły. Król **[[Acastus]]** współpracuje z nimi.
-*   **Działania**: Wywierają presję na niszczenie świątyń Pięciu, patrolują ulice, a ich bogactwo (rzekomo z ruin gyganów) pozwala im na szerokie wpływy.
+*   **Siedziba**: [[Świątynia Sydona]] w Mytros oraz baza w starożytnych ruinach Gyganów na wyspie [[Wyspa Yonder|Yonder]].
+*   **Wpływy**: Zakon cieszy się poparciem części arystokracji i młodych ludzi szukających siły. Król **[[Acastus]]** polega na nich w kwestii utrzymania pokoju z Tytanami.
+*   **Działania**: Wywierają presję na niszczenie świątyń Pięciu, patrolują ulice. Bezwzględnie karzą heretyków.
 
 ## Historia
 Zakon został założony po Pierwszej Wojnie.

@@ -17,9 +17,16 @@ image_prompt: A mystical water nymph rising from steaming hot springs in a sun-d
 _Słynna nimfa wodna obdarzona darem proroctwa i miłością do śmiertelnyh ras._
 
 ## Opis
-Versi, znana powszechnie jako **Wyrocznia**, zamieszkuje gorące źródła w jaskini pod [[Świątynia Wyroczni|Świątynią Wyroczni]]. Posiada dar proroctwa, a jej przepowiedni słuchają zarówno bogowie, jak i królowie. Kiedy wygłasza wizje, jej oczy zdają się badać najgłębsze zakamarki duszy słuchacza, a wokół niej unoszą się oparowe wyziewy.
+## Opis
+Versi, znana powszechnie jako **Wyrocznia**, zamieszkuje gorące źródła w jaskini pod [[Świątynia Wyroczni|Świątynią Wyroczni]]. Posiada dar proroctwa.
+Jest córką [[Sydon|Sydona]] i naiady [[Delphea|Delphei]]. Urodziła się z trzecim okiem na czole, które ukrywa pod złotym diademem.
 
-Jest córką [[Sydon|Sydona]], ale mimo swojego pochodzenia zawsze darzyła śmiertelników z [[Thylea|Thylei]] ogromną sympatią – niektórzy twierdzą, że kocha ich "aż za bardzo".
+Jest córką [[Sydon|Sydona]], ale mimo swojego pochodzenia zawsze darzyła śmiertelników z [[Thylea|Thylei]] ogromną sympatią – niektórzy twierdzą, że kocha ich "aż za bardzo" (traktuje ich zaborczo, jak ukochane zwierzątka).
+
+## Osobowość
+*   **Nawiedzona:** Dręczą ją wizje przyszłości. Trzyma się nadziei, ale w jej oczach widać strach.
+*   **Zaborcza:** Traktuje śmiertelników, zwłaszcza herosów, jak cenne zwierzęta domowe. Bywa zazdrosna, jeśli zbliżą się do innych bóstw.
+Wierzy, że herosi są szansą na najlepszy możliwy wynik w strumieniu czasu.
 
 ## Historia
 Versi od lat przepowiadała przybycie wielkich wojowników, którzy uratują [[Thylea|Thyleę]] w godzinie próby. To ona wezwała bohaterów, wyjawiając im pełną **Przepowiednię o Zagładzie Thylei** (Doom of Thylea). Wyznaczyła im trzy "Wielkie Prace" (Great Labors), które muszą ukończyć, by przygotować się do walki z Tytanami.

@@ -17,10 +17,13 @@ image_prompt: A heavily-armored commander with a stern, weathered face and grayi
 _Dowódca [[Zakon Sydona|Zakonu Sydona]], nieubłagany wykonawca woli Władcy Burz._
 
 ## Opis
-Gaius to potężnie zbudowany mężczyzna w ciężkiej zbroi płytowej z motywami burzy. Jest potężnym paladynem Sydona. Często widywany w Mytros w towarzystwie **[[Acastus|Króla Acastusa]]** lub w Świątyni Sydona. Dosiada **[[Argyn|Argyna]]**, młodej srebrnej smoczycy, którą otrzymał w darze od swojego boga.
+Gaius to potężnie zbudowany mężczyzna w ciężkiej zbroi płytowej z motywami burzy. Jest potężnym paladynem Sydona. Posiada *Javelin of Lightning*.
+Często widywany w Mytros w towarzystwie **[[Acastus|Króla Acastusa]]** lub w Świątyni Sydona.
+Dosiada **[[Argyn|Argyna]]**, młodej srebrnej smoczycy, którą otrzymał w darze od swojego boga. Gaius kocha Argyn i poprzysiągł ożenić się z nią, gdy ta dorośnie i zmieni w człowieka.
 
 ## Osobowość
-Niezachwianie oddany [[Sydon|Sydonowi]]. Ceni dyscyplinę, prawo i siłę. Jest odporny na prośby i przekupstwa, wierząc, że tylko krew i ofiara mogą przebłagać Tytana.
+*   **Gorliwy:** Niezachwianie oddany [[Sydon|Sydonowi]]. Nie zna litości dla heretyków.
+*   **Pozbawiony humoru:** Ponury, nigdy nie pije alkoholu. Krzyżuje bardów, by ich uciszyć. Nawet jego ludzie się go boją.
 Gardzi Pięcioma Bogami: Pythora uważa za pijaka, Kyrah za marną poetkę, a Vallus za słabą władczynię zamkniętą w wieży. Jego celem jest zniszczenie świątyń Pięciu i oddanie miasta w ręce Sydona.
 
 ## Historia

@@ -32,7 +32,7 @@ Kyrah często przyjmuje różne tożsamości, by podróżować wśród mieszkań
 - **Wędrowny Bard**: Często spotykana na drogach Thylei jako zwykła artystka, inspirująca innych do tworzenia muzyki.
 
 ## Historia
-Kyrah od stuleci wpływa na kulturę i sztukę Thylei. Wielu artystów i poetów modli się do niej o natchnienie. 
+Kyrah od stuleci wpływa na kulturę i sztukę Thylei. Wielu artystów i poetów modli się do niej o natchnienie. Służy jako nadworna poetka Królowej Mytros, swojej siostry [[Vallus]], która uważa ją za irytującą i wysyła na misje, by się jej pozbyć. 
 
 W [[Sesja 1 - Wielki Dzik]] to ona zebrała bohaterów w gospodzie [[Kwaśny Rocznik]], udając zwykłą (choć nieco zbyt pewną siebie) wysłanniczkę Wyroczni. Po wygłoszeniu przepowiedni przez [[Versi]], Kyrah zaoferowała się jako przewodniczka i towarzyszka podróży, nie przyjmując odmowy. Jej główną motywacją jest znalezienie inspiracji do napisania wielkiego eposu o czynach bohaterów.
 

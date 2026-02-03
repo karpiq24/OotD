@@ -23,7 +23,10 @@ Moxena jest Meduzą, choć przez długi czas ukrywała swoją naturę pod kaptur
 Przebiegła, zdeterminowana, ale też trawiona poczuciem winy. Twierdzi, że jej cele są "szlachetne".
 
 ## Historia
-Pochodzi z [[Themis|Wyspy Themis]]. Kilkanaście lat temu, wraz z siostrami [[Leah|Leą]] i [[Nastura|Nasturą]], dokonała tam krwawego przewrotu. Zamordowały one prawdziwą królową, [[Thessilea|Thessileę]], po czym Nastura przybrała jej postać, by rządzić jako uzurpatorka. Prawowita spadkobierczyni, [[Darien]], została uwięziona. Moxena przez lata żyła z poczuciem winy z powodu tych wydarzeń, co stało się zarzewiem jej dążenia do naprawienia wyrządzonych krzywd.
+Pochodzi z [[Themis|Wyspy Themis]]. Jest siostrą fałszywej królowej Amazonek. Wraz z siostrami dokonała krwawego przewrotu, zabijając prawdziwą królową Amazonek i więżąc jej córkę [[Darien]]. Moxena przez lata żyła z poczuciem winy z powodu tych wydarzeń, co stało się zarzewiem jej dążenia do naprawienia wyrządzonych krzywd.
+Jako **Pani Monet** (*The Lady of Coins*) założyła [[Kult Węża]] (gildia złodziei), okradając bogatych, by wykupować niewolników (np. minotaury), ale tylko po to, by zbudować własną armię.
+Pragnie zemsty na siostrze i [[Lutheria|Lutherii]].
+Nienawidzi mężczyzn i traktuje ich z pogardliwą wyższością. Woli rozmawiać z kobietami.
 
 ### Działalność w Mytros
 W [[Mytros]] znana była jako "Pani Monet". Współpracowała z [[Hexia|Hexią]], porywając i sprzedając jej skamieniałych artystów (za pośrednictwem [[Varkon|Varkona]]). Do jej współpracowników należała [[Rhea]] oraz [[Versir]] (który ją zdradził).

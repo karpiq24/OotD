@@ -20,6 +20,8 @@ _Doradca Króla Acastusa_
 Chondrus to niebieskoskóry tiefling noszący eleganckie czarne szaty. Pełni funkcję głównego doradcy króla Acastusa, choć w rzeczywistości jest kapłanem **[[Lutheria|Lutherii]]** wywodzącym się ze **[[Stygian Row]]**.
 
 ## Osobowość
+*   **Arogancki:** Uważa się za mądrzejszego od wszystkich.
+*   **Pedantyczny:** Uwielbia poprawiać drobne błędy innych.
 Jest przebiegły, manipulujący i cyniczny. Publicznie udaje pobożnego zwolennika Pięciu Bogów, wygłaszając płomienne mowy o nadziei na cud.
 
 ## Historia

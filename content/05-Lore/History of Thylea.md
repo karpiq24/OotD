@@ -27,7 +27,7 @@ Dragonlords byli symbolami nadziei dla udręczonego ludu. Ilekroć osada śmiert
 
 ## The First War (Pierwsza Wojna)
 
-Ale wielkie potęgi rządzące Thyleą stały się zazdrosne. Sydon i Lutheria, [[Bliźniaczy Tytani]], nieśmiertelne dzieci bogini matki, zgromadzili wielkie armie, by zniszczyć miasto. Dragonlords odpowiedzieli, zbierając wszystkich śmiertelników w Thylei do zjednoczonego ataku na rodzime rasy, i tak rozpoczęła się First War (Pierwsza Wojna).
+Ale wielkie potęgi rządzące Thyleą stały się zazdrosne. Sydon i Lutheria, [[Bliźniaczy Tytani]], nieśmiertelne dzieci bogini matki, zgromadzili wielkie armie, by zniszczyć miasto. Dragonlords odpowiedzieli, zbierając wszystkich śmiertelników w Thylei do zjednoczonego ataku na rodzime rasy, i tak rozpoczęła się **[[Pierwsza Wojna]]** (First War).
 
 Historie o Pierwszej Wojnie są niejasne, przekazywane przez wieki w formie niszczejących zwojów i gobelinów. Pewne jest to, że rdzenne rasy zostały wygnane. Centaury wycofały się na stepy, podczas gdy satyry uciekły do lasów. Gygans, starożytna cywilizacja cyklopów, została unicestwiona, pozostawiając po sobie kruszejące ruiny upadłych miast.
 
@@ -51,4 +51,4 @@ Wiele pieśni opowiada o próbach i kłopotach Dragonlords, ale niewielu potrafi
 
 Kilka dni później czarny statek wpłynął do portu Mytros, niosąc ciała wielu Dragonlords. Statkiem dowodził Damon, potężny czarodziej, który służył Smoczym Władcom podczas Pierwszej Wojny. Był śmiertelnie ranny, ale nie wypowiedział ani słowa. Przekazał trzy cenne przedmioty do Świątyni Pięciu (Temple of the Five), a następnie zniknął na swoim statku wraz z ciałami i uzbrojeniem swoich poległych panów.
 
-Jednym z przedmiotów, które przyniósł Damon, był zwój pergaminu, na którym spisana była **Oath of Peace (Przysięga Pokoju)**. Ta Przysięga była powodem wielkiego świętowania. Sydon i Lutheria przysięgli nie mścić się na śmiertelnikach Thylei przez okres 500 lat, pod warunkiem, że wznowione zostaną codzienne ofiary dla Tytanów, a ich świątynie będą utrzymywane i honorowane.
+Jednym z przedmiotów, które przyniósł Damon, był zwój pergaminu, na którym spisana była **[[Przysięga Pokoju]]** (Oath of Peace). Ta Przysięga była powodem wielkiego świętowania. Sydon i Lutheria przysięgli nie mścić się na śmiertelnikach Thylei przez okres 500 lat, pod warunkiem, że wznowione zostaną codzienne ofiary dla Tytanów, a ich świątynie będą utrzymywane i honorowane.

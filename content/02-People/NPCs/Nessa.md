@@ -17,9 +17,12 @@ image_prompt:
 _Centaurzyca, kuzynka Pholona._
 
 ## Opis
-Młoda centaurzyca, zbliżająca się do wieku dojrzałego.
+Nessa to centaurzyca z Przeklętego Plemienia na [[Wyspa Skorpiona|Wyspie Skorpiona]]. Przewodzi grupie zwiadowców.
+Musi związać się z śmiertelnym jeźdźcem zanim osiągnie pełnoletność, inaczej zmieni się w gigantycznego skorpiona.
 
 ## Osobowość
+*   **Wyluzowana:** Lubi zaplatać włosy, robić wianki i palić fajkę z kwiatów lotosu. Uważa wojnę za nudną.
+*   **Lojalna:** Chce być najlepszą przyjaciółką swojego jeźdźca na zawsze.
 Wydaje się być świadoma swojego uroku i próbuje go wykorzystać, by znaleźć partnera.
 
 ## Historia
