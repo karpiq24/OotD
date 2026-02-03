@@ -17,7 +17,7 @@ Więź kończy się, gdy gość opuszcza dom z błogosławieństwem gospodarza. 
 Przysięgi między ludźmi a królami są powszechne, ale przysięgi między ludźmi a bogami, demonami czy potężnymi istotami Feya są rzadsze i bardziej wiążące.
 
 ### Oath of Peace (Przysięga Pokoju)
-Przysięga, w której potężna istota lub król żąda, aby składający przysięgę nie dopuścił się przemocy wobec nich ani ich sług. Prawie zawsze ma ona określony limit czasowy (tygodnie, lata, a nawet stulecia). Przysięga Pokoju jest kluczowym elementem historii Thylei.
+Przysięga, w której potężna istota lub król żąda, aby składający przysięgę nie dopuścił się przemocy wobec nich ani ich sług. Prawie zawsze ma ona określony limit czasowy (tygodnie, lata, a nawet stulecia). **[[Przysięga Pokoju]]** jest kluczowym elementem historii Thylei.
 
 ### Oath of Protection (Przysięga Ochrony)
 Potężna jednostka przysięga przyjść z pomocą innej w chwili wielkiej potrzeby. Składający przysięgę musi odpowiedzieć na wezwanie tak szybko, jak to możliwe. Po zneutralizowaniu zagrożenia przysięga zostaje wypełniona. Zaniechanie pomocy lub dopuszczenie do krzywdy drugiej strony oznacza złamanie przysięgi i **Klątwę Zdrajcy**.

@@ -17,9 +17,10 @@ image_prompt: A melancholic satyr bard sitting in shadows on a ship deck, playin
 _Satyr ze Starego Lasu, beznadziejnie zakochany w Orionie._
 
 ## Opis
-Loreus to satyr pochodzący ze [[Stary Las|Starego Lasu]]. Jest bardem o romantycznej i nieco melancholijnej duszy.
+Loreus to młody satyr, który miał bardzo chronione dzieciństwo. Nie jest typowy dla swojego rodzaju – zamiast hasać z nimfami, spędza czas na pisaniu wierszy miłosnych i czytaniu epickich romansów.
 
 ## Osobowość
+*   **Zakochany:** Zrobi wszystko dla osoby, którą kocha, niezależnie od tego, jak niebezpieczne lub żenujące by to było.
 Wrażliwy i uczuciowy. Żywi głębokie, choć nieodwzajemnione uczucie do [[Orion Xul|Oriona]]. Jego miłość jest tym trudniejsza, że Orion związał się z Lyrą, śmiertelną kobietą. Loreus wyraża swój ból poprzez poezję i muzykę (np. "Pieśń Loreusa"). Mimo własnych problemów, potrafi okazać troskę innym – ostrzegł [[Corinna|Corinnę]] przed niebezpieczeństwem w świątyni.
 
 ## Historia

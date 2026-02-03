@@ -17,7 +17,9 @@ image_prompt: A heroic female minotaur in a cage, looking hopeful and strong, fr
 _Heroiczna minotaur._
 
 ## Opis
-Bullbug to potężna minotaur o gołębim sercu. Jest jednym z niewolników na **[[Targ Minotaurów|Targu Minotaurów]]**, ale nie traci ducha.
+Bullbug to potężna minotaur o gołębim sercu. W przeciwieństwie do reputacji minotaurów, nie jest zła ani żądna krwi.
+Została wychowana przez ludzką rodzinę, która traktowała ją jak córkę. Jej rodzina została zabita przez Zakon Sydona, a ona sprzedana w niewolę [[Maximus|Maximusowi]], który z kolei wystawił ją na sprzedaż na **[[Targ Minotaurów|Targu Minotaurów]]**.
+
 
 ## Historia
 W [[Sesja 17 - Targ Minotaurów]] walczyła z [[Orestes|Orestesem]] na arenie. Po przegranej została wykupiona przez drużynę i uwolniona.

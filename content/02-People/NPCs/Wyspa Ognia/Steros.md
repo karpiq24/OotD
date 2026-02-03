@@ -17,7 +17,8 @@ image_prompt:
 _Jancan, syn Bronta, nowy kowal na Wyspie Ognia._
 
 ## Opis
-Steros jest jancanem - rzadkim rodzajem cyklopa z dziesięcioma palcami u rąk i nóg, co czyni go naturalnym kowalem. Jest mniejszy od typowych cyklopów. Nosi specjalny monokl z wieloma soczewkami.
+Steros jest jancanem - rzadkim rodzajem cyklopa z dziesięcioma palcami u rąk i nóg, co czyni go naturalnym kowalem i artyficerem. Jest mniejszy od typowych cyklopów. Wychował się w wieży Praxys, gdzie był obiektem drwin.
+Nosi specjalny monokl, który koryguje jego wzrok i daje magiczne zdolności. Potrafi tworzyć mechaniczne zwierzęta.
 
 ## Osobowość
 Inteligentniejszy od typowego cyklopa, duma ze swoich umiejętności kowalskich.
