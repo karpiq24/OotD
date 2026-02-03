@@ -10,13 +10,13 @@ Bohaterowie skupiki się na dopracowaniu planu uratowania [[Brenna|Brenny]], có
 
 ![Brenna](../assets/sessions/044/044_brenna.jpg)
 
-Kiedy bohaterowie zeszli drabiną, a smoczyca jeszcze ich nie spostrzegła, zdecydowali podkraść się bliżej. W końcu jednak zostali zauważeni i zdecydowali szybko ruszyć na pomoc zakładniczce. [[Versir]], obdarzony zdolnością teleportacji, odegrał kluczową rolę w tym śmiałym przedsięwzięciu. Przeniósł on Brennę w bezpieczne miejsce, w objęcia [[Felicjan|Felicjana]], który następnie, używając zaklęcia "Dimension Door", przetransportował ją na szczyt góry, z dala od pola bitwy. Ten brawurowy manewr, choć ryzykowny, miał zapewnić dziewczynie bezpieczeństwo i pozwolić drużynie skupić się na walce ze smokiem. Felicjan, po wykonaniu zadania, skoczył w przepaść, używając zaklęcia "Feather Fall", aby bezpiecznie powrócić do towarzyszy.
+Kiedy bohaterowie zeszli drabiną, a smoczyca jeszcze ich nie spostrzegła, zdecydowali podkraść się bliżej. W końcu jednak zostali zauważeni i zdecydowali szybko ruszyć na pomoc zakładniczce. [[Versir]], obdarzony zdolnością teleportacji, odegrał kluczową rolę w tym śmiałym przedsięwzięciu. Przeniósł on Brennę w bezpieczne miejsce, w objęcia [[Felicjan Janus Twardowski|Felicjana]], który następnie, używając zaklęcia "Dimension Door", przetransportował ją na szczyt góry, z dala od pola bitwy. Ten brawurowy manewr, choć ryzykowny, miał zapewnić dziewczynie bezpieczeństwo i pozwolić drużynie skupić się na walce ze smokiem. Felicjan, po wykonaniu zadania, skoczył w przepaść, używając zaklęcia "Feather Fall", aby bezpiecznie powrócić do towarzyszy.
 
 ![Ekstrakcja zakładniczki](../assets/sessions/044/044_teleport.jpg)
 
 Walka była niezwykle intensywna i dynamiczna. Ventis, wykorzystując swoją zdolność do latania, zionięcie kwasem i potężne pazury, stanowiła śmiertelne zagrożenie. Bohaterowie, mimo początkowych trudności, dzięki współpracy i wykorzystaniu swoich unikalnych umiejętności, zdołali przechylić szalę zwycięstwa na swoją stronę.
 
-Jednak to działania [[Arevon|Arevona]] okazały się kluczowe. Arevon, próbując rzucić potężne zaklęcie uziemiające, wykorzystał wszystkie trzy legendarne odporności smoka, co otworzyło drogę do ostatecznego zwycięstwa. W krytycznym momencie, [[Orestes]], korzystając ze swojego magicznego topora, powalił Ventis na ziemię. Wtedy Versir, używając "Lightning Bolt" ze swojego kostura, zadał ostateczny cios.
+Jednak to działania [[Arevon Elorrenthi|Arevona]] okazały się kluczowe. Arevon, próbując rzucić potężne zaklęcie uziemiające, wykorzystał wszystkie trzy legendarne odporności smoka, co otworzyło drogę do ostatecznego zwycięstwa. W krytycznym momencie, [[Orestes]], korzystając ze swojego magicznego topora, powalił Ventis na ziemię. Wtedy Versir, używając "Lightning Bolt" ze swojego kostura, zadał ostateczny cios.
 
 ![Versir](../assets/sessions/044/044_versir.jpg)
 

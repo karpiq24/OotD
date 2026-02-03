@@ -6,7 +6,7 @@
 
 ## Podsumowanie
 
-Słońce, niczym złoty talar, powoli chyliło się ku zachodowi, malując niebo feerią barw, gdy bohaterowie, po przepędzeniu smoczycy [[Ventis]] z osady [[Plemię Węgorza|plemienia Węgorza]], skierowali swe kroki ku terytorium [[Plemię Delfina|plemienia Delfina]]. W sercach tliła się nadzieja na nawiązanie sojuszu i uzyskanie informacji o grasującym na wyspie smoku. Zostawszy zauważeni przez czujnych strażników, stanęli w obliczu elfiej delegacji. [[Arevon]], obdarzony darem dyplomacji, podjął się roli rzecznika, wyjaśniając pokojowe intencje i cel przybycia – walkę ze smokiem terroryzującym wyspę.
+Słońce, niczym złoty talar, powoli chyliło się ku zachodowi, malując niebo feerią barw, gdy bohaterowie, po przepędzeniu smoczycy [[Ventis]] z osady [[Plemię Węgorza|plemienia Węgorza]], skierowali swe kroki ku terytorium [[Plemię Delfina|plemienia Delfina]]. W sercach tliła się nadzieja na nawiązanie sojuszu i uzyskanie informacji o grasującym na wyspie smoku. Zostawszy zauważeni przez czujnych strażników, stanęli w obliczu elfiej delegacji. [[Arevon Elorrenthi]], obdarzony darem dyplomacji, podjął się roli rzecznika, wyjaśniając pokojowe intencje i cel przybycia – walkę ze smokiem terroryzującym wyspę.
 
 Elfy, choć początkowo nieufne wobec uzbrojonych przybyszów, wysłuchały opowieści druida. Wzbudził ich zainteresowanie, wspominając o spotkaniu ze smoczycą i proroctwie dotyczącym [[Mojry|Mojr]], smoków i [[Sydon|Sydona]]. [[Orestes]], korzystając z magicznej maski otrzymanej niegdyś od [[Volkan|Volkana]], przybrał postać Karola Strasburgera, dodając spotkaniu nuty humorystycznego zaskoczenia.
 
@@ -26,7 +26,7 @@ Po krótkim odpoczynku w pobliżu gór, Orestes, ku rozpaczy towarzyszy, umilał
 
 Wraz z nastaniem świtu, bohaterowie kontynuowali wędrówkę w głąb wyspy, w kierunku siedziby plemienia Wieloryba. Dotarli do wąskiej ścieżki górskiej, gdzie ich oczom ukazał się zawalony most. Droga została przerwana, a przepaść, szeroka na około czterdzieści stóp, uniemożliwiała dalszą przeprawę.
 
-Po krótkiej naradzie, [[Felicjan]], wykorzystując magiczny przedmiot, przeleciał na drugą stronę mostu, przywiązując liny, po których, jeden po drugim, przeprawili się pozostali członkowie drużyny.
+Po krótkiej naradzie, [[Felicjan Janus Twardowski|Felicjan]], wykorzystując magiczny przedmiot, przeleciał na drugą stronę mostu, przywiązując liny, po których, jeden po drugim, przeprawili się pozostali członkowie drużyny.
 
 Gdy [[Versir]], dotarł na drugą stronę, usłyszeli głos dochodzący zza kamienia. "Smoczyca będzie niezadowolona" – ostrzegł nieznajomy głos, należący do krasnoluda, [[Borinn Bystre Oko|Borinna Bystrego Oka]]. Krasnolud, z jednym ślepym okiem i górniczym kaskiem na głowie, ukrywał się za kamieniem, najwyraźniej obawiając się smoczycy.
 
