@@ -1,5 +1,5 @@
 ---
-title: Typhon, Paszcza
+title: Typhon
 tags: [location]
 region: Zapomniane Morze
 type:
@@ -17,7 +17,8 @@ Krótki opis miejsca, jego atmosfera i ogólny wygląd.
 - **Miejsce 2**: Opis.
 
 ## Mieszkańcy
-Szczególni NPC lub grupy zamieszkujące to miejsce.
+- **Ojciec Potworów** - tytaniczna istota (będąca samą wyspą/wulkanem), rezydująca w kalderze. Posiada paszczę, która jest portalem do Hadesu.
+- [[Piekielny Dyrygent]] - strażnik w jaskiniach prowadzących do kaldery.
 
 ## Historia
-Wydarzenia związane z tym miejscem.
+W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] bohaterowie przybyli na wyspę kierowani wizją [[Versir|Versira]]. Przeszli przez jaskinie, pokonali [[Piekielny Dyrygent|Piekielnego Dyrygenta]] i spotkali się z samym Ojcem Potworów, który otworzył im przejście do [[Hades|Hadesu]].
