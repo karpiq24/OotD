@@ -12,6 +12,7 @@ title: Items And Loot
 - [[Korona Smoczych Lordów]]
 - [[Kostur Gromów i Błyskawic]]
 - [[Młot Pythora]]
+- [[Nightshade Whisper]]
 - [[Podkowy Prędkości]]
 - [[Róg Balmytrii]]
 - [[Skora Zlotego Lwa|Skóra Złotego Lwa]]

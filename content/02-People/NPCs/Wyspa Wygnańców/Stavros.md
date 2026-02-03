@@ -3,23 +3,28 @@ title: Stavros
 tags:
   - person
   - npc
+  - noble
+  - merchant
 race: Człowiek
 gender: Mężczyzna
-occupation: '"Król" Wygnańców'
+occupation: '"Król" Wygnańców', Były Kupiec
 affiliation: "[[Wyspa Wygnańców]]"
+image_prompt: Stavros
 ---
 
 # Stavros
 
-![Placeholder](../../assets/placeholder.png)
+![Stavros](../../../assets/sessions/045/045_stavros.jpg)
 
 _Obecny przywódca (Król) więźniów na Wyspie Wygnańców._
 
 ## Opis
-Słaby władca, postrzegany przez [[Keelan|Keelana]] jako tchórz i kupiec.
+Słaby władca, postrzegany przez zwolenników siły jako tchórz i kupiec. Jest jednak charyzmatyczny i potrafi utrzymać namiastkę porządku. W rzeczywistości był jednym z najbogatszych kupców w Arezji.
 
 ## Osobowość
-Próbuje zachować namiastkę porządku, ale jego rządy budzą niesmak wśród mieszkańców.
+Próbuje zachować namiastkę porządku, ale jego rządy budzą niesmak wśród mieszkańców. Paranoicznie obawia się ujawnienia prawdy o swoim wygnaniu.
 
 ## Historia
-Zastąpił [[Cronos|Cronosa]] na stanowisku "króla" wyspy po jego tajemniczej śmierci.
+Stavros (dawniej Lord Stavros) był najbogatszym kupcem z Arezji. Został wygnany na [[Wyspa Wygnańców|Wyspę Wygnańców]] po nieudanej próbie otrucia syna swojego rywala, [[Taran Neurdagon|Tarana Neurdagona]].
+
+Na wyspie zastąpił [[Cronos|Cronosa]] na stanowisku "króla" po jego tajemniczej śmierci. W [[Sesja 45 - Tajemnica Wyspy Wygnańców]] powitał Bohaterów Przepowiedni i poprosił ich o zbadanie serii morderstw. W [[Sesja 46 - Morderca z Wyspy Wygnańców]] po rozwiązaniu zagadki i egzekucji mordercy, złożył przysięgę wierności Bohaterom w walce z Sydonem.
