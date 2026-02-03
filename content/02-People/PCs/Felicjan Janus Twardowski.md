@@ -35,3 +35,8 @@ W [[Sesja 24 - Ultros]] to właśnie Felicjan zadał ostateczny cios potężnemu
 
 W [[Sesja 41 - Wiedźma Lotosu]] zobaczył w [[Korytarz Światów|Korytarzu Światów]] wizję swojej śmierci oraz śmierci żony [[Melania Twardowska|Melanii]] z ręki Behemota w płonącym Mytros. Po zakręceniu Kołem Fortuny stał się wytrzymalszy i inteligentniejszy.
 
+W [[Sesja 47 - Wyspa Mojr]] odrzucił ofertę [[Mojry|Mojr]], które chciały wzmocnić jego koronę w zamian za jego szczęście. Używając daru jasnowidzenia, potwierdził, że układ z Mojrami w sprawie smoków mógłby przynieść korzyść, choć cena była wysoka.
+
+W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] zawarł pakt z [[Mojry|Mojrami]], poświęcając swoje zdrowie (połowa efektywności leczenia) w zamian za ulepszenie korony. Oddał również swoją różdżkę wykonaną ze smoczego rogu, aby pomóc zdjąć klątwę z jaj. Dowiedział się, że jego prababka [[Despina]] była siostrą [[Adonis Neurdagon|Adonisa Neurdagona]] i zdradziła Smoczych Lordów. Po opuszczeniu wyspy, był świadkiem wyklucia się smoka [[Kairos|Kairosa]], z którym się związał. Na [[Wyspa Forlorn|Wyspie Forlorn]] o mało nie zginął w walce z Płonącymi Czaszkami, które nieświadomie wypuścił z Worka Bez Dna.
+
+W [[Sesja 49 - Wielkie Gęsie Powstanie]] na wraku statku znalazł Amulet Krakena. Po przemianie w gęś wykazał się sprytem, pisząc dziobem na ziemi prośbę o pomoc ("Wiedźma Klątwa"), co pozwoliło nawiązać sojusz z ludźmi Tarana.

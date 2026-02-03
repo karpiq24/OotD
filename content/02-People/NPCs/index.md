@@ -5,6 +5,7 @@ title: Lista postaci niezależnych
 # Lista postaci niezależnych
 
 - [[Aegis]]
+- [[Althaia]]
 - [[Amazonki]]
 - [[Arezja]]
 - [[Centaury]]
@@ -12,6 +13,7 @@ title: Lista postaci niezależnych
 - [[Estoria]]
 - [[Furie]]
 - [[Inne]]
+- [[Kairos]]
 - [[Kult Lutherii]]
 - [[Kult Węża]]
 - [[Kwaśny Rocznik]]
@@ -19,6 +21,7 @@ title: Lista postaci niezależnych
 - [[Mojry]]
 - [[Mytros]]
 - [[Nekropolia]]
+- [[Nersus|Kapitan Nersus]]
 - [[Nessa]]
 - [[Ogród Heliosa]]
 - [[Pholon]]

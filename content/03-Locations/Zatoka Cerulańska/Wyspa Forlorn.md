@@ -3,21 +3,31 @@ title: Wyspa Forlorn
 tags: [location]
 region: Zatoka Cerulańska
 type: Island
-population: Uninhabited (Monsters)
+population: Potwory, Chimera (martwa)
 ---
 
 # Wyspa Forlorn
 
 ![Placeholder](../../assets/placeholder.png)
 
-Przeklęta wyspa, na której znajduje się kompleks świątynny skrywający potężną bestię.
-Zwana też Wyspą Chimery.
+_Zwana też Wyspą Chimery. Przeklęta wyspa spowita tajemnicą._
+
+## Opis
+Piaszczysta plaża łagodnie opada ku turkusowym wodom, a w głębi lądu wznoszą się wzgórza z rzadką roślinnością. Nad wyspą góruje samotna, skalista góra.
 
 ## Ciekawe Miejsca
-- **Kompleks Świątynny**: Starożytne ruiny opanowane przez potężne stworzenie.
+- **Plaża**: Miejsce lądowania bohaterów.
+- **Ruiny Miasteczka**: Opuszczona osada zrujnowanych budynków.
+- **Świątynia Narsusa**: Najlepiej zachowany budynek, poświęcony bogu piękna [[Narsus]].
+- **Legowisko Chimery**: Jaskinia na szczycie góry, pełna skarbów.
+- **Doki**: Miejsce, gdzie cumują wraki, w tym statek "Ostatnia Nadzieja".
 
 ## Mieszkańcy
-- Tajemnicza bestia (prawdopodobnie Meduza lub podobne stworzenie, biorąc pod uwagę wzmiankę o "lokach").
+- **Płonące Czaszki (Flameskulls)**: (Pokonane).
+- **[[Althaia]]**: Przeklęta wiedźma (Zabita).
+- **Chimera**: Bestia ze szczytu góry (Zabita).
+- **Zwierzęta**: Gęsi, świnie, krowy (przemienieni ludzie).
 
 ## Historia
-Wydarzenia związane z tym miejscem. Myśliwy Taran Neurdagon wysłał tu ludzi, aby zgładzili bestię.
+W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] drużyna wylądowała na plaży i walczyła z czaszkami.
+W [[Sesja 49 - Wielkie Gęsie Powstanie]] bohaterowie odkryli tajemnicę Althai, zabili Chimerę, zostali zamienieni w gęsi i ostatecznie zdjęli klątwę, zabijając wiedźmę przy pomocy ludzi [[Taran Neurdagon|Tarana Neurdagona]].
