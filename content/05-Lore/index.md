@@ -11,6 +11,8 @@ title: Lore
 - [[Menaidy]]
 - [[Mythic Heroism]]
 - [[Myths of Thylea]]
+- [[Pierwsza Wojna]]
+- [[Przysięga Pokoju]]
 - [[Races]]
 - [[The Laws of Thylea]]
 - [[The Powers of Thylea]]

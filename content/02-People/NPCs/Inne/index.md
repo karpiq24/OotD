@@ -13,6 +13,7 @@ title: Inne
 - [[Keledone]]
 - [[Kraken]]
 - [[Król Troglodytów]]
+- [[Kustosz]]
 - [[Pellenia]]
 - [[Photios]]
 - [[Strażniczka Kuźni]]
