@@ -1,8 +1,18 @@
+---
+title: Gwiezdny Metal
+tags: [item, material]
+type: Materiał
+rarity: Rzadki
+attunement:
+value: Bardzo wysoka
+aliases: [Star Metal]
+---
+
 # Gwiezdny Metal
 
-**Typ:** Materiał Rzemieślniczy / Skarb
-**Wartość:** Bardzo wysoka
-**Lokalizacja:** [[Kopalnia Żelaza]], Leże [[Ventis]], Meteoryty
+![Placeholder](../assets/placeholder.png)
+
+_Materiał Rzemieślniczy, Rzadki_
 
 ## Opis
 
@@ -17,3 +27,7 @@ Podczas wizyty na [[Wyspa Złotego Serca|Wyspie Złotego Serca]] w trakcie [[Ses
 
 ### Zdobycie w Kopalni Żelaza
 Bohaterowie odkryli złoże rudy Gwiezdnego Metalu w leżu miedzianej smoczycy [[Ventis]] w [[Kopalnia Żelaza|Kopalni Żelaza]] na [[Wyspa Indygo]]. Miało to miejsce po pokonaniu smoczycy w trakcie [[Sesja 44 - Ventis]]. Ruda ta była jednym ze skarbów zgromadzonych przez smoka, obok złota i smoczych trofeów.
+
+### Gniazdo Roków i Ogród Heliosa
+Kolejna bryła gwiezdnego metalu została odnaleziona w gnieździe Roków na samotnej wyspie podczas [[Sesja 56 - Dedal i Ikar]].
+W [[Sesja 57 - Ogród Heliosa]], [[Versir]], dotykając tej rudy, doświadczył bolesnej wizji zniszczenia swojej matki, [[Versi Pierwsza|Versi]]. Wizja była tak intensywna, że ruda zniknęła, a jej esencja (i fragment duszy matki) została wchłonięta bezpośrednio przez ciało i duszę [[Versir|Versira]].

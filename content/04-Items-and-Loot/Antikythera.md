@@ -3,8 +3,7 @@ title: Antikythera
 tags: [item, artifact]
 type: Wondrous Item
 rarity: Legendary
-attunement:
-value: 
+value: Bezcenny
 aliases: [Antikytera, Mechanizm z Antykithiry]
 ---
 
@@ -12,18 +11,20 @@ aliases: [Antikytera, Mechanizm z Antykithiry]
 
 ![Placeholder](../assets/placeholder.png)
 
-_Zaczarowany mechanizm służący jako magiczny kompas._
+_Zaczarowany mechanizm służący jako magiczny kompas. Artefakt wykonany z niezniszczalnego brązu i gwiezdnego metalu._
 
 ## Opis
-Antikythera to skomplikowany konstrukt, który dostraja się do gwiazdozbiorów na nocnym niebie, aby wskazać dokładną drogę do wysp rozsianych po Thylei.
+Antikythera to skomplikowany kompas, który dostraja się do gwiazdozbiorów na nocnym niebie, aby wskazać dokładną drogę do wysp rozsianych po Thylei. Posiada wiele obracających się tarcz i wskazówek, które układają się w konstelacje.
 
 ## Właściwości
-- **Nawigacja:** Pozwala nawigować po zdradliwych wodach Thylei, gdzie prądy i magia Sydona uniemożliwiają tradycyjną żeglugę.
+- **Nawigacja:** Pozwala nawigować po zdradliwych wodach Thylei, gdzie prądy i magia Sydona uniemożliwiają tradycyjną żeglugę. Wskazuje również drogę do miejsc ukrytych magicznie.
 - **Kalibracja:** Musi być używana na suchym lądzie, aby ustalić cel podróży. Każda wyspa jest powiązana z konkretną konstelacją.
 - **Czas Podróży:** Standardowy czas podróży między dowolnymi dwiema wyspami wynosi 3 dni, niezależnie od odległości na mapie.
 
-## Stan
-**Brakująca Zębatka:** Mechanizmowi brakowało kluczowej zębatki, niezbędnej do nawigacji po [[Zapomniane Morze|Zapomnianym Morzu]]. Plany jej naprawy (lub sama zębatka) zostały odnalezione w Wielkiej Bibliotece na [[Wyspa Yonder|Wyspie Yonder]] w [[Sesja 53 - Koniec Yonder]]. Po naprawie, Antikythera będzie w pełni funkcjonalna.
-
 ## Historia
-Podarowana drużynie przez królową [[Vallus]] w Mytros. Jest kluczem do odnalezienia zaginionych wysp i Tytanów.
+Została podarowana drużynie przez królową [[Vallus]] w Mytros. Jest kluczem do odnalezienia zaginionych wysp i Tytanów.
+
+### Naprawa
+Mechanizmowi brakowało kluczowej zębatki, niezbędnej do nawigacji po [[Zapomniane Morze|Zapomnianym Morzu]]. Plany jej naprawy (lub sama zębatka) zostały odnalezione w Wielkiej Bibliotece na [[Wyspa Yonder|Wyspie Yonder]] w [[Sesja 53 - Koniec Yonder]].
+
+W [[Sesja 55 - Egida Mytros]] bóg kowalstwa [[Volkan]] ostatecznie naprawił ją i ulepszył, wręczając ją [[Arevon Elorrenthi|Arevonowi]]. Teraz jest w pełni funkcjonalna.
