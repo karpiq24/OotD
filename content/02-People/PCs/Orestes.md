@@ -29,3 +29,9 @@ W [[Sesja 22 - Taniec z Meduzą]] znalazł na statku [[Varkon|Varkona]] posągi 
 Podczas wyprawy po legendarny statek [[Ultros]], Orestes został wybrany przez ducha driady [[Delphia|Delphi]] na nowego kapitana. Po pokonaniu [[Estor Arkelander|Estora]], stanął przed wyborem natury nowej załogi. Decydując się na **ścieżkę żywych**, uwolnił dusze dotychczasowej nieumarłej załogi, stając się dowódcą pustego, lecz gotowego do żeglugi okrętu. Ze swoimi nowymi obowiązkami oraz statkiem zdolnym przemierzać zarówno oceany, jak i niebiosa, Orestes przygotowuje się do ostatecznej rozgrywki.
 
 W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] nawigował w sztormie, znalazł [[Aegis|tajemniczego starca Aegisa]] w brzuchu wieloryba. Udało mu się również dosiąść pegaza.
+
+W [[Sesja 47 - Wyspa Mojr]] zaoferowała [[Mojry|Mojrom]] swoje ukochane piwo w zamian za zdjęcie klątwy ze smoczych jaj. Gdy zażądały wyrzeczenia się piwa na zawsze oraz jednego z jego żyć, odrzucił ofertę.
+
+W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] zostawił [[Mojry|Mojrom]] beczułkę piwa na pożegnanie. Później, w ruinach na morzu, znalazł magiczny Worek Bez Dna, z którego (ku jego radości) mógł wyciągać piwo.
+
+W [[Sesja 49 - Wielkie Gęsie Powstanie]] najpierw został podziobany przez gęś za nieumiejętną grę na dudach, a potem sam został przemieniony w gęś. Wziął udział w walce z [[Althaia|Gęguzą]], używając swojego bojowego gęgania do zastraszania wroga.

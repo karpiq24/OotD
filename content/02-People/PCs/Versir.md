@@ -28,3 +28,9 @@ W [[Sesja 22 - Taniec z Meduzą]] doszło do konfrontacji z Moxeną.
 W [[Sesja 23 - Nowe Przymierze]] wynegocjował nowe warunki współpracy z Moxeną. Wymusił na niej zaprzestanie porywania artystów oraz obietnicę pomocy w walce z Hexią w przyszłości, w zamian za wsparcie drużyny w obaleniu fałszywej królowej Themis.
 
 W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] ogłosił swoje przybycie przy [[Drzewo Serca|Drzewie Serca]], co uruchomiło portal i wizję historii Tytanów.
+
+W [[Sesja 47 - Wyspa Mojr]] doświadczył wizji swojej śmierci z rąk [[Lutheria|Lutherii]]. Prowadził negocjacje z [[Mojry|Mojrami]], oferując im nawet [[Sydon|Sydona]], ale ostatecznie odrzucił propozycję rocznej służby.
+
+W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] oddał [[Mojry|Mojrom]] potężny artefakt - Kostur [[Sydon|Sydona]], jako część zapłaty za zdjęcie klątwy ze smoczych jaj.
+
+W [[Sesja 49 - Wielkie Gęsie Powstanie]] został przemieniony w gęś. Po walce zdołał wykraść list z kieszeni ludzi [[Taran Neurdagon|Tarana Neurdagona]], ujawniając jego zlecenie na głowę [[Althaia|Althai]].
