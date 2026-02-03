@@ -34,3 +34,7 @@ W [[Sesja 47 - Wyspa Mojr]] doświadczył wizji swojej śmierci z rąk [[Lutheri
 W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] oddał [[Mojry|Mojrom]] potężny artefakt - Kostur [[Sydon|Sydona]], jako część zapłaty za zdjęcie klątwy ze smoczych jaj.
 
 W [[Sesja 49 - Wielkie Gęsie Powstanie]] został przemieniony w gęś. Po walce zdołał wykraść list z kieszeni ludzi [[Taran Neurdagon|Tarana Neurdagona]], ujawniając jego zlecenie na głowę [[Althaia|Althai]].
+
+W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] doznał wizji od matki, która wskazała mu drogę do uwięzionej w Hadesie ciotki Yali.
+
+W [[Sesja 61 - Yala, Arezja i Żółw]] odnalazł w Hadesie swoją ciotkę [[Yala Pierwsza|Yalę]]. Uwolnił ją z pęt szaleństwa i kamiennego więzienia. Jej esencja dobrowolnie wstąpiła do jego [[Rękawica Versira|Rękawicy]], wzmacniając go w walce przeciwko bliźniakom.

@@ -1,26 +1,26 @@
 ---
 title: Narsus
 tags:
-  - god
+  - person
   - npc
-race: Bóg (Jeden z Pięciu)
-gender: Męski
-occupation: Bóg Piękna / Zapomniany Bóg
-affiliation: Nowy Panteon
-image_prompt:
+  - god
+race: Bóg
+gender: Male
+occupation: Bóg Piękna
+affiliation: Arezja, Pięciu Bogów
+image_prompt: A breathtakingly beautiful man with golden skin and hair, looking bored and arrogant, lounging in a palace garden, fantasy art style.
 ---
 
 # Narsus
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Zapomniany Bóg, Narsus, Bóg Piękna_
+_Bóg Piękna, Więzień Arezji_
 
 ## Opis
-Brak danych.
-
-## Osobowość
-Skrajnie egocentryczny, zapatrzony w siebie, niezdolny do wdzięczności czy szacunku dla innych. Uważa, że świat kręci się wokół niego.
+Brat Pythora, Kyrah, Volkana i Vallus. Znany ze swojej nieskazitelnej urody, ale także z arogancji, próżności i lenistwa.
 
 ## Historia
-Bóg Piękna, jeden z Pięciu Bogów przybyłych ze Smoczymi Lordami. Opuścił lud Thylei, gdy go potrzebowali. Przebywa w Arezji, podobno jako więzień, choć opowieści sugerują, że jest tam z własnej woli, uwięziony przez własny egocentryzm.
+Został uwięziony w Arezji przez pierwszą królową, Calliope, która uwiodła go i podstępem sprowadziła do miasta. Od tamtej pory przebywa w "złotej klatce", gdzie jest czczony i rozpieszczany, co w pełni mu odpowiada.
+
+Wspomniany w [[Sesja 61 - Yala, Arezja i Żółw]] przez Pythora i Kyrah, którzy opowiedzieli o jego zdradzie i udziale w zabójstwie Xandera (razem z Karpathosem).

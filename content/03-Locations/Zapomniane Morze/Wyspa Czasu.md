@@ -17,7 +17,8 @@ Krótki opis miejsca, jego atmosfera i ogólny wygląd.
 - **Miejsce 2**: Opis.
 
 ## Mieszkańcy
-- Sfinksy (rodzeństwo [[Wiedźma Lotosu|Wiedźmy Lotosu]])
+- Sfinksy: [[Kallisti]], [[Kartos]], [[Noland]], [[Waywa]], [[Bilatro]], [[Paradox]] (smok/strażnik).
+- Inni: [[Kabira Nasir]], [[Mateusz]]
 
 
 ## Historia

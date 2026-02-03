@@ -35,3 +35,4 @@ W [[Sesja 17 - Targ Minotaurów]] przybył pod [[Świątynia Pięciu|Świątyni�
 
 Zginął w [[Sesja 53 - Koniec Yonder]], zrzucony w przepaść przez [[Orestes|Orestesa]] i dobity magicznym pociskiem przez [[Felicjan Janus Twardowski|Felicjana]].
 
+W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] jego dusza została dostrzeżona przez bohaterów w kolejce do [[Charon|Charona]] w [[Hades|Hadesie]]. Była pusta i pozbawiona dawnego fanatyzmu.
