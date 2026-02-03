@@ -27,3 +27,5 @@ Wierzy, że Pięciu Bogów to zło, a Sydon jest jedynym dobrem.
 
 ## Historia
 Związana z Gaiusem i sprawą [[Sydon|Sydona]]. Zaręczona z Gaiusem (otrzymała od niego wielki szafir). Służy mu jako wierzchowiec, umożliwiając szybkie podróże między Mytros a wyspą Yonder. Jej istnienie rozwściecza królową [[Vallus]].
+Zginęła w [[Sesja 53 - Koniec Yonder]], u boku swego pana, walcząc z [[Bohaterowie Przepowiedni|Bohaterami]].
+

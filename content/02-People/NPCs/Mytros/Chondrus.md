@@ -26,3 +26,6 @@ Jest przebiegły, manipulujący i cyniczny. Publicznie udaje pobożnego zwolenni
 
 ## Historia
 Podczas narady w Sali Tronowej nalegał, by Vallus użyła swojej mocy aby odegnać burze Sydona.
+Później sprzymierzył się z [[Bohaterowie Przepowiedni|Bohaterami]] na [[Wyspa Yonder|Wyspie Yonder]], pomagając im pokonać [[Gaius|Gaiusa]] w [[Sesja 53 - Koniec Yonder]].
+W [[Sesja 54 - Wyznanie Chondrusa]] przyznał się do służby [[Lutheria|Lutherii]], twierdząc, że jej cele nie są sprzeczne z celami herosów. Został uwięziony w celi na [[Ultros|Ultrosie]].
+

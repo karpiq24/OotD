@@ -32,3 +32,6 @@ Gaius dowodził oddziałem kapitanów [[Zakon Sydona|Zakonu Sydona]], który prz
 W [[Sesja 8 - Ścieżka Umarłych]] spotkał bohaterów na szlaku do Nekropolii. Dosiadając swojego srebrnego smoka, ostrzegł ich przed kontynuowaniem wspinaczki (choć nie zaatakował). W [[Sesja 7 - Uratować Księżniczkę]] został obwiniony przez Hergerona o porażkę w sprawie Anory.
 
 W [[Sesja 17 - Targ Minotaurów]] przybył pod [[Świątynia Pięciu|Świątynię Pięciu]]. [[Felicjan Janus Twardowski|Felicjan]] wykrył jego myślami, że jest obojętny wobec [[Lutheria|Lutherii]], ale czuje nienawiść do [[Chondrus|Chondrusa]].
+
+Zginął w [[Sesja 53 - Koniec Yonder]], zrzucony w przepaść przez [[Orestes|Orestesa]] i dobity magicznym pociskiem przez [[Felicjan Janus Twardowski|Felicjana]].
+

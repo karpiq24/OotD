@@ -13,7 +13,6 @@ title: Lista postaci niezależnych
 - [[Estoria]]
 - [[Furie]]
 - [[Inne]]
-- [[Kairos]]
 - [[Kult Lutherii]]
 - [[Kult Węża]]
 - [[Kwaśny Rocznik]]
