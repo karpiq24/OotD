@@ -43,6 +43,8 @@ title: Sesje
 - [[Sesja 42 - Plemię Węgorza]]
 - [[Sesja 43 - Kopalnia Żelaza]]
 - [[Sesja 44 - Ventis]]
+- [[Sesja 45 - Tajemnica Wyspy Wygnańców]]
+- [[Sesja 46 - Morderca z Wyspy Wygnańców]]
 - [[Sesja 5 - Skała Estora|Sesja 5: Skała Estora]]
 - [[Sesja 6 - Problemy w Woodhike|Sesja 6: Problemy w Woodhike]]
 - [[Sesja 7 - Uratować Księżniczkę|Sesja 7: Uratować Księżniczkę]]

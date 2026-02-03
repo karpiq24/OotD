@@ -18,6 +18,12 @@ Jałowa skała w [[Zapomniane Morze|Zapomnianym Morzu]], służąca jako miejsce
 
 ## Mieszkańcy
 - [[Stavros]] (obecny "Król")
+- [[Idylla]] (matka Acastusa)
+- [[Tyrone]]
+- [[Tadd]]
+- [[Elara]]
+- [[Gareth]]
+- [[Silas]]
 - [[Marius]]
 - [[Keelan]] (ukrywający się seryjny morderca)
 

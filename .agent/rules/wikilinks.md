@@ -22,3 +22,8 @@ Always use the simplified wikilink format compatible with Obsidian/modern wiki s
    - **Correct**: `[[History of Thylea#The First War]]`
 
 4. **Consistency**: Ensure all new and edited links follow this pattern to maintain a clean and portable graph structure.
+
+5. **Hero Names**: Treat User Heroes (PCs) specially. Even if the text uses their first name, always link to their FULL filename with an alias.
+   - **Incorrect**: `[[Felicjan]]`, `[[Arevon]]`
+   - **Correct**: `[[Felicjan Janus Twardowski|Felicjan]]`, `[[Arevon Elorrenthi|Arevon]]`, `[[Orion Xul|Orion]]`
+
