@@ -6,6 +6,7 @@ title: Items And Loot
 
 - [[Antikythera]]
 - [[Burnished Dragonlord Coin]]
+- [[Gwiezdny Metal]]
 - [[Hand of Kentiname]]
 - [[Kaduceusz Damona]]
 - [[Korona Smoczych Lordów]]
