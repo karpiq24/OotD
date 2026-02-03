@@ -24,3 +24,4 @@ Została wychowana przez ludzką rodzinę, która traktowała ją jak córkę. J
 ## Historia
 W [[Sesja 17 - Targ Minotaurów]] walczyła z [[Orestes|Orestesem]] na arenie. Po przegranej została wykupiona przez drużynę i uwolniona.
 W [[Sesja 20 - Noc Długich Rogów]] pomogła uratować i wyprowadzić z miasta grupę minotaurów podczas zamieszek.
+W [[Sesja 63 - Werdykt Arezji]] znajdowała się w [[Świątynia Żywiołów|Świątyni Żywiołów]] w [[Arezja|Arezji]] u boku [[Taureus|Taureusa]], szepcząc mu dobre słowo o bohaterach, co zapewniło im przychylne przyjęcie.

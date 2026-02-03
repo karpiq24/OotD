@@ -32,6 +32,7 @@ title: Lista postaci niezależnych
 - [[Tytani]]
 - [[Ultros]]
 - [[Wiedźma Lotosu]]
+- [[Wyspa Czasu]]
 - [[Wyspa Forlorn]]
 - [[Wyspa Indygo]]
 - [[Wyspa Ognia]]
