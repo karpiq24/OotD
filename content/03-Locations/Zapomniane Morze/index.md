@@ -6,9 +6,10 @@ title: Zapomniane Morze
 
 - [[Charybda]]
 - [[Gniazdo Roka]]
+- [[Latająca Forteca Smoczych Lordów]]
 - [[Ogród Heliosa]]
 - [[Praxys|Praxys, Wieża Sydona]]
-- [[Typhon|Typhon, Paszcza]]
+- [[Typhon]]
 - [[Wyspa Czasu]]
 - [[Wyspa Smoka]]
 - [[Zapomniane Morze]]
