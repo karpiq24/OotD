@@ -1,7 +1,6 @@
 ---
 title: Wieża Wiedźmy Lotosu
 ---
-# Wieża Wiedźmy Lotosu
 
 ![Wieża Wiedźmy Lotosu](../../assets/sessions/040/040_tower.png)
 

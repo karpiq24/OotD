@@ -1,7 +1,6 @@
 ---
 title: Kult Lutherii
 ---
-# Kult Lutherii
 
 ![Placeholder](../../assets/placeholder.png)
 

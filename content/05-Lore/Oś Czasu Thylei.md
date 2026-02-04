@@ -1,7 +1,7 @@
 ---
 title: Oś Czasu Thylei
 ---
-# Oś Czasu Thylei
+
 *   **~2,000 DA**: Height of the Gygan empire (Szczyt potęgi imperium Gyganów)
 *   **24 DA**: Arrival of the Dragonlords (Przybycie Smoczych Władców)
 *   **18 DA**: Founding of the first settler kingdoms (Założenie pierwszych królestw osadników)

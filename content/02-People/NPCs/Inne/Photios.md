@@ -1,7 +1,6 @@
 ---
 title: Photios
 ---
-# Photios
 
 ![Placeholder](../../../assets/placeholder.png)
 

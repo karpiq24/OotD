@@ -1,7 +1,6 @@
 ---
 title: Świątynia Tarczy
 ---
-# Świątynia Tarczy
 
 ![Placeholder](../../../assets/placeholder.png)
 

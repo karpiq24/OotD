@@ -1,7 +1,6 @@
 ---
 title: Talos
 ---
-# Talos
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Tomb of Nicholas
 ---
-# Tomb of Nicholas
+
 > **[[Nicholas Phobas|NICHOLAS PHOBAS]]**  
 > **POBŁOGOSŁAWIONY PRZEZ [[Sydon|SYDONA]]**
 > 

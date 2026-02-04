@@ -1,7 +1,6 @@
 ---
 title: Avys
 ---
-# Avys
 
 ![Placeholder](../../../assets/placeholder.png)
 

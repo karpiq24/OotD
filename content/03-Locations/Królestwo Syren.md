@@ -1,7 +1,6 @@
 ---
 title: Królestwo Syren
 ---
-# Królestwo Syren
 
 ![Placeholder](../assets/placeholder.png)
 

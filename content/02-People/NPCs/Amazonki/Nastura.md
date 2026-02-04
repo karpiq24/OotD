@@ -1,7 +1,6 @@
 ---
 title: Nastura
 ---
-# Nastura
 
 ![Placeholder](../../../assets/placeholder.png)
 

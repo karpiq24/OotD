@@ -1,7 +1,6 @@
 ---
 title: Port w Mytros
 ---
-# Port w Mytros
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Demetria
 ---
-# Demetria
 
 _Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_
 

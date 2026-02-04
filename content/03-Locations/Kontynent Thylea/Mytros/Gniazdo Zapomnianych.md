@@ -1,7 +1,6 @@
 ---
 title: Gniazdo Zapomnianych
 ---
-# Gniazdo Zapomnianych (Nest of the Forgotten)
 
 ![Placeholder](../../../assets/placeholder.png)
 

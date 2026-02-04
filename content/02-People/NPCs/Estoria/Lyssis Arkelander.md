@@ -1,7 +1,6 @@
 ---
 title: Lyssis Arkelander
 ---
-# Lyssis Arkelander
 
 ![Placeholder](../../../assets/placeholder.png)
 

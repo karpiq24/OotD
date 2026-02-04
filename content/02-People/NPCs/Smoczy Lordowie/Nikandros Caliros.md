@@ -1,7 +1,6 @@
 ---
 title: Nikandros Caliros
 ---
-# Nikandros Caliros
 
 ![Placeholder](../../../assets/placeholder.png)
 

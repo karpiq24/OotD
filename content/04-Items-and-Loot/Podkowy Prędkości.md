@@ -1,7 +1,6 @@
 ---
 title: Podkowy Prędkości
 ---
-# Podkowy Prędkości (Horseshoes of Speed)
 
 ![Placeholder](../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Zatoka Cerulańska
 ---
-# Zatoka Cerulańska
 
 ![Placeholder](../../assets/placeholder.png)
 

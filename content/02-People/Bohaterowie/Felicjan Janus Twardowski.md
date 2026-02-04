@@ -1,7 +1,6 @@
 ---
 title: Felicjan Janus Twardowski
 ---
-# Felicjan Janus Twardowski
 
 ![Felicjan](../../assets/Felicjan.png)
 

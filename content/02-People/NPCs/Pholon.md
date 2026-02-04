@@ -1,7 +1,6 @@
 ---
 title: Pholon
 ---
-# Pholon
 
 ![Placeholder](../../assets/placeholder.png)
 

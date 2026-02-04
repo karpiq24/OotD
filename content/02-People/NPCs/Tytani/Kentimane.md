@@ -1,7 +1,6 @@
 ---
 title: Kentimane
 ---
-# Kentimane
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Braeca
 ---
-# Braeca
 
 ![Placeholder](../../../assets/placeholder.png)
 

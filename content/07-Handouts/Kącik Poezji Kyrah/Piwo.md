@@ -1,7 +1,6 @@
 ---
 title: Piwo
 ---
-# Piwo
 
 _Pieśń biesiadna ze zbioru "Kącik Poezji [[Kyrah]]"_
 

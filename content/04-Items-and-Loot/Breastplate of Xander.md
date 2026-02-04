@@ -1,7 +1,6 @@
 ---
 title: Breastplate of Xander
 ---
-# Breastplate of Xander
 
 ![Placeholder](../assets/placeholder.png)
 

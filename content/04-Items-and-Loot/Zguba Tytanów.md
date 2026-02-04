@@ -1,7 +1,6 @@
 ---
 title: Zguba Tytanów (Titansbane)
 ---
-# Zguba Tytanów (Titansbane)
 
 ![Placeholder](../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Fryxon
 ---
-# Fryxon
 
 ![Placeholder](../../../assets/placeholder.png)
 

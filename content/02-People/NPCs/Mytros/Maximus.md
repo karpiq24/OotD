@@ -1,7 +1,6 @@
 ---
 title: Maximus
 ---
-# Maximus
 
 ![Placeholder](../../../assets/placeholder.png)
 

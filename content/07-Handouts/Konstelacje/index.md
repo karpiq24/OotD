@@ -1,7 +1,6 @@
 ---
 title: Konstelacje
 ---
-# Konstelacje
 
 - [[Konstelacja Barda]]
 - [[Konstelacja Bliźniąt (Themis)]]

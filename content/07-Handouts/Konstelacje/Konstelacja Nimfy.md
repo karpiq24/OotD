@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Nimfy
 ---
-# Konstelacja Nimfy
 
 _Mit o konstelacji Nimfy, związany z królem [[Lakan|Lakanem]] i driadą_
 

@@ -1,7 +1,6 @@
 ---
 title: Tysophale
 ---
-# Tysophale
 
 ![Placeholder](../../../assets/placeholder.png)
 

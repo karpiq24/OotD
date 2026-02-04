@@ -1,7 +1,6 @@
 ---
 title: Gwiezdny Metal
 ---
-# Gwiezdny Metal
 
 ![Placeholder](../assets/placeholder.png)
 

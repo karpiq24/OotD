@@ -1,7 +1,6 @@
 ---
 title: Wyspa Złotego Serca
 ---
-# Wyspa Złotego Serca
 
 ![Wyspa Złotego Serca](../../assets/placeholder.png)
 

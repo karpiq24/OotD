@@ -1,7 +1,6 @@
 ---
 title: Teatr Bogów
 ---
-# Teatr Bogów (Theater of the Gods)
 
 ![Placeholder](../../../assets/placeholder.png)
 

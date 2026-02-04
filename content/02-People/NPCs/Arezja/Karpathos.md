@@ -1,7 +1,6 @@
 ---
 title: Karpathos
 ---
-# Karpathos
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Mateusz
 ---
-# Mateusz
 
 ![Placeholder](../../../assets/placeholder.jpeg)
 

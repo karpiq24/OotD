@@ -1,7 +1,6 @@
 ---
 title: Sześcian Więzienny
 ---
-# Sześcian Więzienny (Prison Cube)
 
 ![Sześcian](../../assets/sessions/065/065_cube.png)
 

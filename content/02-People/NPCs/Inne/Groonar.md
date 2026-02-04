@@ -1,7 +1,6 @@
 ---
 title: Groonar
 ---
-# Groonar
 
 ![Placeholder](../../../assets/placeholder.png)
 

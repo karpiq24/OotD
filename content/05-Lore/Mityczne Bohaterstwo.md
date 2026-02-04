@@ -1,7 +1,7 @@
 ---
 title: Mityczne Bohaterstwo
 ---
-# Mityczne Bohaterstwo
+
 Odyseja Dragonlords stawia bohaterów w rolach mitycznych herosów. To nie tylko kwestia potęgi, ale także relacji z Losu (Fate), Bogami i Sławą.
 
 ## Fate and Prophecy (Los i Proroctwo)

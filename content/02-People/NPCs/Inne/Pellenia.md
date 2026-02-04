@@ -1,7 +1,6 @@
 ---
 title: Pellenia
 ---
-# Pellenia
 
 ![Placeholder](../../../assets/placeholder.png)
 

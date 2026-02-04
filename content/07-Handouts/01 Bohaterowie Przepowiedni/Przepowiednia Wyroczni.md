@@ -1,7 +1,6 @@
 ---
 title: Przepowiednia Wyroczni
 ---
-# Przepowiednia Wyroczni
 
 _Przepowiednia_
 

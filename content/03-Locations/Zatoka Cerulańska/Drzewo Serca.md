@@ -1,7 +1,6 @@
 ---
 title: Drzewo Serca
 ---
-# Drzewo Serca
 
 ![Placeholder](../../assets/placeholder.png)
 

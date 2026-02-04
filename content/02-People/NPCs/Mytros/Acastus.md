@@ -1,7 +1,6 @@
 ---
 title: Acastus
 ---
-# Acastus
 
 ![Placeholder](../../../assets/placeholder.png)
 

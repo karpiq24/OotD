@@ -1,7 +1,6 @@
 ---
 title: Tome of Maenads
 ---
-# Tome of Maenads
 
 ![Placeholder](../../assets/placeholder.png)
 

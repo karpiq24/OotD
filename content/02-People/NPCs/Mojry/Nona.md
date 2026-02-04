@@ -1,7 +1,6 @@
 ---
 title: Nona
 ---
-# Nona
 
 ![Nona i Orion](../../../assets/sessions/047/047_nona.jpg)
 

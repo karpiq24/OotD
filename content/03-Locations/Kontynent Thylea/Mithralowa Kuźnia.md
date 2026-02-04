@@ -1,7 +1,6 @@
 ---
 title: Mithralowa Kuźnia
 ---
-# Mithralowa Kuźnia
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Iolaah
 ---
-# Iolaah
 
 ![Placeholder](../../../assets/placeholder.png)
 

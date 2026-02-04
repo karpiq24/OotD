@@ -1,7 +1,6 @@
 ---
 title: Keteus
 ---
-# Keteus
 
 ![Placeholder](../../../assets/placeholder.png)
 

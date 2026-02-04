@@ -1,7 +1,6 @@
 ---
 title: Dzielnica Świątynna
 ---
-# Dzielnica Świątynna
 
 ![Placeholder](../../../assets/placeholder.png)
 

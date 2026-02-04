@@ -1,7 +1,6 @@
 ---
 title: List Sydona do Heleki
 ---
-# List Sydona do Heleki
 
 _Typ (List/Notatka)_
 

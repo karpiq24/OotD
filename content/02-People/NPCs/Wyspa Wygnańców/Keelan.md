@@ -1,7 +1,6 @@
 ---
 title: Keelan
 ---
-# Keelan
 
 ![Placeholder](../../../assets/placeholder.png)
 

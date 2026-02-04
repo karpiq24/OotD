@@ -1,7 +1,6 @@
 ---
 title: Przyjazny Cyklop
 ---
-# Przyjazny Cyklop
 
 ![Placeholder](../../../assets/placeholder.png)
 

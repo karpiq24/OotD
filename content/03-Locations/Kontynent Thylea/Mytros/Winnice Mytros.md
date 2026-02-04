@@ -1,7 +1,6 @@
 ---
 title: Winnice Mytros
 ---
-# Winnice Mytros
 
 ![Placeholder](../../../assets/placeholder.png)
 

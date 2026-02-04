@@ -1,7 +1,6 @@
 ---
 title: Kerodotos
 ---
-# Kerodotos
 
 ![Placeholder](../../../assets/placeholder.png)
 

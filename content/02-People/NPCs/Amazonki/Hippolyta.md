@@ -1,7 +1,6 @@
 ---
 title: Hippolyta
 ---
-# Hippolyta
 
 ![Placeholder](../../../assets/placeholder.png)
 

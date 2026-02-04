@@ -1,7 +1,6 @@
 ---
 title: Suchary
 ---
-# Suchary
 
 _Zbiór żartów ze zbioru "Kącik Poezji [[Kyrah]]"_
 

@@ -1,7 +1,6 @@
 ---
 title: Taureus
 ---
-# Taureus
 
 ![Taureus](../../../assets/sessions/063/taureus.png)
 

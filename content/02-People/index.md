@@ -1,8 +1,7 @@
 ---
 title: Frakcje, bohaterowie i postacie niezależne
 ---
-# Frakcje, bohaterowie i postacie niezależne
 
-- [[Factions]]
-- [[NPCs|Lista postaci niezależnych]]
-- [[PCs|Pcs]]
+- [[02-People/NPCs|Lista postaci niezależnych]]
+- [[02-People/Bohaterowie|Bohaterowie]]
+- [[02-People/Factions|Frakcje]]

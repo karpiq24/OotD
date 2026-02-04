@@ -1,7 +1,6 @@
 ---
 title: Gnotor
 ---
-# Gnotor
 
 ![Placeholder](../../../assets/placeholder.png)
 

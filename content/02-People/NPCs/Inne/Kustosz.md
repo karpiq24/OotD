@@ -1,7 +1,6 @@
 ---
 title: Kustosz
 ---
-# Kustosz
 
 ![Kustosz](../../../assets/sessions/053/053_bowl.png)
 

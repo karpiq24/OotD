@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Kowala
 ---
-# Konstelacja Kowala
 
 _Mit o konstelacji Kowala, związany z Volkanem_
 

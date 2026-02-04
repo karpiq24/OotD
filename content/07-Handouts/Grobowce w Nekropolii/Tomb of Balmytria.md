@@ -1,7 +1,7 @@
 ---
 title: Tomb of Balmytria
 ---
-# Tomb of Balmytria
+
 > Ten masywny grobowiec przyćmiewa pozostałe w [[Góra Telamok#Nekropolia|Nekropolii]]. Został wykonany z najbielszego marmuru, który zachował swoją barwę przez długie lata, grobowiec jest wsparty ogromnymi, wijącymi się filarami. Kiedy się zbliżacie, zdajecie sobie sprawę, że nie są to zwykłe kolumny, ale posągi wyrzeźbione w kształcie smoków w różnych pozach, podtrzymujące konstrukcję. Wejściem są duże, podwójne drzwi wykonane z brązu, na których wyryto epitafium:
 
 > **[[Balmytria|BALMYTRIA]]**  

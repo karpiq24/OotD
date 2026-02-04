@@ -1,7 +1,6 @@
 ---
 title: Tolyphemus
 ---
-# Tolyphemus
 
 ![Placeholder](../../../assets/placeholder.png)
 

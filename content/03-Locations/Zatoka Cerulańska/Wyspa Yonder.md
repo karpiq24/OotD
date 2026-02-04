@@ -1,7 +1,6 @@
 ---
 title: Wyspa Yonder
 ---
-# Wyspa Yonder
 
 ![Placeholder](../../assets/placeholder.png)
 

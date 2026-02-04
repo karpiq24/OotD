@@ -1,7 +1,6 @@
 ---
 title: Barbarzyńcy z Zatoki
 ---
-# Barbarzyńcy z Zatoki
 
 ![Placeholder](../../assets/placeholder.png)
 

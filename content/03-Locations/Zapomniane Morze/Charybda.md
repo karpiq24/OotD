@@ -1,7 +1,6 @@
 ---
 title: Charybda
 ---
-# Charybda
 
 ![Charybda](../../assets/sessions/065/065_chardyba.png)
 

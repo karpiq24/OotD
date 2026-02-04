@@ -1,7 +1,6 @@
 ---
 title: Super Bar
 ---
-# Super Bar
 
 ![Placeholder](../../../assets/placeholder.png)
 

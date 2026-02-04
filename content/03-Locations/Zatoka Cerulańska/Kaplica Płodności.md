@@ -1,7 +1,6 @@
 ---
 title: Kaplica Płodności
 ---
-# Kaplica Płodności
 
 ![Placeholder](../../assets/placeholder.png)
 

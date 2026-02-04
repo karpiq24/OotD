@@ -1,7 +1,6 @@
 ---
 title: Brama Królewska
 ---
-# Brama Królewska (The Royal Gate)
 
 ![Placeholder](../../../assets/placeholder.png)
 

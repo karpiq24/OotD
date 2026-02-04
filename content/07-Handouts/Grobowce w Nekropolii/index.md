@@ -1,7 +1,6 @@
 ---
 title: Grobowce W Nekropolii
 ---
-# Grobowce W Nekropolii
 
 - [[Tomb of Adonis]]
 - [[Tomb of Balmytria]]

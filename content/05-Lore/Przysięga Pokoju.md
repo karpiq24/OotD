@@ -1,7 +1,6 @@
 ---
 title: Przysięga Pokoju
 ---
-# Przysięga Pokoju (The Oath of Peace)
 
 **Przysięga Pokoju** to najświętszy i najważniejszy pakt w historii [[Thylea|Thylei]], który przez ostatnie pięćset lat powstrzymywał otwartą wojnę między [[Bliźniaczy Tytani|Tytanami]] a [[Pięciu Bogów|Pięcioma Bogami]]. Jego nadchodzący koniec jest głównym motorem wydarzeń obecnej ery i zwiastunem możliwej apokalipsy.
 

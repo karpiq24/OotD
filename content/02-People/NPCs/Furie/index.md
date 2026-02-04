@@ -1,6 +1,5 @@
 ---
 title: Furie
 ---
-# Furie
 
 - [[Megara]]

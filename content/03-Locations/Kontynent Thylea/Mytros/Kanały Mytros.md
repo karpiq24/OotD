@@ -1,7 +1,6 @@
 ---
 title: Kanały Mytros
 ---
-# Kanały Mytros (Sewers of Mytros)
 
 ![Placeholder](../../../assets/placeholder.png)
 

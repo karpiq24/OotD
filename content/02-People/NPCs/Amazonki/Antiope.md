@@ -1,7 +1,6 @@
 ---
 title: Antiope
 ---
-# Antiope
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Latająca Forteca Smoczych Lordów
 ---
-# Latająca Forteca Smoczych Lordów
 
 ![Latająca Forteca](../../assets/placeholder.png)
 

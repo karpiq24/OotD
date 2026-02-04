@@ -1,7 +1,6 @@
 ---
 title: Wielka Księga Zasad
 ---
-# Wielka Księga Zasad
 
 ![Placeholder](../assets/placeholder.png)
 

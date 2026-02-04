@@ -1,7 +1,7 @@
 ---
 title: Estoria
 ---
-# Estoria
+
 ![Estoria](../../../assets/sessions/003/003_estoria.webp)
 
 Estoria to największa osada wzdłuż rzeki [[Rzeka Arkelon|Arkelon]], wkomponowana w skalisty wąwóz. Miasto schodzi kaskadowo w dół od kamiennych murów fortecy, która strzeże północnych rubieży przed niebezpieczeństwami ze stepów. 

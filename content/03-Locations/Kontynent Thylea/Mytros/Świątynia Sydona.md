@@ -1,7 +1,6 @@
 ---
 title: Świątynia Sydona
 ---
-# Świątynia Sydona
 
 ![Placeholder](../../../assets/placeholder.png)
 

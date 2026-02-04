@@ -1,7 +1,6 @@
 ---
 title: Estoria
 ---
-# Estoria
 
 - [[Agora w Estorii]]
 - [[Amfiteatr w Estorii]]

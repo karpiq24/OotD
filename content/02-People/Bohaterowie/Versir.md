@@ -1,7 +1,6 @@
 ---
 title: Versir
 ---
-# Versir
 
 ![Versir](../../assets/Versir.png)
 

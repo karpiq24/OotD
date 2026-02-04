@@ -1,7 +1,6 @@
 ---
 title: Kwaśny Rocznik
 ---
-# Kwaśny Rocznik
 
 ![Placeholder](../../assets/placeholder.png)
 

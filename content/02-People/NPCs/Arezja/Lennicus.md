@@ -1,7 +1,6 @@
 ---
 title: Lennicus
 ---
-# Lennicus
 
 ![Lennicus](../../../assets/sessions/062/062_Lennicus.png)
 

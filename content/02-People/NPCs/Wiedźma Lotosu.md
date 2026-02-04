@@ -1,7 +1,6 @@
 ---
 title: Wiedźma Lotosu
 ---
-# Wiedźma Lotosu
 
 ![Wiedźma Lotosu](../../assets/sessions/041/041_witch.webp)
 

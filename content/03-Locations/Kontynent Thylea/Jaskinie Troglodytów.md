@@ -1,7 +1,6 @@
 ---
 title: Jaskinie Troglodytów
 ---
-# Jaskinie Troglodytów
 
 ![Placeholder](../../assets/placeholder.png)
 

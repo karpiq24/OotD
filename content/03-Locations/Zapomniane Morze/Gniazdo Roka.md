@@ -1,7 +1,6 @@
 ---
 title: Gniazdo Roka
 ---
-# Gniazdo Roka
 
 ![Placeholder](../../assets/placeholder.png)
 

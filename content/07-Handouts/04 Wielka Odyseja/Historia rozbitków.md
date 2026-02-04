@@ -1,7 +1,6 @@
 ---
 title: Historia rozbitków
 ---
-# Historia rozbitków
 
 _Relacja Quinna, rozbitka z innego świata, o zniszczeniu jego statku przez wieloręką bestię_
 

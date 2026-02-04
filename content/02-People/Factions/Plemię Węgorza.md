@@ -1,7 +1,6 @@
 ---
 title: Plemię Węgorza
 ---
-# Plemię Węgorza
 
 ![Loopywoopy](../../../content/assets/sessions/042/042_loopywoopy.jpg)
 

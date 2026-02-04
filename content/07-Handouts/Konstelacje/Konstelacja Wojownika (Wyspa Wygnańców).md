@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Wojownika (Wyspa Wygnańców)
 ---
-# Konstelacja Wojownika (Wyspa Wygnańców)
 
 _Mit o konstelacji Wojownika, związany z bogiem Pythorem i zazdrosną smoczycą Hexią_
 

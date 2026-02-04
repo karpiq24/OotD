@@ -1,7 +1,6 @@
 ---
 title: Vallus
 ---
-# Vallus
 
 ![Placeholder](../../../assets/placeholder.png)
 

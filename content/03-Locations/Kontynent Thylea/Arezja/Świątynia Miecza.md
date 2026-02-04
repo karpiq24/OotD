@@ -1,7 +1,6 @@
 ---
 title: Świątynia Miecza
 ---
-# Świątynia Miecza
 
 ![Placeholder](../../../assets/placeholder.png)
 

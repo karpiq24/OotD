@@ -1,7 +1,7 @@
 ---
 title: Smocza Kaplica
 ---
-# Smocza Kaplica
+
 ![Smocza Kaplica](../../../assets/placeholder.png)
 
 Duży kamienny budynek z miedzianą kopułą, położony na końcu cichej uliczki w pobliżu ściany wąwozu. Nad wejściem znajduje się marmurowa płaskorzeźba przedstawiająca legendarną smoczycę [[Balmytria|Balmytrię]]. Wewnątrz unosi się silny zapach kadzideł.

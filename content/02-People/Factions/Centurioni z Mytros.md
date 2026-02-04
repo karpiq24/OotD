@@ -1,7 +1,6 @@
 ---
 title: Centurioni z Mytros
 ---
-# Centurioni z Mytros
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,6 +1,3 @@
----
-title: "Sesja 4: Mroczne sekrety Świątyni"
----
 # Sesja 4: Mroczne sekrety Świątyni
 
 **Data:** 05.02.2024

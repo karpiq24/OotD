@@ -1,7 +1,6 @@
 ---
 title: Steros
 ---
-# Steros
 
 ![Placeholder](../../../assets/placeholder.png)
 

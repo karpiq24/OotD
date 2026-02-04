@@ -1,7 +1,6 @@
 ---
 title: Rasy
 ---
-# Rasy
 
 - [[Centaur z Thylei]]
 - [[Meduza z Thylei]]

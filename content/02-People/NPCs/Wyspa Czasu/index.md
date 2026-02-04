@@ -1,7 +1,6 @@
 ---
 title: Wyspa Czasu
 ---
-# Wyspa Czasu
 
 - [[Bilatro]]
 - [[Kabira Nasir]]

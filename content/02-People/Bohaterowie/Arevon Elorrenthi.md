@@ -1,7 +1,6 @@
 ---
 title: Arevon Elorrenthi
 ---
-# Arevon Elorrenthi
 
 ![Arevon](../../assets/Arevon.png)
 

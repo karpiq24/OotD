@@ -1,7 +1,6 @@
 ---
 title: Paradoks
 ---
-# Paradoks
 
 ![Paradoks](../../../assets/sessions/065/065_paradox.png)
 

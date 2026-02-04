@@ -1,7 +1,6 @@
 ---
 title: Xander Huorath
 ---
-# Xander Huorath
 
 ![Placeholder](../../../assets/placeholder.png)
 

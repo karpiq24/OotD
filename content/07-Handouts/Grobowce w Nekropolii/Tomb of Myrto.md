@@ -1,7 +1,7 @@
 ---
 title: Tomb of Myrto
 ---
-# Tomb of Myrto
+
 > **[[Myrto Wspaniały|MYRTO WSPANIAŁY]]**
 > 
 > Niektórzy mówią, że Muza jest tylko jedna.  

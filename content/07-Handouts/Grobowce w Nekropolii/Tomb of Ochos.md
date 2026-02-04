@@ -1,7 +1,7 @@
 ---
 title: Tomb of Ochos
 ---
-# Tomb of Ochos
+
 > **[[Ochos Arkelander|OCHOS ARKELANDER]]**
 > 
 > **ZAPRZYSIĘŻONY [[Hexia|HEXII]]**

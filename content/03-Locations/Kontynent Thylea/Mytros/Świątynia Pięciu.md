@@ -1,7 +1,6 @@
 ---
 title: Świątynia Pięciu
 ---
-# Świątynia Pięciu
 
 ![Placeholder](../../../assets/placeholder.png)
 

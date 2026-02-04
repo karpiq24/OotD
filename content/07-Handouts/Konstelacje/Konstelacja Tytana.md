@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Tytana
 ---
-# Konstelacja Tytana
 
 _Mit o konstelacji Tytana, związany z Sydonem_
 

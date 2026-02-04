@@ -1,7 +1,6 @@
 ---
 title: Damon
 ---
-# Damon
 
 ![Placeholder](../../../assets/placeholder.png)
 

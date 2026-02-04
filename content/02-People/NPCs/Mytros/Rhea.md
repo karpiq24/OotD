@@ -1,7 +1,6 @@
 ---
 title: Rhea
 ---
-# Rhea
 
 ![Placeholder](../../../assets/placeholder.png)
 

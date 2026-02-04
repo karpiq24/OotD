@@ -1,7 +1,6 @@
 ---
 title: Stavros
 ---
-# Stavros
 
 ![Stavros](../../../assets/sessions/045/045_stavros.jpg)
 

@@ -1,7 +1,6 @@
 ---
 title: Most Harfy
 ---
-# Most Harfy
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Calliope
 ---
-# Calliope
 
 ![Calliope](../../../assets/placeholder.png)
 

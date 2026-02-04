@@ -1,7 +1,6 @@
 ---
 title: Legendy I Mity
 ---
-# Legendy I Mity
 
 - [[01 Legenda Stworzenia|Legenda Stworzenia]]
 - [[02 Narodziny Tytanów|Narodziny Tytanów]]

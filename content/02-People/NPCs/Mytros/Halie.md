@@ -1,7 +1,6 @@
 ---
 title: Halie
 ---
-# Halie
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Darok
 ---
-# Darok
 
 ![Placeholder](../../../assets/placeholder.png)
 

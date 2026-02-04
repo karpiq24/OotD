@@ -1,7 +1,6 @@
 ---
 title: Ismene Neurdagon
 ---
-# Ismene Neurdagon
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,13 +1,12 @@
 ---
 title: 04 Wielka Odyseja
 ---
-# 04 Wielka Odyseja
 
 - [[Chutliwa argoniańska pokojówka]]
 - [[Dziennik Gaiusa]]
 - [[Dziennik Hergerona]]
 - [[Dziennik Keelana]]
-- [[Hexia i Ochos|Hexia]]
+- [[Hexia i Ochos]]
 - [[Historia rozbitków]]
 - [[Konspekt Strategiczny Tytanów]]
 - [[List do Lutherii]]

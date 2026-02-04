@@ -1,7 +1,7 @@
 ---
 title: Tomb of Xander
 ---
-# Tomb of Xander
+
 > Ściany tej dużej komnaty noszą zdumiewającą liczbę obrazów wszelkiego rodzaju: rzeźbienia w kamieniu, kolorowe malowidła ścienne, szklane mozaiki, obrazy! Sceny są jeszcze bardziej zróżnicowane: bitwy, wiele z nich jest bardziej szczegółowych niż te przedstawione w innych grobowcach; zwykłe sekwencje, w których [[Historia Thylei#Arrival of the Dragonlords (Przybycie Smoczych Władców)|Smoczy Lordowie]] rozbijają obóz, polują w towarzystwie ludzi i smoków, piją i opowiadają historie; eksploracja nowego świata, stawianie czoła nowej krainie. W każdym z nich występuje specyficzny ludzki wojownik i srebrny smok. Na jednym panelu po prostu szybują samotnie po ciemnoniebieskim niebie pełnym świecących gwiazd.
 > 
 > Na sklepieniu kolebkowym znajdują się prawdopodobnie najciekawsze obrazy, najwyraźniej opowiadające jakąś historię. Pierwsze panele przedstawiają tego samego mężczyznę, [[Xander|Xandera Huoratha]], ubranego w stroje przypominające ceremoniał: zamiast zbroi jest kolorowe ubranie i elegancka biżuteria. Nad nim wielcy królowie i królowe ofiarowują szereg prezentów: złoto i klejnoty; bronie i zbroje; żołnierze i statki.

@@ -1,7 +1,6 @@
 ---
 title: Crassius Curio
 ---
-# Crassius Curio
 
 ![Placeholder](../../../assets/placeholder.png)
 

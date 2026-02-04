@@ -1,7 +1,6 @@
 ---
 title: Akademia Mytros
 ---
-# Akademia Mytros (The Academy)
 
 ![Placeholder](../../../assets/placeholder.png)
 

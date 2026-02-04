@@ -1,7 +1,6 @@
 ---
 title: Melania Twardowska
 ---
-# Melania Twardowska
 
 ![Placeholder](../../../assets/placeholder.png)
 

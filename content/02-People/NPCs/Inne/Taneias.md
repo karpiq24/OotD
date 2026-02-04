@@ -1,7 +1,6 @@
 ---
 title: Taneias
 ---
-# Taneias
 
 ![Placeholder](../../../assets/placeholder.png)
 

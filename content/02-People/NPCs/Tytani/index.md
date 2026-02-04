@@ -1,11 +1,10 @@
 ---
 title: Tytani
 ---
-# Tytani
 
-- [[Dzieci Tytanów]]
 - [[Kentimane]]
 - [[Lutheria]]
 - [[Sydon]]
 - [[Thylea]]
-- [[Zaginieni Tytani]]
+- [[02-People/NPCs/Tytani/Dzieci Tytanów|Dzieci Tytanów]]
+- [[02-People/NPCs/Tytani/Zaginieni Tytani|Zaginieni Tytani]]

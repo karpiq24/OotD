@@ -1,7 +1,6 @@
 ---
 title: Arybas
 ---
-# Arybas
 
 ![Placeholder](../../../assets/placeholder.png)
 

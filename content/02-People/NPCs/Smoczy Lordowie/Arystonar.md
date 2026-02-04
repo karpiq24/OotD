@@ -1,7 +1,6 @@
 ---
 title: Arystonar
 ---
-# Arystonar
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Taran Neurdagon
 ---
-# Taran Neurdagon
 
 ![Placeholder](../../../assets/placeholder.png)
 

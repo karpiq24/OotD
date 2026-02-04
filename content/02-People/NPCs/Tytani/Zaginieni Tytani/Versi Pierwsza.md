@@ -1,7 +1,6 @@
 ---
 title: Versi Pierwsza
 ---
-# Versi Pierwsza
 
 ![Placeholder](../../../../assets/placeholder.png)
 

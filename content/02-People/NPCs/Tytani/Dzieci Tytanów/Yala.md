@@ -1,7 +1,6 @@
 ---
 title: Yala
 ---
-# Yala
 
 ![Placeholder](../../../../assets/placeholder.png)
 

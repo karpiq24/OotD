@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Śniącego
 ---
-# Konstelacja Śniącego
 
 _Mit o konstelacji Śniącego, mrocznej plamie na niebie_
 

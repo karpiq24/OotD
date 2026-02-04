@@ -1,7 +1,6 @@
 ---
 title: Tarrasque
 ---
-# Tarrasque
 
 ![Tarrasque](../../../assets/sessions/065/065_tarrasque.png)
 

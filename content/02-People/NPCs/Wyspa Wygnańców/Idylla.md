@@ -1,7 +1,6 @@
 ---
 title: Idylla
 ---
-# Idylla
 
 ![Idylla](../../../assets/sessions/045/045_idylla.webp)
 

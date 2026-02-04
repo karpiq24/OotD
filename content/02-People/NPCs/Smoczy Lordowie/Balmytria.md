@@ -1,7 +1,6 @@
 ---
 title: Balmytria
 ---
-# Balmytria
 
 ![Placeholder](../../../assets/placeholder.png)
 

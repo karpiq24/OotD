@@ -1,7 +1,6 @@
 ---
 title: Portret Karpathosa Wilczego Lorda
 ---
-# Portret Karpathosa Wilczego Lorda
 
 ![Portret Karpathosa](../assets/sessions/062/062_painting.png)
 

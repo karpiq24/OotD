@@ -1,7 +1,6 @@
 ---
 title: Sędzia Enops
 ---
-# Sędzia Enops
 
 ![Placeholder](../../../assets/placeholder.png)
 

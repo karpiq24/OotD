@@ -1,7 +1,6 @@
 ---
 title: Młot Pythora
 ---
-# Młot Pythora
 
 ![Hammer of Pythor](../assets/placeholder.png)
 

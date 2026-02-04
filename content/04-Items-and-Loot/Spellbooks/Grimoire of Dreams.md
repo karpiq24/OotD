@@ -1,7 +1,6 @@
 ---
 title: Grimoire of Dreams
 ---
-# Grimoire of Dreams
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Vorena
 ---
-# Vorena
 
 ![Placeholder](../../../assets/placeholder.png)
 

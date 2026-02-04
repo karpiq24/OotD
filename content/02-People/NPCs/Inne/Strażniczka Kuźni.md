@@ -1,7 +1,6 @@
 ---
-title: Strażniczka Kuźni
+title: Strażniczka Kuźni (The Forge Keeper)
 ---
-# Strażniczka Kuźni (The Forge Keeper)
 
 ![Placeholder](../../../assets/placeholder.png)
 

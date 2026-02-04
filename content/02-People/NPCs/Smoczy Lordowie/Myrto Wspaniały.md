@@ -1,7 +1,6 @@
 ---
 title: Myrto Wspaniały
 ---
-# Myrto Wspaniały
 
 ![Placeholder](../../../assets/placeholder.png)
 

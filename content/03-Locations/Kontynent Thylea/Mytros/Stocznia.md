@@ -1,7 +1,6 @@
 ---
 title: Stocznia
 ---
-# Stocznia
 
 ![Placeholder](../../../assets/placeholder.png)
 

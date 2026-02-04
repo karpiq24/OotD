@@ -1,7 +1,6 @@
 ---
 title: Zephyrus Wiosenny Wiatr
 ---
-# Zephyrus Wiosenny Wiatr
 
 _Opowieść [[Zephyrus|Zephyrusa]], Wiosennego Wiatru_
 

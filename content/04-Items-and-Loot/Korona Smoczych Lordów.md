@@ -1,7 +1,6 @@
 ---
 title: Korona Smoczych Lordów
 ---
-# Korona Smoczych Lordów
 
 ![Placeholder](../assets/placeholder.png)
 

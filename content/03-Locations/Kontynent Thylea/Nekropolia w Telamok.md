@@ -1,7 +1,6 @@
 ---
 title: Nekropolia w Telamok
 ---
-# Nekropolia w Telamok
 
 ![Placeholder](../../assets/placeholder.png)
 

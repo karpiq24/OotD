@@ -1,6 +1,3 @@
----
-title: "Sesja 6: Problemy w Woodhike"
----
 # Sesja 6: Problemy w Woodhike
 
 **Data:** 21.02.2024

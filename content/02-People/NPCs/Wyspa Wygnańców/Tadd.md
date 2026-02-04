@@ -1,7 +1,6 @@
 ---
 title: Tadd
 ---
-# Tadd
 
 ![Tadd](../../../assets/sessions/045/045_tad.jpg)
 

@@ -1,7 +1,6 @@
 ---
 title: Praxys, Wieża Sydona
 ---
-# Praxys, Wieża Sydona
 
 ![Placeholder](../../assets/placeholder.png)
 

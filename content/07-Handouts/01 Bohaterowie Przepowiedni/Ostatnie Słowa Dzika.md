@@ -1,7 +1,6 @@
 ---
 title: Ostatnie Słowa Dzika
 ---
-# Ostatnie Słowa Dzika
 
 _Słowa wypowiedziane przez wielką bestię w Heartlands_
 

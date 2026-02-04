@@ -1,7 +1,6 @@
 ---
 title: Chalcia
 ---
-# Chalcia
 
 ![Placeholder](../../../../assets/placeholder.png)
 

@@ -1,6 +1,3 @@
----
-title: "Sesja 7: Uratować Księżniczkę"
----
 # Sesja 7: Uratować Księżniczkę
 
 **Data:** 04.03.2024

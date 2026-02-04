@@ -1,7 +1,6 @@
 ---
 title: Nekropolia Smoczych Lordów
 ---
-# Nekropolia Smoczych Lordów
 
 _Legenda o górze Telamok i zbudowanym na niej Mieście Umarłych_
 

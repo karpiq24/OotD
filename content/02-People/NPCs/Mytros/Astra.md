@@ -1,7 +1,6 @@
 ---
 title: Astra
 ---
-# Astra
 
 ![Placeholder](../../../assets/placeholder.png)
 

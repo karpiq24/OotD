@@ -1,7 +1,6 @@
 ---
 title: Amazonki
 ---
-# Amazonki
 
 - [[Aella]]
 - [[Antiope]]

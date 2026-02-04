@@ -1,7 +1,6 @@
 ---
 title: Kostur Gromów i Błyskawic
 ---
-# Kostur Gromów i Błyskawic
 
 ![Placeholder](../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Gaius
 ---
-# Gaius
 
 ![Placeholder](../../../assets/placeholder.png)
 

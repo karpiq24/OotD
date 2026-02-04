@@ -1,7 +1,6 @@
 ---
 title: Braz
 ---
-# Braz
 
 ![Placeholder](../../../assets/placeholder.png)
 

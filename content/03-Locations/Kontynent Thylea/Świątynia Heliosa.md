@@ -1,7 +1,6 @@
 ---
 title: Świątynia Heliosa
 ---
-# Świątynia Heliosa
 
 ![Placeholder](../../assets/placeholder.png)
 

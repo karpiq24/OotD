@@ -1,7 +1,6 @@
 ---
 title: Ścieżka Umarłych
 ---
-# Ścieżka Umarłych
 
 ![Ścieżka Umarłych](../../assets/placeholder.png)
 

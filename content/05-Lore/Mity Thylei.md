@@ -1,7 +1,7 @@
 ---
 title: Mity Thylei
 ---
-# Mity Thylei
+
 ## The Legend of Creation (Legenda o Stworzeniu)
 Thylea była jedną ze Starych Bogów (Old Gods). Zmęczona konfliktami, odizolowała się na krańcu oceanu. Kentimane (Sturęki) podążył za nią jako kochanek i obrońca. Thylea, czując ból świata, utopiła się w oceanie. Jej ciało stało się wyspami, a serce zamieniło się w wielkie drzewo w centrum kontynentu. Kentimane poprzysiągł chronić wyspy, tworząc zapomniany raj.
 

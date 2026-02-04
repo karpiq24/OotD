@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Smoka (Wyspa Smoka)
 ---
-# Konstelacja Smoka (Wyspa Smoka)
 
 _Mit o konstelacji Smoka, związany z przybyciem Smoczych Lordów_
 

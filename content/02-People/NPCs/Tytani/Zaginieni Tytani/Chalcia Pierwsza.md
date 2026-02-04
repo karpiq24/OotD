@@ -1,7 +1,6 @@
 ---
 title: Chalcia Pierwsza
 ---
-# Chalcia Pierwsza
 
 ![Placeholder](../../../../assets/placeholder.png)
 

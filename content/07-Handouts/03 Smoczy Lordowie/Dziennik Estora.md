@@ -1,7 +1,6 @@
 ---
 title: Dziennik Estora
 ---
-# Dziennik Estora
 
 _Dziennik Pierwszego Smoczego Lorda_
 

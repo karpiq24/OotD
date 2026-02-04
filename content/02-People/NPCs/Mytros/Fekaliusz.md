@@ -1,7 +1,6 @@
 ---
 title: Fekaliusz
 ---
-# Fekaliusz
 
 ![Placeholder](../../../assets/placeholder.png)
 

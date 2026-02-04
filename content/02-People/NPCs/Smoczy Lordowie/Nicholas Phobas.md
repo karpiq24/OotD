@@ -1,7 +1,6 @@
 ---
 title: Nicholas Phobas
 ---
-# Nicholas Phobas
 
 ![Placeholder](../../../assets/placeholder.png)
 

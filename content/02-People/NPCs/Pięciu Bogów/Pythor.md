@@ -1,7 +1,6 @@
 ---
 title: Pythor
 ---
-# Pythor
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Javon
 ---
-# Javon
 
 ![Placeholder](../../../assets/placeholder.png)
 

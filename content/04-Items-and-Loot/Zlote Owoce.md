@@ -1,7 +1,6 @@
 ---
 title: Złote Owoce
 ---
-# Złote Owoce
 
 ![Owoce Drzewa Serca](../assets/sessions/039/039_fruits.jpg)
 

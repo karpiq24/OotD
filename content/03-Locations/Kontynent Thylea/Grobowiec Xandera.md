@@ -1,7 +1,6 @@
 ---
 title: Grobowiec Xandera
 ---
-# Grobowiec Xandera
 
 ![Placeholder](../../assets/placeholder.png)
 

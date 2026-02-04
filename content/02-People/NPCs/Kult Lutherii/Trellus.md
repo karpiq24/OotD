@@ -1,7 +1,6 @@
 ---
 title: Trellus
 ---
-# Trellus
 
 ![Placeholder](../../../assets/placeholder.png)
 

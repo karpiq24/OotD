@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Barda
 ---
-# Konstelacja Barda
 
 _Mit o konstelacji Barda, związany z trubadurką [[Pellenia|Pellenią]]_
 

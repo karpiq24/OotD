@@ -1,7 +1,7 @@
 ---
 title: Centaur z Thylei
 ---
-# Centaur z Thylei
+
 Thyleańskie centaury to dumna rasa koczowników przemierzająca wielkie równiny. Centaury wierzą, że są potomkami boga wojny, który zstąpił pod postacią ogiera. Są dumni z tego boskiego dziedzictwa i żądają szacunku.
 
 ## Culture (Kultura)

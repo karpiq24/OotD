@@ -1,7 +1,6 @@
 ---
 title: Rutger
 ---
-# Rutger
 
 ![Placeholder](../../../assets/placeholder.png)
 

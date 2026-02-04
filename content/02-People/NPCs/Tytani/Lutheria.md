@@ -1,7 +1,6 @@
 ---
 title: Lutheria
 ---
-# Lutheria
 
 ![Placeholder](../../../assets/placeholder.png)
 

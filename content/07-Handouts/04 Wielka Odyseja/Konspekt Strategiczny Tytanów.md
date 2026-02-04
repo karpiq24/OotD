@@ -1,7 +1,6 @@
 ---
 title: Konspekt Strategiczny Tytanów
 ---
-# Konspekt Strategiczny Tytanów
 
 _Zarys planu operacyjnego mającego na celu przywrócenie panowania Tytanów (Sydona i Lutherii) po wygaśnięciu Przysięgi Pokoju._
 

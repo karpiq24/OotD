@@ -1,7 +1,6 @@
 ---
 title: Karpathos Aresianos
 ---
-# Karpathos Aresianos
 
 ![Placeholder](../../../assets/placeholder.png)
 

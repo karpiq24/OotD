@@ -1,7 +1,6 @@
 ---
 title: Róg Balmytrii
 ---
-# Róg Balmytrii
 
 ![Placeholder](../assets/placeholder.png)
 

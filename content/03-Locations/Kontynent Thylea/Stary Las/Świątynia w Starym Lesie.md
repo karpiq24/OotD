@@ -1,7 +1,6 @@
 ---
 title: Świątynia w Starym Lesie
 ---
-# Świątynia w Starym Lesie
 
 ![Placeholder](../../../assets/placeholder.png)
 

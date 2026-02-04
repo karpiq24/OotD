@@ -1,7 +1,6 @@
 ---
 title: Ochos Arkelander
 ---
-# Ochos Arkelander
 
 ![Placeholder](../../../assets/placeholder.png)
 

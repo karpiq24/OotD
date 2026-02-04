@@ -1,7 +1,6 @@
 ---
 title: Halcyon
 ---
-# Halcyon
 
 ![Placeholder](../../../assets/placeholder.png)
 

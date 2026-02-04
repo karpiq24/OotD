@@ -1,7 +1,6 @@
 ---
 title: Troglodytów Smród
 ---
-# Troglodytów Smród
 
 _Pieśń ze zbioru "Kącik Poezji [[Kyrah]]"_
 

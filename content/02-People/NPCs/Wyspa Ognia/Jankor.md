@@ -1,7 +1,6 @@
 ---
 title: Jankor
 ---
-# Jankor
 
 ![Placeholder](../../../assets/placeholder.png)
 

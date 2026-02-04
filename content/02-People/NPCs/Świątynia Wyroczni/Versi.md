@@ -1,7 +1,6 @@
 ---
-title: Versi
+title: Versi (Wyrocznia)
 ---
-# Versi (Wyrocznia)
 
 ![Placeholder](../../../assets/placeholder.png)
 

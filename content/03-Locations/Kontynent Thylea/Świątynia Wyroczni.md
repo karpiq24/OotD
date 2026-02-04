@@ -1,7 +1,6 @@
 ---
 title: Świątynia Wyroczni
 ---
-# Świątynia Wyroczni
 
 ![Placeholder](../../assets/placeholder.png)
 

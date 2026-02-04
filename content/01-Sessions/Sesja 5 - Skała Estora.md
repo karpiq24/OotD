@@ -1,6 +1,3 @@
----
-title: "Sesja 5: Skała Estora"
----
 # Sesja 5: Skała Estora
 
 **Data:** 12.02.2024

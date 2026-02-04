@@ -1,7 +1,6 @@
 ---
 title: Cukiereczki
 ---
-# Cukiereczki
 
 _Mroczna rymowanka ze zbioru "Kącik Poezji [[Kyrah]]"_
 

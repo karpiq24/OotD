@@ -1,7 +1,6 @@
 ---
 title: Helios
 ---
-# Helios
 
 ![Placeholder](../../../assets/placeholder.png)
 

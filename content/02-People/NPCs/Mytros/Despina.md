@@ -1,7 +1,6 @@
 ---
 title: Despina
 ---
-# Despina
 
 ![Placeholder](../../../assets/placeholder.png)
 

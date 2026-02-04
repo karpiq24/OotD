@@ -1,7 +1,6 @@
 ---
 title: Boreas
 ---
-# Boreas
 
 ![Placeholder](../../../assets/placeholder.png)
 

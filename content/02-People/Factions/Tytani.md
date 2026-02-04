@@ -1,7 +1,6 @@
 ---
-title: Tytani (Pierwsi Tytani)
+title: Tytani
 ---
-# Tytani
 
 ![Konstelacja Centaura](../../assets/placeholder.png)
 
@@ -21,7 +20,7 @@ Pierwotnym celem Thylei i Kentimane była ochrona stworzonego przez nich raju pr
 *   **[[Thylea]]**: Bogini Matka, która poświęciła swoje ciało, by stworzyć archipelag.
 *   **[[Kentimane]]**: Sturęki Gigant, jej mąż i obrońca, strażnik granic świata.
 
-### Dzieci Tytanów (Zaginieni Tytani)
+### Zaginieni Tytani
 *   **[[Hergeron Pierwszy]]** (Siła)
 *   **[[Yala Pierwsza]]** (Piękno)
 *   **[[Goloron Pierwszy]]** (Mądrość)

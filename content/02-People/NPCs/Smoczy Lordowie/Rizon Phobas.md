@@ -1,7 +1,6 @@
 ---
 title: Rizon Phobas
 ---
-# Rizon Phobas
 
 ![Placeholder](../../../assets/placeholder.png)
 

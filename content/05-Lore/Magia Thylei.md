@@ -1,7 +1,6 @@
 ---
 title: Magia Thylei
 ---
-# Magia Thylei
 
 W Thylei magia często wiąże się z ofiarami, przysięgami i boską ingerencją. Oto kilka unikalnych form magii znanych w tej krainie:
 

@@ -1,7 +1,6 @@
 ---
 title: Chremon
 ---
-# Chremon
 
 ![Placeholder](../../../assets/placeholder.png)
 

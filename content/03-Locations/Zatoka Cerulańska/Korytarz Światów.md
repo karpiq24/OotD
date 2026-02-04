@@ -1,7 +1,6 @@
 ---
 title: Korytarz Światów
 ---
-# Korytarz Światów
 
 ![Korytarz Światów](../../assets/sessions/041/041_worlds.jpg)
 

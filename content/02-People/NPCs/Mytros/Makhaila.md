@@ -1,7 +1,6 @@
 ---
 title: Makhaila
 ---
-# Makhaila
 
 ![Placeholder](../../../assets/placeholder.png)
 

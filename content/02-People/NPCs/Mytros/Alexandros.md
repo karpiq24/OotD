@@ -1,7 +1,6 @@
 ---
 title: Alexandros
 ---
-# Alexandros
 
 ![Placeholder](../../../assets/placeholder.png)
 

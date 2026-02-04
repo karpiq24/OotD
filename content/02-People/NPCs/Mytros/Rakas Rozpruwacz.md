@@ -1,7 +1,6 @@
 ---
 title: Rakas Rozpruwacz
 ---
-# Rakas Rozpruwacz
 
 ![Placeholder](../../../assets/placeholder.png)
 

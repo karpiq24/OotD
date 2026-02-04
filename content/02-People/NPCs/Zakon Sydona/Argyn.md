@@ -1,7 +1,6 @@
 ---
 title: Argyn
 ---
-# Argyn
 
 ![Placeholder](../../../assets/placeholder.png)
 

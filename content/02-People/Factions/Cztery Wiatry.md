@@ -1,7 +1,6 @@
 ---
 title: Cztery Wiatry
 ---
-# Cztery Wiatry
 
 ![Placeholder](../../assets/placeholder.png)
 

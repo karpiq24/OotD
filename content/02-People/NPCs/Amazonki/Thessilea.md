@@ -1,7 +1,6 @@
 ---
 title: Thessilea
 ---
-# Thessilea
 
 ![Placeholder](../../../assets/placeholder.png)
 

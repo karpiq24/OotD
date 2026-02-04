@@ -1,7 +1,6 @@
 ---
 title: Menaidy
 ---
-# Menaidy
 
 Menaidy to fanatyczne, krwiożercze sługi [[Lutheria|Lutherii]]. Powstają w wyniku mrocznego rytuału, do którego wykorzystuje się ludzkie kobiety.
 

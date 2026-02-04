@@ -1,7 +1,6 @@
 ---
 title: Cronos
 ---
-# Cronos
 
 ![Placeholder](../../../assets/placeholder.png)
 

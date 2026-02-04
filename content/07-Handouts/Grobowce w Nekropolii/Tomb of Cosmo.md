@@ -1,7 +1,7 @@
 ---
 title: Tomb of Cosmo
 ---
-# Tomb of Cosmo
+
 > **[[Cosmo|COSMO PHOBAS]]**
 > 
 > **SYN [[Rizon Phobas|RIZON PHOBAS]]**

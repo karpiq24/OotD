@@ -1,7 +1,6 @@
 ---
 title: Aketa
 ---
-# Aketa
 
 ![Aketa](../../../assets/sessions/062/062_Aketa.png)
 

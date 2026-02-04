@@ -1,9 +1,7 @@
 ---
 title: Lore
 ---
-# Lore
 
-- [[Bestiariusz]]
 - [[Epickie Ścieżki]]
 - [[Frakcje Thylei]]
 - [[Historia Thylei]]
@@ -16,7 +14,8 @@ title: Lore
 - [[Pierwsza Wojna]]
 - [[Prawa Thylei]]
 - [[Przysięga Pokoju]]
-- [[Rasy]]
 - [[Społeczeństwo Thylei]]
 - [[Technologia Thylei]]
 - [[Zakony i Tradycje Thylei]]
+- [[05-Lore/Bestiariusz|Bestiariusz]]
+- [[05-Lore/Rasy|Rasy]]

@@ -1,7 +1,6 @@
 ---
 title: Inne
 ---
-# Inne
 
 - [[Braz]]
 - [[Bront]]
@@ -21,7 +20,7 @@ title: Inne
 - [[Piekielny Dyrygent]]
 - [[Pożeracz Nadziei]]
 - [[Shazum]]
-- [[Strażniczka Kuźni]]
+- [[Strażniczka Kuźni|Strażniczka Kuźni (The Forge Keeper)]]
 - [[Taneias]]
 - [[Tarrasque]]
 - [[The Keeper]]

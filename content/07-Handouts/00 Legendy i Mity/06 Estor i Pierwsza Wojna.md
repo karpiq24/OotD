@@ -1,7 +1,6 @@
 ---
 title: Estor i Pierwsza Wojna
 ---
-# Estor i Pierwsza Wojna
 
 _Legenda o okrucieństwie Estora i wybuchu Pierwszej Wojny_
 

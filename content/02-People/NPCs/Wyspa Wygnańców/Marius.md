@@ -1,7 +1,6 @@
 ---
 title: Marius
 ---
-# Marius
 
 ![Placeholder](../../../assets/placeholder.png)
 

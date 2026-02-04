@@ -1,7 +1,6 @@
 ---
 title: Mytros
 ---
-# Mytros
 
 - [[Agora w Mytros]]
 - [[Akademia Mytros]]
@@ -17,7 +16,6 @@ title: Mytros
 - [[Pałac Królewski w Mytros]]
 - [[Port w Mytros]]
 - [[Posiadłość Neurdagonów]]
-- [[Posiadłość Tarana Neurdagon]]
 - [[Satyrzy Ogon]]
 - [[Skarbiec Thylei]]
 - [[Stadion Mytros]]

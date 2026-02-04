@@ -1,7 +1,6 @@
 ---
 title: Volkan
 ---
-# Volkan
 
 ![Placeholder](../../../assets/placeholder.png)
 

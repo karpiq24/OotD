@@ -1,7 +1,6 @@
 ---
 title: Skała Estora
 ---
-# Skała Estora
 
 ![Placeholder](../../../assets/placeholder.png)
 

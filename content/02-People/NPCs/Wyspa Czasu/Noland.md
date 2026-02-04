@@ -1,7 +1,6 @@
 ---
 title: Noland
 ---
-# Noland
 
 ![Placeholder](../../../assets/placeholder.png)
 

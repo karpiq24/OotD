@@ -1,7 +1,6 @@
 ---
 title: Nera
 ---
-# Nera
 
 ![Placeholder](../../../assets/placeholder.png)
 

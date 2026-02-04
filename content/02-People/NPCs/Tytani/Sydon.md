@@ -1,7 +1,6 @@
 ---
 title: Sydon
 ---
-# Sydon
 
 ![Placeholder](../../../assets/placeholder.png)
 

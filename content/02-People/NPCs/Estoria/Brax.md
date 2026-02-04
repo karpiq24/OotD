@@ -1,7 +1,6 @@
 ---
 title: Brax
 ---
-# Brax
 
 ![Placeholder](../../../assets/placeholder.png)
 

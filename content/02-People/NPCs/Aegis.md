@@ -1,7 +1,6 @@
 ---
 title: Aegis
 ---
-# Aegis
 
 ![Aegis](../../assets/sessions/039/039_aegis.jpg)
 

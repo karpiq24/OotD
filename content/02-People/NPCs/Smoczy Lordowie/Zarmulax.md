@@ -1,7 +1,6 @@
 ---
 title: Zarmulax
 ---
-# Zarmulax
 
 ![Placeholder](../../../assets/placeholder.png)
 

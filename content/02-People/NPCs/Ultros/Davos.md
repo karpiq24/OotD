@@ -1,7 +1,6 @@
 ---
 title: Davos
 ---
-# Davos
 
 ![Placeholder](../../../assets/placeholder.png)
 

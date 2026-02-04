@@ -1,7 +1,6 @@
 ---
 title: Arkyrania
 ---
-# Arkyrania
 
 ![Placeholder](../../../assets/placeholder.png)
 

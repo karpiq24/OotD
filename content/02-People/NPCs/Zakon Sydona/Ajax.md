@@ -1,7 +1,6 @@
 ---
 title: Ajax
 ---
-# Ajax
 
 ![Ajax](../../../assets/sessions/052/052_ajax.png)
 

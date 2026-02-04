@@ -1,7 +1,6 @@
 ---
 title: Haidee
 ---
-# Haidee
 
 ![Haidee](../../../assets/sessions/062/062_Haidee.png)
 

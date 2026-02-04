@@ -1,7 +1,6 @@
 ---
 title: Samuel
 ---
-# Samuel
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Hades
 ---
-# Hades
 
 ![Placeholder](../assets/placeholder.png)
 

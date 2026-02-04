@@ -1,7 +1,6 @@
 ---
 title: Jocasta
 ---
-# Jocasta
 
 ![Jocasta](../../../assets/sessions/062/062_Jocasta.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Apasia
 ---
-# Apasia
 
 ![Placeholder](../../../assets/placeholder.png)
 

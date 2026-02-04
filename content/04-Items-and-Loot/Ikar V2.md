@@ -1,7 +1,6 @@
 ---
 title: Ikar V2
 ---
-# Ikar V2
 
 ![Placeholder](../assets/placeholder.png)
 

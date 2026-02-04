@@ -1,7 +1,6 @@
 ---
 title: Delphia
 ---
-# Delphia
 
 ![Delphia](../../../assets/placeholder.png)
 

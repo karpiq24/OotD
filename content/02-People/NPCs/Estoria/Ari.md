@@ -1,7 +1,6 @@
 ---
 title: Ari
 ---
-# Ari
 
 ![Placeholder](../../../assets/placeholder.png)
 

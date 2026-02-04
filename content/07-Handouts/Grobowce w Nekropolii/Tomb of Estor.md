@@ -1,7 +1,7 @@
 ---
 title: Tomb of Estor
 ---
-# Tomb of Estor
+
 > **[[Estor Arkelander|ESTOR ARKELANDER]]**
 > 
 > **ZAPRZYSIĘŻONY [[Arkyrania|ARKYRANII]]**

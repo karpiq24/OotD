@@ -1,7 +1,6 @@
 ---
 title: Plemię Wieloryba
 ---
-# Plemię Wieloryba
 
 ![Delg](../../../content/assets/sessions/043/043_delg.jpg)
 

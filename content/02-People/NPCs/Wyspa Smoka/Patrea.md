@@ -1,7 +1,6 @@
 ---
 title: Patrea
 ---
-# Patrea
 
 ![Placeholder](../../../assets/placeholder.png)
 

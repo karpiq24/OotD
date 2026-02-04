@@ -1,7 +1,6 @@
 ---
 title: Furie
 ---
-# Furie
 
 ![Placeholder](../../assets/placeholder.png)
 

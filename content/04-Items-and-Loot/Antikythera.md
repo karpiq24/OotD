@@ -1,7 +1,6 @@
 ---
 title: Antikythera
 ---
-# Antikythera
 
 ![Placeholder](../assets/placeholder.png)
 

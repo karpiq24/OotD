@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Bliźniąt (Themis)
 ---
-# Konstelacja Bliźniąt (Themis)
 
 _Mit o konstelacji Bliźniąt, związany z amazonką [[Aella|Aellą]] i jej bratem [[Arybas|Arybasem]]_
 

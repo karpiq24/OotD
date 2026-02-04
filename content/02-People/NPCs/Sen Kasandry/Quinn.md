@@ -1,7 +1,6 @@
 ---
 title: Quinn
 ---
-# Quinn
 
 ![Quinn](../../../assets/sessions/036/quinn.webp)
 

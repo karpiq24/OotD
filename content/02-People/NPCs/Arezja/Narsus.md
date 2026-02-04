@@ -1,7 +1,6 @@
 ---
 title: Narsus
 ---
-# Narsus
 
 ![Placeholder](../../../assets/placeholder.png)
 

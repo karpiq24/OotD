@@ -1,7 +1,6 @@
 ---
 title: Vitalis
 ---
-# Vitalis
 
 ![Placeholder](../../../assets/placeholder.png)
 

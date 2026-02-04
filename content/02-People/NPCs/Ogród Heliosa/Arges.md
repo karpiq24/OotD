@@ -1,7 +1,6 @@
 ---
 title: Arges
 ---
-# Arges
 
 ![Placeholder](../../../assets/placeholder.png)
 

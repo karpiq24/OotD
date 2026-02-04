@@ -1,7 +1,6 @@
 ---
 title: Dorion Neurdagon
 ---
-# Dorion Neurdagon
 
 ![Placeholder](../../../assets/placeholder.png)
 

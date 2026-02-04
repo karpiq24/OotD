@@ -1,7 +1,6 @@
 ---
 title: Hileas
 ---
-# Hileas
 
 ![Placeholder](../../../assets/placeholder.png)
 

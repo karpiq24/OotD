@@ -1,7 +1,6 @@
 ---
 title: Upadek Estora
 ---
-# Upadek Estora
 
 _Streszczenie tragicznej sztuki teatralnej przedstawiającej wyidealizowany i zniekształcony obraz Estora Arkelandera_
 

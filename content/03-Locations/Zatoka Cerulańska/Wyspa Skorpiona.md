@@ -1,7 +1,6 @@
 ---
 title: Wyspa Skorpiona
 ---
-# Wyspa Skorpiona
 
 ![Placeholder](../../assets/placeholder.png)
 

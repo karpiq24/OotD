@@ -1,7 +1,6 @@
 ---
 title: Mistrz Cieni
 ---
-# Mistrz Cieni
 
 ![Mistrz Cieni](../../../assets/sessions/063/063_shadow.png)
 

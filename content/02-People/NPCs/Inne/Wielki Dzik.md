@@ -1,7 +1,6 @@
 ---
 title: Wielki Dzik
 ---
-# Wielki Dzik
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Sulla
 ---
-# Sulla
 
 ![Placeholder](../../../assets/placeholder.png)
 

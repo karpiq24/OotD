@@ -1,7 +1,6 @@
 ---
 title: Satyrzy Ogon
 ---
-# Satyrzy Ogon
 
 ![Placeholder](../../../assets/placeholder.png)
 

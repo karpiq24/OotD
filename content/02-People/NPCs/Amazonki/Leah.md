@@ -1,7 +1,6 @@
 ---
 title: Leah
 ---
-# Leah
 
 ![Leah](../../../assets/sessions/035/leah.webp)
 

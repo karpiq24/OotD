@@ -1,7 +1,6 @@
 ---
 title: Kaduceusz Damona
 ---
-# Kaduceusz Damona
 
 ![Placeholder](../assets/placeholder.png)
 

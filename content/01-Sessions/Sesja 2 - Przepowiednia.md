@@ -1,6 +1,3 @@
----
-title: "Sesja 2: Przepowiednia"
----
 # Sesja 2: Przepowiednia
 
 **Data:** 22.01.2024

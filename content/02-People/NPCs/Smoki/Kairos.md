@@ -1,7 +1,6 @@
 ---
 title: Kairos
 ---
-# Kairos
 
 ![Narodziny Smoka](../../../assets/sessions/048/048_kairos.jpg)
 

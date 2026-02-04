@@ -1,7 +1,6 @@
 ---
 title: Pięciu Bogów
 ---
-# Pięciu Bogów
 
 ![Pięciu Bogów](../../assets/placeholder.png)
 

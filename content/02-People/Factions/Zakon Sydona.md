@@ -1,7 +1,6 @@
 ---
 title: Zakon Sydona
 ---
-# Zakon Sydona (The Order of Sydon)
 
 ![Placeholder](../../assets/placeholder.png)
 

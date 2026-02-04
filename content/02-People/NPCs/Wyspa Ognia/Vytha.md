@@ -1,7 +1,6 @@
 ---
 title: Vytha
 ---
-# Vytha
 
 ![Placeholder](../../../assets/placeholder.png)
 

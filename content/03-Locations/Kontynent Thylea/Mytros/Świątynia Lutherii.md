@@ -1,7 +1,6 @@
 ---
 title: Świątynia Lutherii
 ---
-# Świątynia Lutherii (M20)
 
 ![Placeholder](../../../assets/placeholder.png)
 

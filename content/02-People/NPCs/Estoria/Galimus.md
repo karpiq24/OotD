@@ -1,7 +1,6 @@
 ---
 title: Galimus
 ---
-# Galimus
 
 ![Placeholder](../../../assets/placeholder.png)
 

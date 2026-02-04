@@ -1,7 +1,6 @@
 ---
 title: Trąba
 ---
-# Trąba
 
 ![Trąba](../../../assets/sessions/062/062_traba.png)
 

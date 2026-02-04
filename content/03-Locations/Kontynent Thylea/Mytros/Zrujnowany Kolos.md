@@ -1,7 +1,6 @@
 ---
 title: Zrujnowany Kolos
 ---
-# Zrujnowany Kolos
 
 ![Placeholder](../../../assets/placeholder.png)
 

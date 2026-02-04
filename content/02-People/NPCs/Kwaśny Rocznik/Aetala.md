@@ -1,7 +1,6 @@
 ---
 title: Aetala
 ---
-# Aetala
 
 ![Placeholder](../../../assets/placeholder.png)
 

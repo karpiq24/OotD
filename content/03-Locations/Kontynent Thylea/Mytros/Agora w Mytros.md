@@ -1,7 +1,6 @@
 ---
 title: Agora w Mytros
 ---
-# Agora w Mytros
 
 ![Placeholder](../../../assets/placeholder.png)
 

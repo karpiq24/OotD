@@ -1,7 +1,6 @@
 ---
 title: Talieus Pierwszy
 ---
-# Talieus Pierwszy
 
 ![Placeholder](../../../../assets/placeholder.png)
 

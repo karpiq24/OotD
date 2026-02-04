@@ -1,7 +1,6 @@
 ---
 title: Ambrosia
 ---
-# Ambrosia
 
 ![Placeholder](../../../assets/placeholder.png)
 

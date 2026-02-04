@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Rydwanu
 ---
-# Konstelacja Rydwanu
 
 _Mit o konstelacji Rydwanu, związany z boginią Vallus_
 

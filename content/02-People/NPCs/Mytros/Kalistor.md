@@ -1,7 +1,6 @@
 ---
 title: Kalistor
 ---
-# Kalistor
 
 ![Placeholder](../../../assets/placeholder.png)
 

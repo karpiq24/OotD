@@ -1,7 +1,6 @@
 ---
 title: Anteia
 ---
-# Anteia
 
 ![Placeholder](../../../assets/placeholder.png)
 

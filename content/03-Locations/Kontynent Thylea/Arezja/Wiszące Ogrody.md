@@ -1,7 +1,6 @@
 ---
 title: Wiszące Ogrody
 ---
-# Wiszące Ogrody
 
 ![Placeholder](../../../assets/placeholder.png)
 

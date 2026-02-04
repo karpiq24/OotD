@@ -1,7 +1,6 @@
 ---
 title: Laios
 ---
-# Laios
 
 ![Laios](../../assets/sessions/039/039_laios.jpg)
 

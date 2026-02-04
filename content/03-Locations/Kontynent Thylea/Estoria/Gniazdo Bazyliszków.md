@@ -1,7 +1,6 @@
 ---
 title: Gniazdo Bazyliszków
 ---
-# Gniazdo Bazyliszków
 
 ![Placeholder](../../../assets/placeholder.png)
 

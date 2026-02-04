@@ -1,7 +1,6 @@
 ---
 title: Gorac
 ---
-# Gorac
 
 ![Placeholder](../../../assets/placeholder.png)
 

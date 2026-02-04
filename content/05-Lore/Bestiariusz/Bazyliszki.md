@@ -1,7 +1,6 @@
 ---
 title: Bazyliszki
 ---
-# Bazyliszki
 
 ![Placeholder](../../assets/placeholder.png)
 

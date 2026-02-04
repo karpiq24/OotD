@@ -1,7 +1,6 @@
 ---
 title: Machaon
 ---
-# Machaon
 
 ![Placeholder](../../../assets/placeholder.png)
 
