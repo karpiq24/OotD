@@ -1,4 +1,9 @@
-# Sesja 65: Wyprawa w Otchłań
+---
+title: "Sesja 65: Wyprawa w Otchłań"
+transcript: "../assets/sessions/065/transcript.txt"
+transcript_json: "../assets/sessions/065/transcript.json"
+chat_log: "../assets/sessions/065/chat_log.json"
+---
 
 **Data:** 05.01.2026
 

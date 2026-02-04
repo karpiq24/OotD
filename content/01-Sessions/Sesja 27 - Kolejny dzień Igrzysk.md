@@ -1,4 +1,9 @@
-# Sesja 27 - Kolejny dzień Igrzysk
+---
+title: "Sesja 27 - Kolejny dzień Igrzysk"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/027/chat_log.json"
+---
 
 **Data:** 21.10.2024
 

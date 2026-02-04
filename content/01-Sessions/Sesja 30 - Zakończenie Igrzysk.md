@@ -1,4 +1,9 @@
-# Sesja 30 - Zakończenie Igrzysk
+---
+title: "Sesja 30 - Zakończenie Igrzysk"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/030/chat_log.json"
+---
 
 **Data:** 12.11.2024
 
@@ -8,7 +13,7 @@
 
 Ostatni dzień Igrzysk kończył się Wielkim Młynem, walką do której przystąpili wszyscy uczestnicy, ale zwycięzca mógł być tylko jeden. [[Yala]] okazała się trudnym przeciwnikiem, pokonując swojego brata [[Hergeron|Hergerona]], który prawie dobił [[Orion Xul|Oriona Xula]]. Ostatecznie [[Arevon Elorrenthi]] wygrał walkę, choć drużyna ponoć dała mu fory.
 
-Po zakończeniu walk odbyła się ceremonia zakończenia Igrzysk. Król [[Acastus]] ogłosił zwycięzców, po czym zaprosił wszystkich na ucztę do [[Posiadłość Tarana Neurdagon|posiadłości Tarana Neurdagon]]. Na uczcie [[Taran Neurdagon|Taran]] wygłosił mowę, a [[Lutheria]] przemawiała w imieniu nieobecnego [[Sydon|Sydona]]. Podczas uczty [[Lutheria]] zatańczyła z królem [[Acastus|Acastusem]], a [[Versir]] z [[Astra|Astrą]]. [[Orestes]] zatańczył z [[Vallus]], a [[Felicjan Janus Twardowski|Felicjan]] z [[Melania Twardowska|Melanią Twardowską]].
+Po zakończeniu walk odbyła się ceremonia zakończenia Igrzysk. Król [[Acastus]] ogłosił zwycięzców, po czym zaprosił wszystkich na ucztę do [[Posiadłość Neurdagonów|posiadłości Tarana Neurdagon]]. Na uczcie [[Taran Neurdagon|Taran]] wygłosił mowę, a [[Lutheria]] przemawiała w imieniu nieobecnego [[Sydon|Sydona]]. Podczas uczty [[Lutheria]] zatańczyła z królem [[Acastus|Acastusem]], a [[Versir]] z [[Astra|Astrą]]. [[Orestes]] zatańczył z [[Vallus]], a [[Felicjan Janus Twardowski|Felicjan]] z [[Melania Twardowska|Melanią Twardowską]].
 
 Po uczcie [[Orestes]] miał koszmar, śniąc o [[Wyspa Mojr|Wyspie Mojr]] i trzech postaciach. [[Versir]] miał sen z [[Lutheria|Lutherią]], która wyraziła swoje niezadowolenie z jego zachowania. Złożyła mu ofertę, którą on wzgardził. [[Vallus]] poinformowała drużynę, że plany [[Antikythera|Antikythery]] powinny znajdować się w pałacu, ale doszło do włamania. [[Volkan]] może odtworzyć brakujący trybik, ale zajmie to trochę czasu.
 
@@ -36,7 +41,7 @@ Po uczcie [[Orestes]] miał koszmar, śniąc o [[Wyspa Mojr|Wyspie Mojr]] i trze
 ## Lokacje
 
 * [[Stadion Mytros|Koloseum w Mytros]]
-* [[Posiadłość Tarana Neurdagon]]
+* [[Posiadłość Neurdagonów]]
 
 ## Ceremonia Zakończenia
 

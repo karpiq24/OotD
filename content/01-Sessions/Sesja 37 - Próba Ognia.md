@@ -1,4 +1,9 @@
-# Sesja 37: Próba Ognia
+---
+title: "Sesja 37: Próba Ognia"
+transcript: "../assets/sessions/037/transcript.txt"
+transcript_json: "../assets/sessions/037/transcript.json"
+chat_log: "../assets/sessions/037/chat_log.json"
+---
 
 **Data:** 13.01.2025
 

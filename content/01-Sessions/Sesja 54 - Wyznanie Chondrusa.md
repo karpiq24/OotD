@@ -1,4 +1,9 @@
-# Sesja 54: Wyznanie Chondrusa
+---
+title: "Sesja 54: Wyznanie Chondrusa"
+transcript: "../assets/sessions/054/transcript.txt"
+transcript_json: "../assets/sessions/054/transcript.json"
+chat_log: "../assets/sessions/054/chat_log.json"
+---
 
 **Data:** 28.07.2025
 

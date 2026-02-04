@@ -1,4 +1,9 @@
-# Sesja 7: Uratować Księżniczkę
+---
+title: "Sesja 7: Uratować Księżniczkę"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/007/chat_log.json"
+---
 
 **Data:** 04.03.2024
 

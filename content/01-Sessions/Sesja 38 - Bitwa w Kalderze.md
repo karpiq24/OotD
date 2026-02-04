@@ -1,4 +1,9 @@
-# Sesja 38: Bitwa w Kalderze
+---
+title: "Sesja 38: Bitwa w Kalderze"
+transcript: "../assets/sessions/038/transcript.txt"
+transcript_json: "../assets/sessions/038/transcript.json"
+chat_log: "../assets/sessions/038/chat_log.json"
+---
 
 **Data:** 20.01.2025
 

@@ -1,4 +1,9 @@
-# Sesja 8: Ścieżka Umarłych
+---
+title: "Sesja 8: Ścieżka Umarłych"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/008/chat_log.json"
+---
 
 **Data:** 11.03.2024
 

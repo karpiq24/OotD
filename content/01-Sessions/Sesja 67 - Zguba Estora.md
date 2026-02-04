@@ -1,4 +1,9 @@
-# Sesja 67 - Zguba Estora
+---
+title: "Sesja 67 - Zguba Estora"
+transcript: "../assets/sessions/067/transcript.txt"
+transcript_json: "../assets/sessions/067/transcript.json"
+chat_log: "../assets/sessions/067/chat_log.json"
+---
 
 **Data:** 27.01.2026
 

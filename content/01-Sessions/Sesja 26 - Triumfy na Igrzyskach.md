@@ -1,4 +1,9 @@
-# Sesja 26 - Triumfy na Igrzyskach
+---
+title: "Sesja 26 - Triumfy na Igrzyskach"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/026/chat_log.json"
+---
 
 **Data:** 14.10.2024
 

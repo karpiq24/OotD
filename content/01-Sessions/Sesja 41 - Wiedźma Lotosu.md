@@ -1,4 +1,9 @@
-# Sesja 41: Wiedźma Lotosu
+---
+title: "Sesja 41: Wiedźma Lotosu"
+transcript: "../assets/sessions/041/transcript.txt"
+transcript_json: "../assets/sessions/041/transcript.json"
+chat_log: "../assets/sessions/041/chat_log.json"
+---
 
 **Data:** 10.02.2025
 

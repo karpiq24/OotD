@@ -1,4 +1,9 @@
-# Sesja 56: Dedal i Ikar
+---
+title: "Sesja 56: Dedal i Ikar"
+transcript: "../assets/sessions/056/transcript.txt"
+transcript_json: "../assets/sessions/056/transcript.json"
+chat_log: "../assets/sessions/056/chat_log.json"
+---
 
 **Data:** 11.08.2025
 

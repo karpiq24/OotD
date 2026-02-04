@@ -1,4 +1,9 @@
-# Sesja 21: Ukryte pragnienia Ismene
+---
+title: "Sesja 21: Ukryte pragnienia Ismene"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/021/chat_log.json"
+---
 
 **Data:** 19.08.2024
 

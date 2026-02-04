@@ -1,4 +1,9 @@
-# Sesja 18: Cienie Mytros
+---
+title: "Sesja 18: Cienie Mytros"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/018/chat_log.json"
+---
 
 **Data:** 22.07.2024
 

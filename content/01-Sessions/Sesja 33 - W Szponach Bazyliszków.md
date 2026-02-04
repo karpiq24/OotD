@@ -1,4 +1,9 @@
-# Sesja 33: W Szponach Bazyliszków
+---
+title: "Sesja 33: W Szponach Bazyliszków"
+transcript: "../assets/sessions/033/transcript.txt"
+transcript_json: "../assets/sessions/033/transcript.json"
+chat_log: "../assets/sessions/033/chat_log.json"
+---
 
 **Data:** 02.12.2024
 

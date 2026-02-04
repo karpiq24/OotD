@@ -1,4 +1,9 @@
-# Sesja 62: Arezyjska Dyplomacja
+---
+title: "Sesja 62: Arezyjska Dyplomacja"
+transcript: "../assets/sessions/062/transcript.txt"
+transcript_json: "../assets/sessions/062/transcript.json"
+chat_log: "../assets/sessions/062/chat_log.json"
+---
 
 **Data:** 17.11.2025
 

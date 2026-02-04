@@ -1,0 +1,1335 @@
+{
+  "data": {
+    "id": "CmmHcEJVAyHsk9zz",
+    "title": "Sesja 17",
+    "timestamp": 1720474306277,
+    "description": "",
+    "location": "worlds/odyssey-of-the-dragonlords/chat-archives/CmmHcEJVAyHsk9zz.json"
+  },
+  "messages": [
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "type": 4,
+      "whisper": [
+        "7TkVadvHyFgig8tQ"
+      ],
+      "_id": "PEMWBXvaLORLktA5",
+      "timestamp": 1720454658384,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407821164
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Jedyny spos\u00f3b aby znale\u017a\u0107 prac\u0119 w miastach przez minotaury jest z\u0142o\u017cenie przysi\u0119gi s\u0142u\u017cby, co sprowadza ich do statusu niewolnik\u00f3w.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "7TkVadvHyFgig8tQ"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407821164
+          }
+        }
+      },
+      "_id": "NeVmkBBdxmDaSYRa",
+      "type": 0,
+      "user": "7TkVadvHyFgig8tQ",
+      "timestamp": 1720454658862,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Nature (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Nature (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit beyond20-roll-total dice-total\">27</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20 max\">20</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">20</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "INOEBfXejmTY2eBH",
+        "token": "0NrN7RtI1mpdp5hU",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":20}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":27,\"evaluated\":true}"
+      ],
+      "_id": "Z9NlJgG0Gbu4rdZP",
+      "timestamp": 1720454769491,
+      "flavor": "",
+      "whisper": [
+        "7TkVadvHyFgig8tQ"
+      ],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407821164
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Kiedy Thylea wznios\u0142a si\u0119 w niebiosa, pozosta\u0142o po niej \u015bwi\u0119te drzewo w sercu jednej z wysp.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "KilFTJbHStmpbGES"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407821164
+          }
+        }
+      },
+      "_id": "311ajjRJCEpqpGNE",
+      "type": 0,
+      "user": "KilFTJbHStmpbGES",
+      "timestamp": 1720455614930,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Poprzez wsparcie hojnego ducha Thylei i wieczn\u0105 ochron\u0119 zapewnian\u0105 przez Kentimane, \u017cycie w tej krainie rozkwitn\u0119\u0142o.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "dyGeHOqB0VyeEfTb"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407821164
+          }
+        }
+      },
+      "_id": "gwBJEMeIbhIYW4hr",
+      "type": 0,
+      "user": "dyGeHOqB0VyeEfTb",
+      "timestamp": 1720455652271,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom (+1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom (+1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-fail beyond20-roll-total dice-total\">2</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20 min\">1</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">1</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "dyGeHOqB0VyeEfTb",
+      "speaker": {
+        "scene": "INOEBfXejmTY2eBH",
+        "token": "etGnfikLefSl1wh0",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":1}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":2,\"evaluated\":true}"
+      ],
+      "_id": "u1k4WXpCriE9pJZe",
+      "timestamp": 1720455668453,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407821164
+          }
+        }
+      }
+    },
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "type": 4,
+      "whisper": [
+        "hqyemBL7Lmg9mvzf"
+      ],
+      "_id": "VeAQGvZ3pVV9yYDu",
+      "timestamp": 1720455672241,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407821164
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "https://foundryvtt.com/packages/zoom-pan-options",
+      "type": 1,
+      "_id": "wDkfD4uhIYHkNKao",
+      "timestamp": 1720456363311,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407820975
+          }
+        }
+      }
+    },
+    {
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "YakuiPsWxCSOsiLv",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "glevia yoink",
+      "type": 2,
+      "_id": "Yg5mkiBl0LYmsWAm",
+      "timestamp": 1720456448301,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407820886
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Detect Magic\" width=\"37\" height=\"37\" /><details open><summary><a>Detect Magic</a></summary><table><tbody><tr><td><i>1st Level Divination</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>up to 10 minutes</td></tr><tr><td><b>Components</b></td><td>V, S</td></tr><tr><td><b>Range</b></td><td>Self</td></tr><tr><td><b>Area of Effect</b></td><td>30ft.</td></tr><tr><td><b>AoE Shape</b></td><td>Sphere</td></tr><tr><td><b>Concentration</b></td><td>Requires Concentration</td></tr></tbody></table><div class=\"beyond20-description\">For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.<br />The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.</div></details></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "3ZMzrLwZg3xX4SZd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 1,
+      "_id": "7fyzL8c6JxIBMMyZ",
+      "timestamp": 1720456488220,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407820852
+          }
+        },
+        "world": {
+          "concentrated": true
+        }
+      }
+    },
+    {
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "3ZMzrLwZg3xX4SZd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "647gp 502sp",
+      "type": 2,
+      "_id": "PgImn47mj0C5yA1E",
+      "timestamp": 1720456636691,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407820719
+          }
+        }
+      }
+    },
+    {
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "3ZMzrLwZg3xX4SZd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "naszyjnik z pere\u0142 450gp<br />dziwne z\u0142ote co\u015b z g\u0142owy 230gp",
+      "type": 2,
+      "_id": "CNHZStpcdECcIEgx",
+      "timestamp": 1720456743258,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407820624
+          }
+        }
+      }
+    },
+    {
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "06GaZt6vyJYm4fO9",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "139gp - 4sp",
+      "type": 2,
+      "_id": "sKwy9ys6oePoQC5R",
+      "timestamp": 1720456758534,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407820610
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">10</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">10</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "3ZMzrLwZg3xX4SZd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":10}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":17,\"evaluated\":true}"
+      ],
+      "_id": "fsW0Y0k5if6RaDpD",
+      "timestamp": 1720457493027,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407819949
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Arcana (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Arcana (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">15</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">8</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">8</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "06GaZt6vyJYm4fO9",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":8}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":15,\"evaluated\":true}"
+      ],
+      "_id": "H4dMKEYKvMQFTnE5",
+      "timestamp": 1720457508950,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407819935
+          }
+        }
+      }
+    },
+    {
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "3ZMzrLwZg3xX4SZd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "5x 50gp diament",
+      "type": 2,
+      "_id": "QSuDeLTMQq1viU8j",
+      "timestamp": 1720457915318,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407819570
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">23</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">16</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">16</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "3ZMzrLwZg3xX4SZd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":16}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":23,\"evaluated\":true}"
+      ],
+      "_id": "WVACw48rAmfXjnov",
+      "timestamp": 1720457941265,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407819546
+          }
+        }
+      }
+    },
+    {
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "ZTzNZVWJ1OnBQEQ7",
+        "token": "3ZMzrLwZg3xX4SZd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "ruda gwiezdnego metalu x1",
+      "type": 2,
+      "_id": "Jr8azTsl7S52CIiz",
+      "timestamp": 1720458064411,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407819436
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Detect Thoughts\" width=\"37\" height=\"37\" /><details><summary><a>Detect Thoughts</a></summary><table><tbody><tr><td><i>2nd Level Divination</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>up to 1 minute</td></tr><tr><td><b>Components</b></td><td>V, S, M(a copper piece)</td></tr><tr><td><b>Range</b></td><td>Self</td></tr><tr><td><b>Concentration</b></td><td>Requires Concentration</td></tr></tbody></table><div class=\"beyond20-description\">For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn\u2019t speak any language, the creature is unaffected.<br />You initially learn the surface thoughts of the creature\u2014what is most on its mind in that moment. As an action, you can either shift your attention to another creature\u2019s thoughts or attempt to probe deeper into the same creature\u2019s mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature\u2019s thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.<br />Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.<br />You can also use this spell to detect the presence of thinking creatures you can\u2019t see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can\u2019t detect a creature with an Intelligence of 3 or lower or one that doesn\u2019t speak any language.<br />Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can\u2019t see it, but it must still be within range.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Self</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S, M(a copper piece)</span></div><div class=\"beyond20-roll-result\"><b>Save: </b><span>Wisdom DC 15</span></div></div>",
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "6DOLIH1eB7b29iar",
+        "token": "WDHA6BgAeukiCwek",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "type": 1,
+      "_id": "25ujwWDZJe2e2dQO",
+      "timestamp": 1720460182541,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407817545
+          }
+        },
+        "world": {
+          "concentrated": true
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "type": 5,
+      "content": "11",
+      "sound": "sounds/dice.wav",
+      "speaker": {
+        "scene": "6DOLIH1eB7b29iar",
+        "token": "KVvwhLBHnb13c8BM",
+        "actor": "444lIt2LgadzPD7F",
+        "alias": "Commander Gaius"
+      },
+      "flags": {
+        "dnd5e": {
+          "roll": {
+            "type": "save",
+            "abilityId": "wis"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407817227
+          }
+        }
+      },
+      "flavor": "Wisdom Saving Throw",
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Wisdom Saving Throw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"rollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"configured\":true},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":11,\"evaluated\":true}"
+      ],
+      "_id": "k6YNBG3M4hxcddc7",
+      "timestamp": 1720460537255,
+      "whisper": [],
+      "blind": false,
+      "emote": false
+    },
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "type": 4,
+      "whisper": [
+        "hqyemBL7Lmg9mvzf"
+      ],
+      "_id": "GYUD2yAMNY03HmXo",
+      "timestamp": 1720463575138,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407816201
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Arogancja mo\u017ce dotkn\u0105\u0107 nawet bardzo m\u0105drych. Patrzcie na mnie \u2013 wysz\u0142am za Acastusa.\" \u2014 Vallus, Bogini M\u0105dro\u015bci</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "hqyemBL7Lmg9mvzf"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407816201
+          }
+        }
+      },
+      "_id": "gxEzcWjveh7MgyAH",
+      "type": 0,
+      "user": "hqyemBL7Lmg9mvzf",
+      "timestamp": 1720463575444,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "(three or more minotaur teeth<br />and alchemical fertilizer worth 100 gp",
+      "type": 1,
+      "_id": "hwjbcyy1wKtVXqZG",
+      "timestamp": 1720464992921,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407800686
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "Lydus",
+      "type": 1,
+      "_id": "F2HrFtv1EkBiMmEJ",
+      "timestamp": 1720465956159,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407799819
+          }
+        }
+      }
+    },
+    {
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "MyN2zcTTK1NZzytQ",
+        "token": "fRVvYzLSsvB4qSjo",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d12\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":12,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]}],\"total\":5,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "5",
+      "_id": "Bkf92kt4MsaKX6r9",
+      "timestamp": 1720466139116,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407799652
+          }
+        }
+      }
+    },
+    {
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "MyN2zcTTK1NZzytQ",
+        "token": "fRVvYzLSsvB4qSjo",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d12\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":12,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "6",
+      "_id": "6GfqHTM80awdkBfD",
+      "timestamp": 1720466214704,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407799584
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "Priskos",
+      "type": 1,
+      "_id": "31ofdMWwbvieIEjX",
+      "timestamp": 1720466777132,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407784682
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "type": 5,
+      "content": "24",
+      "sound": "sounds/dice.wav",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2ZO9jUHlFCscMuGR",
+        "actor": "Iyk2cvaCbuTZk5bF",
+        "alias": "Bullbug"
+      },
+      "flags": {
+        "dnd5e": {
+          "roll": {
+            "type": "ability",
+            "abilityId": "str"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735684
+          }
+        }
+      },
+      "flavor": "Strength Ability Check",
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Strength Ability Check\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"rollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"configured\":true},\"dice\":[],\"formula\":\"1d20 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":20,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4}],\"total\":24,\"evaluated\":true}"
+      ],
+      "_id": "HpcPm6UIc6mbmYx5",
+      "timestamp": 1720469223674,
+      "whisper": [],
+      "blind": false,
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Unarmed Strike\" width=\"37\" height=\"37\" /><details><summary><a>Unarmed Strike</a></summary><div class=\"beyond20-description\">Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.</div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">16</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">9</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">9</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Bludgeoning Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">5</div></span></span></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2camPDnlQizdlDON",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":9}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":16,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"5\",\"terms\":[{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":5,\"evaluated\":true}"
+      ],
+      "_id": "hVQEFtMtiMHNi2Lf",
+      "timestamp": 1720469263073,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735648
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "<div class=\"dnd5e2 chat-card item-card\" data-actor-id=\"Iyk2cvaCbuTZk5bF\" data-item-id=\"98rsR9tLCaV9k0nr\">\n\n    <section class=\"card-header description collapsible\">\n\n        <header class=\"summary\">\n            <img class=\"gold-icon\" src=\"icons/creatures/mammals/ox-bull-horned-glowing-orange.webp\" alt=\"Gore\" />\n            <div class=\"name-stacked border\">\n                <span class=\"title\">Gore</span>\n                <span class=\"subtitle\">\n                    Simple Melee\n                </span>\n            </div>\n            <i class=\"fas fa-chevron-down fa-fw\"></i>\n        </header>\n\n        <section class=\"details collapsible-content card-content\">\n            <div class=\"wrapper\">\n                <p><strong> </strong>. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 5) piercing damage.</p>\n            </div>\n        </section>\n    </section>\n\n    <div class=\"card-buttons\">\n\n        <button type=\"button\" data-action=\"attack\">\n            <i class=\"dnd5e-icon\" data-src=\"systems/dnd5e/icons/svg/trait-weapon-proficiencies.svg\"></i>\n            Attack\n        </button>\n\n        <button type=\"button\" data-action=\"damage\">\n            <i class=\"fas fa-burst\"></i>\n            Damage\n        </button>\n\n\n\n\n\n\n\n\n\n    </div>\n\n\n\n    <ul class=\"card-footer pills unlist\">\n        <li class=\"pill pill-sm\">\n            <span class=\"label\">1 Action</span>\n        </li>\n        <li class=\"pill pill-sm\">\n            <span class=\"label\">5 ft</span>\n        </li>\n        <li class=\"pill pill-sm\">\n            <span class=\"label\">Instantaneous</span>\n        </li>\n        <li class=\"pill pill-sm\">\n            <span class=\"label\">Equipped</span>\n        </li>\n        <li class=\"pill pill-sm\">\n            <span class=\"label\">Proficient</span>\n        </li>\n    </ul>\n\n    <div class=\"card-tray effects-tray collapsible collapsed\">\n        <label class=\"roboto-upper\">\n            <i class=\"fas fa-bolt\"></i>\n            <span>Effects</span>\n            <i class=\"fas fa-caret-down\"></i>\n        </label>\n        <div class=\"collapsible-content\">\n            <ul class=\"effects unlist wrapper\"></ul>\n        </div>\n    </div>\n</div>",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2ZO9jUHlFCscMuGR",
+        "actor": "Iyk2cvaCbuTZk5bF",
+        "alias": "Bullbug"
+      },
+      "flags": {
+        "core": {
+          "canPopout": true
+        },
+        "dnd5e": {
+          "use": {
+            "type": "weapon",
+            "itemId": "98rsR9tLCaV9k0nr",
+            "itemUuid": "Actor.Iyk2cvaCbuTZk5bF.Item.98rsR9tLCaV9k0nr"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735617
+          }
+        }
+      },
+      "type": 0,
+      "whisper": [],
+      "blind": false,
+      "_id": "zBVAsUsSRcgYQAkY",
+      "timestamp": 1720469298276,
+      "flavor": "",
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "type": 5,
+      "content": "18",
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "dnd5e": {
+          "targets": [
+            {
+              "name": "Orestes",
+              "img": "tokenizer/pc-images/orestes.Avatar.webp?1704829572684",
+              "uuid": "Actor.kPYK5fcXvxTVGOKg",
+              "ac": 16
+            }
+          ],
+          "roll": {
+            "type": "attack",
+            "itemId": "98rsR9tLCaV9k0nr",
+            "itemUuid": "Actor.Iyk2cvaCbuTZk5bF.Item.98rsR9tLCaV9k0nr"
+          },
+          "originatingMessage": "zBVAsUsSRcgYQAkY"
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735610
+          }
+        }
+      },
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2ZO9jUHlFCscMuGR",
+        "actor": "Iyk2cvaCbuTZk5bF",
+        "alias": "Bullbug"
+      },
+      "flavor": "Gore - Attack Roll",
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Gore - Attack Roll\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"rollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"configured\":true},\"dice\":[],\"formula\":\"1d20 + 4 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":11,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":18,\"evaluated\":true}"
+      ],
+      "_id": "galVIRU29YbJyBp4",
+      "timestamp": 1720469305429,
+      "whisper": [],
+      "blind": false,
+      "emote": false
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "dnd5e": {
+          "targets": [
+            {
+              "name": "Orestes",
+              "img": "tokenizer/pc-images/orestes.Avatar.webp?1704829572684",
+              "uuid": "Actor.kPYK5fcXvxTVGOKg",
+              "ac": 16
+            }
+          ],
+          "roll": {
+            "type": "damage",
+            "itemId": "98rsR9tLCaV9k0nr",
+            "itemUuid": "Actor.Iyk2cvaCbuTZk5bF.Item.98rsR9tLCaV9k0nr"
+          },
+          "originatingMessage": "zBVAsUsSRcgYQAkY"
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735605
+          }
+        }
+      },
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2ZO9jUHlFCscMuGR",
+        "actor": "Iyk2cvaCbuTZk5bF",
+        "alias": "Bullbug"
+      },
+      "flavor": "Gore - Damage Roll (Piercing)",
+      "rolls": [
+        "{\"class\":\"DamageRoll\",\"options\":{\"flavor\":\"Gore - Damage Roll (Piercing)\",\"rollMode\":\"publicroll\",\"critical\":false,\"multiplyNumeric\":false,\"powerfulCritical\":false,\"type\":\"piercing\",\"properties\":[],\"criticalBonusDice\":0,\"preprocessed\":true,\"configured\":true},\"dice\":[],\"formula\":\"2d8[piercing] + 4 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":\"piercing\",\"baseNumber\":2},\"evaluated\":true,\"number\":2,\"faces\":8,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true},{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":13,\"evaluated\":true}"
+      ],
+      "type": 5,
+      "_id": "2N5jJJ3ER4ysNXlO",
+      "timestamp": 1720469310633,
+      "content": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Maul\" width=\"37\" height=\"37\" /><details><summary><a>Maul</a></summary><div class=\"beyond20-description\">Proficiency with a maul allows you to add your proficiency bonus to the attack roll for any attack you make with it.</div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">10</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">10</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Bludgeoning Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit-fail beyond20-roll-total dice-total\">11</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">2d6 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d6 min\">1</li>\n                    <li class=\"roll die d6 max\">6</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">7</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2camPDnlQizdlDON",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":10}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":17,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"2d6 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":2,\"faces\":6,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":1},{\"active\":true,\"result\":6}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":11,\"evaluated\":true}"
+      ],
+      "_id": "do4kJ1NE1nJ2vC5q",
+      "timestamp": 1720469322074,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735595
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2ZO9jUHlFCscMuGR",
+        "actor": "Iyk2cvaCbuTZk5bF",
+        "alias": "Bullbug"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":7}],\"total\":25,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "25",
+      "_id": "OPncXCJ0Og2W3Qhx",
+      "timestamp": 1720469366406,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735555
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Unarmed Strike\" width=\"37\" height=\"37\" /><details><summary><a>Unarmed Strike</a></summary><div class=\"beyond20-description\">Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.</div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">22</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">15</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">15</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Bludgeoning Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">5</div></span></span></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2camPDnlQizdlDON",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":15}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":22,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"5\",\"terms\":[{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":5,\"evaluated\":true}"
+      ],
+      "_id": "14RLbsfE4XyZ0eOE",
+      "timestamp": 1720469396869,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735528
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "actor": null,
+        "token": null,
+        "alias": "karpiq"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":7}],\"total\":10,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "10",
+      "_id": "bIFJlp7wdscbx9yT",
+      "timestamp": 1720469417152,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735510
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Athletics (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Athletics (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit beyond20-roll-total dice-total\">27</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20 max\">20</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">20</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2camPDnlQizdlDON",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":20}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":27,\"evaluated\":true}"
+      ],
+      "_id": "hN7yFUcAhJUVhxtj",
+      "timestamp": 1720469454583,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735476
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Unarmed Strike\" width=\"37\" height=\"37\" /><details><summary><a>Unarmed Strike</a></summary><div class=\"beyond20-description\">Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.</div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">26</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">19</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">19</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Bludgeoning Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">5</div></span></span></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2camPDnlQizdlDON",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":19}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":26,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"5\",\"terms\":[{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":5,\"evaluated\":true}"
+      ],
+      "_id": "DAcGbRjq1VOefCy3",
+      "timestamp": 1720469484069,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735450
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2ZO9jUHlFCscMuGR",
+        "actor": "Iyk2cvaCbuTZk5bF",
+        "alias": "Bullbug"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":8,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":7}],\"total\":15,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "15",
+      "_id": "GbsMVB6J3yQsuhlc",
+      "timestamp": 1720469512515,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735424
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Unarmed Strike\" width=\"37\" height=\"37\" /><details><summary><a>Unarmed Strike</a></summary><div class=\"beyond20-description\">Instead of using a weapon to make a melee weapon attack, you can use an unarmed strike: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes.</div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">18</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">11</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">11</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Bludgeoning Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">5</div></span></span></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "2camPDnlQizdlDON",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":11}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":18,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"5\",\"terms\":[{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":5,\"evaluated\":true}"
+      ],
+      "_id": "aJCvjEWj4ocAA7t2",
+      "timestamp": 1720469539088,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735400
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "x14ybBD8P3TIECT0",
+        "actor": "oQ1PCRFMw6hrZHWw",
+        "alias": "Soldier"
+      },
+      "content": "Nephele",
+      "type": 2,
+      "_id": "2LsWBzDG0XuTZwtI",
+      "timestamp": 1720469844547,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735126
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Centaury s\u0105 dumn\u0105 ras\u0105. Uwa\u017caj\u0105 si\u0119 za lepszych od innych, \u017c\u0105daj\u0105 szacunku i pochlebstw.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "3PuWTvDyoejRW8p4"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407735054
+          }
+        }
+      },
+      "_id": "h0D6WdYJMTJy5ein",
+      "type": 0,
+      "user": "3PuWTvDyoejRW8p4",
+      "timestamp": 1720469940104,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "LJxLzBvkBW7UVuph",
+        "token": "nT3RqpcnmW3h6ilF",
+        "actor": "fBRLfW94cawmSJ0N",
+        "alias": "Hoobert"
+      },
+      "content": "*Hoobert \u015bledzi Nephele. Za rogiem sra jej na na g\u0142ow\u0119*",
+      "type": 2,
+      "_id": "s0gJ1H4xTa741Gjt",
+      "timestamp": 1720470232798,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407734776
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": null,
+        "token": null,
+        "alias": "karpiq"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":7}],\"total\":10,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "10",
+      "_id": "xA8972NjDtMCS5ia",
+      "timestamp": 1720470864945,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407734208
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/thumbnails/39628/867/1000/1000/638422226583965954.png\" title=\"Horn of Balmytria\" width=\"37\" height=\"37\" /><details open><summary><a>Horn of Balmytria</a></summary><table><tbody><tr><td><i>\n                    Wondrous Item, rare \n                </i></td></tr></tbody></table><div class=\"beyond20-description\"><br />                This horn was fashioned from one of the horns of Balmytria. It has two command words: one produces delicious food, along with water and wine, in a sufficient quantity to keep six Medium-sized creatures well fed for a day. If wine is drunk from the horn it can sometimes induce a deep sleep with dreams that will reveal possible futures.<br />The second command word produces a paralyzing, mercurial vapor. Once per day, you may use an action to create a cloud within 60 ft. of you. The cloud starts with a 5 ft. radius, which increases by 5 ft. each round to a maximum of 30 ft. Any creature that starts its turn in the mist must make a DC 14 Constitution saving throw or be paralyzed until the start of its next turn.<br />                <br />            </div></details></div></div>",
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "31AXhuVwp84sIEUs",
+        "actor": null,
+        "token": null,
+        "alias": ""
+      },
+      "type": 1,
+      "_id": "sTfFRjYxgYrnjTHX",
+      "timestamp": 1720472891714,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407732385
+          }
+        }
+      }
+    }
+  ]
+}

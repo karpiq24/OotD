@@ -1,4 +1,9 @@
-# Sesja 4: Mroczne sekrety Świątyni
+---
+title: "Sesja 4: Mroczne sekrety Świątyni"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/004/chat_log.json"
+---
 
 **Data:** 05.02.2024
 
