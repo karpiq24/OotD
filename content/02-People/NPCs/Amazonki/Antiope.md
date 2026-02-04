@@ -1,15 +1,6 @@
 ---
 title: Antiope
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Amazonka
-affiliation: Amazonki
-image_prompt:
 ---
-
 # Antiope
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Kowala
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Kowala
 
 _Mit o konstelacji Kowala, związany z Volkanem_

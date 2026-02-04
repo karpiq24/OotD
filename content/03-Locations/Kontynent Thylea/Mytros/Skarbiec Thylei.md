@@ -1,12 +1,6 @@
 ---
 title: Skarbiec Thylei
-tags:
-  - location
-  - bank
-  - temple
-parent: Dzielnica Szlachecka
 ---
-
 # Skarbiec Thylei (The Vault of Thylea)
 
 ![Placeholder](../../assets/placeholder.png)

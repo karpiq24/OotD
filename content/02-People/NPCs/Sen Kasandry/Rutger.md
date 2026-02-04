@@ -1,15 +1,6 @@
 ---
 title: Rutger
-tags:
-  - person
-  - npc
-race: Krasnolud
-gender: Męski
-occupation:
-affiliation: Załoga 'Snu Kasandry'
-image_prompt:
 ---
-
 # Rutger
 
 ![Placeholder](../../assets/placeholder.png)

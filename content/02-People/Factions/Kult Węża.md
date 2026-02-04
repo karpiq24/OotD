@@ -1,12 +1,6 @@
 ---
 title: Kult Węża
-tags:
-  - faction
-  - organization
-leader: [[Lady of Coins]]
-headquarters: [[Stygian Row]]
 ---
-
 # Kult Węża (Cult of the Snake)
 
 ![Placeholder](../../assets/placeholder.png)

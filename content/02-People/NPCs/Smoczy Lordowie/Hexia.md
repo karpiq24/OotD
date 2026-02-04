@@ -1,15 +1,6 @@
 ---
 title: Hexia
-tags:
-  - person
-  - npc
-race: Smok (Zielony)
-gender: Żeński
-occupation: Smoczy wierzchowiec, Strażniczka Titansbane
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Hexia
 
 ![Placeholder](../../assets/placeholder.png)

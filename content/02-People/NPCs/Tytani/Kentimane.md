@@ -1,16 +1,6 @@
 ---
 title: Kentimane
-tags:
-  - person
-  - npc
-  - titan
-race: Pradawna Istota / Tytan
-gender: Male
-occupation: Strażnik Thylei
-affiliation:
-image_prompt:
 ---
-
 # Kentimane
 
 ![Placeholder](../../assets/placeholder.png)

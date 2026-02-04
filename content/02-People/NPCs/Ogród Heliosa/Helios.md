@@ -1,16 +1,6 @@
 ---
 title: Helios
-tags:
-  - person
-  - npc
-  - god
-race: Bóg / Tytan
-gender: Mężczyzna
-occupation: Bóstwo Słońca
-affiliation: Thylea
-image_prompt: A magnificent, muscular man made of pure gold, standing on a powerful chariot drawn by stars and a golden gryphon. He radiates blinding solar light.
 ---
-
 # Helios
 
 ![Placeholder](../../assets/placeholder.png)

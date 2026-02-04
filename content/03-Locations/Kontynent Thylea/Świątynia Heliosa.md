@@ -1,11 +1,6 @@
 ---
 title: Świątynia Heliosa
-tags: [location]
-region: Góra Telamok
-type: Świątynia
-population: 0
 ---
-
 # Świątynia Heliosa
 
 ![Placeholder](../../assets/placeholder.png)

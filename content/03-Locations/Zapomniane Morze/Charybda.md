@@ -1,13 +1,6 @@
 ---
 title: Charybda
-tags:
-  - location
-  - hazard
-region: Zapomniane Morze
-type: Wir Morski
-population:
 ---
-
 # Charybda
 
 ![Charybda](../../assets/sessions/065/065_chardyba.png)

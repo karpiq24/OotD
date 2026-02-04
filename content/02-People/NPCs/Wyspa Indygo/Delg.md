@@ -1,14 +1,6 @@
 ---
 title: Delg
-tags:
-  - person
-  - npc
-race: Krasnolud
-gender: Mężczyzna
-occupation: Przywódca Plemienia Wieloryba
-affiliation: "[[Wyspa Indygo]], [[Plemię Wieloryba]]"
 ---
-
 # Delg
 
 ![Delg](../../../assets/sessions/043/043_delg.jpg)

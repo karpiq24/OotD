@@ -1,12 +1,6 @@
 ---
 title: Heart of the Gale
-tags: [item]
-type: Artefakt (Część maszyny)
-rarity: Rzadki
-attunement:
-value:
 ---
-
 # Heart of the Gale
 
 ![Placeholder](../../assets/placeholder.png)

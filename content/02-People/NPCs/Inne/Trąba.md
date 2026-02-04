@@ -1,16 +1,6 @@
 ---
 title: Trąba
-tags:
-  - person
-  - npc
-  - mount
-race: Magiczny Słoń (Hefalump)
-gender: Mężczyzna
-occupation: Wierzchowiec
-affiliation: Versir
-image_prompt:
 ---
-
 # Trąba
 
 ![Trąba](../../assets/sessions/062/062_traba.png)

@@ -1,11 +1,6 @@
 ---
 title: Świątynia Wyroczni
-tags: [location]
-region: Kontynent Thylea
-type: Świątynia, Miejsce Proroctw
-population: Akolici, Wyrocznia, Proteus
 ---
-
 # Świątynia Wyroczni
 
 ![Placeholder](../../assets/placeholder.png)

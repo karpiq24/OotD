@@ -1,12 +1,6 @@
 ---
 title: Antikythera
-tags: [item, artifact]
-type: Wondrous Item
-rarity: Legendary
-value: Bezcenny
-aliases: [Antikytera, Mechanizm z Antykithiry]
 ---
-
 # Antikythera
 
 ![Placeholder](../assets/placeholder.png)

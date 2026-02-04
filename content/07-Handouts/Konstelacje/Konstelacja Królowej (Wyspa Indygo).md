@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Królowej (Wyspa Indygo)
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Królowej (Wyspa Indygo)
 
 _Mit o konstelacji Królowej, związany z boginią Mytros_

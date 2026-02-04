@@ -1,11 +1,6 @@
 ---
 title: Euria Jesienny Wiatr
-tags:
-  - handout
-  - letter
-type: List / Opowieść
 ---
-
 # Euria Jesienny Wiatr
 
 _Opowieść [[Euria|Eurii]], Jesiennego Wiatru_
@@ -20,7 +15,7 @@ _Opowieść [[Euria|Eurii]], Jesiennego Wiatru_
 > 
 > I tak, wkrótce stałam się Wschodnim Wiatrem, i z pozostałymi złożyliśmy przysięgę braterstwa. Szczerze mówiąc, nie przejmowałam się innymi tak jak [[Kyrah|Notos]], ale podzielaliśmy swoje pasje i wiedziałam, że mam odpowiednie talenty do szerzenia wieści o naszej misji. Na wschód leży [[Półwysep Arezyjski|półwysep Arezyjski]], wypełniony wrogimi frakcjami, tak dalekimi od pokoju jak to tylko możliwe. To miała być długa przygoda, wypełniona okazjami. Mogłam sobie tylko wyobrazić potęgę murów [[Arezja|Arezji]] i surowe piękno tego stoickiego ludu.
 > 
-> A więc wyruszyłam. Przebyłam przez [[Stary Las]], odnajdując zróżnicowane rasy [[Thylean Nymph|Fey]], przebyłam Półwysep napotykając [[Thylean Centaur|centaury]] i [[Thylean Minotaur|minotaury]], w końcu dotarłam nawet do samej Arezji. Ale wszystko to było takie… nijakie. Często nawet brzydkie. Świat, który widziałam ze swojej góry był inny niż sobie wyobrażałam. Każda odrobina piękna jaką znalazłam, była zanieczyszczona brudem. Stary Las był pełen nieciekawych nimf niezainteresowanych zwiedzaniem świata.
+> A więc wyruszyłam. Przebyłam przez [[Stary Las]], odnajdując zróżnicowane rasy [[Nimfa z Thylei|Fey]], przebyłam Półwysep napotykając [[Centaur z Thylei|centaury]] i [[Minotaur z Thylei|minotaury]], w końcu dotarłam nawet do samej Arezji. Ale wszystko to było takie… nijakie. Często nawet brzydkie. Świat, który widziałam ze swojej góry był inny niż sobie wyobrażałam. Każda odrobina piękna jaką znalazłam, była zanieczyszczona brudem. Stary Las był pełen nieciekawych nimf niezainteresowanych zwiedzaniem świata.
 > 
 > Minotaury były brzydkie, zwyczajne i proste, zastanawiałam się, czy te przeklęte istoty były w ogóle w stanie zrozumieć co się do nich mówi, a kiedy z wściekłości zmieniły się w byki, jedyne co mogłam zrobić roześmiać się z politowaniem.
 > 

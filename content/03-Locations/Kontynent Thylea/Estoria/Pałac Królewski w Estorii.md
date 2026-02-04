@@ -1,11 +1,6 @@
 ---
 title: Pałac Królewski w Estorii
-tags: [location]
-region: Estoria
-type: Pałac
-population:
 ---
-
 # Pałac Królewski w Estorii
 ![Placeholder](../../../assets/placeholder.png)
 

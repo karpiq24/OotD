@@ -1,14 +1,6 @@
 ---
 title: Cronos
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Były "Król" Wygnańców (Zmarły)
-affiliation: "[[Wyspa Wygnańców]]"
 ---
-
 # Cronos
 
 ![Placeholder](../../assets/placeholder.png)

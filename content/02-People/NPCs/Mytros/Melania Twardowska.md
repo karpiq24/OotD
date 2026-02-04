@@ -1,15 +1,6 @@
 ---
 title: Melania Twardowska
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Kapłanka Mytros
-affiliation: Mytros, Felicjan Janus Twardowski
-image_prompt:
 ---
-
 # Melania Twardowska
 
 ![Placeholder](../../assets/placeholder.png)

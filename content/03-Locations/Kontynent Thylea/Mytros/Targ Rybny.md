@@ -1,12 +1,6 @@
 ---
 title: Targ Rybny
-tags:
-  - location
-  - market
-  - mytros
-image_prompt: A crowded fish market with barrels of fish, nets, and sailors, smelling of brine, fantasy art style.
 ---
-
 # Targ Rybny (M17)
 
 ![Placeholder](../../../../assets/placeholder.png)

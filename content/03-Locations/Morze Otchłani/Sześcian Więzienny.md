@@ -1,11 +1,6 @@
 ---
 title: Sześcian Więzienny
-tags: [location]
-region: Morze Otchłani
-type:
-population:
 ---
-
 # Sześcian Więzienny (Prison Cube)
 
 ![Sześcian](../../assets/sessions/065/065_cube.png)

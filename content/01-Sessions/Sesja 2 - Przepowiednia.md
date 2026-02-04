@@ -1,10 +1,6 @@
 ---
 title: "Sesja 2: Przepowiednia"
-session_number: 2
-date: 2024-01-22
-tags: [session]
 ---
-
 # Sesja 2: Przepowiednia
 
 **Data:** 22.01.2024

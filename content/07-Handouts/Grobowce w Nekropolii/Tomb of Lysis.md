@@ -1,11 +1,6 @@
 ---
 title: Tomb of Lysis
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Lysis
 > **[[Lysis Arkelander|LYSIS ARKELANDER]]**
 > 

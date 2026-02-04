@@ -1,11 +1,6 @@
 ---
 title: Pałac Królewski w Mytros
-tags:
-  - location
-  - building
-parent: Dzielnica Świątynna
 ---
-
 # Pałac Królewski w Mytros
 
 ![Placeholder](../../assets/placeholder.png)

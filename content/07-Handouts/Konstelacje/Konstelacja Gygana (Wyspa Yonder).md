@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Gygana (Wyspa Yonder)
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Gygana (Wyspa Yonder)
 
 _Mit o konstelacji Gygana, związany z początkiem Pierwszej Wojny_

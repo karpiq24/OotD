@@ -1,12 +1,6 @@
 ---
 title: Świątynia Cieni
-tags:
-  - location
-region: Arezja
-type: Świątynia
-population:
 ---
-
 # Świątynia Cieni
 
 ![Mistrz Cieni](../../assets/sessions/063/063_shadow.png)

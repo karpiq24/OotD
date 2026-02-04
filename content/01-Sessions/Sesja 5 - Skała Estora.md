@@ -1,10 +1,6 @@
 ---
 title: "Sesja 5: Skała Estora"
-session_number: 5
-date: 2024-02-12
-tags: [session]
 ---
-
 # Sesja 5: Skała Estora
 
 **Data:** 12.02.2024

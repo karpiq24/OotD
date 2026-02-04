@@ -1,12 +1,6 @@
 ---
 title: Chutliwa Argoniańska Pokojówka
-tags: [item, handout]
-type: Książka
-rarity: Pospolity
-attunement:
-value: 
 ---
-
 # Chutliwa Argoniańska Pokojówka
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Taureus
-tags:
-  - person
-  - npc
-race: Minotaur
-gender: Mężczyzna
-occupation: Mistrz Żywiołów, Kupiec
-affiliation: Arezja, Świątynia Żywiołów, Koalicja Kupców
-image_prompt:
 ---
-
 # Taureus
 
 ![Taureus](../../assets/sessions/063/taureus.png)

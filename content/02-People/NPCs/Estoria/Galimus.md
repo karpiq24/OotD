@@ -1,15 +1,6 @@
 ---
 title: Galimus
-tags:
-  - person
-  - npc
-race: Człowiek / Minotaur (przemieniony)
-gender: Męski
-occupation: Żołnierz (wygnany)
-affiliation: Estoria (dawniej) / Sydon
-image_prompt:
 ---
-
 # Galimus
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Jasena Ventrak
-tags:
-  - person
-  - npc
-race: Człowiek (?)
-gender: Żeński
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Jasena Ventrak
 
 ![Placeholder](../../assets/placeholder.png)

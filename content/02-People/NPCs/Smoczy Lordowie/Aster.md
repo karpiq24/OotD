@@ -1,15 +1,6 @@
 ---
 title: Aster
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Żeńska
-occupation: Żona i Przewodnik Xandera
-affiliation: Xander Huorath
-image_prompt:
 ---
-
 # Aster
 
 ![Placeholder](../../assets/placeholder.png)

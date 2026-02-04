@@ -1,15 +1,6 @@
 ---
 title: Kalisto
-tags:
-  - person
-  - npc
-race: 
-gender: Female
-occupation: Sługa Lutherii
-affiliation: [[Lutheria]]
-image_prompt: Woman on a rowboat in the Nether Sea, dark ethereal atmosphere.
 ---
-
 # Kalisto
 
 ![Kalisto](../../../assets/sessions/066/066_kalisto.png)

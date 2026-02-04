@@ -1,12 +1,6 @@
 ---
 title: Titansbane
-tags: [item, weapon, artifact]
-type: Broń (Miecz?)
-rarity: Legendarny
-attunement: Tak
-value: Bezcenny
 ---
-
 # Titansbane
 
 ![Titansbane](../../assets/placeholder.png)

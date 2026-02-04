@@ -1,11 +1,6 @@
 ---
 title: Plemię Delfina
-tags:
-  - faction
-leader: [[Delfin]]
-headquarters: [[Wyspa Indygo]]
 ---
-
 # Plemię Delfina
 
 ![Delfin](../../../content/assets/sessions/043/043_dolphin.jpg)

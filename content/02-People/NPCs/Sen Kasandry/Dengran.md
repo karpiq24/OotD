@@ -1,15 +1,6 @@
 ---
 title: Dengran
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Łotr
-affiliation: Załoga 'Snu Kasandry'
-image_prompt:
 ---
-
 # Dengran
 
 ![Placeholder](../../assets/placeholder.png)

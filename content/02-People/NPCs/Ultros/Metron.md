@@ -1,16 +1,6 @@
 ---
 title: Metron
-tags:
-  - person
-  - npc
-  - undead
-race: Human (Undead)
-gender: Male
-occupation: Nawigator Ultrosa
-affiliation: Estor Arkelander, Ultros
-image_prompt:
 ---
-
 # Metron
 
 ![Placeholder](../../../../assets/placeholder.png)

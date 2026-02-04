@@ -1,14 +1,6 @@
 ---
 title: Delfin
-tags:
-  - person
-  - npc
-race: Elf
-gender: Kobieta
-occupation: Przywódczyni Plemienia Delfina
-affiliation: "[[Wyspa Indygo]], [[Plemię Delfina]]"
 ---
-
 # Delfin
 
 ![Delfin](../../../assets/sessions/043/043_dolphin.jpg)

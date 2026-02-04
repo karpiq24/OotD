@@ -1,15 +1,6 @@
 ---
 title: Astra
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Złodziejka, Kultystka
-affiliation: [[Kult Węża]], [[Versir]]
-image_prompt: A rogue woman in dark leather armor, standing in a graveyard, determined expression, holding a dagger, fantasy art style.
 ---
-
 # Astra
 
 ![Placeholder](../../assets/placeholder.png)

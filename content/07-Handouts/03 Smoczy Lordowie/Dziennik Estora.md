@@ -1,11 +1,6 @@
 ---
 title: Dziennik Estora
-tags:
-  - handout
-  - journal
-type: Journal
 ---
-
 # Dziennik Estora
 
 _Dziennik Pierwszego Smoczego Lorda_

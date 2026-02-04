@@ -1,12 +1,6 @@
 ---
 title: Hexia
-tags:
-  - handout
-  - vision
-  - memory
-type: Wizja / Wspomnienie
 ---
-
 # Hexia i Ochos
 
 _Wizja przeszłości doświadczona przez Arevona, ukazująca historię smoczycy Hexii, jej jeźdźca Ochosa Arkelandera oraz niedokończonego miecza Titansbane_

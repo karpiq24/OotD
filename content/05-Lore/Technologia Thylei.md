@@ -1,9 +1,7 @@
 ---
-title: Thylean Technology
-tags: [lore, technology, items]
+title: Technologia Thylei
 ---
-
-# Thylean Technology (Technologia Thylei)
+# Technologia Thylei
 
 ## Bronze Weapons and Armor (Broń i Pancerze z Brązu)
 Z powodu braku złóż żelaza w Thylei, niemal cała broń i pancerze są wykuwane z brązu (stop miedzi i cyny). Dzięki sekretnym technikom kowalskim, przekazanym rzekomo przez boga Volkana, broń z brązu w Thylei jest równie twarda i skuteczna co jej żelazne i stalowe odpowiedniki.

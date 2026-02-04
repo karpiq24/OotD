@@ -1,11 +1,6 @@
 ---
 title: List od Aesopa
-tags:
-  - handout
-  - letter
-type: List
 ---
-
 # List od Aesopa
 
 _List od strażnika Smoczej Kaplicy do Bohaterów Przepowiedni._

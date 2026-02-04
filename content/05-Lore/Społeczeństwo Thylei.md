@@ -1,9 +1,7 @@
 ---
-title: Thylean Society
-tags: [lore, society, races]
+title: Społeczeństwo Thylei
 ---
-
-# Thylean Society (Społeczeństwo Thylei)
+# Społeczeństwo Thylei
 
 ## Natives and Outsiders (Tubylcy i Przybysze)
 

@@ -1,23 +1,22 @@
 ---
 title: Lore
 ---
-
 # Lore
 
 - [[Bestiariusz]]
-- [[Epic Paths]]
-- [[Factions of Thylea]]
-- [[History of Thylea]]
+- [[Epickie Ścieżki]]
+- [[Frakcje Thylei]]
+- [[Historia Thylei]]
+- [[Magia Thylei]]
 - [[Menaidy]]
-- [[Mythic Heroism]]
-- [[Myths of Thylea]]
+- [[Mity Thylei]]
+- [[Mityczne Bohaterstwo]]
+- [[Moce Thylei]]
+- [[Oś Czasu Thylei]]
 - [[Pierwsza Wojna]]
+- [[Prawa Thylei]]
 - [[Przysięga Pokoju]]
-- [[Races]]
-- [[The Laws of Thylea]]
-- [[The Powers of Thylea]]
-- [[Thylean Magic]]
-- [[Thylean Orders and Traditions]]
-- [[Thylean Society]]
-- [[Thylean Technology]]
-- [[Timeline|Timeline of Thylean History]]
+- [[Rasy]]
+- [[Społeczeństwo Thylei]]
+- [[Technologia Thylei]]
+- [[Zakony i Tradycje Thylei]]

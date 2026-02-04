@@ -1,15 +1,6 @@
 ---
 title: Noland
-tags:
-  - person
-  - npc
-race: Kriosfinks
-gender: Male
-occupation: Oskarżyciel (dydskredytowany)
-affiliation: Wyspa Czasu
-image_prompt:
 ---
-
 # Noland
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Niedźwiedzica (Thylea)
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Niedźwiedzica (Thylea)
 
 _Mit o konstelacji Niedźwiedzicy, związany z stworzeniem ryb w rzekach_

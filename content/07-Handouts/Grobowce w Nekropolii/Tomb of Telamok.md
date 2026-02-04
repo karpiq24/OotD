@@ -1,11 +1,6 @@
 ---
 title: Tomb of Telamok
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Telamok
 > **[[Telamok Arkelander|TELAMOK ARKELANDER]]**
 > 

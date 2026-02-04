@@ -1,15 +1,6 @@
 ---
 title: Aella
-tags:
-  - person
-  - npc
-race: Człowiek (Amazonka)
-gender: Żeńska
-occupation: Amazonka
-affiliation: Amazonki
-image_prompt:
 ---
-
 # Aella
 
 ![Placeholder](../../assets/placeholder.png)

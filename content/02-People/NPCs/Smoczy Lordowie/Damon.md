@@ -1,15 +1,6 @@
 ---
 title: Damon
-tags:
-  - person
-  - npc
-race: Człowiek (?)
-gender: Męski
-occupation: Czarodziej, Założyciel Akademii Mytros
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Damon
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Skarby Smoczych Lordów
-tags: [item, loot]
-type: Skarb
-rarity: Legendarny
-value: Pół królestwa
 ---
-
 # Skarby Smoczych Lordów
 
 ![Loot](../assets/sessions/067/067_loot_gathering.png)

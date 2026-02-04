@@ -1,15 +1,6 @@
 ---
 title: Quinn
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Dziedzic Szmaragdowej Doliny (rzekomo)
-affiliation: Załoga 'Snu Kasandry'
-image_prompt:
 ---
-
 # Quinn
 
 ![Quinn](../../../assets/sessions/036/quinn.webp)

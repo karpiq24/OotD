@@ -1,11 +1,6 @@
 ---
 title: Przepowiednia Wyroczni
-tags:
-  - handout
-  - prophecy
-type: Prophecy
 ---
-
 # Przepowiednia Wyroczni
 
 _Przepowiednia_

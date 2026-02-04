@@ -1,15 +1,6 @@
 ---
 title: Atreus
-tags:
-  - person
-  - npc
-race: Tiefling
-gender: Male
-occupation: Kapitan, Filozof
-affiliation: [[Akademia Mytros]]
-image_prompt: A tiefling captain with horns, wearing a mix of armor and robes, intense gaze, fantasy art style.
 ---
-
 # Atreus
 
 ![Placeholder](../../assets/placeholder.png)

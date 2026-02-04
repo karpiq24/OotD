@@ -1,7 +1,6 @@
 ---
 title: Inne
 ---
-
 # Inne
 
 - [[Braz]]

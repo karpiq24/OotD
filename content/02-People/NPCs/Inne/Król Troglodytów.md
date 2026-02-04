@@ -1,15 +1,6 @@
 ---
 title: Król Troglodytów
-tags:
-  - person
-  - npc
-race: Troglodyta
-gender: Male
-occupation: Król Troglodytów
-affiliation: Szczep Troglodytów z Mithralowej Kuźni
-image_prompt: massive troglodyte king sitting on crude throne, wearing golden circlet headband of intellect, eloquent expression
 ---
-
 # Król Troglodytów
 
 ![Placeholder](../../assets/placeholder.png)

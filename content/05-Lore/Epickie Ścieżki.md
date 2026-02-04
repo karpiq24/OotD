@@ -1,10 +1,7 @@
 ---
-title: Epic Paths
-tags: [lore, epic-paths, destiny]
+title: Epickie Ścieżki
 ---
-
-# Epic Paths (Epickie Ścieżki)
-
+# Epickie Ścieżki
 Epickie ścieżki to mityczne archetypy bohaterów, wiążące ich losy z historią Thylei.
 
 ## The Cursed One (Przeklęty)

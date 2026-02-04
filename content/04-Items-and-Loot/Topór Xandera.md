@@ -1,12 +1,6 @@
 ---
 title: Topór Xandera
-tags: [item]
-type: Broń (Topór)
-rarity: Legendarny
-attunement: Tak
-value: Bezcenny
 ---
-
 # Topór Xandera
 
 ![Placeholder](../../assets/placeholder.png)

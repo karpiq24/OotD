@@ -1,15 +1,6 @@
 ---
 title: Nikandros Caliros
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Nikandros Caliros
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,12 +1,6 @@
 ---
 title: Kaduceusz Damona
-tags: [item, artifact]
-type: Różdżka/Laska
-rarity: Artefakt
-attunement:
-value:
 ---
-
 # Kaduceusz Damona
 
 ![Placeholder](../../assets/placeholder.png)

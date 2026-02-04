@@ -1,12 +1,6 @@
 ---
 title: Wiszące Ogrody
-tags:
-  - location
-region: Arezja
-type: Ogród / Świątynia
-population:
 ---
-
 # Wiszące Ogrody
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Pellenia
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Żeńska
-occupation: Trubadurka
-affiliation: Brak
-image_prompt:
 ---
-
 # Pellenia
 
 ![Placeholder](../../assets/placeholder.png)

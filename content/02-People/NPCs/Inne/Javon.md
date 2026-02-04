@@ -1,15 +1,6 @@
 ---
 title: Javon
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Myśliwy, zwiadowca
-affiliation: "[[Kyrah]]"
-image_prompt: A rugged hunter with sun-worn skin, wearing practical leather armor and carrying a longbow. He has a focused and professional expression.
 ---
-
 # Javon
 
 ![Placeholder](../../../assets/placeholder.png)

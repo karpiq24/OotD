@@ -1,15 +1,6 @@
 ---
 title: Maximus
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Właściciel niewolników i organizator nielegalnych walk gladiatorów na Targu Minotaurów
-affiliation: [[Targ Minotaurów]]
-image_prompt: A cruel gladiator with a whip, overseeing minotaur cages, sneering, fantasy art style.
 ---
-
 # Maximus
 
 ![Placeholder](../../assets/placeholder.png)

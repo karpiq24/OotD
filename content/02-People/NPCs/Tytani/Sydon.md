@@ -1,16 +1,6 @@
 ---
 title: Sydon
-tags:
-  - person
-  - npc
-  - titan
-race: Tytan
-gender: Mężczyzna
-occupation: Władca Burz, Pan Oceanów
-affiliation: [[Tytani]]
-image_prompt: A colossal titan with deep blue skin and hair like a raging storm, eyes crackling with white lightning, holding a massive trident, standing amidst crashing waves and dark clouds, digital fantasy art style.
 ---
-
 # Sydon
 
 ![Placeholder](../../../assets/placeholder.png)

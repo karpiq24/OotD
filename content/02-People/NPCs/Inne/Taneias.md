@@ -1,15 +1,6 @@
 ---
 title: Taneias
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Myśliwy, zwiadowca
-affiliation: "[[Kyrah]]"
-image_prompt: A rugged hunter with sun-worn skin, wearing practical leather armor and carrying a longbow. He has a focused and professional expression.
 ---
-
 # Taneias
 
 ![Placeholder](../../../assets/placeholder.png)

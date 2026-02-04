@@ -1,15 +1,6 @@
 ---
 title: Taran Neurdagon
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Szlachcic, Kupiec
-affiliation: Ród Neurdagon, [[Mytros]]
-image_prompt: Weatlhy merchant lord in fine robes, standing in a lush garden estate, shrewd expression, fantasy art style.
 ---
-
 # Taran Neurdagon
 
 ![Placeholder](../../assets/placeholder.png)

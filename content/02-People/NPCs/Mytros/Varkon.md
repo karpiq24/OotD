@@ -1,15 +1,6 @@
 ---
 title: Varkon
-tags:
-  - person
-  - npc
-race: Half-Orc
-gender: Male
-occupation: Kapitan Bandytów
-affiliation: [[Kult Węża]], [[Moxena]]
-image_prompt: A burly half-orc bandit captain with scars, wearing leather armor, drinking in a tavern, tough and rowdy, fantasy art style.
 ---
-
 # Varkon
 
 ![Placeholder](../../assets/placeholder.png)

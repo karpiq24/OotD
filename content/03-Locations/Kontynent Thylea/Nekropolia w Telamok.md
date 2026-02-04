@@ -1,11 +1,6 @@
 ---
 title: Nekropolia w Telamok
-tags: [location]
-region: Kontynent Thylea
-type:
-population:
 ---
-
 # Nekropolia w Telamok
 
 ![Placeholder](../../assets/placeholder.png)

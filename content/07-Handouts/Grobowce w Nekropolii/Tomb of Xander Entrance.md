@@ -1,11 +1,6 @@
 ---
 title: Tomb of Xander Entrance
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Xander Entrance
 > Wejście jest wykonane z marmuru wyrzeźbionego w zboczu góry, ale wygląda na stare. Jest osłonięty imponującym portykiem ze zniszczonymi kolumnami w kształcie posągów, ale zamiast smoków konstrukcję podtrzymują śmiertelni wojownicy. Silni mężczyźni i kobiety w napierśnikach i hełmach.
 > 

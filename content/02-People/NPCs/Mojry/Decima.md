@@ -1,15 +1,6 @@
 ---
 title: Decima
-tags:
-  - person
-  - npc
-race: Green Hag
-gender: Female
-occupation: Mojra
-affiliation: Mojry
-image_prompt: Green hag, stone skin, snake hair, metallic teeth
 ---
-
 # Decima
 
 ![Placeholder](../../assets/placeholder.png)

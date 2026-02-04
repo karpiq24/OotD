@@ -1,11 +1,6 @@
 ---
 title: Dzielnica Szlachecka
-tags:
-  - location
-  - city-district
-parent: Mytros
 ---
-
 # Dzielnica Szlachecka
 
 ![Placeholder](../../assets/placeholder.png)

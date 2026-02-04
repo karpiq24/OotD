@@ -1,7 +1,6 @@
 ---
 title: Bohaterowie Przepowiedni
 ---
-
 # Bohaterowie Przepowiedni
 
 - [[Inwokacja i Spiski]]

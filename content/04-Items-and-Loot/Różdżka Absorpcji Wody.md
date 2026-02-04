@@ -1,13 +1,6 @@
 ---
 title: Różdżka Absorpcji Wody
-tags:
-  - item
-  - magical
-type: Wand
-rarity: Rare
-attunement: true
 ---
-
 # Różdżka Absorpcji Wody
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,15 +1,6 @@
 ---
 title: Mateusz
-tags:
-  - person
-  - npc
-race: Zwierzę (Kruk)
-gender: Male
-occupation: Kolekcjoner
-affiliation: Wyspa Czasu
-image_prompt:
 ---
-
 # Mateusz
 
 ![Placeholder](../../assets/placeholder.jpeg)

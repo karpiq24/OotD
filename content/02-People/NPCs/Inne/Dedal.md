@@ -1,15 +1,6 @@
 ---
 title: Dedal
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Wynalazca
-affiliation: Ultros
-image_prompt: a disheveled inventor with wild hair and obsessed eyes, holding tools, leather apron, steampunk aesthetic
 ---
-
 # Dedal
 
 ![Placeholder](../../assets/placeholder.png)

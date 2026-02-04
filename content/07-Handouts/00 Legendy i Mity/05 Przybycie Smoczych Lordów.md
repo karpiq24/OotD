@@ -1,11 +1,6 @@
 ---
 title: Przybycie Smoczych Lordów
-tags:
-  - handout
-  - legend
-type: Legenda
 ---
-
 # Przybycie Smoczych Lordów
 
 _Legenda o przybyciu pierwszych osadników i Smoczych Lordów_
@@ -16,7 +11,7 @@ Odległy kontynent zrodzony z ciała Thylei nie mógł pozostać ukryty na zawsz
 
 [[Sydon]] początkowo zignorował tych przybyszów. Byli zbyt słabi i żałośni, żeby zwrócić na nich uwagę. [[Lutheria|Luteria]] natomiast znalazła coś fascynującego w ich naturze. Kiedy przybyli kolejni, odkrywcy i osadnicy, powstrzymała wściekłość Sydona i pozwoliła im bezpiecznie dopłynąć do brzegów, aby mogła przyjrzeć się tym dziwnym ludziom. W miarę jak ich liczba rosła, rasy cywilizowane zakładały małe wioski wzdłuż wybrzeży. Stopniowo rozprzestrzeniali się po wyspach Thylei, aż ich liczebność doprowadziła do konfliktu z pierwotnymi mieszkańcami.
 
-Początkowo rasy cywilizowane ponosiły straty za każdym razem, gdy dochodziło do spotkań z rdzennymi rasami. Nie mieli ani siły, ani liczebności, aby rzucić wyzwanie [[Gyganie|Gyganom]] i [[Thylean Centaur|centaurom]] w bitwie. Brakowało im mocy, aby oprzeć się magicznym sztuczkom i pokusom [[Thylean Nymph|nimf]], [[Thylean Nymph|driad]] i [[Thylean Satyr|satyrów]]. Wszystko zmieniło się wraz z przybyciem [[Smoczy Lordowie|Smoczych Lordów]], grupy bohaterów, którzy walczyli na wielkich skrzydlatych wierzchowcach.
+Początkowo rasy cywilizowane ponosiły straty za każdym razem, gdy dochodziło do spotkań z rdzennymi rasami. Nie mieli ani siły, ani liczebności, aby rzucić wyzwanie [[Gyganie|Gyganom]] i [[Centaur z Thylei|centaurom]] w bitwie. Brakowało im mocy, aby oprzeć się magicznym sztuczkom i pokusom [[Nimfa z Thylei|nimf]], [[Nimfa z Thylei|driad]] i [[Satyr z Thylei|satyrów]]. Wszystko zmieniło się wraz z przybyciem [[Smoczy Lordowie|Smoczych Lordów]], grupy bohaterów, którzy walczyli na wielkich skrzydlatych wierzchowcach.
 
 Ich przywódcą był [[Xander|Xander Huorath]] ze swoim potężnym srebrnym smokiem [[Balmytria|Balmytrią]]. Drugim dowódcą, a także głównym rywalem Xandera, była [[Rizon Phobas]], która dosiadała partnera Balmytrii, wielkiego brązowego smoka. Dołączył do nich [[Adonis Neurdagon]], piękny i próżny; bracia [[Telamok Arkelander|Telamok]] i [[Estor Arkelander|Estor Arkelandor]], bezwzględni i dzicy wojownicy; i kilku innych, o których zapomniano. Każdy wojownik złożył przysięgę smokowi i razem byli niemal nie do powstrzymania w bitwie.
 

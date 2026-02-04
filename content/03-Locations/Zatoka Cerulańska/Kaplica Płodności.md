@@ -1,11 +1,6 @@
 ---
 title: Kaplica Płodności
-tags: [location, religious]
-region: Themis
-type: Kaplica
-population:
 ---
-
 # Kaplica Płodności
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Pieśń Loreusa
-tags:
-  - handout
-  - note
-type: Pieśń
 ---
-
 # Pieśń Loreusa
 
 _Pieśń ze zbioru "Kącik Poezji [[Kyrah]]"_

@@ -1,11 +1,6 @@
 ---
 title: Ręce Kentimane
-tags: [location]
-region: Góra Telamok
-type: Landmark
-population:
 ---
-
 # Ręce Kentimane
 
 ![Placeholder](../../assets/placeholder.png)

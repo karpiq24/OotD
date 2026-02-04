@@ -1,15 +1,6 @@
 ---
 title: Corinna
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Żeński
-occupation: Podróżniczka / Sojuszniczka druzyny
-affiliation: [[Estoria]]
-image_prompt: A young human woman with dirt-caked face and fearful eyes, wearing simple commoner clothes, forest background.
 ---
-
 # Corinna
 
 ![Placeholder](../../assets/placeholder.png)

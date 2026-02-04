@@ -1,15 +1,6 @@
 ---
 title: Lakan
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Król
-affiliation: Estoria
-image_prompt:
 ---
-
 # Lakan
 
 ![Placeholder](../../assets/placeholder.png)

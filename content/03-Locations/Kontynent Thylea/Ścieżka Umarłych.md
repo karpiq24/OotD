@@ -1,11 +1,6 @@
 ---
 title: Ścieżka Umarłych
-tags: [location, path]
-region: Góra Telamok
-type: Ścieżka
-population: Nieumarli
 ---
-
 # Ścieżka Umarłych
 
 ![Ścieżka Umarłych](../../assets/placeholder.png)

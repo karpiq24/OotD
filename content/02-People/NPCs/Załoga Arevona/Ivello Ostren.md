@@ -1,15 +1,6 @@
 ---
 title: Ivello Ostren
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Awanturnik
-affiliation: Załoga Arevona (Dawna)
-image_prompt:
 ---
-
 # Ivello Ostren
 
 ![Ivello](../../assets/sessions/034/ivello.jpg)

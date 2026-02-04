@@ -1,14 +1,6 @@
 ---
 title: Loopywoopy
-tags:
-  - person
-  - npc
-race: Gnom
-gender: Kobieta
-occupation: Przywódczyni Plemienia Węgorza
-affiliation: "[[Wyspa Indygo]], [[Plemię Węgorza]]"
 ---
-
 # Loopywoopy
 
 ![Loopywoopy](../../../assets/sessions/042/042_loopywoopy.jpg)

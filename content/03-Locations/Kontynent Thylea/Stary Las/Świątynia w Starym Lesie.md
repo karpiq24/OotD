@@ -1,11 +1,6 @@
 ---
 title: Świątynia w Starym Lesie
-tags: [location]
-region: [[Stary Las]]
-type: Zrujnowana Świątynia
-population: Brak (dawniej Driady, Goatlingi)
 ---
-
 # Świątynia w Starym Lesie
 
 ![Placeholder](../../assets/placeholder.png)

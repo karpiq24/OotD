@@ -1,13 +1,6 @@
 ---
 title: Smoczy Talizman
-tags:
-  - item
-type: Artefakt
-rarity: Legenda
-attunement:
-value:
 ---
-
 # Smoczy Talizman
 
 ![Placeholder](../../assets/placeholder.png)

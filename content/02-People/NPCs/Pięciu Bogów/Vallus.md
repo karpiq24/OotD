@@ -1,14 +1,6 @@
 ---
 title: Vallus
-tags:
-  - person
-  - npc
-race: Nieśmiertelna (Bóstwo)
-gender: Kobieta
-occupation: Królowa Mytros
-affiliation: "[[Mytros]], [[Piątka]]"
 ---
-
 # Vallus
 
 ![Placeholder](../../assets/placeholder.png)

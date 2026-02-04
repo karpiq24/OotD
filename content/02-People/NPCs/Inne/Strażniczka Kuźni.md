@@ -1,15 +1,6 @@
 ---
 title: Strażniczka Kuźni
-tags:
-  - person
-  - npc
-race: Żywiołak Ognia / Salamandra
-gender: Female
-occupation: Kowal, Strażnik Kuźni
-affiliation: Volkan (dawniej), Lutheria (więzienie)
-image_prompt: female fire elemental salamander smith, bound by chains, fiery anvil, hatred in eyes
 ---
-
 # Strażniczka Kuźni (The Forge Keeper)
 
 ![Placeholder](../../assets/placeholder.png)

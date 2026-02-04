@@ -1,11 +1,6 @@
 ---
 title: Dziennik Hergerona
-tags:
-  - handout
-  - letter
-type: Dziennik
 ---
-
 # Dziennik Hergerona
 
 _Dziennik odnaleziony w Yonder, należący do Lorda Hergerona._

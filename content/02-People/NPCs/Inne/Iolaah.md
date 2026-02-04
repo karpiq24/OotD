@@ -1,15 +1,6 @@
 ---
 title: Iolaah
-tags:
-  - person
-  - npc
-race: Merfolk
-gender: Female
-occupation: Załogant
-affiliation: Załoga Arevona
-image_prompt:
 ---
-
 # Iolaah
 
 ![Placeholder](../../../assets/placeholder.png)

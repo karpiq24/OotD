@@ -1,15 +1,6 @@
 ---
 title: Laertes
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Mistrz Spokoju
-affiliation: Arezja, Świątynia Spokoju
-image_prompt:
 ---
-
 # Laertes
 
 ![Placeholder](../../assets/placeholder.png)

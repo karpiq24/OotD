@@ -1,13 +1,6 @@
 ---
 title: Delphia
-tags: [person, npc]
-race: Driada
-gender: Żeńska
-occupation: Królowa Driad
-affiliation: Stary Las
-image_prompt:
 ---
-
 # Delphia
 
 ![Delphia](../../assets/placeholder.png)

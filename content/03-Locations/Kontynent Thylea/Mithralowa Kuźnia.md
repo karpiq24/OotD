@@ -1,11 +1,6 @@
 ---
 title: Mithralowa Kuźnia
-tags: [location]
-region: Kontynent Thylea
-type:
-population:
 ---
-
 # Mithralowa Kuźnia
 
 ![Placeholder](../../assets/placeholder.png)

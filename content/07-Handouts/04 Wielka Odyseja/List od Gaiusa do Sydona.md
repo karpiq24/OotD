@@ -1,11 +1,6 @@
 ---
 title: List od Gaiusa do Sydona
-tags:
-  - handout
-  - letter
-type: List
 ---
-
 # List od Gaiusa do Sydona
 
 _List od dowódcy Gaiusa do jego boga, Sydona._

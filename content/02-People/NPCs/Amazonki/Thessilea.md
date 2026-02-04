@@ -1,15 +1,6 @@
 ---
 title: Thessilea
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Kobieta
-occupation: Królowa (Zmarła)
-affiliation: Amazonki
-image_prompt:
 ---
-
 # Thessilea
 
 ![Placeholder](../../../assets/placeholder.png)

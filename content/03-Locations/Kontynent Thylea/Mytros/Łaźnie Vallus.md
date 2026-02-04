@@ -1,11 +1,6 @@
 ---
 title: Łaźnie Vallus
-tags:
-  - location
-  - bathhouse
-parent: Dzielnica Szlachecka
 ---
-
 # Łaźnie Vallus (The Bathhouse of Vallus)
 
 ![Placeholder](../../assets/placeholder.png)

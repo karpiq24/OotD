@@ -1,11 +1,6 @@
 ---
 title: Klątwa Estora Arkelandera
-tags:
-  - handout
-  - legend
-type: Legenda
 ---
-
 # Klątwa Estora Arkelandera
 
 _Legenda o klątwie rzuconej na Estora i jego załogę przez Lutherię_

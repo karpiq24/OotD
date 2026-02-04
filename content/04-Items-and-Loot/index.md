@@ -1,7 +1,6 @@
 ---
 title: Items And Loot
 ---
-
 # Items And Loot
 
 - [[Antikythera]]

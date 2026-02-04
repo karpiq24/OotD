@@ -1,15 +1,6 @@
 ---
 title: Wiedźma Lotosu
-tags:
-  - person
-  - npc
-race: Gynosphinx
-gender: Żeński
-occupation: Strażniczka Wiedzy i Historii
-affiliation: [[Wyspa Czasu|Wyspa Czasu (wygnana)]]
-image_prompt: Majestic winged lion with the face of a regal woman, sitting in a stone room with hieroglyphics, fantasy art.
 ---
-
 # Wiedźma Lotosu
 
 ![Wiedźma Lotosu](../../assets/sessions/041/041_witch.webp)

@@ -1,12 +1,6 @@
 ---
 title: Xanderiada
-tags:
-  - handout
-  - epic
-  - history
-type: Epos / Kronika
 ---
-
 # Xanderiada
 
 _Epos spisany przez Rizon Phobas, opisujący historię Smoczych Lordów, ich smoki oraz przebieg wojny z Tytanami_
@@ -61,7 +55,7 @@ Bestie z [[Thylea|Thylei]] nie są takie jak te z innych krain. Pewnego dnia str
 
 W trzewiach oceanów zawsze krążyły szepty o głębokim terrorze, czymś jeszcze bardziej starożytnym i przerażającym niż [[Kraken]]. [[Xander]] w to wierzył, ale zawsze pokładał więcej wiary w legendy tubylców niż ja.
 
-Wkrótce [[Xanderia]] stała się rozległym terytorium, z wieloma osadami, z których niektóre były dowodzone przez Smoczych Lordów, takich jak [[Xander]], [[Telamok Arkelander|Telamok]] i [[Estor Arkelander|Estor]]. Mimo to sytuacja na granicach była napięta. Nasze patrole graniczne napotkały kilka koczowniczych plemion [[Thylean Centaur|Centaurów]], rozproszone leśne ludy [[Fey]] ze Starego Lasu pod rządami driady [[Delphia|Delphii]] i kilka wiosek [[Thylean Minotaur|minotaurów]]. Najpotężniejszą cywilizacją rdzennych ras było jednak imperium [[Gyganie|Gyganów]]. Nasi najlepsi generałowie, [[Telamok Arkelander|Telamok]] i [[Estor Arkelander|Estor]], uznali je za główne zagrożenie dla naszych królestw i opracowali plany.
+Wkrótce [[Xanderia]] stała się rozległym terytorium, z wieloma osadami, z których niektóre były dowodzone przez Smoczych Lordów, takich jak [[Xander]], [[Telamok Arkelander|Telamok]] i [[Estor Arkelander|Estor]]. Mimo to sytuacja na granicach była napięta. Nasze patrole graniczne napotkały kilka koczowniczych plemion [[Centaur z Thylei|Centaurów]], rozproszone leśne ludy [[Fey]] ze Starego Lasu pod rządami driady [[Delphia|Delphii]] i kilka wiosek [[Minotaur z Thylei|minotaurów]]. Najpotężniejszą cywilizacją rdzennych ras było jednak imperium [[Gyganie|Gyganów]]. Nasi najlepsi generałowie, [[Telamok Arkelander|Telamok]] i [[Estor Arkelander|Estor]], uznali je za główne zagrożenie dla naszych królestw i opracowali plany.
 
 ## Pierwsze lata wojny
 

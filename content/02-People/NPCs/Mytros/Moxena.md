@@ -1,15 +1,6 @@
 ---
 title: Moxena
-tags:
-  - person
-  - npc
-race: Medusa
-gender: Kobieta
-occupation: Przywódczyni w Kulcie Węża
-affiliation: Kult Węża, Drużyna (Sojusz)
-image_prompt: Medusa in elegant robes, hidden face
 ---
-
 # Moxena
 
 ![Moxena](../../assets/sessions/022/022_moxena.jpg)

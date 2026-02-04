@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Rydwanu
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Rydwanu
 
 _Mit o konstelacji Rydwanu, związany z boginią Vallus_

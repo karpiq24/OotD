@@ -1,15 +1,6 @@
 ---
 title: Alina Davanos
-tags:
-  - person
-  - npc
-race: Człowiek (?)
-gender: Żeński
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Alina Davanos
 
 ![Placeholder](../../assets/placeholder.png)

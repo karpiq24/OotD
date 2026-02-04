@@ -1,15 +1,6 @@
 ---
 title: Halcyon
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Kobieta
-occupation: Mistrzyni Tarczy
-affiliation: Arezja, Świątynia Tarczy
-image_prompt:
 ---
-
 # Halcyon
 
 ![Placeholder](../../assets/placeholder.png)

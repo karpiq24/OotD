@@ -1,11 +1,6 @@
 ---
 title: Sądy w Mytros
-tags:
-  - location
-  - court
-parent: Dzielnica Szlachecka
 ---
-
 # Sądy w Mytros (The Courts of Mytros)
 
 ![Placeholder](../../assets/placeholder.png)

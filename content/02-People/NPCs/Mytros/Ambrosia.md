@@ -1,15 +1,6 @@
 ---
 title: Ambrosia
-tags:
-  - person
-  - npc
-race: Syrena
-gender: Female
-occupation: Właścicielka Syrenie Gniazdo
-affiliation: [[Syrenie Gniazdo]]
-image_prompt: A beautiful siren in a scarlet toga, welcoming and charming, standing in a luxurious room, fantasy art style.
 ---
-
 # Ambrosia
 
 ![Placeholder](../../assets/placeholder.png)

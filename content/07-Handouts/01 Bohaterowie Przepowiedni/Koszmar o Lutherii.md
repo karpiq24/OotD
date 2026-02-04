@@ -1,11 +1,6 @@
 ---
 title: Koszmar o Lutherii
-tags:
-  - handout
-  - dream
-type: Dream
 ---
-
 # Koszmar
 
 _Wizja, która nawiedziła bohaterów_

@@ -1,15 +1,6 @@
 ---
 title: Arges
-tags:
-  - person
-  - npc
-race: Cyklop
-gender: Male
-occupation: Dowódca Armii
-affiliation: Helios
-image_prompt:
 ---
-
 # Arges
 
 ![Placeholder](../../assets/placeholder.png)

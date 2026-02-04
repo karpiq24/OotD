@@ -1,12 +1,6 @@
 ---
 title: Burnished Dragonlord Coin
-tags: [item]
-type: Coin
-rarity: Rare
-attunement:
-value:
 ---
-
 # Burnished Dragonlord Coin
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Legenda Stworzenia
-tags:
-  - handout
-  - legend
-type: Legenda
 ---
-
 # Legenda Stworzenia
 
 [[Thylea]] była jedną ze Starych Bogów – starożytną istotą, gdy świat był jeszcze młody. Łagodna i hojna, narodziła się w czasie wojny i chaosu trawiącego jej rodzaj. Odmawiając udziału w sporach, całe życie spędziła w kontemplacyjnej ciszy, nie wypowiadając ani słowa.

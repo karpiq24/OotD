@@ -1,11 +1,6 @@
 ---
 title: Dziennik Gaiusa
-tags:
-  - handout
-  - letter
-type: Dziennik
 ---
-
 # Dziennik Gaiusa
 
 _Dziennik odnaleziony w Yonder, należący do dowódcy Gaiusa._

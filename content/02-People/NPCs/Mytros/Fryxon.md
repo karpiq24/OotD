@@ -1,15 +1,6 @@
 ---
 title: Fryxon
-tags:
-  - person
-  - npc
-race: Satyr
-gender: Male
-occupation: Muzyk
-affiliation: [[Satyrzy Ogon]]
-image_prompt: A mischievous satyr playing pan pipes in a tavern, winking, fantasy art style.
 ---
-
 # Fryxon
 
 ![Placeholder](../../assets/placeholder.png)

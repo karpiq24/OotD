@@ -1,10 +1,6 @@
 ---
 title: "Sesja 4: Mroczne sekrety Świątyni"
-date: 2024-02-05
-session_number: 4
-tags: [session, recap]
 ---
-
 # Sesja 4: Mroczne sekrety Świątyni
 
 **Data:** 05.02.2024

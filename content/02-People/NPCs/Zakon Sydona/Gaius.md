@@ -1,15 +1,6 @@
 ---
 title: Gaius
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Dowódca Zakonu Sydona, Paladyn
-affiliation: [[Sydon]], [[Zakon Sydona]], [[Acastus]]
-image_prompt: A heavily-armored commander with a stern, weathered face and graying hair, wearing plate mail adorned with lightning motifs, standing on a rocky outcrop, digital fantasy art style.
 ---
-
 # Gaius
 
 ![Placeholder](../../assets/placeholder.png)

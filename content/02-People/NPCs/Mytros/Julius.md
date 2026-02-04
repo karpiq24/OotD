@@ -1,15 +1,6 @@
 ---
 title: Julius
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Karczmarz
-affiliation: [[Satyrzy Ogon]]
-image_prompt: A nasty one-armed old man, wiping a dirty bar counter, scowling, fantasy art style.
 ---
-
 # Julius
 
 ![Placeholder](../../assets/placeholder.png)

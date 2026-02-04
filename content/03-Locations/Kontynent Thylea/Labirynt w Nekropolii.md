@@ -1,11 +1,6 @@
 ---
 title: Labirynt w Nekropolii
-tags: [location]
-region: Nekropolia w Telamok
-type: Labirynt
-population: Nieumarłe Minotaury, Szkielety
 ---
-
 # Labirynt w Nekropolii
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Smoczy Lordowie
-tags:
-  - faction
-leader: "[[Xander]]"
-headquarters: "[[Mytros]], [[Estoria]], [[Arezja]]"
 ---
-
 # Smoczy Lordowie
 
 ![Smoczy Lordowie](../../assets/placeholder.png)

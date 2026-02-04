@@ -1,12 +1,6 @@
 ---
 title: Świątynia Tarczy
-tags:
-  - location
-region: Arezja
-type: Świątynia
-population:
 ---
-
 # Świątynia Tarczy
 
 ![Placeholder](../../assets/placeholder.png)

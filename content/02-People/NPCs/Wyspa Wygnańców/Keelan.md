@@ -1,14 +1,6 @@
 ---
 title: Keelan
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Wygnaniec, Seryjny morderca
-affiliation: "[[Wyspa Wygnańców]]"
 ---
-
 # Keelan
 
 ![Placeholder](../../assets/placeholder.png)

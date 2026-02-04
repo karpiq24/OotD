@@ -1,16 +1,6 @@
 ---
 title: Yala Pierwsza
-tags:
-  - person
-  - npc
-  - titan
-race: Tytan
-gender: Female
-occupation: Bogini Piękna
-affiliation: Tytani
-image_prompt:
 ---
-
 # Yala Pierwsza
 
 ![Yala](../../../../assets/sessions/061/061_yala.png)

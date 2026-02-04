@@ -1,11 +1,6 @@
 ---
 title: Stygian Row
-tags:
-  - location
-  - city-district
-parent: Mytros
 ---
-
 # Stygian Row
 
 ![Placeholder](../../assets/placeholder.png)

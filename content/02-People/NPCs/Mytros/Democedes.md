@@ -1,10 +1,3 @@
----
-tags:
-  - person
-  - npc
-  - Mytros
----
-
 # Democedes
 
 ## Opis

@@ -1,7 +1,6 @@
 ---
 title: Wyspa Indygo
 ---
-
 # Wyspa Indygo
 
 - [[Borinn Bystre Oko]]

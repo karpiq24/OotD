@@ -1,15 +1,6 @@
 ---
 title: Anteia
-tags:
-  - person
-  - npc
-race: Meduza
-gender: Female
-occupation: Przywódczyni
-affiliation: [[Gniazdo Zapomnianych]]
-image_prompt: Medusa leader with eyes covered by a cloth, wise and commanding, sewer setting, fantasy art.
 ---
-
 # Anteia
 
 ![Placeholder](../../assets/placeholder.png)

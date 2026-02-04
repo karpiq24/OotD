@@ -1,15 +1,6 @@
 ---
 title: Vorena
-tags:
-  - person
-  - npc
-race: Half-Orc
-gender: Female
-occupation: Ochroniarz
-affiliation: [[Siren's Roost]]
-image_prompt: A tough female half-orc in armor, standing guard with arms crossed, stoic expression, fantasy art style.
 ---
-
 # Vorena
 
 ![Placeholder](../../assets/placeholder.png)

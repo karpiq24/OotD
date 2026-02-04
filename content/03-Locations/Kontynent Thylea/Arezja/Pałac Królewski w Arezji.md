@@ -1,12 +1,6 @@
 ---
 title: Pałac Królewski w Arezji
-tags:
-  - location
-region: Arezja
-type: Pałac
-population:
 ---
-
 # Pałac Królewski w Arezji
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Tomb of Cosmo
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Cosmo
 > **[[Cosmo|COSMO PHOBAS]]**
 > 

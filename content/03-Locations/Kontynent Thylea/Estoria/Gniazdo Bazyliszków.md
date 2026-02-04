@@ -1,10 +1,6 @@
 ---
 title: Gniazdo Bazyliszków
-tags: [location]
-region: Estoria
-type: Jaskinia
 ---
-
 # Gniazdo Bazyliszków
 
 ![Placeholder](../../../assets/placeholder.png)

@@ -1,13 +1,6 @@
 ---
 title: Słoneczny Granat
-tags:
-  - item
-type: Owoc / Składnik
-rarity: Unikatowy
-attunement:
-value: Bezcenny dla Narsusa
 ---
-
 # Słoneczny Granat
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Merfolki
-tags:
-  - faction
-leader: [[Hywin]]
-headquarters: []
 ---
-
 # Merfolki
 
 ![Placeholder](../../assets/placeholder.png)

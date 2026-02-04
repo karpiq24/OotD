@@ -1,7 +1,6 @@
 ---
 title: Tytani
 ---
-
 # Tytani
 
 - [[Dzieci Tytanów]]

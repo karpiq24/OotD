@@ -1,15 +1,6 @@
 ---
 title: Adonis Neurdagon
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Adonis Neurdagon
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Bella
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation:
-affiliation: Acastus, Gaius
-image_prompt:
 ---
-
 # Bella
 
 ![Placeholder](../../assets/placeholder.png)

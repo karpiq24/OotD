@@ -1,16 +1,6 @@
 ---
 title: Darok
-tags:
-  - person
-  - npc
-  - elf
-race: Elf
-gender: Male
-occupation: Przywódca Ruchu Oporu
-affiliation: Elficki Ruch Oporu
-image_prompt: Warrior monk elf, jungle camouflage
 ---
-
 # Darok
 
 ![Placeholder](../../assets/placeholder.png)

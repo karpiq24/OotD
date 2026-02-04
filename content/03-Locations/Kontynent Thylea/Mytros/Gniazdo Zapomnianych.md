@@ -1,11 +1,6 @@
 ---
 title: Gniazdo Zapomnianych
-tags:
-  - location
-  - settlement
-parent: [[Kanały Mytros]]
 ---
-
 # Gniazdo Zapomnianych (Nest of the Forgotten)
 
 ![Placeholder](../../assets/placeholder.png)

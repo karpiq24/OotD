@@ -1,11 +1,6 @@
 ---
 title: Wezwanie Nowych Bogów
-tags:
-  - handout
-  - legend
-type: Legenda
 ---
-
 # Wezwanie Nowych Bogów
 
 _Legenda o śmierci Balmytrii i przybyciu Pięciu Bogów_

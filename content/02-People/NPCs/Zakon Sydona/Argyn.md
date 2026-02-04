@@ -1,15 +1,6 @@
 ---
 title: Argyn
-tags:
-  - person
-  - npc
-race: Srebrny Smok (Młody)
-gender: Kobieta
-occupation: Wierzchowiec i narzeczona Gaiusa
-affiliation: [[Gaius]], [[Zakon Sydona]], [[Sydon]]
-image_prompt: A sleek, silver dragon with gleaming scales, wearing ornate saddle and bridle, intelligent but fierce eyes, fantasy art style.
 ---
-
 # Argyn
 
 ![Placeholder](../../assets/placeholder.png)

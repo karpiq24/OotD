@@ -1,11 +1,6 @@
 ---
 title: Suchary
-tags:
-  - handout
-  - note
-type: Żarty
 ---
-
 # Suchary
 
 _Zbiór żartów ze zbioru "Kącik Poezji [[Kyrah]]"_

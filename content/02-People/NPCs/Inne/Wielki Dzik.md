@@ -1,15 +1,6 @@
 ---
 title: Wielki Dzik
-tags:
-  - monster
-  - npc
-race: Dzik (Corrupted Boar)
-gender: Samiec
-occupation: Bestia rozpaczy
-affiliation: "[[Sydon]], [[Lutheria]]"
-image_prompt: A massive, ancient white boar with fierce red eyes and bloodied yellow tusks, charging from a dark cave. Several broken spears are lodged in its back.
 ---
-
 # Wielki Dzik
 
 ![Placeholder](../../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Przyjazny Cyklop
-tags:
-  - person
-  - npc
-race: Cyklop
-gender: Męski
-occupation: Pomocnik w [[Woodhike]]
-affiliation: [[Woodhike]]
-image_prompt: A massive, twelve-foot tall cyclops with a single large, kind eye, wearing simple patched clothes and a large woven basket on his back, smiling gently as he helps small halflings in a forest village, digital fantasy art style.
 ---
-
 # Przyjazny Cyklop
 
 ![Placeholder](../../../assets/placeholder.png)

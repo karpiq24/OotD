@@ -1,15 +1,6 @@
 ---
 title: Aketa
-tags:
-  - person
-  - npc
-race: Diabelstwo (Tiefling)
-gender: Kobieta
-occupation: Przewodnicząca Koalicji Kupców
-affiliation: Arezja, Koalicja Kupców
-image_prompt:
 ---
-
 # Aketa
 
 ![Aketa](../../../assets/sessions/062/062_Aketa.png)

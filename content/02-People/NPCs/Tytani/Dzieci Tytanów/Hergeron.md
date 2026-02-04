@@ -1,15 +1,6 @@
 ---
 title: Hergeron
-tags:
-  - person
-  - npc
-race: Tytan (Empyrean)
-gender: Male
-occupation:
-affiliation: Sydon, Lutheria, Dzieci Tytanów
-image_prompt: A calm, observant Titan with divine presence, watching silently, fantasy art style.
 ---
-
 # Hergeron
 
 ![Placeholder](../../assets/placeholder.png)

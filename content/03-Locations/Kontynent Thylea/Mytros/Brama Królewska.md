@@ -1,11 +1,6 @@
 ---
 title: Brama Królewska
-tags:
-  - location
-  - city-gate
-parent: Dzielnica Świątynna
 ---
-
 # Brama Królewska (The Royal Gate)
 
 ![Placeholder](../../assets/placeholder.png)

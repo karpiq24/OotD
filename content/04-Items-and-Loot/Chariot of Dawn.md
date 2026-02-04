@@ -1,13 +1,6 @@
 ---
 title: Chariot of Dawn
-tags:
-  - item
-type: Pojazd (Magiczny)
-rarity: Legenda
-attunement:
-value: Bezcenny
 ---
-
 # Chariot of Dawn (Złoty Rydwan)
 
 ![Placeholder](../../assets/placeholder.png)

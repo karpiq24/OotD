@@ -1,15 +1,6 @@
 ---
 title: Halie
-tags:
-  - person
-  - npc
-race: Meduza
-gender: Female
-occupation: Mieszkaniec
-affiliation: [[Gniazdo Zapomnianych]]
-image_prompt: Young medusa looking sad and hopeful, sewer background, fantasy art.
 ---
-
 # Halie
 
 ![Placeholder](../../assets/placeholder.png)

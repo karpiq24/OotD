@@ -1,11 +1,6 @@
 ---
 title: Kyrah's Gangsta Rap
-tags:
-  - handout
-  - note
-type: Pieśń / Rap
 ---
-
 # Kyrah's Gangsta Rap
 
 _Utwór ze zbioru "Kącik Poezji [[Kyrah]]"_

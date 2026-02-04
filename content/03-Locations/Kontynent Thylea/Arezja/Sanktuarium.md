@@ -1,12 +1,6 @@
 ---
 title: Sanktuarium
-tags:
-  - location
-region: Arezja
-type: Świątynia / Szpital
-population:
 ---
-
 # Sanktuarium
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Darien
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Królowa
-affiliation: Amazonki
-image_prompt:
 ---
-
 # Darien
 
 ![Darien](../../../assets/sessions/032/darien.png)

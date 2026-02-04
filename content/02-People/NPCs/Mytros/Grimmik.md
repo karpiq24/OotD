@@ -1,15 +1,6 @@
 ---
 title: Grimmik
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Płatnerz, Kupiec
-affiliation: [[Agora w Mytros]], [[Mytros]]
-image_prompt: A retired centurion with scars, wearing an apron over tunic, polishing a bronze shield, fantasy art style.
 ---
-
 # Grimmik
 
 ![Placeholder](../../assets/placeholder.png)

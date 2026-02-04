@@ -1,15 +1,6 @@
 ---
 title: Anora
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Kobieta
-occupation: Księżniczka Estorii
-affiliation: "[[Estoria]]"
-image_prompt: A beautiful, noble young woman with a courageous but resigned expression, wearing fine silk robes suitable for a princess of Estoria, digital fantasy art style.
 ---
-
 # Anora
 
 ![Placeholder](../../../assets/placeholder.png)

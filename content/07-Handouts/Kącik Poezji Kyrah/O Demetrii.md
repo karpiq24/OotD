@@ -1,11 +1,6 @@
 ---
 title: Demetria
-tags:
-  - handout
-  - note
-type: Wiersz / Legenda
 ---
-
 # Demetria
 
 _Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_

@@ -1,15 +1,6 @@
 ---
 title: Brax
-tags:
-  - person
-  - npc
-race: Satyr
-gender: Mężczyzna
-occupation: Właściciel Super Baru
-affiliation: "[[Super Bar]], Rodzina satyrów Orestesa"
-image_prompt: A cheerful satyr with curly brown hair and small horns, wearing a simple tunic, holding a large foaming mug of beer, standing behind a bar, vibrant fantasy art style.
 ---
-
 # Brax
 
 ![Placeholder](../../../assets/placeholder.png)

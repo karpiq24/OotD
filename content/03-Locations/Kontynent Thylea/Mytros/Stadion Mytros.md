@@ -1,9 +1,3 @@
----
-tags:
-  - Lokacja
-  - Mytros
----
-
 # Stadion Mytros
 
 ## Opis

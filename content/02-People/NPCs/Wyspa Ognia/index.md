@@ -1,7 +1,6 @@
 ---
 title: Wyspa Ognia
 ---
-
 # Wyspa Ognia
 
 - [[Jankor]]

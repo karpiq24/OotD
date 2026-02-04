@@ -1,9 +1,3 @@
----
-tags:
-  - Sesja
-  - Igrzyska
----
-
 # Sesja 28 - Igrzysk ciąg dalszy
 
 **Data:** 28.10.2024

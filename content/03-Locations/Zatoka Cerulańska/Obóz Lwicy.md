@@ -1,11 +1,6 @@
 ---
 title: Obóz Lwicy
-tags: [location]
-region: Themis
-type: Obóz
-population: Amazonki
 ---
-
 # Obóz Lwicy
 
 ![Placeholder](../../assets/placeholder.png)

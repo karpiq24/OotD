@@ -1,15 +1,6 @@
 ---
 title: Halius
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Kustosz Galerii
-affiliation: Arezja, Galeria Sztuki
-image_prompt:
 ---
-
 # Halius
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,12 +1,6 @@
 ---
 title: Podbój Estora
-tags:
-  - handout
-  - vision
-  - memory
-type: Wizja / Wspomnienie
 ---
-
 # Podbój Estora
 
 _Wizja przeszłości doświadczona przez Arevona, ukazująca rzeź Gyganów dokonaną przez Estora Arkelandera_

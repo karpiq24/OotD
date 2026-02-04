@@ -1,11 +1,6 @@
 ---
 title: Tomb of Ochos
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Ochos
 > **[[Ochos Arkelander|OCHOS ARKELANDER]]**
 > 

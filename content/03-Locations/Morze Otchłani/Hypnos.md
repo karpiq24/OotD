@@ -1,11 +1,6 @@
 ---
 title: Hypnos, Tron Snów
-tags: [location]
-region: Morze Otchłani
-type:
-population:
 ---
-
 # Hypnos, Tron Snów
 
 ![Placeholder](../../assets/placeholder.png)

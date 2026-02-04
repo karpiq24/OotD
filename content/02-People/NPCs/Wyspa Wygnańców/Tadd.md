@@ -1,15 +1,6 @@
 ---
 title: Tadd
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Architekt, seryjny morderca
-affiliation: "[[Wyspa Wygnańców]]"
-image_prompt: Tadd
 ---
-
 # Tadd
 
 ![Tadd](../../../assets/sessions/045/045_tad.jpg)

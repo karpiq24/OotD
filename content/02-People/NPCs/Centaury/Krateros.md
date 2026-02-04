@@ -1,15 +1,6 @@
 ---
 title: Krateros
-tags:
-  - person
-  - npc
-race: Centaur
-gender: Male
-occupation: Organizator
-affiliation: Latająca Forteca
-image_prompt:
 ---
-
 # Krateros
 
 ![Placeholder](../../assets/placeholder.png)

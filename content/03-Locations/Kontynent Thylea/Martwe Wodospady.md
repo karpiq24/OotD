@@ -1,11 +1,6 @@
 ---
 title: Martwe Wodospady
-tags: [location]
-region: Heartlands / Rzeka Lethe
-type: Wodospad
-population: 0
 ---
-
 # Martwe Wodospady
 
 ![Placeholder](../../../assets/placeholder.png)

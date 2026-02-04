@@ -1,13 +1,6 @@
 ---
 title: Furie
-tags:
-  - faction
-  - organization
-  - gods
-leader: []
-headquarters: []
 ---
-
 # Furie
 
 ![Placeholder](../../assets/placeholder.png)

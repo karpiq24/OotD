@@ -1,16 +1,6 @@
 ---
 title: Fekaliusz
-tags:
-  - person
-  - npc
-  - monster
-race: Żywiołak Wody
-gender: N/A
-occupation: Potwór
-affiliation: Kanały Mytros
-image_prompt: Muddy water elemental in a sewer pipe, fantasy art.
 ---
-
 # Fekaliusz
 
 ![Placeholder](../../assets/placeholder.png)

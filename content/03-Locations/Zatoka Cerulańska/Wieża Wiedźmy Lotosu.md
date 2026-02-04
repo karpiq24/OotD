@@ -1,11 +1,6 @@
 ---
 title: Wieża Wiedźmy Lotosu
-tags: [location]
-region: [[Wyspa Skorpiona]]
-type: Wieża
-population:
 ---
-
 # Wieża Wiedźmy Lotosu
 
 ![Wieża Wiedźmy Lotosu](../../assets/sessions/040/040_tower.png)

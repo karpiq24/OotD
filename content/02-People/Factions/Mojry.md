@@ -1,12 +1,6 @@
 ---
 title: Mojry
-tags:
-  - faction
-  - gods
-leader: []
-headquarters: []
 ---
-
 # Mojry
 
 ![Mojry](../../assets/placeholder.png)

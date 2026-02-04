@@ -1,11 +1,6 @@
 ---
 title: Artyści w Służbie Sydona (AWSS)
-tags:
-  - faction
-leader: []
-headquarters: []
 ---
-
 # Artyści w Służbie Sydona (AWSS)
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,19 +1,11 @@
 ---
 title: Orion Xul
-tags:
-  - person
-  - pc
-race: Half-Elf
-class: Fighter
-level: 11
-image_prompt: male fantasy warrior, athletic build, elven features, wearing highly ornate golden plate armor, intricate filigree, Greco-Roman spartan aesthetic, full golden corinthian helmet with a large yellow and black plume, glowing orange eyes, dark blue cloth hood and cape, layered golden pauldrons, leather belt with multiple pouches, gold ornamental bird-head buckle, blue loincloth with white embroidered patterns, a quiver of arrows with black fletching, an ornate spear with lightning sparks, a round wooden shield with a gold border, a spear with a golden leaf-shaped head
 ---
-
 # Orion Xul
 
 ![Orion](../../assets/Orion.png)
 
-_Half-Elf Fighter, [[Epic Paths#The Demi-God (Półbóg)|Demigod]]_
+_Half-Elf Fighter, [[Epickie Ścieżki#The Demi-God (Półbóg)|Demigod]]_
 _**Półbóg**, który odnalazł własną matkę i dorównał w boskości swojemu ojcu._
 
 

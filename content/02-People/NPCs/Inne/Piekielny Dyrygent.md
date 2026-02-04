@@ -1,16 +1,6 @@
 ---
 title: Piekielny Dyrygent
-tags:
-  - person
-  - npc
-  - monster
-race: Fiend / Undead
-gender: Male
-occupation: Dyrygent Symfonii Potępienia
-affiliation: Hades, Typhon
-image_prompt:
 ---
-
 # Piekielny Dyrygent
 
 ![Katedra](../../../assets/sessions/060/060_The_Cacophony_of_Penance.png)

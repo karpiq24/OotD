@@ -1,15 +1,6 @@
 ---
 title: Aetala
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Żeńska
-occupation: Karczmarka, emerytowana łowczyni
-affiliation: "[[Kwaśny Rocznik]]"
-image_prompt: A sturdy, middle-aged woman with a professional yet welcoming demeanor. She wears practical clothing and has an air of a seasoned veteran.
 ---
-
 # Aetala
 
 ![Placeholder](../../../assets/placeholder.png)

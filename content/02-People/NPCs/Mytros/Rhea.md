@@ -1,16 +1,6 @@
 ---
 title: Rhea
-tags:
-  - person
-  - npc
-  - mage
-race: Człowiek
-gender: Kobieta
-occupation: Czarodziejka
-affiliation: Moxena
-image_prompt:
 ---
-
 # Rhea
 
 ![Placeholder](../../assets/placeholder.png)

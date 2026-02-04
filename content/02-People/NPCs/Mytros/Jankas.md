@@ -1,15 +1,6 @@
 ---
 title: Jankas
-tags:
-  - person
-  - npc
-race: Minotaur
-gender: Male
-occupation: Zielarz
-affiliation: [[Gniazdo Zapomnianych]]
-image_prompt: Gentle minotaur herbalist mixing potions in a sewer lab, fantasy art.
 ---
-
 # Jankas
 
 ![Placeholder](../../assets/placeholder.png)

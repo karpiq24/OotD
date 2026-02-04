@@ -1,12 +1,6 @@
 ---
 title: Korytarz Światów
-tags:
-  - location
-region: [[Wieża Wiedźmy Lotosu]]
-type: Komnata
-population:
 ---
-
 # Korytarz Światów
 
 ![Korytarz Światów](../../assets/sessions/041/041_worlds.jpg)

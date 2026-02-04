@@ -1,15 +1,6 @@
 ---
 title: Groonar
-tags:
-  - person
-  - npc
-race: Koźlak (Satyr)
-gender: Male
-occupation: DJ
-affiliation: Latająca Forteca
-image_prompt:
 ---
-
 # Groonar
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Ochos Arkelander
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Ochos Arkelander
 
 ![Placeholder](../../assets/placeholder.png)

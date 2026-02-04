@@ -1,15 +1,6 @@
 ---
 title: Isadore Huorath
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Żeńska
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Isadore Huorath
 
 ![Placeholder](../../assets/placeholder.png)

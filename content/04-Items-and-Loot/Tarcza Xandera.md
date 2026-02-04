@@ -1,12 +1,6 @@
 ---
 title: Tarcza Xandera
-tags: [item]
-type: Pancerz (Tarcza)
-rarity: Legendarny
-attunement: Tak
-value: Bezcenny
 ---
-
 # Tarcza Xandera
 
 ![Placeholder](../../assets/placeholder.png)

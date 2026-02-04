@@ -1,12 +1,6 @@
 ---
 title: Róg Balmytrii
-tags: [item]
-type: Artefakt
-rarity: Legendary
-attunement: Nie
-value: Bezcenny
 ---
-
 # Róg Balmytrii
 
 ![Placeholder](../../assets/placeholder.png)

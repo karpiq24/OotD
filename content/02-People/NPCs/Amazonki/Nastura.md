@@ -1,15 +1,6 @@
 ---
 title: Nastura
-tags:
-  - person
-  - npc
-race: Medusa
-gender: Kobieta
-occupation: Królowa (Uzurpatorka)
-affiliation: Amazonki
-image_prompt:
 ---
-
 # Nastura
 
 ![Placeholder](../../../assets/placeholder.png)

@@ -1,16 +1,6 @@
 ---
 title: Paradoks
-tags:
-  - person
-  - npc
-  - dragon
-race: Smok (Niebieski)
-gender: Męski
-occupation: Członek załogi Ultrosa
-affiliation: Drużyna, Ultros
-image_prompt: Blue dragon wyrmling with multi-colored horns
 ---
-
 # Paradoks
 
 ![Paradoks](../../assets/sessions/065/065_paradox.png)

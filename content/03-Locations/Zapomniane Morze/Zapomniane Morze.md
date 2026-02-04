@@ -1,11 +1,6 @@
 ---
 title: Zapomniane Morze
-tags: [location]
-region:
-type:
-population:
 ---
-
 # Zapomniane Morze
 
 ![Placeholder](../../assets/placeholder.png)

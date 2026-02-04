@@ -1,12 +1,6 @@
 ---
 title: Mosiężna Misa
-tags: [item]
-type: Wondrous Item
-rarity: Rare
-attunement:
-value: 
 ---
-
 # Mosiężna Misa
 
 ![Mosiężna Misa](../../assets/sessions/053/053_bowl.png)

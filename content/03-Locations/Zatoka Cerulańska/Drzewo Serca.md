@@ -1,11 +1,6 @@
 ---
 title: Drzewo Serca
-tags: [location, lore]
-region: Zatoka Cerulańska
-type: Święte Drzewo
-population:
 ---
-
 # Drzewo Serca
 
 ![Placeholder](../../assets/placeholder.png)

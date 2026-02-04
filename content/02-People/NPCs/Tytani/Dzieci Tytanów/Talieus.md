@@ -1,16 +1,6 @@
 ---
 title: Talieus
-tags:
-  - person
-  - npc
-  - titan
-race: Empyrean / Pół-Tytan
-gender: Male
-occupation: Władca Latającej Fortecy
-affiliation: Sydon, Lutheria, Dzieci Tytanów
-image_prompt: A furious Titan baring his teeth, expressing raw anger, fantasy art style.
 ---
-
 # Talieus
 
 ![Placeholder](../../../../assets/placeholder.png)

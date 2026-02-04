@@ -1,11 +1,6 @@
 ---
 title: Teatr Bogów
-tags:
-  - location
-  - theater
-parent: Dzielnica Świątynna
 ---
-
 # Teatr Bogów (Theater of the Gods)
 
 ![Placeholder](../../assets/placeholder.png)

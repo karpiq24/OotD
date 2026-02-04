@@ -1,7 +1,6 @@
 ---
 title: Lista postaci niezależnych
 ---
-
 # Lista postaci niezależnych
 
 - [[Aegis]]

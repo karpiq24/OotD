@@ -1,12 +1,6 @@
 ---
 title: Czerwony Lotos
-tags:
-  - location
-region: Arezja
-type: Karczma
-population:
 ---
-
 # Czerwony Lotos
 
 ![Placeholder](../../assets/placeholder.png)

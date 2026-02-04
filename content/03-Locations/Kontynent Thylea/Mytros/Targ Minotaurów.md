@@ -1,11 +1,6 @@
 ---
 title: Targ Minotaurów
-tags:
-  - location
-  - market
-parent: Stygian Row
 ---
-
 # Targ Minotaurów (The Minotaur Market)
 
 ![Placeholder](../../assets/placeholder.png)

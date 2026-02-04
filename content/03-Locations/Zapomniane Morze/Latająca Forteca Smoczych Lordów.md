@@ -1,12 +1,6 @@
 ---
 title: Latająca Forteca Smoczych Lordów
-tags:
-  - location
-region: Zapomniane Morze
-type: Twierdza / Pojazd
-population:
 ---
-
 # Latająca Forteca Smoczych Lordów
 
 ![Latająca Forteca](../../assets/placeholder.png)

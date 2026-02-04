@@ -1,15 +1,6 @@
 ---
 title: Sybolkorax
-tags:
-  - person
-  - npc
-race: Smok (Brązowy)
-gender: Męski
-occupation: Smoczy wierzchowiec
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Sybolkorax
 
 ![Placeholder](../../assets/placeholder.png)

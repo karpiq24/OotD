@@ -1,12 +1,6 @@
 ---
 title: Cztery Wiatry
-tags:
-  - faction
-  - group
-leader: "[[Kyrah]]"
-headquarters: []
 ---
-
 # Cztery Wiatry
 
 ![Placeholder](../../assets/placeholder.png)
@@ -23,7 +17,7 @@ Szerzenie idei pokoju i przygotowanie mieszkańców Thylei na koniec Przysięgi 
 Brak stałej siedziby. Działali w całęj Thylei.
 
 ## Członkowie
-Grupa składała się z czterech istot rasy [[Thylean Nymph|Fey]]:
+Grupa składała się z czterech istot rasy [[Nimfa z Thylei|Fey]]:
 - **[[Boreas]]** (Północny Wiatr Zimy) – szerzył mądrość wśród centaurów na [[Wielkie Stepy|Wielkich Stepach]].
 - **[[Zephyrus]]** (Zachodni Wiatr Wiosny) – niósł umiarkowanie na wyspy zachodu, m.in. na [[Wyspa Indygo|Wyspę Indygo]].
 - **[[Euria]]** (Wschodni Wiatr Jesieni) – poszukiwała nowego oblicza odwagi na [[Półwysep Arezyjski|Półwyspie Arezyjskim]].

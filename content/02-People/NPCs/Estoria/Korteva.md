@@ -1,15 +1,6 @@
 ---
 title: Korteva
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Kobieta
-occupation: Przywódczyni bandytów
-affiliation: Bandyci
-image_prompt: A fierce and scarred female bandit leader with wild dark hair, wearing mismatched leather and fur armor, holding a jagged blade, standing in a dark forest camp, digital fantasy art style.
 ---
-
 # Korteva
 
 ![Placeholder](../../../assets/placeholder.png)

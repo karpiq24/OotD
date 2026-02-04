@@ -1,15 +1,6 @@
 ---
 title: Althaia
-tags:
-  - person
-  - npc
-race: Half-Elf (Ex-Human?), Potwór (Gęguza)
-gender: Female
-occupation: Wiedźma
-affiliation: Brak
-image_prompt: beautiful half-elf woman with sad eyes / monstrous hag with goose heads for hair
 ---
-
 # Althaia
 
 ![Świątynia i Althaia](../../assets/sessions/049/049_temple.jpg)

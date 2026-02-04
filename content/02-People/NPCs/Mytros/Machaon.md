@@ -1,15 +1,6 @@
 ---
 title: Machaon
-tags:
-  - person
-  - npc
-race: Half-Orc
-gender: Male
-occupation: Mag, Filozof
-affiliation: [[Akademia Mytros]]
-image_prompt: A scholarly half-orc in robes, looking thoughtful, holding a scroll, fantasy art style.
 ---
-
 # Machaon
 
 ![Placeholder](../../assets/placeholder.png)

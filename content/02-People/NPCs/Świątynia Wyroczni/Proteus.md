@@ -1,15 +1,6 @@
 ---
 title: Proteus
-tags:
-  - person
-  - npc
-race: Protean
-gender: Mężczyzna
-occupation: Starszy opiekun Świątynia Wyroczni
-affiliation: "[[Versi]], [[Świątynia Wyroczni]]"
-image_prompt: An elderly, wise-looking attendant with weathered skin and kind eyes, wearing simple but clean temple robes.
 ---
-
 # Proteus
 
 ![Placeholder](../../../assets/placeholder.png)

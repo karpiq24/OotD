@@ -1,15 +1,6 @@
 ---
 title: Boreas
-tags:
-  - person
-  - npc
-race: Satyr
-gender: Męski
-occupation: Winiarz / Zimowy Wiatr
-affiliation: Kyrah (dawniej) / Zephyrus
-image_prompt:
 ---
-
 # Boreas
 
 ![Placeholder](../../assets/placeholder.png)

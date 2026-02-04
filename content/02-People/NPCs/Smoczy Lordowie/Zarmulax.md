@@ -1,15 +1,6 @@
 ---
 title: Zarmulax
-tags:
-  - person
-  - npc
-race: Smok (Czerwony)
-gender: Męski (?)
-occupation: Smoczy wierzchowiec
-affiliation: Zdrajcy, Arezja
-image_prompt:
 ---
-
 # Zarmulax
 
 ![Placeholder](../../assets/placeholder.png)

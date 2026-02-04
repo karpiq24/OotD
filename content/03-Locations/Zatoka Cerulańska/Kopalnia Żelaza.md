@@ -1,10 +1,6 @@
 ---
 title: Kopalnia Żelaza
-tags: [location]
-region: Wyspa Indygo
-type: Kopalnia
 ---
-
 # Kopalnia Żelaza
 
 ![Kopalnia](../../../assets/sessions/043/043_elementals.jpg)

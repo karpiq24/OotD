@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Tytana
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Tytana
 
 _Mit o konstelacji Tytana, związany z Sydonem_

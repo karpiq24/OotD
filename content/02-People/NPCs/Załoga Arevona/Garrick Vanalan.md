@@ -1,15 +1,6 @@
 ---
 title: Garrick Vanalan
-tags:
-  - person
-  - npc
-race: Gnom
-gender: Męski
-occupation: Członek załogi
-affiliation: [[Arevon Elorrenthi]]
-image_prompt: 
 ---
-
 # Garrick Vanalan
 
 ![Placeholder](../../assets/placeholder.png)

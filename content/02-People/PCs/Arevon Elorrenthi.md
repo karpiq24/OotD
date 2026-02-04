@@ -1,19 +1,11 @@
 ---
 title: Arevon Elorrenthi
-tags:
-  - person
-  - pc
-race: Elf
-class: Druid
-level: 11
-image_prompt: young  adult male elf, slender build, angular face, high cheekbones, sharp  jawline, intense dark eyes, long pointed ears, shoulder-length wavy dark  brown hair, fantasy aesthetic, wearing layered brown leather armor,  intricate silver filigree details, dark high-collared tunic, black  fingerless leather gloves, an ornate silver pendant with a large cracked  dark gemstone, a single silver diamond-shaped earring.
 ---
-
 # Arevon Elorrenthi
 
 ![Arevon](../../assets/Arevon.png)
 
-_Elf Druid, [[Epic Paths#The Seeking One (Poszukujący)|The Seeking One]]_
+_Elf Druid, [[Epickie Ścieżki#The Seeking One (Poszukujący)|The Seeking One]]_
 _**Poszukujący**, który przybył z odległych krain i odnalazał ukryte tajemnice [[Thylea|Thylei]]._
 
 

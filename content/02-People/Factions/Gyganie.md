@@ -1,12 +1,6 @@
 ---
 title: Gyganie
-tags:
-  - faction
-  - race
-leader: []
-headquarters: "[[Zatoka Cerulańska]]"
 ---
-
 # Gyganie
 
 ![Gyganie](../../assets/placeholder.png)

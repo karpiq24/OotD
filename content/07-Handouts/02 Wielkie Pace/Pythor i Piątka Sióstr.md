@@ -1,13 +1,6 @@
 ---
 title: Pythor i Piątka Sióstr
-tags:
-  - handout
-  - play
-  - tragedy
-  - comedy
-type: Sztuka Teatralna
 ---
-
 # Pythor i Piątka Sióstr
 
 _Streszczenie sztuki teatralnej opisującej romanse boga Pythora i zazdrość jego żony Hexii_

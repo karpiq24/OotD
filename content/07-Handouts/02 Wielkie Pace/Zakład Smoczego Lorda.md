@@ -1,11 +1,6 @@
 ---
 title: Zakład Smoczego Lorda
-tags:
-  - handout
-  - story
-type: Opowieść
 ---
-
 # Zakład Smoczego Lorda
 
 **BEEEEEEK!**

@@ -59,7 +59,7 @@ Sesja zakończyła się na tym etapie planowania. Napięcie rosło, a bohaterowi
 * [[Goloron]]: Tytan (syn [[Sydon|Sydona]] i [[Lutheria|Lutherii]])
 * [[Kraken]]: Legendarny morski potwór
 * Żołnierze [[Sydon|Sydona]]: Słudzy boga mórz, wrogowie (pojmali, przesłuchani, a następnie wydani syrenom).
-* [[Thylean Siren|Syreny]]: Mściwe mieszkanki morza (zaatakowały statek [[Sydon|Sydona]], negocjowały z bohaterami, dokonały egzekucji jeńców).
+* [[Syrena z Thylei|Syreny]]: Mściwe mieszkanki morza (zaatakowały statek [[Sydon|Sydona]], negocjowały z bohaterami, dokonały egzekucji jeńców).
 * [[Myrmeki]]: Mrówkopodobni, inteligentni mieszkańcy tajemniczej wyspy.
 * [[Gaius]], [[Argyn]], [[Elasus]], [[Hergeron]]: Wspomniani (informacje wywiadowcze).
 

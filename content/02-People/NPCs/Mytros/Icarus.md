@@ -1,15 +1,6 @@
 ---
 title: Icarus
-tags:
-  - person
-  - npc
-race: Dragon (Silver)
-gender: Male
-occupation: Wierzchowiec Króla
-affiliation: Acastus
-image_prompt:
 ---
-
 # Icarus
 
 ![Placeholder](../../assets/placeholder.png)

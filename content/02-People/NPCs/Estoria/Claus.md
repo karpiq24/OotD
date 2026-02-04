@@ -1,15 +1,6 @@
 ---
 title: Claus
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Rabuś grobów
-affiliation:
-image_prompt: A starved looking man with ragged clothes and dirty hands, desperately holding an emerald necklace, anxious expression, dark fantasy art style.
 ---
-
 # Claus
 
 ![Placeholder](../../../assets/placeholder.png)

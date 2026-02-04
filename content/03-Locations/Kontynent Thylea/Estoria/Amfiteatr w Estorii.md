@@ -1,11 +1,6 @@
 ---
 title: Amfiteatr w Estorii
-tags: [location]
-region: Estoria
-type: Teatr
-population:
 ---
-
 # Amfiteatr w Estorii
 
 ![Placeholder](../../../assets/placeholder.png)

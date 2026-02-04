@@ -1,16 +1,6 @@
 ---
 title: Talos
-tags:
-  - person
-  - npc
-  - construct
-race: Konstrukt (Kolos)
-gender: Mężczyzna
-occupation: Strażnik Arezji
-affiliation: Arezja
-image_prompt:
 ---
-
 # Talos
 
 ![Placeholder](../../assets/placeholder.png)

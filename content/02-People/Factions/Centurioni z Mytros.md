@@ -1,13 +1,6 @@
 ---
 title: Centurioni z Mytros
-tags:
-  - faction
-  - organization
-  - military
-leader: "[[Acastus]]"
-headquarters: "[[Mytros]]"
 ---
-
 # Centurioni z Mytros
 
 ![Placeholder](../../assets/placeholder.png)

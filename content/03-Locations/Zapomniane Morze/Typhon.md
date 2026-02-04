@@ -1,11 +1,6 @@
 ---
 title: Typhon
-tags: [location]
-region: Zapomniane Morze
-type:
-population:
 ---
-
 # Typhon, Paszcza
 
 ![Placeholder](../../assets/placeholder.png)

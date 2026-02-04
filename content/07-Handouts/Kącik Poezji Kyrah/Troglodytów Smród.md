@@ -1,11 +1,6 @@
 ---
 title: Troglodytów Smród
-tags:
-  - handout
-  - note
-type: Pieśń / Wiersz
 ---
-
 # Troglodytów Smród
 
 _Pieśń ze zbioru "Kącik Poezji [[Kyrah]]"_

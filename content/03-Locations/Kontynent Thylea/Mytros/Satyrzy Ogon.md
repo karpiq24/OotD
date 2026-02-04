@@ -1,12 +1,6 @@
 ---
 title: Satyrzy Ogon
-tags:
-  - location
-  - tavern
-  - mytros
-image_prompt: A crowded, smoky tavern interior filled with sailors, half-orcs, and miscreants. Unpleasant smells, cheap wine.
 ---
-
 # Satyrzy Ogon
 
 ![Placeholder](../../../../assets/placeholder.png)

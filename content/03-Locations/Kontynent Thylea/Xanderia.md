@@ -1,11 +1,6 @@
 ---
 title: Xanderia
-tags: [location]
-region: Kontynent Thylea
-type: Królestwo / Miasto
-population: Osadnicy
 ---
-
 # Xanderia
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,14 +1,6 @@
 ---
 title: Marius
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Wygnaniec
-affiliation: "[[Wyspa Wygnańców]]"
 ---
-
 # Marius
 
 ![Placeholder](../../assets/placeholder.png)

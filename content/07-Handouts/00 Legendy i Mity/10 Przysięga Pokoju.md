@@ -1,11 +1,6 @@
 ---
 title: Przysięga Pokoju
-tags:
-  - handout
-  - legend
-type: Legenda
 ---
-
 # Przysięga Pokoju
 
 _Legenda o powstaniu Przysięgi Pokoju_

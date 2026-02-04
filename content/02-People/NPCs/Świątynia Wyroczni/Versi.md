@@ -1,15 +1,6 @@
 ---
 title: Versi
-tags:
-  - person
-  - npc
-race: Nimfa (Nereida)
-gender: Żeńska
-occupation: Wyrocznia
-affiliation: Niezależna, sprzymierzona ze śmiertelnikami
-image_prompt: A mystical water nymph rising from steaming hot springs in a sun-drenched cave, surrounded by ancient stone columns and vaporous fumes.
 ---
-
 # Versi (Wyrocznia)
 
 ![Placeholder](../../assets/placeholder.png)

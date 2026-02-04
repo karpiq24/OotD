@@ -1,15 +1,6 @@
 ---
 title: Hippolyta
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Amazonka
-affiliation: Amazonki
-image_prompt:
 ---
-
 # Hippolyta
 
 ![Placeholder](../../assets/placeholder.png)

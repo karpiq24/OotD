@@ -1,17 +1,6 @@
 ---
 title: Davos
-tags:
-  - person
-  - npc
-  - undead
-  - dwarf
-race: Dwarf (Undead)
-gender: Male
-occupation: Kwatermistrz Ultrosa
-affiliation: Estor Arkelander, Ultros
-image_prompt:
 ---
-
 # Davos
 
 ![Placeholder](../../../../assets/placeholder.png)

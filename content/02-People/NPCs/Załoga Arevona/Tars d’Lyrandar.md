@@ -1,14 +1,6 @@
 ---
 title: Tars d’Lyrandar
-tags:
-  - person
-  - npc
-race: Półelf
-gender: Mężczyzna
-occupation: Kapitan statku
-affiliation: "[[Arevon Elorrenthi]]"
 ---
-
 # Tars d’Lyrandar
 
 ![Placeholder](../../assets/placeholder.png)

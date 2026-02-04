@@ -1,15 +1,6 @@
 ---
 title: Chaeristis
-tags:
-  - person
-  - npc
-race: Smok (Miedziany)
-gender: Żeński
-occupation: Smoczy wierzchowiec
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Chaeristis
 
 ![Placeholder](../../assets/placeholder.png)

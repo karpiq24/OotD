@@ -1,15 +1,6 @@
 ---
 title: Lyssis Arkelander
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Były Król Estorii
-affiliation: "[[Estoria]]"
-image_prompt: A cruel-looking noble with sharp features and cold eyes, wearing outdated but expensive silken garments from a bygone era, digital fantasy art style.
 ---
-
 # Lyssis Arkelander
 
 ![Placeholder](../../assets/placeholder.png)

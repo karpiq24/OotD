@@ -1,11 +1,6 @@
 ---
 title: Narodziny Tytanów
-tags:
-  - handout
-  - legend
-type: Legenda
 ---
-
 # Narodziny Tytanów
 
 Na początku wyspy [[Kontynent Thylea|Thylei]] były zamieszkane jedynie przez nieszkodliwe rośliny i łagodne zwierzęta – flora i fauna stanowiły odbicie opiekuńczego ducha Bogini Matki, która poświęciła się, by je stworzyć. Ten dziewiczy raj, Zapomniany Ląd, był chroniony przed niebezpieczeństwami i złem świata zewnętrznego przez giganta [[Kentimane|Kentimane'a Stu Rękiego]] – kochanka i obrońcę Thylei. Byli zadowoleni.

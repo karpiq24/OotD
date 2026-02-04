@@ -1,11 +1,6 @@
 ---
 title: Stygijska Mewa
-tags:
-  - monster
-  - beast
-image_prompt: A pale, ghostly seagull with empty eyes, ominous atmosphere, fantasy art style.
 ---
-
 # Stygijska Mewa (Stygian Gull)
 
 ![Placeholder](../../assets/placeholder.png)

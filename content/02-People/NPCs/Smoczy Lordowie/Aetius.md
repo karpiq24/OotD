@@ -1,15 +1,6 @@
 ---
 title: Aetius
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Przyjaciel i Powiernik Xandera
-affiliation: Xander Huorath
-image_prompt:
 ---
-
 # Aetius
 
 ![Placeholder](../../assets/placeholder.png)

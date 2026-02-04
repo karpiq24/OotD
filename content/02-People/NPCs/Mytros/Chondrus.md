@@ -1,15 +1,6 @@
 ---
 title: Chondrus
-tags:
-  - person
-  - npc
-race: Tiefling
-gender: Male
-occupation: Doradca Króla
-affiliation: [[Mytros]], [[Acastus]], [[Kult Lutherii]], [[Gaius]]
-image_prompt: A blue-skinned tiefling in black robes, whispering into a king's ear, manipulative smile, fantasy art style.
 ---
-
 # Chondrus
 
 ![Placeholder](../../assets/placeholder.png)

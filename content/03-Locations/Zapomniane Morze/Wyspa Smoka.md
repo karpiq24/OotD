@@ -1,11 +1,6 @@
 ---
 title: Wyspa Smoka
-tags: [location]
-region: Zapomniane Morze
-type:
-population:
 ---
-
 # Wyspa Smoka
 
 ![Konfrontacja ze smoczycą](../../assets/sessions/064/064_party.png)

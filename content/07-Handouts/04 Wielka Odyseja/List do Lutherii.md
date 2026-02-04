@@ -1,11 +1,6 @@
 ---
 title: List do Lutherii
-tags:
-  - handout
-  - letter
-type: List
 ---
-
 # List do Lutherii
 
 _Tajemniczy list adresowany do Lutherii, Pani Śmierci._

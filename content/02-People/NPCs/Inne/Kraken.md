@@ -1,13 +1,6 @@
 ---
 title: Kraken
-tags: [person, npc, monster]
-race: Potwór
-gender:
-occupation: Postrach Mórz
-affiliation:
-image_prompt:
 ---
-
 # Kraken
 
 ![Kraken](../../assets/placeholder.png)

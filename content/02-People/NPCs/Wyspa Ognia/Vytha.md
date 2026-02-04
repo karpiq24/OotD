@@ -1,15 +1,6 @@
 ---
 title: Vytha
-tags:
-  - person
-  - npc
-race: Jaszczuroludź
-gender: Kobieta
-occupation: Królowa
-affiliation: [[Łamacze Fal]]
-image_prompt:
 ---
-
 # Vytha
 
 ![Placeholder](../../../../assets/placeholder.png)

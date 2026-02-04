@@ -1,15 +1,6 @@
 ---
 title: Chalcia
-tags:
-  - person
-  - npc
-race: Tytan (Empyrean)
-gender: Female
-occupation:
-affiliation: Sydon, Lutheria, Dzieci Tytanów
-image_prompt: A cunning Titan woman with a mischievous smile, observing intently, fantasy art style.
 ---
-
 # Chalcia
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,8 +1,5 @@
 ---
 title: Nightshade Whisper
-tags: [item, plant]
-type: Roślina
-cost: -
 ---
 # Nightshade Whisper
 

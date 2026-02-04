@@ -1,15 +1,6 @@
 ---
 title: Tarchon
-tags:
-  - person
-  - npc
-race: Centaur
-gender: Male
-occupation: Centurion
-affiliation: Mytros, King Acastus, Smoczy Lordowie Acastusa
-image_prompt:
 ---
-
 # Tarchon
 
 ![Placeholder](../../assets/placeholder.png)

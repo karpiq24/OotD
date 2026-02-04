@@ -1,15 +1,6 @@
 ---
 title: Focabe
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Amazonka
-affiliation: Amazonki (Lwice)
-image_prompt:
 ---
-
 # Focabe
 
 ![Placeholder](../../assets/placeholder.png)

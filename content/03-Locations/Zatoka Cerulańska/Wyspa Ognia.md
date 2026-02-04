@@ -1,11 +1,6 @@
 ---
 title: Wyspa Ognia
-tags: [location, island]
-region: Zatoka Cerulańska
-type: Wyspa
-population:
 ---
-
 # Wyspa Ognia
 
 ![Wyspa Ognia](../../../assets/placeholder.png)

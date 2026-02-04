@@ -1,12 +1,6 @@
 ---
 title: Myrmeki
-tags:
-  - faction
-  - lore
-leader: []
-headquarters: []
 ---
-
 # Myrmeki
 
 ![Placeholder](../../assets/placeholder.png)

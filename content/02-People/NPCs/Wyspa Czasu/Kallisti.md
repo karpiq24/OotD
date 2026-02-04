@@ -1,15 +1,6 @@
 ---
 title: Kallisti
-tags:
-  - person
-  - npc
-race: Gynosphinx
-gender: Female
-occupation: Strażniczka Wiedzy
-affiliation: Wyspa Czasu
-image_prompt:
 ---
-
 # Kallisti
 
 ![Placeholder](../../assets/placeholder.png)

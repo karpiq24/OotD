@@ -1,15 +1,6 @@
 ---
 title: Hileas
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: męska
-occupation: Dowódca wojskowy
-affiliation: Mytros
-image_prompt:
 ---
-
 # Hileas
 
 ![Placeholder](../../../assets/placeholder.png)

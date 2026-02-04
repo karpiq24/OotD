@@ -1,15 +1,6 @@
 ---
 title: Leah
-tags:
-  - person
-  - npc
-race: Medusa
-gender: Kobieta
-occupation: Spiskowczyni
-affiliation: Amazonki, Moxena
-image_prompt:
 ---
-
 # Leah
 
 ![Leah](../../../assets/sessions/035/leah.webp)

@@ -1,7 +1,6 @@
 ---
 title: 02 Wielkie Pace
 ---
-
 # 02 Wielkie Pace
 
 - [[Koszmar 2]]

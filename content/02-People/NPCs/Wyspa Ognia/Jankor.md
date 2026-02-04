@@ -1,15 +1,6 @@
 ---
 title: Jankor
-tags:
-  - person
-  - npc
-race: Jaszczuroludź
-gender: Mężczyzna
-occupation: Król
-affiliation: "[[Chodzący w Ogniu]], [[Sydon]]"
-image_prompt:
 ---
-
 # Jankor
 
 ![Placeholder](../../../../assets/placeholder.png)

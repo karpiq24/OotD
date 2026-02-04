@@ -1,15 +1,6 @@
 ---
 title: Arystonar
-tags:
-  - person
-  - npc
-race: Smok (Brązowy)
-gender: Męski (?)
-occupation: Smoczy wierzchowiec
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Arystonar
 
 ![Placeholder](../../assets/placeholder.png)

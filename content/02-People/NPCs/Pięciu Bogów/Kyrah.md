@@ -1,21 +1,11 @@
 ---
 title: Kyrah
-tags:
-  - person
-  - npc
-  - god
-race: Bóg
-gender: Żeńska
-occupation: Jeden z Pięciu Bogów, Muza, Bogini Muzyki i Podstępu
-affiliation: Pięciu Bogów
-image_prompt: A beautiful goddess with long flowing hair, wearing shimmering Greek-style robes, holding a golden lyre. She has a mischievous twinkle in her eye.
 ---
-
 # Kyrah
 
 ![Placeholder](../../assets/placeholder.png)
 
-_Jeden z [[The Powers of Thylea#Pięciu Bogów|Pięciu Bogów]] Thylei, Bogini Muzyki i Podstępu, znana jako Muza._
+_Jeden z [[Moce Thylei#Pięciu Bogów|Pięciu Bogów]] Thylei, Bogini Muzyki i Podstępu, znana jako Muza._
 
 ## Opis
 Kyrah jest najmłodszą z Pięciu Bogów. Często podróżuje po Thylei w przebraniu, szukając natchnienia i wchodząc w interakcje ze śmiertelnikami w sposób bardziej bezpośredni niż inni bogowie. Słynie ze swojego pięknego głosu, gry na lirze oraz zamiłowania do płatania psikusów.
@@ -28,7 +18,7 @@ Kyrah ucieleśnia kreatywność, wolność i radość życia. Jest postrzegana j
 ## Wcielenia i Alter Ego
 Kyrah często przyjmuje różne tożsamości, by podróżować wśród mieszkańców Thylei:
 
-- **Notos (Letni Wiatr)**: Tożsamość [[Thylean Nymph|nimfy]], którą Kyrah przyjęła, by założyć grupę [[Cztery Wiatry]]. Pod tą postacią szerzyła pokój i poezję w rejonie [[Zatoka Cerulańska|Zatoki Cerulańskiej]].
+- **Notos (Letni Wiatr)**: Tożsamość [[Nimfa z Thylei|nimfy]], którą Kyrah przyjęła, by założyć grupę [[Cztery Wiatry]]. Pod tą postacią szerzyła pokój i poezję w rejonie [[Zatoka Cerulańska|Zatoki Cerulańskiej]].
 - **Wędrowny Bard**: Często spotykana na drogach Thylei jako zwykła artystka, inspirująca innych do tworzenia muzyki.
 
 ## Historia

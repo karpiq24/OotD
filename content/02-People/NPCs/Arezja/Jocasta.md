@@ -1,15 +1,6 @@
 ---
 title: Jocasta
-tags:
-  - person
-  - npc
-race: Elf
-gender: Kobieta
-occupation: Karczmarka
-affiliation: Arezja, Czerwony Lotos
-image_prompt:
 ---
-
 # Jocasta
 
 ![Jocasta](../../../assets/sessions/062/062_Jocasta.png)
