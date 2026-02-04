@@ -113,3 +113,6 @@ Za kolejnymi drzwiami, drużyna ujrzała dwa gigantyczne Czerwie (Purple Worms) 
 * Krew tysiąca bazyliszków
 * Rękawica Versira
 * Sfera Annihilacji
+
+## Filmy
+![Recap](../assets/sessions/065/065_recap.mp4)

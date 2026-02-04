@@ -64,3 +64,6 @@ Gdy opuszczali świątynię, prowadząc [[Tars d’Lyrandar|Tarsa]], Hooobert, s
 * [[List od Gaiusa do Sydona]]
 * Pozłacana skrzynia
 * Olbrzymi szafir: Cenny klejnot znaleziony w komnatach [[Gaius|Gaiusa]], prawdopodobnie przeznaczony dla jego smoczycy.
+
+## Filmy
+![Rampage](../assets/sessions/052/052_rampage.mp4)

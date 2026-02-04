@@ -81,3 +81,8 @@ Niepewni, co przyniesie im nowa pętla czasowa, bohaterowie udali się następni
 * Księga o piwie (zdobyta przez Orestesa)
 * Pistolet Glock 17 (wymieniony przez Felicjana)
 * Wojenny róg (zdobyty przez Felicjana)
+
+## Filmy
+![Glock](../assets/sessions/058/058_glock.mp4)
+![Orestes](../assets/sessions/058/058_orestes.mp4)
+![Temporal](../assets/sessions/058/058_temporal.mp4)

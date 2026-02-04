@@ -21,11 +21,16 @@ This workflow guides the agent through manually processing a single session reca
     -   Identify the Date.
 
 3.  **Handle Assets (Images/Videos)**:
-    -   **Scan**: Look for image links `![Alt](path/to/image)` and video mentions.
-    -   **Prepare Directory**: Create a directory: `content/assets/sessions/<000>/` (using 3 digit session number).
-    -   **Move Assets**: Move the actual image/video files from `input/...` to the new directory.
-    -   **Update Links**: Update the markdown in the session file to point to the new location relative to `content/01-Sessions/`.
-        -   *Path*: `../assets/sessions/<000>/image.png`
+    -   **Images**:
+        -   **Scan**: Look for image links `![Alt](path/to/image)`.
+        -   **Prepare Directory**: Create a directory: `content/assets/sessions/<000>/` (using 3 digit session number).
+        -   **Move images**: Move the actual image files from `input/...` to the new directory.
+        -   **Update Links**: Update the markdown in the session file to point to the new location relative to `content/01-Sessions/`.
+            -   *Path*: `../assets/sessions/<000>/image.png`
+    -   **Videos**:
+        -   **Scan Input**: Check `input/06 Session Recaps/videos/` for any `.mp4` files matching the session number (e.g., `067_*.mp4`).
+        -   **Move Videos**: Move them to the same session asset directory (`content/assets/sessions/<000>/`).
+        -   **Link in Recap**: Append a section `## Filmy` at the very end of the session recap and add links: `![Title](../assets/sessions/<000>/video.mp4)`.
 
 4.  **Research & Entity Linking Loop**:
     -   **Constraint**: Do NOT change the narrative text of the summary, only add wikilinks.

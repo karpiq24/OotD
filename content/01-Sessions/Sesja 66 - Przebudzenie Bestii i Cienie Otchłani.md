@@ -93,3 +93,6 @@ Niedługo potem do burty Ultrosa zbliżyła się niewielka łódź wiosłowa. Ko
 ## Przedmioty
 - Sfera Anihilacji
 - Kosa Lutherii
+
+## Filmy
+![Estor Recap](../assets/sessions/066/066_estor.mp4)
