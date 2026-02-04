@@ -1,7 +1,6 @@
 ---
 title: Ophea
 ---
-# Ophea
 
 ![Placeholder](../../../assets/placeholder.png)
 

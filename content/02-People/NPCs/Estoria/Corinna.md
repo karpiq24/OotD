@@ -1,7 +1,6 @@
 ---
 title: Corinna
 ---
-# Corinna
 
 ![Placeholder](../../../assets/placeholder.png)
 

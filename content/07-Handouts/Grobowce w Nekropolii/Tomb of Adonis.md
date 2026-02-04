@@ -1,7 +1,7 @@
 ---
 title: Tomb of Adonis
 ---
-# Tomb of Adonis
+
 > **[[Adonis Neurdagon|ADONIS NEURDAGON]]**
 > 
 > **ZAPRZYSIĘŻONY [[Raspytrion|RASPYTRIONA]]**

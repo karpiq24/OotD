@@ -1,7 +1,6 @@
 ---
 title: Pałac Królewski w Arezji
 ---
-# Pałac Królewski w Arezji
 
 ![Placeholder](../../../assets/placeholder.png)
 

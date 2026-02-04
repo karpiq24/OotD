@@ -1,7 +1,7 @@
 ---
 title: Epickie Ścieżki
 ---
-# Epickie Ścieżki
+
 Epickie ścieżki to mityczne archetypy bohaterów, wiążące ich losy z historią Thylei.
 
 ## The Cursed One (Przeklęty)

@@ -1,7 +1,6 @@
 ---
 title: Chalcodon
 ---
-# Chalcodon
 
 ![Placeholder](../../../assets/placeholder.png)
 

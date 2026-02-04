@@ -1,7 +1,6 @@
 ---
 title: Euria
 ---
-# Euria
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Czerwony Lotos
 ---
-# Czerwony Lotos
 
 ![Placeholder](../../../assets/placeholder.png)
 

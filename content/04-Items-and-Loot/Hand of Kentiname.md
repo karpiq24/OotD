@@ -1,7 +1,6 @@
 ---
 title: Hand of Kentiname
 ---
-# Hand of Kentiname
 
 ![Placeholder](../assets/placeholder.png)
 

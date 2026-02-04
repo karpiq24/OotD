@@ -1,7 +1,6 @@
 ---
 title: Julius
 ---
-# Julius
 
 ![Placeholder](../../../assets/placeholder.png)
 

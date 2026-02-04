@@ -1,7 +1,6 @@
 ---
 title: Wizja z Rogu Balmytrii
 ---
-# Wizja z Rogu Balmytrii
 
 _Krótka, niepokojąca wizja statku z załogą nieumarłych_
 

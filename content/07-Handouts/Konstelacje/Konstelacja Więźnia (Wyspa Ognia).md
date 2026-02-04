@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Więźnia (Wyspa Ognia)
 ---
-# Konstelacja Więźnia (Wyspa Ognia)
 
 _Mit o konstelacji Więźnia, związany z bogiem Narsusem_
 

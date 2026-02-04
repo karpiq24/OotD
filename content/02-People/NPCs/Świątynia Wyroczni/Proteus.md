@@ -1,7 +1,6 @@
 ---
 title: Proteus
 ---
-# Proteus
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Nephele
 ---
-# Nephele
 
 ![Placeholder](../../../assets/placeholder.png)
 

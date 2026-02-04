@@ -1,7 +1,6 @@
 ---
 title: Wyspa Smoka
 ---
-# Wyspa Smoka
 
 ![Konfrontacja ze smoczycą](../../assets/sessions/064/064_party.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Delfin
 ---
-# Delfin
 
 ![Delfin](../../../assets/sessions/043/043_dolphin.jpg)
 

@@ -1,7 +1,6 @@
 ---
 title: Lakan
 ---
-# Lakan
 
 ![Placeholder](../../../assets/placeholder.png)
 

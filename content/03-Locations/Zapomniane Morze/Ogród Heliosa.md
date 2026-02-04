@@ -1,7 +1,6 @@
 ---
 title: Ogród Heliosa
 ---
-# Ogród Heliosa
 
 ![Placeholder](../../assets/placeholder.png)
 

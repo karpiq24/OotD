@@ -1,7 +1,6 @@
 ---
 title: Dzielnica Szlachecka
 ---
-# Dzielnica Szlachecka
 
 ![Placeholder](../../../assets/placeholder.png)
 

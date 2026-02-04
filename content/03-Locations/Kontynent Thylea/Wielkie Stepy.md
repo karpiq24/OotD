@@ -1,7 +1,6 @@
 ---
 title: Wielkie Stepy
 ---
-# Wielkie Stepy
 
 ![Placeholder](../../assets/placeholder.png)
 

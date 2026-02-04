@@ -1,7 +1,6 @@
 ---
 title: Woodhike
 ---
-# Woodhike
 
 ![Placeholder](../../assets/placeholder.png)
 

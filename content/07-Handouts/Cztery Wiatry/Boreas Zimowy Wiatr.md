@@ -1,7 +1,6 @@
 ---
 title: Boreas Zimowy Wiatr
 ---
-# Boreas Zimowy Wiatr
 
 _Opowieść [[Boreas|Boreasa]], Zimowego Wiatru_
 

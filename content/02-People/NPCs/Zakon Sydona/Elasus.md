@@ -1,7 +1,6 @@
 ---
 title: Elasus
 ---
-# Elasus
 
 ![Placeholder](../../../assets/placeholder.png)
 

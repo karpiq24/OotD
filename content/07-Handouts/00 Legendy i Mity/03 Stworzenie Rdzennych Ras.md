@@ -1,7 +1,6 @@
 ---
 title: Stworzenie Rdzennych Ras
 ---
-# Stworzenie Rdzennych Ras
 
 Przez eony ośmioro dzieci [[Thylea|Thylei]] i [[Kentimane|Kentimane'a]] wiodło spokojne i satysfakcjonujące życie, chronione na wyspach zrodzonych z ciała ich matki. Jednak z czasem zadowolenie przerodziło się w samotność. Byli bogami, ale nie mieli żadnego celu.
 

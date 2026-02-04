@@ -1,7 +1,6 @@
 ---
 title: Pałac Królewski w Mytros
 ---
-# Pałac Królewski w Mytros
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Topór Xandera
 ---
-# Topór Xandera
 
 ![Placeholder](../assets/placeholder.png)
 

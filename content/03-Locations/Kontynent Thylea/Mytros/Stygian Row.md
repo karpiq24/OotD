@@ -1,7 +1,6 @@
 ---
 title: Stygian Row
 ---
-# Stygian Row
 
 ![Placeholder](../../../assets/placeholder.png)
 

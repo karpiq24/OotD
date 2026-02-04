@@ -1,7 +1,6 @@
 ---
 title: Dengran
 ---
-# Dengran
 
 ![Placeholder](../../../assets/placeholder.png)
 

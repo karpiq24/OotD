@@ -1,7 +1,6 @@
 ---
 title: Zorin
 ---
-# Zorin
 
 ![Placeholder](../../../assets/placeholder.png)
 

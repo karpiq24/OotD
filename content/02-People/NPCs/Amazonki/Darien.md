@@ -1,7 +1,6 @@
 ---
 title: Darien
 ---
-# Darien
 
 ![Darien](../../../assets/sessions/032/darien.png)
 

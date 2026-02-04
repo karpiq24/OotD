@@ -1,7 +1,6 @@
 ---
 title: Piekielny Dyrygent
 ---
-# Piekielny Dyrygent
 
 ![Katedra](../../../assets/sessions/060/060_The_Cacophony_of_Penance.png)
 

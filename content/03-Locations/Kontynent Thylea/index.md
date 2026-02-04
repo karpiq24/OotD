@@ -1,10 +1,7 @@
 ---
 title: Kontynent Thylea
 ---
-# Kontynent Thylea
 
-- [[Arezja]]
-- [[Estoria]]
 - [[Grobowiec Xandera]]
 - [[Góra Telamok]]
 - [[Heartlands]]
@@ -14,13 +11,11 @@ title: Kontynent Thylea
 - [[Labirynt w Nekropolii]]
 - [[Martwe Wodospady]]
 - [[Mithralowa Kuźnia]]
-- [[Mytros]]
 - [[Nekropolia w Telamok]]
 - [[Obóz wojskowy Mytros]]
 - [[Półwysep Arezyjski]]
 - [[Rzeka Arkelon]]
 - [[Ręce Kentimane]]
-- [[Stary Las]]
 - [[Stary Las]]
 - [[Wielkie Stepy]]
 - [[Woodhike]]
@@ -28,3 +23,7 @@ title: Kontynent Thylea
 - [[Ścieżka Umarłych]]
 - [[Świątynia Heliosa]]
 - [[Świątynia Wyroczni]]
+- [[03-Locations/Kontynent Thylea/Arezja|Arezja]]
+- [[03-Locations/Kontynent Thylea/Estoria|Estoria]]
+- [[03-Locations/Kontynent Thylea/Mytros|Mytros]]
+- [[03-Locations/Kontynent Thylea/Stary Las|Stary Las]]

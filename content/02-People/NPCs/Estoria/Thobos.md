@@ -1,7 +1,6 @@
 ---
 title: Thobos
 ---
-# Thobos
 
 ![Thobos](../../../assets/sessions/006/006_thobos.webp)
 

@@ -1,7 +1,6 @@
 ---
 title: Loreus
 ---
-# Loreus
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Raspytrion
 ---
-# Raspytrion
 
 ![Placeholder](../../../assets/placeholder.png)
 

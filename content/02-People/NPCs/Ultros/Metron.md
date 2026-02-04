@@ -1,7 +1,6 @@
 ---
 title: Metron
 ---
-# Metron
 
 ![Placeholder](../../../assets/placeholder.png)
 

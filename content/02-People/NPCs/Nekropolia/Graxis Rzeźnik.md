@@ -1,7 +1,6 @@
 ---
 title: Graxis Rzeźnik
 ---
-# Graxis Rzeźnik
 
 ![Graxis](../../../assets/placeholder.png)
 

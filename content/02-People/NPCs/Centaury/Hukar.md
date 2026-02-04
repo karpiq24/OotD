@@ -1,7 +1,6 @@
 ---
 title: Hukar
 ---
-# Hukar
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Inwokacja i Spiski
 ---
-# Inwokacja i Spiski
 
 ## Inwokacja do Muzy
 

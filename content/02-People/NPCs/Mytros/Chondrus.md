@@ -1,7 +1,6 @@
 ---
 title: Chondrus
 ---
-# Chondrus
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Loopywoopy
 ---
-# Loopywoopy
 
 ![Loopywoopy](../../../assets/sessions/042/042_loopywoopy.jpg)
 

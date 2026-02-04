@@ -1,7 +1,6 @@
 ---
 title: Wyspa Wygnańców
 ---
-# Wyspa Wygnańców
 
 ![Placeholder](../../assets/placeholder.png)
 

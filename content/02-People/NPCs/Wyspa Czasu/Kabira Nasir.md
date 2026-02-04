@@ -1,7 +1,6 @@
 ---
 title: Kabira Nasir
 ---
-# Kabira Nasir
 
 ![Placeholder](../../../assets/placeholder.png)
 

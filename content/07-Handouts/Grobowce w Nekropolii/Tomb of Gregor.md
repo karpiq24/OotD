@@ -1,7 +1,7 @@
 ---
 title: Tomb of Gregor
 ---
-# Tomb of Gregor
+
 > **[[Gregor Huorath|GREGOR HUORATH]]**  
 > **ZAPRZYSIĘŻONY [[Hezzebal|HEZZEBALA]]**
 > 

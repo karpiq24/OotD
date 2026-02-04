@@ -1,7 +1,6 @@
 ---
 title: Stary Las
 ---
-# Stary Las
 
 ![Placeholder](../../assets/placeholder.png)
 

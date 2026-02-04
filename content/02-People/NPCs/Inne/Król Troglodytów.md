@@ -1,7 +1,6 @@
 ---
 title: Król Troglodytów
 ---
-# Król Troglodytów
 
 ![Placeholder](../../../assets/placeholder.png)
 

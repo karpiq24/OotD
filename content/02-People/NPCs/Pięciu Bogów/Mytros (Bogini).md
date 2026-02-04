@@ -1,7 +1,6 @@
 ---
 title: Mytros (Bogini)
 ---
-# Mytros (Bogini)
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Notos Letni Wiatr
 ---
-# Notos Letni Wiatr
 
 _Opowieść [[Kyrah|Notos]], Letniego Wiatru (wcielenia [[Kyrah]])_
 

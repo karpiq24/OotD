@@ -1,7 +1,6 @@
 ---
 title: Bullbug
 ---
-# Bullbug
 
 ![Placeholder](../../../assets/placeholder.png)
 

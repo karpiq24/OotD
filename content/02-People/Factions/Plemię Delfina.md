@@ -1,7 +1,6 @@
 ---
 title: Plemię Delfina
 ---
-# Plemię Delfina
 
 ![Delfin](../../../content/assets/sessions/043/043_dolphin.jpg)
 

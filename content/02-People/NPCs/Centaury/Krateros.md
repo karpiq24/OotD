@@ -1,7 +1,6 @@
 ---
 title: Krateros
 ---
-# Krateros
 
 ![Placeholder](../../../assets/placeholder.png)
 

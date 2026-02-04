@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Włóczni
 ---
-# Konstelacja Włóczni
 
 _Mit o konstelacji Włóczni, związany z Galimusem i powstaniem minotaurów_
 

@@ -1,7 +1,6 @@
 ---
 title: Borinn Bystre Oko
 ---
-# Borinn Bystre Oko
 
 ![Borinn Bystre Oko](../../../assets/sessions/043/043_borinn.jpg)
 

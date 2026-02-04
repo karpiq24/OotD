@@ -1,7 +1,6 @@
 ---
 title: Alina Davanos
 ---
-# Alina Davanos
 
 ![Placeholder](../../../assets/placeholder.png)
 

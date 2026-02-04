@@ -1,7 +1,6 @@
 ---
 title: Kopalnia Żelaza
 ---
-# Kopalnia Żelaza
 
 ![Kopalnia](../../assets/sessions/043/043_elementals.jpg)
 

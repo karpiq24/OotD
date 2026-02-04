@@ -1,7 +1,6 @@
 ---
 title: Titansbane
 ---
-# Titansbane
 
 ![Titansbane](../assets/placeholder.png)
 

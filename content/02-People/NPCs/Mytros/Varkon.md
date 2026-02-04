@@ -1,7 +1,6 @@
 ---
 title: Varkon
 ---
-# Varkon
 
 ![Placeholder](../../../assets/placeholder.png)
 

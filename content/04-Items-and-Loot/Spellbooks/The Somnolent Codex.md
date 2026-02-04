@@ -1,7 +1,6 @@
 ---
 title: The Somnolent Codex
 ---
-# The Somnolent Codex
 
 ![Placeholder](../../assets/placeholder.png)
 

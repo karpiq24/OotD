@@ -1,7 +1,6 @@
 ---
-title: Factions
+title: Frakcje
 ---
-# Factions
 
 - [[Amazonki]]
 - [[AWSS|Artyści w Służbie Sydona (AWSS)]]
@@ -25,6 +24,6 @@ title: Factions
 - [[Plemię Wieloryba]]
 - [[Plemię Węgorza]]
 - [[Smoczy Lordowie]]
-- [[Tytani|Tytani (Pierwsi Tytani)]]
+- [[Tytani]]
 - [[Zakon Sydona]]
 - [[Łamacze Fal]]

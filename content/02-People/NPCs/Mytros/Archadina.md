@@ -1,7 +1,6 @@
 ---
 title: Archadina
 ---
-# Archadina
 
 ![Placeholder](../../../assets/placeholder.png)
 

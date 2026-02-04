@@ -1,7 +1,6 @@
 ---
 title: Smocze Kroniki
 ---
-# Smocze Kroniki
 
 _Fragment tomu III „O Utraconych i Przemienionych”, traktujący o zniknięciu czterech wielkich smoków po Pierwszej Wojnie_
 

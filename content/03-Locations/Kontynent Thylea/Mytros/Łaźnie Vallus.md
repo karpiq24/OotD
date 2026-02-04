@@ -1,7 +1,6 @@
 ---
 title: Łaźnie Vallus
 ---
-# Łaźnie Vallus (The Bathhouse of Vallus)
 
 ![Placeholder](../../../assets/placeholder.png)
 

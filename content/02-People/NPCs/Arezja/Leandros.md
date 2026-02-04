@@ -1,7 +1,6 @@
 ---
 title: Leandros
 ---
-# Leandros
 
 ![Leandros](../../../assets/sessions/062/062_Leandros.png)
 

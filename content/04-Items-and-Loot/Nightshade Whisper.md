@@ -1,7 +1,6 @@
 ---
 title: Nightshade Whisper
 ---
-# Nightshade Whisper
 
 _Roślina o słodkawym zapachu. Trująca._
 

@@ -1,7 +1,6 @@
 ---
 title: Smoczy Lordowie
 ---
-# Smoczy Lordowie
 
 ![Smoczy Lordowie](../../assets/placeholder.png)
 

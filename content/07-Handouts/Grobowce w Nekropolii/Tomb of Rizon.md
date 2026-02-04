@@ -1,7 +1,7 @@
 ---
 title: Tomb of Rizon
 ---
-# Tomb of Rizon
+
 > **[[Rizon Phobas|RIZON PHOBAS]]**
 > 
 > **ZAPRZYSIĘŻONA [[Sybolkorax|SYBOLKORAXA]]**

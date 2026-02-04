@@ -1,7 +1,6 @@
 ---
 title: Aster
 ---
-# Aster
 
 ![Placeholder](../../../assets/placeholder.png)
 

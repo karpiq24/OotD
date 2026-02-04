@@ -1,7 +1,6 @@
 ---
 title: Halius
 ---
-# Halius
 
 ![Placeholder](../../../assets/placeholder.png)
 

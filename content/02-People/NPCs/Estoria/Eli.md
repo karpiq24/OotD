@@ -1,7 +1,6 @@
 ---
 title: Eli
 ---
-# Eli
 
 ![Placeholder](../../../assets/placeholder.png)
 

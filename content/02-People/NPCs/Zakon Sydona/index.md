@@ -1,7 +1,6 @@
 ---
 title: Zakon Sydona
 ---
-# Zakon Sydona
 
 - [[Ajax]]
 - [[Argyn]]

@@ -1,7 +1,6 @@
 ---
 title: Telamok Arkelander
 ---
-# Telamok Arkelander
 
 ![Placeholder](../../../assets/placeholder.png)
 

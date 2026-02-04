@@ -1,7 +1,6 @@
 ---
 title: Babcia Morta
 ---
-# Babcia Morta
 
 ![Placeholder](../../../assets/placeholder.png)
 

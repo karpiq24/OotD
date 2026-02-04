@@ -1,7 +1,6 @@
 ---
 title: Hywin
 ---
-# Hywin
 
 ![Placeholder](../../../assets/placeholder.png)
 

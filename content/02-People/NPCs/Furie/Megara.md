@@ -1,7 +1,6 @@
 ---
 title: Megara
 ---
-# Megara
 
 ![Placeholder](../../../assets/placeholder.png)
 

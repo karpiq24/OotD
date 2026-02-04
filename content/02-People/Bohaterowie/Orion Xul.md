@@ -1,7 +1,6 @@
 ---
 title: Orion Xul
 ---
-# Orion Xul
 
 ![Orion](../../assets/Orion.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Goloron Pierwszy
 ---
-# Goloron Pierwszy
 
 ![Placeholder](../../../../assets/placeholder.png)
 

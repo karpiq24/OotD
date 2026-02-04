@@ -1,7 +1,6 @@
 ---
 title: Delphion
 ---
-# Delphion
 
 ![Placeholder](../../../assets/placeholder.png)
 

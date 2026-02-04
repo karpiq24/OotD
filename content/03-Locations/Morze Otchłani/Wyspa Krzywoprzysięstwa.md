@@ -1,7 +1,6 @@
 ---
 title: Wyspa Krzywoprzysięstwa (Oathbreakers)
 ---
-# Wyspa Krzywoprzysięstwa (Oathbreakers)
 
 ![Placeholder](../../assets/placeholder.png)
 

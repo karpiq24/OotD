@@ -1,7 +1,7 @@
 ---
 title: Tomb of Isadore
 ---
-# Tomb of Isadore
+
 > **[[Isadore Huorath|ISADORE HUORATH]]**
 > 
 > Nigdy żadnego nie zdobyłam,  

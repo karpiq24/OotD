@@ -1,7 +1,6 @@
 ---
 title: Hergeron
 ---
-# Hergeron
 
 ![Placeholder](../../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Icarus
 ---
-# Icarus
 
 ![Placeholder](../../../assets/placeholder.png)
 

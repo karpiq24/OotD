@@ -1,7 +1,6 @@
 ---
 title: Anora
 ---
-# Anora
 
 ![Placeholder](../../../assets/placeholder.png)
 

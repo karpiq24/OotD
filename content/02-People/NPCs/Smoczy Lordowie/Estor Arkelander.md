@@ -1,7 +1,6 @@
 ---
 title: Estor Arkelander
 ---
-# Estor Arkelander
 
 ![Placeholder](../../../assets/placeholder.png)
 

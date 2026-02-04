@@ -1,7 +1,6 @@
 ---
 title: Wielkie Ogrody
 ---
-# Wielkie Ogrody (The Great Gardens)
 
 ![Placeholder](../../../assets/placeholder.png)
 

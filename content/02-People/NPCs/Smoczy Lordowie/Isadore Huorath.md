@@ -1,7 +1,6 @@
 ---
 title: Isadore Huorath
 ---
-# Isadore Huorath
 
 ![Placeholder](../../../assets/placeholder.png)
 

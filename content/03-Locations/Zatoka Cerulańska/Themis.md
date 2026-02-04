@@ -1,7 +1,6 @@
 ---
 title: Themis
 ---
-# Themis
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Eustace
 ---
-# Eustace
 
 ![Placeholder](../../../assets/placeholder.png)
 

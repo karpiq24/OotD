@@ -1,7 +1,6 @@
 ---
 title: Sanktuarium
 ---
-# Sanktuarium
 
 ![Placeholder](../../../assets/placeholder.png)
 

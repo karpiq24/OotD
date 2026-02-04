@@ -1,7 +1,6 @@
 ---
 title: Pierwsza Wojna
 ---
-# Pierwsza Wojna (The First War)
 
 **Pierwsza Wojna** to niszczycielski konflikt, który miał miejsce ponad 500 lat temu (ok. 14 DA – 0 CE) i ukształtował obecną Thyleę. Było to starcie między rdzennymi rasami pod wodzą [[Bliźniaczy Tytani|Tytanów]], a przybyłymi osadnikami dowodzonymi przez [[Smoczy Lordowie|Smoczych Lordów]]. Wojna zakończyła się podpisaniem [[Przysięga Pokoju|Przysięgi Pokoju]].
 

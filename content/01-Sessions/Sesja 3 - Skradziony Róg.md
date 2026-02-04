@@ -1,6 +1,3 @@
----
-title: "Sesja 3: Skradziony Róg"
----
 # Sesja 3: Skradziony Róg
 
 **Data:** 29.01.2024

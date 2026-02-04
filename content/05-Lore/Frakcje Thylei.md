@@ -1,7 +1,7 @@
 ---
 title: Frakcje Thylei
 ---
-# Frakcje Thylei
+
 *   **The Temple of the Five (Świątynia Pięciu)**: Rada przedstawicieli dzielnic zbiera się tutaj w każdy nów księżyca. Opozycyjny wobec Zakonu Sydona.
 *   **The Order of Sydon (Zakon Sydona)**: Zeloci czczący tytana oceanu. Szeregi zakonu wypełniają ciężkozbrojni paladyni w lazurowych płaszczach. Pragną zniszczyć Świątynię Pięciu.
 *   **The Cult of the Snake (Kult Węża)**: Gildia złodziei działająca w cieniach Mytros, z siedzibą w akweduktach. Przywódczynią jest Lady of Coins (Pani Monet).

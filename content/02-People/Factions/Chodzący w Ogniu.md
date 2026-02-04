@@ -1,7 +1,6 @@
 ---
 title: Chodzący w Ogniu
 ---
-# Chodzący w Ogniu
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Prawa Thylei
 ---
-# Prawa Thylei
+
 W Thylei przysięgi i gościnność są traktowane ze śmiertelną powagą. Nie są one egzekwowane przez żadnego konkretnego boga czy tytana, lecz są naturalnymi prawami wplecionymi w strukturę świata. Nawet Sydon i Lutheria muszą szanować swoje przysięgi, inaczej poniosą straszliwe konsekwencje.
 
 ## Guest Friendship (Prawo Gościnności)

@@ -1,7 +1,6 @@
 ---
-title: Hexia
+title: Hexia i Ochos
 ---
-# Hexia i Ochos
 
 _Wizja przeszłości doświadczona przez Arevona, ukazująca historię smoczycy Hexii, jej jeźdźca Ochosa Arkelandera oraz niedokończonego miecza Titansbane_
 

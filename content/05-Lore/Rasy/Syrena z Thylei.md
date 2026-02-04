@@ -1,7 +1,7 @@
 ---
 title: Syrena z Thylei
 ---
-# Syrena z Thylei
+
 Syreny to skrzydlate, wodne humanoidy żyjące na skalistych klifach. Słyną z pięknych głosów i pieśni, które mogą porywać słuchaczy.
 
 ## Legend of the Sirens (Legenda Syren)

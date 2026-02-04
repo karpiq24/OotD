@@ -1,7 +1,6 @@
 ---
 title: List do Lutherii
 ---
-# List do Lutherii
 
 _Tajemniczy list adresowany do Lutherii, Pani Śmierci._
 

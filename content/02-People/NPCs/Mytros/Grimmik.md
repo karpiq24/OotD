@@ -1,7 +1,6 @@
 ---
 title: Grimmik
 ---
-# Grimmik
 
 ![Placeholder](../../../assets/placeholder.png)
 

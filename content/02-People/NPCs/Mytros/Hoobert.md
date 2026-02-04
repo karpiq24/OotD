@@ -1,7 +1,6 @@
 ---
 title: Hoobert
 ---
-# Hoobert
 
 ![Placeholder](../../../assets/placeholder.png)
 

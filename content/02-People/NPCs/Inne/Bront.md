@@ -1,7 +1,6 @@
 ---
 title: Bront
 ---
-# Bront
 
 ![Placeholder](../../../assets/placeholder.png)
 

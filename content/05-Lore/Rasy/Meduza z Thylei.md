@@ -1,7 +1,7 @@
 ---
 title: Meduza z Thylei
 ---
-# Meduza z Thylei
+
 Meduzy to humanoidalne istoty, które zawarły pakt z mrocznymi mocami (lub bogami/Mojrami) w zamian za piękno, młodość czy bogactwo. W konsekwencji ich włosy zmieniły się w węże, a spojrzenie zyskało moc petryfikacji. Są pogardzane przez inne rasy i muszą ukrywać swoją tożsamość.
 
 ## Legend of the Medusa (Legenda Meduzy)

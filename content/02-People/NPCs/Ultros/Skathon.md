@@ -1,7 +1,6 @@
 ---
 title: Skathon
 ---
-# Skathon
 
 ![Placeholder](../../../assets/placeholder.png)
 

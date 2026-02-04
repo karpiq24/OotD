@@ -1,7 +1,6 @@
 ---
 title: Syrenie Gniazdo
 ---
-# Syrenie Gniazdo (The Siren's Roost)
 
 ![Placeholder](../../../assets/placeholder.png)
 

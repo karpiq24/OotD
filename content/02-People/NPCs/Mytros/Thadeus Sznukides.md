@@ -1,4 +1,6 @@
-# Thadeus Sznukides
+---
+title: Thadeus Sznukides
+---
 
 ## Opis
 Prowadzący konkurs wiedzy "Enas apo Deka" (Jeden z Dziesięciu).

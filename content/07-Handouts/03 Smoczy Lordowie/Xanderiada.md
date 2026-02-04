@@ -1,7 +1,6 @@
 ---
 title: Xanderiada
 ---
-# Xanderiada
 
 _Epos spisany przez Rizon Phobas, opisujący historię Smoczych Lordów, ich smoki oraz przebieg wojny z Tytanami_
 

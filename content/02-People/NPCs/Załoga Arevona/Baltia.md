@@ -1,7 +1,6 @@
 ---
 title: Baltia
 ---
-# Baltia
 
 ![Placeholder](../../../assets/placeholder.png)
 

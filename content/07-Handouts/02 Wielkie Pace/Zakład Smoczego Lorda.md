@@ -1,7 +1,6 @@
 ---
 title: Zakład Smoczego Lorda
 ---
-# Zakład Smoczego Lorda
 
 **BEEEEEEK!**
 

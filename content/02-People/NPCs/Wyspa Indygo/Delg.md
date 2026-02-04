@@ -1,7 +1,6 @@
 ---
 title: Delg
 ---
-# Delg
 
 ![Delg](../../../assets/sessions/043/043_delg.jpg)
 

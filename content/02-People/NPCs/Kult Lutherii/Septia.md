@@ -1,7 +1,6 @@
 ---
 title: Septia
 ---
-# Septia
 
 ![Placeholder](../../../assets/placeholder.png)
 

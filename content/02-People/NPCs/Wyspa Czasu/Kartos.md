@@ -1,7 +1,6 @@
 ---
 title: Kartos
 ---
-# Kartos
 
 ![Placeholder](../../../assets/placeholder.png)
 

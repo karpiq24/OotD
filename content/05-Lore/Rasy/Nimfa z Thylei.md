@@ -1,7 +1,7 @@
 ---
 title: Nimfa z Thylei
 ---
-# Nimfa z Thylei
+
 Nimfy to duchy fey manifestujące się z piękna żywiołów natury. Istnieją od tysiącleci, przebudzone przez Wielką Matkę (Thylea). Nie są wyłącznie żeńskie, choć słyną z uroku.
 
 ## Legend of the Nymphs (Legenda Nimf)

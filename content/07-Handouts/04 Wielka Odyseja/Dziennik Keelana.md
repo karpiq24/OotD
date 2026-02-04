@@ -1,7 +1,6 @@
 ---
 title: Dziennik Keelana
 ---
-# Dziennik Keelana
 
 _Dziennik odnaleziony na Wyspie Wygnańców, należący do bratobójcy Keelana._
 

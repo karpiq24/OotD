@@ -1,7 +1,6 @@
 ---
 title: Kuźnia Volkana
 ---
-# Kuźnia Volkana
 
 ![Placeholder](../../../assets/placeholder.png)
 

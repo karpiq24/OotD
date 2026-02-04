@@ -1,7 +1,6 @@
 ---
 title: Przysięga Pokoju
 ---
-# Przysięga Pokoju
 
 _Legenda o powstaniu Przysięgi Pokoju_
 

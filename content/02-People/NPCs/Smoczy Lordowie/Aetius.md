@@ -1,7 +1,6 @@
 ---
 title: Aetius
 ---
-# Aetius
 
 ![Placeholder](../../../assets/placeholder.png)
 

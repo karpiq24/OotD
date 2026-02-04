@@ -1,7 +1,6 @@
 ---
 title: Decima
 ---
-# Decima
 
 ![Placeholder](../../../assets/placeholder.png)
 

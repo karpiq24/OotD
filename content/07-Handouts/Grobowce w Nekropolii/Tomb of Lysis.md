@@ -1,7 +1,7 @@
 ---
 title: Tomb of Lysis
 ---
-# Tomb of Lysis
+
 > **[[Lysis Arkelander|LYSIS ARKELANDER]]**
 > 
 > Żołnierzu; nie pytaj czyj to grób,  

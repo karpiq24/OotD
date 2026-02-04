@@ -1,7 +1,6 @@
 ---
 title: Chutliwa argoniańska pokojówka
 ---
-# Chutliwa argoniańska pokojówka
 
 _Fragment komediowej sztuki teatralnej autorstwa Crassiusa Curio_
 

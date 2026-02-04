@@ -1,7 +1,6 @@
 ---
 title: Sybolkorax
 ---
-# Sybolkorax
 
 ![Placeholder](../../../assets/placeholder.png)
 

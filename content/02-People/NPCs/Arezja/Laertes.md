@@ -1,7 +1,6 @@
 ---
 title: Laertes
 ---
-# Laertes
 
 ![Placeholder](../../../assets/placeholder.png)
 

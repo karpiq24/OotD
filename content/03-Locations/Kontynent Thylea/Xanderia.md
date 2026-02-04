@@ -1,7 +1,6 @@
 ---
 title: Xanderia
 ---
-# Xanderia
 
 ![Placeholder](../../assets/placeholder.png)
 

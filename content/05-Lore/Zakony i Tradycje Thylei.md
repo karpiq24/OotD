@@ -1,7 +1,6 @@
 ---
 title: Zakony i Tradycje Thylei
 ---
-# Zakony i Tradycje Thylei
 
 Thylea jest domem dla wielu unikalnych zakonów, szkół filozoficznych i tradycji wojowników.
 

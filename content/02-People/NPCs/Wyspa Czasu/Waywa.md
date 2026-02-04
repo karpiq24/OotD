@@ -1,7 +1,6 @@
 ---
 title: Waywa
 ---
-# Waywa
 
 ![Placeholder](../../../assets/placeholder.png)
 

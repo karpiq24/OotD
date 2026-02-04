@@ -1,7 +1,6 @@
 ---
 title: Morze Otchłani
 ---
-# Morze Otchłani
 
 ![Placeholder](../../assets/placeholder.png)
 

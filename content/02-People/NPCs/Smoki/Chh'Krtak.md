@@ -1,4 +1,6 @@
-# Chh'Krtak
+---
+title: Chh'Krtak
+---
 
 **Rasa:** Mosiężny Smok (bardzo młody)
 **Lokalizacja:** Statek [[Ultros]]

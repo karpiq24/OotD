@@ -1,7 +1,6 @@
 ---
 title: Pożeracz Nadziei
 ---
-# Pożeracz Nadziei
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Tars d’Lyrandar
 ---
-# Tars d’Lyrandar
 
 ![Placeholder](../../../assets/placeholder.png)
 

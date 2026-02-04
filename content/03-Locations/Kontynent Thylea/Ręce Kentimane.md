@@ -1,7 +1,6 @@
 ---
 title: Ręce Kentimane
 ---
-# Ręce Kentimane
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Hiero
 ---
-# Hiero
 
 ![Hiero](../../../assets/sessions/062/062_Hiero.png)
 

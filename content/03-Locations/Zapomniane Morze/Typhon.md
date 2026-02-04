@@ -1,7 +1,6 @@
 ---
 title: Typhon
 ---
-# Typhon, Paszcza
 
 ![Placeholder](../../assets/placeholder.png)
 

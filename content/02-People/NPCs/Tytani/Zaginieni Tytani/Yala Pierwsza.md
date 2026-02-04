@@ -1,7 +1,6 @@
 ---
 title: Yala Pierwsza
 ---
-# Yala Pierwsza
 
 ![Yala](../../../../assets/sessions/061/061_yala.png)
 

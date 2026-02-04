@@ -1,7 +1,6 @@
 ---
 title: Łamacze Fal
 ---
-# Łamacze Fal
 
 ![Placeholder](../../assets/placeholder.png)
 

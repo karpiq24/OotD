@@ -1,7 +1,6 @@
 ---
 title: Przybycie Smoczych Lordów
 ---
-# Przybycie Smoczych Lordów
 
 _Legenda o przybyciu pierwszych osadników i Smoczych Lordów_
 

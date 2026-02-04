@@ -1,7 +1,6 @@
 ---
 title: Amfiteatr w Estorii
 ---
-# Amfiteatr w Estorii
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Nessa
 ---
-# Nessa
 
 ![Placeholder](../../assets/placeholder.png)
 

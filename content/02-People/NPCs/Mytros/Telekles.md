@@ -1,7 +1,6 @@
 ---
 title: Telekles
 ---
-# Telekles
 
 ![Placeholder](../../../assets/placeholder.png)
 

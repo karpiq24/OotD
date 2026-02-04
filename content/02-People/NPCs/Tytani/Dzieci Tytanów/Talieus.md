@@ -1,7 +1,6 @@
 ---
 title: Talieus
 ---
-# Talieus
 
 ![Placeholder](../../../../assets/placeholder.png)
 

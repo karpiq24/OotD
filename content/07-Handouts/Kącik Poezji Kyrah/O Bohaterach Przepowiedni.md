@@ -1,7 +1,6 @@
 ---
 title: Bohaterowie Przepowiedni
 ---
-# Bohaterowie Przepowiedni
 
 _Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_
 

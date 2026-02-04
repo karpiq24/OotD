@@ -1,7 +1,6 @@
 ---
 title: Epikur
 ---
-# Epikur
 
 ![Placeholder](../../../assets/placeholder.png)
 

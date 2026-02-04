@@ -1,7 +1,6 @@
 ---
 title: Targ Minotaurów
 ---
-# Targ Minotaurów (The Minotaur Market)
 
 ![Placeholder](../../../assets/placeholder.png)
 

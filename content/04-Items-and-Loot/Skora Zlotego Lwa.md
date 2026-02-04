@@ -1,7 +1,6 @@
 ---
 title: Skóra Złotego Lwa
 ---
-# Skóra Złotego Lwa
 
 ![Złoty Lew](../assets/placeholder.png)
 

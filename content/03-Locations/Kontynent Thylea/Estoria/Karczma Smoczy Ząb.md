@@ -1,7 +1,6 @@
 ---
 title: Karczma "Smoczy Ząb"
 ---
-# Karczma "Smoczy Ząb"
 
 ![Placeholder](../../../assets/placeholder.png)
 

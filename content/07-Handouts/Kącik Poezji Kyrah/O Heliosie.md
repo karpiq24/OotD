@@ -1,7 +1,6 @@
 ---
 title: Helios
 ---
-# Helios
 
 _Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_
 

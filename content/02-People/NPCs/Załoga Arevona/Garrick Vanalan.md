@@ -1,7 +1,6 @@
 ---
 title: Garrick Vanalan
 ---
-# Garrick Vanalan
 
 ![Placeholder](../../../assets/placeholder.png)
 

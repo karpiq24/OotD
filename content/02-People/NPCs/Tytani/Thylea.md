@@ -1,7 +1,6 @@
 ---
 title: Thylea
 ---
-# Thylea
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Spellbooks
 ---
-# Spellbooks
 
 - [[Grimoire of Dreams]]
 - [[Grimuar Chondrusa]]

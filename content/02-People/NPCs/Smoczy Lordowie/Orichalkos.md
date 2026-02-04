@@ -1,7 +1,6 @@
 ---
 title: Orichalkos
 ---
-# Orichalkos
 
 ![Placeholder](../../../assets/placeholder.png)
 

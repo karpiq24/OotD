@@ -1,7 +1,6 @@
 ---
 title: Labirynt w Nekropolii
 ---
-# Labirynt w Nekropolii
 
 ![Placeholder](../../assets/placeholder.png)
 

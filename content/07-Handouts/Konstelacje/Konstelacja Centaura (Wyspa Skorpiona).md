@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Centaura (Wyspa Skorpiona)
 ---
-# Konstelacja Centaura (Wyspa Skorpiona)
 
 _Mit o konstelacji Centaura i Skorpiona_
 

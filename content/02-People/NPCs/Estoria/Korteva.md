@@ -1,7 +1,6 @@
 ---
 title: Korteva
 ---
-# Korteva
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Mytros
 ---
-# Mytros
 
 ![Mytros](../../../assets/placeholder.png)
 

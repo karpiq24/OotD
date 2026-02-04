@@ -1,7 +1,6 @@
 ---
 title: Focabe
 ---
-# Focabe
 
 ![Placeholder](../../../assets/placeholder.png)
 

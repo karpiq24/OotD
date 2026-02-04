@@ -1,7 +1,6 @@
 ---
-title: Pcs
+title: Bohaterowie
 ---
-# Pcs
 
 - [[Arevon Elorrenthi]]
 - [[Felicjan Janus Twardowski]]

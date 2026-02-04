@@ -1,7 +1,6 @@
 ---
 title: Burnished Dragonlord Coin
 ---
-# Burnished Dragonlord Coin
 
 ![Placeholder](../assets/placeholder.png)
 

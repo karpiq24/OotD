@@ -1,7 +1,6 @@
 ---
 title: Dedal
 ---
-# Dedal
 
 ![Placeholder](../../../assets/placeholder.png)
 

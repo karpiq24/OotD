@@ -1,7 +1,6 @@
 ---
 title: Notatka Tarana
 ---
-# Notatka Tarana
 
 _Notatka od Tarana Neurdagona dotycząca zlecenia na bestię._
 

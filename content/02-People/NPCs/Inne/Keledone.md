@@ -1,7 +1,6 @@
 ---
 title: Keledone
 ---
-# Keledone
 
 ![Placeholder](../../../assets/placeholder.png)
 

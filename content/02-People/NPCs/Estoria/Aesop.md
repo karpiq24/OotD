@@ -1,7 +1,6 @@
 ---
 title: Aesop
 ---
-# Aesop
 
 ![Placeholder](../../../assets/placeholder.png)
 

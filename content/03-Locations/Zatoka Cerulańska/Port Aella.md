@@ -1,7 +1,6 @@
 ---
 title: Port Aella
 ---
-# Port Aella
 
 ![Placeholder](../../assets/placeholder.png)
 

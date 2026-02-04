@@ -1,7 +1,6 @@
 ---
 title: Targ Rybny
 ---
-# Targ Rybny (M17)
 
 ![Placeholder](../../../assets/placeholder.png)
 

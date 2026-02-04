@@ -1,7 +1,6 @@
 ---
 title: Hypnos, Tron Snów
 ---
-# Hypnos, Tron Snów
 
 ![Placeholder](../../assets/placeholder.png)
 

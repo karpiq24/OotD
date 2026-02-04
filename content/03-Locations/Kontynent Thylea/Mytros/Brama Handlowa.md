@@ -1,7 +1,6 @@
 ---
 title: Brama Handlowa
 ---
-# Brama Handlowa (The Commerce Gate)
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Kraken
 ---
-# Kraken
 
 ![Kraken](../../../assets/placeholder.png)
 

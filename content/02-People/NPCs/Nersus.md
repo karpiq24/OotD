@@ -1,7 +1,6 @@
 ---
 title: Kapitan Nersus
 ---
-# Kapitan Nersus
 
 ![Placeholder](../../assets/placeholder.png)
 

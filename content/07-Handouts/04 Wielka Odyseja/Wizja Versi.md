@@ -1,7 +1,6 @@
 ---
 title: Wizja Versi
 ---
-# Wizja Versi
 
 _Wizja dotycząca skażonych smoczych jaj i paktu Mojr z Sydonem_
 

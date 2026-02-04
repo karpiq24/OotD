@@ -1,7 +1,6 @@
 ---
 title: Jasena Ventrak
 ---
-# Jasena Ventrak
 
 ![Placeholder](../../../assets/placeholder.png)
 

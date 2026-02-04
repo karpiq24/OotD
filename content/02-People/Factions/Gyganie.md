@@ -1,7 +1,6 @@
 ---
 title: Gyganie
 ---
-# Gyganie
 
 ![Gyganie](../../assets/placeholder.png)
 

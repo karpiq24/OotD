@@ -1,7 +1,6 @@
 ---
 title: Silenos
 ---
-# Silenos
 
 ![Placeholder](../../../assets/placeholder.png)
 

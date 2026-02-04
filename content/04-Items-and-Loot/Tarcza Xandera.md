@@ -1,7 +1,6 @@
 ---
 title: Tarcza Xandera
 ---
-# Tarcza Xandera
 
 ![Placeholder](../assets/placeholder.png)
 

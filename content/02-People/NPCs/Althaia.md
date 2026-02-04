@@ -1,7 +1,6 @@
 ---
 title: Althaia
 ---
-# Althaia
 
 ![Świątynia i Althaia](../../assets/sessions/049/049_temple.jpg)
 

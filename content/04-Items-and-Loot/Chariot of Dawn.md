@@ -1,7 +1,6 @@
 ---
 title: Chariot of Dawn
 ---
-# Chariot of Dawn (Złoty Rydwan)
 
 ![Placeholder](../assets/placeholder.png)
 

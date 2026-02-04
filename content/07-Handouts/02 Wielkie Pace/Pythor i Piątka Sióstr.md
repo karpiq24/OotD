@@ -1,7 +1,6 @@
 ---
 title: Pythor i Piątka Sióstr
 ---
-# Pythor i Piątka Sióstr
 
 _Streszczenie sztuki teatralnej opisującej romanse boga Pythora i zazdrość jego żony Hexii_
 

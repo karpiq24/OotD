@@ -1,7 +1,6 @@
 ---
 title: Koszmar 2
 ---
-# Koszmar 2
 
 _Mroczna i niepokojąca wizja, prawdopodobnie zesłana przez Lutherię, dotycząca ciężaru wiedzy_
 

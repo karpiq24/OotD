@@ -1,16 +1,6 @@
-title: The Keeper
-tags:
-  - person
-  - npc
-  - fiend
-race: Ultroloth (Fiend)
-gender: Male
-occupation: Zarządca Sześcianu Więziennego
-affiliation: [[Lutheria]] (pracodawca), [[Bohaterowie Przepowiedni]] (układ)
-image_prompt: A levitating fiend with an elongated faceless head, brown skin, cynical attitude, fantasy art style.
 ---
-
-# The Keeper
+title: The Keeper
+---
 
 ![Ultroloth](../../../assets/sessions/066/066_ultroloth.png)
 

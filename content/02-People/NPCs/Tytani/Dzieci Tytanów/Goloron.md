@@ -1,7 +1,6 @@
 ---
 title: Goloron
 ---
-# Goloron
 
 ![Placeholder](../../../../assets/placeholder.png)
 

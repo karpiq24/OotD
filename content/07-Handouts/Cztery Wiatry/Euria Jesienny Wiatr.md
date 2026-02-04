@@ -1,7 +1,6 @@
 ---
 title: Euria Jesienny Wiatr
 ---
-# Euria Jesienny Wiatr
 
 _Opowieść [[Euria|Eurii]], Jesiennego Wiatru_
 

@@ -1,7 +1,6 @@
 ---
 title: Hexia
 ---
-# Hexia
 
 ![Placeholder](../../../assets/placeholder.png)
 

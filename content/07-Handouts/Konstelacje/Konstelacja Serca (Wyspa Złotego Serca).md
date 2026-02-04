@@ -1,7 +1,6 @@
 ---
 title: Konstelacja Serca (Wyspa Złotego Serca)
 ---
-# Konstelacja Serca (Wyspa Złotego Serca)
 
 _Mit o konstelacji Serca, związany z Thyleą i Kentimane_
 

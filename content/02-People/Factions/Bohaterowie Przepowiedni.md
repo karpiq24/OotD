@@ -1,7 +1,6 @@
 ---
 title: Bohaterowie Przepowiedni
 ---
-# Bohaterowie Przepowiedni
 
 ![Placeholder](../../assets/placeholder.png)
 

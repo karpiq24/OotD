@@ -1,7 +1,6 @@
 ---
 title: Orestes
 ---
-# Orestes
 
 ![Orestes](../../assets/Orestes.png)
 

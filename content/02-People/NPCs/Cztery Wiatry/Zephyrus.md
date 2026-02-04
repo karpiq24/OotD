@@ -1,7 +1,6 @@
 ---
 title: Zephyrus
 ---
-# Zephyrus
 
 ![Placeholder](../../../assets/placeholder.png)
 

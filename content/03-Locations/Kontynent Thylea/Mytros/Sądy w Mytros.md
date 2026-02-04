@@ -1,7 +1,6 @@
 ---
 title: Sądy w Mytros
 ---
-# Sądy w Mytros (The Courts of Mytros)
 
 ![Placeholder](../../../assets/placeholder.png)
 

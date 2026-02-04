@@ -1,7 +1,6 @@
 ---
 title: Świątynia Spokoju
 ---
-# Świątynia Spokoju
 
 ![Laertes](../../../assets/sessions/063/063_laertes.png)
 

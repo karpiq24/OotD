@@ -1,7 +1,6 @@
 ---
 title: Martwe Wodospady
 ---
-# Martwe Wodospady
 
 ![Placeholder](../../assets/placeholder.png)
 

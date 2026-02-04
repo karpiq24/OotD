@@ -1,7 +1,6 @@
 ---
 title: Heliope
 ---
-# Heliope
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Świątynia Cieni
 ---
-# Świątynia Cieni
 
 ![Mistrz Cieni](../../../assets/sessions/063/063_shadow.png)
 

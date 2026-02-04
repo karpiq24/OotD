@@ -1,4 +1,6 @@
-# Democedes
+---
+title: Democedes
+---
 
 ## Opis
 Słynny powożący rydwanami, uczestnik Wielkich Igrzysk.

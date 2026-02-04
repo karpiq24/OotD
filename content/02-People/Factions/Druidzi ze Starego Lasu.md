@@ -1,7 +1,6 @@
 ---
 title: Druidzi ze Starego Lasu
 ---
-# Druidzi ze Starego Lasu
 
 ![Placeholder](../../assets/placeholder.png)
 

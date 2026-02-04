@@ -1,7 +1,6 @@
 ---
 title: Obóz Lwicy
 ---
-# Obóz Lwicy
 
 ![Placeholder](../../assets/placeholder.png)
 

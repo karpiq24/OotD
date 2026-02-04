@@ -1,7 +1,7 @@
 ---
 title: Różdżka Absorpcji Wody
 ---
-# Różdżka Absorpcji Wody
+
 ![Placeholder](../assets/placeholder.png)
 
 _Magiczna różdżka wchłaniająca wodę._

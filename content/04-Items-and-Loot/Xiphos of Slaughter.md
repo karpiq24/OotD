@@ -1,7 +1,6 @@
 ---
 title: Xiphos of Slaughter
 ---
-# Xiphos of Slaughter
 
 ![Xiphos of Slaughter](../assets/placeholder.png)
 

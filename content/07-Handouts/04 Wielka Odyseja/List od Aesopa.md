@@ -1,7 +1,6 @@
 ---
 title: List od Aesopa
 ---
-# List od Aesopa
 
 _List od strażnika Smoczej Kaplicy do Bohaterów Przepowiedni._
 

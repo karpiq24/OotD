@@ -1,7 +1,6 @@
 ---
 title: Amazonki
 ---
-# Amazonki
 
 ![Placeholder](../../assets/placeholder.png)
 

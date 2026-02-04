@@ -1,7 +1,6 @@
 ---
 title: Iphis
 ---
-# Iphis
 
 ![Iphis](../../../assets/sessions/033/iphis.png)
 

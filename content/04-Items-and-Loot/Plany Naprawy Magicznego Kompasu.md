@@ -1,7 +1,6 @@
 ---
 title: Plany Naprawy Magicznego Kompasu
 ---
-# Plany Naprawy Magicznego Kompasu
 
 ![Placeholder](../assets/placeholder.png)
 

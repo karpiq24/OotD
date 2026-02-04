@@ -1,7 +1,6 @@
 ---
 title: Aella
 ---
-# Aella
 
 ![Placeholder](../../../assets/placeholder.png)
 

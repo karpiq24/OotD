@@ -1,7 +1,6 @@
 ---
 title: Items And Loot
 ---
-# Items And Loot
 
 - [[Antikythera]]
 - [[Breastplate of Xander]]
@@ -15,7 +14,6 @@ title: Items And Loot
 - [[Kaduceusz Damona]]
 - [[Korona Smoczych Lordów]]
 - [[Kostur Gromów i Błyskawic]]
-- [[Materials]]
 - [[Mosiężna Misa]]
 - [[Młot Pythora]]
 - [[Nightshade Whisper]]
@@ -27,7 +25,6 @@ title: Items And Loot
 - [[Skarby Smoczych Lordów]]
 - [[Skora Zlotego Lwa|Skóra Złotego Lwa]]
 - [[Smoczy Talizman]]
-- [[Spellbooks]]
 - [[Słoneczny Granat]]
 - [[Tarcza Xandera]]
 - [[Titansbane]]
@@ -36,3 +33,4 @@ title: Items And Loot
 - [[Xiphos of Slaughter]]
 - [[Zguba Tytanów|Zguba Tytanów (Titansbane)]]
 - [[Zlote Owoce|Złote Owoce]]
+- [[04-Items-and-Loot/Spellbooks|Spellbooks]]

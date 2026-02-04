@@ -1,7 +1,6 @@
 ---
 title: Heartlands
 ---
-# Heartlands
 
 ![Placeholder](../../assets/placeholder.png)
 

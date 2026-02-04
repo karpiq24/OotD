@@ -1,7 +1,6 @@
 ---
 title: Obóz wojskowy Mytros
 ---
-# Obóz wojskowy Mytros
 
 ![Placeholder](../../assets/placeholder.png)
 

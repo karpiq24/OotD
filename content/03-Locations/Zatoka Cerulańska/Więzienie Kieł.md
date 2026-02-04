@@ -1,7 +1,6 @@
 ---
 title: Więzienie Kieł
 ---
-# Więzienie Kieł
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Tomb of Dorion
 ---
-# Tomb of Dorion
+
 > **[[Dorion Neurdagon|DORION NEURDAGON]]**
 > 
 > Ostatni z wielkiego rodu.

@@ -1,7 +1,6 @@
 ---
 title: Smoczy Lordowie
 ---
-# Smoczy Lordowie
 
 - [[Adonis Neurdagon]]
 - [[Aetius]]

@@ -1,7 +1,6 @@
 ---
 title: Skarby Smoczych Lordów
 ---
-# Skarby Smoczych Lordów
 
 ![Loot](../assets/sessions/067/067_loot_gathering.png)
 

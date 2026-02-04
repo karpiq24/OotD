@@ -1,7 +1,6 @@
 ---
 title: Chaeristis
 ---
-# Chaeristis
 
 ![Placeholder](../../../assets/placeholder.png)
 

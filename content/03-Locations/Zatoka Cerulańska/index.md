@@ -1,7 +1,6 @@
 ---
 title: Zatoka Cerulańska
 ---
-# Zatoka Cerulańska
 
 - [[Drzewo Serca]]
 - [[Kaplica Płodności]]

@@ -1,7 +1,6 @@
 ---
 title: Góra Telamok
 ---
-# Góra Telamok
 
 ![Placeholder](../../assets/placeholder.png)
 

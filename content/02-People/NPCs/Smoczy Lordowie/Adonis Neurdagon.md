@@ -1,7 +1,6 @@
 ---
 title: Adonis Neurdagon
 ---
-# Adonis Neurdagon
 
 ![Placeholder](../../../assets/placeholder.png)
 

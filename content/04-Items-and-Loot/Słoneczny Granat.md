@@ -1,7 +1,6 @@
 ---
 title: Słoneczny Granat
 ---
-# Słoneczny Granat
 
 ![Placeholder](../assets/placeholder.png)
 

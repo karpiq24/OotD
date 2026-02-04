@@ -1,7 +1,6 @@
 ---
 title: Merfolki
 ---
-# Merfolki
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Tomb of Telamok
 ---
-# Tomb of Telamok
+
 > **[[Telamok Arkelander|TELAMOK ARKELANDER]]**
 > 
 > **ZAPRZYSIĘŻONY [[Tysophale|TYSOPHALE]]**

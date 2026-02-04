@@ -1,7 +1,6 @@
 ---
 title: Plemię Rekina
 ---
-# Plemię Rekina
 
 ![Placeholder](../../assets/placeholder.png)
 

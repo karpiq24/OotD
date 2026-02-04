@@ -1,7 +1,6 @@
 ---
 title: Ventis
 ---
-# Ventis
 
 ![Ventis](../../../assets/sessions/042/042_dragon.jpg)
 

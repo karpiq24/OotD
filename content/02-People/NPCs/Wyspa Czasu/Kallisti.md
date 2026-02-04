@@ -1,7 +1,6 @@
 ---
 title: Kallisti
 ---
-# Kallisti
 
 ![Placeholder](../../../assets/placeholder.png)
 

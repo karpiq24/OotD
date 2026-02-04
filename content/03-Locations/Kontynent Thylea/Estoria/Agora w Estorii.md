@@ -1,7 +1,6 @@
 ---
 title: Agora w Estorii
 ---
-# Agora w Estorii
 
 ![Placeholder](../../../assets/placeholder.png)
 

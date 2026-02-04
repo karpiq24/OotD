@@ -1,7 +1,6 @@
 ---
 title: Skarbiec Thylei
 ---
-# Skarbiec Thylei (The Vault of Thylea)
 
 ![Placeholder](../../../assets/placeholder.png)
 

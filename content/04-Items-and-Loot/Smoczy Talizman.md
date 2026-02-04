@@ -1,7 +1,6 @@
 ---
 title: Smoczy Talizman
 ---
-# Smoczy Talizman
 
 ![Placeholder](../assets/placeholder.png)
 

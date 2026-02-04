@@ -1,7 +1,6 @@
 ---
 title: Tyrone
 ---
-# Tyrone
 
 ![Tyrone](../../../assets/sessions/045/045_tyrone.jpg)
 

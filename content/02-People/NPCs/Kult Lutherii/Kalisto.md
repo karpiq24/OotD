@@ -1,7 +1,6 @@
 ---
 title: Kalisto
 ---
-# Kalisto
 
 ![Kalisto](../../../assets/sessions/066/066_kalisto.png)
 

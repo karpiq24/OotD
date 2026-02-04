@@ -1,7 +1,6 @@
 ---
 title: Greciosa
 ---
-# Greciosa
 
 ![Placeholder](../../../assets/placeholder.png)
 

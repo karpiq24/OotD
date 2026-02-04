@@ -1,7 +1,6 @@
 ---
 title: Bilatro
 ---
-# Bilatro
 
 ![Placeholder](../../../assets/placeholder.png)
 

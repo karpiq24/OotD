@@ -1,7 +1,6 @@
 ---
 title: Bella
 ---
-# Bella
 
 ![Placeholder](../../../assets/placeholder.png)
 

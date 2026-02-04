@@ -1,7 +1,6 @@
 ---
 title: Bliźniaczy Tytani
 ---
-# Bliźniaczy Tytani
 
 ![Bliźniaczy Tytani](../../assets/placeholder.png)
 

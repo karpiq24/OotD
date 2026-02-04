@@ -1,7 +1,6 @@
 ---
 title: Wojna Tytanów
 ---
-# Wojna Tytanów
 
 Przez pewien czas dzieci [[Thylea|Thylei]] i [[Kentimane]] żyły razem w pokoju. Jednak [[Lutheria]] i [[Sydon]] nadal knuli.
 

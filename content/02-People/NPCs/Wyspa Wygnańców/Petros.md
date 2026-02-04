@@ -1,7 +1,7 @@
 ---
 title: Petros
 ---
-# Petros
+
 _Były najemnik, sługa [[Cronos|Kronosa]]. Zamordowany._
 
 ## Historia

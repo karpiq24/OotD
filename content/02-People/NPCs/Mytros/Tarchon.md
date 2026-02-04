@@ -1,7 +1,6 @@
 ---
 title: Tarchon
 ---
-# Tarchon
 
 ![Placeholder](../../../assets/placeholder.png)
 

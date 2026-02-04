@@ -1,7 +1,6 @@
 ---
-title: Koszmar o Lutherii
+title: Koszmar Lutherii
 ---
-# Koszmar
 
 _Wizja, która nawiedziła bohaterów_
 

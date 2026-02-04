@@ -1,7 +1,6 @@
 ---
 title: Grimuar Chondrusa
 ---
-# Grimuar Chondrusa
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Myrmeki
 ---
-# Myrmeki
 
 ![Placeholder](../../assets/placeholder.png)
 

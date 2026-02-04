@@ -1,7 +1,6 @@
 ---
 title: Wyspa Mojr
 ---
-# Wyspa Mojr
 
 ![Wyspa Mojr](../../assets/sessions/047/047_island.jpg)
 

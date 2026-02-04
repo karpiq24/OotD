@@ -1,7 +1,6 @@
 ---
 title: Kyrah's Gangsta Rap
 ---
-# Kyrah's Gangsta Rap
 
 _Utwór ze zbioru "Kącik Poezji [[Kyrah]]"_
 

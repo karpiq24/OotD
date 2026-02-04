@@ -1,7 +1,6 @@
 ---
 title: Moxena
 ---
-# Moxena
 
 ![Moxena](../../../assets/sessions/022/022_moxena.jpg)
 

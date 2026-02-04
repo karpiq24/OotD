@@ -1,7 +1,6 @@
 ---
 title: Stygijska Mewa
 ---
-# Stygijska Mewa (Stygian Gull)
 
 ![Placeholder](../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Półwysep Arezyjski
 ---
-# Półwysep Arezyjski
 
 ![Placeholder](../../assets/placeholder.png)
 

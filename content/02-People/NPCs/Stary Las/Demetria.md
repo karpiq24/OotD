@@ -1,7 +1,6 @@
 ---
 title: Demetria
 ---
-# Demetria
 
 ![Demetria](../../../assets/sessions/004/004_demetria.webp)
 

@@ -1,7 +1,6 @@
 ---
 title: Chutliwa Argoniańska Pokojówka
 ---
-# Chutliwa Argoniańska Pokojówka
 
 ![Placeholder](../assets/placeholder.png)
 

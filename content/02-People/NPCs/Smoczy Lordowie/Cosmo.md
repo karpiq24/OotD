@@ -1,7 +1,6 @@
 ---
 title: Cosmo
 ---
-# Cosmo
 
 ![Placeholder](../../../assets/placeholder.png)
 

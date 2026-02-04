@@ -1,7 +1,6 @@
 ---
 title: Społeczeństwo Thylei
 ---
-# Społeczeństwo Thylei
 
 ## Natives and Outsiders (Tubylcy i Przybysze)
 

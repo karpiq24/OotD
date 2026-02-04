@@ -1,7 +1,6 @@
 ---
 title: Ivello Ostren
 ---
-# Ivello Ostren
 
 ![Ivello](../../../assets/sessions/034/ivello.jpg)
 

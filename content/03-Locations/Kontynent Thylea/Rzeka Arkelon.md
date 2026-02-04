@@ -1,7 +1,6 @@
 ---
 title: Rzeka Arkelon
 ---
-# Rzeka Arkelon
 
 ![Placeholder](../../assets/placeholder.png)
 

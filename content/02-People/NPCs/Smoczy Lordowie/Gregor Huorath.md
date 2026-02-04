@@ -1,7 +1,6 @@
 ---
 title: Gregor Huorath
 ---
-# Gregor Huorath
 
 ![Placeholder](../../../assets/placeholder.png)
 

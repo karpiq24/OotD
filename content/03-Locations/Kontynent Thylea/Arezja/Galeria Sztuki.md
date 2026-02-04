@@ -1,7 +1,6 @@
 ---
 title: Galeria Sztuki
 ---
-# Galeria Sztuki
 
 ![Placeholder](../../../assets/placeholder.png)
 

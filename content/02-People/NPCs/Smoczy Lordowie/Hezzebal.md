@@ -1,7 +1,6 @@
 ---
 title: Hezzebal
 ---
-# Hezzebal
 
 ![Placeholder](../../../assets/placeholder.png)
 

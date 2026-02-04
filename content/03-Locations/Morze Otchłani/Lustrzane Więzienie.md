@@ -1,7 +1,6 @@
 ---
 title: Lustrzane Więzienie
 ---
-# Lustrzane Więzienie
 
 ![Krystaliczna Piramida](../../assets/sessions/067/067_pyramid.png)
 

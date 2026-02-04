@@ -1,7 +1,6 @@
 ---
 title: Atreus
 ---
-# Atreus
 
 ![Placeholder](../../../assets/placeholder.png)
 

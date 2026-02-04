@@ -1,7 +1,6 @@
 ---
 title: Heleka
 ---
-# Heleka
 
 ![Placeholder](../../../assets/placeholder.png)
 

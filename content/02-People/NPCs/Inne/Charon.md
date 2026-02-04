@@ -1,7 +1,6 @@
 ---
 title: Charon
 ---
-# Charon
 
 ![Placeholder](../../../assets/placeholder.png)
 

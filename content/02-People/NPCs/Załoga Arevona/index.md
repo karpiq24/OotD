@@ -1,7 +1,6 @@
 ---
 title: Załoga Arevona
 ---
-# Załoga Arevona
 
 - [[Baltia]]
 - [[Garrick Vanalan]]

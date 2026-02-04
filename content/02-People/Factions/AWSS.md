@@ -1,7 +1,6 @@
 ---
 title: Artyści w Służbie Sydona (AWSS)
 ---
-# Artyści w Służbie Sydona (AWSS)
 
 ![Placeholder](../../assets/placeholder.png)
 

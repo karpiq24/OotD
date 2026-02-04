@@ -1,7 +1,6 @@
 ---
 title: Królowa Helena
 ---
-# Królowa Helena
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Kyrah
 ---
-# Kyrah
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Brenna
 ---
-# Brenna
 
 ![Placeholder](../../../assets/placeholder.png)
 

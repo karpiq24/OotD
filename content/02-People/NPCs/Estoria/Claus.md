@@ -1,7 +1,6 @@
 ---
 title: Claus
 ---
-# Claus
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Kolos Pythora
 ---
-# Kolos Pythora
 
 ![Placeholder](../../../assets/placeholder.png)
 

@@ -1,7 +1,6 @@
 ---
 title: Jankas
 ---
-# Jankas
 
 ![Placeholder](../../../assets/placeholder.png)
 

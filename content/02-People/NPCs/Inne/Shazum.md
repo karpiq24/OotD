@@ -1,7 +1,6 @@
 ---
 title: Shazum
 ---
-# Shazum
 
 ![Wielki Żółw](../../../assets/sessions/061/061_turtle.png)
 
