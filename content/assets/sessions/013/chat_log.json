@@ -1,0 +1,1574 @@
+{
+  "data": {
+    "id": "C8cIEg4PlOliBNvX",
+    "title": "Sesja 13",
+    "timestamp": 1715634013776,
+    "description": "",
+    "location": "worlds/odyssey-of-the-dragonlords/chat-archives/C8cIEg4PlOliBNvX.json"
+  },
+  "messages": [
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "type": 4,
+      "whisper": [
+        "7TkVadvHyFgig8tQ"
+      ],
+      "_id": "6euzdOi714MrOxqy",
+      "timestamp": 1715615687117,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408833019
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Sydonowi i Lutherii przyznano pewne prawa do wychwalania poprzez ofiary. Wiele rodzin zosta\u0142o po\u015brednio przez to zniszczonych.\" \u2014 Kyrah, Bogini Muzyki</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "7TkVadvHyFgig8tQ"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408833019
+          }
+        }
+      },
+      "_id": "F2MRQrVOk367n9Ly",
+      "type": 0,
+      "user": "7TkVadvHyFgig8tQ",
+      "timestamp": 1715615687231,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (+2)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (+2)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">4</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 2</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">2</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">2</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "INOEBfXejmTY2eBH",
+        "token": "0NrN7RtI1mpdp5hU",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":2}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":4,\"evaluated\":true}"
+      ],
+      "_id": "CThO05VwpSBDtaM1",
+      "timestamp": 1715615704304,
+      "flavor": "",
+      "whisper": [
+        "7TkVadvHyFgig8tQ"
+      ],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408833019
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Wed\u0142ug plotek b\u00f3g Volkan, podczas przesilenia zimowego roznosi dzieciom zabawki i s\u0142odycze.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "dyGeHOqB0VyeEfTb"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408833019
+          }
+        }
+      },
+      "_id": "XGbnoGtAFrnxOt9m",
+      "type": 0,
+      "user": "dyGeHOqB0VyeEfTb",
+      "timestamp": 1715616167793,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Sz\u00f3stka w siedmiu owoc\u00f3w wyda\u0142a pojedynczego potomka, kt\u00f3re reprezentowa\u0142o r\u00f3\u017cne cechy rodzic\u00f3w: Si\u0142\u0119, Pi\u0119kno, M\u0105dro\u015b\u0107, Rzemios\u0142o, Proroctwo oraz Szybko\u015b\u0107.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "hqyemBL7Lmg9mvzf"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408833019
+          }
+        }
+      },
+      "_id": "JVYDAJCOhkPyhTou",
+      "type": 0,
+      "user": "hqyemBL7Lmg9mvzf",
+      "timestamp": 1715616472912,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>W Cerula\u0144skiej Zatoce mo\u017cna odnale\u017a\u0107 niezliczone ruiny pot\u0119\u017cnego imperium Gygan\u00f3w.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "KilFTJbHStmpbGES"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408833019
+          }
+        }
+      },
+      "_id": "IcmdMsuKzzH0AXLn",
+      "type": 0,
+      "user": "KilFTJbHStmpbGES",
+      "timestamp": 1715616566801,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"History (+4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">History (+4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">9</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">9</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "lwGiXphnp7fpdCd8",
+        "token": "kl7xDEWC8EsHhnZI",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":9}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":13,\"evaluated\":true}"
+      ],
+      "_id": "sv4eRz0Q8ze66blM",
+      "timestamp": 1715618590440,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408831957
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "token": "QT0b39cSQV4u7CfU",
+        "actor": "dtXtZrQFEqYHnwXF",
+        "alias": "The Heroes"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "6",
+      "_id": "HtEGeiLRgwk1o5bj",
+      "timestamp": 1715618953320,
+      "flavor": "",
+      "whisper": [
+        "j6dLpLTM1Hkwhk3U"
+      ],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408759631
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Nature (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Nature (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">15</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">8</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">8</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "87d4tlp6dPhAoYtz",
+        "token": "nZ6T1yeSXlxtuoLK",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":8}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":15,\"evaluated\":true}"
+      ],
+      "_id": "XmlFO6w2mBtiRijs",
+      "timestamp": 1715619289191,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408759330
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Intimidation (+6)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Intimidation (+6)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">18</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 6</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">12</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">12</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "87d4tlp6dPhAoYtz",
+        "token": "uNxNYeOOWbEgvuSK",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":12}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":18,\"evaluated\":true}"
+      ],
+      "_id": "wPvj186MYIgR6LfN",
+      "timestamp": 1715619379937,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408759248
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Greataxe, +1\" width=\"37\" height=\"37\" /><details><summary><a>Greataxe, +1</a></summary><div class=\"beyond20-description\">You have a <span class=\"ct-beyond20-custom-roll\"><strong>+1</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20+1</span></span> bonus to attack and damage rolls made with this magic weapon.</div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 8</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">9</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">9</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Slashing Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">11</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d12 + 5</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d12\">6</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">6</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "87d4tlp6dPhAoYtz",
+        "token": "nZ6T1yeSXlxtuoLK",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 8\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":9}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":17,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d12 + 5\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":12,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":6}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":11,\"evaluated\":true}"
+      ],
+      "_id": "c2tceBdByYCqUbxR",
+      "timestamp": 1715619485930,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408759153
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Survival (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Survival (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">23</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">16</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">16</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "87d4tlp6dPhAoYtz",
+        "token": "8VutXd8jU3jmumxc",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":16}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":23,\"evaluated\":true}"
+      ],
+      "_id": "ogJBU3A8kaEX5W3x",
+      "timestamp": 1715619575326,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408759073
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Ze wszystkich cyklop\u00f3w najbardziej nienawidz\u0119 blemys\u00f3w. Nie pope\u0142niaj b\u0142\u0119du i nie wsp\u00f3\u0142czuj im. To tylko sprawia, \u017ce w\u015bciekaj\u0105 si\u0119 jeszcze bardziej.\" \u2014 Chondrus, kap\u0142an Lutherii</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "3PuWTvDyoejRW8p4"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408758486
+          }
+        }
+      },
+      "_id": "RzlLQwc27lX62NCK",
+      "type": 0,
+      "user": "3PuWTvDyoejRW8p4",
+      "timestamp": 1715620229564,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Nature (+2)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Nature (+2)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 2</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">11</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">11</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "PhTBS9Wnf578OwK2",
+        "token": "JVICe89oIGHv4Gtz",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":11}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":13,\"evaluated\":true}"
+      ],
+      "_id": "Y4f8qhOLriOprUnV",
+      "timestamp": 1715620444119,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408758293
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": null,
+        "token": null,
+        "alias": "karpiq"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "2",
+      "_id": "1FsYCRdFyqemr2GO",
+      "timestamp": 1715620577410,
+      "flavor": "",
+      "whisper": [
+        "j6dLpLTM1Hkwhk3U"
+      ],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408758171
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"History (+4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">History (+4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">22</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">18</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">18</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "token": null,
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":18}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":22,\"evaluated\":true}"
+      ],
+      "_id": "xpa2iNwSy8hz2jcE",
+      "timestamp": 1715621069437,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408498531
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Deception (+6)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Deception (+6)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 6</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">7</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">7</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "Rq75o6W4X7q68nIu",
+        "token": null,
+        "alias": "Versir"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":7}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":13,\"evaluated\":true}"
+      ],
+      "_id": "PIr24Xvp7xvEQC0Q",
+      "timestamp": 1715621888289,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408497794
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "A dragonborn is some-<br />one who has the blood of the original bronze dragons<br />in their veins. The children of the dragons usually take<br />on the characteristics of the race of their mortal parent,<br />but sometimes they are born with a strong tie to their<br />draconic ancestors.",
+      "type": 1,
+      "_id": "R8WxevXx5cHJu70j",
+      "timestamp": 1715622159746,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408497550
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Investigation (+4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Investigation (+4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">9</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">9</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "token": null,
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":9}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":13,\"evaluated\":true}"
+      ],
+      "_id": "EjyWKXKvvdhAMhZO",
+      "timestamp": 1715622220115,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408497496
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Nature (+2)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Nature (+2)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">19</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 2</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">17</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">17</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">11</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 2</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">9</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">9</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "mGDWJnyjLc9n96rG",
+        "token": null,
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":17}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":19,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":9}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":11,\"evaluated\":true}"
+      ],
+      "_id": "c0Fluz2uAZppCIhP",
+      "timestamp": 1715622455171,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408410885
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Investigation (+0)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Investigation (+0)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">6</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 0</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">6</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">6</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "dyGeHOqB0VyeEfTb",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "SLXnVm5gjHroo4cH",
+        "token": null,
+        "alias": "Orion Xul"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":6}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":6,\"evaluated\":true}"
+      ],
+      "_id": "rAjigWQk2UVDVp6a",
+      "timestamp": 1715622608127,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408410747
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Odkupienie Pythora\" width=\"37\" height=\"37\" /><details><summary><a>Odkupienie Pythora</a></summary><div class=\"beyond20-description\">This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge.<br /><br />Immediately after you make a ranged attack with this weapon, it flies back to your hand.<br />Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 lightning damage.<br />You gain a <span class=\"ct-beyond20-custom-roll\"><strong>+1</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20+1</span></span> bonus to attack and damage rolls made using this weapon. On a hit, the weapon deals an extra <span class=\"ct-beyond20-custom-roll\"><strong>1d6</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d6</span></span> lightning damage.<br /></div></details></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Piercing Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">11</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d6 + 7</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d6\">4</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">4</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Lightning Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit\">6</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d6</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d6 max\">6</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">6</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-result\"><b><hr /></b></div><div class=\"beyond20-roll-result beyond20-total-damage\"><b>Total Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">11 + 6</div></span></span></div></div>",
+      "user": "dyGeHOqB0VyeEfTb",
+      "speaker": {
+        "scene": "i1TtumCTDCHXYAxy",
+        "token": "8NpxfN9cGgyArKGK",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6 + 7\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":4}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":11,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":6,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":6}]}],\"total\":6,\"evaluated\":true}"
+      ],
+      "_id": "lg4N4g17wM8M7pgY",
+      "timestamp": 1715623481974,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408251563
+          }
+        }
+      }
+    },
+    {
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "i1TtumCTDCHXYAxy",
+        "token": "JilFmWmOkVJ1cESk",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "--<br />Oczy gryfa<br />Custom<br />--<br />2<br />--<br />--<br />Olej arezyjski, 2 litry<br />Custom<br />--<br />1<br />--<br />--<br />Pearl*<br />Gear<br />--<br />1<br />100<br />do identify<br />--<br />Pi\u00f3ro gryfa<br />Custom<br />--<br />10<br />--<br />--<br />bottled coldlight<br />Custom<br />--<br />1<br />--<br />--<br />cockatrice beak<br />Custom<br />--<br />1<br />--<br />--<br />cockatrice bile<br />Custom<br />--<br />3<br />--<br />--<br />cockatrice droppings<br />Custom<br />--<br />3<br />--<br />--<br />oczy bazyliszka<br />Custom<br />--<br />8<br />--<br />--<br />serce cerbera<br />Custom<br />--<br />1<br />--<br />--<br />z\u0119by bazyliszka<br />Custom<br />--<br />4<br />--<br />--<br />\u017c\u00f3\u0142\u0107 bazyliszka<br />Custom<br />--<br />2<br />--",
+      "type": 2,
+      "_id": "Nn51um1Fd4yQYWCV",
+      "timestamp": 1715623909144,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408251178
+          }
+        }
+      }
+    },
+    {
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "i1TtumCTDCHXYAxy",
+        "token": "CjAU31lJ7ujHtp91",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "Fearsome Boon",
+      "type": 2,
+      "_id": "7PeHRBkDHDyDe6of",
+      "timestamp": 1715624055600,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408215046
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "When you drink this wine, you must make<br />a DC 10 Constitution saving throw. On a failed save,<br />you become charmed by all creatures that you can<br />see of any species and gender you are normally<br />attracted to. You can repeat the saving throw at the<br />end of every hour until you succeed and are no<br />longer charmed",
+      "type": 1,
+      "_id": "rqTij4zQwmiPtbFN",
+      "timestamp": 1715624474963,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "i1TtumCTDCHXYAxy",
+        "token": "cnsxqjq1HSVoxm6u",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "Moon Sickle +1 3 dni<br />Fearsome Boon 3 dni<br />Lunula Talisman 4 dni<br />Camouflage Leather 6 dni<br />Eyes of the Eagle 4 dni<br />Xander's Axe 7 dni<br />Xander's Shield 7 dni<br />Mithral Thylean Weapon +1 4 dni<br />Boar Tusk Shield 4 dni",
+      "type": 2,
+      "_id": "JZ5YxJYqzGgwYAlA",
+      "timestamp": 1715624619496,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "i1TtumCTDCHXYAxy",
+        "token": "CjAU31lJ7ujHtp91",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "1. Axe<br />2. Sickle<br />3. Xander shield<br />4. Lunula Talisman<br />5. Fearsome boon<br />6. Weapon +1<br />7. Eyes of eagle<br />8. Camo leather<br />9. tusk shield",
+      "type": 2,
+      "_id": "C4QDzj2L93XS1Wyq",
+      "timestamp": 1715626602227,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "token": null,
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":2,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "1",
+      "_id": "gkwGtAtizpkLvJeP",
+      "timestamp": 1715626932776,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "token": null,
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":2,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "1",
+      "_id": "THMccomWungLrRLM",
+      "timestamp": 1715626946884,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "Tarchon",
+      "type": 1,
+      "_id": "D3Qo8X5G0qhJyyyO",
+      "timestamp": 1715627557518,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "Alexandros",
+      "type": 1,
+      "_id": "7bl8ugejqnXXTWxr",
+      "timestamp": 1715627566809,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "Apasia",
+      "type": 1,
+      "_id": "QmWQegU4ZTLN0b1N",
+      "timestamp": 1715627567987,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "content": "<blockquote><p>Na odleg\u0142ym niebie dostrzegacie trzy skrzydlate kszta\u0142ty, kt\u00f3re zbli\u017caj\u0105 si\u0119 w waszym kierunku. S\u0142o\u0144ce odbija si\u0119 od ich \u0142usek i zdajecie sobie spraw\u0119, \u017ce s\u0105 to m\u0142ode miedziane smoki. S\u0142yszeli\u015bcie ju\u017c pog\u0142oski o smokach z Mytros, ale te stworzenia s\u0105 o wiele wspanialsze, ni\u017c sobie wyobra\u017cali\u015bcie. Smoki s\u0105 dosiadane przez rycerzy w czerwonych p\u0142aszczach: wysoko postawionych centurion\u00f3w z miasta. Smoki opadaj\u0105 i l\u0105duj\u0105 kilkadziesi\u0105t metr\u00f3w od was.</p><p>Trzech rycerzy z tarczami i mieczami zsiada i podchodzi do was. Zdeterminowane spojrzenie w ich oczach sugeruje, \u017ce zostali tu przys\u0142ani z misj\u0105, ale ewidentnie nie maj\u0105 wrogich zamiar\u00f3w. Ich przyw\u00f3dca podchodzi i przedstawia si\u0119: \"Jestem Tarchon. Przybyli\u015bmy w imieniu kr\u00f3la Acastusa, by eskortowa\u0107 was do jego pa\u0142acu. Zaprasza was na audiencje.\".</p></blockquote>",
+      "_id": "bpF8xtWNpje48ebh",
+      "type": 0,
+      "user": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1715627584518,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "Icarus",
+      "type": 1,
+      "_id": "CUmrL6jOEWVOpzG2",
+      "timestamp": 1715627900227,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Pipe of Remembrance\" width=\"37\" height=\"37\" /><details open><summary><a>Pipe of Remembrance</a></summary><table><tbody><tr><td><i>Wondrous item, Common</i></td></tr></tbody></table><div class=\"beyond20-description\">This long, delicate wooden pipe features a bowl made from smooth river stone. When the pipe is lit, smoke exhaled from it does not dissipate, instead lingering around the bearer. After 10 minutes, the smoke forms moving shapes that reenact the bearer\u2019s most impressive and heroic achievements for 5 minutes. When this realistic performance is complete, the smoke dissipates. The pipe can\u2019t be used this way again until the next dawn.</div></details></div></div>",
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": "Rq75o6W4X7q68nIu",
+        "token": null,
+        "alias": "Versir"
+      },
+      "type": 1,
+      "_id": "icTxFqgdz9qxzlkn",
+      "timestamp": 1715628123474,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46408214784
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Initiative ()\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Initiative ()</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">19</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">19</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">19</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": "KDHS9nGxsacekKXV",
+        "token": null,
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":19}]}],\"total\":19,\"evaluated\":true}"
+      ],
+      "_id": "qohZ6TRZ6NALrT7E",
+      "timestamp": 1715629116504,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987984
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Initiative ()\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Initiative ()</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">11</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">11</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">11</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "dyGeHOqB0VyeEfTb",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": "SLXnVm5gjHroo4cH",
+        "token": null,
+        "alias": "Orion Xul"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":11}]}],\"total\":11,\"evaluated\":true}"
+      ],
+      "_id": "650wZSiYmfoFdm3l",
+      "timestamp": 1715629119302,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987984
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Initiative ()\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Initiative ()</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">16</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">16</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">16</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">14</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">14</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">14</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": "mGDWJnyjLc9n96rG",
+        "token": null,
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":16}]}],\"total\":16,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":14}]}],\"total\":14,\"evaluated\":true}"
+      ],
+      "_id": "EvCL0Z1lh8q7Rzwd",
+      "timestamp": 1715629123168,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987984
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Initiative (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Initiative (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">18</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">19</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">19</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": "Rq75o6W4X7q68nIu",
+        "token": null,
+        "alias": "Versir"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 - 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":19}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":18,\"evaluated\":true}"
+      ],
+      "_id": "Be0SXnxKRhkNvIG8",
+      "timestamp": 1715629122495,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987984
+          }
+        }
+      }
+    },
+    {
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "token": null,
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":19,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":2}],\"total\":21,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "21",
+      "_id": "tWQcvCzPS8hcoOJW",
+      "timestamp": 1715629161596,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987984
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Dexterity Save ()\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Dexterity Save ()</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">5</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">5</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "dyGeHOqB0VyeEfTb",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": "SLXnVm5gjHroo4cH",
+        "token": null,
+        "alias": "Orion Xul"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":5}]}],\"total\":5,\"evaluated\":true}"
+      ],
+      "_id": "uLlJq0NyWxlX1etk",
+      "timestamp": 1715629182756,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987984
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><span class=\"beyond20-title\">Lightning Bolt (8d6)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit-fail beyond20-roll-total dice-total\">33</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">8d6</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d6\">3</li>\n                    <li class=\"roll die d6 max\">6</li>\n                    <li class=\"roll die d6\">3</li>\n                    <li class=\"roll die d6\">5</li>\n                    <li class=\"roll die d6 min\">1</li>\n                    <li class=\"roll die d6 max\">6</li>\n                    <li class=\"roll die d6 max\">6</li>\n                    <li class=\"roll die d6\">3</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">33</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "j6dLpLTM1Hkwhk3U",
+      "speaker": {
+        "scene": "4Yebph0J33zPJtOi",
+        "actor": null,
+        "token": null,
+        "alias": ""
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"8d6\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":8,\"faces\":6,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":3},{\"active\":true,\"result\":6},{\"active\":true,\"result\":3},{\"active\":true,\"result\":5},{\"active\":true,\"result\":1},{\"active\":true,\"result\":6},{\"active\":true,\"result\":6},{\"active\":true,\"result\":3}]}],\"total\":33,\"evaluated\":true}"
+      ],
+      "_id": "ypnhWzqpxwFwHwZz",
+      "timestamp": 1715629203950,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987984
+          }
+        }
+      }
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "content": "<div class=\"dnd5e2 chat-card item-card\" data-actor-id=\"yB1EESoLgrCFzvA1\" data-item-id=\"4kmw5QV6bZ1PZd2Y\">\n\n    <section class=\"card-header description collapsible\">\n\n        <header class=\"summary\">\n            <img class=\"gold-icon\" src=\"icons/magic/control/fear-fright-monster-grin-green.webp\" alt=\"Frightful Presence\" />\n            <div class=\"name-stacked border\">\n                <span class=\"title\">Frightful Presence</span>\n                <span class=\"subtitle\">\n                    Feature\n                </span>\n            </div>\n            <i class=\"fas fa-chevron-down fa-fw\"></i>\n        </header>\n\n        <section class=\"details collapsible-content card-content\">\n            <div class=\"wrapper\">\n                <div class=\"rd__b  rd__b--3\"><p>Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC <span class=\"rd__dc\">18</span> Wisdom saving throw or become <a class=\"jlnk__entity-link\" draggable=\"true\" data-plut-hover-page=\"conditionsdiseases.html\" data-plut-hover-source=\"PHB\" data-plut-hover-hash=\"frightened_phb\" data-plut-hover-tag=\"condition\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"Item\" data-plut-rich-link-original-text=\"condition[frightened]\"><i class=\"fas fas fa-suitcase\"></i> frightened</a> for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.</p><div class=\"rd__spc-inline-post\"></div></div>\n            </div>\n        </section>\n    </section>\n\n    <div class=\"card-buttons\">\n\n\n\n\n        <button type=\"button\" data-action=\"save\" data-ability=\"wis\" data-dc=\"18\">\n            <i class=\"fas fa-shield-heart\"></i>\n            <span class=\"visible-dc\">DC 18 Wisdom Saving Throw</span>\n            <span class=\"hidden-dc\">Wisdom Saving Throw</span>\n        </button>\n\n\n\n\n\n    </div>\n\n\n\n    <ul class=\"card-footer pills unlist\">\n        <li class=\"pill pill-sm\">\n            <span class=\"label\">1 Action</span>\n        </li>\n        <li class=\"pill pill-sm\">\n            <span class=\"label\">None</span>\n        </li>\n    </ul>\n\n    <div class=\"card-tray effects-tray collapsible collapsed\">\n        <label class=\"roboto-upper\">\n            <i class=\"fas fa-bolt\"></i>\n            <span>Effects</span>\n            <i class=\"fas fa-caret-down\"></i>\n        </label>\n        <div class=\"collapsible-content\">\n            <ul class=\"effects unlist wrapper\"></ul>\n        </div>\n    </div>\n</div>",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "e6sKAbBRAp1pUFJc",
+        "actor": "yB1EESoLgrCFzvA1",
+        "alias": "Icarus"
+      },
+      "flags": {
+        "core": {
+          "canPopout": true
+        },
+        "dnd5e": {
+          "use": {
+            "type": "feat",
+            "itemId": "4kmw5QV6bZ1PZd2Y",
+            "itemUuid": "Actor.yB1EESoLgrCFzvA1.Item.4kmw5QV6bZ1PZd2Y"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987917
+          }
+        }
+      },
+      "type": 0,
+      "whisper": [],
+      "blind": false,
+      "_id": "eA10GaxOlH4XHLqU",
+      "timestamp": 1715630415969,
+      "flavor": "",
+      "rolls": [],
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save (+2)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save (+2)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 2</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">15</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">15</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "8K1DsJZu2ZSwuWb5",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 2\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":15}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":17,\"evaluated\":true}"
+      ],
+      "_id": "mNdjyg89bZprEt2N",
+      "timestamp": 1715630428976,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987906
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save ()\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save ()</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">13</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">13</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "aFiP5b3jOeeWxtJc",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":13}]}],\"total\":13,\"evaluated\":true}"
+      ],
+      "_id": "aFP1BKUcc8JZhwDo",
+      "timestamp": 1715630432330,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987903
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">10</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">11</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">11</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "7TkVadvHyFgig8tQ",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "t7GduHx4p61QyRCq",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 - 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":11}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":10,\"evaluated\":true}"
+      ],
+      "_id": "Qd5wNwRDBOvq8ybI",
+      "timestamp": 1715630432276,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987903
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save ()\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save ()</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">13</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">13</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "dyGeHOqB0VyeEfTb",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "SpvGzDbE2JVMDCpt",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":13}]}],\"total\":13,\"evaluated\":true}"
+      ],
+      "_id": "iW5uG3U6C08POacM",
+      "timestamp": 1715630432921,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987903
+          }
+        }
+      }
+    },
+    {
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "8K1DsJZu2ZSwuWb5",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "type": 5,
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"2d4\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":2,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true},{\"result\":2,\"active\":true}]}],\"total\":5,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "5",
+      "_id": "Ly68ONo3wbri6zXC",
+      "timestamp": 1715630451849,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987885
+          }
+        }
+      }
+    },
+    {
+      "user": "hqyemBL7Lmg9mvzf",
+      "type": 5,
+      "content": "10",
+      "sound": "sounds/dice.wav",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "pvYUpflHUt0calsm",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "flags": {
+        "dnd5e": {
+          "roll": {
+            "type": "save",
+            "abilityId": "wis"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987882
+          }
+        }
+      },
+      "flavor": "Wisdom Saving Throw",
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Wisdom Saving Throw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"rollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"configured\":true},\"dice\":[],\"formula\":\"1d20 + 4 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":4},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":10,\"evaluated\":true}"
+      ],
+      "_id": "LSfVnpd1qhy8gzAL",
+      "timestamp": 1715630455758,
+      "whisper": [],
+      "blind": false,
+      "emote": false
+    },
+    {
+      "user": "j6dLpLTM1Hkwhk3U",
+      "type": 5,
+      "content": "2",
+      "sound": "sounds/dice.wav",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "9MZrO5qs0mxF4ELM",
+        "actor": "2Tz2AptSGglDARzx",
+        "alias": "Pholon"
+      },
+      "flags": {
+        "dnd5e": {
+          "roll": {
+            "type": "save",
+            "abilityId": "wis"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987861
+          }
+        }
+      },
+      "flavor": "Wisdom Saving Throw",
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Wisdom Saving Throw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"rollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"configured\":true},\"dice\":[],\"formula\":\"1d20 + 1 + 0\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":0}],\"total\":2,\"evaluated\":true}"
+      ],
+      "_id": "UrCwDWYWDTgCHZGv",
+      "timestamp": 1715630478931,
+      "whisper": [],
+      "blind": false,
+      "emote": false
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save ()\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save ()</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">3</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">3</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">3</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "hqyemBL7Lmg9mvzf",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "pvYUpflHUt0calsm",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":3}]}],\"total\":3,\"evaluated\":true}"
+      ],
+      "_id": "xcqF1J0ZEPiP2cBh",
+      "timestamp": 1715630575058,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987775
+          }
+        }
+      }
+    },
+    {
+      "user": "3PuWTvDyoejRW8p4",
+      "type": 5,
+      "content": "21",
+      "sound": "sounds/dice.wav",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "aFiP5b3jOeeWxtJc",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "flags": {
+        "dnd5e": {
+          "roll": {
+            "type": "save",
+            "abilityId": "wis"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987768
+          }
+        }
+      },
+      "flavor": "Wisdom Saving Throw",
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"flavor\":\"Wisdom Saving Throw\",\"advantageMode\":0,\"defaultRollMode\":\"publicroll\",\"rollMode\":\"publicroll\",\"critical\":20,\"fumble\":1,\"halflingLucky\":false,\"configured\":true},\"dice\":[],\"formula\":\"1d20 + 1 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"critical\":20,\"fumble\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":17,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":3}],\"total\":21,\"evaluated\":true}"
+      ],
+      "_id": "qpUS0gB6xlMkRyUu",
+      "timestamp": 1715630582685,
+      "whisper": [],
+      "blind": false,
+      "emote": false
+    },
+    {
+      "user": "3PuWTvDyoejRW8p4",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "aFiP5b3jOeeWxtJc",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "Je\u017celi kr\u00f3l nie jest w stanie obroni\u0107 swojego miasta, my, bohaterowie przepowiedni, uratujemy Mytros przed zag\u0142ad\u0105",
+      "type": 2,
+      "_id": "PsdT2jNN3ECmnBCK",
+      "timestamp": 1715631408738,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407987026
+          }
+        }
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Insight (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Insight (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">12</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">13</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">13</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "user": "KilFTJbHStmpbGES",
+      "speaker": {
+        "scene": "FHnVjGv93VnBc75e",
+        "token": "8K1DsJZu2ZSwuWb5",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "type": 5,
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 - 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":13}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":null}],\"total\":12,\"evaluated\":true}"
+      ],
+      "_id": "O7FrIyA8hZfzpJFI",
+      "timestamp": 1715631894532,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46407986588
+          }
+        }
+      }
+    }
+  ]
+}

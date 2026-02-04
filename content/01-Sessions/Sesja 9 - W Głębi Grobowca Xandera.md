@@ -1,4 +1,9 @@
-# Sesja 9: W Głębi Grobowca Xandera
+---
+title: "Sesja 9: W Głębi Grobowca Xandera"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/009/chat_log.json"
+---
 
 **Data:** 18.03.2024
 

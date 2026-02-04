@@ -1,4 +1,9 @@
-# Sesja 35: W Wężowym Uścisku
+---
+title: "Sesja 35: W Wężowym Uścisku"
+transcript: "../assets/sessions/035/transcript.txt"
+transcript_json: "../assets/sessions/035/transcript.json"
+chat_log: "../assets/sessions/035/chat_log.json"
+---
 
 **Data:** 30.12.2024
 

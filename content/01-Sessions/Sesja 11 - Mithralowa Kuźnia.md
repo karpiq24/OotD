@@ -1,4 +1,9 @@
-# Sesja 11: Mithralowa Kuźnia
+---
+title: "Sesja 11: Mithralowa Kuźnia"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/011/chat_log.json"
+---
 
 **Data:** 22.04.2024
 

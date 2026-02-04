@@ -1,4 +1,9 @@
-# Sesja 16: Świątynia Lutherii
+---
+title: "Sesja 16: Świątynia Lutherii"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/016/chat_log.json"
+---
 
 **Data:** 03.06.2024
 

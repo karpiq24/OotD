@@ -1,4 +1,9 @@
-# Sesja 57: Ogród Heliosa
+---
+title: "Sesja 57: Ogród Heliosa"
+transcript: "../assets/sessions/057/transcript.txt"
+transcript_json: "../assets/sessions/057/transcript.json"
+chat_log: "../assets/sessions/057/chat_log.json"
+---
 
 **Data:** 18.08.2025
 

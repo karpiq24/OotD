@@ -1,4 +1,9 @@
-# Sesja 2: Przepowiednia
+---
+title: "Sesja 2: Przepowiednia"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/002/chat_log.json"
+---
 
 **Data:** 22.01.2024
 

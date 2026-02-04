@@ -1,4 +1,9 @@
-# Sesja 22: Taniec z Meduzą
+---
+title: "Sesja 22: Taniec z Meduzą"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/022/chat_log.json"
+---
 
 **Data:** 26.08.2024
 

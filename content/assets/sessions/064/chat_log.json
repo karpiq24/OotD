@@ -1,0 +1,289 @@
+{
+  "title": "session64",
+  "archiveDate": "2025-12-29",
+  "author": "karpiq",
+  "creationTimestamp": "2025-12-29T22:14:56.072Z",
+  "messages": [
+    {
+      "content": "<div class=\"fxmaster-announcement\" style=\"border:4px solid #4A90E2;border-radius:6px;padding:12px\">\n          <h3 style=\"margin:0\">🎉Welcome to Gambit's FXMaster V7.2.1!</h3>\n            <p style=\"font-size:1em\">This release resolves some masking issues from 7.2. Please check out the <a href=\"https://github.com/gambit07/fxmaster/releases/latest\" target=\"_blank\" style=\"color:#dd6b20;text-decoration:none;font-weight:bold\">Release Notes</a> for more detail. </p>\n            <p style=\"font-size:1em\">If you'd like to support my development time and get access to the <b>Gambit's FXMaster+</b> and <b>Gambit's Asset Previewer</b> modules, please consider supporting the project on <a href=\"https://patreon.com/GambitsLounge\" target=\"_blank\" style=\"color:#dd6b20;text-decoration:none;font-weight:bold\">Patreon</a>.</p><p>FXMaster+ Effects: </p><ul><li><span style=\"color:#3bd1ffff;text-decoration:none;font-weight:bold\">Ice</span></li><li><span style=\"color:#a08332ff;text-decoration:none;font-weight:bold\">Sandstorm</span></li><li><span style=\"color:#74653fff;text-decoration:none;font-weight:bold\">Duststorm</span></li><li><span style=\"color:#73ffa9;text-decoration:none;font-weight:bold\">Ghosts</span></li><li><span style=\"color:#ffd500ff;text-decoration:none;font-weight:bold\">Sunlight</span></li><li><span style=\"color:#7f00ff;text-decoration:none;font-weight:bold\">Magic Crystals</span></li><li><span style=\"color:#d5b60a;text-decoration:none;font-weight:bold\">Fireflies</span></li><li><span style=\"color:#ffb7c5;text-decoration:none;font-weight:bold\">Sakura Bloom</span></li><li><span style=\"color:#ffb7c5;text-decoration:none;font-weight:bold\">Sakura Blossoms</span></li><li><span style=\"text-decoration:none;font-weight:bold\">And add your own Particle Effects!</span></li></ul><p></p><p>If you have any questions about the module feel free to join the <a href=\"https://discord.gg/YvxHrJ4tVu\" target=\"_blank\" style=\"color:#4e5d94;text-decoration:none;font-weight:bold\">Discord</a>!\n          </p></div>",
+      "timestamp": "2025-12-29T15:22:00.986Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Demetria zobaczyła prawdę: Władcy Smoków mogli być zbawicielami swojego ludu, ale splądrowali ziemie Thylei swoją żądzą bitew i podbojów. Mądrością ze strony driady było szukanie sprawiedliwości u Pani Snów, która jest łaskawa i dobra dla swoich sług.\" — nieznany kapłan Lutherii</p>\n        </div>",
+      "timestamp": "2025-12-29T15:22:03.889Z"
+    },
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button class=\"ve-btn w-100\" data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "timestamp": "2025-12-29T17:00:56.482Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Pythor, Bóg Bitwy, jest synem Mytros i Volkana. Podczas Pierwszej Wony nieustępliwie walczył przeciwko centaurom i gyganom.</p>\n        </div>",
+      "timestamp": "2025-12-29T17:00:58.250Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Giganci są dziwaczni; tak mocno wierzą w swoje zbiorowe przeznaczenie, że w międzyczasie są gotowi znieść najbardziej obsceniczną nędzę. Myślę, że gdyby Hergeron kiedykolwiek naprawdę wrócił, byłby przerażony.\" — Aesop, Strażnik Smoczej Świątyni</p>\n        </div>",
+      "timestamp": "2025-12-29T17:07:14.889Z"
+    },
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button class=\"ve-btn w-100\" data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "timestamp": "2025-12-29T17:07:51.562Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Ostatnia wojna między Mytros a Aresią odbyła się około 100 lat temu.</p>\n        </div>",
+      "timestamp": "2025-12-29T17:07:53.045Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Kiedyś pokochałam mężczyznę, który miał klejnoty za oczy, warkocze jak słońce i usta jak kwiat, twierdził, że urodził się w skale na szczycie góry.\" — Tessela, wiedźma z zachodnich stepów</p>\n        </div>",
+      "timestamp": "2025-12-29T17:12:50.373Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "20",
+      "timestamp": "2025-12-29T17:54:47.619Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Większość minotaurów gromadzi się z dala od cywilizacji w małe społeczności rolnicze lub rybackie.</p>\n        </div>",
+      "timestamp": "2025-12-29T17:54:55.147Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "6",
+      "timestamp": "2025-12-29T17:58:25.397Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/51436/558/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Performance (+0)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Performance (+0)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 0</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">17</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">9</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 0</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">9</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T17:59:51.779Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Eye of the Galactic Dragon (d8)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Eye of the Galactic Dragon (d8)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-fail beyond20-roll-total dice-total\">1</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d8</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d8 min\">1</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">1</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T17:59:56.043Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "3",
+      "timestamp": "2025-12-29T18:00:02.921Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "5",
+      "timestamp": "2025-12-29T18:41:45.144Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "3",
+      "timestamp": "2025-12-29T18:41:56.140Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Scrying\" width=\"37\" height=\"37\" /><details><summary><a>Scrying</a></summary><table><tbody><tr><td><i>Legacy •  5th Level Divination (Cast at 5th Level)</i></td></tr><tr><td><b>Casting Time</b></td><td>10 minutes</td></tr><tr><td><b>Duration</b></td><td>up to 10 minutes</td></tr><tr><td><b>Components</b></td><td>V, S, M(a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)</td></tr><tr><td><b>Range</b></td><td>Self</td></tr><tr><td><b>Concentration</b></td><td>Requires Concentration</td></tr></tbody></table><div class=\"beyond20-description\">You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.<br /><br /><br /><br /><br />Knowledge<br /><br />Save Modifier<br /><br /><br /><br /><br />Secondhand (you have heard of the target)<br /><span class=\"ct-beyond20-custom-roll\"><strong>+5</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20+5</span></span><br /><br /><br />Firsthand (you have met the target)<br />0<br /><br /><br />Familiar (you know the target well)<br /><span class=\"ct-beyond20-custom-roll\"><strong>-5</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20-5</span></span><br /><br /><br /><br /> <br /><br /><br /><br />Connection<br />Save Modifier<br /><br /><br /><br /><br />Likeness or picture<br /><span class=\"ct-beyond20-custom-roll\"><strong>-2</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20-2</span></span><br /><br /><br />Possession or garment<br /><span class=\"ct-beyond20-custom-roll\"><strong>-4</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20-4</span></span><br /><br /><br />Body part, lock of hair, bit of nail, or the like<br /><span class=\"ct-beyond20-custom-roll\"><strong>-10</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20-10</span></span><br /><br /><br /><br /> <br />On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.<br />On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.<br />Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Self</span></div><div class=\"beyond20-roll-result\"><b>Cast at: </b><span>5th Level</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S, M(a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)</span></div><div class=\"beyond20-roll-result\"><b>Save: </b><span>Wisdom DC 18</span></div></div>",
+      "timestamp": "2025-12-29T18:42:20.635Z"
+    },
+    {
+      "speaker": "Hexia",
+      "content": "",
+      "timestamp": "2025-12-29T18:42:48.857Z"
+    },
+    {
+      "speaker": "Hoooooooobert",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/16/533/636376331660233857.jpeg?width=1000&amp;height=1000&amp;fit=bounds&amp;quality=95&amp;auto=webp\" title=\"Keen Hearing and Sight\" width=\"37\" height=\"37\" /><details open><summary><a>Keen Hearing and Sight</a></summary><table><tbody><tr><td><i>trait</i></td></tr></tbody></table><div class=\"beyond20-description\">Keen Hearing and Sight. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.</div></details></div></div>",
+      "timestamp": "2025-12-29T19:19:11.244Z"
+    },
+    {
+      "speaker": "Hoooooooobert",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/16/533/636376331660233857.jpeg?width=1000&amp;height=1000&amp;fit=bounds&amp;quality=95&amp;auto=webp\" title=\"Wisdom (+1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom (+1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">19</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">18</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">4</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">3</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T19:19:22.304Z"
+    },
+    {
+      "content": "Astra, Melania, Corinna, Kyrah, Dedal",
+      "timestamp": "2025-12-29T19:31:27.398Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "4",
+      "timestamp": "2025-12-29T19:34:23.664Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "18",
+      "timestamp": "2025-12-29T19:36:06.377Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (+8)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (+8)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">15</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 8</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">7</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">7</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:05:41.512Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">18</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">18</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:05:46.087Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/51436/558/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (+1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (+1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">7</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">6</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:05:49.283Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (+5)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (+5)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">12</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 5</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">7</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">20</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 5</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">15</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:05:51.066Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Perception (+3)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Perception (+3)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">18</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 3</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">15</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:05:51.468Z"
+    },
+    {
+      "speaker": "Hoooooooobert",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/16/533/636376331660233857.jpeg?width=1000&amp;height=1000&amp;fit=bounds&amp;quality=95&amp;auto=webp\" title=\"Wisdom (+1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom (+1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">16</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">16</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:05:53.173Z"
+    },
+    {
+      "speaker": "karpiq",
+      "content": "16",
+      "timestamp": "2025-12-29T20:12:00.096Z"
+    },
+    {
+      "speaker": "karpiq",
+      "content": "11",
+      "timestamp": "2025-12-29T20:12:00.868Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Insight (+4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Insight (+4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">7</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">3</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">3</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:15:23.549Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Insight (+4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Insight (+4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">21</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">17</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">17</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:40:00.954Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Persuasion (+14)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Persuasion (+14)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">18</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 14</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">4</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">4</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">27</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 14</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">13</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">13</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:45:39.875Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cosmic Omen (d6)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Cosmic Omen (d6)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">2</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d6</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d6\">2</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">2</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:53:17.011Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Performance (+3)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Performance (+3)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 3</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">2</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">16</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 3</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">13</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:53:26.867Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Guidance (d4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Guidance (d4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-fail beyond20-roll-total dice-total\">1</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d4 min\">1</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">1</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:54:12.578Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Insight (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Insight (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">2</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">3</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">3</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:56:32.496Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/51436/558/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Insight (+1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Insight (+1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">16</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">15</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:56:36.568Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Insight (+1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Insight (+1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit beyond20-roll-total dice-total\">21</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-crit\">20</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T20:56:39.297Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Performance (+3)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Performance (+3)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">22</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 3</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">19</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">21</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 3</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">18</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T21:11:20.970Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "5",
+      "timestamp": "2025-12-29T21:11:29.111Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "3",
+      "timestamp": "2025-12-29T21:11:31.325Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cosmic Omen (d6)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Cosmic Omen (d6)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">4</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d6</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d6\">4</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">4</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T21:22:11.812Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/51436/558/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Persuasion (+0)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Persuasion (+0)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 0</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">5</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">12</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 0</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">12</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T21:22:16.039Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "1",
+      "timestamp": "2025-12-29T21:22:23.369Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Survival (+8)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Survival (+8)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">12</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 8</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">4</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">4</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T21:31:47.998Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Survival (+8)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Survival (+8)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit beyond20-roll-total dice-total\">28</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 8</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20 max\">20</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">20</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-12-29T21:31:56.108Z"
+    },
+    {
+      "speaker": "Hexia",
+      "content": "<div class=\"chat-card activation-card\">\n    <section class=\"card-header description collapsible\">\n        <header class=\"summary\">\n            <img class=\"gold-icon\" src=\"icons/magic/air/fog-gas-smoke-dense-green.webp\" alt=\"Poison Breath\" />\n            <div class=\"name-stacked border\">\n                <span class=\"title\">Poison Breath</span>\n                <span class=\"subtitle\">Feature</span>\n            </div>\n            <i class=\"fa-solid fa-chevron-down fa-fw\" inert></i>\n        </header>\n        <section class=\"details collapsible-content card-content\">\n            <div class=\"wrapper\"><div class=\"rd__b  rd__b--3\"><p><i>Constitution Saving Throw:</i> DC <span class=\"rd__dc\">22</span>, each creature in a 90-foot <a class=\"content-link\" draggable=\"true\" data-plut-hover-page=\"variantrules.html\" data-plut-hover-source=\"XPHB\" data-plut-hover-hash=\"cone%20%5barea%20of%20effect%5d_xphb\" data-plut-hover-tag=\"variantrule\" data-plut-hover-hash-pre-encoded=\"true\" data-plut-hover-is-allow-redirect=\"false\" data-plut-rich-link=\"true\" data-plut-rich-link-entity-type=\"JournalEntry\" data-plut-rich-link-original-text=\"variantrule[Cone [Area of Effect]|XPHB|Cone]\" data-plut-rich-link-tag-tag=\"variantrule\" data-plut-rich-link-tag-text=\"Cone [Area of Effect]|XPHB|Cone\"><i class=\"fas fa-solid fa-book-open\"></i> Cone</a>. <i>Failure:</i> 77 (<a class=\"roll-link-group\" data-type=\"damage\" data-formulas=\"22d6\" data-damage-types=\"poison\" data-roll-type=\"damage\"><span class=\"roll-link\"><i class=\"fa-solid fa-dice-d20\" inert></i>22d6</span> Poison</a>) damage. <i>Success:</i> Half damage.</p></div></div>\n        </section>\n    </section>\n\n    <div class=\"card-buttons\">\n        <button type=\"button\" data-dc=\"22\" data-ability=\"con\" data-action=\"rollSave\" data-visibility=\"all\">\n            <i class=\"fa-solid fa-shield-heart\" inert></i> <span>\n          <span class=\"visible-dc\">DC 22 Constitution Saving Throw</span>\n          <span class=\"hidden-dc\">Constitution Saving Throw</span>\n        </span>\n        </button>\n        <button type=\"button\" data-action=\"rollDamage\">\n            <i class=\"fas fa-burst\" inert></i> <span>Damage</span>\n        </button>\n        <button type=\"button\" data-action=\"placeTemplate\">\n            <i class=\"fas fa-bullseye\" inert></i> <span>Place Measured Template</span>\n        </button>\n        <button type=\"button\" data-action=\"consumeResource\">\n            <i class=\"fa-solid fa-cubes-stacked\" inert></i> <span>Consume Resource</span>\n        </button>\n        <button type=\"button\" data-action=\"refundResource\">\n            <i class=\"fa-solid fa-clock-rotate-left\"></i> <span>Refund Resource</span>\n        </button>\n    </div>\n\n\n    <ul class=\"card-footer pills unlist\">\n        <li class=\"pill transparent\">\n            <span class=\"label\">Action</span>\n        </li>\n        <li class=\"pill transparent\">\n            <span class=\"label\">Instantaneous</span>\n        </li>\n        <li class=\"pill transparent\">\n            <span class=\"label\">Self</span>\n        </li>\n        <li class=\"pill transparent\">\n            <span class=\"label\">90 ft cone</span>\n        </li>\n    </ul>\n</div>",
+      "timestamp": "2025-12-29T21:42:54.917Z"
+    },
+    {
+      "speaker": "Hexia",
+      "content": "",
+      "timestamp": "2025-12-29T21:42:59.347Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Constitution Save (+7)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Constitution Save (+7)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">14</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 7</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">7</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-12-29T21:43:38.237Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "2",
+      "timestamp": "2025-12-29T22:04:06.554Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "3",
+      "timestamp": "2025-12-29T22:04:13.498Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "3",
+      "timestamp": "2025-12-29T22:04:18.988Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "5",
+      "timestamp": "2025-12-29T22:04:24.423Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "5",
+      "timestamp": "2025-12-29T22:04:32.089Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Relentless Rage\" width=\"37\" height=\"37\" /><details open><summary><a>Relentless Rage</a></summary><table><tbody><tr><td><i>Class</i></td></tr></tbody></table><div class=\"beyond20-description\">Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.<br />Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.</div></details></div></div>",
+      "timestamp": "2025-12-29T22:08:15.125Z"
+    }
+  ]
+}

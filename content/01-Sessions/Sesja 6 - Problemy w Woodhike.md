@@ -1,4 +1,9 @@
-# Sesja 6: Problemy w Woodhike
+---
+title: "Sesja 6: Problemy w Woodhike"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/006/chat_log.json"
+---
 
 **Data:** 21.02.2024
 

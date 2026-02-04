@@ -1,4 +1,9 @@
-# Sesja 32: Kieł
+---
+title: "Sesja 32: Kieł"
+transcript: "../assets/sessions/032/transcript.txt"
+transcript_json: "../assets/sessions/032/transcript.json"
+chat_log: "../assets/sessions/032/chat_log.json"
+---
 
 **Data:** 25.11.2024
 

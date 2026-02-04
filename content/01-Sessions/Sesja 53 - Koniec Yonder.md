@@ -1,4 +1,9 @@
-# Sesja 53: Koniec Yonder
+---
+title: "Sesja 53: Koniec Yonder"
+transcript: "../assets/sessions/053/transcript.txt"
+transcript_json: "../assets/sessions/053/transcript.json"
+chat_log: "../assets/sessions/053/chat_log.json"
+---
 
 **Data:** 14.07.2025
 

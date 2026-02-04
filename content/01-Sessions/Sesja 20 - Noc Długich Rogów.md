@@ -1,4 +1,9 @@
-# Sesja 20: Noc Długich Rogów
+---
+title: "Sesja 20: Noc Długich Rogów"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/020/chat_log.json"
+---
 
 **Data:** 12.08.2024
 

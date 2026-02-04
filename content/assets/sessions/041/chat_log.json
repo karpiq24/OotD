@@ -1,0 +1,2379 @@
+{
+  "data": {
+    "id": "dtEtggqLFKUO7m5Z",
+    "title": "Sesja 41",
+    "timestamp": 1739225993881,
+    "description": "",
+    "location": "worlds/odyssey-of-the-dragonlords/chat-archives/dtEtggqLFKUO7m5Z.json"
+  },
+  "messages": [
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Kiedy moje dzieci dorosn\u0105, oka\u017c\u0105 si\u0119 godne mojego imienia, oswajaj\u0105c pot\u0119\u017cn\u0105 Cetea'\u0119, kt\u00f3ra \u015bpi w g\u0142\u0119binach. Stworzenia te podporz\u0105dkowuj\u0105 si\u0119 tylko tym, kt\u00f3rzy wykazuj\u0105 niez\u0142omn\u0105 wol\u0119 dominacji ocean\u00f3w.\" \u2014 Sydon, Pan Burz</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "hqyemBL7Lmg9mvzf"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_id": "Eijh9Y3THO1tmTMq",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "hqyemBL7Lmg9mvzf",
+      "timestamp": 1739207061826,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739207060014,
+        "modifiedTime": 1739207060014,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "content": "4 6 6 6 6 14",
+      "style": 1,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "5QVbei6mPO8D47bu",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739208020805,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739208020681,
+        "modifiedTime": 1739208020681,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "SRtRIFoWACQm5Jf6",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":16,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":3}],\"total\":19,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "19",
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "qJcqMt7l5OoUjNrM",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739208208228,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739208208079,
+        "modifiedTime": 1739208208079,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "SRtRIFoWACQm5Jf6",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "content": "",
+      "style": 2,
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "mkdQoEbRLc5Tnfmm",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739208339507,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739208339360,
+        "modifiedTime": 1739208339360,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "rfsrxkklBoj7fpFi",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1}],\"total\":5,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "5",
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "iCxq38cXjuXVWn23",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739208636226,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739208634439,
+        "modifiedTime": 1739208634439,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "rfsrxkklBoj7fpFi",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":19,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1}],\"total\":20,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "20",
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "EeGTaSB3TRxc3Kvz",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739209060103,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209058323,
+        "modifiedTime": 1739209058323,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "content": "[Intro]<br /><br />    Tik-tak, tik-tak,<br /><br />    Tik-tak, tik-tak...<br /><br />    [Verse 1]<br /><br />    Tik-tak, zegar tyka,<br /><br />    Praca nigdy tu nie znika.<br /><br />    Na pod\u0142odze pe\u0142no szk\u0142a,<br /><br />    Pani b\u0119dzie na nas z\u0142a.<br /><br />    [Chorus]<br /><br />    Ucieramy tutaj \u017c\u00f3\u0142te kwiateczki,<br /><br />    S\u0105 nam s\u0142odkie jak cukiereczki,<br /><br />    Py\u0142 cudowny w p\u0142uca wpada,<br /><br />    U\u015bmiech z twarzy nigdy nie spada.<br /><br />    [Verse 2]<br /><br />    S\u0142o\u0144ce zasz\u0142o, ksi\u0119\u017cyc wsta\u0142,<br /><br />    A my wci\u0105\u017c mamy ten sam sza\u0142.<br /><br />    Miesza\u0107, sypa\u0107 i pakowa\u0107,<br /><br />    Ci\u0105gle trzeba nam harowa\u0107.<br /><br />    [Chorus]<br /><br />    Ucieramy tutaj \u017c\u00f3\u0142te kwiateczki,<br /><br />    S\u0105 nam s\u0142odkie jak cukiereczki,<br /><br />    Py\u0142 cudowny w p\u0142uca wpada,<br /><br />    U\u015bmiech z twarzy nigdy nie spada.<br /><br />    [Verse 3]<br /><br />    Antek m\u00f3wi\u0142 \u017ce jest spos\u00f3b,<br /><br />    Wtedy Pani zaszy\u0142a mu dzi\u00f3b.<br /><br />    Lecz my wszyscy ju\u017c to wiemy,<br /><br />    Krew Pani musi sta\u0107 si\u0119 cz\u0119\u015bci\u0105 diety.<br /><br />    [Chorus]<br /><br />    Ucieramy tutaj \u017c\u00f3\u0142te kwiateczki,<br /><br />    S\u0105 nam s\u0142odkie jak cukiereczki,<br /><br />    Py\u0142 cudowny w p\u0142uca wpada,<br /><br />    U\u015bmiech z twarzy nigdy nie spada.<br /><br />    [Outro]<br /><br />    Tik-tak, tik-tak,<br /><br />    Krew, krew, tak, tak...",
+      "style": 1,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "FTSHLJ9WD3un5at1",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739209499695,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209499601,
+        "modifiedTime": 1739209499601,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "NhfcrkeXD3RQBC33",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "content": "",
+      "style": 2,
+      "author": "dyGeHOqB0VyeEfTb",
+      "_id": "cU0wnkhb7rBKFF2I",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739209575555,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209575575,
+        "modifiedTime": 1739209575575,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "NhfcrkeXD3RQBC33",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "content": "(czestuje dzieci narkotykami gdy wszyscy spiewaja)",
+      "style": 2,
+      "author": "dyGeHOqB0VyeEfTb",
+      "_id": "ae8YMugcBJmmQBtH",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739209591225,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209591244,
+        "modifiedTime": 1739209591244,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "SRtRIFoWACQm5Jf6",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":14,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":3}],\"total\":17,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "17",
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "3j9miii4ojcO6sMc",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739209789872,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209789761,
+        "modifiedTime": 1739209789761,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "SRtRIFoWACQm5Jf6",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d4\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "4",
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "1QkHvLVKkvX9XliV",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739209810195,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209810083,
+        "modifiedTime": 1739209810083,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "rfsrxkklBoj7fpFi",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 - 2\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":18,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"-\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":2}],\"total\":16,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "16",
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "cW3e7IRuaVkT5oBF",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739209840863,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209839095,
+        "modifiedTime": 1739209839095,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "RYUiDL1SMsmJbpYM",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "Muminki si\u0119 ciesz\u0105, gdy kogo\u015b powiesz\u0105<br />Muminki!<br /><br />Odetn\u0105 mu g\u0142\u00f3wk\u0119, zagraj\u0105 w siatk\u00f3wk\u0119<br />Muminki!<br /><br />A tautu\u015b muminka ma mord\u0119 jak \u015bwinka<br />Muminki!<br /><br />I wszystkie muminki to chujki i dziwki<br />Muminki!!!",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "PqkjDy9fHlidtHAt",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739209917588,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209917634,
+        "modifiedTime": 1739209917634,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "RYUiDL1SMsmJbpYM",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "A panna migotka ma dupe jak szczotka<br />Muminki!",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "3vCVELEJxrMRxBi2",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739209961363,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209961384,
+        "modifiedTime": 1739209961384,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "rfsrxkklBoj7fpFi",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":3,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":3}],\"total\":6,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "6",
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "dVVyLZWx4kkhXV8L",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739209973191,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209971427,
+        "modifiedTime": 1739209971427,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "oMgA2YzYmHwfFTyr",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":13,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1}],\"total\":14,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "14",
+      "author": "KilFTJbHStmpbGES",
+      "_id": "fZ4peVUMWUNztt63",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739209994843,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739209997049,
+        "modifiedTime": 1739209997049,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "oMgA2YzYmHwfFTyr",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d4\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":4,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "4",
+      "author": "KilFTJbHStmpbGES",
+      "_id": "zH5cDOM0utrYlwec",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739210019710,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739210021917,
+        "modifiedTime": 1739210021917,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "RYUiDL1SMsmJbpYM",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "mam cy latka, cy i po\u0142<br />chujem si\u0119gam ponad st\u00f3\u0142<br />do psedskola chodze z w\u00f3tk\u0105<br />mam faltusek z plostytutk\u0105",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "KRUWKD1FN8i3fjtZ",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739210027518,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739210027541,
+        "modifiedTime": 1739210027541,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "SRtRIFoWACQm5Jf6",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 3\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":3}],\"total\":8,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "8",
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "kkWGdZOSCZIE3xvs",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739210046230,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739210046125,
+        "modifiedTime": 1739210046125,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "hncRA7EgwiFHUSVF",
+        "token": "RYUiDL1SMsmJbpYM",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "Misia dzi\u015b ugryz\u0142a pszczo\u0142a<br />O ty kurwo misio wo\u0142a<br />Za me m\u0119ki, za ma b\u00f3le<br />Rozpierdol\u0119 wszystkie ule",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "Kc3e2TcIjChyOuvb",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739210101776,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739210101799,
+        "modifiedTime": 1739210101799,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Odkupienie Pythora\" width=\"37\" height=\"37\" /><details><summary><a>Odkupienie Pythora</a></summary><div class=\"beyond20-description\">This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge.<br /><br />Immediately after you make a ranged attack with this weapon, it flies back to your hand.<br />Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 lightning damage.<br />You gain a <span class=\"ct-beyond20-custom-roll\"><strong>+1</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20+1</span></span> bonus to attack and damage rolls made using this weapon. On a hit, the weapon deals an extra <span class=\"ct-beyond20-custom-roll\"><strong>1d6</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d6</span></span> lightning damage.<br /></div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">22</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 5</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">17</span></div></div></div></span></span></div></div><button class=\"beyond20-button-roll-damages\">Roll Damages</button></div>",
+      "speaker": {
+        "scene": "1zOAj90jVAu82wqx",
+        "token": "g6xfRJECs7QRSErm",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "type": "base",
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 5\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":17}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":5}],\"total\":22,\"evaluated\":true}"
+      ],
+      "author": "dyGeHOqB0VyeEfTb",
+      "style": 0,
+      "_id": "kDJu3d0mUQEgGbW0",
+      "system": {},
+      "timestamp": 1739211513218,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739211513245,
+        "modifiedTime": 1739211513245,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Crossbow, Light\" width=\"37\" height=\"37\" /><details><summary><a>Crossbow, Light</a></summary><table><tbody><tr><td><b>Range</b></td><td>80ft./320ft.</td></tr></tbody></table><div class=\"beyond20-description\">Proficiency with a Light Crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.<br /><br />This weapon has the following mastery property. To use this property, you must have a feature that lets you use it.<br />Slow. If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn\u2019t exceed 10 feet.<br /></div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">20</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">19</span></div></div></div></span></span></div></div><button class=\"beyond20-button-roll-damages\">Roll Damages</button></div>",
+      "speaker": {
+        "scene": "1zOAj90jVAu82wqx",
+        "token": "g6xfRJECs7QRSErm",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "type": "base",
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":19}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":20,\"evaluated\":true}"
+      ],
+      "author": "dyGeHOqB0VyeEfTb",
+      "style": 0,
+      "_id": "pNws0FyM7hL3XGAH",
+      "system": {},
+      "timestamp": 1739211540981,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739211541005,
+        "modifiedTime": 1739211541005,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Crossbow, Light\" width=\"37\" height=\"37\" /><details><summary><a>Crossbow, Light</a></summary><table><tbody><tr><td><b>Range</b></td><td>80ft./320ft.</td></tr></tbody></table><div class=\"beyond20-description\">Proficiency with a Light Crossbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.<br /><br />This weapon has the following mastery property. To use this property, you must have a feature that lets you use it.<br />Slow. If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn\u2019t exceed 10 feet.<br /></div></details></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit beyond20-roll-total dice-total\">21</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-crit\">20</span></div></div></div></span></span></div></div><button class=\"beyond20-button-roll-damages\">Roll Damages</button></div>",
+      "speaker": {
+        "scene": "1zOAj90jVAu82wqx",
+        "token": "g6xfRJECs7QRSErm",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "type": "base",
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 + 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":20}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":21,\"evaluated\":true}"
+      ],
+      "author": "dyGeHOqB0VyeEfTb",
+      "style": 0,
+      "_id": "ysniW3BRyWQWGb3F",
+      "system": {},
+      "timestamp": 1739211557616,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739211557640,
+        "modifiedTime": 1739211557640,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>W ramach przysi\u0119gi ochrony, pot\u0119\u017cna jednostka zobowi\u0105zuje si\u0119 do przybycia z pomoc\u0105 innej w wielkiej potrzebie.</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "3PuWTvDyoejRW8p4"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_id": "K9JukGpxEf5ZW1IB",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "3PuWTvDyoejRW8p4",
+      "timestamp": 1739212549980,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739212550005,
+        "modifiedTime": 1739212550005,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "aVXlkrZcQOdJcKEy",
+        "actor": "WfCbpW876VJ0p8d2",
+        "alias": "Karol Strasburger"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "oaQZpVP0HYl3ptDe",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739215519732,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739215519763,
+        "modifiedTime": 1739215519763,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "VfXzSZtZ8jM6HsJd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "FfDO6tTHJvHdAYsI",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739215583093,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739215581421,
+        "modifiedTime": 1739215581421,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "X",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "4G3r3NbHQtT4tDkS",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739215782944,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739215782965,
+        "modifiedTime": 1739215782965,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "XX",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "PkaFbDPNeCYhYYyz",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739215845490,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739215845510,
+        "modifiedTime": 1739215845510,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "AwyfEjK3uYMdoMGW",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "KTri1oPZ1DOwVLA9",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739216095022,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739216095067,
+        "modifiedTime": 1739216095067,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "X",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "bDDinmIfujjcrPuH",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739216181207,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739216181228,
+        "modifiedTime": 1739216181228,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "XX",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "8xlkCcmqgF3ZPUnZ",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739216339951,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739216339972,
+        "modifiedTime": 1739216339972,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "VfXzSZtZ8jM6HsJd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "CKhMTrvrS4pJv5iK",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739216475754,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739216474097,
+        "modifiedTime": 1739216474097,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "X",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "3qPBfFLlS9Lp0ysG",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739216790626,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739216790649,
+        "modifiedTime": 1739216790649,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "XX",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "miV4pVMGvR4qwGTd",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739216806114,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739216806136,
+        "modifiedTime": 1739216806136,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "4OCy9t4AB6TFSEYk",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "content": "X<br />X",
+      "style": 2,
+      "author": "dyGeHOqB0VyeEfTb",
+      "_id": "tb0z4O6N45S40m5v",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739216817208,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739216817231,
+        "modifiedTime": 1739216817231,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "AwyfEjK3uYMdoMGW",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "content": "Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.",
+      "style": 2,
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "TTudITuTnGDWSnnd",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217010650,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217010717,
+        "modifiedTime": 1739217010717,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><details open><summary><a>Glibness</a></summary><table><tbody><tr><td><i>8th Level Transmutation</i></td></tr><tr><td><b>Casting Time</b></td><td>1 Action</td></tr><tr><td><b>Duration</b></td><td>1 Hour</td></tr><tr><td><b>Components</b></td><td>V</td></tr><tr><td><b>Range</b></td><td>Self</td></tr></tbody></table><div class=\"beyond20-description\">Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.</div></details></div></div>",
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "4OCy9t4AB6TFSEYk",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": ""
+      },
+      "type": "base",
+      "author": "dyGeHOqB0VyeEfTb",
+      "style": 1,
+      "_id": "K1TTpQOUxoz3cWdM",
+      "system": {},
+      "timestamp": 1739217016563,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217016586,
+        "modifiedTime": 1739217016586,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "H2RnD2kD5Uj0qW7v",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217072137,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217072161,
+        "modifiedTime": 1739217072161,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "BUZZ",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "lfk634ArDz6jKbek",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217070379,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217072688,
+        "modifiedTime": 1739217072688,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Divine Sense\" width=\"37\" height=\"37\" /><details open><summary><a>Divine Sense</a></summary><table><tbody><tr><td><i>Class</i></td></tr></tbody></table><div class=\"beyond20-description\">The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the hallow spell.<br />You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.</div></details></div></div>",
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "type": "base",
+      "author": "KilFTJbHStmpbGES",
+      "style": 1,
+      "_id": "YCE1QV1TuwUIhkum",
+      "system": {},
+      "timestamp": 1739217403386,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217405699,
+        "modifiedTime": 1739217405699,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "AwyfEjK3uYMdoMGW",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "oDu4OGRzljeepQtK",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217481204,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217481283,
+        "modifiedTime": 1739217481283,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "X",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "YDDQyHxmvVj9hZUY",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217575268,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217577584,
+        "modifiedTime": 1739217577584,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "XX",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "lWgB628sWqAKcaCn",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217590364,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217592681,
+        "modifiedTime": 1739217592681,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "BUZZ",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "FDDIB21dD5dBs1RW",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217857073,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217859392,
+        "modifiedTime": 1739217859392,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "4OCy9t4AB6TFSEYk",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "dyGeHOqB0VyeEfTb",
+      "_id": "1qXWzpoETfUxqurI",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217859691,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217859710,
+        "modifiedTime": 1739217859710,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "x",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "Fj7NJ2aca5WHUmnJ",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217939774,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217942094,
+        "modifiedTime": 1739217942094,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "XX",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "u794UxOmuDn3XDWn",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739217983390,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739217985711,
+        "modifiedTime": 1739217985711,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "SbRbBLsULJzhzJJJ",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739218197841,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739218197860,
+        "modifiedTime": 1739218197860,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "BUZZ",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "3CNLRu2RanCHLx4Y",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739218417401,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739218419730,
+        "modifiedTime": 1739218419730,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "AwyfEjK3uYMdoMGW",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "content": "buzz",
+      "style": 2,
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "hWE7YlTOD2IqAdl9",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739218419631,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739218419734,
+        "modifiedTime": 1739218419734,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "VfXzSZtZ8jM6HsJd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "content": "BUZZ",
+      "style": 2,
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "0nXzwJ0iwiZinkRD",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739218925910,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739218924294,
+        "modifiedTime": 1739218924294,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "content": "XX",
+      "style": 2,
+      "author": "KilFTJbHStmpbGES",
+      "_id": "h2B2gcGQ4FgfjV8N",
+      "type": "base",
+      "system": {},
+      "timestamp": 1739219156095,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739219158434,
+        "modifiedTime": 1739219158434,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Persuasion (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Persuasion (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">5</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">6</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">6</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">12</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">13</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">13</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "AwyfEjK3uYMdoMGW",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "type": "base",
+      "sound": "sounds/dice.wav",
+      "rolls": [
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 - 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":6}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\" - \"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":5,\"evaluated\":true}",
+        "{\"class\":\"Roll\",\"options\":{},\"dice\":[],\"formula\":\"1d20 - 1\",\"terms\":[{\"class\":\"Die\",\"options\":{},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"active\":true,\"result\":13}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":true,\"operator\":\" - \"},{\"class\":\"NumericTerm\",\"options\":{},\"evaluated\":true,\"number\":1}],\"total\":12,\"evaluated\":true}"
+      ],
+      "author": "7TkVadvHyFgig8tQ",
+      "style": 0,
+      "_id": "zlIswBE9y6ROfMpX",
+      "system": {},
+      "timestamp": 1739219476157,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739219476288,
+        "modifiedTime": 1739219476288,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "AwyfEjK3uYMdoMGW",
+        "actor": "kPYK5fcXvxTVGOKg",
+        "alias": "Orestes"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":6,\"active\":true}]}],\"total\":6,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "6",
+      "author": "7TkVadvHyFgig8tQ",
+      "_id": "jak6A9OdlJ9DQiGo",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739220004547,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739220004689,
+        "modifiedTime": 1739220004689,
+        "lastModifiedBy": "7TkVadvHyFgig8tQ"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "sW7sjQcsF44JqqF9",
+        "actor": "Rq75o6W4X7q68nIu",
+        "alias": "Versir"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":15,\"active\":true}]}],\"total\":15,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "15",
+      "author": "KilFTJbHStmpbGES",
+      "_id": "GV7MCMdV9BRwQVaK",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739220108373,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739220110727,
+        "modifiedTime": 1739220110727,
+        "lastModifiedBy": "KilFTJbHStmpbGES"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "SrKGikA3IpyZVAMA",
+        "actor": "KDHS9nGxsacekKXV",
+        "alias": "Felicjan Janus Twardowski"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":1,\"active\":true}]}],\"total\":1,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "1",
+      "author": "3PuWTvDyoejRW8p4",
+      "_id": "qBSG5I1Z1pNQctEb",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739220166043,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739220166060,
+        "modifiedTime": 1739220166060,
+        "lastModifiedBy": "3PuWTvDyoejRW8p4"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "4OCy9t4AB6TFSEYk",
+        "actor": "SLXnVm5gjHroo4cH",
+        "alias": "Orion Xul"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":13,\"active\":true}]}],\"total\":13,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "13",
+      "author": "dyGeHOqB0VyeEfTb",
+      "_id": "HO95tsAYNJ169uXP",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739220242312,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739220242339,
+        "modifiedTime": 1739220242339,
+        "lastModifiedBy": "dyGeHOqB0VyeEfTb"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "pgUpctfoRcfKLvQL",
+        "token": "VfXzSZtZ8jM6HsJd",
+        "actor": "mGDWJnyjLc9n96rG",
+        "alias": "Arevon Elorrenthi"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":4,\"active\":true}]}],\"total\":4,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "4",
+      "author": "hqyemBL7Lmg9mvzf",
+      "_id": "r0iOMqbIM3LsELj9",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1739220305587,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403418417
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739220303997,
+        "modifiedTime": 1739220303997,
+        "lastModifiedBy": "hqyemBL7Lmg9mvzf"
+      }
+    },
+    {
+      "content": "<div class=\"dnd5e2 chat-card activation-card\">\n    <section class=\"card-header description collapsible\">\n        <header class=\"summary\">\n            <img class=\"gold-icon\" src=\"icons/magic/light/beam-rays-magenta-large.webp\" alt=\"Spellcasting\" />\n            <div class=\"name-stacked border\">\n                <span class=\"title\">Spellcasting</span>\n                <span class=\"subtitle\">Feature</span>\n            </div>\n            <i class=\"fa-solid fa-chevron-down fa-fw\" inert></i>\n        </header>\n        <section class=\"details collapsible-content card-content\">\n            <div class=\"wrapper\"><div class=\"rd__b  rd__b--3\"><p></p><div data-roll-name-ancestor=\"Spellcasting\" class=\"rd__b  rd__b--3\"><p><span class=\"rd__h rd__h--3\" data-title-index=\"1\"> <span class=\"entry-title-inner\">Spellcasting.</span></span> Garrick Vanalan casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC <span class=\"rd__dc\">14</span>):</p><ul class=\"rd__list rd__list-hang-notitle\"><li class=\"rd__li  rd__li-spell\"><p>At will: <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.phRs51FRodVc8Q9b\" data-id=\"phRs51FRodVc8Q9b\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Friends</a>, <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.YWzLuk6nfcDkvFsM\" data-id=\"YWzLuk6nfcDkvFsM\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Mage Hand</a>, <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.UEMiZ9Rx38lOMXY0\" data-id=\"UEMiZ9Rx38lOMXY0\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Message</a></p></li><li class=\"rd__li  rd__li-spell\"><p>2/day each: <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.FDBK6uMnC4fth8d9\" data-id=\"FDBK6uMnC4fth8d9\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Charm Person</a>, <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.vQ6i4zv3uXoaH2hA\" data-id=\"vQ6i4zv3uXoaH2hA\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Mage Armor</a>, <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.sz0w2fuuqOYZc7q0\" data-id=\"sz0w2fuuqOYZc7q0\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Hold Person</a>, <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.NBaYQrkrc8tF6tix\" data-id=\"NBaYQrkrc8tF6tix\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Invisibility</a>, <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.XUpv0APdMDAFBQQk\" data-id=\"XUpv0APdMDAFBQQk\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Suggestion</a>, <a class=\"content-link\" draggable=\"true\" data-link data-uuid=\"Actor.bk9PksunfMD5ySZX.Item.0iFGyQVYL6VR1tZy\" data-id=\"0iFGyQVYL6VR1tZy\" data-type=\"Item\" data-tooltip=\"Spell Item\"><i class=\"fas fa-suitcase\"></i>Tongues</a></p></li></ul></div></div></div>\n        </section>\n    </section>\n\n\n\n    <ul class=\"card-footer pills unlist\">\n        <li class=\"pill transparent\">\n            <span class=\"label\">Action</span>\n        </li>\n        <li class=\"pill transparent\">\n            <span class=\"label\">Instantaneous</span>\n        </li>\n        <li class=\"pill transparent\">\n            <span class=\"label\">Self</span>\n        </li>\n    </ul>\n</div>",
+      "speaker": {
+        "scene": "M5k5nvxVNtDRD2N5",
+        "token": "EdfKX61YIOleGOA4",
+        "actor": "bk9PksunfMD5ySZX",
+        "alias": "Garrick Vanalan"
+      },
+      "flags": {
+        "core": {
+          "canPopout": true
+        },
+        "dnd5e": {
+          "activity": {
+            "type": "utility",
+            "id": "2wipHvd02X3zXMbf",
+            "uuid": "Actor.bk9PksunfMD5ySZX.Item.W8ipfbggshaqXOv3.Activity.2wipHvd02X3zXMbf"
+          },
+          "item": {
+            "type": "feat",
+            "id": "W8ipfbggshaqXOv3",
+            "uuid": "Actor.bk9PksunfMD5ySZX.Item.W8ipfbggshaqXOv3"
+          },
+          "targets": [],
+          "messageType": "usage",
+          "use": {
+            "effects": []
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46403403448
+          }
+        }
+      },
+      "rolls": [],
+      "whisper": [],
+      "blind": false,
+      "_id": "FVziGGa4LDviQQOU",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1739223604596,
+      "flavor": "",
+      "sound": null,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.2.2",
+        "createdTime": 1739223604796,
+        "modifiedTime": 1739223604796,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    }
+  ]
+}

@@ -1,4 +1,9 @@
-# Sesja 14: Burza nad Mytros
+---
+title: "Sesja 14: Burza nad Mytros"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/014/chat_log.json"
+---
 
 **Data:** 20.05.2024
 

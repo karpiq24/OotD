@@ -1,4 +1,9 @@
-# Sesja 3: Skradziony Róg
+---
+title: "Sesja 3: Skradziony Róg"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/003/chat_log.json"
+---
 
 **Data:** 29.01.2024
 

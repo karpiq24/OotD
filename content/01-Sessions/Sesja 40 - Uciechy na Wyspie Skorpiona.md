@@ -1,4 +1,9 @@
-# Sesja 40: Uciechy na Wyspie Skorpiona
+---
+title: "Sesja 40: Uciechy na Wyspie Skorpiona"
+transcript: "../assets/sessions/040/transcript.txt"
+transcript_json: "../assets/sessions/040/transcript.json"
+chat_log: "../assets/sessions/040/chat_log.json"
+---
 
 **Data:** 03.02.2025
 

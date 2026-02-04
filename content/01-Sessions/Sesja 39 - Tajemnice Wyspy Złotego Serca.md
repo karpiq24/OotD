@@ -1,4 +1,9 @@
-# Sesja 39: Wyspa Złotego Serca
+---
+title: "Sesja 39: Wyspa Złotego Serca"
+transcript: "../assets/sessions/039/transcript.txt"
+transcript_json: "../assets/sessions/039/transcript.json"
+chat_log: "../assets/sessions/039/chat_log.json"
+---
 
 **Data:** 27.01.2025
 

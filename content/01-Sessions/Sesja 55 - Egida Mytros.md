@@ -1,4 +1,9 @@
-# Sesja 55: Egida Mytros
+---
+title: "Sesja 55: Egida Mytros"
+transcript: "../assets/sessions/055/transcript.txt"
+transcript_json: "../assets/sessions/055/transcript.json"
+chat_log: "../assets/sessions/055/chat_log.json"
+---
 
 **Data:** 04.08.2025
 

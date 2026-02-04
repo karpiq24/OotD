@@ -1,4 +1,9 @@
-# Sesja 36: Królowa, Dziedzic i Generał
+---
+title: "Sesja 36: Królowa, Dziedzic i Generał"
+transcript: "../assets/sessions/036/transcript.txt"
+transcript_json: "../assets/sessions/036/transcript.json"
+chat_log: "../assets/sessions/036/chat_log.json"
+---
 
 **Data:** 07.01.2025
 

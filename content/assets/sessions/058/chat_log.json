@@ -1,0 +1,385 @@
+{
+  "title": "session58",
+  "archiveDate": "2025-09-08",
+  "author": "karpiq",
+  "creationTimestamp": "2025-09-08T20:55:49.209Z",
+  "messages": [
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Kiedy przemierzasz oceany z armią, otoczoną ze wszystkich stron śmiercią i nie widzisz końca swojej podróży, wkrótce poznasz wartość lojalności.\" — Rizon Phobas, Smoczy Lord</p>\n        </div>",
+      "timestamp": "2025-09-08T14:35:04.466Z"
+    },
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button class=\"ve-btn w-100\" data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "timestamp": "2025-09-08T14:58:26.744Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Nie wierzcie słowom tej wiedźmy, Versi. Kiedyś stwierdziła, że nie widzi żadnych wielkich czynów w mojej przyszłości. Patrzcie na mnie teraz - czyż nie jestem królem Mytros.\" — Acastus, król Mytros</p>\n        </div>",
+      "timestamp": "2025-09-08T14:58:26.925Z"
+    },
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button class=\"ve-btn w-100\" data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "timestamp": "2025-09-08T15:54:50.369Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Najstarsze mity mówią o Starszych Bogach, którzy mogli się równać z Thyleą i Kentimane. Ich imiona nie są nam znane.\" — nieznany kapłan Lutherii</p>\n        </div>",
+      "timestamp": "2025-09-08T16:06:20.674Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cure Wounds\" width=\"37\" height=\"37\" /><details><summary><a>Cure Wounds</a></summary><table><tbody><tr><td><i>1st Level Abjuration (Cast at 2nd Level)</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>Instantaneous</td></tr><tr><td><b>Components</b></td><td>V, S</td></tr><tr><td><b>Range</b></td><td>Touch</td></tr></tbody></table><div class=\"beyond20-description\">A creature you touch regains a number of Hit Points equal to <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> plus your spellcasting ability modifier.<br />Using a Higher-Level Spell Slot. The healing increases by <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> for each spell slot level above 1.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Touch</span></div><div class=\"beyond20-roll-result\"><b>Cast at: </b><span>2nd Level</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S</span></div><button class=\"beyond20-button-roll-damages\">Roll Damages</button></div>",
+      "timestamp": "2025-09-08T16:22:54.480Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "21",
+      "timestamp": "2025-09-08T16:22:53.301Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "17",
+      "timestamp": "2025-09-08T16:22:57.877Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "2",
+      "timestamp": "2025-09-08T16:23:05.851Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cure Wounds\" width=\"37\" height=\"37\" /><details><summary><a>Cure Wounds</a></summary><table><tbody><tr><td><i>1st Level Abjuration (Cast at 2nd Level)</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>Instantaneous</td></tr><tr><td><b>Components</b></td><td>V, S</td></tr><tr><td><b>Range</b></td><td>Touch</td></tr></tbody></table><div class=\"beyond20-description\">A creature you touch regains a number of Hit Points equal to <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> plus your spellcasting ability modifier.<br />Using a Higher-Level Spell Slot. The healing increases by <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> for each spell slot level above 1.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Touch</span></div><div class=\"beyond20-roll-result\"><b>Cast at: </b><span>2nd Level</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S</span></div><div class=\"beyond20-roll-result beyond20-roll-damage beyond20-healing\"><b>Healing: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit beyond20-roll-total dice-total\">21</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">4d8 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d8\">4</li>\n                    <li class=\"roll die d8\">3</li>\n                    <li class=\"roll die d8\">2</li>\n                    <li class=\"roll die d8 max\">8</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">17</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div>",
+      "timestamp": "2025-09-08T16:23:08.569Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Healing Hands (4d4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Healing Hands (4d4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-fail beyond20-roll-total dice-total\">8</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">4d4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d4\">3</li>\n                    <li class=\"roll die d4 min\">1</li>\n                    <li class=\"roll die d4\">3</li>\n                    <li class=\"roll die d4 min\">1</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">8</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T16:23:49.199Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "23",
+      "timestamp": "2025-09-08T16:24:36.593Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cure Wounds\" width=\"37\" height=\"37\" /><details><summary><a>Cure Wounds</a></summary><table><tbody><tr><td><i>1st Level Abjuration</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>Instantaneous</td></tr><tr><td><b>Components</b></td><td>V, S</td></tr><tr><td><b>Range</b></td><td>Touch</td></tr></tbody></table><div class=\"beyond20-description\">A creature you touch regains a number of Hit Points equal to <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> plus your spellcasting ability modifier.<br />Using a Higher-Level Spell Slot. The healing increases by <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> for each spell slot level above 1.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Touch</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S</span></div><button class=\"beyond20-button-roll-damages\">Roll Damages</button></div>",
+      "timestamp": "2025-09-08T16:24:49.879Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "2",
+      "timestamp": "2025-09-08T16:24:54.597Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cure Wounds\" width=\"37\" height=\"37\" /><details><summary><a>Cure Wounds</a></summary><table><tbody><tr><td><i>1st Level Abjuration</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>Instantaneous</td></tr><tr><td><b>Components</b></td><td>V, S</td></tr><tr><td><b>Range</b></td><td>Touch</td></tr></tbody></table><div class=\"beyond20-description\">A creature you touch regains a number of Hit Points equal to <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> plus your spellcasting ability modifier.<br />Using a Higher-Level Spell Slot. The healing increases by <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> for each spell slot level above 1.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Touch</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S</span></div><div class=\"beyond20-roll-result beyond20-roll-damage beyond20-healing\"><b>Healing: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">2d8 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d8\">6</li>\n                    <li class=\"roll die d8\">3</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">9</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div>",
+      "timestamp": "2025-09-08T16:24:58.252Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>Sydon jest zazdrosnym bogiem, który nie godzi się na święcenie innych bogów niż on sam i jego siostra-żona Lutheria.</p>\n        </div>",
+      "timestamp": "2025-09-08T16:26:25.968Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cure Wounds\" width=\"37\" height=\"37\" /><details><summary><a>Cure Wounds</a></summary><table><tbody><tr><td><i>1st Level Abjuration</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>Instantaneous</td></tr><tr><td><b>Components</b></td><td>V, S</td></tr><tr><td><b>Range</b></td><td>Touch</td></tr></tbody></table><div class=\"beyond20-description\">A creature you touch regains a number of Hit Points equal to <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> plus your spellcasting ability modifier.<br />Using a Higher-Level Spell Slot. The healing increases by <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> for each spell slot level above 1.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Touch</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S</span></div><button class=\"beyond20-button-roll-damages\">Roll Damages</button></div>",
+      "timestamp": "2025-09-08T16:27:14.505Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "4",
+      "timestamp": "2025-09-08T16:27:17.150Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Cure Wounds\" width=\"37\" height=\"37\" /><details><summary><a>Cure Wounds</a></summary><table><tbody><tr><td><i>1st Level Abjuration</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>Instantaneous</td></tr><tr><td><b>Components</b></td><td>V, S</td></tr><tr><td><b>Range</b></td><td>Touch</td></tr></tbody></table><div class=\"beyond20-description\">A creature you touch regains a number of Hit Points equal to <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> plus your spellcasting ability modifier.<br />Using a Higher-Level Spell Slot. The healing increases by <span class=\"ct-beyond20-custom-roll\"><strong>2d8</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">2d8</span></span> for each spell slot level above 1.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Touch</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S</span></div><div class=\"beyond20-roll-result beyond20-roll-damage beyond20-healing\"><b>Healing: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">12</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">2d8 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d8\">5</li>\n                    <li class=\"roll die d8\">3</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">8</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div>",
+      "timestamp": "2025-09-08T16:27:20.392Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"False Life\" width=\"37\" height=\"37\" /><details><summary><a>False Life</a></summary><table><tbody><tr><td><i>Legacy •  1st Level Necromancy (Cast at 1st Level)</i></td></tr><tr><td><b>Casting Time</b></td><td>1 action</td></tr><tr><td><b>Duration</b></td><td>1 hour</td></tr><tr><td><b>Components</b></td><td>V, S, M(a small amount of alcohol or distilled spirits)</td></tr><tr><td><b>Range</b></td><td>Self</td></tr></tbody></table><div class=\"beyond20-description\">Bolstering yourself with a necromantic facsimile of life, you gain <span class=\"ct-beyond20-custom-roll\"><strong>1d4 + 4</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d4 + 4</span></span> temporary hit points for the duration.<br /><br /><b>At Higher levels.</b> When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.</div></details></div><div class=\"beyond20-roll-result\"><b>Range: </b><span>Self</span></div><div class=\"beyond20-roll-result\"><b>Cast at: </b><span>1st Level</span></div><div class=\"beyond20-roll-result\"><b>Components: : </b><span>V, S, M(a small amount of alcohol or distilled spirits)</span></div><div class=\"beyond20-roll-result beyond20-roll-damage beyond20-healing\"><b>Temp HP: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">6</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d4 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d4\">2</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">2</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div>",
+      "timestamp": "2025-09-08T16:27:32.160Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Persuasion (+10)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Persuasion (+10)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">14</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 10</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">4</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">4</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">20</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 10</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">10</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">10</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T16:30:23.460Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Guidance (d4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Guidance (d4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">2</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d4\">2</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">2</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T17:24:42.441Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Animal Handling (+4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Animal Handling (+4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">18</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">14</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">14</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T17:24:48.761Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Animal Handling (+4)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Animal Handling (+4)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-crit beyond20-roll-total dice-total\">24</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 4</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20 max\">20</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">20</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T17:25:31.774Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "patrz Ikar. Tak się robi latające maszyny",
+      "timestamp": "2025-09-08T17:26:19.304Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "Dedal*",
+      "timestamp": "2025-09-08T17:26:26.351Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "ja przywołuje twierdzę",
+      "timestamp": "2025-09-08T17:27:39.273Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "nie mogę teraz mówić bo mała zasypia",
+      "timestamp": "2025-09-08T17:27:44.887Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Performance (+3)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Performance (+3)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">10</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 3</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">7</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">7</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T17:31:59.431Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "11",
+      "timestamp": "2025-09-08T17:38:17.069Z"
+    },
+    {
+      "speaker": "karpiq",
+      "content": "<div class=\"table-draw\" data-table-id=\"lomTa00HQJ48Hs7p\">\n    <div class=\"dice-roll\" data-action=\"expandRoll\">\n    <div class=\"dice-result\">\n        <div class=\"dice-formula\">1d30</div>\n        <div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d30\">7</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">7</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n\n        <h4 class=\"dice-total\">7</h4>\n    </div>\n</div>\n\n\n    <ul class=\"table-results\">\n        <li class=\"flexrow\" data-result-id>\n            <img src=\"icons/magic/water/wave-water-rolling-blue.webp\" />\n            <div class=\"description\">\n    Dolphins\n</div>\n        </li>\n    </ul>\n</div>",
+      "timestamp": "2025-09-08T17:38:30.803Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "Arevon kończy pisać scrolla te dwa dni",
+      "timestamp": "2025-09-08T17:40:10.153Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "20",
+      "timestamp": "2025-09-08T17:45:14.604Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "2",
+      "timestamp": "2025-09-08T17:45:21.594Z"
+    },
+    {
+      "speaker": "karpiq",
+      "content": "<div class=\"table-draw\" data-table-id=\"lomTa00HQJ48Hs7p\">\n    <div class=\"dice-roll\" data-action=\"expandRoll\">\n    <div class=\"dice-result\">\n        <div class=\"dice-formula\">1d30</div>\n        <div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d30\">26</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">26</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n\n        <h4 class=\"dice-total\">26</h4>\n    </div>\n</div>\n\n\n    <ul class=\"table-results\">\n        <li class=\"flexrow\" data-result-id>\n            <img src=\"icons/magic/water/wave-water-rolling-blue.webp\" />\n            <div class=\"description\">\n    Ocean’s Caprice\n</div>\n        </li>\n    </ul>\n</div>",
+      "timestamp": "2025-09-08T17:45:27.262Z"
+    },
+    {
+      "speaker": "Talieus",
+      "content": "",
+      "timestamp": "2025-09-08T18:11:38.262Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "Hooooooobert",
+      "timestamp": "2025-09-08T18:19:06.373Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "ho7bert",
+      "timestamp": "2025-09-08T18:28:09.665Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Survival (+8)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Survival (+8)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">27</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 8</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">19</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">19</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T18:31:26.928Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "Astra roll <br />/r 1d20",
+      "timestamp": "2025-09-08T18:43:48.153Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "16",
+      "timestamp": "2025-09-08T18:43:50.832Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save (+8)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save (+8)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">16</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 8</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">8</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">8</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T18:54:02.717Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save (+3)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save (+3)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">17</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 3</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">14</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">14</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T18:54:04.634Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save (+5)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save (+5)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">11</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 5</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">6</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">6</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">9</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 5</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">4</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">4</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T18:54:10.402Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save (+1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save (+1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-detail-discarded\">13</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">12</span></div></div></div></span></span></div><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">16</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 1</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">15</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-09-08T18:54:16.592Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Wisdom Save (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Wisdom Save (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">3</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">4</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">4</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T18:54:21.009Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "13",
+      "timestamp": "2025-09-08T18:54:43.492Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "5",
+      "timestamp": "2025-09-08T18:54:56.289Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "4",
+      "timestamp": "2025-09-08T18:56:21.806Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "4",
+      "timestamp": "2025-09-08T18:56:25.306Z"
+    },
+    {
+      "speaker": "Paradox",
+      "content": "Mam miasta, ale nie mam domów. Mam góry, ale nie mam drzew. Mam wodę, ale nie mam ryb. Kim jestem?",
+      "timestamp": "2025-09-08T19:01:39.637Z"
+    },
+    {
+      "speaker": "Paradox",
+      "content": "Człowiek, który mnie tworzy, sprzedaje mnie. Człowiek, który mnie kupuje, nie używa mnie. Człowiek, który mnie używa, nie wie o tym. Kim jestem?",
+      "timestamp": "2025-09-08T19:02:47.864Z"
+    },
+    {
+      "speaker": "Paradox",
+      "content": "Jestem lekki jak piórko, a jednak najsilniejszy mąż nie może mnie utrzymać dłużej niż przez kilka minut. Kim jestem?",
+      "timestamp": "2025-09-08T19:05:35.337Z"
+    },
+    {
+      "content": "<div>\n\t\t\t\t<p>Welcome to Plutonium!</p>\n\t\t\t\t<p>We would like to remind you that neither Foundry nor Forge support piracy in any shape or form, and that <b>all</b> discussion related to the use of Plutonium should be done in our <a target=\"_blank\" href=\"https://discord.gg/nGvRCDs\" rel=\"noopener noreferrer\">Discord</a>.</p>\n\t\t\t\t<p>Additionally, if you wish to screenshot or stream your game, we recommend <span data-plut-wdt-streamer=\"true\" class=\"render-roller\">Streamer Mode</span>.</p>\n\t\t\t\t<div><button class=\"ve-btn w-100\" data-chat-notification-handler-startup-we-dont-talk=\"true\">I Understand</button></div>\n\t\t\t</div>",
+      "timestamp": "2025-09-08T19:06:29.082Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"To Smoczy Lordowie sprowadzili do Thylei swoje obce pojęcia dobra i zła. Wcześniej było to jasne, że bogom i tytanom należy się szacunek i nie należy rzucać im wyzwania\" — nieznany kapłan Lutherii</p>\n        </div>",
+      "timestamp": "2025-09-08T19:06:29.476Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "Mam białą głowę, ale nie mam mózgu. Mam złote ciało, ale nie mam serca. Kim jestem?",
+      "timestamp": "2025-09-08T19:08:36.475Z"
+    },
+    {
+      "speaker": "Tidbits",
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Wielkie Igrzyska mają historię niemal tak brutalną jak kampanie areskie. To po prostu banda krwiożerczych barbarzyńców rozdzierających się nawzajem w ramach najmniejszego sporu. Oczywiście mam na myśli widzów, a nie sportowców.\" — Vallus, Bogini Mądrości</p>\n        </div>",
+      "timestamp": "2025-09-08T19:16:05.174Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Persuasion (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Persuasion (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">15</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">16</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">16</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T19:53:41.193Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Glock 17 9mm\" width=\"37\" height=\"37\" /><details><summary><a>Glock 17 9mm</a></summary><table><tbody><tr><td><b>Range</b></td><td>30ft./90ft.</td></tr></tbody></table><div class=\"beyond20-description\">Glock (German: [ˈglɔk]; stylized as GLOCK) is a brand of polymer-framed, short-recoil-operated, striker-fired, locked-breech semi-automatic pistols designed and produced by Austrian manufacturer Glock Ges.m.b.H.<br />Glock 17: The Glock 17 is the original 9×19mm Parabellum model, with a standard magazine capacity of 17 rounds, introduced in 1982. Initial samples of the new civilian offering were marked Glock 82. But, it was decided not to use the year to designate civilian models, but to begin the model numbers at 17 and continue numerically from there. Glock also offers a version of the standard magazine which incorporates a longer \"<span class=\"ct-beyond20-custom-roll\"><strong>+2</strong><img class=\"ct-beyond20-custom-icon\" src=\"/modules/beyond20/images/icons/icon20.png\" style=\"margin-right:3px;margin-left:3px;border:0px\" /><span class=\"beyond20-roll-formula\" style=\"display:none\">1d20+2</span></span>\" base plate to provide a capacity of 19 rounds. Also, a 10-round version of the standard magazine was created for markets that restrict the magazine capacity of handguns.</div></details></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Piercing Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">9</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d10 + 2</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d10\">7</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">7</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-result beyond20-roll-damage\"><b>Piercing Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal\">3</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d10</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d10\">3</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">3</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div><div class=\"beyond20-roll-result\"><b><hr /></b></div><div class=\"beyond20-roll-result beyond20-total-damage\"><b>Total Damage: </b><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">12</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">9 + 3</div></span></span></div></div>",
+      "timestamp": "2025-09-08T19:55:36.577Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "Felicjan Janus Twardowski has no active condition",
+      "timestamp": "2025-09-08T20:08:38.811Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "Arevon Elorrenthi is : Exhausted (Level 1)",
+      "timestamp": "2025-09-08T20:08:44.202Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "Orestes is : Exhausted (Level 1)",
+      "timestamp": "2025-09-08T20:08:41.597Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "Felicjan Janus Twardowski is : Exhausted (Level 1)",
+      "timestamp": "2025-09-08T20:08:42.356Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "Versir is : Exhausted (Level 1)",
+      "timestamp": "2025-09-08T20:08:46.546Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "Orion Xul is : Exhausted (Level 1)",
+      "timestamp": "2025-09-08T20:10:23.796Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "oddech",
+      "timestamp": "2025-09-08T20:13:47.002Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "y",
+      "timestamp": "2025-09-08T20:13:47.877Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "y",
+      "timestamp": "2025-09-08T20:13:48.318Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "y",
+      "timestamp": "2025-09-08T20:13:48.857Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "y",
+      "timestamp": "2025-09-08T20:13:50.177Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "-f --skip",
+      "timestamp": "2025-09-08T20:14:02.321Z"
+    },
+    {
+      "speaker": "Felicjan Janus Twardowski",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39008/949/1581111423-114940824.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Investigation (+5)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Investigation (+5)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">18</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 5</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">13</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">13</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T20:48:50.039Z"
+    },
+    {
+      "speaker": "Arevon Elorrenthi",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39227/640/1581111423-115466253.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Investigation (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Investigation (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">7</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">8</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">8</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T20:48:55.836Z"
+    },
+    {
+      "speaker": "Orestes",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/38584/610/1581111423-114328687.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Investigation (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Investigation (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">8</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">9</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">9</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T20:48:58.203Z"
+    },
+    {
+      "speaker": "Orion Xul",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/39280/596/1581111423-116317631.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Investigation (+0)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Investigation (+0)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">7</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 + 0</div><div class=\"beyond20-roll-tooltip\"><div class=\"beyond20-roll-dice\"><div class=\"beyond20-roll-dice-formula\">1d20</div><div class=\"beyond20-roll-dice-rolls\"><span class=\"beyond20-roll-die-result beyond20-roll-detail-normal\">7</span></div></div></div></span></span></div></div></div>",
+      "timestamp": "2025-09-08T20:48:59.002Z"
+    },
+    {
+      "speaker": "Versir",
+      "content": "<div class=\"beyond20-message\"><div class=\"beyond20-header\"><img class=\"beyond20-character-avatar\" src=\"https://www.dndbeyond.com/avatars/37923/405/1581111423-112244181.jpeg?width=150&amp;height=150&amp;fit=crop&amp;quality=95&amp;auto=webp\" title=\"Investigation (-1)\" width=\"37\" height=\"37\" /><span class=\"beyond20-title\">Investigation (-1)</span></div><div class=\"beyond20-roll-result beyond20-roll-cells\"><div class=\"beyond20-roll-cell\"><span class=\"beyond20-tooltip\"><span class=\"beyond20-roll-value beyond20-roll-detail-normal beyond20-roll-total dice-total\">7</span><span class=\"dice-roll beyond20-tooltip-content\"><div class=\"dice-formula beyond20-roll-formula\">1d20 - 1</div><div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\" style=\"display:block\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d20\">8</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">8</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n</span></span></div></div></div>",
+      "timestamp": "2025-09-08T20:49:05.620Z"
+    }
+  ]
+}

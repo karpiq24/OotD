@@ -1,4 +1,9 @@
-# Sesja 66: Przebudzenie Bestii i Cienie Otchłani
+---
+title: "Sesja 66: Przebudzenie Bestii i Cienie Otchłani"
+transcript: "../assets/sessions/066/transcript.txt"
+transcript_json: "../assets/sessions/066/transcript.json"
+chat_log: "../assets/sessions/066/chat_log.json"
+---
 
 **Data:** 2026-01-14
 

@@ -1,4 +1,9 @@
-# Sesja 49: Wielkie Gęsie Powstanie
+---
+title: "Sesja 49: Wielkie Gęsie Powstanie"
+transcript: "../assets/sessions/049/transcript.txt"
+transcript_json: "../assets/sessions/049/transcript.json"
+chat_log: "../assets/sessions/049/chat_log.json"
+---
 
 **Data:** 26.05.2025
 

@@ -1,4 +1,9 @@
-# Sesja 46: Morderca z Wyspy Wygnańców
+---
+title: "Sesja 46: Morderca z Wyspy Wygnańców"
+transcript: "../assets/sessions/046/transcript.txt"
+transcript_json: "../assets/sessions/046/transcript.json"
+chat_log: "../assets/sessions/046/chat_log.json"
+---
 
 **Data:** 31.03.2025
 

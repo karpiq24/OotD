@@ -1,4 +1,9 @@
-# Sesja 44: Ventis
+---
+title: "Sesja 44: Ventis"
+transcript: "../assets/sessions/044/transcript.txt"
+transcript_json: "../assets/sessions/044/transcript.json"
+chat_log: "../assets/sessions/044/chat_log.json"
+---
 
 **Data:** 19.02.2024
 

@@ -1,4 +1,9 @@
-# Sesja 1: Wielki Dzik
+---
+title: "Sesja 1: Wielki Dzik"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/001/chat_log.json"
+---
 
 **Data:** 15.01.2024
 

@@ -1,4 +1,9 @@
-# Sesja 52: Infiltracja Yonder
+---
+title: "Sesja 52: Infiltracja Yonder"
+transcript: "../assets/sessions/052/transcript.txt"
+transcript_json: "../assets/sessions/052/transcript.json"
+chat_log: "../assets/sessions/052/chat_log.json"
+---
 
 **Data:** 30.06.2025
 

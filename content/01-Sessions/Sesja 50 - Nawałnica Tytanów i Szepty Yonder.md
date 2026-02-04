@@ -1,4 +1,9 @@
-# Sesja 50: Spotkanie z rojem
+---
+title: "Sesja 50: Spotkanie z rojem"
+transcript: "../assets/sessions/050/transcript.txt"
+transcript_json: "../assets/sessions/050/transcript.json"
+chat_log: "../assets/sessions/050/chat_log.json"
+---
 
 **Data:** 09.06.2025
 

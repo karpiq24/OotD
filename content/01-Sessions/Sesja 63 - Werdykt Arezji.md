@@ -1,4 +1,9 @@
-# Sesja 63: Werdykt Arezji
+---
+title: "Sesja 63: Werdykt Arezji"
+transcript: "../assets/sessions/063/transcript.txt"
+transcript_json: "../assets/sessions/063/transcript.json"
+chat_log: "../assets/sessions/063/chat_log.json"
+---
 
 **Data:** 08.12.2025
 

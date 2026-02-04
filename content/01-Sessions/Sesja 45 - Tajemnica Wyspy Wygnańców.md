@@ -1,4 +1,9 @@
-# Sesja 45: Tajemnica Wyspy Wygnańców
+---
+title: "Sesja 45: Tajemnica Wyspy Wygnańców"
+transcript: "../assets/sessions/045/transcript.txt"
+transcript_json: "../assets/sessions/045/transcript.json"
+chat_log: "../assets/sessions/045/chat_log.json"
+---
 
 **Data:** 24.03.2025
 

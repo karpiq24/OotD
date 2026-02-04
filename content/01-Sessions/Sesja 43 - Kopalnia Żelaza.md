@@ -1,4 +1,9 @@
-# Sesja 43: Kopalnia Żelaza
+---
+title: "Sesja 43: Kopalnia Żelaza"
+transcript: "../assets/sessions/043/transcript.txt"
+transcript_json: "../assets/sessions/043/transcript.json"
+chat_log: "../assets/sessions/043/chat_log.json"
+---
 
 **Data:** 03.03.2025
 

@@ -1,4 +1,9 @@
-# Sesja 47: Wyspa Mojr
+---
+title: "Sesja 47: Wyspa Mojr"
+transcript: "../assets/sessions/047/transcript.txt"
+transcript_json: "../assets/sessions/047/transcript.json"
+chat_log: "../assets/sessions/047/chat_log.json"
+---
 
 **Data:** 13.05.2024
 

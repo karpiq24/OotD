@@ -1,0 +1,507 @@
+{
+  "data": {
+    "id": "Ahf9wHgaSzFWnDCo",
+    "title": "Sesja 45",
+    "timestamp": 1742850750318,
+    "description": "",
+    "location": "worlds/odyssey-of-the-dragonlords/chat-archives/Ahf9wHgaSzFWnDCo.json"
+  },
+  "messages": [
+    {
+      "flavor": "Draws a result from the Sea Random Encounters table",
+      "speaker": {
+        "scene": "JZY982wRan3rWI3I",
+        "actor": null,
+        "token": null,
+        "alias": "karpiq"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d30\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":30,\"modifiers\":[],\"results\":[{\"result\":12,\"active\":true}]}],\"total\":12,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "core": {
+          "RollTable": "lomTa00HQJ48Hs7p"
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402875428
+          }
+        }
+      },
+      "content": "<div class=\"table-draw\" data-table-id=\"lomTa00HQJ48Hs7p\">\n    <div class=\"dice-roll\">\n    <div class=\"dice-result\">\n        <div class=\"dice-formula\">1d30</div>\n        <div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d30\">12</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">12</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n\n        <h4 class=\"dice-total\">12</h4>\n    </div>\n</div>\n\n    <ol class=\"table-results\">\n        <li class=\"table-result flexrow\" data-result-id=\"t5cZoLJ7muOf8gwG\">\n            <img class=\"result-image\" src=\"icons/svg/d20-black.svg\" />\n            <div class=\"result-text\">Roc</div>\n        </li>\n    </ol>\n</div>",
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "od44ImD9z6HGftrw",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1742837484856,
+      "whisper": [
+        "j6dLpLTM1Hkwhk3U"
+      ],
+      "blind": false,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742837484941,
+        "modifiedTime": 1742837484941,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "dnd5e": {
+          "messageType": "roll",
+          "roll": {
+            "ability": "str",
+            "type": "ability"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402875113
+          }
+        }
+      },
+      "flavor": "Strength Ability Check",
+      "speaker": {
+        "scene": "EEFdJkEs24RYH6IA",
+        "token": "7ctOPbTg5vY3XQjH",
+        "actor": "42L6ob6zSv1tNYi6",
+        "alias": "Roc"
+      },
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1,\"configured\":true,\"rollType\":\"ability\"},\"dice\":[],\"formula\":\"1d20 + 9\",\"terms\":[{\"class\":\"D20Die\",\"options\":{\"flavor\":null,\"elvenAccuracy\":false,\"halflingLucky\":false,\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":11,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":9}],\"total\":20,\"evaluated\":true}"
+      ],
+      "_id": "lflNkxnqx8ajXst2",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1742837840933,
+      "content": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742837841025,
+        "modifiedTime": 1742837841025,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "dnd5e": {
+          "messageType": "roll",
+          "roll": {
+            "ability": "str",
+            "type": "ability"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402875042
+          }
+        }
+      },
+      "flavor": "Strength Ability Check",
+      "speaker": {
+        "scene": "EEFdJkEs24RYH6IA",
+        "token": "7ctOPbTg5vY3XQjH",
+        "actor": "42L6ob6zSv1tNYi6",
+        "alias": "Roc"
+      },
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1,\"configured\":true,\"rollType\":\"ability\"},\"dice\":[],\"formula\":\"1d20 + 9\",\"terms\":[{\"class\":\"D20Die\",\"options\":{\"flavor\":null,\"elvenAccuracy\":false,\"halflingLucky\":false,\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":9}],\"total\":11,\"evaluated\":true}"
+      ],
+      "_id": "KHHK73wJSB8uBXxa",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1742837918698,
+      "content": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742837918792,
+        "modifiedTime": 1742837918792,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "dnd5e": {
+          "messageType": "roll",
+          "roll": {
+            "ability": "con",
+            "type": "save"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402874886
+          }
+        }
+      },
+      "flavor": "Constitution Saving Throw",
+      "speaker": {
+        "scene": "EEFdJkEs24RYH6IA",
+        "token": "7ctOPbTg5vY3XQjH",
+        "actor": "42L6ob6zSv1tNYi6",
+        "alias": "Roc"
+      },
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1,\"configured\":true,\"rollType\":\"save\"},\"dice\":[],\"formula\":\"1d20 + 5 + 0\",\"terms\":[{\"class\":\"D20Die\",\"options\":{\"flavor\":null,\"elvenAccuracy\":false,\"halflingLucky\":false,\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":11,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":5},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":0}],\"total\":16,\"evaluated\":true}"
+      ],
+      "_id": "SpcO76CSgMpnME2L",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1742838092233,
+      "content": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742838092330,
+        "modifiedTime": 1742838092330,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "dnd5e": {
+          "messageType": "roll",
+          "roll": {
+            "ability": "str",
+            "type": "ability"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402874850
+          }
+        }
+      },
+      "flavor": "Strength Ability Check",
+      "speaker": {
+        "scene": "EEFdJkEs24RYH6IA",
+        "token": "7ctOPbTg5vY3XQjH",
+        "actor": "42L6ob6zSv1tNYi6",
+        "alias": "Roc"
+      },
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1,\"configured\":true,\"rollType\":\"ability\"},\"dice\":[],\"formula\":\"1d20 + 9\",\"terms\":[{\"class\":\"D20Die\",\"options\":{\"flavor\":null,\"elvenAccuracy\":false,\"halflingLucky\":false,\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":19,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":9}],\"total\":28,\"evaluated\":true}"
+      ],
+      "_id": "BZrrMS3a56nALPN6",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1742838132251,
+      "content": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742838132349,
+        "modifiedTime": 1742838132349,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "dnd5e": {
+          "messageType": "roll",
+          "roll": {
+            "ability": "str",
+            "type": "ability"
+          }
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402874780
+          }
+        }
+      },
+      "flavor": "Strength Ability Check",
+      "speaker": {
+        "scene": "EEFdJkEs24RYH6IA",
+        "token": "7ctOPbTg5vY3XQjH",
+        "actor": "42L6ob6zSv1tNYi6",
+        "alias": "Roc"
+      },
+      "rolls": [
+        "{\"class\":\"D20Roll\",\"options\":{\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1,\"configured\":true,\"rollType\":\"ability\"},\"dice\":[],\"formula\":\"1d20 + 9\",\"terms\":[{\"class\":\"D20Die\",\"options\":{\"flavor\":null,\"elvenAccuracy\":false,\"halflingLucky\":false,\"advantageMode\":0,\"criticalSuccess\":20,\"criticalFailure\":1},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":5,\"active\":true}]},{\"class\":\"OperatorTerm\",\"options\":{},\"evaluated\":false,\"operator\":\"+\"},{\"class\":\"NumericTerm\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":9}],\"total\":14,\"evaluated\":true}"
+      ],
+      "_id": "jnEnqNTB3q2DjdUv",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1742838210336,
+      "content": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742838210434,
+        "modifiedTime": 1742838210434,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "flavor": "Draws a result from the Sea Random Encounters table",
+      "speaker": {
+        "scene": "EEFdJkEs24RYH6IA",
+        "actor": null,
+        "token": null,
+        "alias": "karpiq"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d30\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":30,\"modifiers\":[],\"results\":[{\"result\":2,\"active\":true}]}],\"total\":2,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "flags": {
+        "core": {
+          "RollTable": "lomTa00HQJ48Hs7p"
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402787415
+          }
+        }
+      },
+      "content": "<div class=\"table-draw\" data-table-id=\"lomTa00HQJ48Hs7p\">\n    <div class=\"dice-roll\">\n    <div class=\"dice-result\">\n        <div class=\"dice-formula\">1d30</div>\n        <div class=\"dice-tooltip-collapser\">\n    <div class=\"dice-tooltip\">\n        <section class=\"tooltip-part\">\n            <div class=\"dice\">\n                <ol class=\"dice-rolls\">\n                    <li class=\"roll die d30\">2</li>\n                </ol>\n                <div class=\"total\">\n                    <span class=\"label\"></span>\n                    <span class=\"value\">2</span>\n                </div>\n            </div>\n        </section>\n    </div>\n</div>\n\n        <h4 class=\"dice-total\">2</h4>\n    </div>\n</div>\n\n    <ol class=\"table-results\">\n        <li class=\"table-result flexrow\" data-result-id=\"j9oKgKoKP7jQTu6y\">\n            <img class=\"result-image\" src=\"icons/svg/d20-black.svg\" />\n            <div class=\"result-text\">Falling Star</div>\n        </li>\n    </ol>\n</div>",
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "m34ayLK32Szh1bTD",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1742839283756,
+      "whisper": [
+        "j6dLpLTM1Hkwhk3U"
+      ],
+      "blind": false,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742839283875,
+        "modifiedTime": 1742839283875,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "content": "Nightshade's Whisper",
+      "style": 1,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "WQwuGrb7VIMs4Z9F",
+      "type": "base",
+      "system": {},
+      "timestamp": 1742843184993,
+      "flavor": "",
+      "speaker": {
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [],
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402693910
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742843185184,
+        "modifiedTime": 1742843185184,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "siLZjqXPUh5QHkSt",
+        "actor": null,
+        "token": null,
+        "alias": "karpiq"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":9,\"active\":true}]}],\"total\":9,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "9",
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "2unYjU5txFJLVOiG",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1742845107307,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402693327
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742845107536,
+        "modifiedTime": 1742845107536,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "speaker": {
+        "scene": "siLZjqXPUh5QHkSt",
+        "actor": null,
+        "token": null,
+        "alias": "karpiq"
+      },
+      "rolls": [
+        "{\"class\":\"BasicRoll\",\"options\":{},\"dice\":[],\"formula\":\"1d20\",\"terms\":[{\"class\":\"Die\",\"options\":{\"flavor\":null},\"evaluated\":true,\"number\":1,\"faces\":20,\"modifiers\":[],\"results\":[{\"result\":14,\"active\":true}]}],\"total\":14,\"evaluated\":true}"
+      ],
+      "sound": "sounds/dice.wav",
+      "content": "14",
+      "author": "j6dLpLTM1Hkwhk3U",
+      "_id": "SVBhbcj9FnWbzrc0",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "timestamp": 1742845503239,
+      "flavor": "",
+      "whisper": [],
+      "blind": false,
+      "emote": false,
+      "flags": {
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402692971
+          }
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742845503476,
+        "modifiedTime": 1742845503476,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    },
+    {
+      "content": "<div class=\"tidbit-content\">\n            <h3>\n            <i class=\"fa-duotone fa-lightbulb-exclamation-on\"></i>\n            <div class=\"tidbit-text\">\n            Did you know?\n            </div>\n            <i class=\"reroll-tidbit fa-duotone fa-dice\"></i>\n            </h3>\n        <p>\"Akt stworzenia nie jest mo\u017cliwy bez towarzysz\u0105cej mu destrukcji. Naturalnie, je\u015bli chcesz stworzy\u0107 zupe\u0142nie nowy \u015bwiat, b\u0119dziesz musia\u0142 zniszczy\u0107 stary. Wszystko ma swoj\u0105 cen\u0119. \u015amiertelnicy zrozumiej\u0105.\" \u2014 Lutheria, Pani Sn\u00f3w</p>\n        </div>",
+      "speaker": {
+        "alias": "Tidbits",
+        "scene": null,
+        "actor": null,
+        "token": null
+      },
+      "whisper": [
+        "j6dLpLTM1Hkwhk3U"
+      ],
+      "flags": {
+        "tidbits": {
+          "isTidbit": true
+        },
+        "foundryvtt-simple-calendar": {
+          "sc-timestamps": {
+            "id": "default",
+            "timestamp": -46402652892
+          }
+        }
+      },
+      "_id": "AjL9kK1bO5r3mVtA",
+      "type": "base",
+      "system": {},
+      "style": 0,
+      "author": "j6dLpLTM1Hkwhk3U",
+      "timestamp": 1742850742360,
+      "flavor": "",
+      "blind": false,
+      "rolls": [],
+      "sound": null,
+      "emote": false,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "coreVersion": "12.331",
+        "systemId": "dnd5e",
+        "systemVersion": "4.3.6",
+        "createdTime": 1742850742711,
+        "modifiedTime": 1742850742711,
+        "lastModifiedBy": "j6dLpLTM1Hkwhk3U"
+      }
+    }
+  ]
+}

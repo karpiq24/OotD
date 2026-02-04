@@ -1,4 +1,9 @@
-# Sesja 24: Ultros
+---
+title: "Sesja 24: Ultros"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/024/chat_log.json"
+---
 
 **Data:** 29.09.2024
 

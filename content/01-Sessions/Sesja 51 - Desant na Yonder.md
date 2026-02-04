@@ -1,4 +1,9 @@
-# Sesja 51: Desant na Yonder
+---
+title: "Sesja 51: Desant na Yonder"
+transcript: "../assets/sessions/051/transcript.txt"
+transcript_json: "../assets/sessions/051/transcript.json"
+chat_log: "../assets/sessions/051/chat_log.json"
+---
 
 **Data:** 23.06.2025
 

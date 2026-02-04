@@ -1,4 +1,9 @@
-# Sesja 5: Skała Estora
+---
+title: "Sesja 5: Skała Estora"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/005/chat_log.json"
+---
 
 **Data:** 12.02.2024
 

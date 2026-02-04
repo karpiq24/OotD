@@ -1,4 +1,9 @@
-# Sesja 19: Pojedynek z Rozpruwaczem
+---
+title: "Sesja 19: Pojedynek z Rozpruwaczem"
+transcript: ""
+transcript_json: ""
+chat_log: ""
+---
 
 **Data:** 05.08.2024
 

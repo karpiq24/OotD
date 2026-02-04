@@ -1,4 +1,9 @@
-# Sesja 10: Świątynia Heliosa i Jaskinie Troglodytów
+---
+title: "Sesja 10: Świątynia Heliosa i Jaskinie Troglodytów"
+transcript: ""
+transcript_json: ""
+chat_log: "../assets/sessions/010/chat_log.json"
+---
 
 **Data:** 15.04.2024
 
