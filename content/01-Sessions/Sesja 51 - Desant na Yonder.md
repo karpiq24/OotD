@@ -1,10 +1,9 @@
 ---
 title: "Sesja 51: Desant na Yonder"
-transcript: "../assets/sessions/051/transcript.txt"
-transcript_json: "../assets/sessions/051/transcript.json"
-chat_log: "../assets/sessions/051/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/051/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/051/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/051/chat_log.json)"
 ---
-
 **Data:** 23.06.2025
 
 ![Świątynia na Yonder](../assets/sessions/051/051_gaius.png)

@@ -1,10 +1,9 @@
 ---
 title: "Sesja 63: Werdykt Arezji"
-transcript: "../assets/sessions/063/transcript.txt"
-transcript_json: "../assets/sessions/063/transcript.json"
-chat_log: "../assets/sessions/063/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/063/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/063/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/063/chat_log.json)"
 ---
-
 **Data:** 08.12.2025
 
 ![Taureus](../assets/sessions/063/063_taureus.png)

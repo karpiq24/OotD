@@ -1,10 +1,7 @@
 ---
 title: "Sesja 18: Cienie Mytros"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/018/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/018/chat_log.json)"
 ---
-
 **Data:** 22.07.2024
 
 ![Maximus](../assets/sessions/018/018_maximus.png)

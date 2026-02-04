@@ -1,10 +1,9 @@
 ---
 title: "Sesja 58: Wyspa C̶̢̤͔͈̦̩̞͔͍̺͚̰̯͉̀͗̿̈̐̐͝z̴̘̱̳̦̫͔̽͆͒̚͜͜ā̴̛̺͔͔͚̿̽̑̊͝͝s̷̨̟̻͚̜͗͑́̈́͂̍̀̾̽̿͛̄̚u̴̲̝̜̥̓"
-transcript: "../assets/sessions/058/transcript.txt"
-transcript_json: "../assets/sessions/058/transcript.json"
-chat_log: "../assets/sessions/058/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/058/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/058/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/058/chat_log.json)"
 ---
-
 **Data:** 08.09.2025
 
 ![Schody](../assets/sessions/058/058_stairs.png)

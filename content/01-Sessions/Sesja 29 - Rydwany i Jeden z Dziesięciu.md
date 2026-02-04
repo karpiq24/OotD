@@ -1,10 +1,7 @@
 ---
-title: "Sesja 29 - Rydwany i Jeden z Dziesięciu"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/029/chat_log.json"
+title: Sesja 29 - Rydwany i Jeden z Dziesięciu
+chat_log: "[Chat log](../assets/sessions/029/chat_log.json)"
 ---
-
 **Data:** 04.11.2024
 
 ![Orestes](../assets/sessions/029/029_orestes.jpg)

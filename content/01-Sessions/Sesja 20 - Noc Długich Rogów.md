@@ -1,10 +1,7 @@
 ---
 title: "Sesja 20: Noc Długich Rogów"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/020/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/020/chat_log.json)"
 ---
-
 **Data:** 12.08.2024
 
 ![Noc Długich Rogów](../assets/sessions/020/020_longhorns.png)

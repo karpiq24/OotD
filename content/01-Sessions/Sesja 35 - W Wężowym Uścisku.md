@@ -1,10 +1,9 @@
 ---
 title: "Sesja 35: W Wężowym Uścisku"
-transcript: "../assets/sessions/035/transcript.txt"
-transcript_json: "../assets/sessions/035/transcript.json"
-chat_log: "../assets/sessions/035/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/035/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/035/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/035/chat_log.json)"
 ---
-
 **Data:** 30.12.2024
 
 ![Leah](../assets/sessions/035/leah.webp)

@@ -1,10 +1,9 @@
 ---
 title: "Sesja 57: Ogród Heliosa"
-transcript: "../assets/sessions/057/transcript.txt"
-transcript_json: "../assets/sessions/057/transcript.json"
-chat_log: "../assets/sessions/057/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/057/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/057/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/057/chat_log.json)"
 ---
-
 **Data:** 18.08.2025
 
 ![Megara, Królowa Furii](../assets/sessions/057/057_megaera.png)

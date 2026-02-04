@@ -1,10 +1,7 @@
 ---
 title: "Sesja 13: Wezwani przez Króla"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/013/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/013/chat_log.json)"
 ---
-
 **Data:** 13.05.2024
 
 ![Sala tronowa Mytros](../assets/sessions/013/013_throneroom.jpg)

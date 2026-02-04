@@ -1,10 +1,7 @@
 ---
 title: "Sesja 15: W kanałach Mytros"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/015/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/015/chat_log.json)"
 ---
-
 **Data:** 27.05.2024
 
 ![Kanały Mytros](../assets/sessions/015/015_sewers.webp)

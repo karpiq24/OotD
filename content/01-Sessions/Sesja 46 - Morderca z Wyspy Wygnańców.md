@@ -1,10 +1,9 @@
 ---
 title: "Sesja 46: Morderca z Wyspy Wygnańców"
-transcript: "../assets/sessions/046/transcript.txt"
-transcript_json: "../assets/sessions/046/transcript.json"
-chat_log: "../assets/sessions/046/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/046/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/046/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/046/chat_log.json)"
 ---
-
 **Data:** 31.03.2025
 
 ![Keelan](../assets/sessions/045/045_keelan.jpg)

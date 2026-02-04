@@ -1,10 +1,7 @@
 ---
 title: "Sesja 2: Przepowiednia"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/002/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/002/chat_log.json)"
 ---
-
 **Data:** 22.01.2024
 
 ![Wyrocznia Versi](../assets/sessions/002/002_versi_the_oracle.webp)

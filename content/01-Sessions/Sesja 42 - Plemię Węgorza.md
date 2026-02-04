@@ -1,10 +1,9 @@
 ---
 title: "Sesja 42: Plemię Węgorza"
-transcript: "../assets/sessions/042/transcript.txt"
-transcript_json: "../assets/sessions/042/transcript.json"
-chat_log: "../assets/sessions/042/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/042/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/042/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/042/chat_log.json)"
 ---
-
 **Data:** 17.02.2025
 
 ![Ventis](../assets/sessions/042/042_dragon.jpg)

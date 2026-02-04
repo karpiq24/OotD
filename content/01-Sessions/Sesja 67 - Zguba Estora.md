@@ -1,10 +1,9 @@
 ---
-title: "Sesja 67 - Zguba Estora"
-transcript: "../assets/sessions/067/transcript.txt"
-transcript_json: "../assets/sessions/067/transcript.json"
-chat_log: "../assets/sessions/067/chat_log.json"
+title: "Sesja 67: Zguba Estora"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/067/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/067/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/067/chat_log.json)"
 ---
-
 **Data:** 27.01.2026
 
 ![Draw a crystalline pyramid structure partially submerged in dark ocean water, glowing faintly. Atmosphere: Mysterious, fantasy landscape. Style: High quality digital fantasy art.](../assets/sessions/067/067_pyramid.png)

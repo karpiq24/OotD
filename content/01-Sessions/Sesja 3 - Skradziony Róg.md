@@ -1,10 +1,7 @@
 ---
 title: "Sesja 3: Skradziony Róg"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/003/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/003/chat_log.json)"
 ---
-
 **Data:** 29.01.2024
 
 ![Estoria](../assets/sessions/003/003_estoria.webp)

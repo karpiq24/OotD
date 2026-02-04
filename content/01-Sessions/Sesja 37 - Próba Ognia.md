@@ -1,10 +1,9 @@
 ---
 title: "Sesja 37: Próba Ognia"
-transcript: "../assets/sessions/037/transcript.txt"
-transcript_json: "../assets/sessions/037/transcript.json"
-chat_log: "../assets/sessions/037/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/037/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/037/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/037/chat_log.json)"
 ---
-
 **Data:** 13.01.2025
 
 ![Chalcia Pierwsza](../assets/sessions/037/037_titan.webp)

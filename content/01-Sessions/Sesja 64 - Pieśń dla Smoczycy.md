@@ -1,10 +1,9 @@
 ---
 title: "Sesja 64: Pieśń dla Smoczycy"
-transcript: "../assets/sessions/064/transcript.txt"
-transcript_json: "../assets/sessions/064/transcript.json"
-chat_log: "../assets/sessions/064/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/064/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/064/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/064/chat_log.json)"
 ---
-
 **Data:** 29.12.2025
 
 ![Konfrontacja ze smoczycą](../assets/sessions/064/064_party.png)
