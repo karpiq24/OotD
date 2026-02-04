@@ -38,3 +38,7 @@ W [[Sesja 47 - Wyspa Mojr]] ujrzał wizję własnej śmierci w paszczy smoka. Od
 W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] ostatecznie ugiął się i poświęcił swoją legendarną szybkość w zamian za ulepszenie artefaktu (dodanie potężnych zaklęć).
 
 W [[Sesja 49 - Wielkie Gęsie Powstanie]] podejrzewał [[Althaia|Althaię]] od samego początku. Został zamieniony w gęś, ale też na chwilę uśpiony podczas walki. Po odzyskaniu postaci zmienił się w gigantycznego orła, by odzyskać ekwipunek drużyny ze szczytu góry.
+
+W [[Sesja 64 - Pieśń dla Smoczycy]], gdy zbliżali się do Wyspy Smoka, jego umysł stał się naczyniem dla wspomnień samej [[Hexia|Hexii]]. Zobaczył świat jej oczami - miłość do [[Ochos Arkelander|Ochosa]], pieśń, i moment, w którym [[Zguba Tytanów|Titansbane]] zawiódł, nie mogąc zabić Sydona. Ta wizja pozwoliła drużynie zrozumieć ból smoczycy.
+
+W [[Sesja 65 - Wyprawa w Otchłań]] popisał się mistrzowską nawigacją, przeprowadzając [[Ultros|Ultrosa]] przez wir [[Charybda]] na [[Morze Otchłani]]. Wewnątrz [[Sześcian Więzienny|Sześcianu Więziennego]] odczytał starożytne runy w języku Primordial, odkrywając przerażającą prawdę o uśpionym wewnątrz [[Tarrasque]].

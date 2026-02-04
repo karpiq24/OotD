@@ -19,4 +19,5 @@ title: Arezja
 - [[Lennicus]]
 - [[Mistrz Cieni]]
 - [[Narsus]]
+- [[Talos]]
 - [[Taureus]]

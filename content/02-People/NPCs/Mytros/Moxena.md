@@ -36,3 +36,5 @@ W [[Sesja 21 - Ukryte pragnienia Ismene]] jej działalność została ujawniona 
 ### Sojusz z Drużyną
 W [[Sesja 22 - Taniec z Meduzą]], po zdemaskowaniu przez drużynę, znalazła się w potrzasku, zawarła z bohaterami nowe przymierze. Bohaterowie zobowiązali się pomóc jej wrócić na [[Themis|Wyspę Themis]] i obalić panującą tam fałszywą królową. W zamian Moxena przysięgła natychmiast zaprzestać porywania artystów w Mytros, przekazać informacje o [[Posiadłość Neurdagonów]] oraz w przyszłości pomóc drużynie w walce z [[Hexia|Hexią]].
 W [[Sesja 23 - Nowe Przymierze]] sformalizowała układ w [[Kolos Pythora|Kolosie Pythora]] i przekazała drużynie mapę [[Posiadłość Neurdagonów|Posiadłości Neurdagonów]].
+
+W [[Sesja 64 - Pieśń dla Smoczycy]] przybyła na [[Wyspa Smoka]], realizując przysięgę pomocy. Przekazała bohaterom informacje o sytuacji na wyspie. Po pomyślnych negocjacjach ze smokiem, zabrała na swój statek "użytecznych" uchodźców z [[Latająca Forteca Smoczych Lordów]].

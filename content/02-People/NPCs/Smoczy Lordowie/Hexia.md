@@ -30,3 +30,5 @@ W [[Sesja 7 - Uratować Księżniczkę]] [[Orion Xul]] dowiedział się od [[Pyt
 W [[Sesja 21 - Ukryte pragnienia Ismene]] odkryto, że zawarła układ z [[Moxena|Moxeną]], od której kupuje skamieniałych artystów, desperacko poszukując kogoś, kto idealnie odtworzy pieśń Ochosa.
 
 W [[Sesja 41 - Wiedźma Lotosu]] [[Orion Xul|Orion]] dowiedział się, że jej największą słabością jest bóg bitwy [[Pythor]].
+
+W [[Sesja 64 - Pieśń dla Smoczycy]] stanęła twarzą w twarz z Bohaterami Przepowiedni. Jej wściekłość została ukojona przez [[Orestes|Orestesa]], który zaśpiewał jej zapomnianą pieśń Ochosa. Wzruszona smoczyca zgodziła się oddać miecz [[Zguba Tytanów]] oraz uwolnić [[Ophea|Opheę]] (matkę Oriona), pod warunkiem zwrotu broni po pokonaniu Sydona. Ostrzegła też Oriona, by trzymał swoją matkę z dala od Pythora.

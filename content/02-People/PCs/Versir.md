@@ -38,3 +38,5 @@ W [[Sesja 49 - Wielkie Gęsie Powstanie]] został przemieniony w gęś. Po walce
 W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] doznał wizji od matki, która wskazała mu drogę do uwięzionej w Hadesie ciotki Yali.
 
 W [[Sesja 61 - Yala, Arezja i Żółw]] odnalazł w Hadesie swoją ciotkę [[Yala Pierwsza|Yalę]]. Uwolnił ją z pęt szaleństwa i kamiennego więzienia. Jej esencja dobrowolnie wstąpiła do jego [[Rękawica Versira|Rękawicy]], wzmacniając go w walce przeciwko bliźniakom.
+
+W [[Sesja 65 - Wyprawa w Otchłań]] popisał się skuteczną dyplomacją (za pomocą telepatii) w starciu z [[Kraken|Krakenem]], przekonując potwora, że są wrogami [[Sydon|Sydona]]. Niestety, podczas eksploracji [[Sześcian Więzienny|Sześcianu Więziennego]] na Morzu Otchłani, popełnił fatalny błąd. Dotknął sfery anihilacji, co skutkowało trwałym odcięciem dłoni, którą wcześniej chroniła magiczna Rękawica.

@@ -35,3 +35,5 @@ W [[Sesja 7 - Uratować Księżniczkę]] po uratowaniu Anory, przekazał [[Orion
 
 W [[Sesja 11 - Mithralowa Kuźnia]] przybył do [[Jaskinie Troglodytów|jaskiń]], by pomścić śmierć syna. W [[Sesja 12 - Furia Boga Bitwy]] poświęcił część swojej mocy, by wskrzesić [[Orion Xul|Oriona]].
 
+W [[Sesja 64 - Pieśń dla Smoczycy]], w drodze na Wyspę Smoka, odbył ciężką rozmowę ze swoim synem, [[Orion Xul|Orionem]]. Pythor przyznał, że wciąż darzy Hexię uczuciem i "technicznie" nadal są małżeństwem. Wyraził nadzieję, że uda się uniknąć jej śmierci, co, jak się okazało, udało się osiągnąć.
+

@@ -33,4 +33,5 @@ title: Items And Loot
 - [[Titansbane]]
 - [[Topór Xandera]]
 - [[Wielka Księga Zasad]]
+- [[Zguba Tytanów|Zguba Tytanów (Titansbane)]]
 - [[Zlote Owoce|Złote Owoce]]

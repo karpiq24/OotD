@@ -43,6 +43,7 @@ title: Mytros
 - [[Moxena]]
 - [[Nephele]]
 - [[Nera]]
+- [[Ophea]]
 - [[Rakas Rozpruwacz]]
 - [[Rhea]]
 - [[Samuel]]
