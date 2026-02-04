@@ -1,5 +1,6 @@
 ---
 title: Pholon
+image_prompt: male centaur, muscular and powerful build, ripped abs, lower body of a brown horse, shoulder-length wavy golden blonde hair, a full blonde beard and mustache, wearing a golden laurel wreath crown, bare-chested with a brown fur pelt draped over his shoulders, a heavy gold chain necklace with large circular medallions, a studded brown leather harness joining his human and horse halves, mythological creature, fantasy character, Greco-Roman style.
 ---
 
 ![Placeholder](../../assets/placeholder.png)

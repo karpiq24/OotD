@@ -1,5 +1,6 @@
 ---
 title: Versi (Wyrocznia)
+image_prompt: female water nymph, ethereal being, slender build, long pointed ears, blue skin with golden filigree markings on her cheeks and body, glowing red eyes, long flowing dark blue hair with braids, wearing an ornate golden headdress and large golden earrings, adorned with intricate golden pauldrons with feather-like details and dangling tassels, wrapped in flowing purple and blue ethereal robes, large translucent bioluminescent blue fins like wings on her back, fantasy water spirit, oracle, naiad, anime art style.
 ---
 
 ![Placeholder](../../../assets/placeholder.png)

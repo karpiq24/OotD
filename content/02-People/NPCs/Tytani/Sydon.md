@@ -1,5 +1,6 @@
 ---
 title: Sydon
+image_prompt: ancient male, extremely muscular build, powerful physique, weathered skin, long wild white hair, long full white beard, glowing red eyes, bare-chested, glowing red tattoos on chest and shoulder, ornate dark metal belt with intricate carvings, tattered red loincloth, dark metal vambraces with detailed patterns, holding a large ornate trident polearm, mythological god, fantasy titan, storm giant.
 ---
 
 ![Placeholder](../../../assets/placeholder.png)

@@ -1,5 +1,6 @@
 ---
 title: Volkan
+image_prompt: elderly male dwarf, god of the forge, stocky build, wrinkled face, intense blue eyes, a golden monocle over one eye, prominent nose, an immense and bushy black beard with a white mustache, receding black and grey hair, wearing a heavy, ornate golden pauldron, fantasy blacksmith aesthetic, digital painting style.
 ---
 
 ![Placeholder](../../../assets/placeholder.png)

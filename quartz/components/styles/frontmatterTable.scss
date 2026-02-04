@@ -8,44 +8,62 @@
     margin: 0 0 0.5rem 0;
   }
 
-  & > table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.9rem;
+  .frontmatter-content {
+    max-height: 300px;
+    overflow-y: auto;
     background: var(--lightgray);
     border-radius: 8px;
-    overflow: hidden;
+    padding: 0.5rem;
 
-    tbody {
-      tr {
-        border-bottom: 1px solid var(--gray);
+    // Custom scrollbar
+    &::-webkit-scrollbar {
+      width: 6px;
+    }
 
-        &:last-child {
-          border-bottom: none;
-        }
+    &::-webkit-scrollbar-track {
+      background: transparent;
+    }
 
-        &:hover {
-          background: var(--highlight);
-        }
+    &::-webkit-scrollbar-thumb {
+      background: var(--gray);
+      border-radius: 3px;
+    }
 
-        th {
-          text-align: left;
-          padding: 0.5rem 0.75rem;
-          font-weight: 600;
-          color: var(--darkgray);
-          white-space: nowrap;
-          width: 1%;
-          vertical-align: top;
-        }
+    .frontmatter-field {
+      padding: 0.5rem;
+      border-bottom: 1px solid var(--gray);
 
-        td {
-          padding: 0.5rem 0.75rem;
-          color: var(--dark);
-          word-break: break-word;
+      &:last-child {
+        border-bottom: none;
+      }
+
+      &:hover {
+        background: var(--highlight);
+        border-radius: 4px;
+      }
+
+      .field-label {
+        font-weight: 600;
+        font-size: 0.85rem;
+        color: var(--darkgray);
+        margin-bottom: 0.25rem;
+      }
+
+      .field-value {
+        font-size: 0.9rem;
+        color: var(--dark);
+        word-break: break-word;
+        line-height: 1.4;
+
+        a {
+          color: var(--secondary);
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
         }
       }
     }
   }
 }
-
-// Dark mode adjustments are handled by CSS variables automatically
