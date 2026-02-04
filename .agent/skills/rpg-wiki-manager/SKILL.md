@@ -54,8 +54,8 @@ Before creating ANY new file or link:
 
 ### The "Create with Template" Rule
 If the entity does **NOT** exist:
-1.  **DETERMINE TYPE**: Is it an NPC, Location, Item, or Handout?
-2.  **READ TEMPLATE**: Use `view_file` on the appropriate template in `.agent/skills/rpg-wiki-manager/resources/`.
+1.  **DETERMINE TYPE**: Is it an NPC, Location, Item, Faction, or Handout?
+2.  **READ TEMPLATE**: Use `view_file` on the appropriate template in the root `templates/` directory.
 3.  **CREATE**: Create the new file in the correct directory using the template content.
 4.  **LINK**: Update the source text to link to this new file: `[[New Entity Name]]`.
 
@@ -74,6 +74,7 @@ If the entity **DOES** exist and plays a major role in the session (e.g. death, 
 ## 5. Standard Directories for New Entities
 When creating NEW entities, always use these target directories:
 -   **NPCs**: `content/02-People/NPCs/` (or specific subfolder if known, e.g. `Mytros/`)
+-   **PCs**: `content/02-People/Heroes/`
 -   **Locations**: `content/03-Locations/` (use `Kontynent Thylea/` or appropriate region if known)
 -   **Items**: `content/04-Items-and-Loot/`
 -   **Factions**: `content/02-People/Factions/`
@@ -81,9 +82,10 @@ When creating NEW entities, always use these target directories:
 
 ## 6. Templates
 
-You MUST use these templates for new files:
--   **NPCs**: `resources/NPC.md`
--   **Locations**: `resources/Location.md`
--   **Items**: `resources/Item.md`
--   **Handouts**: `resources/Handout.md`
--   **Factions**: `resources/Faction.md`
+All templates are in the root `templates/` directory. Use these for new files:
+-   **NPCs**: `templates/NPC.md`
+-   **PCs**: `templates/PC.md`
+-   **Locations**: `templates/Location.md`
+-   **Items**: `templates/Item.md`
+-   **Handouts**: `templates/Handout.md`
+-   **Factions**: `templates/Faction.md`

@@ -1,14 +1,8 @@
 ---
 title: Nazwa Miejsca
-tags: [location]
-region:
-type:
-population:
 ---
 
-# Nazwa Miejsca
-
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 Krótki opis miejsca, jego atmosfera i ogólny wygląd.
 

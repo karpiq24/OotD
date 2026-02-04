@@ -1,18 +1,12 @@
 ---
 title: Imię Nazwisko
-tags:
-  - person
-  - npc
 race:
 gender:
 occupation:
-affiliation:
 image_prompt:
 ---
 
-# Imię Nazwisko
-
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Krótki opis, np. Strażnik Miejski_
 
