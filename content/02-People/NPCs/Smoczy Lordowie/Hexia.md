@@ -3,7 +3,7 @@ title: Hexia
 ---
 # Hexia
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Zielona smoczyca, niegdyś wierzchowiec Ochosa Arkelandera_
 

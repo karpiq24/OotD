@@ -3,7 +3,7 @@ title: Czerwony Lotos
 ---
 # Czerwony Lotos
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Najpopularniejsza karczma w Arezji, społeczne serce miasta._
 

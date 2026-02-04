@@ -3,7 +3,7 @@ title: Krateros
 ---
 # Krateros
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Centaur Zarządca_
 

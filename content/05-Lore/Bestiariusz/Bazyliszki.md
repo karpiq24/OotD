@@ -3,7 +3,7 @@ title: Bazyliszki
 ---
 # Bazyliszki
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.png)
 
 _Groźne, ośmionogie gady znane ze swojego morderczego spojrzenia, które potrafi zamienić żywe istoty w kamień._
 

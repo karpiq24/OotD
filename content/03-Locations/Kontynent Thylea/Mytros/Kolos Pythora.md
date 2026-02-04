@@ -3,7 +3,7 @@ title: Kolos Pythora
 ---
 # Kolos Pythora
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 Wielki posąg boga [[Pythor|Pythora]] stojący w porcie [[Mytros]].
 

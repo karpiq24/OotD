@@ -3,7 +3,7 @@ title: Targ Minotaurów
 ---
 # Targ Minotaurów (The Minotaur Market)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Miejsce hańby Mytros._
 

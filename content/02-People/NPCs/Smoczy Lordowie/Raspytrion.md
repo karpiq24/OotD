@@ -3,7 +3,7 @@ title: Raspytrion
 ---
 # Raspytrion
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Brązowy smok, wierzchowiec Adonisa Neurdagona_
 

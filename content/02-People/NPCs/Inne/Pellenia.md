@@ -3,7 +3,7 @@ title: Pellenia
 ---
 # Pellenia
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Słynna trubadurka z czasów Pierwszej Wojny_
 

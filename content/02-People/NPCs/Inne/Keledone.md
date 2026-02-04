@@ -3,7 +3,7 @@ title: Keledone
 ---
 # Keledone
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Legendarna konstrukcja opisana przez Volkana._
 

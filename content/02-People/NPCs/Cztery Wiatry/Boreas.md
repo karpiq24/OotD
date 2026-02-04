@@ -3,7 +3,7 @@ title: Boreas
 ---
 # Boreas
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Satyr, Zimowy Wiatr, niegdyś przyjaciel Kyrah_
 

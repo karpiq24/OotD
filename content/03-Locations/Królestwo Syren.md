@@ -3,7 +3,7 @@ title: Królestwo Syren
 ---
 # Królestwo Syren
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 Wyspa i otaczające ją wody zamieszkane przez Syreny.
 

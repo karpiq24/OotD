@@ -3,7 +3,7 @@ title: Świątynia Tarczy
 ---
 # Świątynia Tarczy
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Najbardziej prestiżowa świątynia wojowników w Arezji, położona blisko pałacu._
 

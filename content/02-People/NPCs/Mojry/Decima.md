@@ -3,7 +3,7 @@ title: Decima
 ---
 # Decima
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jedna z trzech Mojr, odmierzająca nić losu._
 

@@ -3,7 +3,7 @@ title: Świątynia Pięciu
 ---
 # Świątynia Pięciu
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Najstarsza budowla obywatelska w Mytros._
 

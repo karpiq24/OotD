@@ -3,7 +3,7 @@ title: Rizon Phobas
 ---
 # Rizon Phobas
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Autorka Xanderiady_
 

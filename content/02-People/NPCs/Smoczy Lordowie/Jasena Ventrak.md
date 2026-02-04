@@ -3,7 +3,7 @@ title: Jasena Ventrak
 ---
 # Jasena Ventrak
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jedna z pierwszych Smoczych Lordów, wierzchowiec smoka Arystonara_
 

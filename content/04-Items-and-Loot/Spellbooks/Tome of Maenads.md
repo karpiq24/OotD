@@ -3,7 +3,7 @@ title: Tome of Maenads
 ---
 # Tome of Maenads
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.png)
 
 _Księga Zaklęć, Rzadki_
 

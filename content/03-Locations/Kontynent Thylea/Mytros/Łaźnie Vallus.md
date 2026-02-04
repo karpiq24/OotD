@@ -3,7 +3,7 @@ title: Łaźnie Vallus
 ---
 # Łaźnie Vallus (The Bathhouse of Vallus)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Luksusowe łaźnie publiczne._
 

@@ -3,7 +3,7 @@ title: Arges
 ---
 # Arges
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Dowódca Falangi Cyklopów_
 

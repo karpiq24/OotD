@@ -3,7 +3,7 @@ title: Loreus
 ---
 # Loreus
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Satyr ze Starego Lasu, beznadziejnie zakochany w Orionie._
 

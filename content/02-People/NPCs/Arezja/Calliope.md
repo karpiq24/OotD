@@ -3,7 +3,7 @@ title: Calliope
 ---
 # Calliope
 
-![Calliope](../../assets/placeholder.png)
+![Calliope](../../../assets/placeholder.png)
 
 _Królowa Arezji._
 

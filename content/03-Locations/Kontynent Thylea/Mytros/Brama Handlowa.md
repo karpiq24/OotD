@@ -3,7 +3,7 @@ title: Brama Handlowa
 ---
 # Brama Handlowa (The Commerce Gate)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Druga brama Mytros, prowadząca do portu._
 

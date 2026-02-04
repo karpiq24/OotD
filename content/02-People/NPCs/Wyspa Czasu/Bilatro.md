@@ -3,7 +3,7 @@ title: Bilatro
 ---
 # Bilatro
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Starsza Sfinks_
 

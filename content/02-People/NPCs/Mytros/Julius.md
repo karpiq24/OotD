@@ -3,7 +3,7 @@ title: Julius
 ---
 # Julius
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Właściciel tawerny The Satyr's Tail._
 

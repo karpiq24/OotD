@@ -3,7 +3,7 @@ title: Pałac Królewski w Arezji
 ---
 # Pałac Królewski w Arezji
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Siedziba Królowej Heleny, górująca nad Wiszącymi Ogrodami._
 

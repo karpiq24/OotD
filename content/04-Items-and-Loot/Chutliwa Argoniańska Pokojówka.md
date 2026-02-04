@@ -3,7 +3,7 @@ title: Chutliwa Argoniańska Pokojówka
 ---
 # Chutliwa Argoniańska Pokojówka
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Tomik o wątpliwej wartości literackiej, lecz dużej wartości rozrywkowej._
 

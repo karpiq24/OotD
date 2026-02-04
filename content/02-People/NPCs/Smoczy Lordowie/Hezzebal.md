@@ -3,7 +3,7 @@ title: Hezzebal
 ---
 # Hezzebal
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Mosiężny smok, wierzchowiec Gregora Huoratha_
 

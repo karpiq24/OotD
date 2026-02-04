@@ -3,7 +3,7 @@ title: Volkan
 ---
 # Volkan
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jeden z Pięciu Bogów Thylei_
 

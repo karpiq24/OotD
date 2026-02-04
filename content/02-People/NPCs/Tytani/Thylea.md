@@ -3,7 +3,7 @@ title: Thylea
 ---
 # Thylea
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Bogini Matka_
 

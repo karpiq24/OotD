@@ -3,7 +3,7 @@ title: Versi Pierwsza
 ---
 # Versi Pierwsza
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.png)
 
 _Tytanka Jasnowidzenia_
 

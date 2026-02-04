@@ -3,7 +3,7 @@ title: Dorion Neurdagon
 ---
 # Dorion Neurdagon
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Ostatni z rodu Neurdagonów_
 

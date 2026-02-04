@@ -3,7 +3,7 @@ title: Goloron Pierwszy
 ---
 # Goloron Pierwszy
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.png)
 
 _Tytan Mądrości_
 

@@ -3,7 +3,7 @@ title: Sybolkorax
 ---
 # Sybolkorax
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Brązowy smok, partner Balmytrii i wierzchowiec Rizon Phobas_
 

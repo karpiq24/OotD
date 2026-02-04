@@ -3,7 +3,7 @@ title: Dengran
 ---
 # Dengran
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Łotr z załogi Quinna._
 

@@ -3,7 +3,7 @@ title: Gaius
 ---
 # Gaius
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Dowódca [[Zakon Sydona|Zakonu Sydona]], nieubłagany wykonawca woli Władcy Burz._
 

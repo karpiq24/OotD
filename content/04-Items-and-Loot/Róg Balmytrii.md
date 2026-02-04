@@ -3,7 +3,7 @@ title: Róg Balmytrii
 ---
 # Róg Balmytrii
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Artefakt_
 

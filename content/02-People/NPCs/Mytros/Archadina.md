@@ -3,7 +3,7 @@ title: Archadina
 ---
 # Archadina
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Zaginiona przyjaciółka Halie._
 

@@ -3,7 +3,7 @@ title: Focabe
 ---
 # Focabe
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Amazonka z plemienia Lwicy._
 

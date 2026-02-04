@@ -3,7 +3,7 @@ title: Gnotor
 ---
 # Gnotor
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Uwolniony minotaur._
 

@@ -3,7 +3,7 @@ title: Elasus
 ---
 # Elasus
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Oficer Zakonu Sydona dowodzący jednym z obozów na Wyspie Yonder._
 

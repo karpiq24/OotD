@@ -3,7 +3,7 @@ title: Maximus
 ---
 # Maximus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Bezlitosny handlarz minotaurami._
 

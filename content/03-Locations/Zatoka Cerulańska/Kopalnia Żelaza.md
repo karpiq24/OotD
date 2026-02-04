@@ -3,7 +3,7 @@ title: Kopalnia Żelaza
 ---
 # Kopalnia Żelaza
 
-![Kopalnia](../../../assets/sessions/043/043_elementals.jpg)
+![Kopalnia](../../assets/sessions/043/043_elementals.jpg)
 
 _Jedyna kopalnia żelaza w Thylei, znajdująca się w górach Wyspy Indygo, strzeżona przez Plemię Wieloryba._
 

@@ -3,7 +3,7 @@ title: Satyrzy Ogon
 ---
 # Satyrzy Ogon
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Zatłoczona tawerna w Mytros, pełna dymu i podejrzanych typów._
 

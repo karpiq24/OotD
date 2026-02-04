@@ -3,7 +3,7 @@ title: Babcia Morta
 ---
 # Babcia Morta
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Liderka Mojr, najstarsza z trzech sióstr._
 

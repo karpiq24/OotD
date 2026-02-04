@@ -3,7 +3,7 @@ title: Kostur Gromów i Błyskawic
 ---
 # Kostur Gromów i Błyskawic
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Kostur, Bardzo Rzadki (Wymaga dostrojenia)_
 

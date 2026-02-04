@@ -3,7 +3,7 @@ title: Arybas
 ---
 # Arybas
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Brat bliźniak Aelli, upamiętniony w Konstelacji Bliźniąt_
 

@@ -3,7 +3,7 @@ title: Galeria Sztuki
 ---
 # Galeria Sztuki
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Muzeum malarstwa w Arezji, szczycące się kolekcją portretów władców i bogów._
 

@@ -3,7 +3,7 @@ title: Świątynia Lutherii
 ---
 # Świątynia Lutherii (M20)
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Emanująca bogactwem świątynia Pani Snów._
 

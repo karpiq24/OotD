@@ -3,7 +3,7 @@ title: Karpathos Aresianos
 ---
 # Karpathos Aresianos
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Zdrajca, Założyciel Arezji_
 

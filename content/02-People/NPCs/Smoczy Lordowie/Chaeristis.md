@@ -3,7 +3,7 @@ title: Chaeristis
 ---
 # Chaeristis
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Miedziana smoczyca, wierzchowiec Aliny Davanos_
 

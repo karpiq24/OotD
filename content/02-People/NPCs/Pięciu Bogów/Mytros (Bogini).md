@@ -3,7 +3,7 @@ title: Mytros (Bogini)
 ---
 # Mytros (Bogini)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jedna z Pięciu Bogów Thylei, Bogini Świtu_
 

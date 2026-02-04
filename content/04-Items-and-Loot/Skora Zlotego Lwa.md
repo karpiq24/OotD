@@ -3,7 +3,7 @@ title: Skóra Złotego Lwa
 ---
 # Skóra Złotego Lwa
 
-![Złoty Lew](../../assets/placeholder.png)
+![Złoty Lew](../assets/placeholder.png)
 
 _Trofeum z bestii Wyspy Złotego Serca_
 

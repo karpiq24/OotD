@@ -3,7 +3,7 @@ title: Pożeracz Nadziei
 ---
 # Pożeracz Nadziei
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Demon o nienasyconym głodzie metali, zwłaszcza złota._
 

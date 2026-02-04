@@ -3,7 +3,7 @@ title: Hoobert
 ---
 # Hoobert
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Chowaniec Felicjana._
 

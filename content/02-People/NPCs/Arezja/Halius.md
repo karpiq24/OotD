@@ -3,7 +3,7 @@ title: Halius
 ---
 # Halius
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Kustosz Galerii Sztuki w Arezji._
 

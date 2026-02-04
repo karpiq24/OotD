@@ -3,7 +3,7 @@ title: Zarmulax
 ---
 # Zarmulax
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Czerwony smok, wierzchowiec zdrajcy Karpathosa Aresianosa_
 

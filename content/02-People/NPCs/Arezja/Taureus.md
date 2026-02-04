@@ -3,7 +3,7 @@ title: Taureus
 ---
 # Taureus
 
-![Taureus](../../assets/sessions/063/taureus.png)
+![Taureus](../../../assets/sessions/063/taureus.png)
 
 _Wielki Mistrz Żywiołów, potężny minotaur i zarządca arezyjskiego targu._
 

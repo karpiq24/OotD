@@ -3,7 +3,7 @@ title: Lutheria
 ---
 # Lutheria
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Siostra Sydona_
 

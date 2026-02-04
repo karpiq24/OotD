@@ -3,7 +3,7 @@ title: Podkowy Prędkości
 ---
 # Podkowy Prędkości (Horseshoes of Speed)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Magiczne podkowy zwiekszające szybkość wierzchowca._
 

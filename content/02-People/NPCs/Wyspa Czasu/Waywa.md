@@ -3,7 +3,7 @@ title: Waywa
 ---
 # Waywa
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Zakochana Gynosphinx_
 

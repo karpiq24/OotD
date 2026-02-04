@@ -3,7 +3,7 @@ title: Machaon
 ---
 # Machaon
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Filozof z Akademii, autor "Paradoxia Machaona"._
 

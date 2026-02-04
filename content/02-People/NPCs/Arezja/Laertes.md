@@ -3,7 +3,7 @@ title: Laertes
 ---
 # Laertes
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Wielki Mistrz Spokoju (Tranquility), starzec poszukujący idealnej oliwki._
 

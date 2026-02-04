@@ -3,7 +3,7 @@ title: Marius
 ---
 # Marius
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Więzień na Wyspie Wygnańców._
 

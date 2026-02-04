@@ -3,7 +3,7 @@ title: Keteus
 ---
 # Keteus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Potężny minotaur, czempion Świątyni Tarczy._
 

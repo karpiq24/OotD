@@ -3,7 +3,7 @@ title: Melania Twardowska
 ---
 # Melania Twardowska
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Kapłanka Mytros, Żona Felicjana_
 

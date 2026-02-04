@@ -2,7 +2,7 @@
 
 **Data:** 13.01.2025
 
-![Chalcia Pierwsza](../../assets/sessions/037/037_titan.webp)
+![Chalcia Pierwsza](../assets/sessions/037/037_titan.webp)
 
 ## Podsumowanie
 

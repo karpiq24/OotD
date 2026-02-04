@@ -3,7 +3,7 @@ title: Orichalkos
 ---
 # Orichalkos
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Mosiężna smoczyca, wierzchowiec Nikandrosa Calirosa_
 

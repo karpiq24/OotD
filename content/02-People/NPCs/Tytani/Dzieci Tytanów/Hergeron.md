@@ -3,7 +3,7 @@ title: Hergeron
 ---
 # Hergeron
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.png)
 
 _Syn Sydona i Lutherii, spokojny obserwator._
 

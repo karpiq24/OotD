@@ -3,7 +3,7 @@ title: Pałac Królewski w Mytros
 ---
 # Pałac Królewski w Mytros
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Siedziba monarchii Mytros._
 

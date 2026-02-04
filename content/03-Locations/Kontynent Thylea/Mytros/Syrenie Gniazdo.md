@@ -3,7 +3,7 @@ title: Syrenie Gniazdo
 ---
 # Syrenie Gniazdo (The Siren's Roost)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Luksusowy dom rozkoszy._
 

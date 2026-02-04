@@ -3,7 +3,7 @@ title: Heliope
 ---
 # Heliope
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Czarodziejka z załogi Quinna._
 

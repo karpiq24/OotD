@@ -3,7 +3,7 @@ title: Myrto Wspaniały
 ---
 # Myrto Wspaniały
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Smoczy Lord znany ze swojego zamiłowania do luksusu i klejnotów_
 

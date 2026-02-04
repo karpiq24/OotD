@@ -3,7 +3,7 @@ title: Trellus
 ---
 # Trellus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Arcykapłan Pani Snów i winiarz._
 

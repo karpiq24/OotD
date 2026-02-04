@@ -3,7 +3,7 @@ title: Skathon
 ---
 # Skathon
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Pierwszy oficer Ultrosa, duch elfa._
 

@@ -3,7 +3,7 @@ title: Titansbane
 ---
 # Titansbane
 
-![Titansbane](../../assets/placeholder.png)
+![Titansbane](../assets/placeholder.png)
 
 _Broń stworzona do walki z Tytanami._
 

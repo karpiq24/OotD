@@ -3,7 +3,7 @@ title: Bront
 ---
 # Bront
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Cyklop, wyznawca Sydona, uwięziony w Kłach._
 

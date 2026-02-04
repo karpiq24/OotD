@@ -3,7 +3,7 @@ title: Tysophale
 ---
 # Tysophale
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Brązowa smoczyca, wierzchowiec Telamoka Arkelandera_
 

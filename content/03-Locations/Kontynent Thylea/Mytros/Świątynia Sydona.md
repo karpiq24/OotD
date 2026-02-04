@@ -3,7 +3,7 @@ title: Świątynia Sydona
 ---
 # Świątynia Sydona
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Główna świątynia Pana Burz._
 
