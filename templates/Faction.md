@@ -1,14 +1,8 @@
 ---
 title: Nazwa Frakcji
-tags:
-  - faction
-leader: []
-headquarters: []
 ---
 
-# Nazwa Frakcji
-
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Krótki opis, np. Organizacja militarna oddana Sydonowi_
 
