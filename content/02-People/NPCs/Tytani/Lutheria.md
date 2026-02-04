@@ -1,5 +1,6 @@
 ---
 title: Lutheria
+image_prompt: young adult female, slender build, pale skin, long wavy platinum blonde hair, smirking expression, black lipstick, heavy black eye makeup with dripping tear streaks, gothic black lace dress, black feather shoulder piece, an intricate crown of black horns and glowing blue crystals, black choker with a large faceted blue gemstone pendant, dangling blue gemstone earrings, holding a large ornate scythe with a glowing blue blade, dark fantasy sorceress, queen of the underworld.
 ---
 
 ![Placeholder](../../../assets/placeholder.png)

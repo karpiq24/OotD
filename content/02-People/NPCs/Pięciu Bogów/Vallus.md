@@ -1,5 +1,6 @@
 ---
 title: Vallus
+image_prompt: young adult female, regal bearing, Greek goddess, slender build, tan skin, voluminous dark brown curly hair, intense green eyes, high cheekbones, wearing a white chiton with ornate golden trim and shoulder straps, adorned with a large golden laurel crown, extravagant gold earrings with pearl details, a golden leaf-motif armband, and a gold bracelet, red painted fingernails, Greco-Roman aesthetic, fantasy queen.
 ---
 
 ![Placeholder](../../../assets/placeholder.png)
