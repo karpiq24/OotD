@@ -1,11 +1,6 @@
 ---
 title: Więzienie Kieł
-tags: [location, dungeon]
-region: Themis
-type: Więzienie
-population: Amazonki, Więźniowie, Potwory
 ---
-
 # Więzienie Kieł
 
 ![Placeholder](../../assets/placeholder.png)

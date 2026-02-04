@@ -1,15 +1,6 @@
 ---
 title: Demetria
-tags:
-  - person
-  - npc
-race: Driada
-gender: Żeński
-occupation: Mistrzyni Świątyni w Starym Lesie
-affiliation: [[Lutheria]]
-image_prompt: A beautiful but vengeful dryad with bark-like skin and hair made of autumn leaves, wearing a gown of woven vines, eyes glowing with green rage, dark forest atmosphere.
 ---
-
 # Demetria
 
 ![Demetria](../../../assets/sessions/004/004_demetria.webp)

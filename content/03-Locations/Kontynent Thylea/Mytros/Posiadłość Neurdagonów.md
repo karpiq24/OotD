@@ -1,11 +1,6 @@
 ---
 title: Posiadłość Neurdagonów
-tags:
-  - location
-  - estate
-parent: Dzielnica Szlachecka
 ---
-
 # Posiadłość Neurdagonów (Neurdagon Estate)
 
 ![Placeholder](../../assets/placeholder.png)

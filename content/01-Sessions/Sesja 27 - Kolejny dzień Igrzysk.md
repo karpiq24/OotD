@@ -1,9 +1,3 @@
----
-tags:
-  - Sesja
-  - Igrzyska
----
-
 # Sesja 27 - Kolejny dzień Igrzysk
 
 **Data:** 21.10.2024

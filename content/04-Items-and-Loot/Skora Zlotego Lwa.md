@@ -1,12 +1,6 @@
 ---
 title: Skóra Złotego Lwa
-tags: [item]
-type: Pancerz/Materiał
-rarity: Bardzo Rzadki
-attunement:
-value:
 ---
-
 # Skóra Złotego Lwa
 
 ![Złoty Lew](../../assets/placeholder.png)

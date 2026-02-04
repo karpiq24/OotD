@@ -1,16 +1,6 @@
 ---
 title: Keledone
-tags:
-  - person
-  - npc
-  - construct
-race: Automaton
-gender: Kobieta
-occupation:
-affiliation: Volkan
-image_prompt:
 ---
-
 # Keledone
 
 ![Placeholder](../../assets/placeholder.png)

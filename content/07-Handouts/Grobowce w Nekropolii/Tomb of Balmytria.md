@@ -1,11 +1,6 @@
 ---
 title: Tomb of Balmytria
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Balmytria
 > Ten masywny grobowiec przyćmiewa pozostałe w [[Góra Telamok#Nekropolia|Nekropolii]]. Został wykonany z najbielszego marmuru, który zachował swoją barwę przez długie lata, grobowiec jest wsparty ogromnymi, wijącymi się filarami. Kiedy się zbliżacie, zdajecie sobie sprawę, że nie są to zwykłe kolumny, ale posągi wyrzeźbione w kształcie smoków w różnych pozach, podtrzymujące konstrukcję. Wejściem są duże, podwójne drzwi wykonane z brązu, na których wyryto epitafium:
 
@@ -19,7 +14,7 @@ type: Inskrypcja / Opis Grobowca
 > 
 > **ŚMIERĆ CZEKA NA TEGO KTO ZBEZCZEŚCI WIELKIEGO WOJOWNIKA WEWNĄTRZ**
 
-> Pomimo zewnętrznych kwadratowych ścian, wnętrze jest okrągłe, podobnie jak ogromny sarkofag spoczywający pośrodku pomieszczenia. Wykonany z białego marmuru, ma 20 stóp średnicy i 5 stóp wysokości, a na pokrywie znajduje się wspaniały obraz przedstawiający srebrnego smoka. Na ścianach widnieją 3 imponujące murale, każdy najwyraźniej stanowiący ważny element historii [[History of Thylea#Arrival of the Dragonlords (Przybycie Smoczych Władców)|Smoczych Lordów]] w [[Thylea|Thylei]], wszystkie nienaturalnie nieskazitelne, o głębokiej kolorystyce.
+> Pomimo zewnętrznych kwadratowych ścian, wnętrze jest okrągłe, podobnie jak ogromny sarkofag spoczywający pośrodku pomieszczenia. Wykonany z białego marmuru, ma 20 stóp średnicy i 5 stóp wysokości, a na pokrywie znajduje się wspaniały obraz przedstawiający srebrnego smoka. Na ścianach widnieją 3 imponujące murale, każdy najwyraźniej stanowiący ważny element historii [[Historia Thylei#Arrival of the Dragonlords (Przybycie Smoczych Władców)|Smoczych Lordów]] w [[Thylea|Thylei]], wszystkie nienaturalnie nieskazitelne, o głębokiej kolorystyce.
 > 
 > Pierwszy panel przedstawia małą grupę: jednego ogromnego srebrnego smoka, jednego dużego brązowego smoka i trzy młodsze, mniejsze brązowe. Wszystkie niosą na grzbietach potężnych ludzkich wojowników, uzbrojonych i opancerzonych, latają po niebiosach, nad morzem. Ten mural jest głównie w kolorze niebieskim.
 > 

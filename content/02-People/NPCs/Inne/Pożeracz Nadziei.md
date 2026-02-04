@@ -1,17 +1,6 @@
 ---
 title: Pożeracz Nadziei
-tags:
-  - person
-  - npc
-  - monster
-  - demon
-race: Demon
-gender:
-occupation:
-affiliation:
-image_prompt: A small golden statue of a demon. Real form: a horrific creature that eats metal and hope.
 ---
-
 # Pożeracz Nadziei
 
 ![Placeholder](../../assets/placeholder.png)

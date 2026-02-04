@@ -1,12 +1,6 @@
 ---
 title: Kostur Gromów i Błyskawic
-tags: [item]
-type: Kostur
-rarity: Bardzo Rzadki
-attunement: Tak
-value:
 ---
-
 # Kostur Gromów i Błyskawic
 
 ![Placeholder](../../assets/placeholder.png)

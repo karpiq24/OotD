@@ -1,12 +1,6 @@
 ---
 title: Świątynia Spokoju
-tags:
-  - location
-region: Arezja
-type: Świątynia
-population:
 ---
-
 # Świątynia Spokoju
 
 ![Laertes](../../assets/sessions/063/063_laertes.png)

@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Włóczni
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Włóczni
 
 _Mit o konstelacji Włóczni, związany z Galimusem i powstaniem minotaurów_

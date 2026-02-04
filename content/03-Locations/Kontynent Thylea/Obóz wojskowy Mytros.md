@@ -1,11 +1,6 @@
 ---
 title: Obóz wojskowy Mytros
-tags: [location]
-region: Kontynent Thylea
-type: Obóz
-population: Wojsko
 ---
-
 # Obóz wojskowy Mytros
 
 ![Placeholder](../../assets/placeholder.png)

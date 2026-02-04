@@ -1,11 +1,6 @@
 ---
 title: Wyspa Forlorn
-tags: [location]
-region: Zatoka Cerulańska
-type: Island
-population: Potwory, Chimera (martwa)
 ---
-
 # Wyspa Forlorn
 
 ![Placeholder](../../assets/placeholder.png)

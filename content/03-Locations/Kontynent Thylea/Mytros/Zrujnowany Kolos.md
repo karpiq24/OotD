@@ -1,12 +1,6 @@
 ---
 title: Zrujnowany Kolos
-tags:
-  - location
-  - monument
-  - mytros
-image_prompt: A massive, ruined bronze statue of a woman lying in the harbor, with a large pyre burning at its feet, fantasy art style.
 ---
-
 # Zrujnowany Kolos
 
 ![Placeholder](../../../../assets/placeholder.png)

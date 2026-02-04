@@ -1,10 +1,3 @@
----
-tags:
-  - Sesja
-  - Igrzyska
-  - Mytros
----
-
 # Sesja 30 - Zakończenie Igrzysk
 
 **Data:** 12.11.2024

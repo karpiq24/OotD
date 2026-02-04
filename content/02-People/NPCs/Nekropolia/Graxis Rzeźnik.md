@@ -1,16 +1,6 @@
 ---
 title: Graxis Rzeźnik
-tags:
-  - person
-  - npc
-  - monster
-race: Minotaur
-gender: Męski
-occupation: Strażnik Grobowca Xandera
-affiliation:
-image_prompt: A hulking, undead minotaur warrior with rotting flesh and glowing red eyes, wielding a battered bronze axe and a golden shield, standing in a dark tomb, dark fantasy style.
 ---
-
 # Graxis Rzeźnik
 
 ![Graxis](../../assets/placeholder.png)

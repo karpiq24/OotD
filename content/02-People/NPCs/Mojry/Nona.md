@@ -1,15 +1,6 @@
 ---
 title: Nona
-tags:
-  - person
-  - npc
-race: Green Hag
-gender: Female
-occupation: Mojra
-affiliation: Mojry
-image_prompt: Green hag, young appearance, single glowing eye in forehead, wings headdress
 ---
-
 # Nona
 
 ![Nona i Orion](../../../assets/sessions/047/047_nona.jpg)

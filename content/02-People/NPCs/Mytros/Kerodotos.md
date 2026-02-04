@@ -1,15 +1,6 @@
 ---
 title: Kerodotos
-tags:
-  - person
-  - npc
-race: Gnome
-gender: Male
-occupation: Kapłan, Filozof
-affiliation: [[Akademia Mytros]]
-image_prompt: A wise gnome priest with a beard, holding a book of dialogues, kind eyes, fantasy art style.
 ---
-
 # Kerodotos
 
 ![Placeholder](../../assets/placeholder.png)

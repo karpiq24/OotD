@@ -1,11 +1,6 @@
 ---
 title: Hand of Kentiname
-tags: [item]
-type: Rękawice
-rarity: Rare
-attunement: Tak
 ---
-
 # Hand of Kentiname
 
 ![Placeholder](../../assets/placeholder.png)

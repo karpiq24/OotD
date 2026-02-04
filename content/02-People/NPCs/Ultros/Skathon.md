@@ -1,17 +1,6 @@
 ---
 title: Skathon
-tags:
-  - person
-  - npc
-  - undead
-  - elf
-race: Elf (Undead)
-gender: Male
-occupation: Pierwszy Oficer Ultrosa
-affiliation: Estor Arkelander, Ultros
-image_prompt:
 ---
-
 # Skathon
 
 ![Placeholder](../../../../assets/placeholder.png)

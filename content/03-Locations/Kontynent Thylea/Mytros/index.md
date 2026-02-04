@@ -1,7 +1,6 @@
 ---
 title: Mytros
 ---
-
 # Mytros
 
 - [[Agora w Mytros]]

@@ -1,15 +1,6 @@
 ---
 title: Arybas
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Sługa
-affiliation: Aella
-image_prompt:
 ---
-
 # Arybas
 
 ![Placeholder](../../assets/placeholder.png)

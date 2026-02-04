@@ -1,9 +1,3 @@
----
-tags:
-  - Sesja
-  - Igrzyska
----
-
 # Sesja 29 - Rydwany i Jeden z Dziesięciu
 
 **Data:** 04.11.2024

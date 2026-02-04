@@ -1,11 +1,6 @@
 ---
 title: Wyspa Yonder
-tags: [location]
-region:
-type: Wyspa
-population: Gyganie (dawniej)
 ---
-
 # Wyspa Yonder
 
 ![Placeholder](../../assets/placeholder.png)

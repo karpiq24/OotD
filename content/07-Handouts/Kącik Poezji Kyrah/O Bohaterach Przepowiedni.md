@@ -1,11 +1,6 @@
 ---
 title: Bohaterowie Przepowiedni
-tags:
-  - handout
-  - note
-type: Wiersz / Relacja
 ---
-
 # Bohaterowie Przepowiedni
 
 _Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_

@@ -1,11 +1,6 @@
 ---
 title: Wyspa Skorpiona
-tags: [location]
-region: Zatoka Cerulańska
-type:
-population:
 ---
-
 # Wyspa Skorpiona
 
 ![Placeholder](../../assets/placeholder.png)

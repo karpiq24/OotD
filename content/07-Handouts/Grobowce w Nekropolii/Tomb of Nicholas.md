@@ -1,11 +1,6 @@
 ---
 title: Tomb of Nicholas
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Nicholas
 > **[[Nicholas Phobas|NICHOLAS PHOBAS]]**  
 > **POBŁOGOSŁAWIONY PRZEZ [[Sydon|SYDONA]]**

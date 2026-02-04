@@ -1,15 +1,6 @@
 ---
 title: Silenos
-tags:
-  - person
-  - npc
-race: Satyr
-gender: Male
-occupation: Kupiec
-affiliation: [[Mytros]], [[Orestes]]
-image_prompt: A jolly satyr merchant with barrels of ale, laughing, fantasy art style.
 ---
-
 # Silenos
 
 ![Placeholder](../../assets/placeholder.png)

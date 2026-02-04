@@ -1,11 +1,5 @@
 ---
 title: Elara
-tags: [person, npc]
-race: Człowiek
-gender: Mężczyzna
-occupation: Wygnaniec
-affiliation: "[[Wyspa Wygnańców]]"
-image_prompt: Elara
 ---
 # Elara
 ![Elara](../../../assets/sessions/045/045_elara.jpg)

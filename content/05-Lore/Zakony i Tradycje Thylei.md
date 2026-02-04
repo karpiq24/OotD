@@ -1,9 +1,7 @@
 ---
-title: Thylean Orders and Traditions
-tags: [lore, factions, classes, organizations]
+title: Zakony i Tradycje Thylei
 ---
-
-# Thylean Orders and Traditions (Zakony i Tradycje Thylei)
+# Zakony i Tradycje Thylei
 
 Thylea jest domem dla wielu unikalnych zakonów, szkół filozoficznych i tradycji wojowników.
 

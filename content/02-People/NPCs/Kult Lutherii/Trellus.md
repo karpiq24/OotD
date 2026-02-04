@@ -1,15 +1,6 @@
 ---
 title: Trellus
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Arcykapłan Lutherii
-affiliation: [[Kult Lutherii]], [[Lutheria]], [[Septia]]
-image_prompt: A fanatic priest in black robes, holding a ceremonial scythe, crazy eyes, fantasy art style.
 ---
-
 # Trellus
 
 ![Placeholder](../../assets/placeholder.png)

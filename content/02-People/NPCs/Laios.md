@@ -1,15 +1,6 @@
 ---
 title: Laios
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Sternik
-affiliation:
-image_prompt:
 ---
-
 # Laios
 
 ![Laios](../../assets/sessions/039/039_laios.jpg)

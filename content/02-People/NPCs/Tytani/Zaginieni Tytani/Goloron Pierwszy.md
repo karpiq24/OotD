@@ -1,16 +1,6 @@
 ---
 title: Goloron Pierwszy
-tags:
-  - person
-  - npc
-  - titan
-race: Tytan
-gender: Male
-occupation: Bóg Mądrości
-affiliation: Tytani
-image_prompt:
 ---
-
 # Goloron Pierwszy
 
 ![Placeholder](../../assets/placeholder.png)

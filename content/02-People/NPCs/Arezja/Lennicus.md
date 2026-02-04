@@ -1,15 +1,6 @@
 ---
 title: Lennicus
-tags:
-  - person
-  - npc
-race: Krasnolud
-gender: Mężczyzna
-occupation: Kapłan, Uzdrowiciel
-affiliation: Arezja, Sanktuarium
-image_prompt:
 ---
-
 # Lennicus
 
 ![Lennicus](../../../assets/sessions/062/062_Lennicus.png)

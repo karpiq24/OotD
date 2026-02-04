@@ -1,11 +1,6 @@
 ---
 title: Jaskinie Troglodytów
-tags: [location]
-region: Mithralowa Kuźnia
-type: Jaskinie / Kopalnia
-population: Szczep Troglodytów
 ---
-
 # Jaskinie Troglodytów
 
 ![Placeholder](../../assets/placeholder.png)

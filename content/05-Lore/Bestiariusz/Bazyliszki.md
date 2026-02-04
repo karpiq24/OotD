@@ -1,8 +1,6 @@
 ---
 title: Bazyliszki
-tags: [lore, monster]
 ---
-
 # Bazyliszki
 
 ![Placeholder](../../../assets/placeholder.png)

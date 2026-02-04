@@ -1,15 +1,6 @@
 ---
 title: Babcia Morta
-tags:
-  - person
-  - npc
-race: Night Hag
-gender: Female
-occupation: Liderka Mojr
-affiliation: Mojry
-image_prompt: Ancient night hag, cutting thread, rusty scissors, one eye socket empty
 ---
-
 # Babcia Morta
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Goloron
-tags:
-  - person
-  - npc
-race: Tytan (Empyrean)
-gender: Male
-occupation:
-affiliation: Sydon, Lutheria, Dzieci Tytanów
-image_prompt: A massive Titan with empty, mad eyes, radiating instability, fantasy art style.
 ---
-
 # Goloron
 
 ![Placeholder](../../assets/placeholder.png)

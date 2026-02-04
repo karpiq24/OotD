@@ -1,12 +1,6 @@
 ---
 title: Plany Naprawy Magicznego Kompasu
-tags: [item]
-type: Dokument
-rarity: Unikat
-attunement:
-value: 
 ---
-
 # Plany Naprawy Magicznego Kompasu
 
 ![Placeholder](../../assets/placeholder.png)

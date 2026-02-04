@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Mrówki
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Mrówki
 
 _Mit o konstelacji Mrówki, symbolu pracowitości_

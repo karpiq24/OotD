@@ -1,12 +1,6 @@
 ---
 title: Galeria Sztuki
-tags:
-  - location
-region: Arezja
-type: Budynek publiczny
-population:
 ---
-
 # Galeria Sztuki
 
 ![Placeholder](../../assets/placeholder.png)

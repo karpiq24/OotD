@@ -1,12 +1,6 @@
 ---
 title: Breastplate of Xander
-tags: [item]
-type: Armor (Breastplate)
-rarity: Legendary
-attunement: Requires Attunement
-value: 
 ---
-
 # Breastplate of Xander
 
 ![Placeholder](../../assets/placeholder.png)

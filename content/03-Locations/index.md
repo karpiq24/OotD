@@ -1,7 +1,6 @@
 ---
 title: Locations
 ---
-
 # Locations
 
 - [[Hades]]

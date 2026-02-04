@@ -1,10 +1,6 @@
 ---
 title: "Sesja 7: Uratować Księżniczkę"
-session_number: 7
-date: 2024-03-04
-tags: [session]
 ---
-
 # Sesja 7: Uratować Księżniczkę
 
 **Data:** 04.03.2024

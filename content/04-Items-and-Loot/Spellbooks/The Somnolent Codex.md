@@ -1,12 +1,6 @@
 ---
 title: The Somnolent Codex
-tags: [item, spellbook]
-type: Księga Zaklęć
-rarity: Bardzo Rzadki
-attunement: Nie
-value: Bardzo Wysoka
 ---
-
 # The Somnolent Codex
 
 ![Placeholder](../../../assets/placeholder.png)

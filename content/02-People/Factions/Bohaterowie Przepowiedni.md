@@ -1,11 +1,6 @@
 ---
 title: Bohaterowie Przepowiedni
-tags:
-  - faction
-leader: []
-headquarters: ["[[Ultros]]"]
 ---
-
 # Bohaterowie Przepowiedni
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Świątynia Sydona
-tags:
-  - location
-  - temple
-parent: Dzielnica Świątynna
 ---
-
 # Świątynia Sydona
 
 ![Placeholder](../../assets/placeholder.png)

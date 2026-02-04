@@ -1,15 +1,6 @@
 ---
 title: Cosmo
-tags:
-  - person
-  - npc
-race: Człowiek (?)
-gender: Męski
-occupation: Dowódca Smoczych Lordów (niegdyś)
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Cosmo
 
 ![Placeholder](../../assets/placeholder.png)

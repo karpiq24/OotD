@@ -1,15 +1,6 @@
 ---
 title: Samuel
-tags:
-  - person
-  - npc
-race: Krasnolud
-gender: Male
-occupation: Żeglarz, Handlarz
-affiliation: [[Port w Mytros]]
-image_prompt: An ancient dwarf sailor with a white beard, weathered skin, standing at a fish stall, fantasy art style.
 ---
-
 # Samuel
 
 ![Placeholder](../../assets/placeholder.png)

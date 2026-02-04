@@ -1,15 +1,6 @@
 ---
 title: Vitalis
-tags:
-  - person
-  - npc
-race: Halfling
-gender: Male
-occupation: Mędrzec
-affiliation: [[Wielkie Ogrody]], [[Mytros]]
-image_prompt: A fat, dirty halfling in rags, eating grapes, looking paradoxically wise, fantasy art style.
 ---
-
 # Vitalis
 
 ![Placeholder](../../assets/placeholder.png)

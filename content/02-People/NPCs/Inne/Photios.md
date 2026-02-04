@@ -1,15 +1,6 @@
 ---
 title: Photios
-tags:
-  - person
-  - npc
-race: Gygan
-gender: Męski
-occupation: Przywódca Gyganów
-affiliation: Gygani
-image_prompt:
 ---
-
 # Photios
 
 ![Placeholder](../../assets/placeholder.png)

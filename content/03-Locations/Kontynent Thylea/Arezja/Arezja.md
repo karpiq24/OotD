@@ -1,11 +1,6 @@
 ---
 title: Arezja
-tags: [location]
-region:
-type: Królestwo
-population:
 ---
-
 # Arezja
 
 ![Placeholder](../../assets/placeholder.png)

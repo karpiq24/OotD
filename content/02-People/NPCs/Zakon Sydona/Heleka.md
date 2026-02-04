@@ -1,15 +1,6 @@
 ---
 title: Heleka
-tags:
-  - person
-  - npc
-race: Wiedźma Morska (Sea Hag)
-gender: Żeńska
-occupation: Wiedźma, wysłanniczka Sydona
-affiliation: "[[Sydon]]"
-image_prompt: A terrifying sea hag with greenish, slimy skin, tangled seaweed-like hair, and sharp, jagged teeth. She is surrounded by a foul mist.
 ---
-
 # Heleka
 
 ![Placeholder](../../assets/placeholder.png)

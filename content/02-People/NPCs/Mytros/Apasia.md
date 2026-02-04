@@ -1,15 +1,6 @@
 ---
 title: Apasia
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Smoczy Lord Acastusa
-affiliation: Mytros, King Acastus, Smoczy Lordowie Acastusa
-image_prompt:
 ---
-
 # Apasia
 
 ![Placeholder](../../assets/placeholder.png)

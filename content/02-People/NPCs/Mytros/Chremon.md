@@ -1,15 +1,6 @@
 ---
 title: Chremon
-tags:
-  - person
-  - npc
-race: Tiefling
-gender: Male
-occupation: Akolita
-affiliation: [[Gniazdo Zapomnianych]]
-image_prompt: Tiefling acolyte looking fearful, sewer shadows, fantasy art.
 ---
-
 # Chremon
 
 ![Placeholder](../../assets/placeholder.png)

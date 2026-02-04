@@ -1,15 +1,6 @@
 ---
 title: Ajax
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Kapłan Sydona, Kapitan
-affiliation: [[Zakon Sydona]], [[Sydon]]
-image_prompt: A muscular fanatic priest in adorned armor, wielding a massive warhammer, eyes burning with zeal, standing in a library, fantasy art style.
 ---
-
 # Ajax
 
 ![Ajax](../../../assets/sessions/052/052_ajax.png)

@@ -1,11 +1,6 @@
 ---
 title: Brama Handlowa
-tags:
-  - location
-  - city-gate
-parent: Dzielnica Szlachecka
 ---
-
 # Brama Handlowa (The Commerce Gate)
 
 ![Placeholder](../../assets/placeholder.png)

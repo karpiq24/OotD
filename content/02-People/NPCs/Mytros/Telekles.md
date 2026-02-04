@@ -1,15 +1,6 @@
 ---
 title: Telekles
-tags:
-  - person
-  - npc
-race: Pół-ork
-gender: Male
-occupation: Kupiec
-affiliation: [[Gniazdo Zapomnianych]]
-image_prompt: Half-orc merchant in noble clothes, sewer market, fantasy art.
 ---
-
 # Telekles
 
 ![Placeholder](../../assets/placeholder.png)

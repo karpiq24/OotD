@@ -1,15 +1,6 @@
 ---
 title: Elasus
-tags:
-  - person
-  - npc
-race: Human (?)
-gender: Male
-occupation: Oficer Zakonu Sydona
-affiliation: Zakon Sydona
-image_prompt: 
 ---
-
 # Elasus
 
 ![Placeholder](../../../../assets/placeholder.png)

@@ -1,7 +1,6 @@
 ---
 title: Mojry
 ---
-
 # Mojry
 
 - [[Decima]]

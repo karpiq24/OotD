@@ -1,15 +1,6 @@
 ---
 title: Tysophale
-tags:
-  - person
-  - npc
-race: Smok (Brązowy)
-gender: Żeński
-occupation: Smoczy wierzchowiec
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Tysophale
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Gniazdo Roka
-tags: [location]
-region: Zapomniane Morze
-type:
-population:
 ---
-
 # Gniazdo Roka
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Kabira Nasir
-tags:
-  - person
-  - npc
-race: Konstrukt / Anioł
-gender: 
-occupation: Kat
-affiliation: Wyspa Czasu
-image_prompt:
 ---
-
 # Kabira Nasir
 
 ![Placeholder](../../assets/placeholder.png)

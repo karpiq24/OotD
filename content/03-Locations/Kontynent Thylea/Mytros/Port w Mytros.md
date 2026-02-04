@@ -1,11 +1,6 @@
 ---
 title: Port w Mytros
-tags:
-  - location
-  - harbor
-parent: Mytros
 ---
-
 # Port w Mytros
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Estor i Pierwsza Wojna
-tags:
-  - handout
-  - legend
-type: Legenda
 ---
-
 # Estor i Pierwsza Wojna
 
 _Legenda o okrucieństwie Estora i wybuchu Pierwszej Wojny_

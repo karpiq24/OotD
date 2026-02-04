@@ -1,13 +1,6 @@
 ---
 title: Druidzi ze Starego Lasu
-tags:
-  - faction
-  - organization
-  - druids
-leader: []
-headquarters: "[[Stary Las]]"
 ---
-
 # Druidzi ze Starego Lasu
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Haidee
-tags:
-  - person
-  - npc
-race: Niziołek
-gender: Kobieta
-occupation: Mag, Właścicielka Sklepu
-affiliation: Arezja
-image_prompt:
 ---
-
 # Haidee
 
 ![Haidee](../../../assets/sessions/062/062_Haidee.png)

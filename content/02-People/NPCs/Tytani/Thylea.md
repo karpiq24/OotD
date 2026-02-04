@@ -1,16 +1,6 @@
 ---
 title: Thylea
-tags:
-  - person
-  - npc
-  - titan
-race: Pradawna Istota / Tytan
-gender: Female
-occupation: Matka Thylei
-affiliation:
-image_prompt:
 ---
-
 # Thylea
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Ventis
-tags:
-  - person
-  - dragon
-  - npc
-race: Miedziany Smok
-gender: Kobieta
-occupation: Sługa Sydona
-affiliation: "[[Sydon]], [[Wyspa Indygo]]"
 ---
-
 # Ventis
 
 ![Ventis](../../../assets/sessions/042/042_dragon.jpg)

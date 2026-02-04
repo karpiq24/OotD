@@ -1,15 +1,6 @@
 ---
 title: Zephyrus
-tags:
-  - person
-  - npc
-race: Oceanid
-gender: Męski
-occupation: Wiosenny Wiatr
-affiliation: Kyrah / Boreas
-image_prompt:
 ---
-
 # Zephyrus
 
 ![Placeholder](../../assets/placeholder.png)

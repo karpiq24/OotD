@@ -1,11 +1,6 @@
 ---
 title: Morze Otchłani
-tags: [location]
-region: Thylea
-type: Morze
-population: Potwory, Podwodne Cywilizacje
 ---
-
 # Morze Otchłani
 
 ![Placeholder](../../assets/placeholder.png)

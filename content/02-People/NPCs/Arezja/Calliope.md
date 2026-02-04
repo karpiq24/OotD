@@ -1,13 +1,6 @@
 ---
 title: Calliope
-tags: [person, npc]
-race: Człowiek
-gender: Żeńska
-occupation: Królowa Arezji
-affiliation: Arezja
-image_prompt:
 ---
-
 # Calliope
 
 ![Calliope](../../assets/placeholder.png)

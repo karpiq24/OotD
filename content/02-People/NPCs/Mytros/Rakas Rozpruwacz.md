@@ -1,15 +1,6 @@
 ---
 title: Rakas Rozpruwacz
-tags:
-  - person
-  - npc
-race: Minotaur
-gender: Male
-occupation: Gladiator
-affiliation: [[Maximus]]
-image_prompt: A massive minotaur gladiator with scars, wielding dual weapons, fearsome, fantasy art style.
 ---
-
 # Rakas Rozpruwacz
 
 ![Placeholder](../../assets/placeholder.png)

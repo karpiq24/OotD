@@ -1,15 +1,6 @@
 ---
 title: Kapitan Nersus
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Kapitan
-affiliation: Załoga Ostatniej Nadziei
-image_prompt: weathered sea captain
 ---
-
 # Kapitan Nersus
 
 ![Placeholder](../../assets/placeholder.png)

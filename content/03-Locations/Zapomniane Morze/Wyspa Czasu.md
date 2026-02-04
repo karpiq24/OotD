@@ -1,11 +1,6 @@
 ---
 title: Wyspa Czasu
-tags: [location]
-region: Zapomniane Morze
-type:
-population:
 ---
-
 # Wyspa Czasu
 
 ![Placeholder](../../assets/placeholder.png)

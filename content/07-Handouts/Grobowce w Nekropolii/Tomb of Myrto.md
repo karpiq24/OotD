@@ -1,11 +1,6 @@
 ---
 title: Tomb of Myrto
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Myrto
 > **[[Myrto Wspaniały|MYRTO WSPANIAŁY]]**
 > 

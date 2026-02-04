@@ -1,15 +1,6 @@
 ---
 title: Kartos
-tags:
-  - person
-  - npc
-race: Androsphinx
-gender: Male
-occupation:
-affiliation: Wyspa Czasu
-image_prompt:
 ---
-
 # Kartos
 
 ![Placeholder](../../assets/placeholder.png)

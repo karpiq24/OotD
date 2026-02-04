@@ -1,7 +1,6 @@
 ---
 title: Zapomniane Morze
 ---
-
 # Zapomniane Morze
 
 - [[Charybda]]

@@ -1,15 +1,6 @@
 ---
 title: Karpathos Aresianos
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Male
-occupation: Smoczy Lord, Król Arezji
-affiliation: "[[Arezja]], [[Smoczy Lordowie]] (dawniej)"
-image_prompt:
 ---
-
 # Karpathos Aresianos
 
 ![Placeholder](../../assets/placeholder.png)

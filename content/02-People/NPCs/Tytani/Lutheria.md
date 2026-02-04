@@ -1,15 +1,6 @@
 ---
 title: Lutheria
-tags:
-  - person
-  - npc
-race: Tytan
-gender: Female
-occupation: Pani Śmierci (Check lore, usually associated with death/dreams)
-affiliation:
-image_prompt:
 ---
-
 # Lutheria
 
 ![Placeholder](../../assets/placeholder.png)

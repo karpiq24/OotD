@@ -1,15 +1,6 @@
 ---
 title: Eli
-tags:
-  - person
-  - npc
-race: Sprite
-gender: Męski
-occupation: Strażnik lasu
-affiliation: [[Woodhike]]
-image_prompt: A tiny, nimble sprite with a miniature bow and shimmering blue wings, camouflaged among ancient oak branches, digital fantasy art style.
 ---
-
 # Eli
 
 ![Placeholder](../../../assets/placeholder.png)

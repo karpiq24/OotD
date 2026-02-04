@@ -1,15 +1,6 @@
 ---
 title: Aegis
-tags:
-  - person
-  - npc
-race: Człowiek (?)
-gender: Mężczyzna
-occupation: Gawędziarz, Podróżnik
-affiliation:
-image_prompt:
 ---
-
 # Aegis
 
 ![Aegis](../../assets/sessions/039/039_aegis.jpg)

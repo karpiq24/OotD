@@ -1,12 +1,6 @@
 ---
 title: Świątynia Żywiołów
-tags:
-  - location
-region: Arezja
-type: Świątynia
-population:
 ---
-
 # Świątynia Żywiołów
 
 ![Taureus](../../assets/sessions/063/063_taureus.png)

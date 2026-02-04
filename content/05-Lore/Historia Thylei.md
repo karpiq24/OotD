@@ -1,10 +1,7 @@
 ---
-title: History of Thylea
-tags: [lore, history]
+title: Historia Thylei
 ---
-
-# History of Thylea
-
+# Historia Thylei
 ## Arrival of Mortals (Przybycie Śmiertelników)
 
 W wiekach poprzedzających założenie Mytros, śmiertelnicy nie mieli władzy nad dzikimi ziemiami Thylei. Kiedy elfy, krasnoludy i ludzie zostali wyrzuceni na brzegi Thylei, ich broń zawiodła, a magia przestała działać. Zostali opuszczeni przez swoich bogów, zmuszeni do życia jako żebracy wśród ras fey.

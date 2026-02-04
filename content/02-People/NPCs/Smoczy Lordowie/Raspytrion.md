@@ -1,15 +1,6 @@
 ---
 title: Raspytrion
-tags:
-  - person
-  - npc
-race: Smok (Brązowy)
-gender: Męski
-occupation: Smoczy wierzchowiec
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Raspytrion
 
 ![Placeholder](../../assets/placeholder.png)

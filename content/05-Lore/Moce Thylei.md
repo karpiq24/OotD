@@ -1,10 +1,7 @@
 ---
-title: The Powers of Thylea
-tags: [lore, gods, titans]
+title: Moce Thylei
 ---
-
-# The Powers of Thylea (Moce Thylei)
-
+# Moce Thylei
 ## The Ancient Titans (Starożytni Tytani)
 
 Tytani to boskie moce rodzime dla Thylei. Istnieją od zarania dziejów.

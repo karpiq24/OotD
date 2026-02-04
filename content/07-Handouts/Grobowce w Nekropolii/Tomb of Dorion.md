@@ -1,11 +1,6 @@
 ---
 title: Tomb of Dorion
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Dorion
 > **[[Dorion Neurdagon|DORION NEURDAGON]]**
 > 

@@ -1,10 +1,7 @@
 ---
-title: Thylean Satyr
-tags: [race, people, satyr, fey]
+title: Satyr z Thylei
 ---
-
-# Thylean Satyr (Satyr z Thylei)
-
+# Satyr z Thylei
 Satyry to rasa fey z ciałem kozła od pasa w dół. Kochają muzykę, wino i przyjemności cielesne.
 
 ## Culture (Kultura)

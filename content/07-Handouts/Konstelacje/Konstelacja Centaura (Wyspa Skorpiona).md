@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Centaura (Wyspa Skorpiona)
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Centaura (Wyspa Skorpiona)
 
 _Mit o konstelacji Centaura i Skorpiona_

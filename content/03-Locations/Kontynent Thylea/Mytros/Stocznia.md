@@ -1,12 +1,6 @@
 ---
 title: Stocznia
-tags:
-  - location
-  - dockyard
-  - mytros
-image_prompt: A bustling ancient greek dockyard with drydocks, galleys under repair, and merchants selling sacrificial animals, fantasy art style.
 ---
-
 # Stocznia
 
 ![Placeholder](../../../../assets/placeholder.png)

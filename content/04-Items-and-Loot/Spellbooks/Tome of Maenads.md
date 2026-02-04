@@ -1,12 +1,6 @@
 ---
 title: Tome of Maenads
-tags: [item, spellbook]
-type: Księga Zaklęć
-rarity: Rzadki
-attunement: Nie
-value: Wysoka
 ---
-
 # Tome of Maenads
 
 ![Placeholder](../../../assets/placeholder.png)

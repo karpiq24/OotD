@@ -1,15 +1,6 @@
 ---
 title: Waywa
-tags:
-  - person
-  - npc
-race: Gynosphinx
-gender: Female
-occupation:
-affiliation: Wyspa Czasu
-image_prompt:
 ---
-
 # Waywa
 
 ![Placeholder](../../assets/placeholder.png)

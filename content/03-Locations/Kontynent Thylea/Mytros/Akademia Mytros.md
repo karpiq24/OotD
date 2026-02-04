@@ -1,11 +1,6 @@
 ---
 title: Akademia Mytros
-tags:
-  - location
-  - academy
-parent: Dzielnica Świątynna
 ---
-
 # Akademia Mytros (The Academy)
 
 ![Placeholder](../../assets/placeholder.png)

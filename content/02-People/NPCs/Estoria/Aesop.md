@@ -1,15 +1,6 @@
 ---
 title: Aesop
-tags:
-  - person
-  - npc
-race: Elf
-gender: Mężczyzna
-occupation: Strażnik Smoczej Kaplicy
-affiliation: Smoczy Lordowie
-image_prompt: An elderly elven priest with wise eyes and a serene expression, wearing white and copper robes, standing in a temple filled with incense smoke, digital fantasy art style.
 ---
-
 # Aesop
 
 ![Placeholder](../../../assets/placeholder.png)

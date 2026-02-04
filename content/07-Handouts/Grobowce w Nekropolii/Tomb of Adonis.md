@@ -1,11 +1,6 @@
 ---
 title: Tomb of Adonis
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Adonis
 > **[[Adonis Neurdagon|ADONIS NEURDAGON]]**
 > 

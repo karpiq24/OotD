@@ -1,7 +1,6 @@
 ---
 title: Rules
 ---
-
 # Rules
 
 

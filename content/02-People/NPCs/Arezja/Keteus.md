@@ -1,15 +1,6 @@
 ---
 title: Keteus
-tags:
-  - person
-  - npc
-race: Minotaur
-gender: Mężczyzna
-occupation: Czempion Tarczy
-affiliation: Arezja, Świątynia Tarczy
-image_prompt:
 ---
-
 # Keteus
 
 ![Placeholder](../../assets/placeholder.png)

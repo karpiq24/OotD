@@ -1,16 +1,6 @@
 ---
 title: Kairos
-tags:
-  - person
-  - npc
-  - monster
-race: Brązowy Smok
-gender: Male
-occupation: Towarzysz
-affiliation: Felicjan Janus Twardowski
-image_prompt: brown dragon wyrmling
 ---
-
 # Kairos
 
 ![Narodziny Smoka](../../assets/sessions/048/048_kairos.jpg)

@@ -1,7 +1,6 @@
 ---
 title: Kontynent Thylea
 ---
-
 # Kontynent Thylea
 
 - [[Arezja]]

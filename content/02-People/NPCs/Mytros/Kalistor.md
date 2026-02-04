@@ -1,15 +1,6 @@
 ---
 title: Kalistor
-tags:
-  - person
-  - npc
-race: Półbóg (Human)
-gender: Male
-occupation: Szpieg / Kurtyzana
-affiliation: [[Siren's Roost]], [[Pięciu Bogów]]
-image_prompt: A handsome man with divine features, strong physique, wearing fine silks, hidden dagger, fantasy art style.
 ---
-
 # Kalistor
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Świątynia Pięciu
-tags:
-  - location
-  - temple
-parent: Dzielnica Świątynna
 ---
-
 # Świątynia Pięciu
 
 ![Placeholder](../../assets/placeholder.png)

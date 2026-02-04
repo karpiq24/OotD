@@ -1,11 +1,6 @@
 ---
 title: Cukiereczki
-tags:
-  - handout
-  - note
-type: Pieśń / Rymowanka
 ---
-
 # Cukiereczki
 
 _Mroczna rymowanka ze zbioru "Kącik Poezji [[Kyrah]]"_

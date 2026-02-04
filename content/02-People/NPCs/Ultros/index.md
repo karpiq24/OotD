@@ -1,7 +1,6 @@
 ---
 title: Ultros
 ---
-
 # Ultros
 
 - [[Andrzej Drugi]]

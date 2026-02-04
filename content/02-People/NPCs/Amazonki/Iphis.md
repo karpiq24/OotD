@@ -1,15 +1,6 @@
 ---
 title: Iphis
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Amazonka
-affiliation: Amazonki
-image_prompt:
 ---
-
 # Iphis
 
 ![Iphis](../../../assets/sessions/033/iphis.png)

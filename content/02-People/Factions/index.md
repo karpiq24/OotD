@@ -1,7 +1,6 @@
 ---
 title: Factions
 ---
-
 # Factions
 
 - [[Amazonki]]

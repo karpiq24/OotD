@@ -1,15 +1,6 @@
 ---
 title: Alexandros
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Smoczy Lord Acastusa
-affiliation: Mytros, King Acastus, Smoczy Lordowie Acastusa
-image_prompt:
 ---
-
 # Alexandros
 
 ![Placeholder](../../assets/placeholder.png)

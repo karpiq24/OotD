@@ -1,15 +1,6 @@
 ---
 title: Tyrone
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Bandyta, demagog
-affiliation: "[[Wyspa Wygnańców]]"
-image_prompt: Tyrone
 ---
-
 # Tyrone
 
 ![Tyrone](../../../assets/sessions/045/045_tyrone.jpg)

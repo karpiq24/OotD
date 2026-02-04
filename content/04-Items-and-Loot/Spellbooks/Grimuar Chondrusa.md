@@ -1,12 +1,6 @@
 ---
 title: Grimuar Chondrusa
-tags: [item, spellbook]
-type: Księga Zaklęć
-rarity: Rare
-attunement:
-value: 
 ---
-
 # Grimuar Chondrusa
 
 ![Placeholder](../../assets/placeholder.png)

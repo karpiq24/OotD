@@ -1,11 +1,6 @@
 ---
 title: Karczma "Smoczy Ząb"
-tags: [location]
-region: Estoria
-type: Karczma
-population:
 ---
-
 # Karczma "Smoczy Ząb"
 
 ![Placeholder](../../../assets/placeholder.png)

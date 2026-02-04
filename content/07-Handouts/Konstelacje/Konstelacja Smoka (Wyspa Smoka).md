@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Smoka (Wyspa Smoka)
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Smoka (Wyspa Smoka)
 
 _Mit o konstelacji Smoka, związany z przybyciem Smoczych Lordów_

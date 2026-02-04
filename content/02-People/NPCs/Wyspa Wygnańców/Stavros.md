@@ -1,17 +1,6 @@
 ---
 title: Stavros
-tags:
-  - person
-  - npc
-  - noble
-  - merchant
-race: Człowiek
-gender: Mężczyzna
-occupation: '"Król" Wygnańców', Były Kupiec
-affiliation: "[[Wyspa Wygnańców]]"
-image_prompt: Stavros
 ---
-
 # Stavros
 
 ![Stavros](../../../assets/sessions/045/045_stavros.jpg)

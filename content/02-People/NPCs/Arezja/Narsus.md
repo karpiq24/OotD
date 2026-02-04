@@ -1,16 +1,6 @@
 ---
 title: Narsus
-tags:
-  - person
-  - npc
-  - god
-race: Bóg
-gender: Male
-occupation: Bóg Piękna
-affiliation: Arezja, Pięciu Bogów
-image_prompt: A breathtakingly beautiful man with golden skin and hair, looking bored and arrogant, lounging in a palace garden, fantasy art style.
 ---
-
 # Narsus
 
 ![Placeholder](../../assets/placeholder.png)

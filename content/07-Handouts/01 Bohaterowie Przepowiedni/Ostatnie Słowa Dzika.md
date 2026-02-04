@@ -1,11 +1,6 @@
 ---
 title: Ostatnie Słowa Dzika
-tags:
-  - handout
-  - quote
-type: Quote
 ---
-
 # Ostatnie Słowa Dzika
 
 _Słowa wypowiedziane przez wielką bestię w Heartlands_

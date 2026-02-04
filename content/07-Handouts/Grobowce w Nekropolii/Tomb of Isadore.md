@@ -1,11 +1,6 @@
 ---
 title: Tomb of Isadore
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Isadore
 > **[[Isadore Huorath|ISADORE HUORATH]]**
 > 

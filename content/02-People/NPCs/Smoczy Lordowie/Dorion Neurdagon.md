@@ -1,15 +1,6 @@
 ---
 title: Dorion Neurdagon
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Dorion Neurdagon
 
 ![Placeholder](../../assets/placeholder.png)

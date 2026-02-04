@@ -1,11 +1,6 @@
 ---
 title: Kwaśny Rocznik
-tags: [location]
-region: Kontynent Thylea
-type: Gospoda
-population: Wieśniacy, Podróżni
 ---
-
 # Kwaśny Rocznik
 
 ![Placeholder](../../assets/placeholder.png)

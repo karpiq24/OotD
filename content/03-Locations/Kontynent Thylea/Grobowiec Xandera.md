@@ -1,11 +1,6 @@
 ---
 title: Grobowiec Xandera
-tags: [location]
-region: Kontynent Thylea
-type:
-population:
 ---
-
 # Grobowiec Xandera
 
 ![Placeholder](../../assets/placeholder.png)

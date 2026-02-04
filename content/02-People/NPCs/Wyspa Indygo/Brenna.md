@@ -1,14 +1,6 @@
 ---
 title: Brenna
-tags:
-  - person
-  - npc
-race: Krasnolud
-gender: Kobieta
-occupation:
-affiliation: "[[Wyspa Indygo]], [[Plemię Wieloryba]]"
 ---
-
 # Brenna
 
 ![Placeholder](../../../assets/placeholder.png)

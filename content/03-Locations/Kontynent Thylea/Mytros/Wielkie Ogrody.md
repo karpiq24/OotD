@@ -1,11 +1,6 @@
 ---
 title: Wielkie Ogrody
-tags:
-  - location
-  - park
-parent: Dzielnica Szlachecka
 ---
-
 # Wielkie Ogrody (The Great Gardens)
 
 ![Placeholder](../../assets/placeholder.png)

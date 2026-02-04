@@ -1,11 +1,6 @@
 ---
 title: Plemię Rekina
-tags:
-  - faction
-leader: [[Gorac]]
-headquarters: [[Wyspa Indygo]]
 ---
-
 # Plemię Rekina
 
 ![Placeholder](../../../assets/placeholder.png)

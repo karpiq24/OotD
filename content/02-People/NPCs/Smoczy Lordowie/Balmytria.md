@@ -1,16 +1,6 @@
 ---
 title: Balmytria
-tags:
-  - person
-  - npc
-  - dragon
-race: Srebrny Smok
-gender: Female
-occupation: Przywódczyni Smoków
-affiliation: "[[Smoczy Lordowie]]"
-image_prompt:
 ---
-
 # Balmytria
 
 ![Placeholder](../../assets/placeholder.png)

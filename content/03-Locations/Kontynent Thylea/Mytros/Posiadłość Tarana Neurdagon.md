@@ -1,9 +1,3 @@
----
-tags:
-  - Lokacja
-  - Mytros
----
-
 # Posiadłość Tarana Neurdagon
 
 ## Opis

@@ -1,11 +1,6 @@
 ---
 title: Themis
-tags: [location]
-region: Zatoka Cerulańska
-type: Wyspa / Miasto
-population: Amazonki
 ---
-
 # Themis
 
 ![Placeholder](../../assets/placeholder.png)

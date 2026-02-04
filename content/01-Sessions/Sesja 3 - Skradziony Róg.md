@@ -1,10 +1,6 @@
 ---
 title: "Sesja 3: Skradziony Róg"
-session_number: 3
-date: 2024-01-29
-tags: [session]
 ---
-
 # Sesja 3: Skradziony Róg
 
 **Data:** 29.01.2024

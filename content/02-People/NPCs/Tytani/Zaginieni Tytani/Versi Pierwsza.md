@@ -1,16 +1,6 @@
 ---
 title: Versi Pierwsza
-tags:
-  - person
-  - npc
-  - titan
-race: Tytan
-gender: Female
-occupation: Bogini Proroctwa
-affiliation: Tytani
-image_prompt:
 ---
-
 # Versi Pierwsza
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Konspekt Strategiczny Tytanów
-tags:
-  - handout
-  - letter
-type: Dokument Strategiczny
 ---
-
 # Konspekt Strategiczny Tytanów
 
 _Zarys planu operacyjnego mającego na celu przywrócenie panowania Tytanów (Sydona i Lutherii) po wygaśnięciu Przysięgi Pokoju._
@@ -26,7 +21,7 @@ _Zarys planu operacyjnego mającego na celu przywrócenie panowania Tytanów (Sy
 
 **Sekcja IV: Centaury ze Stepów – Oblężenie Estorii i Odcięcie Posiłków**
 
-„Plemiona [[Thylean Centaur|centaurów]] ze stepów północnych, od wieków czczące [[Sydon|Sydona]] jako Pana Burz i Pierwotną Siłę, są gotowe do marszu. Zaatakują [[Estoria|Estorię]] od północy, gdy tylko nadejdzie wyznaczony czas. Nawet jeśli nie uda im się zdobyć miasta samodzielnie – co, biorąc pod uwagę opłakany stan obrony tego miasta, jaki ostatnio widziałem podczas mojej inspekcji, jest mało prawdopodobne – ich natarcie z pewnością zwiąże siły [[Anora|Anory]]. Uniemożliwią tym samym nadejście jakiejkolwiek pomocy z [[Estoria|Estorii]] dla oblężonego [[Mytros]], pozostawiając stolicę na naszą łaskę.”
+„Plemiona [[Centaur z Thylei|centaurów]] ze stepów północnych, od wieków czczące [[Sydon|Sydona]] jako Pana Burz i Pierwotną Siłę, są gotowe do marszu. Zaatakują [[Estoria|Estorię]] od północy, gdy tylko nadejdzie wyznaczony czas. Nawet jeśli nie uda im się zdobyć miasta samodzielnie – co, biorąc pod uwagę opłakany stan obrony tego miasta, jaki ostatnio widziałem podczas mojej inspekcji, jest mało prawdopodobne – ich natarcie z pewnością zwiąże siły [[Anora|Anory]]. Uniemożliwią tym samym nadejście jakiejkolwiek pomocy z [[Estoria|Estorii]] dla oblężonego [[Mytros]], pozostawiając stolicę na naszą łaskę.”
 
 **~Sekcja V: Amazonki z Themis – Dominacja na Morzu Ceruleańskim~**
 

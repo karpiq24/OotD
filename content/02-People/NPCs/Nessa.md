@@ -1,15 +1,6 @@
 ---
 title: Nessa
-tags:
-  - person
-  - npc
-race: Centaur
-gender: Female
-occupation: 
-affiliation: [[Pholon]]
-image_prompt: 
 ---
-
 # Nessa
 
 ![Placeholder](../../assets/placeholder.png)

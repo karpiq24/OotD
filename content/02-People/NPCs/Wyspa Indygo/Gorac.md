@@ -1,14 +1,6 @@
 ---
 title: Gorac
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Przywódca Plemienia Rekina
-affiliation: "[[Wyspa Indygo]], [[Plemię Rekina]]"
 ---
-
 # Gorac
 
 ![Placeholder](../../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Lustrzane Więzienie
-tags: [location]
-region: Morze Otchłani
-type: Ruiny, Więzienie
-population: 0 (dawniej Hezzebal)
 ---
-
 # Lustrzane Więzienie
 
 ![Krystaliczna Piramida](../../assets/sessions/067/067_pyramid.png)

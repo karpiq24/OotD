@@ -1,15 +1,6 @@
 ---
 title: Tarrasque
-tags:
-  - monster
-  - legendary
-race: Monstrosity (Titan)
-gender: 
-occupation: Pożeracz Światów
-affiliation: Sydon (uwięziony przez niego?)
-image_prompt: Giant sleeping monster chained inside a cube
 ---
-
 # Tarrasque
 
 ![Tarrasque](../../../assets/sessions/065/065_tarrasque.png)

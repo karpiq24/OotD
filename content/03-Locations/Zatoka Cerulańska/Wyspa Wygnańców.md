@@ -1,11 +1,6 @@
 ---
 title: Wyspa Wygnańców
-tags: [location]
-region: Zapomniane Morze
-type: Wyspa-Więzienie
-population: Więźniowie i skazańcy
 ---
-
 # Wyspa Wygnańców
 
 ![Placeholder](../../assets/placeholder.png)

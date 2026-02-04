@@ -1,15 +1,6 @@
 ---
 title: Rizon Phobas
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Female
-occupation: Smoczy Lord
-affiliation: "[[Smoczy Lordowie]]"
-image_prompt:
 ---
-
 # Rizon Phobas
 
 ![Placeholder](../../assets/placeholder.png)

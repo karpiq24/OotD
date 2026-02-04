@@ -1,11 +1,6 @@
 ---
 title: Plemię Węgorza
-tags:
-  - faction
-leader: [[Loopywoopy]]
-headquarters: [[Wyspa Indygo]]
 ---
-
 # Plemię Węgorza
 
 ![Loopywoopy](../../../content/assets/sessions/042/042_loopywoopy.jpg)

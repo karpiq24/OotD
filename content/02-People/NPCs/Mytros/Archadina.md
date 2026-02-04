@@ -1,15 +1,6 @@
 ---
 title: Archadina
-tags:
-  - person
-  - npc
-race: Tiefling
-gender: Female
-occupation: Mieszkaniec
-affiliation: [[Gniazdo Zapomnianych]]
-image_prompt: Blue skinned tiefling female, portrait, fantasy art.
 ---
-
 # Archadina
 
 ![Placeholder](../../assets/placeholder.png)

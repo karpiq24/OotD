@@ -1,10 +1,3 @@
----
-tags:
-  - Sesja
-  - Mytros
-  - Igrzyska
----
-
 # Sesja 25 - Inauguracja Wielkich Igrzysk
 
 **Data:** 07.10.2024

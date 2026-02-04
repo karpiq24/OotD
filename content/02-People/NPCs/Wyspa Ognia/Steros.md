@@ -1,15 +1,6 @@
 ---
 title: Steros
-tags:
-  - person
-  - npc
-race: Cyklop (Jancan)
-gender: Mężczyzna
-occupation: Kowal
-affiliation: [[Chodzący w Ogniu]]
-image_prompt:
 ---
-
 # Steros
 
 ![Placeholder](../../../../assets/placeholder.png)

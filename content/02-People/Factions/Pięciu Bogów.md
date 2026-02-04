@@ -1,12 +1,6 @@
 ---
 title: Pięciu Bogów
-tags:
-  - faction
-  - gods
-leader: []
-headquarters: "[[Mytros]]"
 ---
-
 # Pięciu Bogów
 
 ![Pięciu Bogów](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Woodhike
-tags: [location]
-region: Estoria
-type: Enklawa Niziołków
-population: Niziołki, Gnomowie
 ---
-
 # Woodhike
 
 ![Placeholder](../../../assets/placeholder.png)

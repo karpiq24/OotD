@@ -1,11 +1,6 @@
 ---
 title: Port Aella
-tags: [location, port]
-region: Themis
-type: Port
-population:
 ---
-
 # Port Aella
 
 ![Placeholder](../../assets/placeholder.png)

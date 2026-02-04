@@ -1,11 +1,6 @@
 ---
 title: Helios
-tags:
-  - handout
-  - note
-type: Wiersz / Mit
 ---
-
 # Helios
 
 _Wiersz ze zbioru "Kącik Poezji [[Kyrah]]"_

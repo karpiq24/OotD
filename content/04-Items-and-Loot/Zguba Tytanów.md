@@ -1,12 +1,6 @@
 ---
 title: Zguba Tytanów (Titansbane)
-tags: [item, weapon, legendary]
-type: Weapon (Longsword)
-rarity: Legendary
-attunement: true
-value: Unique
 ---
-
 # Zguba Tytanów (Titansbane)
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Thobos
-tags:
-  - person
-  - npc
-race: Niziołek
-gender: Męski
-occupation: Burmistrz [[Woodhike]]
-affiliation: [[Woodhike]]
-image_prompt: A friendly, middle-aged halfling with a warm smile and spectacles, wearing comfortable wool clothes and a small mayor's medallion, standing in a cozy wooden interior with tea service, digital fantasy art style.
 ---
-
 # Thobos
 
 ![Thobos](../../../assets/sessions/006/006_thobos.webp)

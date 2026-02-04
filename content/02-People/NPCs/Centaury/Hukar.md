@@ -1,15 +1,6 @@
 ---
 title: Hukar
-tags:
-  - person
-  - npc
-race: Centaur
-gender: Male
-occupation: Wódz Centaurów
-affiliation: Plemię Centaurów, Sydon (wyznawca)
-image_prompt: male centaur warrior chief, bronze armor, third eye mark of sydon on forehead, spear
 ---
-
 # Hukar
 
 ![Placeholder](../../assets/placeholder.png)

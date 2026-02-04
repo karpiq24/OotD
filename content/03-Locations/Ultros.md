@@ -1,12 +1,6 @@
 ---
 title: Ultros
-tags: [location, vehicle, artifact]
-type: Statek / Artefakt
-rarity: Artefakt
-region: Cała Thylea (Mobilny)
-population: Załoga Widmo
 ---
-
 # Ultros
 
 ![Placeholder](../../assets/placeholder.png)

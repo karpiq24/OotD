@@ -1,10 +1,6 @@
 ---
 title: "Sesja 6: Problemy w Woodhike"
-session_number: 6
-date: 2024-02-21
-tags: [session]
 ---
-
 # Sesja 6: Problemy w Woodhike
 
 **Data:** 21.02.2024

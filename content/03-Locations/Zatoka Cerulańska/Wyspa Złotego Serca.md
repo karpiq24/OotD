@@ -1,11 +1,6 @@
 ---
 title: Wyspa Złotego Serca
-tags: [location, island]
-region: Zatoka Cerulańska
-type: Wyspa
-population:
 ---
-
 # Wyspa Złotego Serca
 
 ![Wyspa Złotego Serca](../../../assets/placeholder.png)

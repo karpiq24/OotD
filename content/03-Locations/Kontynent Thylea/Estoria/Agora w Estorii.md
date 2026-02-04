@@ -1,11 +1,6 @@
 ---
 title: Agora w Estorii
-tags: [location]
-region: Estoria
-type: Rynek
-population:
 ---
-
 # Agora w Estorii
 
 ![Placeholder](../../../assets/placeholder.png)

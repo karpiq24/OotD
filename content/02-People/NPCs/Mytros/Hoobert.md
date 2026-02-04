@@ -1,15 +1,6 @@
 ---
 title: Hoobert
-tags:
-  - npc
-  - familiar
-  - beast
-race: Sowa (Familiar)
-gender: Male
-affiliation: [[Felicjan Janus Twardowski]]
-image_prompt: A mystical owl with intelligent eyes, sitting on a wizard's shoulder, fantasy art style.
 ---
-
 # Hoobert
 
 ![Placeholder](../../assets/placeholder.png)

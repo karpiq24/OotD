@@ -1,16 +1,6 @@
 ---
 title: Charon
-tags:
-  - person
-  - npc
-  - god
-race: Fiend / God
-gender: Male
-occupation: Przewoźnik Dusz
-affiliation: Hades
-image_prompt:
 ---
-
 # Charon
 
 ![Placeholder](../../assets/placeholder.png)

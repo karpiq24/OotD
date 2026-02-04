@@ -1,7 +1,6 @@
 ---
 title: Arezja
 ---
-
 # Arezja
 
 - [[Arezja]]

@@ -1,11 +1,6 @@
 ---
 title: Wyspa Mojr
-tags: [location]
-region: Zatoka Cerulańska
-type: Wyspa
-population: Mojry, Potwory
 ---
-
 # Wyspa Mojr
 
 ![Wyspa Mojr](../../assets/sessions/047/047_island.jpg)

@@ -1,11 +1,6 @@
 ---
 title: Kolos Pythora
-tags: [location]
-region: Kontynent Thylea
-type:
-population:
 ---
-
 # Kolos Pythora
 
 ![Placeholder](../../assets/placeholder.png)

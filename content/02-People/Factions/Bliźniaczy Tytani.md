@@ -1,15 +1,6 @@
 ---
 title: Bliźniaczy Tytani
-tags:
-  - faction
-leader:
-  - "[[Sydon]]"
-  - "[[Lutheria]]"
-headquarters:
-  - "[[Praxys]]"
-  - "[[Hypnos]]"
 ---
-
 # Bliźniaczy Tytani
 
 ![Bliźniaczy Tytani](../../assets/placeholder.png)

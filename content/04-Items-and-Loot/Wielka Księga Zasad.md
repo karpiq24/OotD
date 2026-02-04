@@ -1,13 +1,6 @@
 ---
 title: Wielka Księga Zasad
-tags:
-  - item
-type: Księga
-rarity: Unikat
-attunement:
-value: Bezcenna dla Sfinksów
 ---
-
 # Wielka Księga Zasad
 
 ![Placeholder](../../assets/placeholder.png)

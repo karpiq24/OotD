@@ -1,13 +1,6 @@
 ---
 title: Mistrz Cieni
-tags:
-  - person
-  - npc
-occupation: Wielki Mistrz Cieni, Szpieg
-affiliation: Arezja, Świątynia Cienia
-image_prompt:
 ---
-
 # Mistrz Cieni
 
 ![Mistrz Cieni](../../assets/sessions/063/063_shadow.png)

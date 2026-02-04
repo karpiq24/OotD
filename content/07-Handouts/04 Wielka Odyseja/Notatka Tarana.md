@@ -1,11 +1,6 @@
 ---
 title: Notatka Tarana
-tags:
-  - handout
-  - letter
-type: Notatka
 ---
-
 # Notatka Tarana
 
 _Notatka od Tarana Neurdagona dotycząca zlecenia na bestię._

@@ -1,11 +1,6 @@
 ---
 title: Dzielnica Świątynna
-tags:
-  - location
-  - city-district
-parent: Mytros
 ---
-
 # Dzielnica Świątynna
 
 ![Placeholder](../../assets/placeholder.png)

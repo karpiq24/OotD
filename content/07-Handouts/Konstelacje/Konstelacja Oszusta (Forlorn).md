@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Oszusta (Forlorn)
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Oszusta (Forlorn)
 
 _Mit o konstelacji Oszusta, związany z boginią oszustwa_

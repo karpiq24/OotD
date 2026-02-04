@@ -1,11 +1,6 @@
 ---
 title: Młot Pythora
-tags: [item, weapon, artifact]
-type: Broń (Młot bojowy)
-rarity: Artefakt
-value: Bezccenny
 ---
-
 # Młot Pythora
 
 ![Hammer of Pythor](../../assets/placeholder.png)

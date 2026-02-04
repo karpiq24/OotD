@@ -1,11 +1,6 @@
 ---
 title: Kult Lutherii
-tags:
-  - faction
-leader: [[Trellus]], [[Septia]]
-headquarters: "[[Świątynia Lutherii]] (Mytros), [[Winnice Mytros]]"
 ---
-
 # Kult Lutherii
 
 ![Placeholder](../../assets/placeholder.png)

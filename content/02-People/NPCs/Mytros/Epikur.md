@@ -1,15 +1,6 @@
 ---
 title: Epikur
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Male
-occupation: Filozof
-affiliation: [[Akademia Mytros]]
-image_prompt: Greek philosopher in robes, holding a scroll, fantasy art.
 ---
-
 # Epikur
 
 ![Placeholder](../../assets/placeholder.png)

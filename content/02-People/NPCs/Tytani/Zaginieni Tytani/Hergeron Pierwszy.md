@@ -1,16 +1,6 @@
 ---
 title: Hergeron Pierwszy
-tags:
-  - person
-  - npc
-  - titan
-race: Tytan
-gender: Male
-occupation: Bóg Siły i Waleczności
-affiliation: Tytani
-image_prompt:
 ---
-
 # Hergeron Pierwszy
 
 ![Placeholder](../../assets/placeholder.png)

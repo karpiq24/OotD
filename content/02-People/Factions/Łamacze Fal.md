@@ -1,11 +1,6 @@
 ---
 title: Łamacze Fal
-tags:
-  - faction
-leader: [[Vytha]]
-headquarters: [[Wyspa Ognia]]
 ---
-
 # Łamacze Fal
 
 ![Placeholder](../../../../assets/placeholder.png)

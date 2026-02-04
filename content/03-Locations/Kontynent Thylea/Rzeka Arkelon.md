@@ -1,11 +1,6 @@
 ---
 title: Rzeka Arkelon
-tags: [location]
-region: Heartlands
-type: Rzeka
-population:
 ---
-
 # Rzeka Arkelon
 
 ![Placeholder](../../../assets/placeholder.png)

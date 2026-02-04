@@ -1,7 +1,6 @@
 ---
 title: Index
 ---
-
 # Index
 
 - [[01-Sessions|Sesje]]

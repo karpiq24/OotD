@@ -1,11 +1,6 @@
 ---
 title: List Sydona do Heleki
-tags:
-  - handout
-  - letter
-type: Letter
 ---
-
 # List Sydona do Heleki
 
 _Typ (List/Notatka)_

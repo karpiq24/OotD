@@ -1,11 +1,6 @@
 ---
 title: Wizja z Rogu Balmytrii
-tags:
-  - handout
-  - vision
-type: Wizja
 ---
-
 # Wizja z Rogu Balmytrii
 
 _Krótka, niepokojąca wizja statku z załogą nieumarłych_

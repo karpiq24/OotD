@@ -1,15 +1,6 @@
 ---
 title: Shazum
-tags:
-  - person
-  - npc
-race: Human (?)
-gender: Male
-occupation: Międzywymiarowy Kupiec
-affiliation:
-image_prompt: An eccentric merchant floating in the air, wearing colorful, mismatched robes, surrounded by floating magical items, on the back of a giant turtle, fantasy art style.
 ---
-
 # Shazum
 
 ![Wielki Żółw](../../../assets/sessions/061/061_turtle.png)

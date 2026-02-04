@@ -1,15 +1,6 @@
 ---
 title: Euria
-tags:
-  - person
-  - npc
-race: Nimfa
-gender: Żeńska
-occupation: Jesienny Wiatr
-affiliation: Kyrah (dawniej) / Helios
-image_prompt:
 ---
-
 # Euria
 
 ![Placeholder](../../assets/placeholder.png)

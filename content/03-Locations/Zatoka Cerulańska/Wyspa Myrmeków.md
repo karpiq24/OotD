@@ -1,11 +1,6 @@
 ---
 title: Wyspa Myrmeków
-tags: [location]
-region: Zatoka Cerulańska
-type: Wyspa
-population: ~3000 Myrmeków
 ---
-
 # Wyspa Myrmeków (Titan's Folly / Szaleństwo Tytana)
 
 ![Wyspa Myrmeków](../../assets/sessions/050/050_folly.png)

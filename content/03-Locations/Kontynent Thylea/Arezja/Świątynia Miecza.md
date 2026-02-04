@@ -1,12 +1,6 @@
 ---
 title: Świątynia Miecza
-tags:
-  - location
-region: Arezja
-type: Świątynia
-population:
 ---
-
 # Świątynia Miecza
 
 ![Placeholder](../../assets/placeholder.png)

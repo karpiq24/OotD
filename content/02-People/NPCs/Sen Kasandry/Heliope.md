@@ -1,15 +1,6 @@
 ---
 title: Heliope
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Żeńska
-occupation: Czarodziejka
-affiliation: Załoga 'Snu Kasandry'
-image_prompt:
 ---
-
 # Heliope
 
 ![Placeholder](../../assets/placeholder.png)

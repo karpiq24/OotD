@@ -1,14 +1,6 @@
 ---
 title: Borinn Bystre Oko
-tags:
-  - person
-  - npc
-race: Krasnolud
-gender: Mężczyzna
-occupation: Górnik
-affiliation: "[[Wyspa Indygo]], [[Plemię Wieloryba]]"
 ---
-
 # Borinn Bystre Oko
 
 ![Borinn Bystre Oko](../../../assets/sessions/043/043_borinn.jpg)

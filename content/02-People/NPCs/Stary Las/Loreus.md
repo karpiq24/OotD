@@ -1,15 +1,6 @@
 ---
 title: Loreus
-tags:
-  - person
-  - npc
-race: Satyr
-gender: Męski
-occupation: Bard, Poeta
-affiliation: [[Stary Las]], [[Ultros]]
-image_prompt: A melancholic satyr bard sitting in shadows on a ship deck, playing a pan flute, looking at stars, digital fantasy art style.
 ---
-
 # Loreus
 
 ![Placeholder](../../../../assets/placeholder.png)

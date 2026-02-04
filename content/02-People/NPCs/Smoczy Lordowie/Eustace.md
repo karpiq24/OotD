@@ -1,15 +1,6 @@
 ---
 title: Eustace
-tags:
-  - animal
-  - npc
-race: Pies
-gender: Męski
-occupation: Wierny Towarzysz
-affiliation: Xander Huorath
-image_prompt:
 ---
-
 # Eustace
 
 ![Placeholder](../../assets/placeholder.png)

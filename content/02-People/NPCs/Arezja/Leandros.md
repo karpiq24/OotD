@@ -1,15 +1,6 @@
 ---
 title: Leandros
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Dowódca Gwardii Królewskiej
-affiliation: Arezja, Pałac Królowej
-image_prompt:
 ---
-
 # Leandros
 
 ![Leandros](../../../assets/sessions/062/062_Leandros.png)

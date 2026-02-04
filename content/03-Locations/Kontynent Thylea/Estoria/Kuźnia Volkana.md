@@ -1,11 +1,6 @@
 ---
 title: Kuźnia Volkana
-tags: [location]
-region: Estoria
-type: Kuźnia
-population: Volkan
 ---
-
 # Kuźnia Volkana
 
 ![Placeholder](../../../assets/placeholder.png)

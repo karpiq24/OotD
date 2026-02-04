@@ -1,19 +1,11 @@
 ---
 title: Orestes
-tags:
-  - person
-  - pc
-race: Minotaur
-class: Barbarian
-level: 11
-image_prompt: male  minotaur, muscular build, powerful physique, broad shoulders, brown  fur, bovine head, large dark grey curved horns, piercing glowing blue  eyes, stoic expression, bull snout, stylish thick blonde hair swept  back, well-groomed blonde fur beard, wearing a draped white toga, ornate  red sash with carved patterns, textured grey shoulder strap, fantasy  character, mythological creature, Greco-Roman gladiator aesthetic
 ---
-
 # Orestes
 
 ![Orestes](../../assets/Orestes.png)
 
-_Minotaur Barbarian, [[Epic Paths#The Doomed One (Zgubiony)|The Doomed One]]_
+_Minotaur Barbarian, [[Epickie Ścieżki#The Doomed One (Zgubiony)|The Doomed One]]_
 _**Zgubiony**, który trzykrotnie przeciwstawił się śmierci i stawił jej czoła jak równy z równym._
 
 

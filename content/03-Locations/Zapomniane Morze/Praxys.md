@@ -1,11 +1,6 @@
 ---
 title: Praxys, Wieża Sydona
-tags: [location]
-region: Zapomniane Morze
-type:
-population:
 ---
-
 # Praxys, Wieża Sydona
 
 ![Placeholder](../../assets/placeholder.png)

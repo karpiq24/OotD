@@ -1,12 +1,6 @@
 ---
 title: Syrenie Gniazdo
-tags:
-  - location
-  - tavern
-  - brothel
-parent: Stygian Row
 ---
-
 # Syrenie Gniazdo (The Siren's Roost)
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Braz
-tags:
-  - person
-  - npc
-race: Minotaur
-gender: męska
-occupation: Niewolnik
-affiliation: 
-image_prompt:
 ---
-
 # Braz
 
 ![Placeholder](../../../assets/placeholder.png)

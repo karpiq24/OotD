@@ -1,15 +1,6 @@
 ---
 title: Hiero
-tags:
-  - person
-  - npc
-race: Pół-elf
-gender: Mężczyzna
-occupation: Mistrz Miecza
-affiliation: Arezja, Świątynia Miecza
-image_prompt:
 ---
-
 # Hiero
 
 ![Hiero](../../../assets/sessions/062/062_Hiero.png)

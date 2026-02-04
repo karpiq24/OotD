@@ -1,15 +1,6 @@
 ---
 title: Septia
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Mag, Kapłanka Lutherii
-affiliation: [[Kult Lutherii]], [[Lutheria]], [[Trellus]]
-image_prompt: A beautiful but cruel sorceress in dark robes, holding a glass of wine, calculating expression, fantasy art style.
 ---
-
 # Septia
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,12 +1,6 @@
 ---
 title: Upadek Estora
-tags:
-  - handout
-  - play
-  - tragedy
-type: Sztuka Teatralna
 ---
-
 # Upadek Estora
 
 _Streszczenie tragicznej sztuki teatralnej przedstawiającej wyidealizowany i zniekształcony obraz Estora Arkelandera_

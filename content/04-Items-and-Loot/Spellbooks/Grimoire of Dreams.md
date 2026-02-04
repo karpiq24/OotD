@@ -1,12 +1,6 @@
 ---
 title: Grimoire of Dreams
-tags: [item, spellbook]
-type: Księga Zaklęć
-rarity: Rzadki
-attunement: Nie
-value: Wysoka
 ---
-
 # Grimoire of Dreams
 
 ![Placeholder](../../../assets/placeholder.png)

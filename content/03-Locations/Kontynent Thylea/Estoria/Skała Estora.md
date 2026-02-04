@@ -1,11 +1,6 @@
 ---
 title: Skała Estora
-tags: [location]
-region: Estoria
-type: Formacja skalna
-population:
 ---
-
 # Skała Estora
 
 ![Placeholder](../../../assets/placeholder.png)

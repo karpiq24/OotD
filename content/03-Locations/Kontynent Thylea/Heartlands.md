@@ -1,11 +1,6 @@
 ---
 title: Heartlands
-tags: [location]
-region: Thylea
-type: Region
-population:
 ---
-
 # Heartlands
 
 ![Placeholder](../../assets/placeholder.png)

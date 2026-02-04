@@ -1,15 +1,6 @@
 ---
 title: Estor Arkelander
-tags:
-  - person
-  - npc
-race: Undead (formerly Human)
-gender: Male
-occupation: Kapitan [[Ultros]]
-affiliation: "[[Smoczy Lordowie]]"
-image_prompt:
 ---
-
 # Estor Arkelander
 
 ![Placeholder](../../assets/placeholder.png)

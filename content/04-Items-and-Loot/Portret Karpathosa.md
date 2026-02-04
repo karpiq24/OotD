@@ -1,13 +1,6 @@
 ---
 title: Portret Karpathosa Wilczego Lorda
-tags:
-  - item
-type: Obraz / Magiczny przedmiot
-rarity: Unikatowy
-attunement:
-value: 20 000+ gp
 ---
-
 # Portret Karpathosa Wilczego Lorda
 
 ![Portret Karpathosa](../../assets/sessions/062/062_painting.png)

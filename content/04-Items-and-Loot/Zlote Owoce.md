@@ -1,12 +1,6 @@
 ---
 title: Złote Owoce
-tags: [item]
-type: Jedzenie
-rarity: Unikalny
-attunement:
-value: Bezcenny
 ---
-
 # Złote Owoce
 
 ![Owoce Drzewa Serca](../assets/sessions/039/039_fruits.jpg)

@@ -1,12 +1,6 @@
 ---
 title: Ikar V2
-tags: [item]
-type: Pojazd (Maszyna latająca)
-rarity: Unikatowy
-attunement:
-value: Bezcenny
 ---
-
 # Ikar V2
 
 ![Placeholder](../../assets/placeholder.png)

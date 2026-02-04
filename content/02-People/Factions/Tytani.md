@@ -1,11 +1,6 @@
 ---
 title: Tytani (Pierwsi Tytani)
-tags:
-  - faction
-leader: [[Thylea]], [[Kentimane]]
-headquarters: [Kontynent Thylea]
 ---
-
 # Tytani
 
 ![Konstelacja Centaura](../../assets/placeholder.png)

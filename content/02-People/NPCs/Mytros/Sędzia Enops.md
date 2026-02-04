@@ -1,15 +1,6 @@
 ---
 title: Sędzia Enops
-tags:
-  - person
-  - npc
-race: Human
-gender: Male
-occupation: Sędzia
-affiliation: [[Mytros]]
-image_prompt: A judge in robes, looking stern, fantasy art style.
 ---
-
 # Sędzia Enops
 
 ![Placeholder](../../assets/placeholder.png)

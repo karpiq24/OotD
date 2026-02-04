@@ -1,15 +1,6 @@
 ---
 title: Pholon
-tags:
-  - person
-  - npc
-race: Centaur
-gender: Męski
-occupation: Wojownik
-affiliation: [[Centaury]]
-image_prompt: A majestic centaur with a powerful equine body and a muscular human upper half, carrying a bow and wearing leather armor, standing on the edge of an ancient forest.
 ---
-
 # Pholon
 
 ![Placeholder](../../assets/placeholder.png)

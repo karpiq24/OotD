@@ -1,13 +1,6 @@
 ---
 title: Gwiezdny Metal
-tags: [item, material]
-type: Materiał
-rarity: Rzadki
-attunement:
-value: Bardzo wysoka
-aliases: [Star Metal]
 ---
-
 # Gwiezdny Metal
 
 ![Placeholder](../assets/placeholder.png)

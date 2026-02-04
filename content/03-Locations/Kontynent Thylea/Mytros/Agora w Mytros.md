@@ -1,11 +1,6 @@
 ---
 title: Agora w Mytros
-tags:
-  - location
-  - market
-parent: Dzielnica Szlachecka
 ---
-
 # Agora w Mytros
 
 ![Placeholder](../../assets/placeholder.png)

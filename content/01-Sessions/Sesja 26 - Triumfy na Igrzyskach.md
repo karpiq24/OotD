@@ -1,9 +1,3 @@
----
-tags:
-  - Sesja
-  - Igrzyska
----
-
 # Sesja 26 - Triumfy na Igrzyskach
 
 **Data:** 14.10.2024

@@ -1,15 +1,6 @@
 ---
 title: Tolyphemus
-tags:
-  - person
-  - npc
-race: Cyklop
-gender: Male
-occupation: Szef Kuchni / Zarządca
-affiliation: Helios
-image_prompt:
 ---
-
 # Tolyphemus
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,16 +1,6 @@
 ---
 title: Chalcia Pierwsza
-tags:
-  - person
-  - npc
-  - titan
-race: Tytan
-gender: Female
-occupation: Bogini Szybkości
-affiliation: Tytani
-image_prompt:
 ---
-
 # Chalcia Pierwsza
 
 ![Placeholder](../../assets/placeholder.png)

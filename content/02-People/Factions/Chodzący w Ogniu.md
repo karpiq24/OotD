@@ -1,11 +1,6 @@
 ---
 title: Chodzący w Ogniu
-tags:
-  - faction
-leader: [[Jankor]]
-headquarters: [[Wyspa Ognia]]
 ---
-
 # Chodzący w Ogniu
 
 ![Placeholder](../../../../assets/placeholder.png)

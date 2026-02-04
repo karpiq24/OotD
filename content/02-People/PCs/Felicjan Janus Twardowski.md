@@ -1,19 +1,11 @@
 ---
 title: Felicjan Janus Twardowski
-tags:
-  - person
-  - pc
-race: Human
-class: Wizard
-level: 11
-image_prompt: young  adult male human wizard, lean build, rugged fantasy adventurer, intense blue-grey eyes,  strong jawline, weathered complexion, a prominent scar across the right  cheek, short messy dark brown hair, a full dark brown beard, layered medieval clothing, rust-brown  hooded tunic, a coarse off-white linen shirt, a thick brown leather  shoulder strap with a buckle, bronze circular geometric star emblems on the chest.
 ---
-
 # Felicjan Janus Twardowski
 
 ![Felicjan](../../assets/Felicjan.png)
 
-_Human Wizard, [[Epic Paths#The Gifted One (Utalentowany)|The Gifted One]]_
+_Human Wizard, [[Epickie Ścieżki#The Gifted One (Utalentowany)|The Gifted One]]_
 _**Utalentowany**, który odkrył źródło swoich zdolności i doprowadził do odrodzenia Zakonu._
 
 

@@ -1,12 +1,6 @@
 ---
 title: Amazonki
-tags:
-  - faction
-leader: []
-headquarters:
-  - "[[Themis]]"
 ---
-
 # Amazonki
 
 ![Placeholder](../../assets/placeholder.png)

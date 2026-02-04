@@ -1,15 +1,6 @@
 ---
 title: Idylla
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Kobieta
-occupation: Wygnana arystokratka
-affiliation: "[[Wyspa Wygnańców]]"
-image_prompt: Idylla
 ---
-
 # Idylla
 
 ![Idylla](../../../assets/sessions/045/045_idylla.webp)

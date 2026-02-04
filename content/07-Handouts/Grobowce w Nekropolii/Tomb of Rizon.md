@@ -1,11 +1,6 @@
 ---
 title: Tomb of Rizon
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Rizon
 > **[[Rizon Phobas|RIZON PHOBAS]]**
 > 

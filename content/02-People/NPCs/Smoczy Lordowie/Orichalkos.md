@@ -1,15 +1,6 @@
 ---
 title: Orichalkos
-tags:
-  - person
-  - npc
-race: Smok (Mosiężny)
-gender: Żeński
-occupation: Smoczy wierzchowiec
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Orichalkos
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Podkowy Prędkości
-tags:
-  - item
-  - magic
-  - wondrous
 ---
-
 # Podkowy Prędkości (Horseshoes of Speed)
 
 ![Placeholder](../../assets/placeholder.png)

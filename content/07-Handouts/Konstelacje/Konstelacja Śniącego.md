@@ -1,11 +1,6 @@
 ---
 title: Konstelacja Śniącego
-tags:
-  - handout
-  - note
-type: Mit / Legenda
 ---
-
 # Konstelacja Śniącego
 
 _Mit o konstelacji Śniącego, mrocznej plamie na niebie_

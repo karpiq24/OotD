@@ -1,15 +1,6 @@
 ---
 title: Baltia
-tags:
-  - person
-  - npc
-race: Human
-gender: Female
-occupation: Awanturnik
-affiliation: Załoga Arevona (Dawna)
-image_prompt:
 ---
-
 # Baltia
 
 ![Placeholder](../../assets/placeholder.png)

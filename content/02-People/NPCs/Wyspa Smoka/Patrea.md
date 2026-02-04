@@ -1,16 +1,6 @@
 ---
 title: Patrea
-tags:
-  - person
-  - npc
-  - elf
-race: Elf
-gender: Female
-occupation: Przywódczyni Ruchu Oporu
-affiliation: Elficki Ruch Oporu
-image_prompt: Amazon warrior elf, jungle camouflage, fierce
 ---
-
 # Patrea
 
 ![Placeholder](../../assets/placeholder.png)

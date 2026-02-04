@@ -1,15 +1,6 @@
 ---
 title: Hywin
-tags:
-  - person
-  - npc
-race: Merfolk
-gender: Male
-occupation: Przywódca
-affiliation: Merfolki
-image_prompt:
 ---
-
 # Hywin
 
 ![Placeholder](../../assets/placeholder.png)

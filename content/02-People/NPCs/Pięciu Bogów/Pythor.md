@@ -1,16 +1,6 @@
 ---
 title: Pythor
-tags:
-  - person
-  - npc
-  - god
-race: Bóg
-gender: Męski
-occupation: Król Estorii, Bóg Bitwy
-affiliation: "[[Estoria]], [[Pięciu Bogów]]"
-image_prompt: A once-mighty god-king with a wild red beard and sorrowful eyes, wearing tattered regal robes and holding a jug of wine, standing in a dimly lit throne hall, digital fantasy art style.
 ---
-
 # Pythor
 
 ![Placeholder](../../assets/placeholder.png)

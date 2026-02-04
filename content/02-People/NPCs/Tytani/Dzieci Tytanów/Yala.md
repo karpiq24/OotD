@@ -1,15 +1,6 @@
 ---
 title: Yala
-tags:
-  - person
-  - npc
-race: Tytan (Empyrean)
-gender: Female
-occupation:
-affiliation: Sydon, Lutheria, Dzieci Tytanów
-image_prompt: A noble Titan woman looking with respect and dignity, fantasy art style.
 ---
-
 # Yala
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,15 +1,6 @@
 ---
 title: Acastus
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Król Mytros, Smoczy Lord
-affiliation: [[Mytros]], [[Vallus]], [[Zakon Sydona]]
-image_prompt: A middle-aged king with a powerful build, wearing dragon-themed armor, sitting on a throne, arrogant expression, fantasy art style.
 ---
-
 # Acastus
 
 ![Placeholder](../../assets/placeholder.png)

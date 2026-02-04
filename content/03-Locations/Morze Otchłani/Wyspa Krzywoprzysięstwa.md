@@ -1,11 +1,6 @@
 ---
 title: Wyspa Krzywoprzysięstwa (Oathbreakers)
-tags: [location]
-region: Morze Otchłani
-type: Wyspa
-population:
 ---
-
 # Wyspa Krzywoprzysięstwa (Oathbreakers)
 
 ![Placeholder](../../assets/placeholder.png)

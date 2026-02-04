@@ -1,10 +1,7 @@
 ---
-title: Thylean Minotaur
-tags: [race, people, minotaur, cursed]
+title: Minotaur z Thylei
 ---
-
-# Thylean Minotaur (Minotaur z Thylei)
-
+# Minotaur z Thylei
 Minotaury to potomkowie starożytnego plemienia ludzi, którzy zostali przeklęci przez bogów (Sydona) i przemienieni w pół-ludzi, pół-byki.
 
 ## Legend of the Minotaurs (Legenda Minotaurów)

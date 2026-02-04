@@ -1,15 +1,6 @@
 ---
 title: Xander Huorath
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Pierwszy Smoczy Lord
-affiliation: "[[Smoczy Lordowie]]"
-image_prompt:
 ---
-
 # Xander Huorath
 
 ![Placeholder](../../assets/placeholder.png)

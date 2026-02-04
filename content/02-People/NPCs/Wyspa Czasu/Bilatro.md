@@ -1,15 +1,6 @@
 ---
 title: Bilatro
-tags:
-  - person
-  - npc
-race: Sfinks
-gender: Female
-occupation: Starsza
-affiliation: Wyspa Czasu
-image_prompt:
 ---
-
 # Bilatro
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,9 +1,7 @@
 ---
-title: Thylean Magic
-tags: [lore, magic, spells]
+title: Magia Thylei
 ---
-
-# Thylean Magic (Magia Thylei)
+# Magia Thylei
 
 W Thylei magia często wiąże się z ofiarami, przysięgami i boską ingerencją. Oto kilka unikalnych form magii znanych w tej krainie:
 

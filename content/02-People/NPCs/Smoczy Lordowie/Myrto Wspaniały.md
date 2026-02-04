@@ -1,15 +1,6 @@
 ---
 title: Myrto Wspaniały
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Myrto Wspaniały
 
 ![Placeholder](../../assets/placeholder.png)

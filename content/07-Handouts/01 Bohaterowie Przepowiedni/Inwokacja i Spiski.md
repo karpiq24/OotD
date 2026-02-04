@@ -1,11 +1,6 @@
 ---
 title: Inwokacja i Spiski
-tags:
-  - handout
-  - intro
-type: Prologue
 ---
-
 # Inwokacja i Spiski
 
 ## Inwokacja do Muzy

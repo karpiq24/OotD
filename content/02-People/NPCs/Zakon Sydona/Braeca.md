@@ -1,15 +1,6 @@
 ---
 title: Braeca
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Mężczyzna
-occupation: Kapłan Zakonu Sydona
-affiliation: "[[Zakon Sydona]]"
-image_prompt: A stern priest of Sydon wearing heavy bronze armor and a ceremonial robe. He carries a bronze holy symbol of Sydon (a wrathful face).
 ---
-
 # Braeca
 
 ![Placeholder](../../../assets/placeholder.png)

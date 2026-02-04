@@ -1,15 +1,6 @@
 ---
 title: Nicholas Phobas
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Smoczy Lord / Król / Żeglarz
-affiliation: Smoczy Lordowie / Sydon
-image_prompt:
 ---
-
 # Nicholas Phobas
 
 ![Placeholder](../../assets/placeholder.png)

@@ -1,11 +1,6 @@
 ---
 title: Tomb of Gregor
-tags:
-  - handout
-  - note
-type: Inskrypcja / Opis Grobowca
 ---
-
 # Tomb of Gregor
 > **[[Gregor Huorath|GREGOR HUORATH]]**  
 > **ZAPRZYSIĘŻONY [[Hezzebal|HEZZEBALA]]**

@@ -1,11 +1,6 @@
 ---
 title: Mytros
-tags:
-  - location
-  - city
-parent: Kontynent Thylea
 ---
-
 # Mytros
 
 ![Mytros](../../assets/placeholder.png)

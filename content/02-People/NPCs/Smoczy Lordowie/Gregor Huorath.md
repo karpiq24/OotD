@@ -1,15 +1,6 @@
 ---
 title: Gregor Huorath
-tags:
-  - person
-  - npc
-race: Człowiek
-gender: Męski
-occupation: Smoczy Lord
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Gregor Huorath
 
 ![Placeholder](../../assets/placeholder.png)

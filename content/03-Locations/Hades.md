@@ -1,11 +1,6 @@
 ---
 title: Hades
-tags: [location, lore]
-region: Underworld
-type: Zaświaty
-population: Zmarli
 ---
-
 # Hades
 
 ![Placeholder](../../assets/placeholder.png)

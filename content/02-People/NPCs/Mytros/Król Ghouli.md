@@ -1,16 +1,6 @@
 ---
 title: Król Ghouli
-tags:
-  - person
-  - npc
-  - monster
-race: Ghast
-gender: Male
-occupation: Przywódca Ghuli
-affiliation: Kanały Mytros
-image_prompt: Ghast wearing a crown of spikes, surrounded by bones, horror fantasy art.
 ---
-
 # Król Ghouli (The Ghoul King)
 
 ![Placeholder](../../assets/placeholder.png)

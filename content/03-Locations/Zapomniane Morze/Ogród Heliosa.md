@@ -1,11 +1,6 @@
 ---
 title: Ogród Heliosa
-tags: [location]
-region: Zapomniane Morze
-type:
-population:
 ---
-
 # Ogród Heliosa
 
 ![Placeholder](../../assets/placeholder.png)

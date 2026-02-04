@@ -1,15 +1,6 @@
 ---
 title: Bront
-tags:
-  - person
-  - npc
-race: Cyclops
-gender: Male
-occupation: Więzień
-affiliation: Sydon
-image_prompt:
 ---
-
 # Bront
 
 ![Placeholder](../../assets/placeholder.png)

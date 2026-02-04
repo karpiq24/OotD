@@ -1,11 +1,6 @@
 ---
 title: Most Harfy
-tags:
-  - location
-  - mytros
-image_prompt: A beautiful bridge decorated with bronze harps, spanning a river in a Greek fantasy city.
 ---
-
 # Most Harfy
 
 ![Placeholder](../../../../assets/placeholder.png)

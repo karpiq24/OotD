@@ -1,16 +1,6 @@
 ---
 title: Megara
-tags:
-  - person
-  - npc
-  - god
-race: Erynia
-gender: Kobieta
-occupation: Królowa Furii
-affiliation: Furie
-image_prompt: A terrifying winged woman in obsidian armor, radiating divine judgment, commanding two other Erinyes.
 ---
-
 # Megara
 
 ![Placeholder](../../assets/placeholder.png)

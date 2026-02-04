@@ -1,12 +1,6 @@
 ---
 title: Zakon Sydona
-tags:
-  - faction
-  - organization
-leader: [[Gaius|Komandor Gaius]]
-headquarters: [[Świątynia Sydona]]
 ---
-
 # Zakon Sydona (The Order of Sydon)
 
 ![Placeholder](../../assets/placeholder.png)

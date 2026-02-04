@@ -1,15 +1,6 @@
 ---
 title: Hezzebal
-tags:
-  - person
-  - npc
-race: Smok (Mosiężny)
-gender: Męski
-occupation: Smoczy wierzchowiec
-affiliation: Smoczy Lordowie
-image_prompt:
 ---
-
 # Hezzebal
 
 ![Placeholder](../../assets/placeholder.png)

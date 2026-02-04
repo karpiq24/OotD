@@ -1,15 +1,6 @@
 ---
 title: Volkan
-tags:
-  - person
-  - npc
-race: Bóg
-gender: Męski
-occupation: Jeden z Pięciu Bogów
-affiliation: Pięciu Bogów
-image_prompt:
 ---
-
 # Volkan
 
 ![Placeholder](../../assets/placeholder.png)

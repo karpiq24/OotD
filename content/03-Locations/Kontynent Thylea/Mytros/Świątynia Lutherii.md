@@ -1,12 +1,6 @@
 ---
 title: Świątynia Lutherii
-tags:
-  - location
-  - temple
-  - mytros
-image_prompt: A small but wealthy temple interior dominated by statues of a grinning woman with a scythe, filled with wine casks and sweet fragrance, fantasy art style.
 ---
-
 # Świątynia Lutherii (M20)
 
 ![Placeholder](../../../../assets/placeholder.png)

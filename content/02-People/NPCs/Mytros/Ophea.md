@@ -1,15 +1,6 @@
 ---
 title: Ophea
-tags:
-  - person
-  - npc
-race: half-elf
-gender: Female
-occupation: Matka Oriona
-affiliation: Mytros
-image_prompt: Older woman, noble features, weary but dignified
 ---
-
 # Ophea
 
 ![Placeholder](../../assets/placeholder.png)

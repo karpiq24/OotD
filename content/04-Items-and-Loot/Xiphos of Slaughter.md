@@ -1,12 +1,6 @@
 ---
 title: Xiphos of Slaughter
-tags: [item]
-type: Broń (krótki miecz)
-rarity: Bardzo rzadki
-attunement: Tak
-value: Bezcenne (przeklęty artefakt)
 ---
-
 # Xiphos of Slaughter
 
 ![Xiphos of Slaughter](../../assets/placeholder.png)

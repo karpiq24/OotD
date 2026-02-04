@@ -1,10 +1,6 @@
 ---
 title: Wyspa Indygo
-tags: [location]
-region: Zatoka Cerulańska
-type: Wyspa
 ---
-
 # Wyspa Indygo
 
 ![Placeholder](../../assets/placeholder.png)

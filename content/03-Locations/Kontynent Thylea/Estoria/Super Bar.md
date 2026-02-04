@@ -1,11 +1,6 @@
 ---
 title: Super Bar
-tags: [location]
-region: Estoria
-type: Bar
-population:
 ---
-
 # Super Bar
 
 ![Placeholder](../../../assets/placeholder.png)

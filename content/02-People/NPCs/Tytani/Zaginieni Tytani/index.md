@@ -1,7 +1,6 @@
 ---
 title: Zaginieni Tytani
 ---
-
 # Zaginieni Tytani
 
 - [[Chalcia Pierwsza]]

@@ -1,12 +1,6 @@
 ---
 title: Korona Smoczych Lordów
-tags: [item]
-type: Biżuteria
-rarity: Unikatowy
-attunement:
-value:
 ---
-
 # Korona Smoczych Lordów
 
 ![Placeholder](../../assets/placeholder.png)

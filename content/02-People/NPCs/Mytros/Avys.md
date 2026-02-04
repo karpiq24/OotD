@@ -1,16 +1,6 @@
 ---
 title: Avys
-tags:
-  - person
-  - npc
-  - mage
-race: Człowiek
-gender: Kobieta
-occupation: Nauczycielka Nekromancji
-affiliation: Akademia Mytros
-image_prompt:
 ---
-
 # Avys
 
 ![Placeholder](../../assets/placeholder.png)

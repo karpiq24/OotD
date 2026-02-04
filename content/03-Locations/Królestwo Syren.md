@@ -1,11 +1,6 @@
 ---
 title: Królestwo Syren
-tags: [location]
-region: Zatoka Cerulańska
-type: Królestwo
-population: Syreny
 ---
-
 # Królestwo Syren
 
 ![Placeholder](../../assets/placeholder.png)

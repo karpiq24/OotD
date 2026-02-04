@@ -1,12 +1,6 @@
 ---
 title: Koszmar 2
-tags:
-  - handout
-  - vision
-  - nightmare
-type: Koszmar
 ---
-
 # Koszmar 2
 
 _Mroczna i niepokojąca wizja, prawdopodobnie zesłana przez Lutherię, dotycząca ciężaru wiedzy_
