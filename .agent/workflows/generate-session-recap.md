@@ -21,10 +21,11 @@ This workflow processes a raw transcript into a fully formatted, illustrated mar
     *   If present, move `input/transcript.json` -> `content/assets/sessions/{000}/transcript.json`
 
 ## Step 3: Context Loading & Analysis
-1.  **Scan** the transcript for proper names.
-2.  **Search** `content/02-People` and `content/03-Locations` for matching files.
-3.  **Read** matched files to build a "Context Buffer".
-4.  **Read** the last 3 session files in `content/01-Sessions/` to understand the current narrative arc.
+1.  **Read Transcript**: Read the *entire* content of the moved transcript file (`content/assets/sessions/{000}/transcript.txt`). Do not skip any portions; ensure the full text is loaded into context.
+2.  **Scan** the transcript for proper names.
+3.  **Search** `content/02-People` and `content/03-Locations` for matching files.
+4.  **Read** matched files to build a "Context Buffer".
+5.  **Read** the last 3 session files in `content/01-Sessions/` to understand the current narrative arc.
 
 ## Step 4: Draft Generation (Text Only)
 1.  **Activate** skill `rpg-summarizer`.
