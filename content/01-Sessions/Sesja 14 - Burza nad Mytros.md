@@ -1,10 +1,7 @@
 ---
 title: "Sesja 14: Burza nad Mytros"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/014/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/014/chat_log.json)"
 ---
-
 **Data:** 20.05.2024
 
 ![Kyrah przeciwko burzy](../assets/sessions/014/014_kyrah.png)

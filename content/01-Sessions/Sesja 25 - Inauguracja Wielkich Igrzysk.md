@@ -1,10 +1,7 @@
 ---
-title: "Sesja 25 - Inauguracja Wielkich Igrzysk"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/025/chat_log.json"
+title: Sesja 25 - Inauguracja Wielkich Igrzysk
+chat_log: "[Chat log](../assets/sessions/025/chat_log.json)"
 ---
-
 **Data:** 07.10.2024
 
 ![Wielkie Igrzyska](../assets/sessions/025/025_great_games.webp)

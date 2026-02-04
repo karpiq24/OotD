@@ -1,10 +1,9 @@
 ---
 title: "Sesja 59: Koniec Imprezy"
-transcript: "../assets/sessions/059/transcript.txt"
-transcript_json: "../assets/sessions/059/transcript.json"
-chat_log: "../assets/sessions/059/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/059/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/059/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/059/chat_log.json)"
 ---
-
 **Data:** 15.09.2025
 
 ![Śmierć Talieusa](../assets/sessions/059/059_death.png)

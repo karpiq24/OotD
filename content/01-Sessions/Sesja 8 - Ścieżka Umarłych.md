@@ -1,10 +1,7 @@
 ---
 title: "Sesja 8: Ścieżka Umarłych"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/008/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/008/chat_log.json)"
 ---
-
 **Data:** 11.03.2024
 
 ![Nekropolia](../assets/sessions/008/008_telamok.webp)

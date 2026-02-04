@@ -1,10 +1,7 @@
 ---
-title: "Sesja 30 - Zakończenie Igrzysk"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/030/chat_log.json"
+title: Sesja 30 - Zakończenie Igrzysk
+chat_log: "[Chat log](../assets/sessions/030/chat_log.json)"
 ---
-
 **Data:** 12.11.2024
 
 ![Lutheria](../assets/sessions/030/030_lutheria.png)

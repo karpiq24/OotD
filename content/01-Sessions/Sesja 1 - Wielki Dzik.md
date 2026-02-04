@@ -1,10 +1,7 @@
 ---
 title: "Sesja 1: Wielki Dzik"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/001/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/001/chat_log.json)"
 ---
-
 **Data:** 15.01.2024
 
 ![Wielki Dzik](../assets/sessions/001/001_great_boar.png)

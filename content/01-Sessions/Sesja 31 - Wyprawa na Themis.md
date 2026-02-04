@@ -1,10 +1,7 @@
 ---
 title: "Sesja 31: Wyprawa na Themis"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/031/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/031/chat_log.json)"
 ---
-
 **Data:** 18.11.2024
 
 ![Port Aella](../assets/sessions/031/aella.png)

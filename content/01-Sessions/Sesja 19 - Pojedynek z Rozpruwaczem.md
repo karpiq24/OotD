@@ -1,10 +1,6 @@
 ---
 title: "Sesja 19: Pojedynek z Rozpruwaczem"
-transcript: ""
-transcript_json: ""
-chat_log: ""
 ---
-
 **Data:** 05.08.2024
 
 ![Rakas Rozpruwacz](../assets/sessions/019/019_rakas.png)

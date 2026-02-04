@@ -1,10 +1,7 @@
 ---
 title: "Sesja 23: Nowe Przymierze"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/023/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/023/chat_log.json)"
 ---
-
 **Data:** 16.09.2024
 
 ![Kolos Pythora](../assets/sessions/023/023_colossus.webp)

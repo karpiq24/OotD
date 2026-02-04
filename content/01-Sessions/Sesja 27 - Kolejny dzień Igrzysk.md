@@ -1,10 +1,7 @@
 ---
-title: "Sesja 27 - Kolejny dzień Igrzysk"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/027/chat_log.json"
+title: Sesja 27 - Kolejny dzień Igrzysk
+chat_log: "[Chat log](../assets/sessions/027/chat_log.json)"
 ---
-
 **Data:** 21.10.2024
 
 ![Kyrah](../assets/sessions/027/027_kyrah.webp)

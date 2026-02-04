@@ -1,10 +1,7 @@
 ---
 title: "Sesja 17: Targ Minotaurów"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/017/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/017/chat_log.json)"
 ---
-
 **Data:** 08.07.2024
 
 ![Zakuty minotaur](../assets/sessions/017/017_minotaur.webp)

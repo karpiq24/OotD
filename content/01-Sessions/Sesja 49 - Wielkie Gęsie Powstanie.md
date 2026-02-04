@@ -1,10 +1,9 @@
 ---
 title: "Sesja 49: Wielkie Gęsie Powstanie"
-transcript: "../assets/sessions/049/transcript.txt"
-transcript_json: "../assets/sessions/049/transcript.json"
-chat_log: "../assets/sessions/049/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/049/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/049/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/049/chat_log.json)"
 ---
-
 **Data:** 26.05.2025
 
 ![Wielkie Gęsie Powstanie](../assets/sessions/049/049_uprising.jpg)

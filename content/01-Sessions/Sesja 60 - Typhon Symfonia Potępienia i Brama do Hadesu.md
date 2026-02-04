@@ -1,10 +1,9 @@
 ---
 title: "Sesja 60: Typhon: Symfonia Potępienia i Brama do Hadesu"
-transcript: "../assets/sessions/060/transcript.txt"
-transcript_json: "../assets/sessions/060/transcript.json"
-chat_log: "../assets/sessions/060/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/060/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/060/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/060/chat_log.json)"
 ---
-
 **Data:** 27.10.2025
 
 ![Drużyna Przepowiedni](../assets/sessions/060/060_party.png)

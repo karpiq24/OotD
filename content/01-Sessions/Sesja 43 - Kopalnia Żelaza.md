@@ -1,10 +1,9 @@
 ---
 title: "Sesja 43: Kopalnia Żelaza"
-transcript: "../assets/sessions/043/transcript.txt"
-transcript_json: "../assets/sessions/043/transcript.json"
-chat_log: "../assets/sessions/043/chat_log.json"
+transcript_txt: "[Transkrypt (txt)](../assets/sessions/043/transcript.txt)"
+transcript_json: "[Transkrypt (json)](../assets/sessions/043/transcript.json)"
+chat_log: "[Chat log](../assets/sessions/043/chat_log.json)"
 ---
-
 **Data:** 03.03.2025
 
 ![Stabo Crabo](../assets/sessions/043/043_crab.jpg)

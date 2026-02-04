@@ -1,10 +1,7 @@
 ---
 title: "Sesja 6: Problemy w Woodhike"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/006/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/006/chat_log.json)"
 ---
-
 **Data:** 21.02.2024
 
 ![Thobos, burmistrz Woodhike](../assets/sessions/006/006_thobos.webp)

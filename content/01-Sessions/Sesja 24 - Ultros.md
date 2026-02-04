@@ -1,10 +1,7 @@
 ---
 title: "Sesja 24: Ultros"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/024/chat_log.json"
+chat_log: "[Chat log](../assets/sessions/024/chat_log.json)"
 ---
-
 **Data:** 29.09.2024
 
 ![Estor Arkelander](../assets/sessions/024/024_estor.webp)

@@ -1,10 +1,7 @@
 ---
-title: "Sesja 28 - Igrzysk ciąg dalszy"
-transcript: ""
-transcript_json: ""
-chat_log: "../assets/sessions/028/chat_log.json"
+title: Sesja 28 - Igrzysk ciąg dalszy
+chat_log: "[Chat log](../assets/sessions/028/chat_log.json)"
 ---
-
 **Data:** 28.10.2024
 
 ![Bitwa Bestii](../assets/sessions/028/028_battleofbeasts.png)
