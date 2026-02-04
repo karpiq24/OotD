@@ -79,3 +79,8 @@ W końcu, po długim i wyczerpującym dniu, bohaterowie powrócili na statek, gd
 * [[Mosiężna Misa|Mosiężna misa do komunikacji międzyplanarnej]]
 * [[Plany Naprawy Magicznego Kompasu]]
 * Smocze składniki (krew, róg, woreczek oddechowy)
+
+## Filmy
+![Chromatic Bolt](../assets/sessions/053/053_bolt.mp4)
+![Orestes](../assets/sessions/053/053_orestes.mp4)
+![Orion](../assets/sessions/053/053_orion.mp4)

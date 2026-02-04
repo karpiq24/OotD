@@ -78,3 +78,8 @@ Po jego zniknięciu zapadła cisza, ciężka i nienaturalna, przerywana jedynie 
 
 * [[Gwiezdny Metal|Ruda Gwiezdnego Metalu]] (wchłonięta przez [[Versir|Versira]])
 * Złota statuetka [[Pożeracz Nadziei|Pożeracza Nadziei]] (przeklęta, wrzucona do morza)
+
+## Filmy
+![Furies](../assets/sessions/057/057_furies.mp4)
+![Restrained](../assets/sessions/057/057_restrained.mp4)
+![Transform](../assets/sessions/057/057_transform.mp4)

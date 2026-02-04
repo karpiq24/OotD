@@ -25,7 +25,9 @@ For each target file in `input/`:
 -   **Session Recaps** (e.g., "Sesja 64..."):
     -   **Destination**: `content/01-Sessions/`
     -   **Filename Format**: `Sesja X - Title.md` (e.g. `Sesja 3 - Skradziony Róg.md`).
-    -   **Assets**: Create a subdirectory `content/assets/sessions/<000>/` (3-digit session number). Move all images/videos used in the recap there.
+    -   **Assets**: Create a subdirectory `content/assets/sessions/<000>/` (3-digit session number).
+        -   **Images**: Move all images used in the recap there. Update links.
+        -   **Videos**: Check `input/06 Session Recaps/videos/` for matches. Move them to the asset folder. Append them to the end of the recap file under `## Filmy` section using `![Title](../assets/sessions/<000>/video.mp4)`.
     -   **Action**: Extract entities (NPCs, Locations) mentioned. Update the "Session Index" if one exists.
 -   **Handouts** (Letters, Notes, Images):
     -   **Destination**: `content/07-Handouts/`
@@ -37,6 +39,11 @@ For each target file in `input/`:
 
 **Goal**: Every significant entity mentioned in the text must be wikilinked: `[[Entity Name]]`.
 **Constraint**: Do NOT modify the narrative content of the summary itself, only add wikilinks.
+
+### The "Preserve Image Prompts" Rule (CRITICAL)
+- **Alt Text is Precious**: The Alt Text in image links (e.g., `![Draw a fantasy castle...](path.png)`) contains the **Generative AI Prompt** used to create the image.
+- **NEVER Truncate or Modify**: When copying, moving, or editing files, you **MUST** preserve the Alt Text exactly as it is. Do NOT shorten it to `![Image]`, `![Draw a fantasy castle...]`, or anything else.
+- **Broken Prompts = Failure**: Losing the prompt means the user cannot regenerate the image in the same style later.
 
 ### The "Search First" Rule
 Before creating ANY new file or link:

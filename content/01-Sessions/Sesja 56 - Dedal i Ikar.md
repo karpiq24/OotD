@@ -74,3 +74,8 @@ Po tym ekscytującym, choć nieco komicznym finale, bohaterowie, bogatsi o nowy 
 * Artefakt [[Dedal|Dedala]] - [[Heart of the Gale]]
 * [[Ikar V2]] (latająca maszyna Dedala)
 * [[Titansbane]] (w wizji)
+
+## Filmy
+![Banish](../assets/sessions/056/056_banish.mp4)
+![Crash](../assets/sessions/056/056_crash.mp4)
+![Crash 2](../assets/sessions/056/056_crash2.mp4)

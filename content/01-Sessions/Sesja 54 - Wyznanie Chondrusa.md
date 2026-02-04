@@ -84,3 +84,8 @@ Gdy na horyzoncie zamajaczyły mury [[Mytros]], [[Melania Twardowska|Melania]], 
 * [[Grimuar Chondrusa]]
 * [[Antikythera]] (magiczny kompas, wspomniana konieczność naprawy)
 * Przeklęty miecz [[Estor Arkelander|Estora Arkelandera]] (wspomniany)
+
+## Filmy
+![Estor](../assets/sessions/054/054_estor.mp4)
+![Fireball](../assets/sessions/054/054_fireball.mp4)
+![Melania](../assets/sessions/054/054_melania.mp4)

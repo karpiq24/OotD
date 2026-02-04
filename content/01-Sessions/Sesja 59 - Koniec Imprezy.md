@@ -90,3 +90,7 @@ Kiedy truchło ostatniego Blemysa z głuchym łoskotem uderzyło o podłogę, a 
 
 * [[Wielka Księga Zasad]]
 * Smocze jajo [[Paradox|Paradoxa]]
+
+## Filmy
+![Fortress](../assets/sessions/059/059_fortress.mp4)
+![Talieus](../assets/sessions/059/059_talieus.mp4)

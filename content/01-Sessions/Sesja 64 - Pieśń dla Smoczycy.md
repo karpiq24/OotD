@@ -70,3 +70,6 @@ Na plaży doszło do finalnych ustaleń logistycznych z Moxeną. Meduza, widząc
 
 * [[Zguba Tytanów]] (Titansbane)
 * Kakaowiec (znaleziony przez Orestesa)
+
+## Filmy
+![Hexia](../assets/sessions/064/064_hexia.mp4)

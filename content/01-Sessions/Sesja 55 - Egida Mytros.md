@@ -103,3 +103,8 @@ Z naprawionym kompasem i uzupełnionymi zapasami, bohaterowie byli gotowi do dal
 * Różdżka ze smoczego rogu
 * Egida Mytros (nowe automaty bojowe [[Acastus|Acastusa]])
 * Mikstury lecznicze i komponenty magiczne (zakupione w mieście)
+
+## Filmy
+![Acastus Offer](../assets/sessions/055/055_acastus_offer.mp4)
+![Volkan](../assets/sessions/055/055_volkan.mp4)
+![War](../assets/sessions/055/055_war.mp4)

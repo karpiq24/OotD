@@ -67,6 +67,7 @@ title: Sesje
 - [[Sesja 64 - Pieśń dla Smoczycy]]
 - [[Sesja 65 - Wyprawa w Otchłań]]
 - [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]]
+- [[Sesja 67 - Zguba Estora]]
 - [[Sesja 7 - Uratować Księżniczkę|Sesja 7: Uratować Księżniczkę]]
 - [[Sesja 8 - Ścieżka Umarłych]]
 - [[Sesja 9 - W Głębi Grobowca Xandera]]
