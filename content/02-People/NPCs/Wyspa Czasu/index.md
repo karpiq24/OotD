@@ -10,5 +10,4 @@ title: Wyspa Czasu
 - [[Kartos]]
 - [[Mateusz]]
 - [[Noland]]
-- [[Paradox]]
 - [[Waywa]]

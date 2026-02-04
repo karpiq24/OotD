@@ -17,7 +17,7 @@ Krótki opis miejsca, jego atmosfera i ogólny wygląd.
 - **Miejsce 2**: Opis.
 
 ## Mieszkańcy
-- Sfinksy: [[Kallisti]], [[Kartos]], [[Noland]], [[Waywa]], [[Bilatro]], [[Paradox]] (smok/strażnik).
+- Sfinksy: [[Kallisti]], [[Kartos]], [[Noland]], [[Waywa]], [[Bilatro]], [[Paradoks|Paradox]] (smok/strażnik).
 - Inni: [[Kabira Nasir]], [[Mateusz]]
 
 
