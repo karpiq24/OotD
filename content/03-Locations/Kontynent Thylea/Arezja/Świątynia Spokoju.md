@@ -3,7 +3,7 @@ title: Świątynia Spokoju
 ---
 # Świątynia Spokoju
 
-![Laertes](../../assets/sessions/063/063_laertes.png)
+![Laertes](../../../assets/sessions/063/063_laertes.png)
 
 _Izolowana świątynia na szczycie góry, dostępna po pokonaniu tysięcy schodów._
 

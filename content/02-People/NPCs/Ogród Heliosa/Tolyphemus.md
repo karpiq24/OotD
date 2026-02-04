@@ -3,7 +3,7 @@ title: Tolyphemus
 ---
 # Tolyphemus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Ślepy Cyklop, Szef Kuchni Heliosa_
 

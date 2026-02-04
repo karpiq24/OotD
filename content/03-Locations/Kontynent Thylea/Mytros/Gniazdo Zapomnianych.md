@@ -3,7 +3,7 @@ title: Gniazdo Zapomnianych
 ---
 # Gniazdo Zapomnianych (Nest of the Forgotten)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Osada wyrzutków w kanałach Mytros._
 

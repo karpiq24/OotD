@@ -3,7 +3,7 @@ title: Targ Rybny
 ---
 # Targ Rybny (M17)
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Rybi Targ pełen zapachów morza i świeżego połowu._
 

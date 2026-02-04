@@ -3,7 +3,7 @@ title: Posiadłość Neurdagonów
 ---
 # Posiadłość Neurdagonów (Neurdagon Estate)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Najbogatsza willa w mieście._
 

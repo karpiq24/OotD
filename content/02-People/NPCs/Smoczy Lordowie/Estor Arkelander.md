@@ -3,7 +3,7 @@ title: Estor Arkelander
 ---
 # Estor Arkelander
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Pierwszy Smoczy Lord, Kapitan [[Ultros]]_
 

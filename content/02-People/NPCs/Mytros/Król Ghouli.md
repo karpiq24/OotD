@@ -3,7 +3,7 @@ title: Król Ghouli
 ---
 # Król Ghouli (The Ghoul King)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _ samozwańczy król podziemi._
 

@@ -3,7 +3,7 @@ title: Eustace
 ---
 # Eustace
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Wierny pies Xandera Huoratha_
 

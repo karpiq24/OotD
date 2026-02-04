@@ -3,7 +3,7 @@ title: Patrea
 ---
 # Patrea
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Przywódczyni elfiego ruchu oporu na Wyspie Smoka, amazońska wojowniczka._
 

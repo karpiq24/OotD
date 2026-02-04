@@ -3,7 +3,7 @@ title: Słoneczny Granat
 ---
 # Słoneczny Granat
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Rzadki owoc rosnący w jaskini potworów, pożądany przez Narsusa._
 

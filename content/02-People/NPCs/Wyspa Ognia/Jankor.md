@@ -3,7 +3,7 @@ title: Jankor
 ---
 # Jankor
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Król plemienia Chodzących w Ogniu na Wyspie Ognia, wybraniec Sydona._
 

@@ -3,7 +3,7 @@ title: Vallus
 ---
 # Vallus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Królowa Mytros, bogini mądrości i jedna z bóstw Piątki._
 

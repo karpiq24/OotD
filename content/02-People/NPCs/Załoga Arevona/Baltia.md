@@ -3,7 +3,7 @@ title: Baltia
 ---
 # Baltia
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Dawna towarzyszka Arevona._
 

@@ -3,7 +3,7 @@ title: Winnice Mytros
 ---
 # Winnice Mytros
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Najbujniejsze winnice na całym kontynencie, położone w pobliżu miasta [[Mytros]]._
 

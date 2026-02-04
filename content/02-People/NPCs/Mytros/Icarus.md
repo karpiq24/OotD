@@ -3,7 +3,7 @@ title: Icarus
 ---
 # Icarus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Potężny srebrny smok_
 

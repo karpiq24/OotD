@@ -3,7 +3,7 @@ title: Nephele
 ---
 # Nephele
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Bogata szlachcianka._
 

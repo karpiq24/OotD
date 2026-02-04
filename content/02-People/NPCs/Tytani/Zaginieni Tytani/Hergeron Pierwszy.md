@@ -3,7 +3,7 @@ title: Hergeron Pierwszy
 ---
 # Hergeron Pierwszy
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.png)
 
 _Tytan Siły_
 

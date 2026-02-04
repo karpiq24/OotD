@@ -3,7 +3,7 @@ title: Tars d’Lyrandar
 ---
 # Tars d’Lyrandar
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Kapitan statku "Tranquility", rozbitek z innego świata._
 

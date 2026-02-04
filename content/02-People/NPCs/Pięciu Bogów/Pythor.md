@@ -3,7 +3,7 @@ title: Pythor
 ---
 # Pythor
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Legendarny Bóg Bitwy, jeden z [[Pięciu Bogów]] i Król [[Estoria|Estorii]]._
 

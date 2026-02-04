@@ -3,7 +3,7 @@ title: Ultros
 ---
 # Ultros
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Legendarny Okręt Widmo, statek [[Estor Arkelander|Estora Arkelandera]]._
 

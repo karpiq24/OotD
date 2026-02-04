@@ -3,7 +3,7 @@ title: Plany Naprawy Magicznego Kompasu
 ---
 # Plany Naprawy Magicznego Kompasu
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Schematy niezbędne do naprawy kompasu Ultrosa._
 

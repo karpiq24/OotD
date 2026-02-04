@@ -3,7 +3,7 @@ title: Alina Davanos
 ---
 # Alina Davanos
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Smoczy Lord, jeździec smoczycy Chaeristis_
 

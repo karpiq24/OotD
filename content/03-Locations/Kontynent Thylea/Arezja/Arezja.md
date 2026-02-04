@@ -3,7 +3,7 @@ title: Arezja
 ---
 # Arezja
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Królestwo Wojowników_
 

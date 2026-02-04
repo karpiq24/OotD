@@ -3,7 +3,7 @@ title: Król Troglodytów
 ---
 # Król Troglodytów
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 Władca troglodytów zamieszkujących górne poziomy jaskiń przy Mithralowej Kuźni.
 

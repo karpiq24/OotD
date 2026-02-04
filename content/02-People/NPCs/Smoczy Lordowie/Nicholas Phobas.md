@@ -3,7 +3,7 @@ title: Nicholas Phobas
 ---
 # Nicholas Phobas
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Smoczy Lord, król i wybitny żeglarz, oddany czciciel Sydona_
 

@@ -3,7 +3,7 @@ title: Jankas
 ---
 # Jankas
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Minotaur zielarz z Gniazda Zapomnianych._
 

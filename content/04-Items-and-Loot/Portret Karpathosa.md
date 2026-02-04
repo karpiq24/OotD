@@ -3,7 +3,7 @@ title: Portret Karpathosa Wilczego Lorda
 ---
 # Portret Karpathosa Wilczego Lorda
 
-![Portret Karpathosa](../../assets/sessions/062/062_painting.png)
+![Portret Karpathosa](../assets/sessions/062/062_painting.png)
 
 _Zaczarowany obraz przedstawiający pierwszego króla Arezji._
 

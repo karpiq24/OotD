@@ -3,7 +3,7 @@ title: Mosiężna Misa
 ---
 # Mosiężna Misa
 
-![Mosiężna Misa](../../assets/sessions/053/053_bowl.png)
+![Mosiężna Misa](../assets/sessions/053/053_bowl.png)
 
 _Misa pozwalająca na komunikację z Kustoszem._
 

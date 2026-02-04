@@ -3,7 +3,7 @@ title: Corinna
 ---
 # Corinna
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Córka Thericlesa z [[Estoria]]_
 

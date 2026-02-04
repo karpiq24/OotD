@@ -3,7 +3,7 @@ title: The Somnolent Codex
 ---
 # The Somnolent Codex
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.png)
 
 _Księga Zaklęć, Bardzo Rzadki_
 

@@ -3,7 +3,7 @@ title: Rzeka Arkelon
 ---
 # Rzeka Arkelon
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.png)
 
 Potężna rzeka przepływająca przez północną część [[Estoria|Estorii]], stanowiąca naturalną barierę oddzielającą cywilizowane ziemie od dzikich stepów północy.
 

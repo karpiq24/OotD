@@ -3,7 +3,7 @@ title: Teatr Bogów
 ---
 # Teatr Bogów (Theater of the Gods)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Wielki amfiteatr u stóp Wzgórza Świątynnego._
 

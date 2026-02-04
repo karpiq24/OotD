@@ -3,7 +3,7 @@ title: Świątynia Żywiołów
 ---
 # Świątynia Żywiołów
 
-![Taureus](../../assets/sessions/063/063_taureus.png)
+![Taureus](../../../assets/sessions/063/063_taureus.png)
 
 _Ośrodek mnichów kontrolujących żywioły, zarządzany przez Taureusa._
 

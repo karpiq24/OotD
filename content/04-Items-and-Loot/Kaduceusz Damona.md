@@ -3,7 +3,7 @@ title: Kaduceusz Damona
 ---
 # Kaduceusz Damona
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Artefakt Śmierci_
 

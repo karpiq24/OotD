@@ -3,7 +3,7 @@ title: Isadore Huorath
 ---
 # Isadore Huorath
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Wybitna wojowniczka i sportsmenka, Smoczy Lord_
 

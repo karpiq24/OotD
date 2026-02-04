@@ -3,7 +3,7 @@ title: Davos
 ---
 # Davos
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Kwatermistrz Ultrosa, nieumarły krasnolud._
 

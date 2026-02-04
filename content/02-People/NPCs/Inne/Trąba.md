@@ -3,7 +3,7 @@ title: Trąba
 ---
 # Trąba
 
-![Trąba](../../assets/sessions/062/062_traba.png)
+![Trąba](../../../assets/sessions/062/062_traba.png)
 
 _Magiczny, skrzydlaty słoń przyzwany przez Versira._
 

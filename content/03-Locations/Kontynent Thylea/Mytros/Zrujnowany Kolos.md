@@ -3,7 +3,7 @@ title: Zrujnowany Kolos
 ---
 # Zrujnowany Kolos
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Pozostałości po niegdyś potężnym strażniku Mytros._
 

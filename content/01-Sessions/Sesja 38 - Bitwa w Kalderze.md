@@ -2,7 +2,7 @@
 
 **Data:** 20.01.2025
 
-![Jankor](../../assets/sessions/038/038_jankor.webp)
+![Jankor](../assets/sessions/038/038_jankor.webp)
 
 ## Podsumowanie
 

@@ -3,7 +3,7 @@ title: Kyrah
 ---
 # Kyrah
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jeden z [[Moce Thylei#Pięciu Bogów|Pięciu Bogów]] Thylei, Bogini Muzyki i Podstępu, znana jako Muza._
 

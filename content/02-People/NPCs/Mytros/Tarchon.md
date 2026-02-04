@@ -3,7 +3,7 @@ title: Tarchon
 ---
 # Tarchon
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Centurion z Mytros, Smoczy Lord Acastusa_
 

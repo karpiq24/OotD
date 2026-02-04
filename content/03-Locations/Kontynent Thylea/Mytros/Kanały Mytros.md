@@ -3,7 +3,7 @@ title: Kanały Mytros
 ---
 # Kanały Mytros (Sewers of Mytros)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _System kanalizacyjny pod miastem Mytros._
 

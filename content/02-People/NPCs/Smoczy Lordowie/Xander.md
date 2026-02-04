@@ -3,7 +3,7 @@ title: Xander Huorath
 ---
 # Xander Huorath
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Smoczy Lord_
 

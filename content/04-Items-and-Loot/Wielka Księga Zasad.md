@@ -3,7 +3,7 @@ title: Wielka Księga Zasad
 ---
 # Wielka Księga Zasad
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Zaginiona Księga Praw_
 

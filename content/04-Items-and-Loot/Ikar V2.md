@@ -3,7 +3,7 @@ title: Ikar V2
 ---
 # Ikar V2
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Pojazd (Maszyna latająca), Unikatowy_
 

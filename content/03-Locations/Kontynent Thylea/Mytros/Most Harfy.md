@@ -3,7 +3,7 @@ title: Most Harfy
 ---
 # Most Harfy
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jeden z głównych mostów w [[Mytros]]._
 

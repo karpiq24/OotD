@@ -3,7 +3,7 @@ title: Dzielnica Szlachecka
 ---
 # Dzielnica Szlachecka
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Centrum handlu i bogactwa Mytros._
 

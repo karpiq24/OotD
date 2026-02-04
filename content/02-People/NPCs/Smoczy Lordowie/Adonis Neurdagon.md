@@ -3,7 +3,7 @@ title: Adonis Neurdagon
 ---
 # Adonis Neurdagon
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jeden z pierwszych Smoczych Lordów_
 

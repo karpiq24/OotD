@@ -3,7 +3,7 @@ title: Ismene Neurdagon
 ---
 # Ismene Neurdagon
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Córka Tarana Neurdagona._
 

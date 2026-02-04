@@ -3,7 +3,7 @@ title: Versi
 ---
 # Versi (Wyrocznia)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Słynna nimfa wodna obdarzona darem proroctwa i miłością do śmiertelnyh ras._
 

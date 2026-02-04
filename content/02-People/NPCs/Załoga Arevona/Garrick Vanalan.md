@@ -3,7 +3,7 @@ title: Garrick Vanalan
 ---
 # Garrick Vanalan
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Zaginiony członek załogi Arevona._
 

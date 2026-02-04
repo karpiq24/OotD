@@ -3,7 +3,7 @@ title: Astra
 ---
 # Astra
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Członkini Kultu Węża i sojuszniczka Versira._
 

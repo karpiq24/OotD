@@ -3,7 +3,7 @@ title: Stygian Row
 ---
 # Stygian Row
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Slumsy Mytros, enklawa wykluczonych._
 

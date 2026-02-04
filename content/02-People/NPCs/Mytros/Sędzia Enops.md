@@ -3,7 +3,7 @@ title: Sędzia Enops
 ---
 # Sędzia Enops
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Sędzia w Mytros._
 

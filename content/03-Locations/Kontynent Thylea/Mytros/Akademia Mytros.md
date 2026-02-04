@@ -3,7 +3,7 @@ title: Akademia Mytros
 ---
 # Akademia Mytros (The Academy)
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Główne centrum nauki w Thylei._
 

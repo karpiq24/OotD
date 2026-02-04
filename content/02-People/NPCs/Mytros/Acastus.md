@@ -3,7 +3,7 @@ title: Acastus
 ---
 # Acastus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Król Mytros, potomek Estora Arkelandera._
 

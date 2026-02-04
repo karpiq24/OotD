@@ -3,7 +3,7 @@ title: Rhea
 ---
 # Rhea
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Czarodziejka pracująca dla Moxeny._
 

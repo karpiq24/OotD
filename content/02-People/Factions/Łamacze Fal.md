@@ -3,7 +3,7 @@ title: Łamacze Fal
 ---
 # Łamacze Fal
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.png)
 
 _Tradycjonalistyczne plemię jaszczuroludzi z Wyspy Ognia._
 

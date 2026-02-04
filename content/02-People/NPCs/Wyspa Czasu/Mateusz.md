@@ -3,7 +3,7 @@ title: Mateusz
 ---
 # Mateusz
 
-![Placeholder](../../assets/placeholder.jpeg)
+![Placeholder](../../../assets/placeholder.jpeg)
 
 _Kruk Kolekcjoner_
 

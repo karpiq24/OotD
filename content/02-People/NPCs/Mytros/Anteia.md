@@ -3,7 +3,7 @@ title: Anteia
 ---
 # Anteia
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Przywódczyni Gniazda Zapomnianych._
 

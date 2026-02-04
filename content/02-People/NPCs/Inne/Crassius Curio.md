@@ -3,7 +3,7 @@ title: Crassius Curio
 ---
 # Crassius Curio
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Autor kontrowersyjnych i popularnych sztuk teatralnych_
 

@@ -3,7 +3,7 @@ title: Lyssis Arkelander
 ---
 # Lyssis Arkelander
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Były tyran Estorii, potomek Estora Arkelandera._
 

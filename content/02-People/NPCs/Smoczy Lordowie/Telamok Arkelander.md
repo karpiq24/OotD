@@ -3,7 +3,7 @@ title: Telamok Arkelander
 ---
 # Telamok Arkelander
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Legendarny założyciel miasta [[Mytros]]. Brat [[Estor Arkelander|Estora]]._
 

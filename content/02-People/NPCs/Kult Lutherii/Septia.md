@@ -3,7 +3,7 @@ title: Septia
 ---
 # Septia
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Siostra i kochanka Trellusa, pretendentka do tronu._
 

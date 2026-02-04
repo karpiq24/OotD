@@ -3,7 +3,7 @@ title: Heleka
 ---
 # Heleka
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Zła wiedźma morska służąca Sydonowi, znana ze swojego okrucieństwa._
 

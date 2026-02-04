@@ -3,7 +3,7 @@ title: Chondrus
 ---
 # Chondrus
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Doradca Króla Acastusa_
 

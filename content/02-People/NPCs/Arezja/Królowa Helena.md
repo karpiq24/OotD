@@ -3,7 +3,7 @@ title: Królowa Helena
 ---
 # Królowa Helena
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Obecna Królowa Arezji_
 

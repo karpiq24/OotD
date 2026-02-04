@@ -3,7 +3,7 @@ title: Breastplate of Xander
 ---
 # Breastplate of Xander
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.png)
 
 _Zbroja noszona niegdyś przez Smoczego Lorda Xandera._
 

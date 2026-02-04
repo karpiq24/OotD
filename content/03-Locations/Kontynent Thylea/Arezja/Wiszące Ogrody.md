@@ -3,7 +3,7 @@ title: Wiszące Ogrody
 ---
 # Wiszące Ogrody
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Słynne ogrody Arezji, cud architektury i natury._
 

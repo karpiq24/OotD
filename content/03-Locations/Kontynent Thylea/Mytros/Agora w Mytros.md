@@ -3,7 +3,7 @@ title: Agora w Mytros
 ---
 # Agora w Mytros
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Serce handlowe Mytros._
 

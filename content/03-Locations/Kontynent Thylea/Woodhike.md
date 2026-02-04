@@ -3,7 +3,7 @@ title: Woodhike
 ---
 # Woodhike
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.png)
 
 _Spokojna enklawa niziołków i gnomów położona w zalesionych wzgórzach niedaleko [[Estoria|Estorii]]._
 

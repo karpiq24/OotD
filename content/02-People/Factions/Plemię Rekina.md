@@ -3,7 +3,7 @@ title: Plemię Rekina
 ---
 # Plemię Rekina
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.png)
 
 _Agresywne plemię ludzi i półelfów z Wyspy Indygo, żyjące z najazdów._
 

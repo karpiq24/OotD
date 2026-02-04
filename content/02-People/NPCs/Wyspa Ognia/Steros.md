@@ -3,7 +3,7 @@ title: Steros
 ---
 # Steros
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.png)
 
 _Jancan, syn Bronta, nowy kowal na Wyspie Ognia._
 
