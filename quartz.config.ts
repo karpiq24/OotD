@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pl-PL",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "karpiq24.github.io/OotD",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
