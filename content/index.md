@@ -9,3 +9,4 @@ title: Strona główna
 - [[05-Lore|Lore]]
 - [[06-Rules|Rules]]
 - [[07-Handouts|Handouts]]
+- [[Timeline]]
