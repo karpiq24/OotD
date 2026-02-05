@@ -21,9 +21,16 @@ This skill accepts the following parameters:
 - **CRITICAL**: The AI image generator does NOT know who "Versir", "Kyrah", or "Estor" is.
 - **Action**: You MUST replace every proper name with its **FULL physical description**.
 - **Source Priority**:
-    1.  **Check Frontmatter**: If the entity has an `image_prompt` field in its file, USE IT EXACTLY.
-    2.  **Fallback**: If no `image_prompt`, read the entity's file (bio/description) and synthesize a physical description.
-    3.  **Last Resort**: Generate a generic description based on context.
+    1.  **Check Frontmatter**: If the entity has an `image_prompt` field in its file, **COPY IT VERBATIM**. Do NOT summarize, shorten, or paraphrase. The `image_prompt` field contains the exact visual description needed for consistency.
+    2.  **Fallback**: If no `image_prompt`, read the entity's file (bio/description) and synthesize a **detailed** physical description including: race, build, facial features, hair color/style, eye color, clothing, armor, weapons, accessories, and any distinguishing marks.
+    3.  **Last Resort**: Generate a detailed description based on context, but include at least 5 specific visual attributes.
+
+#### Example - WRONG vs CORRECT:
+- ❌ WRONG: "a human wizard in rust-brown robes"
+- ✅ CORRECT: "a young adult male human wizard with a lean, rugged build, intense blue-grey eyes, a strong jawline, a weathered complexion, and a prominent scar across his right cheek, short messy dark brown hair complemented by a full dark brown beard, wearing layered medieval clothing, a rust-brown hooded tunic over a coarse off-white linen shirt, with a thick brown leather shoulder strap and buckle, two bronze circular geometric star emblems visible on his chest"
+
+#### Quick Reference - Main PCs:
+Before generating any prompt with PCs, **READ** their entity files and copy the `image_prompt` field exactly.
 
 ### 2. Visual Styles
 - **Requirement**: Use a defined art style for every image.

@@ -68,4 +68,5 @@ title: Sesje
 - [[Sesja 64 - Pieśń dla Smoczycy|Sesja 64: Pieśń dla Smoczycy]]
 - [[Sesja 65 - Wyprawa w Otchłań|Sesja 65: Wyprawa w Otchłań]]
 - [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani|Sesja 66: Przebudzenie Bestii i Cienie Otchłani]]
-- [[Sesja 67 - Zguba Estora]]
+- [[Sesja 67 - Zguba Estora|Sesja 67: Zguba Estora]]
+- [[Sesja 68 - Arena Krzywoprzysięstwa|Sesja 68: Arena Krzywoprzysięstwa]]
