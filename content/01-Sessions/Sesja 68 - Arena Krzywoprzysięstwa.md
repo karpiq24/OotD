@@ -17,7 +17,7 @@ video_script: "[Skrypt wideo](../assets/sessions/068/video_script.md)"
 
 Po pokonaniu [[Estor Arkelander|Estora]], załoga [[Ultros|Ultrosa]] udała się na krótki odpoczynek, płynąc ku kolejnemu celowi – [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]]. Z mrocznych wód [[Morze Otchłani|Morza Otchłani]] wyłoniła się skalista, ponura wyspa porośnięta skamieniałymi, powykręcanymi drzewami. Pośrodku wyspy wznosiła się wysoka kolumna. Po przybiciu do przystani, bohaterowie zeszli na ląd, gdzie powitał ich makabryczny widok: więźniowie przykuci do kamiennych drzew, z zaszytymi ustami, byli torturowani przez świecące, gryzące motyle.
 
-Wśród potępionych dusz [[Orestes]] dostrzegł sylwetkę satyrzycy. Była to [[Orestia]], była magini [[Akademia Mytros|Akademii w Mytros]], która odbywała karę za "drobne kłamstewko" i złamanie przysięgi podczas Wielkich Igrzysk. Mimo że spędziła tam już ponad sto lat i była wyraźnie znudzona, zachowała pewną bystrość umysłu. [[Orestes]], wykazując się typową dla siebie gościnnością, poczęstował ją piwem, co na chwilę poprawiło jej nastrój, choć opowieści o browarnictwie szybko ją znużyły. [[Orestia]] zdradziła, że zarządca wyspy, zwany [[The Keeper]], jest skłonny do negocjacji.
+Wśród potępionych dusz [[Orestes]] dostrzegł sylwetkę satyrzycy. Była to [[Orestia]], była magini [[Akademia Mytros|Akademii w Mytros]], która odbywała karę za "drobne kłamstewko" i złamanie przysięgi podczas Wielkich Igrzysk. Mimo że spędziła tam już ponad sto lat i była wyraźnie znudzona, zachowała pewną bystrość umysłu. [[Orestes]], wykazując się typową dla siebie gościnnością, poczęstował ją piwem, co na chwilę poprawiło jej nastrój, choć opowieści o browarnictwie szybko ją znużyły. [[Orestia]] zdradziła, że zarządca wyspy, zwany [[The Warden]], jest skłonny do negocjacji.
 
 ### Spotkanie z [[Helios|Heliosem]] i Pakt z Zarządcą
 
@@ -25,7 +25,7 @@ Wśród potępionych dusz [[Orestes]] dostrzegł sylwetkę satyrzycy. Była to [
 
 Bohaterowie udali się w głąb wyspy, podążając wzdłuż łańcuchów ku centralnemu filarowi. Tam odnaleźli [[Helios|Heliosa]] – uwięzionego "celebrytę", o którym wspominała [[Orestia]]. [[Helios]], spętany i pilnowany, wyjawił im swój dylemat: zawarł pakt z [[Sydon|Sydonem]], obiecując mu armię cyklopów. Jeśli zostanie uwolniony teraz, przysięga zmusi go do wsparcia Tytana. Bohaterowie ustalili jednak plan – uwolnienie [[Helios|Heliosa]] dopiero po wygaśnięciu [[Przysięga Pokoju|Przysięgi Pokoju]] pozwoliłoby mu uniknąć konieczności walki po stronie [[Sydon|Sydona]]. [[Helios]] nie był sojusznikiem Tytana z wyboru, a jedynie ofiarą własnych zobowiązań.
 
-W trakcie rozmowy zjawił się [[The Keeper|Zarządca Wyspy (The Keeper)]] – lewitująca postać o insektoidalnych cechach, w otoczeniu mrówkopodobnych demonów. Początkowo [[Versir]] próbował fortelu, przedstawiając drużynę jako "inspekcję" sprawdzającą legalność areny. Zarządca zdawał się brać to na poważnie, dopóki [[Orestes]] nie wtrącił się ze swoją opowieścią o piwie i potencjalnej franczyzie browaru w zaświatach. To wzbudziło podejrzenia Zarządcy, który szybko przejrzał maskaradę. Gdy jednak dowiedział się, że ma do czynienia z [[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]], jego nastawienie zmieniło się – zamiast kary, zaproponował układ.
+W trakcie rozmowy zjawił się [[The Warden|Zarządca Wyspy (The Warden)]] – lewitująca postać o insektoidalnych cechach, w otoczeniu mrówkopodobnych demonów. Początkowo [[Versir]] próbował fortelu, przedstawiając drużynę jako "inspekcję" sprawdzającą legalność areny. Zarządca zdawał się brać to na poważnie, dopóki [[Orestes]] nie wtrącił się ze swoją opowieścią o piwie i potencjalnej franczyzie browaru w zaświatach. To wzbudziło podejrzenia Zarządcy, który szybko przejrzał maskaradę. Gdy jednak dowiedział się, że ma do czynienia z [[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]], jego nastawienie zmieniło się – zamiast kary, zaproponował układ.
 
 Zarządca, znudzony monotonią swojej pracy, pragnął rozrywki. Zaproponował, że przymknie oko na "jedną duszę" opuszczającą wyspę ([[Helios|Heliosa]]), jeśli bohaterowie zapewnią mu niezapomniane widowisko na arenie, mierząc się z jego czempionami.
 
@@ -55,7 +55,7 @@ Gdy ostatni przeciwnik padł, tłum wiwatował, a [[Lutheria]] biła brawo. Zarz
  
 ## Kluczowe wydarzenia
 * Przybycie na [[Wyspa Krzywoprzysięstwa|Wyspę Krzywoprzysięstwa]] i spotkanie z uwięzioną satyrzycą [[Orestia|Orestią]].
-* Negocjacje z [[The Keeper|Zarządcą (The Keeper)]] – obietnica uwolnienia jednej duszy ([[Helios|Heliosa]]) w zamian za widowisko na arenie.
+* Negocjacje z [[The Warden|Zarządcą (The Warden)]] – obietnica uwolnienia jednej duszy ([[Helios|Heliosa]]) w zamian za widowisko na arenie.
 * Rozpoczęcie serii walk z "Duchami Przeszłości" na arenie.
 * Pokonanie **I Fali**: Wiedźmy [[Heleka|Heleki]] na [[Wielki Dzik|Wielkim Dziku]], [[Braeca]] i ożywionych mieczy.
 * Pokonanie **II Fali**: Cerbera, Króla Troglodytów i Cockatrice'a.
@@ -64,7 +64,7 @@ Gdy ostatni przeciwnik padł, tłum wiwatował, a [[Lutheria]] biła brawo. Zarz
 * Pokonanie **IV Fali**: [[Maximus|Maximusa]], Chimery, [[Rakas Rozpruwacz|Rakasy]], [[Septia|Septii]] i [[Trellus|Trellusa]] przy użyciu kombinacji zaklęć obszarowych i brutalnej siły.
 
 ## Cytaty
-* **[[The Keeper|Zarządca]]**: "Potrzebuję widowiska. Przyjdźcie na moją arenę, pokażcie swoje umiejętności, zróbcie wrzawę."
+* **[[The Warden|Zarządca]]**: "Potrzebuję widowiska. Przyjdźcie na moją arenę, pokażcie swoje umiejętności, zróbcie wrzawę."
 * **[[Orestia]]**: "Głównie słucham dowcipów Pani Śmierci. Są dość makabryczne."
 * **[[Lutheria]]**: "Wybaczcie moje spóźnienie. Miałam troszkę inne plany. Mam nadzieję, że dobrze bawicie się w mojej domenie."
 * **[[Versir]]**: "Ty może tego nie pamiętasz, ale jak cię zgładziliśmy, to upewniliśmy się, żeby twoje ciało zostało porządnie zjarane. No cóż, może poczujesz to jeszcze raz." (rzucając [[Maximus|Maximusa]] w ścianę ognia)
@@ -72,7 +72,7 @@ Gdy ostatni przeciwnik padł, tłum wiwatował, a [[Lutheria]] biła brawo. Zarz
 * **[[Lutheria]]**: "Myślicie, ile niemowląt trzeba by pomalować w świątynie? (...) Zależy od tego, jak mocno nimi rzucasz."
 
 ## Postacie
-* [[The Keeper|Zarządca (The Keeper)]]
+* [[The Warden|Zarządca (The Warden)]]
 * [[Lutheria]]
 * [[Helios]] (uwięziony)
 * [[Orestia]] (więzień)

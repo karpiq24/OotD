@@ -3,7 +3,6 @@
         "**/node_modules/**": true,
         "**/public/**": true,
         "**/.quartz-cache/**": true,
-        "**/input/**": true,
-        "**/content/**": true,
+        "**/input/**": true
     }
 }

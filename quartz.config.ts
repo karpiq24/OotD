@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "pl-PL",
     baseUrl: "karpiq24.github.io/OotD",
     ignorePatterns: ["private", "templates", ".obsidian"],
