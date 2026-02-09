@@ -2,9 +2,10 @@
 import os
 import argparse
 import zipfile
+import re
 from datetime import datetime
 
-def find_and_zip(search_strings):
+def find_and_zip(search_strings, merge=False):
     # Determine paths
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(script_dir)
@@ -61,13 +62,53 @@ def find_and_zip(search_strings):
 
     try:
         with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zipf:
-            for file_path in found_files:
-                # Store files relative to project root to preserve folder structure within the zip
-                arcname = os.path.relpath(file_path, project_root)
-                zipf.write(file_path, arcname)
+            if merge:
+                # Group files by top-level category
+                files_by_category = {}
+                for file_path in found_files:
+                    rel_path = os.path.relpath(file_path, content_dir)
+                    parts = rel_path.split(os.sep)
+                    
+                    if len(parts) > 1:
+                        # It is in a subdirectory, e.g. 01-Sessions
+                        category_raw = parts[0]
+                        # Remove leading numbers and dash (e.g. 01-Sessions -> Sessions)
+                        category = re.sub(r'^\d+-', '', category_raw)
+                    else:
+                        # File in root
+                        category = "General"
+                    
+                    if category not in files_by_category:
+                        files_by_category[category] = []
+                    files_by_category[category].append(file_path)
+                
+                # Write merged files
+                for category, paths in files_by_category.items():
+                    merged_content = []
+                    # Sort by path to ensure deterministic order
+                    for fp in sorted(paths):
+                        try:
+                            rel_name = os.path.relpath(fp, content_dir)
+                            with open(fp, 'r', encoding='utf-8') as f:
+                                f_content = f.read()
+                                merged_content.append(f"# File: {rel_name}\n\n{f_content}")
+                        except Exception as e:
+                            print(f"Error reading {fp} for merge: {e}")
+                    
+                    # Join with separators
+                    full_text = "\n\n---\n\n".join(merged_content)
+                    zipf.writestr(f"{category}.md", full_text)
+                    print(f"Merged {len(paths)} files into {category}.md")
+
+            else:
+                # Standard behavior: zip individual files preserving structure
+                for file_path in found_files:
+                    # Store files relative to project root to preserve folder structure within the zip
+                    arcname = os.path.relpath(file_path, project_root)
+                    zipf.write(file_path, arcname)
         
         print(f"Successfully created: {zip_path}")
-        print(f"Total files zipped: {len(found_files)}")
+        print(f"Total files processed: {len(found_files)}")
         
     except Exception as e:
         print(f"Error creating zip file: {e}")
@@ -75,7 +116,8 @@ def find_and_zip(search_strings):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Find markdown files in 'content/' containing specific strings and zip them.")
     parser.add_argument("search_strings", nargs='+', help="One or more strings to search for. Files containing ANY of these strings will be included.")
+    parser.add_argument("--merge", action="store_true", help="Merge found files into single markdown files per top-level category (e.g. Sessions.md, People.md).")
     
     args = parser.parse_args()
     
-    find_and_zip(args.search_strings)
+    find_and_zip(args.search_strings, merge=args.merge)
