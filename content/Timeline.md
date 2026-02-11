@@ -384,3 +384,10 @@
 * Przybycie [[Lutheria|Lutherii]], która z rozbawieniem obserwuje zmagania bohaterów.
 * Pokonanie **IV Fali**: [[Maximus|Maximusa]], Chimery, [[Rakas Rozpruwacz|Rakasy]], [[Septia|Septii]] i [[Trellus|Trellusa]].
 
+## Sesja 69 - Symfonia Zemsty i Ogród Lutherii (10.02.2026)
+* Ostateczne zwycięstwo na Arenie nad **[[Piekielny Dyrygent|Piekielnym Dyrygentem]]** i **[[Ventis]]**.
+* Spotkanie z **[[The Warden|Zarządcą]]** i nieudana próba wynegocjowania wolności dla **[[Orestia|Orestii]]**.
+* Przybycie na pokład okrętu **[[Hypnos]]** i zawarcie *Prawa Gościnności* z **[[Kalisto]]**.
+* Odkrycie groteskowych "dzieł sztuki" Lutherii przedstawiających kanibalizm i rozpustę.
+* Użycie Sali Wróżenia do podglądania floty inwazyjnej **[[Sydon|Sydona]]**.
+
