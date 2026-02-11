@@ -21,13 +21,20 @@ This skill accepts the following parameters:
 - **CRITICAL**: The AI image generator does NOT know who "Versir", "Kyrah", or "Estor" is.
 - **Action**: You MUST replace every proper name with its **FULL physical description**.
 - **Source Priority**:
-    1.  **Check Frontmatter**: If the entity has an `image_prompt` field in its file, **COPY IT VERBATIM**. Do NOT summarize, shorten, or paraphrase. The `image_prompt` field contains the exact visual description needed for consistency.
+    1.  **Check Frontmatter**: If the entity has an `image_prompt` field in its file, **COPY IT VERBATIM**. 
+        -   **CRITICAL RULE**: Do **NOT** summarize, shorten, paraphrase, or "optimize" this text. 
+        -   **IGNORE LENGTH**: Even if the description is very long, you MUST include the ENTIRE text. Consistency depends on this specific phrasing.
+        -   **ONLY ADAPT**: You may only add specific action verbs or held items (e.g., "holding a sword" or "casting a spell") to the end or beginning of the description, but do NOT remove any physical details.
     2.  **Fallback**: If no `image_prompt`, read the entity's file (bio/description) and synthesize a **detailed** physical description including: race, build, facial features, hair color/style, eye color, clothing, armor, weapons, accessories, and any distinguishing marks.
     3.  **Last Resort**: Generate a detailed description based on context, but include at least 5 specific visual attributes.
 
 #### Example - WRONG vs CORRECT:
-- ❌ WRONG: "a human wizard in rust-brown robes"
-- ✅ CORRECT: "a young adult male human wizard with a lean, rugged build, intense blue-grey eyes, a strong jawline, a weathered complexion, and a prominent scar across his right cheek, short messy dark brown hair complemented by a full dark brown beard, wearing layered medieval clothing, a rust-brown hooded tunic over a coarse off-white linen shirt, with a thick brown leather shoulder strap and buckle, two bronze circular geometric star emblems visible on his chest"
+- ❌ WRONG: "a human wizard", "an aasimar paladin"
+- ✅ CORRECT: "a young adult male human wizard with a lean, rugged build...", "a pale male with blonde hair and piercing cyan eyes..."
+
+### 2.1. Forbidden Terms
+- **Do NOT use**: "Aasimar", "Tiefling", "Genasi", or other D&D-specific race names that models might misconstrue.
+- **Instead**: Describe the visual traits (e.g., "pale skin, glowing eyes" instead of "Aasimar").
 
 #### Quick Reference - Main PCs:
 Before generating any prompt with PCs, **READ** their entity files and copy the `image_prompt` field exactly.
@@ -53,13 +60,15 @@ Every prompt must follow this structure:
 3.  **Generate Prompts**:
     -   **Main Header**: Create 3 distinct prompts representing the overall session themes/events.
     -   **Section Headers**: For *each* `### Header` in the body, create 2 distinct prompts representing that specific section.
-4.  **Update File**:
+4.  **Save Prompt**:
+    -   Save the **Full Refined Prompt** to a text file: `content/assets/sessions/{000}/{filename}.txt`.
+5.  **Update File**:
     -   Insert image blocks into the markdown file *immediately* after the headers (Main and Sections).
     -   **Format**:
         ```markdown
-        ![The FULL text of the prompt you generated](../assets/sessions/{000}/{filename}.png)
+        ![{Short Description of Scene}](../assets/sessions/{000}/{filename}.png)
         ```
-    -   **Crucial**: The Alt Text (`![...]`) MUST be the **exact, full prompt**. Do NOT shorten it.
+    -   **Alt Text**: Use a short, readable description (e.g., "Arena Battle", "Meeting the Warden"). Do NOT put the full prompt here.
     -   **Path**: Use `../assets/sessions/{000}/` relative path.
 5.  **Generate Images**:
     -   Call `generate_image` for each prompt.
