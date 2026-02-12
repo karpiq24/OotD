@@ -67,8 +67,9 @@ Every prompt must follow this structure:
     -   **Format**:
         ```markdown
         ![{Short Description of Scene}](../assets/sessions/{000}/{filename}.png)
+        [Prompt](../assets/sessions/{000}/{filename}.txt)
         ```
-    -   **Alt Text**: Use a short, readable description (e.g., "Arena Battle", "Meeting the Warden"). Do NOT put the full prompt here.
+    -   **Alt Text**: Use a short, readable description in **Polish** (e.g., "Bitwa na Arenie", "Spotkanie z Zarządcą"). Do NOT put the full prompt here.
     -   **Path**: Use `../assets/sessions/{000}/` relative path.
 5.  **Generate Images**:
     -   Call `generate_image` for each prompt.

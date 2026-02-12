@@ -7,13 +7,15 @@ chat_log: "[Chat log](../assets/sessions/069/chat_log.json)"
 **Data**: 10.02.2026
 
 
-![Battle on the Arena](../assets/sessions/069/069_arena_battle.png)
+![Bitwa na Arenie](../assets/sessions/069/069_arena_battle.png)
+[Prompt](../assets/sessions/069/069_arena_battle.txt)
 
 ## Podsumowanie
 
 ### Ostatni Akt na Arenie
 
-![Orion Kills Ventis](../assets/sessions/069/069_orion_kills_ventis_final.png)
+![Orion zabija Ventis](../assets/sessions/069/069_orion_kills_ventis_final.png)
+[Prompt](../assets/sessions/069/069_orion_kills_ventis_final.txt)
 
 Brama areny na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]] otworzyła się po raz ostatni, odsłaniając przed [[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]] ich ostatecznych przeciwników. Z czeluści niepamięci powrócili dawni wrogowie, by jeszcze raz stanąć do walki. Na piasek wkroczył **[[Jankor]]**, król jaszczuroludzi z Ognistej Wyspy, u jego boku pojawiła się **Meduza** [[Leah]], a w cieniu czaił się **[[Ajax]]**. Jednak największe przerażenie budził **[[Piekielny Dyrygent]]** – upiór z [[Typhon|Typhona]], którego symfonię potępienia drużyna przerwała jakiś czas temu. Tym razem nie dosiadał on jednak swego koszmarnego wierzchowca, lecz potężnej **Miedzianej Smoczycy** [[Ventis]], której łuski lśniły w mroku otchłani.
 
@@ -23,7 +25,8 @@ W ferworze walki, gdy **[[Orestes]]** zmagał się w zwarciu, odmawiając umiera
 
 ### Zaproszenie i Niespełniona Przysługa
 
-![Meeting with Warden](../assets/sessions/069/069_warden_negotiation_final.png)
+![Spotkanie z Zarządcą](../assets/sessions/069/069_warden_negotiation_final.png)
+[Prompt](../assets/sessions/069/069_warden_negotiation_final.txt)
 
 Gdy kurz bitewny opadł, **[[Lutheria]]** zwróciła się do bohaterów z uznaniem. "Wspaniałe widowisko, wybrańcy" – rzekła, po czym ponowiła swoje zaproszenie na pokład **[[Hypnos|Hypnosa]]**, swego osobistego okrętu, który cumował przy ujściu rzeki [[Lethe]]. Obiecała rozmowę i bezpieczeństwo pod *Prawem Gościnności*, po czym zniknęła, pozostawiając ich sam na sam z **[[The Warden|Zarządcą]]**.
 
@@ -33,7 +36,8 @@ W międzyczasie dokonano małego "retconu" wydarzeń z pokonania **[[Talieus|Tal
 
 ### Narada na Ultrosie
 
-![Ultros Briefing](../assets/sessions/069/069_ultros_briefing.png)
+![Narada na Ultrosie](../assets/sessions/069/069_ultros_briefing.png)
+[Prompt](../assets/sessions/069/069_ultros_briefing.txt)
 
 Gdy **[[Ultros]]** płynął ku swojemu przeznaczeniu, **[[Kyrah]]** zebrała drużynę. Bogini, wyraźnie zaniepokojona nadchodzącym spotkaniem, zapytała każdego z osobna o ich cele podczas audiencji u Pani Snów. Jej pytania miały zmusić bohaterów do refleksji nad stawką tej gry.
 
@@ -47,7 +51,8 @@ Rozmowa zeszła również na temat tego, co mogą zaoferować w zamian. Drużyna
 
 ### Ogród Rozkoszy i Mąk
 
-![Hypnos Ship](../assets/sessions/069/069_hypnos_ship.png)
+![Statek Hypnos](../assets/sessions/069/069_hypnos_ship.png)
+[Prompt](../assets/sessions/069/069_hypnos_ship.txt)
 
 [[Ultros]] pożeglował w kierunku ujścia rzeki [[Lethe]], gdzie na czarnych wodach unosił się **[[Hypnos]]**. Statek Lutherii okazał się być pływającym ogrodem – gigantyczną konstrukcją z brązu, porośniętą bujną, choć niepokojącą roślinnością. Na pokładzie powitała ich **[[Kalisto]]**, kapłanka Lutherii, oferując owoce i wino na przypieczętowanie *Prawa Gościnności*. Bohaterowie, pomni ostrzeżeń, spożyli posiłek z ostrożnością. **[[Orion Xul|Orion]]**, zgodnie ze starym zwyczajem, ulał nieco wina na pokład dla Pani Domu – w miejscu, gdzie krople spadły na deski, natychmiast wyrosły piękne, lecz drapieżne kwiaty.
 
@@ -55,7 +60,8 @@ Wnętrze okrętu przypominało koszmarnego snu szaleńca. Ogród pełen był ro�
 
 ### Sala Wróżenia
 
-![Divination Room](../assets/sessions/069/069_divination_room.png)
+![Sala Wróżenia](../assets/sessions/069/069_divination_room.png)
+[Prompt](../assets/sessions/069/069_divination_room.txt)
 
 **[[Kalisto]]** poprowadziła gości do Sali Wróżenia – pomieszczenia wyłożonego lustrami i kryształami, które pełniło funkcję oczu i uszu Lutherii. To tutaj Pani Snów obserwowała wydarzenia na świecie.
 
