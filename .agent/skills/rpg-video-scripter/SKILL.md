@@ -13,10 +13,15 @@ Use this skill to create a video script file with prompts for Google Veo, based 
     *   Session Recap file (markdown).
     *   List of "Key Events" (or select top 3-6 dramatic moments).
 
-2.  **Pre-Generation (CRITICAL):**
-    *   **Read entity files**: For EVERY character that will appear in the prompts, read their wiki file and extract the `image_prompt` field from frontmatter.
-    *   **Copy verbatim**: Do NOT summarize or shorten these descriptions. Use them exactly as written.
-    *   **No proper names**: The video generator does not know who "Versir" or "Felicjan" is. Replace all names with their full visual descriptions.
+2.  **Prompt Generation (DELEGATED):**
+    *   **Use `rpg-illustrator` Skill**: PROMPT GENERATION IS NOW CENTRALIZED.
+    *   **Action**: For every scene, you MUST call the `rpg-illustrator` skill in **"Prompt Generation" Mode**.
+    *   **Input**: Provide a description of the scene/event to the skill.
+    *   **Output**: The skill will return a fully refined prompt with:
+        *   NO proper names (replaced with full physical descriptions).
+        *   Consistent art style.
+        *   Verbatim `image_prompt` inclusion.
+    *   **Do NOT** manually reconstruct character descriptions or styles here. Trust the `rpg-illustrator` output.
 
 3.  **Select Art Style (CONSISTENCY REQUIRED):**
     *   **Choose ONE art style** for the entire script. All scenes MUST use the same style.
@@ -54,7 +59,5 @@ Use this skill to create a video script file with prompts for Google Veo, based 
         ```
     *   **Constraint**: Do NOT generate actual images or videos. Text only.
 
-## Example Character Description (DO NOT SHORTEN):
-Instead of: "a pale young man in a dark jacket"
-Use: "young adult male with a dark fantasy aesthetic, slender build, pale alabaster skin, short blonde hair styled in a messy quiff, face defined by a strong jawline, high cheekbones, and piercing cyan eyes, often held in a confident smirk, large jagged scar runs along the side of his neck and jaw, wearing a dark blue high-collared jacket and a single black leather glove"
+
 
