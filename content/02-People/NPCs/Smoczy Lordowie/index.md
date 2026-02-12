@@ -20,7 +20,6 @@ title: Smoczy Lordowie
 - [[Hezzebal]]
 - [[Isadore Huorath]]
 - [[Jasena Ventrak]]
-- [[Karpathos Aresianos]]
 - [[Myrto Wspaniały]]
 - [[Nicholas Phobas]]
 - [[Nikandros Caliros]]
@@ -33,3 +32,4 @@ title: Smoczy Lordowie
 - [[Tysophale]]
 - [[Xander|Xander Huorath]]
 - [[Zarmulax]]
+- [[Karpathos]]

@@ -1,5 +1,5 @@
 ---
-title: Items And Loot
+title: Przedmioty i Łupy
 ---
 
 - [[Antikythera]]

@@ -3,7 +3,7 @@ title: "Sesja 68: Arena Krzywoprzysięstwa"
 transcript_txt: "[Transkrypt (txt)](../assets/sessions/068/transcript.txt)"
 transcript_json: "[Transkrypt (json)](../assets/sessions/068/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/068/chat_log.json)"
-video_script: "[Skrypt wideo](../assets/sessions/068/video_script.md)"
+video_script: "[Skrypt wideo](../assets/sessions/068/video_script.txt)"
 ---
 **Data**: 02.02.2026
 

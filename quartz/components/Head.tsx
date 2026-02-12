@@ -4,13 +4,12 @@ import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/re
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
-import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
     fileData,
     externalResources,
-    ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
     const title =
@@ -25,16 +24,35 @@ export default (() => {
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, "static/icon.png")
+    const iconPath = joinSegments(baseDir, "static/icon.svg")
 
     // Url of current page
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
-    const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
-      (e) => e.name === CustomOgImagesEmitterName,
-    )
+
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    
+    // Attempt to find the first image in the file content if no socialImage is specified
+    let socialImage = fileData.frontmatter?.socialImage
+    if (!socialImage) {
+      const imageRegex = /!\[.*?\]\((.*?)\)|<img.*?src=["'](.*?)["']/
+      const match = fileData.text?.match(imageRegex)
+      if (match) {
+        socialImage = match[1] || match[2]
+        // Resolve relative paths if necessary (though socialImage usually expects absolute or fully qualified or processed)
+        // For Quartz, we might need to handle checking if it's an internal link matching pattern or external.
+        // If it is a local path, we might need to prefix it.
+        // But for now let's just grab the URL.
+        if (!socialImage.startsWith("http") && !socialImage.startsWith("/")) {
+             socialImage = joinSegments(`https://${cfg.baseUrl}`, socialImage)
+        } else if (socialImage.startsWith("/")) {
+             socialImage = joinSegments(`https://${cfg.baseUrl}`, socialImage)
+        }
+      }
+    }
+
+    const effectiveImage = socialImage || ogImageDefaultPath
 
     return (
       <head>
@@ -62,17 +80,15 @@ export default (() => {
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
 
-        {!usesCustomOgImage && (
           <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
+            <meta property="og:image" content={effectiveImage} />
+            <meta property="og:image:url" content={effectiveImage} />
+            <meta name="twitter:image" content={effectiveImage} />
             <meta
               property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+              content={`image/${getFileExtension(effectiveImage) ?? "png"}`}
             />
           </>
-        )}
 
         {cfg.baseUrl && (
           <>

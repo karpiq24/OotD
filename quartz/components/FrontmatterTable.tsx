@@ -150,18 +150,18 @@ export default ((opts?: Partial<FrontmatterTableOptions>) => {
 
     return (
       <div class={classNames(displayClass, "frontmatter-table")}>
-        <h3>{options.title}</h3>
-        <div class="frontmatter-content">
+        {options.title && <h3>{options.title}</h3>}
+        <ul class="frontmatter-list">
           {displayableFields.map(([key, value]) => {
             const formattedValue = formatFieldValue(value)
             return (
-              <div class="frontmatter-field" key={key}>
-                <div class="field-label">{formatFieldName(key)}</div>
-                <div class="field-value">{formattedValue}</div>
-              </div>
+              <li class="frontmatter-entry" key={key}>
+                <span class="field-label">{formatFieldName(key)}</span>:{" "}
+                <span class="field-value">{formattedValue}</span>
+              </li>
             )
           })}
-        </div>
+        </ul>
       </div>
     )
   }

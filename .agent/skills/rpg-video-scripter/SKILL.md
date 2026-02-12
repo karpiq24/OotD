@@ -45,7 +45,7 @@ Use this skill to create a video script file with prompts for Google Veo, based 
         - **DURATION**: Do NOT include specific durations (e.g., "10 seconds") in the prompt text.
 
 5.  **Output:**
-    *   Create a file: `content/assets/sessions/{000}/video_script.md` (where `{000}` is the 3-digit session number).
+    *   Create a file: `content/assets/sessions/{000}/video_script.txt` (where `{000}` is the 3-digit session number).
     *   Format:
         ```markdown
         # Video Script: Sesja {number}

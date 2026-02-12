@@ -5,6 +5,17 @@ import re
 ROOT_DIR = 'content'
 EXCLUDED_DIR = 'assets'
 
+ROOT_DESCRIPTIONS = {
+    "01-Sessions": ("Sesje", "Logi z naszych przygód w Thylei."),
+    "02-People": ("Frakcje, bohaterowie i postacie niezależne", "Kluczowe postacie i organizacje."),
+    "03-Locations": ("Miejsca", "Geografia i ważne lokacje."),
+    "04-Items-and-Loot": ("Przedmioty i Łupy", "Magiczne artefakty i zdobyte skarby."),
+    "05-Lore": ("Wiedza o Świecie", "Historia, mitologia i kultura Thylei."),
+    "06-Rules": ("Zasady", "Mechanika gry i zasady domowe."),
+    "07-Handouts": ("Materiały Pomocnicze", "Mapy, listy i inne pomoce."),
+    "Timeline": ("Oś Czasu", "Chronologiczny zapis wydarzeń."),
+}
+
 def natural_sort_key(s):
     """
     Returns a key for natural sorting (e.g. "Sesja 2" < "Sesja 10").
@@ -74,6 +85,38 @@ def generate_list_content(items):
              lines.append(f"- [[{link_target}]]")
         else:
              lines.append(f"- [[{link_target}|{display_text}]]")
+    return "\n".join(lines)
+
+def generate_root_content(items):
+    """
+    Generates rich content for the root index page.
+    items: list of tuples (link_target, display_title)
+    """
+    lines = []
+    for link_target, display_text in items:
+        # Check if we have a description for this item
+        # link_target might be "01-Sessions" or "Timeline"
+        key = link_target
+        if key in ROOT_DESCRIPTIONS:
+            title, desc = ROOT_DESCRIPTIONS[key]
+            # Use the title from our dictionary to ensure it matches
+            display_text = title
+        else:
+            desc = ""
+        
+        # Format: ### 📜 [[Target|Title]]
+        #         Description
+        
+        # Choose an icon based on the folder maybe? Or just generic.
+        # Let's keep it simple for now or random icons if user wanted "pretty".
+        # User asked for "headers and descriptions".
+        
+        lines.append(f"### [[{link_target}|{display_text}]]")
+        if desc:
+            lines.append(f"{desc}\n")
+        else:
+            lines.append("")
+            
     return "\n".join(lines)
 
 def create_new_index_file(output_path, title, list_content):
@@ -168,6 +211,58 @@ def update_existing_index_file(output_path, current_items):
         f.write(new_content)
     print(f"Updated: {output_path}")
 
+def update_root_index_file(output_path, current_items):
+    """
+    Special handler for root index to ensure rich content is preserved/updated.
+    We just overwrite the body part after frontmatter because we control the structure.
+    """
+    try:
+        with open(output_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+    except Exception:
+        return
+
+    # Extract frontmatter
+    fm_match = re.match(r'^(---\s*\n.*?\n---)', content, re.DOTALL | re.MULTILINE)
+    if fm_match:
+        frontmatter = fm_match.group(1)
+    else:
+        # If no frontmatter, create default
+        frontmatter = "---\ntitle: Strona główna\n---"
+
+    # Generate new body
+    # Sort items based on our preferred order if needed, or just natural sort
+    # Actually, specific order might be better for Home Page.
+    # Let's use the order predefined in ROOT_DESCRIPTIONS keys if possible, then others.
+    
+    ordered_items = []
+    # 1. Add items present in ROOT_DESCRIPTIONS in order
+    for key in ROOT_DESCRIPTIONS:
+        # Find if this key exists in current_items
+        found = next((item for item in current_items if item[0] == key), None)
+        if found:
+            ordered_items.append(found)
+            
+    # 2. Add remaining items
+    seen_keys = set(ROOT_DESCRIPTIONS.keys())
+    remaining = [item for item in current_items if item[0] not in seen_keys]
+    remaining.sort(key=lambda x: natural_sort_key(x[0]))
+    ordered_items.extend(remaining)
+    
+    body = generate_root_content(ordered_items)
+    
+    # Add banner image if configured
+    banner_markdown = ""
+    # We assume the script is run from project root, so we check if the file exists
+    if os.path.exists(os.path.join(ROOT_DIR, EXCLUDED_DIR, "ootd_background.png")):
+         banner_markdown = f"![Banner]({EXCLUDED_DIR}/ootd_background.png)\n\n"
+
+    new_content = f"{frontmatter}\n\n{banner_markdown}{body}\n"
+    
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    print(f"Updated Root: {output_path}")
+
 def process_directory(current_path, dirs, files):
     output_file = os.path.join(current_path, 'index.md')
     folder_name = os.path.basename(current_path)
@@ -221,11 +316,19 @@ def process_directory(current_path, dirs, files):
     link_data.sort(key=lambda x: natural_sort_key(x[0]))
     
     # Generate the bullet points string (fallback/new file)
-    list_content = generate_list_content(link_data)
+    # Generate the bullet points string (fallback/new file)
+    if not rel_path:
+        # Root directory - specific formatting
+        list_content = generate_root_content(link_data)
+    else:
+        list_content = generate_list_content(link_data)
 
     # --- 2. Write File ---
     if os.path.exists(output_file):
-        update_existing_index_file(output_file, link_data)
+        if not rel_path:
+             update_root_index_file(output_file, link_data)
+        else:
+             update_existing_index_file(output_file, link_data)
     else:
         # New file: Generate Title from folder name
         title = get_clean_folder_title(folder_name)

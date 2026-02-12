@@ -1,5 +1,5 @@
 ---
-title: Handouts
+title: Materiały Pomocnicze
 ---
 
 - [[07-Handouts/00 Legendy i Mity|Legendy I Mity]]
