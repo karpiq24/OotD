@@ -1,5 +1,5 @@
 ---
-title: "Sesja 69: Symfonia Zemsty i Ogród Lutherii"
+title: "Sesja 69: Ogród Lutherii"
 transcript_txt: "[Transkrypt (txt)](../assets/sessions/069/transcript.txt)"
 transcript_json: "[Transkrypt (json)](../assets/sessions/069/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/069/chat_log.json)"
