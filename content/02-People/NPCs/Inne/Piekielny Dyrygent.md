@@ -7,9 +7,9 @@ title: Piekielny Dyrygent
 _Dyrygent Orkiestry Dusz_
 
 ## Opis
-Postać w obsydianowej zbroi, dosiadająca płonącego koszmara (Nightmare). Kierował orkiestrą złożoną z dusz potępieńców w surrealistycznej katedrę wewnątrz wulkanu Typhon.
+Postać w obsydianowej zbroi, dosiadająca płonącego koszmara (Nightmare). Kierował orkiestrą złożoną z dusz potępieńców w surrealistycznej katedrze wewnątrz wulkanu Typhon.
 
 ## Historia
 W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] zaatakował bohaterów po tym, jak [[Orestes]] próbował dołączyć do symfonii na swoich dudach. Potrafił przenosić się do Planu Eterycznego. Został pokonany przez [[Orestes|Orestesa]] (który zrzucił go z siodła) i [[Orion Xul|Oriona]] (który przebił go włócznią). Po jego śmierci iluzja katedry zniknęła.
 
-Powrócił w [[Sesja 69 - Symfonia Zemsty i Ogród Lutherii]] na arenie [[Wyspa Krzywoprzysięstwa|Wyspy Krzywoprzysięstwa]], tym razem dosiadając miedzianej smoczycy [[Ventis]]. Ponownie został pokonany przez [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].
+Powrócił w [[Sesja 69 - Ogród Lutherii]] na arenie [[Wyspa Krzywoprzysięstwa|Wyspy Krzywoprzysięstwa]], tym razem dosiadając miedzianej smoczycy [[Ventis]]. Ponownie został pokonany przez [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].
