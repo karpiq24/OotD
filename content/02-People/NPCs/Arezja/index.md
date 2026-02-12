@@ -9,7 +9,6 @@ title: Arezja
 - [[Halius]]
 - [[Hiero]]
 - [[Jocasta]]
-- [[Karpathos]]
 - [[Keteus]]
 - [[Królowa Helena]]
 - [[Laertes]]

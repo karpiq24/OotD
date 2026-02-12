@@ -1,5 +1,5 @@
 ---
-title: Lore
+title: Wiedza o Świecie
 ---
 
 - [[Epickie Ścieżki]]
