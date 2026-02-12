@@ -41,6 +41,7 @@ Use this skill to create a video script file with prompts for Google Veo, based 
         - Describes the **ACTION** that transforms the scene from Start Frame to end state.
         - Create a cinematic prompt (e.g., "Cinematic wide shot of [FULL Description] [Action]...").
         - **TRANSITIONS (CRITICAL)**: **NEVER use "cut to"**. The camera must **transition smoothly** (pan, tilt, zoom, dolly, track) between subjects or angles. The video is a continuous shot.
+        - **SUBJECT ISOLATION**: Do NOT reference other characters if they are not the focus of the specific clip (e.g., avoid "looks at [Name]"). Instead use "looks off-screen", "looks forward", or "addresses the room". Mentioning others causes the model to hallucinate them into the frame.
         - **DURATION**: Do NOT include specific durations (e.g., "10 seconds") in the prompt text.
 
 5.  **Output:**
