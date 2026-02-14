@@ -38,17 +38,15 @@ def get_clean_folder_title(folder_name):
     # Capitalize words
     return name.title()
 
-def extract_title(file_path):
+def extract_file_data(file_path):
     """
-    Reads a markdown file and extracts the title from frontmatter only.
-    Returns the title string if found, otherwise None.
-    Uses utf-8-sig to handle BOM and reads safely.
-    
-    Note: We no longer use H1 headers as fallback since Quartz renders
-    the frontmatter title and we've removed duplicate H1s.
+    Reads a markdown file and extracts metadata from frontmatter.
+    Returns a tuple (title, is_draft).
+    title: str or None
+    is_draft: bool
     """
     if not os.path.exists(file_path):
-        return None
+        return None, False
 
     try:
         # Use utf-8-sig to automatically handle BOM if present
@@ -60,17 +58,27 @@ def extract_title(file_path):
         fm_match = re.match(r'^---\s*\n(.*?)\n---', content, re.DOTALL | re.MULTILINE)
         if fm_match:
             frontmatter = fm_match.group(1)
+            
+            title = None
+            is_draft = False
+            
             # Find the title line (case insensitive key search)
             title_match = re.search(r'^title:\s*(.*)$', frontmatter, re.MULTILINE | re.IGNORECASE)
             if title_match:
-                # Return the title, stripping quotes and spaces
-                return title_match.group(1).strip().strip('"').strip("'")
+                title = title_match.group(1).strip().strip('"').strip("'")
+            
+            # Find draft status
+            draft_match = re.search(r'^draft:\s*(true|yes|on|1)\s*$', frontmatter, re.MULTILINE | re.IGNORECASE)
+            if draft_match:
+                is_draft = True
+                
+            return title, is_draft
 
     except Exception as e:
         # Silently fail on read errors (binary files etc)
         pass
         
-    return None
+    return None, False
 
 def generate_list_content(items):
     """
@@ -277,7 +285,7 @@ def process_directory(current_path, dirs, files):
     
     # Subdirectories - use full path from content root
     for d in dirs:
-        if d == EXCLUDED_DIR:
+        if d == EXCLUDED_DIR or d == '99-DM-Corner':
             continue
         
         subdir_path = os.path.join(current_path, d)
@@ -290,7 +298,12 @@ def process_directory(current_path, dirs, files):
             link_path = d
         
         # Try to get title from subdir/index.md, else guess
-        subdir_title = extract_title(subdir_index)
+        subdir_title, subdir_is_draft = extract_file_data(subdir_index)
+        
+        # Skip if directory index is marked as draft
+        if subdir_is_draft:
+            continue
+
         if not subdir_title:
             subdir_title = get_clean_folder_title(d)
             
@@ -304,7 +317,11 @@ def process_directory(current_path, dirs, files):
             filename_no_ext = f[:-3]
             
             # Get title from file
-            file_title = extract_title(file_path)
+            file_title, file_is_draft = extract_file_data(file_path)
+            
+            # Skip draft files
+            if file_is_draft:
+                continue
             
             # Fallback to filename if no title in frontmatter
             if not file_title:
@@ -342,6 +359,8 @@ def main():
     for root, dirs, files in os.walk(ROOT_DIR):
         if EXCLUDED_DIR in dirs:
             dirs.remove(EXCLUDED_DIR)
+        if '99-DM-Corner' in dirs:
+            dirs.remove('99-DM-Corner')
         process_directory(root, dirs, files)
 
 if __name__ == "__main__":

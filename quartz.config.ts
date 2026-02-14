@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "pl-PL",
     baseUrl: "karpiq24.github.io/OotD",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "99-DM-Corner"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
