@@ -12,20 +12,9 @@ title: "Towarzysze"
 
 ## **Pholon**
 
-*   **Description:** A boisterous and good-natured centaur from the cursed tribes of Scorpion Island. Pholon left his home seeking a rider to bond with and escape his grim fate. Having found a new "tribe" among the crew of the Ultros, his boisterous humor and love for strong ale have made him a beloved, if unpredictable, fixture on the ship.
+*   **Description:** A boisterous and good-natured centaur from the cursed tribes of Scorpion Island. Once known for his love of ale, Pholon has recently acquired a terrifying new weapon—a massive Cannonlance—making him a heavy hitter on the battlefield. While he still loves a good party, he now brings heavy artillery to the fight, eager to test his explosive new toy in defense of his rider.
 
-*   **Toss me a beer! (Reaction):** You can use your reaction to call on Pholon to toss you a tankard of ale. You catch the tankard and quickly down the brew, gaining one of the following effects (determined randomly by rolling a d10):
-
-    1.  **Flat Brew:** Your next attack roll is made with disadvantage. _("Uh oh, bad batch!")_
-    2.  **Prophet's Porter:** You gain advantage on your next attack roll, ability check, or saving throw. _("This ale unlocks the secrets of the universe... or at least my next move!")_
-    3.  **Frothy Fortitude:** You gain resistance to all damage until the start of your next turn. _("This stuff could make a gnome withstand a dragon's sneeze!")_
-    4.  **Phantom Pilsner:** You briefly flicker with illusory magic, creating two duplicates of yourself that last for one minute. These duplicates function as those created by the _mirror image_ spell. _("Whoa, did I have this much to drink already?")_
-    5.  **Yeasty Evasion:** You can immediately move up to half your speed without provoking attacks of opportunity. _("Like a greased piglet, I'm outta here!")_
-    6.  **Malty Resilience:** You gain 2d6 temporary hit points. _("Feels like I could wrestle an owlbear... maybe.")_
-    7.  **Stout Stomp:** Your next weapon or spell attack deals an extra 2d6 force damage. _("Feel the power coursing through my belly!")_
-    8.  **Hoppy Reflexes:** You gain a +2 bonus to your AC until the start of your next turn. _("Can't touch this!")_
-    9.  **Foaming Fury:** You can immediately make one weapon attack. _("Grrr! Ale-fueled rage!")_
-    10. **Lucky Lager:** Your next attack roll is an automatic critical hit! (_"That's the good stuff!")_
+*   **Point-Blank Blast (Reaction):** When a creature makes a melee attack against you, you can call on Pholon to intercept with a thunderous point-blank shot. The attacker immediately takes **3d6 piercing damage** and the triggering attack is made with **disadvantage**. Additionally, the attacker must make a DC 15 Strength saving throw. On a failed save, the blast knocks the enemy back; the attack **automatically misses**, and the creature is pushed 10 feet away from you. _("Personal space, buddy! Eat lead!")_
 
 ## **Corinna**
 
