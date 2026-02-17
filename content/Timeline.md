@@ -391,3 +391,13 @@
 * Odkrycie groteskowych "dzieł sztuki" Lutherii przedstawiających kanibalizm i rozpustę.
 * Użycie Sali Wróżenia do podglądania floty inwazyjnej **[[Sydon|Sydona]]**.
 
+## Sesja 70 - Audiencja u Pani Snów (16.02.2026)
+* Zwiedzanie okrętu [[Hypnos|Hypnosa]] i spotkanie z [[Furie|Furiami]].
+* Ostateczna, nieodwracalna śmierć [[Estor Arkelander|Estora Arkelandera]] z rąk [[Lutheria|Lutherii]].
+* Audiencja u Pani Snów i poznanie sekretu [[Praxys]] (gwiazda i [[Hergeron]]).
+* Odrzucenie paktu [[Lutheria|Lutherii]] i pozostawienie [[Chondrus|Chondrusa]] na jej łasce.
+* Przybycie [[Volkan|Volkana]] na morze i przekazanie [[Titansbane]] oraz innych darów.
+* Wizja [[Arevon Elorrenthi|Arevona]] o upadku [[Praxys]] i śmierci Telamoka.
+* Opracowanie planu infiltracji wieży [[Sydon|Sydona]] pod postacią wiatru.
+
+
