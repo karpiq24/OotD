@@ -28,27 +28,45 @@ This skill accepts the following parameters:
     2.  **Fallback**: If no `image_prompt`, read the entity's file (bio/description) and synthesize a **detailed** physical description including: race, build, facial features, hair color/style, eye color, clothing, armor, weapons, accessories, and any distinguishing marks.
     3.  **Last Resort**: Generate a detailed description based on context, but include at least 5 specific visual attributes.
 
-#### Example - WRONG vs CORRECT:
-- ❌ WRONG: "a human wizard", "an aasimar paladin"
-- ✅ CORRECT: "a young adult male human wizard with a lean, rugged build...", "a pale male with blonde hair and piercing cyan eyes..."
+### 2. Prompt Construction & Style
+**The prompt must be long and detailed.**
 
-### 2.1. Forbidden Terms
-- **Do NOT use**: "Aasimar", "Tiefling", "Genasi", or other D&D-specific race names that models might misconstrue.
-- **Instead**: Describe the visual traits (e.g., "pale skin, glowing eyes" instead of "Aasimar").
+#### Structure
+Follow this structure for complex scenes with multiple characters:
 
-#### Quick Reference - Main PCs:
-Before generating any prompt with PCs, **READ** their entity files and copy the `image_prompt` field exactly.
+```
+[General Scene Description: Action, Atmosphere, Lighting]
 
-### 2. Visual Styles
-- **Requirement**: Use a defined art style for every image.
+[Character 1 Description (No Name)]
+[Character 2 Description (No Name)]
+...
+
+[Background/Environment/Secondary Elements]
+
+[Style/Quality Tags]
+```
+
+#### Example of a High-Quality Prompt
+```
+A chaotic battle scene. In the center, a massive ancient copper dragon with metallic scales and bat-like wings roars, ridden by a spectral figure in obsidian armor conducting with a baton. Facing them are five heroes:
+1. young adult male elf with a slender build. He has an angular face with high cheekbones, a sharp jawline, intense dark eyes, and long pointed ears. His shoulder-length, wavy dark brown hair frames his face. He wears layered brown leather armor with intricate silver filigree details over a dark, high-collared tunic. He is equipped with black fingerless leather gloves, an ornate silver pendant with a large cracked dark gemstone, and a single silver diamond-shaped earring.
+2. young adult male human wizard with a lean, rugged build. He has intense blue-grey eyes, a strong jawline, a weathered complexion, and a prominent scar across his right cheek. His short, messy dark brown hair is complemented by a full dark brown beard. He wears layered medieval clothing, a rust-brown hooded tunic over a coarse off-white linen shirt, with a thick brown leather shoulder strap and buckle. Two bronze circular geometric star emblems are visible on his chest.
+3. powerful male minotaur with a muscular build, broad shoulders, and brown fur. His bovine head features large, curved dark grey horns, piercing glowing blue eyes, and a bull snout. He has stylish, thick blonde hair swept back and a well-groomed blonde fur beard. He is dressed in a draped white toga with an ornate red sash featuring carved patterns and a textured grey shoulder strap.
+4. male fantasy warrior with an athletic build and elven features. He wears highly ornate golden plate armor with intricate filigree in a Greco-Roman spartan style. His head is covered by a full golden Corinthian helmet with a large yellow and black plume, from which his glowing orange eyes peer out. He wears a dark blue cloth hood and cape over layered golden pauldrons. His attire is completed by a leather belt with multiple pouches, a gold ornamental bird-head buckle, a blue loincloth with white embroidered patterns, a quiver of arrows, and a round wooden shield.
+5. young adult male with a dark fantasy aesthetic. He has a slender build, pale alabaster skin, and short blonde hair styled in a messy quiff. His face is defined by a strong jawline, high cheekbones, and piercing cyan eyes, often held in a confident smirk. large, jagged scar runs along the side of his neck and jaw. He wears a dark blue or black high-collared jacket and a single black leather glove.
+
+In the background, a powerful lizardfolk with a lightning staff and a medusa archer can be seen. The background is filled with cheering spectral spectators. Dramatic lighting, magical effects, intense action. High quality digital fantasy art.
+```
+
+### 3. Visual Styles
 - **Allowed Styles**: *High quality digital fantasy art, Dark Fantasy Oil Painting (Frazetta style), Watercolor and Ink, Vibrant Comic Book Style, Stained Glass illustration, Woodcut print, Tarot Card aesthetic, Abstract Ethereal Concept Art, 80s Dark Fantasy Anime, Nouveau Art Style.*
-- **Variation**:
-    - **Session Recap**: Vary the style between images to keep it visually interesting.
-    - **Video/Single**: Stick to the style requested by the caller, or default to *High quality digital fantasy art*.
 
-### 3. Prompt Structure
-Every prompt must follow this structure:
-`[Detailed Subject Description (No Names)] [Action/Pose]. [Detailed Environment/Setting]. [Lighting/Atmosphere]. [Art Style].`
+### 4. Character Inclusion & Context (CRITICAL)
+- **Do NOT Include Everyone**: Only include characters that are *essential* to the specific scene. If a scene focuses on 2 characters, do not list all 5 party members just because they exist.
+- **Mandatory Context**: If you include a character, you **MUST** specify where they are and what they are doing in the scene.
+    - ❌ WRONG: `1. hero (Versir): [description]`
+    - ✅ CORRECT: `1. hero (Versir): kneeling on the floor, screaming in anger. [description]`
+    - ✅ CORRECT: `2. hero (Felicjan): standing in the background, observing silently with crossed arms. [description]`
 
 ---
 
@@ -71,7 +89,7 @@ Every prompt must follow this structure:
         ```
     -   **Alt Text**: Use a short, readable description in **Polish** (e.g., "Bitwa na Arenie", "Spotkanie z Zarządcą"). Do NOT put the full prompt here.
     -   **Path**: Use `../assets/sessions/{000}/` relative path.
-5.  **Generate Images**:
+6.  **Generate Images**:
     -   Call `generate_image` for each prompt.
     -   **Target File**: `content/assets/sessions/{000}/{filename}.png` (Ensure it matches the link).
     -   **Error Handling**: If generation fails, do NOT revert the markdown. The placeholders are valuable.
@@ -79,12 +97,12 @@ Every prompt must follow this structure:
 ## Workflow 2: Single Image Mode
 **Input**: `Input Data` = Description string.
 
-1.  **Refine Prompt**: Apply Core Logic (No Names -> `image_prompt` or bio, added Style, detailed setting).
+1.  **Refine Prompt**: Apply Core Logic (No Names -> `image_prompt` or bio, added Style, detailed setting, SOTA structure).
 2.  **Generate Image**: Call `generate_image`.
 3.  **Result**: Return the path to the generated image.
 
 ## Workflow 3: Prompt Generation Mode
 **Input**: `Input Data` = Description description.
 
-1.  **Refine Prompt**: Apply Core Logic (No Names -> `image_prompt` or bio, detailed setting).
+1.  **Refine Prompt**: Apply Core Logic (No Names -> `image_prompt` or bio, detailed setting, SOTA structure).
 2.  **Result**: Return the **Refined Text Prompt** only.

@@ -1,10 +1,10 @@
 ---
-description: Generates a session recap, images, and video prompts from a transcript. Includes a mandatory manual review step.
+description: Generates a session recap draft from a transcript (Part 1 of 2).
 ---
 
-# Generate Session Recap Workflow
+# Generate Session Recap Draft Workflow
 
-This workflow processes a raw transcript into a fully formatted, illustrated markdown recap.
+This workflow processes a raw transcript into a markdown draft.
 
 ## Step 1: Initialization
 1.  Ask the user for the `session_number`.
@@ -25,7 +25,7 @@ This workflow processes a raw transcript into a fully formatted, illustrated mar
 2.  **Scan** the transcript for proper names.
 3.  **Search** `content/02-People` and `content/03-Locations` for matching files.
 4.  **Read** matched files to build a "Context Buffer".
-5.  **Read** the last 3 session files in `content/01-Sessions/` to understand the current narrative arc.
+5.  **Read** at last 3 session files in `content/01-Sessions/` to understand the current narrative arc.
 
 ## Step 4: Draft Generation (Text Only)
 1.  **Activate** skill `rpg-summarizer`.
@@ -37,24 +37,5 @@ This workflow processes a raw transcript into a fully formatted, illustrated mar
     *   **NO** Images at this stage.
 3.  **Save** the draft to `content/01-Sessions/Sesja {number} - {Title}.md`.
 
-## Step 5: User Review (STOP)
-1.  **Notify User**: "Draft created at `content/01-Sessions/Sesja {number} - {Title}.md`. Please review and edit the text. Run this workflow again or confirm when ready to proceed to wikilinking and visuals."
-2.  **STOP EXECUTION**. Wait for user command to resume.
-
-## Step 6: Finalization (Wikilinks & Visuals)
-1.  **Read** the *User-Edited* file: `content/01-Sessions/Sesja {number} - {Title}.md`.
-2.  **Link Entities**:
-    *   Activate skill `rpg-wiki-manager`.
-    *   Search for entity names in the text.
-    *   Replace with `[[wikilinks]]`.
-    *   Save the file.
-3.  **Visuals**:
-    *   Activate skill `rpg-illustrator`.
-    *   Generate prompts (prioritizing `image_prompt` frontmatter from linked entities).
-    *   Generate Images -> Insert into file -> Move to `content/assets/sessions/{000}/`.
-4.  **Timeline**:
-    *   Activate skill `rpg-timeline-manager`.
-    *   Append Key Events to `content/Timeline.md`.
-5.  **Video Scripts**:
-    *   Activate skill `rpg-video-scripter`.
-    *   Generate video prompts to `content/06-Video-Scripts/`.
+## Step 5: Completion & Review Reminder
+1.  **Notify User**: "Draft created at `content/01-Sessions/Sesja {number} - {Title}.md`. Please review the text, make edits as needed, and then run `/finalize-session-recap` to generate wikilinks, images, and other assets."
