@@ -2,7 +2,7 @@
 title: Morze Otchłani
 ---
 
-- [[Hypnos|Hypnos, Tron Snów]]
+- [[Hypnos|Hypnos - Statek Lutherii]]
 - [[Lustrzane Więzienie]]
 - [[Morze Otchłani]]
 - [[Sześcian Więzienny]]
