@@ -2,8 +2,6 @@
 title: Strona główna
 ---
 
-![Banner](assets/ootd_background.webp)
-
 ### [[01-Sessions|Sesje]]
 Logi z naszych przygód w Thylei.
 
