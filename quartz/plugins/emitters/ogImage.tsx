@@ -148,48 +148,53 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
             let userDefinedOgImagePath = pageData.frontmatter?.socialImage
 
             if (userDefinedOgImagePath) {
-              userDefinedOgImagePath = isAbsoluteURL(userDefinedOgImagePath)
-                ? userDefinedOgImagePath
-                : `https://${baseUrl}/static/${userDefinedOgImagePath}`
-            } else {
-              // Attempt to find the first image in the file content
-              const imageRegex = /!\[.*?\]\((.*?)\)|<img.*?src=["'](.*?)["']|!\[\[(.*?)\]\]/
-              const match = pageData.text?.match(imageRegex)
-              if (match) {
-                let foundImage = match[1] || match[2] || match[3]
-                if (foundImage.includes("|")) {
-                  foundImage = foundImage.split("|")[0]
-                }
-                
-                if (!foundImage.startsWith("http") && !foundImage.startsWith("/")) {
-                  userDefinedOgImagePath = `https://${baseUrl}/${foundImage}`
-                } else if (foundImage.startsWith("/")) {
-                  userDefinedOgImagePath = `https://${baseUrl}${foundImage}`
-                } else {
-                  userDefinedOgImagePath = foundImage
-                }
+              if (isAbsoluteURL(userDefinedOgImagePath)) {
+                userDefinedOgImagePath = userDefinedOgImagePath
+              } else if (userDefinedOgImagePath.startsWith("/")) {
+                 userDefinedOgImagePath = `https://${baseUrl}${userDefinedOgImagePath}`
+              } else {
+                 // Handle relative paths
+                 const isRelative = userDefinedOgImagePath.startsWith("./") || userDefinedOgImagePath.startsWith("../")
+                 
+                 if (isRelative) {
+                     // Resolve relative path against the page slug
+                     let currentDirParts = pageData.slug!.split("/").slice(0, -1)
+                     const imageParts = userDefinedOgImagePath.split("/")
+                     
+                     for (const part of imageParts) {
+                         if (part === ".") continue
+                         if (part === "..") {
+                             currentDirParts.pop()
+                         } else {
+                             currentDirParts.push(part)
+                         }
+                     }
+                     
+                     const resolvedPath = currentDirParts.join("/")
+                     userDefinedOgImagePath = `https://${baseUrl}/${resolvedPath}`
+                 } else {
+                     // Default fallback behavior for non-relative paths (assume static)
+                     userDefinedOgImagePath = `https://${baseUrl}/static/${userDefinedOgImagePath}`
+                 }
               }
             }
 
             const generatedOgImagePath = isRealFile
               ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
-              : undefined
-            const defaultOgImagePath = `https://${baseUrl}/static/og-image.png`
-            const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath ?? defaultOgImagePath
-            const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
+              : `https://${baseUrl}/static/og-image.png`
+
+            const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath
+            const extension = userDefinedOgImagePath ? getFileExtension(userDefinedOgImagePath) : getFileExtension(generatedOgImagePath)
+            const ogImageMimeType = `image/${extension ?? "png"}`
+
             return (
               <>
-                {!userDefinedOgImagePath && (
-                  <>
-                    <meta property="og:image:width" content={fullOptions.width.toString()} />
-                    <meta property="og:image:height" content={fullOptions.height.toString()} />
-                  </>
-                )}
-
                 <meta property="og:image" content={ogImagePath} />
                 <meta property="og:image:url" content={ogImagePath} />
                 <meta name="twitter:image" content={ogImagePath} />
                 <meta property="og:image:type" content={ogImageMimeType} />
+                <meta property="og:image:width" content={fullOptions.width.toString()} />
+                <meta property="og:image:height" content={fullOptions.height.toString()} />
               </>
             )
           },
