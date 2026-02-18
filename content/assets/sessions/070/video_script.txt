@@ -1,0 +1,36 @@
+# Video Script: Sesja 70
+
+**Art Style**: Arcane animated series style by Fortiche, distinctive painterly textures, sharp brushstrokes, stylized realism, dramatic atmospheric lighting, high quality 3D render.
+
+## Scene 1: Air Rage
+**Start Frame Prompt**: Medium wide shot suspended in the air above the deck of the gargantuan ancient Greek trireme 'Ultros'. A magnificent copper automaton with clockwork wings, intricate mechanical details, and female features sculpted from metal (Keledon) is flying, carrying an elderly male dwarf (Volkan) in its arms. The dwarf has a stocky build, wrinkled face, intense blue eyes, a golden monocle, and an immense bushy black beard with a white mustache. He wears a heavy, ornate golden pauldron. Volkan looks furious, his face twisted in anger as he shouts. The background shows the blurred dark wood deck and massive purple sails of the ship below. Arcane animated series style by Fortiche, distinctive painterly textures, sharp brushstrokes, stylized realism, dramatic atmospheric lighting, high quality 3D render.
+
+**Video Prompt**: Cinematic shot. The automaton (Keledon) descends somewhat jerkily toward the ship. Volkan, dangling in its grip, flails his arms and screams at the machine with a thick dwarven accent: "Ty cholerna kupo żelastwa! Leć równo!" (You damn pile of scrap metal! Fly straight!). His beard whips violently in the wind as they plummet towards the deck. The camera tracks their turbulent descent.
+
+## Scene 2: The Shadowy Blade
+**Start Frame Prompt**: Medium shot on the vast dark wooden deck of the gargantuan Greek trireme 'Ultros', showing massive bronze fittings and thick rigging ropes in the background that emphasize the ship's enormous scale.
+1. elderly male dwarf, god of the forge, stocky build, wrinkled face, intense blue eyes, and an immense bushy black beard. He stands holding a long object wrapped in dark cloth that seems to absorb the sunlight.
+2. adult male with a dark fantasy aesthetic, pale alabaster skin, short blonde hair, piercing cyan eyes, and an ornate breastplate. He has one missing hand ending in a stump. He looks at the object with intense focus.
+
+The background shows the towering purple sails and the open sea. Arcane animated series style by Fortiche, distinctive painterly textures, sharp brushstrokes, stylized realism, dramatic atmospheric lighting, high quality 3D render.
+
+**Video Prompt**: Cinematic close up. The elderly dwarf unwraps the cloth to reveal a pitch-black longsword that emits not light, but faint, dark smoke and shadows, rendered with stylized painterly effects. He presents the hilt to the pale-skinned man. The man reaches out with his remaining gloved hand and grasps the sword. As he touches it, the shadows swirl around his arm like ink in water. The camera focuses on the contrast between the pale skin and the dark blade.
+
+## Scene 3: The Marble Figure
+**Start Frame Prompt**: Medium shot on the deck of the colossal trireme. The dark wood planking stretches out, with the base of a mast as thick as a tower visible.
+1. elderly male dwarf, god of the forge, stocky build, with a golden monocle and bushy beard. He holds a small, white marble statue of a man sitting in deep thought on a toilet, with realistic details. He looks amused.
+2. young adult male human wizard with a lean, rugged build, intense blue-grey eyes, a scar on his cheek, and a dark beard. He leans in, looking at the statue with curiosity and skeptical amusement.
+
+Soft, atmospheric lighting illuminating the ship's bronze details. Arcane animated series style by Fortiche, distinctive painterly textures, sharp brushstrokes, stylized realism, dramatic atmospheric lighting, high quality 3D render.
+
+**Video Prompt**: Cinematic close up. The dwarf places the small, intricately carved white marble figurine into the wizard's hand. The figurine depicts a human man sitting in a contemplative pose, chin on hand, seated on a toilet. The wizard takes it, lifting it to his eye level to examine the details. A smirk appears on his face as he recognizes the humor. The camera rotates slightly to show the figurine clearly with sharp, painterly textures.
+
+## Scene 4: A Toast to Battle
+**Start Frame Prompt**: Wide shot of the giant trireme's deck, showing the railing and the tops of the oars. The massive purple sails flap gently against the sky.
+1. elderly male dwarf, god of the forge, sitting on a large wooden crate, holding a large wooden tankard.
+2. powerful male minotaur with brown fur and blonde hair, wearing a white toga, sitting on a bench, holding a large tankard.
+3. male centaur, muscular and powerful build, ripped abs, lower body of a brown horse, shoulder-length wavy golden blonde hair, a full blonde beard and mustache, wearing a golden laurel wreath crown, bare-chested with a brown fur pelt draped over his shoulders, a heavy gold chain necklace with large circular medallions, a studded brown leather harness joining his human and horse halves.
+
+In the far background, out on the ocean, a massive sea serpent is locked in battle with a giant shark, creating huge waves and splashes. The foreground on the ship is calm. Arcane animated series style by Fortiche, distinctive painterly textures, sharp brushstrokes, stylized realism, dramatic atmospheric lighting, high quality 3D render.
+
+**Video Prompt**: Cinematic medium shot. With the epic, chaotic battle of the sea monsters raging in the distant background, the three companions in the foreground - the dwarf, the minotaur, and the centaur - clink their heavy wooden tankards together in a cheerful toast. Foam spills from the mugs. They tilt their heads back and drink deeply, laughing and pointing occasionally at the sea battle as if it were mere entertainment. Stylized visual effects for the splashing water and ale.

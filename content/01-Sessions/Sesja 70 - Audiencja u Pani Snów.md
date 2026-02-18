@@ -100,4 +100,4 @@ Drużyna opracowała plan infiltracji. Zamiast frontalnego ataku, postanowili wy
 * Kosa [[Lutheria|Lutherii]]
 
 ## Filmy
-<!-- Video placeholders or links if any -->
+![Dary Volkana](../assets/sessions/070/070_volkan.mp4)
