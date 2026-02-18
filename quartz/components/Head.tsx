@@ -31,15 +31,18 @@ export default (() => {
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
 
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
-    
     // Attempt to find the first image in the file content if no socialImage is specified
     let socialImage = fileData.frontmatter?.socialImage
     if (!socialImage) {
-      const imageRegex = /!\[.*?\]\((.*?)\)|<img.*?src=["'](.*?)["']/
+      const imageRegex = /!\[.*?\]\((.*?)\)|<img.*?src=["'](.*?)["']|!\[\[(.*?)\]\]/
       const match = fileData.text?.match(imageRegex)
       if (match) {
-        socialImage = match[1] || match[2]
+        socialImage = match[1] || match[2] || match[3]
+
+        if (socialImage.includes("|")) {
+          socialImage = socialImage.split("|")[0]
+        }
+
         // Resolve relative paths if necessary (though socialImage usually expects absolute or fully qualified or processed)
         // For Quartz, we might need to handle checking if it's an internal link matching pattern or external.
         // If it is a local path, we might need to prefix it.
@@ -52,7 +55,7 @@ export default (() => {
       }
     }
 
-    const effectiveImage = socialImage || ogImageDefaultPath
+    const effectiveImage = socialImage
 
     return (
       <head>
@@ -80,6 +83,7 @@ export default (() => {
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
 
+        {effectiveImage && (
           <>
             <meta property="og:image" content={effectiveImage} />
             <meta property="og:image:url" content={effectiveImage} />
@@ -89,6 +93,7 @@ export default (() => {
               content={`image/${getFileExtension(effectiveImage) ?? "png"}`}
             />
           </>
+        )}
 
         {cfg.baseUrl && (
           <>
