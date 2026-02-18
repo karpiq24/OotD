@@ -1,5 +1,5 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -30,33 +30,6 @@ export default (() => {
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
-
-    // Attempt to find the first image in the file content if no socialImage is specified
-    let socialImage = fileData.frontmatter?.socialImage
-    if (!socialImage) {
-      const imageRegex = /!\[.*?\]\((.*?)\)|<img.*?src=["'](.*?)["']|!\[\[(.*?)\]\]/
-      const match = fileData.text?.match(imageRegex)
-      if (match) {
-        socialImage = match[1] || match[2] || match[3]
-
-        if (socialImage.includes("|")) {
-          socialImage = socialImage.split("|")[0]
-        }
-
-        // Resolve relative paths if necessary (though socialImage usually expects absolute or fully qualified or processed)
-        // For Quartz, we might need to handle checking if it's an internal link matching pattern or external.
-        // If it is a local path, we might need to prefix it.
-        // But for now let's just grab the URL.
-        if (!socialImage.startsWith("http") && !socialImage.startsWith("/")) {
-             socialImage = joinSegments(`https://${cfg.baseUrl}`, socialImage)
-        } else if (socialImage.startsWith("/")) {
-             socialImage = joinSegments(`https://${cfg.baseUrl}`, socialImage)
-        }
-      }
-    }
-
-    const effectiveImage = socialImage
-
     return (
       <head>
         <title>{title}</title>
@@ -82,18 +55,6 @@ export default (() => {
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
-
-        {effectiveImage && (
-          <>
-            <meta property="og:image" content={effectiveImage} />
-            <meta property="og:image:url" content={effectiveImage} />
-            <meta name="twitter:image" content={effectiveImage} />
-            <meta
-              property="og:image:type"
-              content={`image/${getFileExtension(effectiveImage) ?? "png"}`}
-            />
-          </>
-        )}
 
         {cfg.baseUrl && (
           <>

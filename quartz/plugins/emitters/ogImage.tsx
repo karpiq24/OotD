@@ -151,6 +151,24 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
               userDefinedOgImagePath = isAbsoluteURL(userDefinedOgImagePath)
                 ? userDefinedOgImagePath
                 : `https://${baseUrl}/static/${userDefinedOgImagePath}`
+            } else {
+              // Attempt to find the first image in the file content
+              const imageRegex = /!\[.*?\]\((.*?)\)|<img.*?src=["'](.*?)["']|!\[\[(.*?)\]\]/
+              const match = pageData.text?.match(imageRegex)
+              if (match) {
+                let foundImage = match[1] || match[2] || match[3]
+                if (foundImage.includes("|")) {
+                  foundImage = foundImage.split("|")[0]
+                }
+                
+                if (!foundImage.startsWith("http") && !foundImage.startsWith("/")) {
+                  userDefinedOgImagePath = `https://${baseUrl}/${foundImage}`
+                } else if (foundImage.startsWith("/")) {
+                  userDefinedOgImagePath = `https://${baseUrl}${foundImage}`
+                } else {
+                  userDefinedOgImagePath = foundImage
+                }
+              }
             }
 
             const generatedOgImagePath = isRealFile
