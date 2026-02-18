@@ -2,7 +2,7 @@
 title: Talos
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Legendarny brązowy kolos strzegący Arezji._
 

@@ -2,7 +2,7 @@
 title: Narsus
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Bóg Piękna, Więzień Arezji_
 

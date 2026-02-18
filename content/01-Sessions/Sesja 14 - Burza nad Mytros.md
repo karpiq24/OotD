@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/014/chat_log.json)"
 ---
 **Data:** 20.05.2024
 
-![Kyrah przeciwko burzy](../assets/sessions/014/014_kyrah.png)
+![Kyrah przeciwko burzy](../assets/sessions/014/014_kyrah.webp)
 
 ## Podsumowanie
 

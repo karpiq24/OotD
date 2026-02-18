@@ -2,7 +2,7 @@
 title: Althaia
 ---
 
-![Świątynia i Althaia](../../assets/sessions/049/049_temple.jpg)
+![Świątynia i Althaia](../../assets/sessions/049/049_temple.webp)
 
 _Przeklęta kobieta zamieszkująca Wyspę Forlorn, znana też jako Gęguza._
 

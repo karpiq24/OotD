@@ -2,7 +2,7 @@
 title: Avys
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Nauczycielka nekromancji w Akademii w Mytros._
 

@@ -2,7 +2,7 @@
 title: Furie
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Mścicielki ścigające tych, którzy łamią święte prawa._
 

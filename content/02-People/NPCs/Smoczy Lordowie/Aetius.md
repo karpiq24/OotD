@@ -2,7 +2,7 @@
 title: Aetius
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Przyjaciel i powiernik Xandera Huoratha_
 

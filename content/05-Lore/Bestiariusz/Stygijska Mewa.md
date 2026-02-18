@@ -2,7 +2,7 @@
 title: Stygijska Mewa
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Trupio blade ptaki, oczy i uszy Lutherii._
 

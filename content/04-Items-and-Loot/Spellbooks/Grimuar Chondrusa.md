@@ -2,7 +2,7 @@
 title: Grimuar Chondrusa
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Księga zaklęć należąca do Chondrusa._
 

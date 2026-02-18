@@ -2,7 +2,7 @@
 title: Sądy w Mytros
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Siedziba sprawiedliwości._
 

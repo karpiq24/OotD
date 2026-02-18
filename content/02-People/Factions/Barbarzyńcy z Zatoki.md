@@ -2,7 +2,7 @@
 title: Barbarzyńcy z Zatoki
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Plemiona zamieszkujące wyspy Zatoki Cerulańskiej._
 

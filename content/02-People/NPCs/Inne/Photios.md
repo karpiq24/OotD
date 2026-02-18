@@ -2,7 +2,7 @@
 title: Photios
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Potężny przywódca Gyganów w czasach Pierwszej Wojny_
 

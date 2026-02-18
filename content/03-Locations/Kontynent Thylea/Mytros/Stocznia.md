@@ -2,7 +2,7 @@
 title: Stocznia
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Tętniące życiem serce morskie Mytros._
 

@@ -2,7 +2,7 @@
 title: Tytani
 ---
 
-![Konstelacja Centaura](../../assets/placeholder.png)
+![Konstelacja Centaura](../../assets/placeholder.webp)
 
 _Bogowie-Stwórcy oraz ich pierwsze dzieci, które ukształtowały świat._
 

@@ -2,7 +2,7 @@
 title: Port w Mytros
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Brama na świat Thylei._
 

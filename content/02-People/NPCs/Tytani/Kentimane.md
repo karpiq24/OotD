@@ -2,7 +2,7 @@
 title: Kentimane
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Sturęki (The Hundred Handed)_
 

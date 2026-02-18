@@ -2,7 +2,7 @@
 title: Pałac Królewski w Estorii
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Niegdyś wspaniała rezydencja, dziś pałac w [[Estoria|Estorii]] spowity jest atmosferą przygnębienia. Prosta w konstrukcji, ale wyniosła budowla góruje nad miastem.
 

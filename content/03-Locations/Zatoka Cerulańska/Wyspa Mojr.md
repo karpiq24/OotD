@@ -2,7 +2,7 @@
 title: Wyspa Mojr
 ---
 
-![Wyspa Mojr](../../assets/sessions/047/047_island.jpg)
+![Wyspa Mojr](../../assets/sessions/047/047_island.webp)
 
 Ponura, skalista wyspa w [[Zatoka Cerulańska|Zatoce Cerulańskiej]], otoczona wiecznym deszczem i mgłą. Nad krajobrazem dominują zrujnowane blanki prastarej wieży.
 

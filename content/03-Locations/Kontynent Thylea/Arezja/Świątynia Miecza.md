@@ -2,7 +2,7 @@
 title: Świątynia Miecza
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Skromna świątynia na wzgórzu, nauczająca stoickiej filozofii walki._
 

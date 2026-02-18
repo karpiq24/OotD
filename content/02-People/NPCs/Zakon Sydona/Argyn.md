@@ -2,7 +2,7 @@
 title: Argyn
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Majestatyczna srebrna smoczyca, ukochana Gaiusa._
 

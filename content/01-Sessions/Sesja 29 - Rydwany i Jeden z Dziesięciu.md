@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/029/chat_log.json)"
 ---
 **Data:** 04.11.2024
 
-![Orestes](../assets/sessions/029/029_orestes.jpg)
+![Orestes](../assets/sessions/029/029_orestes.webp)
 
 ## Podsumowanie
 

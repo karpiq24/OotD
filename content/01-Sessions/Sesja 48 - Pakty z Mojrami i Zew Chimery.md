@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/048/chat_log.json)"
 ---
 **Data:** 19.05.2025
 
-![Narodziny smoka](../assets/sessions/048/048_kairos.jpg)
+![Narodziny smoka](../assets/sessions/048/048_kairos.webp)
 
 ## Podsumowanie
 
@@ -18,11 +18,11 @@ Jednak to nie był koniec rewelacji, jakie [[Mojry]] miały dla [[Felicjan Janus
 
 Po tych osobistych paktach i bolesnych odkryciach, nadszedł czas na główny cel wizyty bohaterów. [[Mojry]], zgodziły się zdjąć klątwę ciążącą na smoczych jajach. W zamian zażądały poświęcenia dwóch potężnych artefaktów: Kostura [[Sydon|Sydona]], który dzierżył [[Versir]], oraz magicznej różdżki [[Felicjan Janus Twardowski|Felicjana]], stworzonej ze smoczego rogu. W rytualnym geście, babuszka [[Morta]] ujęła oba przedmioty. Skupiła swą starożytną moc, mamrocząc słowa w niezrozumiałym języku. Artefakty w jej dłoniach straciły swój blask, po czym rozpadły się w pył, który opadł na kamienną posadzkę jaskini. „Klątwa została zdjęta,” oznajmiła [[Morta]] z krzywym uśmiechem. „[[Sydon]] będzie… niezadowolony.” [[Nona]] zaś, żegnając się z bohaterami, rzuciła [[Orestes|Orestesowi]] niepokojącą obietnicę: „Nie martw się, byczku. Jeszcze się spotkamy. Odwiedzimy cię jeszcze w twoich snach.” Z tymi słowami, służka [[Mojry|Mojr]] wyprowadziła drużynę z mrocznych jaskiń, z powrotem na niegościnną powierzchnię wyspy, gdzie wciąż czekała na nich złowieszcza, milcząca wrona.
 
-![Wyspa Yonder](../assets/sessions/048/048_yonder.png)
+![Wyspa Yonder](../assets/sessions/048/048_yonder.webp)
 
 Powróciwszy na pokład [[Ultros|Ultrosa]], bohaterowie, choć zmęczeni i naznaczeni spotkaniem z Paniami Losu, poczuli nową determinację. Klątwa smoków została zdjęta, co otwierało przed nimi nowe możliwości. Jednak zanim mogli w pełni cieszyć się tym zwycięstwem, [[Chondrus]], były doradca króla [[Acastus|Akastusa]], rozłożył przed nimi mapę kolejnego, znacznie bardziej niebezpiecznego celu – [[Wyspa Yonder|Wyspy Yonder]], twierdzy [[Zakon Sydona|Zakonu Sydona]]. Opisał im potęgę Zakonu Pana Burz: tysiące żołnierzy, pozostałości [[Gyganie|Gyganów]], ufortyfikowane obozy i centralną świątynię z legendarną biblioteką. Rozgorzała dyskusja nad strategią. [[Arevon Elorrenthi|Arevon]] proponował wojnę podjazdową, nękanie sił Zakonu z morza przez wiele dni, by osłabić ich obronę przed głównym atakiem. [[Versir]] z kolei skłaniał się ku bardziej subtelnej infiltracji, przebraniu się za żołnierzy i przeprowadzeniu dywersji. Obawy budził smok [[Gaius|Gaiusa]], potężnego dowódcy Zakonu. Bohaterowie odłożyli te plany na później i rozpoczęli głosowanie nad kolejnym kierunkiem wyprawy. Ostateczny głos przypadł [[Orion Xul|Orionowi]]. Wskazał na mapie, tajemniczą wyspę, spowitą mgłą niepewności – [[Wyspa Forlorn|Wyspę Forlorn]]. To tam, jak zdecydował, skierują swe następne kroki.
 
-![Bag of Holding](../assets/sessions/048/048_bag.jpg)
+![Bag of Holding](../assets/sessions/048/048_bag.webp)
 
 Podróż [[Ultros|Ultrosa]] przez wzburzone fale Morza Zapomnianego była pełna napięcia i oczekiwania. Jeszcze niedaleko od [[Wyspa Mojr|Wyspy Mojr]], ich oczom ukazały się ruiny prastarej wieży, wystającej z morza niczym złamany ząb. Drużyna desantowa – [[Arevon Elorrenthi|Arevon]], [[Versir]], [[Orestes]] i [[Felicjan Janus Twardowski|Felicjan]] – postanowiła zbadać to miejsce. Wśród omszałych kamieni i zniszczonych murów, [[Orestes]], kierowany swoim instynktem, odnalazł starą, skórzaną torbę, która, jak się okazało, była magicznym workiem bez dna – Bag of Holding. Ku uciesze minotaura, pierwsze, o czym pomyślał – piwo – materializowało się w jego dłoni. [[Felicjan Janus Twardowski|Felicjan]], myśląc o skarbach, wyciągnął garść złotych monet. Magiczna torba zdawała się spełniać pragnienia tych, którzy sięgali do jej wnętrza z „czystym sercem”, jak z przymrużeniem oka wyjaśnił czarodziej.
 
@@ -32,7 +32,7 @@ Wreszcie, po kilku dniach żeglugi, na horyzoncie zamajaczyła [[Wyspa Forlorn]]
 
 Gdy tylko drużyna wylądowała na plaży, [[Felicjan Janus Twardowski|Felicjan]], być może wciąż podekscytowany nowo nabytą torbą, postanowił opróżnić ją całkowicie, by zobaczyć, jakie jeszcze skarby kryje. Ustawił ją na niewielkiej skale i odwrócił do góry dnem. Jednak zamiast kolejnych kosztowności czy magicznych przedmiotów, z worka wysypały się… cztery płonące czaszki! Złowrogie, lewitujące kości, z oczodołów których buchał piekielny ogień, natychmiast rzuciły się na bohaterów.
 
-![Flameskulls](../assets/sessions/048/048_skulls.jpg)
+![Flameskulls](../assets/sessions/048/048_skulls.webp)
 
 Walka była gwałtowna i brutalna. Czaszki, z przerażającą szybkością, zaczęły ciskać kulami ognia. Pierwsze eksplozje wstrząsnęły plażą, raniąc dotkliwie drużynę. [[Felicjan Janus Twardowski|Felicjan]], trafiony bezpośrednio, padł nieprzytomny na piasek, a jego nowo narodzony smok, [[Kairos]], spłoszony hukiem i ogniem, szczęśliwie odskoczył. [[Versir]], widząc swego przyjaciela w niebezpieczeństwie, rzucił się na ratunek, używając swej mocy, by osłonić towarzyszy. [[Orion Xul|Orion]], mimo bólu i chaosu, z zimną krwią stawił czoła zagrożeniu, jego wzmocniona włócznia śmigała w powietrzu, niszcząc dwie czaszki precyzyjnymi pchnięciami. [[Arevon Elorrenthi|Arevon]], ciskając świętym ogniem, zadał rany kolejnemu przeciwnikowi, podczas gdy [[Orestes]], wpadłszy w barbarzyński szał, z potężnym rykiem rzucił się na jedną z czaszek, roztrzaskując ją swoim toporem w epickim wyskoku. [[Felicjan Janus Twardowski|Felicjan]], balansujący na krawędzi śmierci, dzięki magicznemu wsparciu [[Arevon Elorrenthi|Arevona]], zdołał zdać rzut obronny.
 

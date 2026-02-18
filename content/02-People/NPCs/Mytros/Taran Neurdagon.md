@@ -2,7 +2,7 @@
 title: Taran Neurdagon
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Potężny kupiec i głowa rodu Neurdagon._
 

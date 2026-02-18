@@ -2,7 +2,7 @@
 title: Yala Pierwsza
 ---
 
-![Yala](../../../../assets/sessions/061/061_yala.png)
+![Yala](../../../../assets/sessions/061/061_yala.webp)
 
 _Tytanka Piękna, Siostra Sydona i Lutherii_
 

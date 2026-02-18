@@ -2,7 +2,7 @@
 title: Artyści w Służbie Sydona (AWSS)
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Grupa ocalałych mieszkańców Mytros, którzy stali się wiernymi wyznawcami Tytanów._
 

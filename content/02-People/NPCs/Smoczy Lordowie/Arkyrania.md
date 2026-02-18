@@ -2,7 +2,7 @@
 title: Arkyrania
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Brązowa smoczyca, niegdyś wierzchowiec Estora Arkelandera_
 

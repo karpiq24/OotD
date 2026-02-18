@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/020/chat_log.json)"
 ---
 **Data:** 12.08.2024
 
-![Noc Długich Rogów](../assets/sessions/020/020_longhorns.png)
+![Noc Długich Rogów](../assets/sessions/020/020_longhorns.webp)
 
 ## Podsumowanie
 

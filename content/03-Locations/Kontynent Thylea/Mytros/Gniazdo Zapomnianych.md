@@ -2,7 +2,7 @@
 title: Gniazdo Zapomnianych
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Osada wyrzutków w kanałach Mytros._
 

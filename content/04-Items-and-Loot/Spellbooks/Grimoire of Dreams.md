@@ -2,7 +2,7 @@
 title: Grimoire of Dreams
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Księga Zaklęć, Rzadki_
 

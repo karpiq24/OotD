@@ -2,7 +2,7 @@
 title: Aetala
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Gospodyni gospody [[Kwaśny Rocznik]] i emerytowana łowczyni._
 

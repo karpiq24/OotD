@@ -2,7 +2,7 @@
 title: Mojry
 ---
 
-![Mojry](../../assets/placeholder.png)
+![Mojry](../../assets/placeholder.webp)
 
 _Tkaczki ludzkiego losu._
 

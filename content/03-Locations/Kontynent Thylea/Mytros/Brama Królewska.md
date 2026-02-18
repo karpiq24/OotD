@@ -2,7 +2,7 @@
 title: Brama Królewska
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Główne wejście do Mytros od strony lądu._
 

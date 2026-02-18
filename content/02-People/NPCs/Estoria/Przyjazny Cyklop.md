@@ -2,7 +2,7 @@
 title: Przyjazny Cyklop
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Niezwykle łagodny i ufny cyklop mieszkający w [[Woodhike]]._
 

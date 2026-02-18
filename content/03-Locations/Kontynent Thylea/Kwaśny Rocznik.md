@@ -2,7 +2,7 @@
 title: Kwaśny Rocznik
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Rustykalna gospoda położona na rozstajach dróg, znana jako miejsce spotkania Bohaterów Przepowiedni._
 

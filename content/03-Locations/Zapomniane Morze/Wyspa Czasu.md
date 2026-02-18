@@ -2,7 +2,7 @@
 title: Wyspa Czasu
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Krótki opis miejsca, jego atmosfera i ogólny wygląd.
 

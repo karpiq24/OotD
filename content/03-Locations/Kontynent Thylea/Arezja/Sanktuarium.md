@@ -2,7 +2,7 @@
 title: Sanktuarium
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Łaźnie, szpital i kaplica przylegająca do arezyjskiego gimnazjum._
 

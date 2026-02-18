@@ -2,7 +2,7 @@
 title: Darien
 ---
 
-![Darien](../../../assets/sessions/032/darien.png)
+![Darien](../../../assets/sessions/032/darien.webp)
 
 _Prawowita dziedziczka tronu Amazonek, więziona przez lata w Kłach._
 

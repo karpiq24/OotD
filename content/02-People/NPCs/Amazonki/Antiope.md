@@ -2,7 +2,7 @@
 title: Antiope
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Młoda córka [[Hippolyta|Hippolyty]]._
 

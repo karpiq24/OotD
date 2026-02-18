@@ -2,7 +2,7 @@
 title: Drzewo Serca
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Heart-Tree_
 

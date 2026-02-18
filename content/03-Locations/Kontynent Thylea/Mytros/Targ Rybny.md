@@ -2,7 +2,7 @@
 title: Targ Rybny
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Rybi Targ pełen zapachów morza i świeżego połowu._
 

@@ -2,7 +2,7 @@
 title: Keelan
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Wygnaniec na Wyspie Wygnańców, który mianował siebie sędzią i katem współwięźniów._
 

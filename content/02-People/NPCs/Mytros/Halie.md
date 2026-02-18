@@ -2,7 +2,7 @@
 title: Halie
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Młoda meduza szukająca przyjaciółki._
 

@@ -2,7 +2,7 @@
 title: Morze Otchłani
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Najgłębsza i najmroczniejsza część wód otaczających Thyleę, domena Pani Śmierci i Bogini Snów [[Lutheria|Lutherii]].
 

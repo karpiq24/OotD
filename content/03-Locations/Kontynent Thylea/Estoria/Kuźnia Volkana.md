@@ -2,7 +2,7 @@
 title: Kuźnia Volkana
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Duży budynek o wzmocnionych kamiennych ścianach i gontowym dachu, położony blisko centrum miasta. Wewnątrz panuje żar od ognia płonącego w wielkim palenisku.
 

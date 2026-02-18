@@ -2,7 +2,7 @@
 title: Wyspa Krzywoprzysięstwa (Oathbreakers)
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Skalista wyspa na [[Morze Otchłani|Morzu Otchłani]], służąca jako więzienie dla dusz, które złamały przysięgi._
 

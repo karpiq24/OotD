@@ -2,7 +2,7 @@
 title: Wyspa Ognia
 ---
 
-![Wyspa Ognia](../../assets/placeholder.png)
+![Wyspa Ognia](../../assets/placeholder.webp)
 
 Wyspa wulkaniczna w Zatoce Cerulańskiej, zdominowana przez ogromny wulkan. Dom dla jaszczuroludzi podzielonych na dwa wrogie plemiona: [[Łamacze Fal]] oraz [[Chodzący w Ogniu]].
 

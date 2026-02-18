@@ -2,7 +2,7 @@
 title: Świątynia Wyroczni
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Starożytna świątynia położona na wschód od [[Estoria|Estorii]], wzniesiona nad gorącymi źródłami, w których rezyduje [[Versi|Wyrocznia]]._
 

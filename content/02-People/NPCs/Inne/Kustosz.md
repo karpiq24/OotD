@@ -2,7 +2,7 @@
 title: Kustosz
 ---
 
-![Kustosz](../../../assets/sessions/053/053_bowl.png)
+![Kustosz](../../../assets/sessions/053/053_bowl.webp)
 
 _Tajemnicza istota zamieszkująca mosiężną misę._
 

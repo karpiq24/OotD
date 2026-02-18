@@ -2,7 +2,7 @@
 title: Targ Minotaurów
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Miejsce hańby Mytros._
 

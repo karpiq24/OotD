@@ -2,7 +2,7 @@
 title: Plemię Węgorza
 ---
 
-![Loopywoopy](../../../content/assets/sessions/042/042_loopywoopy.jpg)
+![Loopywoopy](../../../content/assets/sessions/042/042_loopywoopy.webp)
 
 _Jedno z czterech plemion barbarzyńskich z Wyspy Indygo, znane z gościnności i otwartości._
 

@@ -2,7 +2,7 @@
 title: Martwe Wodospady
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Niebezpieczny kraniec rzeki Lethe, prowadzący do Morza Otchłani._
 

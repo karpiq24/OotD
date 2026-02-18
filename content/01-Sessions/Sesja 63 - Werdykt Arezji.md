@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/063/chat_log.json)"
 ---
 **Data:** 08.12.2025
 
-![Taureus](../assets/sessions/063/063_taureus.png)
+![Taureus](../assets/sessions/063/063_taureus.webp)
 
 ## Podsumowanie
 
@@ -14,21 +14,21 @@ Gdy szał zakupów w magicznym sklepie niziołki [[Haidee]] dobiegł końca, a s
 
 Na otwartym placu treningowym dostrzegli potężną sylwetkę [[Taureus|Taureusa]], Wielkiego Mistrza Żywiołów, instruującego mnichów. Obok niego stała [[Bullbug]] – minotaurzyca, którą drużyna uratowała niegdyś z rąk handlarzy niewolników w Mytros. To właśnie jej obecność i szeptane do ucha mistrza słowa sprawiły, że [[Taureus]] przyjął przybyszów nie jako intruzów, lecz jako bohaterów, którzy zgładzili znienawidzonego [[Maximus|Maximusa]]. [[Orestes]], nie tracąc ani chwili, postanowił scementować tę nową znajomość w najlepszy znany sobie sposób – częstując mistrza piwem z rodzinnego browaru. [[Taureus]], minotaur o posturze góry, opróżnił kufel jednym haustem, a rozmowa szybko zeszła na tematy polityczne. Choć Mistrz Żywiołów nie krył swojej pogardy dla „miękkiego” Mytros i jego króla [[Acastus|Acastusa]], to niechęć do Tytanów i troska o los wszystkich minotaurów okazały się silniejsze. Po zapewnieniach [[Orestes|Orestesa]] o świetlanej przyszłości obietnicy dostarczenia większej ilości złocistego trunku, [[Taureus]] zadeklarował swoje poparcie na nadchodzącej radzie.
 
-![Świątynia spokoju](../assets/sessions/063/063_laertes.png)
+![Świątynia spokoju](../assets/sessions/063/063_laertes.webp)
 
 Kolejnym przystankiem była [[Świątynia Spokoju]], położona wysoko na szczycie góry. Wspinaczka po tysiącach schodów była testem cierpliwości, umilanym jedynie narzekaniami mijanych akolitów, których zadaniem było znalezienie „idealnej oliwki” dla ich mistrza. Gdy drużyna dotarła na szczyt, powitała ich cisza przerywana jedynie dźwiękiem wiatrowych dzwonków. Mistrz [[Laertes]], starzec zdający się być częścią samej góry, przyjął ich bez słowa, celebrując nieskończenie powolny rytuał parzenia herbaty. [[Orestes]], próbując przełamać milczenie, zaczął improwizować pieśń przy akompaniamencie dud, co spotkało się z kamiennym brakiem reakcji gospodarza. Dopiero po długim czasie [[Laertes]] przemówił, używając metafory o wezbranej rzece i wiosce u podnóża gór. Zapytał, czy mądrze jest budować tamę w ostatniej chwili. Bohaterowie, rozumiejąc aluzję, odparli, że lepiej jest przekierować nurt wcześniej – sugerując tym samym, że [[Arezja]] powinna uderzyć na wroga, zanim ten dotrze do jej murów. Odpowiedź ta zadowoliła starego mistrza, który obiecał, że jego głos zaważy na szali.
 
 Gdy zapadł zmrok, drużyna udała się do owianej złą sławą [[Świątynia Cieni|Świątyni Cieni]]. Mroczna budowla zdawała się pochłaniać światło księżyca, a jej bramy były zamknięte na głucho. [[Arevon Elorrenthi|Arevon]], korzystając ze swej druidzkiej mocy, wysłał na zwiad magicznego kruka, lecz ptak nie dostrzegł nikogo na dziedzińcu, meldując jedynie o przejmującym uczuciu bycia obserwowanym. Zrozumiawszy, że [[Jocasta|Mistrz Cieni]] nie przyjmuje nieproszonych gości, bohaterowie wycofali się, czując na sobie ciężkie spojrzenie z mroku.
 
-![Wiszące Ogrody](../assets/sessions/063/063_gardens.png)
+![Wiszące Ogrody](../assets/sessions/063/063_gardens.webp)
 
 Następnego ranka, tuż po wschodzie słońca, udali się do [[Wiszące Ogrody|Wiszących Ogrodów]], by stanąć przed obliczem boga [[Narsus|Narsusa]]. Brat [[Pythor|Pythora]] i [[Kyrah]] okazał się ucieleśnieniem próżności. Spoczywał nad onyksowym basenem, wpatrzony we własne odbicie, w towarzystwie syreny. Początkowo znużony i zirytowany obecnością „kolejnych petentów”. Ożywił się dopiero, gdy wspomniał o swoim pragnieniu – rzadkim „[[Słoneczny Granat|Słonecznym Granacie]]”, rosnącym w jaskini zamieszkanej przez potwory. Obiecał wstawić się za nimi u królowej, jeśli przyniosą mu ten owoc.
 
-![Mistrz Cieni](../assets/sessions/063/063_shadow.png)
+![Mistrz Cieni](../assets/sessions/063/063_shadow.webp)
 
 Bohaterowie opuścili ogrody, gotowi na kolejną misję, lecz tuż za bramą czekała na nich niespodzianka. Z cienia wyłoniła się zakapturzona postać w masce, żonglująca poszukiwanym przez boga owocem. Był to nieuchwytny [[Jocasta|Mistrz Cieni]]. Z cynicznym komentarzem na temat kaprysów [[Narsus|Narsusa]], zaoferował im owoc, by oszczędzić im czasu i ryzyka. Nie zrobił tego jednak bezinteresownie. W zamian zażądał, by w przyszłości, gdy trafią do wieży [[Praxys]] – siedziby [[Sydon|Sydona]] – wykradli dla niego pewną księgę, nie zadając przy tym pytań. Drużyna przystała na ten mroczny pakt. [[Jocasta|Mistrz Cieni]] zniknął w kłębach dymu, rzucając na odchodne do [[Felicjan Janus Twardowski|Felicjana]] tajemnicze słowa: „Pozdrów [[Despina|Despinę]]”.
 
-![Zbroja płytowa](../assets/sessions/063/063_plate.png)
+![Zbroja płytowa](../assets/sessions/063/063_plate.webp)
 
 Powrót do [[Narsus|Narsusa]] był triumfem. Bóg Piękna, otrzymawszy upragniony owoc, wpadł w ekstazę, planując kąpiel w podgrzanej przez owoc wodzie. W geście łaskawości pozwolił bohaterom zabrać dowolny przedmiot ze stosu darów, które inni petenci składali mu przez lata. [[Orion Xul|Orion]], nie wahając się ani chwili, wyciągnął ze sterty magiczną, lśniącą zbroję płytową.
 

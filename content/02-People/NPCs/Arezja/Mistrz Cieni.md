@@ -2,7 +2,7 @@
 title: Mistrz Cieni
 ---
 
-![Mistrz Cieni](../../../assets/sessions/063/063_shadow.png)
+![Mistrz Cieni](../../../assets/sessions/063/063_shadow.webp)
 
 _Tajemnicza postać zarządzająca Świątynią Cienia i siatką szpiegowską Arezji._
 

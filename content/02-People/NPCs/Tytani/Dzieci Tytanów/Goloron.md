@@ -2,7 +2,7 @@
 title: Goloron
 ---
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.webp)
 
 _Syn Sydona i Lutherii, dotknięty szaleństwem._
 

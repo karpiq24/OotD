@@ -2,7 +2,7 @@
 title: Ophea
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Matka Oriona Xula, dawna kochanka Pythora._
 

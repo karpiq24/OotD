@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/031/chat_log.json)"
 ---
 **Data:** 18.11.2024
 
-![Port Aella](../assets/sessions/031/aella.png)
+![Port Aella](../assets/sessions/031/aella.webp)
 
 ## Podsumowanie
 

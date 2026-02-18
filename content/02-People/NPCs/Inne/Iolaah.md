@@ -2,7 +2,7 @@
 title: Iolaah
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Syrena/Merfolk, córka [[Hywin|Hywina]]._
 

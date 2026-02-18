@@ -2,7 +2,7 @@
 title: Port Aella
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Port na wyspie Themis._
 

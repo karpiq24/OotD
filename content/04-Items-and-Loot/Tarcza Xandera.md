@@ -2,7 +2,7 @@
 title: Tarcza Xandera
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 ## Opis
 Wspaniała tarcza, która obecnie jest wgnieciona i uszkodzona. Wymaga naprawy przy użyciu Młota Pythora w [[Mithralowa Kuźnia|Mithralowej Kuźni]].

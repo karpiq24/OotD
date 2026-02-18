@@ -2,7 +2,7 @@
 title: Tyrone
 ---
 
-![Tyrone](../../../assets/sessions/045/045_tyrone.jpg)
+![Tyrone](../../../assets/sessions/045/045_tyrone.webp)
 
 _Samozwańczy rywal Stavrosa._
 

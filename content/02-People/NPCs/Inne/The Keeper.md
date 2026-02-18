@@ -2,7 +2,7 @@
 title: The Keeper
 ---
 
-![Ultroloth](../../../assets/sessions/066/066_ultroloth.png)
+![Ultroloth](../../../assets/sessions/066/066_ultroloth.webp)
 
 _Znużony biurokrata piekieł, zarządzający najcięższym więzieniem w domenie Lutherii._
 

@@ -2,7 +2,7 @@
 title: Heart of the Gale
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Artefakt, Rzadki_
 

@@ -2,7 +2,7 @@
 title: Labirynt w Nekropolii
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Podziemny labirynt znajdujący się pod [[Nekropolia w Telamok|Nekropolią]], prowadzący do [[Grobowiec Xandera|Grobowca Xandera]].
 

@@ -2,7 +2,7 @@
 title: Talieus Pierwszy
 ---
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.webp)
 
 _Tytan Rzemiosła_
 

@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/030/chat_log.json)"
 ---
 **Data:** 12.11.2024
 
-![Lutheria](../assets/sessions/030/030_lutheria.png)
+![Lutheria](../assets/sessions/030/030_lutheria.webp)
 
 ## Podsumowanie
 

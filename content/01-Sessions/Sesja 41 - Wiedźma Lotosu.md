@@ -16,7 +16,7 @@ Zdezorientowani, z rozmazanymi wspomnieniami, odczuwając nieswojość, herosi s
 
 W tej nowej, niechcianej rzeczywistości, otoczeni przez inne dzieci, zmuszane do katorżniczej pracy przy produkcji narkotyków z kwiatów lotosu, bohaterowie próbowali odnaleźć się w sytuacji. Dziecięce przekomarzania, płacz i strach mieszały się z zapachem odurzających substancji, tworząc duszącą atmosferę. Wśród dziecięcej gawiedzi wyróżniał się Piotruś, faworyt Pani, chełpiący się swoją pozycją i zjadający na oczach spragnionych słodyczy towarzyszy ciasteczko. [[Orestes]], wciąż kierujący się szlachetnymi pobudkami, nie mógł znieść tej niesprawiedliwości i wymierzył Piotrusowi policzek, co wywołało jeszcze większy chaos.
 
-![Rysunek pracowni według Piotrusia](../assets/sessions/041/041_fabryka.jpg)
+![Rysunek pracowni według Piotrusia](../assets/sessions/041/041_fabryka.webp)
 
 W tej karkołomnej sytuacji, [[Felicjan Janus Twardowski|Felicjan]], próbując odnaleźć drogę ucieczki, wspiął się po schodach, które zdawały się nie mieć końca, wiodąc w pętlę. [[Arevon Elorrenthi|Arevon]], wykorzystując swój spryt, ukradł dzieciom kilka woreczków z narkotykami, a Orestes, w dziecięcym ciele, próbował oswoić potężnego Sfinksa, głaszcząc go po głowie i wciskając mu oczy. [[Versir]] zaś, dręczony żądzą ciasteczka, wpadł w szał, rozrzucając narkotyki i wywołując panikę wśród dzieci.
 
@@ -32,7 +32,7 @@ Powrót do dorosłości nie oznaczał jednak końca kłopotów. Bohaterowie, odz
 
 Przemierzając [[Korytarz Światów|korytarz]], bohaterowie zaglądali do okien, podziwiając różnorodne krajobrazy i sceny z przeszłości, teraźniejszości i przyszłości. Widzieli Elysium, gdzie Zeus, otoczony aniołami, spoglądał na nich z zaciekawieniem. Zobaczyli zatopione królestwo syren, zniszczone przez gniew [[Sydon|Sydona]]. Ujrzeli astralny plan, gdzie Kapitan Bomba, w swoim niepowtarzalnym stylu, obrażał potężnego astralnego drapieżnika. Byli świadkami bitwy o Helmowy Jar w Śródziemiu, a także lewitującego miasta w Avernusie. Widzieli Hades, gdzie Charon pobierał opłatę od zmarłych, a Maximus, pozbawiony monet, został odesłany na koniec kolejki. Ujrzeli fabrykę Warforgedów, budzącą niepokój w sercu Arevona. W końcu, ich oczom ukazała się wizja płonącego [[Mytros]], gdzie martwy Felicjan i [[Melania Twardowska|Melania]] leżeli u stóp zapłakanej [[Kyrah]], a nad miastem górował potężny [[Behemot]], niszczyciel światów.
 
-![Korytarz Światów](../assets/sessions/041/041_worlds.jpg)
+![Korytarz Światów](../assets/sessions/041/041_worlds.webp)
 
 Wstrząśnięci wizjami, bohaterowie kontynuowali podróż, aż dotarli do okna ukazującego Bryn Shander, miasto z innego świata, gdzie doszło do epickiej bitwy z lodowym lichem. Ujrzeli również śpiącego Tarrasque'a, a także Avengersów walczących w Nowym Jorku. W końcu, korytarz spowiła ciemność, a przed bohaterami otworzyła się kolejna próba – teleturniej Familiada, prowadzony przez samego Karola Strasburgera, a w roli gospodyni – [[Wiedźma Lotosu]].
 
@@ -40,11 +40,11 @@ Wstrząśnięci wizjami, bohaterowie kontynuowali podróż, aż dotarli do okna 
 
 W absurdalnej grze, pełnej dziwacznych pytań i zaskakujących odpowiedzi, bohaterowie musieli wykazać się sprytem i wiedzą, aby zdobyć punkty. Pytania dotyczyły obozu bandytów, najpopularniejszych bóstw w [[Thylea|Thylei]], czarów ułatwiających zakupy, klas postaci i potworów. W ferworze rywalizacji, Orestes, nie mogąc powstrzymać się od żartów, opowiadał suchary, co spowodowało zastąpienie Karola w roli prowadzącego, a Strasburger, nie mogąc znieść napięcia, popełnił samobójstwo pistoletem Glock 17 9mm.
 
-![Koło Fortuny](../assets/sessions/041/041_fortune.jpg)
+![Koło Fortuny](../assets/sessions/041/041_fortune.webp)
 
 Po zakończeniu gry, Orestes podliczył punkty i wszyscy okazali się zwycięzcami, Wiedźma Lotosu zaoferowała bohaterom nagrodę – możliwość zakręcenia Kołem Fortuny, które mogło obdarzyć ich mocą, ale i wiązało się z pewnym ryzykiem. Orestes, wierząc w swoje szczęście, zakręcił kołem i zyskał umiejętność dowcipkowania. Versir, otrzymał moc prędkości. Orion, ku swemu przerażeniu, stracił całe swoje ubranie i ekwipunek. A Arevon, po zakręceniu Kołem Fortuny, zyskał umiejętność przemiany w drzewca. Felicjan po zakręceniu kołem stał się wytrzymalszy i inteligentniejszy.
 
-![Orion Xul](../assets/sessions/041/041_orion.jpg)
+![Orion Xul](../assets/sessions/041/041_orion.webp)
 
 W końcu, po serii absurdalnych i niebezpiecznych zdarzeń, bohaterowie stanęli przed Wiedźmą Lotosu, gotowi zadać jej pytania. Orestes, dręczony klątwą pecha, zapytał o sposób jej zdjęcia. Wiedźma ujawniła, że klątwa została rzucona przez [[Lutheria|Luterię]], a jej zdjęcie wymagałoby albo przebłagania bogini, albo zniszczenie jej.
 

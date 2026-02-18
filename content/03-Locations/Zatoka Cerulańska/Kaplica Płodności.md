@@ -2,7 +2,7 @@
 title: Kaplica Płodności
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Kaplica w lesie na Themis._
 

@@ -2,7 +2,7 @@
 title: Wyspa Forlorn
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Zwana też Wyspą Chimery. Przeklęta wyspa spowita tajemnicą._
 

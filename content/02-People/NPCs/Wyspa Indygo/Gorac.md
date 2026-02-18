@@ -2,7 +2,7 @@
 title: Gorac
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Arogancki przywódca Plemienia Rekina._
 

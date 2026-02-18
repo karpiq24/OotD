@@ -3,7 +3,7 @@ title: Orestes
 image_prompt: powerful male minotaur with a muscular build, broad shoulders, and brown fur. His bovine head features large, curved dark grey horns, piercing glowing blue eyes, and a bull snout. He has stylish, thick blonde hair swept back and a well-groomed blonde fur beard. He is dressed in a draped white toga with an ornate red sash featuring carved patterns and a textured grey shoulder strap. The aesthetic is a Greco-Roman gladiator and mythological creature.
 ---
 
-![Orestes](../../assets/Orestes.png)
+![Orestes](../../assets/Orestes.webp)
 
 _Minotaur Barbarian, [[Epickie Ścieżki#The Doomed One (Zgubiony)|The Doomed One]]_
 _**Zgubiony**, który trzykrotnie przeciwstawił się śmierci i stawił jej czoła jak równy z równym._

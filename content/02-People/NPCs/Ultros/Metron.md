@@ -2,7 +2,7 @@
 title: Metron
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Nawigator Ultrosa, potężnie otyły duch._
 

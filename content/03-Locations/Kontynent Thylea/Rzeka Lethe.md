@@ -2,7 +2,7 @@
 title: Rzeka Lethe
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Rzeka Lethe (Rzeka Zapomnienia) przepływa przez [[Kontynent Thylea|Kontynent Thylea]], a jej wody wpadają do [[Morze Otchłani|Morza Otchłani]]. Wody tej rzeki mają moc odbierania pamięci każdemu, kto ich skosztuje.
 

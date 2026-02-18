@@ -2,7 +2,7 @@
 title: Braeca
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Kapłan Zakonu Sydona wysłany, by zgładzić Bohaterów Przepowiedni._
 

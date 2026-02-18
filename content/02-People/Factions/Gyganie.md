@@ -2,7 +2,7 @@
 title: Gyganie
 ---
 
-![Gyganie](../../assets/placeholder.png)
+![Gyganie](../../assets/placeholder.webp)
 
 _Jednookie, sześciorękie olbrzymy._
 

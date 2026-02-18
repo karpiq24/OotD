@@ -2,7 +2,7 @@
 title: Posiadłość Neurdagonów
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Najbogatsza willa w mieście._
 

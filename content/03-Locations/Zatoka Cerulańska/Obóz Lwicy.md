@@ -2,7 +2,7 @@
 title: Obóz Lwicy
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Obóz plemienia Amazonek "Lwice"._
 

@@ -2,7 +2,7 @@
 title: Telekles
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Kupiec zaopatrujący Gniazdo._
 

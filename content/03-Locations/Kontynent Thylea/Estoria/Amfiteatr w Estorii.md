@@ -2,7 +2,7 @@
 title: Amfiteatr w Estorii
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Otwarty teatr zbudowany u podnóża wzgórza, z dala od centrum miasta. Kamienne bloki tworzą rzędy siedzeń pnące się w górę zbocza, oferując widzom doskonały widok na okrągłą scenę.
 

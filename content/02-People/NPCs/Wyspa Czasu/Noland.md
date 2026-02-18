@@ -2,7 +2,7 @@
 title: Noland
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Kriosfinks, Zdrajca_
 

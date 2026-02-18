@@ -2,7 +2,7 @@
 title: Rakas Rozpruwacz
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Czempion Maximusa._
 

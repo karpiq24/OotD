@@ -2,7 +2,7 @@
 title: Rutger
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Krasnolud z załogi Quinna._
 

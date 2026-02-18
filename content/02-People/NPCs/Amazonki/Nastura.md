@@ -2,7 +2,7 @@
 title: Nastura
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Uzurpatorka tronu Amazonek na Themis, Meduza posługująca się imieniem i wizerunkiem [[Thessilea|Thessilei]]._
 

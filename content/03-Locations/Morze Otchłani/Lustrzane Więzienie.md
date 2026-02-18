@@ -2,7 +2,7 @@
 title: Lustrzane Więzienie
 ---
 
-![Krystaliczna Piramida](../../assets/sessions/067/067_pyramid.png)
+![Krystaliczna Piramida](../../assets/sessions/067/067_pyramid.webp)
 
 Lustrzane Więzienie, znane też jako Krystaliczna Piramida, to niezwykła struktura znajdująca się na wodach [[Morze Otchłani|Morza Otchłani]]. Jest to wielka piramida wykonana z mieniącego się kryształu, częściowo zanurzona w morzu. Jej ściany odbijają światło latarni Ultrosa tysiącem barw.
 

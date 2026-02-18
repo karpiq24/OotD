@@ -2,7 +2,7 @@
 title: Hergeron
 ---
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.webp)
 
 _Syn Sydona i Lutherii, spokojny obserwator._
 

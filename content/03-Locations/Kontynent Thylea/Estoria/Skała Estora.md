@@ -2,7 +2,7 @@
 title: Skała Estora
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Niewielka formacja skalna o średnicy ok. 5 metrów, wystająca z płytkich wód rzeki [[Arkelon]] w miejscu brodu. Mimo mało imponującego wyglądu, jest to miejsce o mrocznej sławie.
 

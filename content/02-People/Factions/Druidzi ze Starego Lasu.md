@@ -2,7 +2,7 @@
 title: Druidzi ze Starego Lasu
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Strażnicy Starego Lasu i wyznawcy Matki Bogini._
 

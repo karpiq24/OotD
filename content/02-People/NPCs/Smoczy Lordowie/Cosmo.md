@@ -2,7 +2,7 @@
 title: Cosmo
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Dowódca Smoczych Lordów w czasach po złożeniu Przysięgi Pokoju_
 

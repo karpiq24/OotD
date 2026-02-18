@@ -2,7 +2,7 @@
 title: Anora
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Księżniczka Estorii, ukochana córka króla [[Pythor|Pythora]]._
 

@@ -2,7 +2,7 @@
 title: Świątynia Heliosa
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Starożytna świątynia poświęcona bóstwu słońca, Heliosowi, ukryta przed wzrokiem przypadkowych podróżnych, ale możliwa do odnalezienia dzięki niesionej wiatrem pięknej melodii.
 

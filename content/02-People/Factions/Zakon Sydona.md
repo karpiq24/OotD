@@ -2,7 +2,7 @@
 title: Zakon Sydona
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Fanatyczni wyznawcy Pana Burz._
 

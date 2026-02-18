@@ -2,7 +2,7 @@
 title: Podkowy Prędkości
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Magiczne podkowy zwiekszające szybkość wierzchowca._
 

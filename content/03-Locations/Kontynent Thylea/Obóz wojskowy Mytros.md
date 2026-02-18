@@ -2,7 +2,7 @@
 title: Obóz wojskowy Mytros
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Obóz wojskowy armii [[Mytros]], zlokalizowany na szlaku w kierunku [[Świątynia Wyroczni]].
 

@@ -2,7 +2,7 @@
 title: Nikandros Caliros
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Odważny Smoczy Lord, jeździec smoczycy Orichalkos_
 

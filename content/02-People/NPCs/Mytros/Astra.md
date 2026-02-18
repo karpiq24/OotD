@@ -3,7 +3,7 @@ title: Astra
 image_prompt: young adult female, slender build, long wavy hair in a half-up style, defined cheekbones, intense dark eyes, a serious expression, wearing a dark high-collared tunic under a dark hooded cloak draped over her shoulders, holding a small glass vial, mysterious mage, dark fantasy character, black and white illustration.
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Członkini Kultu Węża i sojuszniczka Versira._
 

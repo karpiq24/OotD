@@ -2,7 +2,7 @@
 title: Silenos
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Wuj **[[Orestes|Orestesa]]**._
 

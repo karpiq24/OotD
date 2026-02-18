@@ -2,7 +2,7 @@
 title: Wyspa Myrmeków
 ---
 
-![Wyspa Myrmeków](../../assets/sessions/050/050_folly.png)
+![Wyspa Myrmeków](../../assets/sessions/050/050_folly.webp)
 
 Dziwna wyspa składająca się z trzech idealnie uformowanych zielonych wzgórz otoczonych niemożliwą szklaną kopułą, która wyrasta z Zatoki Cerulańskiej. Szklana kopuła obejmuje całą wyspę.
 

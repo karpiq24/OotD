@@ -2,7 +2,7 @@
 title: Bullbug
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Heroiczna minotaur._
 

@@ -2,7 +2,7 @@
 title: Xanderia
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Dawna nazwa królestwa ludzi._
 

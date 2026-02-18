@@ -2,7 +2,7 @@
 title: Skarby Smoczych Lordów
 ---
 
-![Loot](../assets/sessions/067/067_loot_gathering.png)
+![Loot](../assets/sessions/067/067_loot_gathering.webp)
 
 _Skarb, Legendarny_
 

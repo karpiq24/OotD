@@ -2,7 +2,7 @@
 title: Thessilea
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Prawdziwa królowa Amazonek, matka [[Darien]]._
 

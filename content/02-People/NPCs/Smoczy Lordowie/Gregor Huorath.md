@@ -2,7 +2,7 @@
 title: Gregor Huorath
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Syn Xandera Huoratha, jeździec smoka Hezzebala_
 

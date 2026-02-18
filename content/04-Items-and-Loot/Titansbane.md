@@ -2,7 +2,7 @@
 title: Titansbane
 ---
 
-![Titansbane](../assets/placeholder.png)
+![Titansbane](../assets/placeholder.webp)
 
 _Broń stworzona do walki z Tytanami._
 

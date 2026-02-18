@@ -3,7 +3,7 @@ title: Orion Xul
 image_prompt: male fantasy warrior with an athletic build and elven features. He wears highly ornate golden plate armor with intricate filigree in a Greco-Roman spartan style. His head is covered by a full golden Corinthian helmet with a large yellow and black plume, from which his glowing orange eyes peer out. He wears a dark blue cloth hood and cape over layered golden pauldrons. His attire is completed by a leather belt with multiple pouches, a gold ornamental bird-head buckle, a blue loincloth with white embroidered patterns, a quiver of arrows, and a round wooden shield. He wields an ornate spear that sparks with lightning.
 ---
 
-![Orion](../../assets/Orion.png)
+![Orion](../../assets/Orion.webp)
 
 _Half-Elf Fighter, [[Epickie Ścieżki#The Demi-God (Półbóg)|Demigod]]_
 _**Półbóg**, który odnalazł własną matkę i dorównał w boskości swojemu ojcu._

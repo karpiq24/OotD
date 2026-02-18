@@ -2,7 +2,7 @@
 title: Korona Smoczych Lordów
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Symbol władzy i dziedzictwa Smoczych Lordów._
 

@@ -2,7 +2,7 @@
 title: Ręce Kentimane
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Pielgrzymkowe miejsce znajdujące się na [[Góra Telamok|Górze Telamok]]. Są to ogromne formacje skalne przypominające dłonie tytana [[Kentimane]].
 

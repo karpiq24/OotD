@@ -2,7 +2,7 @@
 title: Mytros
 ---
 
-![Mytros](../../../assets/placeholder.png)
+![Mytros](../../../assets/placeholder.webp)
 
 _Stolica cywilizacji, dom Pięciu Bogów._
 

@@ -2,7 +2,7 @@
 title: Leandros
 ---
 
-![Leandros](../../../assets/sessions/062/062_Leandros.png)
+![Leandros](../../../assets/sessions/062/062_Leandros.webp)
 
 _Dowódca gwardii królowej Heleny._
 

@@ -2,7 +2,7 @@
 title: Pięciu Bogów
 ---
 
-![Pięciu Bogów](../../assets/placeholder.png)
+![Pięciu Bogów](../../assets/placeholder.webp)
 
 _Bogowie, którzy przybyli po śmierci Balmytrii._
 

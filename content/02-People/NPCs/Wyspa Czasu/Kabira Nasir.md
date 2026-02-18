@@ -2,7 +2,7 @@
 title: Kabira Nasir
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Mechaniczny Anioł, Kat_
 

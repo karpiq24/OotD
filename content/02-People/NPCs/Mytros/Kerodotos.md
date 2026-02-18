@@ -2,7 +2,7 @@
 title: Kerodotos
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Gnomi kapłan i filozof, autor "Dialogów Kerodotos"._
 

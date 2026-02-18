@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/032/chat_log.json)"
 ---
 **Data:** 25.11.2024
 
-![Darien](../assets/sessions/032/darien.png)
+![Darien](../assets/sessions/032/darien.webp)
 
 ## Podsumowanie
 

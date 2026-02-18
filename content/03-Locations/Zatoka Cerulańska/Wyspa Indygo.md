@@ -2,7 +2,7 @@
 title: Wyspa Indygo
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Wyspa położona na zachód od kontynentu, w obrębie [[Zatoka Cerulańska|Zatoki Cerulańskiej]]. Znajduje się pod Konstelacją Królowej._
 

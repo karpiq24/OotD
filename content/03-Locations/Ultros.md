@@ -3,7 +3,7 @@ title: Ultros
 image_prompt: ancient Greek trireme battleship, majestic and formidable. It has a dark wood hull reinforced with bronze and iron, and massive purple sails with golden embroidery. The ship features three rows of oars and an imposing figurehead of a dragon or sea monster. It radiates a magical aura of power but is distinctly physical and not ghostly. It is capable of sailing on water and flying through the sky.
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Legendarny Okręt Bojowy, niegdyś statek widmo [[Estor Arkelander|Estora Arkelandera]], obecnie pod dowództwem [[Orestes|Orestesa]]._
 

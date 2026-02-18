@@ -2,7 +2,7 @@
 title: Nona
 ---
 
-![Nona i Orion](../../../assets/sessions/047/047_nona.jpg)
+![Nona i Orion](../../../assets/sessions/047/047_nona.webp)
 
 _Jedna z trzech Mojr, odpowiedzialna za przędzenie nici._
 

@@ -2,7 +2,7 @@
 title: Nera
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Złodziejka i członkini Kultu Węża._
 

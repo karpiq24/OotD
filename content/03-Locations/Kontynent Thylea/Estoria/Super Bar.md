@@ -2,7 +2,7 @@
 title: Super Bar
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Popularny lokal w [[Estoria|Estorii]], znany z wyśmienitego piwa i radosnej atmosfery. Bar jest prowadzony przez [[Brax|Braxa]], krewnego [[Orestes|Orestesa]].
 

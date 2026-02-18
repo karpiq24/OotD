@@ -2,7 +2,7 @@
 title: Moxena
 ---
 
-![Moxena](../../../assets/sessions/022/022_moxena.jpg)
+![Moxena](../../../assets/sessions/022/022_moxena.webp)
 
 _Tajemnicza "Pani Monet", okazała się być Meduzą porywającą artystów, która teraz szuka odkupienia._
 

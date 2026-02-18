@@ -2,7 +2,7 @@
 title: Kalisto
 ---
 
-![Kalisto](../../../assets/sessions/066/066_kalisto.png)
+![Kalisto](../../../assets/sessions/066/066_kalisto.webp)
 
 _Wysłanniczka Pani Snów._
 

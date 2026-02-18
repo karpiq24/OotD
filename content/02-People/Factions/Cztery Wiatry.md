@@ -2,7 +2,7 @@
 title: Cztery Wiatry
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Legendarna grupa czterech bardów-posłańców._
 

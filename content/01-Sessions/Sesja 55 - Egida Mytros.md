@@ -6,13 +6,13 @@ chat_log: "[Chat log](../assets/sessions/055/chat_log.json)"
 ---
 **Data:** 04.08.2025
 
-![Knucie Acastusa](../assets/sessions/055/055_schemes.png)
+![Knucie Acastusa](../assets/sessions/055/055_schemes.webp)
 
 ## Podsumowanie
 
 Na pokładzie legendarnego [[Ultros|Ultrosa]], prującego fale [[Zatoka Cerulańska|Zatoki Cerulańskiej]] w drodze powrotnej do [[Mytros]], panowała atmosfera ulgi zmieszanej z niepokojem. [[Bohaterowie Przepowiedni]], po brawurowej i niezwykle ryzykownej infiltracji wyspy [[Wyspa Yonder|Yonder]], dzierżyli w dłoniach bezcenny skarb – [[Konspekt Strategiczny Tytanów|strategiczny konspekt wojenny]] samego [[Sydon|Sydona]]. Jednak triumf ten miał gorzki posmak, gdyż na pokładzie statku znajdował się również [[Chondrus]], były doradca króla [[Acastus|Akastusa]] i, jak podejrzewano, sługa mrocznej [[Lutheria|Lutherii]], a w sercu miasta czekał na nich nieprzewidywalny król [[Acastus|Akastus]].
 
-![Powitanie](../assets/sessions/055/055_welcome.png)
+![Powitanie](../assets/sessions/055/055_welcome.webp)
 
 Gdy na horyzoncie zamajaczyły mury [[Mytros]], bohaterów nie powitały radosne okrzyki tłumów. Zamiast tego, w blasku zachodzącego słońca, na nabrzeżu czekał na nich zwarty, milczący oddział centurionów, a nad nimi, na tle purpurowego nieba, unosił się miedziany smok, którego łuski lśniły niczym monety w ogniu. Mieszkańcy, choć licznie zgromadzeni, trzymali się w bezpiecznej odległości, szepcząc między sobą z mieszaniną ciekawości, nadziei i strachu. W ich oczach bohaterowie nie byli już tylko herosami z igrzysk – stali się omenem nadciągającej burzy.
 
@@ -26,33 +26,33 @@ Następnie poruszono drażliwą kwestię [[Chondrus|Chondrusa]]. [[Vallus]] potw
 
 Po złożeniu ofiar, bohaterowie, eskortowani przez straż, udali się do sali tronowej. Tam, na tronie, w otoczeniu swej konkubiny [[Bella|Belli]] i królowej [[Vallus]], która zdążyła ich uprzedzić, czekał król [[Acastus|Akastus]]. [[Acastus|Akastus]], niczym wytrawny aktor na scenie, rozpoczął swój spektakl. Oskarżył bohaterów o lekkomyślne sprowokowanie wojny poprzez zabicie [[Gaius|Gaiusa]] i jego smoczycy oraz sprofanowanie świątyni Pana Burz. [[Versir]] odparł te zarzuty z dyplomatyczną precyzją, przedstawiając ich działania jako misję odzyskania skradzionego artefaktu i akt samoobrony.
 
-![Acastus](../assets/sessions/055/055_acastus.png)
+![Acastus](../assets/sessions/055/055_acastus.webp)
 
 Lecz król nie słuchał. Wygłosił płomienną mowę do zebranych dworzan, przedstawiając bohaterów jako relikt przeszłości, a siebie jako wizjonera nowej ery. Z dumą zaprezentował swoją nową doradczynię, [[Ismene Neurdagon|Ismene Neurdagon]], oraz owoc jej pracy – Egidę Mytros. Na jego znak, do sali wmaszerowało dziesięć przerażających postaci: fuzja brązu i ludzkiego ciała, bio-automatyczni żołnierze, którzy mieli bronić miasta bez przelewania krwi jego obywateli. Tłum wybuchł aplauzem. W jednej chwili [[Acastus|Akastus]] ukradł bohaterom ich chwałę, przedstawiając ich jako niebezpiecznych awanturników, a siebie jako zbawcę.
 
-![Ismene Neurdagon i Egida Mytros](../assets/sessions/055/055_ismene.png)
+![Ismene Neurdagon i Egida Mytros](../assets/sessions/055/055_ismene.webp)
 
 Na tym jednak nie skończył się jego teatr. Gdy [[Tarchon]] szepnął mu coś na ucho, król był chwilowo zaskoczony, a następnie z udawaną radością odkrył obecność swej matki, [[Idylla|Idylli]]. Odegrana scena radosnego, rodzinnego pojednania była mistrzowskim posunięciem, które ostatecznie scementowało jego pozycję w oczach dworu i ludu.
 
-![Wizyta u Vallus](../assets/sessions/055/055_plans.png)
+![Wizyta u Vallus](../assets/sessions/055/055_plans.webp)
 
 Po tym upokarzającym spektaklu, bohaterowie zostali zaproszeni do prywatnych komnat królowej [[Vallus]], gdzie kontynuowali rozmowę. [[Vallus]] nie kryła pogardy dla „zabawek” swojego męża, nazywając Egidę pomnikiem jego pychy. Rozmowa zeszła na ich liczne podróże: opowiedzieli o sojuszu z Amazonkami, uwolnieniu [[Chalcia|Chalcii]] na [[Wyspa Ognia|Wyspie Ognia]], wizji na [[Wyspa Złotego Serca|Wyspie Złotego Serca]], spotkaniu z [[Wiedźma Lotosu|Wiedźmą Lotosu]] i [[Mojry|Mojrami]], a także o tragikomicznej przygodzie na [[Wyspa Forlorn|Wyspie Forlorn]], gdzie zostali zamienieni w gęsi. Te opowieści, szczególnie te dotyczące historii [[Tytani|Tytanów]], wstrząsnęły [[Vallus]], która z pokorą przyznała, że przez wieki walczyli z wrogiem, którego natury w pełni nie rozumieli.
 
-![Vallus o Smoczych Lordach](../assets/sessions/055/055_dragonlords.png)
+![Vallus o Smoczych Lordach](../assets/sessions/055/055_dragonlords.webp)
 
 Przed wyjściem, [[Vallus]] zatrzymała [[Felicjan Janus Twardowski|Felicjana]] na prywatną rozmowę. Opowiedziała mu o starym Zakonie [[Smoczy Lordowie|Smoczych Lordów]], o tym czym był, a także czym powinien być nowy Zakon. Mówiła, że smoki nie są tylko narzędziem wojny. Smoki są partnerami, przyjacielami [[Smoczy Lordowie|Smoczych Lordów]]. Zasugerowała również [[Felicjan Janus Twardowski|Felicjanowi]], że nie może on dosiadać wszystkich smoków - powinien znaleźć dla nich jeźdźców.
 
-![Srying](../assets/sessions/055/055_scrying.png)
+![Srying](../assets/sessions/055/055_scrying.webp)
 
 Po audiencji nadszedł czas na załatwienie zaległych spraw w [[Mytros]]. Bohaterowie udali się na zakupy, zaopatrując się w liczne mikstury lecznicze i magiczne komponenty. [[Felicjan Janus Twardowski|Felicjan]] odwiedził swoją rodzinę, a [[Orestes]], ku uciesze załogi, uzupełnił zapasy piwa, konsultując interesy z wujaszkiem [[Silenos|Silenosem]]. [[Arevon Elorrenthi|Arevon]] podjął się szpiegowania [[Hergeron|Hergerona]] za pomocą zaklęcia __Scrying__. Okazało się, że tytan przejął bezpośrendią władzę nad [[Zakon Sydona|Zakonem Sydona]], żąda zmiany planów wojennych oraz zemsty na [[Bohaterowie Przepowiedni|Bohaterach Przepowiedni]].
 
 Jednak [[Acastus|Akastus]] nie zamierzał dać za wygraną. Wezwał do siebie [[Felicjan Janus Twardowski|Felicjana]], próbując go zmanipulować i przekonać do oddania jego smoków pod kontrolę nowo formowanego, królewskiego zakonu. Oferował mu stanowisko generała, lecz czarodziej, pomny rad [[Vallus]] i własnego instynktu, z godnością odrzucił tę propozycję.
 
-![Volkan i Keledone](../assets/sessions/055/055_volkan.png)
+![Volkan i Keledone](../assets/sessions/055/055_volkan.webp)
 
 W końcu nadszedł wyczekiwany moment. Na pokładzie [[Ultros|Ultrosa]] wylądował się [[Keledone]], mechaniczny posłaniec, niosąc w swych ramionach, niczym worek ziemniaków, samego [[Volkan|Volkana]]. Bóg kuźni, z miną wyrażającą skrajne niezadowolenie z tej formy transportu, przekazał [[Arevon Elorrenthi|Arevonowi]] naprawioną i ulepszoną [[Antikythera|Antikyterę]]. [[Felicjan Janus Twardowski|Felicjanowi]] zaś wręczył nową, różdżkę, wykutą ze smoczego rogu. [[Volkan]] następnie wprosił się na piwo do [[Orestes|Orestesa]] na które dołączył również wujaszek [[Silenos|Silenus]].
 
-![Piwo z bogiem](../assets/sessions/055/055_beer.png)
+![Piwo z bogiem](../assets/sessions/055/055_beer.webp)
 
 Z naprawionym kompasem i uzupełnionymi zapasami, bohaterowie byli gotowi do dalszej drogi. Pożegnali się z sojusznikami, pozostawiając obronę [[Mytros]] w rękach [[Vallus]], i o świcie, pod osłoną porannej mgły, [[Ultros]] podniósł kotwicę. Obierając kurs na tajemniczą [[Konstelacja Nimfy|konstelację Nimfy]], wypłynęli na nieznane wody [[Zapomniane Morze|Zapomnianego Morza]], niosąc na swych barkach ciężar przepowiedni i los całej Thylei. Ich odyseja trwała.
 
@@ -109,6 +109,6 @@ Z naprawionym kompasem i uzupełnionymi zapasami, bohaterowie byli gotowi do dal
 * Mikstury lecznicze i komponenty magiczne (zakupione w mieście)
 
 ## Filmy
-![Acastus Offer](../assets/sessions/055/055_acastus_offer.mp4)
-![Volkan](../assets/sessions/055/055_volkan.mp4)
-![War](../assets/sessions/055/055_war.mp4)
+![Acastus Offer](../assets/sessions/055/055_acastus_offer.webm)
+![Volkan](../assets/sessions/055/055_volkan.webm)
+![War](../assets/sessions/055/055_war.webm)

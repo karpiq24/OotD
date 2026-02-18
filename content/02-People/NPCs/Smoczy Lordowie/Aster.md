@@ -2,7 +2,7 @@
 title: Aster
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Żona i przewodnik Xandera Huoratha_
 
