@@ -53,8 +53,10 @@ Use this skill to create a video script file with prompts for Google Veo, based 
         **Art Style**: {Selected Art Style}
         
         ## Scene 1: {Event Name}
-        **Start Frame Prompt**: {Detailed Image Prompt with FULL character descriptions and art style}
-        **Video Prompt**: {Veo Video Prompt with FULL character descriptions}
+        **Start Frame Prompt**: 
+        {Detailed, Multi-line, Long, Image Prompt with FULL character descriptions and art style}
+        **Video Prompt**: 
+        {Veo Video Prompt with FULL character descriptions}
         
         ## Scene 2...
         ```
