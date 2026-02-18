@@ -2,7 +2,7 @@
 title: Hand of Kentiname
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Rękawice, Rzadki (Wymaga dostrojenia)_
 

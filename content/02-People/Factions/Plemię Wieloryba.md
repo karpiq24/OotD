@@ -2,7 +2,7 @@
 title: Plemię Wieloryba
 ---
 
-![Delg](../../../content/assets/sessions/043/043_delg.jpg)
+![Delg](../../../content/assets/sessions/043/043_delg.webp)
 
 _Krasnoludzkie plemię z Wyspy Indygo, strażnicy Kopalni Żelaza._
 

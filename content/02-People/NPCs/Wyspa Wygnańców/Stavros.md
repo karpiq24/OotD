@@ -2,7 +2,7 @@
 title: Stavros
 ---
 
-![Stavros](../../../assets/sessions/045/045_stavros.jpg)
+![Stavros](../../../assets/sessions/045/045_stavros.webp)
 
 _Obecny przywódca (Król) więźniów na Wyspie Wygnańców._
 

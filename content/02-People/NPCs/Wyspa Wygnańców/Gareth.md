@@ -2,6 +2,6 @@
 title: Gareth
 ---
 
-![Gareth](../../../assets/sessions/045/045_gareth_silas.jpg)
+![Gareth](../../../assets/sessions/045/045_gareth_silas.webp)
 
 _Jeden z wygnańców towarzyszących Stavrosowi._

@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/043/chat_log.json)"
 ---
 **Data:** 03.03.2025
 
-![Stabo Crabo](../assets/sessions/043/043_crab.jpg)
+![Stabo Crabo](../assets/sessions/043/043_crab.webp)
 
 ## Podsumowanie
 
@@ -14,7 +14,7 @@ Słońce, niczym złoty talar, powoli chyliło się ku zachodowi, malując niebo
 
 Elfy, choć początkowo nieufne wobec uzbrojonych przybyszów, wysłuchały opowieści druida. Wzbudził ich zainteresowanie, wspominając o spotkaniu ze smoczycą i proroctwie dotyczącym [[Mojry|Mojr]], smoków i [[Sydon|Sydona]]. [[Orestes]], korzystając z magicznej maski otrzymanej niegdyś od [[Volkan|Volkana]], przybrał postać Karola Strasburgera, dodając spotkaniu nuty humorystycznego zaskoczenia.
 
-![Delfin](../assets/sessions/043/043_dolphin.jpg)
+![Delfin](../assets/sessions/043/043_dolphin.webp)
 
 W końcu, przed bohaterami stanęła przywódczyni plemienia, [[Delfin]]. Dostojna elfka, otoczona szacunkiem swych pobratymców, przyjęła ich z godnością i powagą. Arevon, kontynuując swą rolę, przedstawił cel wyprawy – poszukiwanie sojuszników w walce ze smokiem i, w szerszej perspektywie, zagrażającym Thylei Tytanom.
 
@@ -26,7 +26,7 @@ Bohaterowie, dziękując za gościnę i cenne informacje, wyruszyli w dalszą dr
 
 Po krótkim odpoczynku w pobliżu gór, Orestes, ku rozpaczy towarzyszy, umilał im czas grą na dudach. Nocą, jego czujność została wystawiona na próbę, gdy dostrzegł obserwującą ich wiewiórkę. Nie namyślając się długo, minotaur cisnął w nią kamieniem, pozbawiając ją życia. Ku jego zaskoczeniu, na drzewie pojawiły się trzy kolejne wiewiórki, które jednak szybko zniknęły w lesie. Orestes, ozdobiwszy swe dudy kitą zabitej wiewiórki, opowiedział o nocnym incydencie towarzyszom, wzbudzając ich rozbawienie i niepokój.
 
-![Orestes grający na dudach](../assets/sessions/043/043_bagpipes.jpg)
+![Orestes grający na dudach](../assets/sessions/043/043_bagpipes.webp)
 
 Wraz z nastaniem świtu, bohaterowie kontynuowali wędrówkę w głąb wyspy, w kierunku siedziby plemienia Wieloryba. Dotarli do wąskiej ścieżki górskiej, gdzie ich oczom ukazał się zawalony most. Droga została przerwana, a przepaść, szeroka na około czterdzieści stóp, uniemożliwiała dalszą przeprawę.
 
@@ -34,7 +34,7 @@ Po krótkiej naradzie, [[Felicjan Janus Twardowski|Felicjan]], wykorzystując ma
 
 Gdy [[Versir]], dotarł na drugą stronę, usłyszeli głos dochodzący zza kamienia. "Smoczyca będzie niezadowolona" – ostrzegł nieznajomy głos, należący do krasnoluda, [[Borinn Bystre Oko|Borinna Bystrego Oka]]. Krasnolud, z jednym ślepym okiem i górniczym kaskiem na głowie, ukrywał się za kamieniem, najwyraźniej obawiając się smoczycy.
 
-![Borinn Bystre Oko](../assets/sessions/043/043_borinn.jpg)
+![Borinn Bystre Oko](../assets/sessions/043/043_borinn.webp)
 
 Versir, próbując uspokoić krasnoluda, wyjaśnił, że przybyli, by rozprawić się ze smoczycą. Borinn, opowiedział im o tragedii, jaka dotknęła plemię Wieloryba. Smoczyca Ventis zajęła kopalnię, a ich przywódca, [[Delg]], został zmuszony do posłuszeństwa, gdyż smok porwał jego córkę, [[Brenna|Brennę]].
 
@@ -44,13 +44,13 @@ W końcu, dotarli do obozu, gdzie widoczne były ślady walk i zniszczeń spowod
 
 Przywódca krasnoludów, Delg, wyrażając swą bezsilność wobec smoka i troskę o los córki, z rezygnacją słuchał słów bohaterów. Dopiero wzmianka o bliskim starciu ze smoczycą wzbudziła w nim iskrę nadziei. Opowiedział im o Brennie, którą smok trzymał jako zakładniczkę w swym leżu, w naturalnej jaskini, do której prowadziły tunele kopalni.
 
-![Delg](../assets/sessions/043/043_delg.jpg)
+![Delg](../assets/sessions/043/043_delg.webp)
 
 Rozmowa z krasnoludami przyniosła cenne, choć niepokojące informacje. Smoczyca Ventis sprzymierzyła się z dzikimi zwierzętami, a kopalni strzegły wodne bestie. Borin, na prośbę bohaterów, naszkicował poglądowy rysunek leża smoka, wskazując na potencjalne zagrożenia i trudności.
 
 Prowadzeni przez Borinna, wyruszyli w stronę wejścia do kopalni, gdzie zmierzyli się z armią wiewiórek i krabem uzbrojonym w sztylet. Następnie drużyna wkroczyłą w głąb kopalni gdzie starli się z wodnymi żywiołakami i żywymi piorunami, strzegącymi dostępu do dalszej częsci kopalni. Walka była zacięta i wyczerpująca, lecz dzięki współpracy i determinacji, udało im się pokonać przeciwników.
 
-![Walka w kopalni](../assets/sessions/043/043_elementals.jpg)
+![Walka w kopalni](../assets/sessions/043/043_elementals.webp)
 
 Po rozejrzeniu się w kopalni i zwiedzeniu tuneli, bohaterowie postanowili wrócić do obozu plemienie Wieloryba, aby opracować dalszy plan. Postanowili wysłać wiadomości do plemion Delfina i Węgorza, ostrzegając ich o potencjalnym zagrożeniu ze strony smoka. Felicjan i Arevon, korzystając ze swoich chowańców, wysłali z listami do przywódczyń obu plemion.
 

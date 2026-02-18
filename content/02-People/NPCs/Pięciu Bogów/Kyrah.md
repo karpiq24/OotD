@@ -3,7 +3,7 @@ title: Kyrah
 image_prompt: young adult female, beautiful ancient Greek goddess, slender build, olive skin, long wavy black hair styled in a braid, loose curls framing her face, captivating green eyes, light freckles across her nose, gentle smile, wearing a white chiton and a dark teal-green himation, adorned with ornate gold jewelry, golden Greek key armband, gold pendant necklace, golden hair clip, dangling gold earrings, anime art style.
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Jeden z [[Moce Thylei#Pięciu Bogów|Pięciu Bogów]] Thylei, Bogini Muzyki i Podstępu, znana jako Muza._
 

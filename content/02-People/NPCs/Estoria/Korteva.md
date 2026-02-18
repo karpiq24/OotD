@@ -2,7 +2,7 @@
 title: Korteva
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Bezwzględna przywódczyni bandytów działających w okolicach [[Woodhike]]._
 

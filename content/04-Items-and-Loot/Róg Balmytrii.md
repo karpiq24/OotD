@@ -2,7 +2,7 @@
 title: Róg Balmytrii
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Artefakt_
 

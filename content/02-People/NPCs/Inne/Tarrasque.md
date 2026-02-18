@@ -2,7 +2,7 @@
 title: Tarrasque
 ---
 
-![Tarrasque](../../../assets/sessions/065/065_tarrasque.png)
+![Tarrasque](../../../assets/sessions/065/065_tarrasque.webp)
 
 _Legendarny Pożeracz Światów, Zguba Bogów._
 

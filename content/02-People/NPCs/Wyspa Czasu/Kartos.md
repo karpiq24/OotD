@@ -2,7 +2,7 @@
 title: Kartos
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Oskarżony Androsfinks_
 

@@ -2,7 +2,7 @@
 title: Świątynia w Starym Lesie
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Zrujnowany kompleks świątynny ukryty głęboko w [[Stary Las|Starym Lesie]]._
 

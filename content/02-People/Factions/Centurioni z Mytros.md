@@ -2,7 +2,7 @@
 title: Centurioni z Mytros
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Regularna armia obrońców Mytros._
 

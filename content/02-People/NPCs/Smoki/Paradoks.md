@@ -2,7 +2,7 @@
 title: Paradoks
 ---
 
-![Paradoks](../../../assets/sessions/065/065_paradox.png)
+![Paradoks](../../../assets/sessions/065/065_paradox.webp)
 
 _Niebieski smok wykluty ze Smoczego Jaja na pokładzie Ultrosa._
 

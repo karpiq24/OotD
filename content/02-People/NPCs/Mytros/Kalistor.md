@@ -2,7 +2,7 @@
 title: Kalistor
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Syn Pythora i śmiertelniczki._
 

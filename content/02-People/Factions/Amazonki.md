@@ -2,7 +2,7 @@
 title: Amazonki
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Wojowniczy naród kobiet zamieszkujący wyspę Themis._
 

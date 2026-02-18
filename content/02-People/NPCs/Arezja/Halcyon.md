@@ -2,7 +2,7 @@
 title: Halcyon
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Wielka Mistrzyni Tarczy w Arezji, liderka najpotężniejszej świątyni w mieście._
 

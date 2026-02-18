@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/046/chat_log.json)"
 ---
 **Data:** 31.03.2025
 
-![Keelan](../assets/sessions/045/045_keelan.jpg)
+![Keelan](../assets/sessions/045/045_keelan.webp)
 
 ## Podsumowanie
 
@@ -20,13 +20,13 @@ W międzyczasie reszta drużyny – [[Orestes]], [[Felicjan Janus Twardowski|Fel
 
 Po rozmowie ze [[Stavros|Stavrosem]] i wymianie informacji z [[Versir|Versirem]], podejrzenia zaczęły krążyć wokół pozostałych kandydatów. [[Tadd]], znany ze swojej brutalności i niestabilności psychicznej, wydawał się naturalnym podejrzanym, choć metoda otrucia nie do końca pasowała do jego wcześniejszych zbrodni. Z drugiej strony, [[Keelan]], były wojownik pełen nienawiści, oraz [[Tyrone]], rywal [[Stavros|Stavrosa]] do władzy, również pozostawali w kręgu podejrzeń.
 
-![Tadd](../assets/sessions/046/046_tadd.jpg)
+![Tadd](../assets/sessions/046/046_tadd.webp)
 
 Drużyna postanowiła odwiedzić [[Tadd|Tadda]]. Jego chata, już na pierwszy rzut oka, zdradzała chaos panujący w umyśle mieszkańca. Narzędzia rzeźbiarskie walały się bezładnie, a wokół piętrzyły się śmieci. Gdy bohaterowie zapukali, z wnętrza dobiegł krzyk strachu, a drzwi zatrzasnęły się z hukiem. [[Orestes]], obchodząc chatę, zauważył ruch przy oknie – [[Tadd]] najwyraźniej próbował uciec. Minotaur błyskawicznie zareagował, rzucając się w stronę okna i chwytając niziołka, zanim ten zdążył wyskoczyć. Minotaur obezwładnił przerażonego [[Tadd|Tadda]], który kurczowo ściskał w dłoni nóż. Minotaur, próbując uspokoić sytuację, zaoferował Niziołkowi łyk piwa ze swojego magicznego kufla, obiecując spokojną rozmowę. [[Tadd]], choć wciąż roztrzęsiony, bełkotał coś o mordercy, oczach w ciemności, które go obserwują i przyjdą po niego, a potem po bohaterów. Jego paniczny strach i chaotyczne wypowiedzi zdawały się wskazywać bardziej na ofiarę psychozy niż na zimnokrwistego zabójcę. Przeszukanie chaty ujawniło liczne, niepokojące rzeźby i rysunki, ale nic, co bezpośrednio łączyłoby [[Tadd|Tadda]] z rytualnymi morderstwami.
 
 Następnie bohaterowie natknęli się na [[Keelan|Keelana]], kręcącego się podejrzanie niedaleko domu [[Stavros|Stavrosa]]. [[Keelan]], zapytany o morderstwa, odpowiadał zdawkowo i niechętnie. Wspominał ofiary z pogardą: [[Cronos|Cronosa]] jako tyrana, [[Lysander|Lysandra]] jako poetę, [[Petros|Petrosa]] jako samotnika, a [[Marius|Mariusa]] jako słabe narzędzie w rękach [[Tyrone|Tyrona]]. Zapytany o swoją przeszłość i powód zesłania, [[Keelan]] przyznał, że zabił własnego brata podczas kłótni, czego wydawał się żałować, choć jego ogólna postawa była pełna zgorzknienia. [[Orestes]] poczęstował go piwem, które [[Keelan]] wypił łapczywie, komentując, że woli je od wina. Porównanie jego butów z tym znalezionym przez [[Versir|Versira]] nie dało jednoznacznych rezultatów – rozmiar mógł pasować.
 
-![Orestes ogląda beczki](../assets/sessions/046/046_barells.jpg)
+![Orestes ogląda beczki](../assets/sessions/046/046_barells.webp)
 
 Kolejnym celem stali się ludzie [[Tyrone|Tyrona]] – [[Gareth]] i [[Silas]], których bohaterowie zastali przy przenoszeniu beczek z winem niedaleko chaty ich mocodawcy. [[Felicjan Janus Twardowski|Felicjan]] od razu sięgnął po *Wykrycie Myśli*. W powierzchownych myślach obu mężczyzn wyczuł znużenie, irytację, ale także lekki smutek, który nasilił się, gdy [[Versir]] zaczął pytać o zamordowanego [[Marius|Mariusa]]. Zapytani o powód zesłania, początkowo kręcili, ale pod lekką presją [[Orestes|Orestesa]] (groźba zniszczenia beczki wina), przyznali, że zostali zesłani za włamanie na zlecenie, które poszło nie tak. O [[Marius|Mariusie]] mówili ciepło, wspominając wspólne picie wina za plecami [[Tyrone|Tyrona]]. Przyznali, że czasem podkradali wino z beczek [[Tyrone|Tyrona]], ulewając po trochu z każdej, by nikt się nie zorientował. W głębszych myślach [[Gareth|Garetha]], [[Felicjan Janus Twardowski|Felicjan]] wyczuł strach przed mordercą i nadzieję, że [[Tyrone|Tyron]] ich obroni. Żaden z nich nie wydawał się zamieszany w zbrodnie, a ich buty również nie pasowały idealnie do znalezionego odcisku.
 
@@ -34,7 +34,7 @@ W trakcie tej rozmowy pojawił się sam [[Tyrone]], potężnie zbudowany mężcz
 
 W międzyczasie [[Arevon Elorrenthi|Arevon]] zakończył swój długi odpoczynek, odzyskując siły i przygotowując nowe zaklęcia. Zdecydował się na desperacki, choć genialny w swej prostocie plan – użyć czaru *Rozmowa z Roślinami*. Pamiętał, że przy każdej ofierze znajdowano liść figowy, a niedalogo cmentarza rosły właśnie drzewa figowe.
 
-![Arevon rozmawia z drzewm](../assets/sessions/046/046_figtree.jpg)
+![Arevon rozmawia z drzewm](../assets/sessions/046/046_figtree.webp)
 
 Najpierw jednak spróbował porozmawiać z krzakiem przed świątynią, gdzie znaleziono ciało [[Marius|Mariusa]], ale ich pamięć okazała się zbyt ulotna. Następnie udał się do drzew figowych rosnących nieopodal cmentarza. Rzucił zaklęcie *Rozmowa z Roślinami* i zapytał drzewa, kto ostatnio zrywał ich liście. Drzewa, choć nie posiadały oczu w ludzkim rozumieniu, "pamiętały" dotyk i obecność osoby, która regularnie, zawsze pod osłoną nocy, pozbawiała je liści. Opisały tę postać jako umiarkowanie wysoką. [[Arevon Elorrenthi|Arevon]], mając teraz konkretny rysopis, poprosił pozostałych o przyprowadzenie podejrzanych.
 
@@ -48,17 +48,17 @@ Zdemaskowany [[Keelan]] wygłosił płomienną mowę do zebranego tłumu wygnań
 
 Tłum zawrzał, domagając się natychmiastowej egzekucji. [[Stavros]], wyraźnie przytłoczony sytuacją, początkowo wahał się, sugerując wygnanie (co spotkało się z drwiną [[Arevon Elorrenthi|Arevona]], pytającego, czy chce zostawić los mordercy w rękach [[Sydon|Sydona]]). Ostatecznie jednak, pod naporem tłumu i [[Tyrone|Tyrona]] (który jednak sam stchórzył, gdy podsunięto mu nóż), zgodził się na śmierć [[Keelan|Keelana]].
 
-![Egzekucja](../assets/sessions/046/046_execution.jpg)
+![Egzekucja](../assets/sessions/046/046_execution.webp)
 
 [[Orestes]] zgłosił się na ochotnika do wykonania wyroku. Po krótkiej wymianie zdań z [[Keelan|Keelanem]], który wyraził żal jedynie za zabicie brata, Minotaur uniósł swój potężny topór i jednym, czystym cięciem pozbawił mordercę głowy. Głowa potoczyła się w stronę [[Stavros|Stavrosa]], a jedynym dźwiękiem, jaki przerwał ciszę, był radosny okrzyk [[Tadd|Tadda]].
 
 Po egzekucji [[Stavros]] i [[Idylla]] podziękowali bohaterom za rozwiązanie sprawy morderstw. [[Idylla]] wyraziła chęć opuszczenia wyspy wraz z nimi, licząc na ochronę i możliwość powrotu do [[Mytros]] pod ich egidą. Bohaterowie, po krótkiej naradzie, zgodzili się ją zabrać. [[Stavros]], w imieniu swoim i całej wyspy, złożył uroczystą przysięgę, że gdy nadejdzie czas konfliktu z [[Sydon|Sydonem]] i [[Lutheria|Lutherią]], wygnańcy staną po stronie Bohaterów Przepowiedni na ile to będzie możliwe. [[Arevon Elorrenthi|Arevon]], przezornie, przed odpłynięciem wyrwał trujące kwiaty [[Nightshade Whisper]] z ogrodu [[Idylla|Idylli]], by nie kusiły kolejnych potencjalnych trucicieli.
 
-![Morskie wiedźmy](../assets/sessions/046/046_hags.jpg)
+![Morskie wiedźmy](../assets/sessions/046/046_hags.webp)
 
 W końcu bohaterowie, wraz z [[Idylla|Idyllą]], opuścili [[Wyspa Wygnańców|Wyspę Wygnańców]], żegnani przez jej mieszkańców. Po ustaleniu kursu (po krótkiej debacie i głosowaniu padło na wyspę powiązaną z konstelacją Barda), [[Ultros]] ponownie przeciął fale Morza Cerulańskiego. Podróż trwała trzy dni. Pierwszy dzień minął spokojnie, choć morze było nieco wzburzone. Wieczorem powrócił mechaniczny [[Keledone]], przynosząc magiczny przedmiot – różdżkę z rogu smoka. [[Orestes]] zdążył jeszcze przekazać ptakowi list do swojego wujaszka, z prośbą o informacje na temat liści koki. Drugi dzień również upłynął bez większych incydentów. Trzeciego dnia jednak, gdy cel podróży był już bliski, na horyzoncie pojawił się niewielki, na wpół zniszczony stateczek. Na jego pokładzie stały trzy piękne, skąpo odziane kobiety o długich blond włosach. Gdy tylko zauważyły [[Ultros]]a, zaczęły śpiewać hipnotyzującą pieśń, wabiąc załogę. Część marynarzy, w tym niejaki [[Andrzej Drugi]], wpadła w trans i rzuciła się do wody, płynąc w stronę istot. [[Felicjan Janus Twardowski|Felicjan]], rozpoznając zagrożenie, nie wahał się ani chwili – potężna kula ognia pomknęła w stronę wrogiego stateczku. Tuż przed eksplozją, postacie kobiet rozpłynęły się, ukazując swoje prawdziwe, potworne oblicza, po czym zniknęły w głębinach, wydając przeraźliwe piski. [[Orestes]], nie tracąc zimnej krwi, wskoczył na swojego wiernego morskiego konia i wyłowił zahipnotyzowanego [[Andrzej Drugi|Andrzeja Drugiego]], ratując go przed utonięciem.
 
-![Andrzej Drugi](../assets/sessions/046/046_andrzej.jpg)
+![Andrzej Drugi](../assets/sessions/046/046_andrzej.webp)
 
 Po odparciu ataku syren, [[Ultros]] kontynuował podróż, zbliżając się do celu – tajemniczej wyspy związanej z konstelacją Barda. Bohaterowie awansowali również na 8 poziom doświadczenia, gotowi stawić czoła nowym wyzwaniom, jakie z pewnością czekały na nich w tym nieznanym zakątku Thylei.
 

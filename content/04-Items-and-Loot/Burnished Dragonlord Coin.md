@@ -2,7 +2,7 @@
 title: Burnished Dragonlord Coin
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Specjalna moneta, pozwalająca na bezpieczne wejście do Nekropolii._
 

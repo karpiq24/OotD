@@ -2,7 +2,7 @@
 title: Chalcia
 ---
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.webp)
 
 _Córka Sydona i Lutherii, przebiegła obserwatorka._
 

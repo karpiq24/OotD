@@ -2,7 +2,7 @@
 title: Despina
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Tajemnicza prababka Felicjana.
 

@@ -2,7 +2,7 @@
 title: Syrenie Gniazdo
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Luksusowy dom rozkoszy._
 

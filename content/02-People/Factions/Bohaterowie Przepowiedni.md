@@ -2,7 +2,7 @@
 title: Bohaterowie Przepowiedni
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Grupa bohaterów wybranych przez los, aby wypełnić Wielką Przepowiednię i ocalić Thyleę._
 

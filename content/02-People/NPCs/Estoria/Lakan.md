@@ -2,7 +2,7 @@
 title: Lakan
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Król Estorii z legendy o Konstelacji Nimfy_
 

@@ -2,7 +2,7 @@
 title: Agora w Estorii
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Centralny punkt aktywności w [[Estoria|Estorii]], służący jako rynek i plac publiczny. Ulice miasta zbiegają się tutaj, tworząc tętniącą życiem przestrzeń otoczoną budynkami handlowymi.
 

@@ -3,7 +3,7 @@ title: Gaius
 image_prompt: middle-aged male, rugged build, fantasy commander, Roman-inspired, short dark messy hair, a strong jawline, an intense and scowling expression, wearing brass pauldrons under a heavy royal blue cloak, a red and black insignia on his cloak, battle-hardened veteran, digital painting style.
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Dowódca [[Zakon Sydona|Zakonu Sydona]], nieubłagany wykonawca woli Władcy Burz._
 

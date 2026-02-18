@@ -2,7 +2,7 @@
 title: Ajax
 ---
 
-![Ajax](../../../assets/sessions/052/052_ajax.png)
+![Ajax](../../../assets/sessions/052/052_ajax.webp)
 
 _Fanatyczny kapłan i kapitan_ [[Zakon Sydona|Zakonu Sydona]]_.
 

@@ -2,7 +2,7 @@
 title: Balmytria
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Srebrna Smoczyca_
 

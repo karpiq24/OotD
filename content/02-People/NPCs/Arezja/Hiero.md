@@ -2,7 +2,7 @@
 title: Hiero
 ---
 
-![Hiero](../../../assets/sessions/062/062_Hiero.png)
+![Hiero](../../../assets/sessions/062/062_Hiero.webp)
 
 _Wielki Mistrz Miecza, stoicki wojownik o nienagannej reputacji._
 

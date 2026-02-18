@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/026/chat_log.json)"
 ---
 **Data:** 14.10.2024
 
-![Colosseum](../assets/sessions/026/026_colosseum.png)
+![Colosseum](../assets/sessions/026/026_colosseum.webp)
 
 ## Podsumowanie
 

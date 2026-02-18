@@ -2,7 +2,7 @@
 title: Półwysep Arezyjski
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Wschodni kraniec Thylei, zdominowany przez miasto-państwo [[Arezja]]._
 

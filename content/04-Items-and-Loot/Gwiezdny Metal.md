@@ -2,7 +2,7 @@
 title: Gwiezdny Metal
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Materiał Rzemieślniczy, Rzadki_
 

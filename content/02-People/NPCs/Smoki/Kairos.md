@@ -2,7 +2,7 @@
 title: Kairos
 ---
 
-![Narodziny Smoka](../../../assets/sessions/048/048_kairos.jpg)
+![Narodziny Smoka](../../../assets/sessions/048/048_kairos.webp)
 
 _Młody brązowy smok, związany z Felicjanem._
 

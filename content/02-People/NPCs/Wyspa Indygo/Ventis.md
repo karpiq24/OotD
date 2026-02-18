@@ -2,7 +2,7 @@
 title: Ventis
 ---
 
-![Ventis](../../../assets/sessions/042/042_dragon.jpg)
+![Ventis](../../../assets/sessions/042/042_dragon.webp)
 
 _Potężna miedziana smoczyca służąca Sydonowi._
 

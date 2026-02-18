@@ -2,7 +2,7 @@
 title: Brama Handlowa
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Druga brama Mytros, prowadząca do portu._
 

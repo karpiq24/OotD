@@ -2,7 +2,7 @@
 title: Merfolki
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Lud Syren zamieszkujący wody Thylei._
 

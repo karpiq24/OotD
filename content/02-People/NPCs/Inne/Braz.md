@@ -2,7 +2,7 @@
 title: Braz
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Minotaur-niewolnik spotkany w obozie wojskowym [[Mytros]]_
 

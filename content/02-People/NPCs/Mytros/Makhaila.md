@@ -2,7 +2,7 @@
 title: Makhaila
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Główna sekretarz królowej Vallus_
 

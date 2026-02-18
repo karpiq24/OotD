@@ -2,7 +2,7 @@
 title: Delfin
 ---
 
-![Delfin](../../../assets/sessions/043/043_dolphin.jpg)
+![Delfin](../../../assets/sessions/043/043_dolphin.webp)
 
 _Dostojna elfka, otoczona szacunkiem swych pobratymców, przywódczyni Plemienia Delfina._
 

@@ -6,13 +6,13 @@ chat_log: "[Chat log](../assets/sessions/065/chat_log.json)"
 ---
 **Data:** 05.01.2026
 
-![Chardyba](../assets/sessions/065/065_chardyba.png)
+![Chardyba](../assets/sessions/065/065_chardyba.webp)
 
 ## Podsumowanie
 
 ### Kurs ku Otchłani i Problem Szpiega
 
-![Planowanie](../assets/sessions/065/065_plannning.png)
+![Planowanie](../assets/sessions/065/065_plannning.webp)
 
 Podróż na pokładzie legendarnego okrętu [[Ultros|*Ultros*]] trwała w najlepsze, a celem Smoczych Lordów było mroczne i niebezpieczne [[Morze Otchłani]]. Zanim jednak statek mógł zanurzyć się w nieznane, drużyna musiała rozwiązać palący problem [[Chondrus|Chondrusa]], tieflinga i szpiega [[Lutheria|Lutherii]], który wciąż przebywał na ich pokładzie. Wśród bohaterów wywiązała się zażarta dyskusja na temat jego losu. Obawiano się, że gdy tylko przekroczą granice domeny jego pani, Chondrus wykorzysta okazję do sabotażu lub zdrady.
 
@@ -20,7 +20,7 @@ Padło wiele propozycji: od brutalnych rozwiązań ostatecznych, przez odprawien
 
 ### Narodziny Paradoksu
 
-![Paradoks](../assets/sessions/065/065_paradox.png)
+![Paradoks](../assets/sessions/065/065_paradox.webp)
 
 Gdy atmosfera na statku gęstniała wraz z pogarszającą się pogodą, [[Melania Twardowska]] zaalarmowała [[Felicjan Janus Twardowski|Felicjana]] o niezwykłym zjawisku w jego kajucie. Smocze jajo, znane jako "Paradoks", zaczęło pękać. Drużyna zebrała się, by być świadkami tego cudu. Skorupa ustąpiła, a na świat przyszło niewielkie smoczątko o niebieskawych łuskach i wielobarwnych rogach.
 
@@ -30,7 +30,7 @@ Felicjan rozważając swoją misję odrodzenia Zakonu Smoczych Lordów, zapytał
 
 ### Gniew Krakena
 
-![Kraken](../assets/sessions/065/065_kraken.png)
+![Kraken](../assets/sessions/065/065_kraken.webp)
 
 Sielankę przerwało nagłe i gwałtowne uderzenie. Z morskich odmętów wyłoniły się gigantyczne macki, oplatające kadłub okrętu. *Ultros* został zaatakowany przez potężnego [[Kraken|Krakena]]. Orestes, nie tracąc czasu, uderzył w jedną z macek, lecz ta zesztywniała i oddała mu z potężną siłą, raniąc Minotaura.
 
@@ -38,7 +38,7 @@ W umysłach bohaterów rozległ się telepatyczny, groźny głos potwora: *"Słu
 
 ### Chardyba i Morze Otchłani
 
-![Łowienie w Morzu Otchłani](../assets/sessions/065/065_fish.png)
+![Łowienie w Morzu Otchłani](../assets/sessions/065/065_fish.webp)
 
 W końcu *Ultros* dotarł do krańca znanego świata. Przed bohaterami ukazał się przerażający widok: gigantyczne, kamienne dłonie wyłaniające się z oceanu, metodycznie mieszające wodę i tworzące nieskończony wir znany jako [[Charybda]]. Mimo grozy sytuacji, kapitan z nawigatorem pewnie skierowali statek w sam środek chaosu. Okręt runął w przepaść, a prawa fizyki przestały obowiązywać. Świat zawirował, góra stała się dołem, a ciemność pochłonęła wszystko.
 
@@ -48,7 +48,7 @@ Wkrótce przy burcie statku pojawiły się istoty pasujące do tego upiornego mi
 
 ### Sześcian Uwięzienia
 
-![Sześcian](../assets/sessions/065/065_cube.png)
+![Sześcian](../assets/sessions/065/065_cube.webp)
 
 Nawigacja doprowadziła *Ultrosa* do niewielkiej, skalistej wyspy z czerwonym jeziorem na środku. Versir rozpoznał tę wyspę z wizji pokazanej przez [[Thylea|Thyleę]], na [[Wyspa Złotego Serca|Wyspie Złotego Serca]]. To tutaj [[Lutheria]] zastawiła pułapkę na swoje rodzeństwo, [[Yala Pierwsza|Yalę]], [[Goloron|Golorona]] i [[Chalcia|Chalcię]]. Jedynia tytanka Szybkości Chalcia zdołała wtedy uciec, pozostała dwójka rodzeństwa zostało przemienionych w kamień za pomocą jeziora krwii tysiąca bazyliszków. Pod przewodnictwem Orestesa, załoga statku napełniła beczki tą krwią.
 
@@ -58,7 +58,7 @@ Versir, czując wibracje swojej Rękawicy (w której zaklęte były dusze Chalci
 
 ### Eksploracja i Tragedia
 
-![Głupota Versira](../assets/sessions/065/065_hand.png)
+![Głupota Versira](../assets/sessions/065/065_hand.webp)
 
 Wnętrze sześcianu okazało się labiryntem korytarzy i komnat. Już na wstępie drużyna starła się z parą golemów. Walka była krótka, lecz brutalna – Versir i Orestes przyjeli na siebie potężne ciosy. Z każdym zadanym ciosem golemy zmieniały swój wygląd, coraz bardziej przypominając cel swoich ataków. Po zwycięstwie bohaterowie ruszyli dalej, mijając pomieszczenie z uszkodzonymi konstruktami.
 
@@ -68,7 +68,7 @@ W tym samym czasie Felicjan otworzył inne drzwi, za którmi skrywała się lewi
 
 ### Odkrycie Prawdy
 
-![Tarrasque](../assets/sessions/065/065_tarrasque.png)
+![Tarrasque](../assets/sessions/065/065_tarrasque.webp)
 
 Mimo tragedii, bohaterowie kontynuowali zwiad. Arevon zajrzał przez ogromną dziurę do głównej komory sześcianu. Skały, które początkowo wydawały się elementem krajobrazu, oddychały. Był to **[[Tarrasque]]** – legendarny Pożeracz Światów, uśpiony i uwięziony wewnątrz sześcianu. Runy nie kłamały. To była ostateczna broń, "Zguba Bogów", czekająca na przebudzenie. Klepsydra na zewnątrz według teorii bohaterów, zapewne odmierzała czas do jego uwolnienia.
 
@@ -119,4 +119,4 @@ Za kolejnymi drzwiami, drużyna ujrzała dwa gigantyczne Czerwie (Purple Worms) 
 * Sfera Annihilacji
 
 ## Filmy
-![Recap](../assets/sessions/065/065_recap.mp4)
+![Recap](../assets/sessions/065/065_recap.webm)

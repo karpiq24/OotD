@@ -2,7 +2,7 @@
 title: Laios
 ---
 
-![Laios](../../assets/sessions/039/039_laios.jpg)
+![Laios](../../assets/sessions/039/039_laios.webp)
 
 _Sternik poszukujący lekarstwa dla żony_
 

@@ -2,7 +2,7 @@
 title: Samuel
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Starożytny Żeglarz._
 

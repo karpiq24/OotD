@@ -2,7 +2,7 @@
 title: Smoczy Lordowie
 ---
 
-![Smoczy Lordowie](../../assets/placeholder.png)
+![Smoczy Lordowie](../../assets/placeholder.webp)
 
 _Legendarny zakon bohaterów, którzy przybyli do Thylei dosiadając potężnych smoków._
 

@@ -2,7 +2,7 @@
 title: Vorena
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Ochroniarka w Siren's Roost._
 

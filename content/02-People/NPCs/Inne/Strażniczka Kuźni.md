@@ -2,7 +2,7 @@
 title: Strażniczka Kuźni (The Forge Keeper)
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Potężna istota z Planu Ognia, uwięziona w Mithralowej Kuźni przez krasnoludy.
 

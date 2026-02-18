@@ -2,7 +2,7 @@
 title: Topór Xandera
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Legendarna broń pierwszego Smoczego Lorda, Xandera Huoratha._
 

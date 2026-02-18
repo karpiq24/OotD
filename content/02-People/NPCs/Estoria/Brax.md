@@ -2,7 +2,7 @@
 title: Brax
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Właściciel [[Super Bar|Super Baru]] i kuzyn [[Orestes|Orestesa]]_
 

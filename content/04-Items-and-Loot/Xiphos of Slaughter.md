@@ -2,7 +2,7 @@
 title: Xiphos of Slaughter
 ---
 
-![Xiphos of Slaughter](../assets/placeholder.png)
+![Xiphos of Slaughter](../assets/placeholder.webp)
 
 _Broń (krótki miecz), Bardzo rzadki (Wymaga dostrojenia)_
 

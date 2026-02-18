@@ -2,7 +2,7 @@
 title: Ivello Ostren
 ---
 
-![Ivello](../../../assets/sessions/034/ivello.jpg)
+![Ivello](../../../assets/sessions/034/ivello.webp)
 
 _Dawny towarzysz Arevona, odnaleziony spetryfikowany na Themis._
 

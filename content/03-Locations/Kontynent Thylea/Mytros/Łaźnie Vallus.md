@@ -2,7 +2,7 @@
 title: Łaźnie Vallus
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Luksusowe łaźnie publiczne._
 

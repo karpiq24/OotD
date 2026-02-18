@@ -2,7 +2,7 @@
 title: Wyspa Smoka
 ---
 
-![Konfrontacja ze smoczycą](../../assets/sessions/064/064_party.png)
+![Konfrontacja ze smoczycą](../../assets/sessions/064/064_party.webp)
 
 _Wyspa o kształcie śpiącego gada, porośnięta gęstą, duszną dżunglą, będąca domeną Starożytnej Zielonej Smoczycy._
 

@@ -3,7 +3,7 @@ title: "Sesja 19: Pojedynek z Rozpruwaczem"
 ---
 **Data:** 05.08.2024
 
-![Rakas Rozpruwacz](../assets/sessions/019/019_rakas.png)
+![Rakas Rozpruwacz](../assets/sessions/019/019_rakas.webp)
 
 ## Podsumowanie
 

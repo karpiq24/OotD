@@ -2,7 +2,7 @@
 title: Kallisti
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Gynosphinx, Dawna Opiekunka Versira_
 

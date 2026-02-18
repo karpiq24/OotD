@@ -2,7 +2,7 @@
 title: Delphion
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Karczmarz [[Karczma Smoczy Ząb|Karczmy "Smoczy Ząb"]]_
 

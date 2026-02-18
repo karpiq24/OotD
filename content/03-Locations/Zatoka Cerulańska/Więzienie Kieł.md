@@ -2,7 +2,7 @@
 title: Więzienie Kieł
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Stara forteca Smoczych Lordów na Themis, służąca jako więzienie._
 

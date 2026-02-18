@@ -6,17 +6,17 @@ chat_log: "[Chat log](../assets/sessions/040/chat_log.json)"
 ---
 **Data:** 03.02.2025
 
-![Wieża Wiedźmy Lotosu](../assets/sessions/040/040_tower.png)
+![Wieża Wiedźmy Lotosu](../assets/sessions/040/040_tower.webp)
 
 ## Podsumowanie
 
 [[Ultros]], legendarny statek, pruł błękitne wody, niosąc na swym pokładzie niezwykłą załogę. Bohaterowie przepowiedni, prowadzeni przez przeznaczenie i żądzę przygód, zmierzali ku [[Wyspa Skorpiona|Wyspie Skorpiona]], skrywającej tajemnice, które mogły zaważyć na losach całego świata. [[Arevon Elorrenthi|Arevon]], elficki druid i doświadczony nawigator, z wprawą godną mistrza sterował statkiem, a pozostali członkowie załogi oddawali się swoim zajęciom. Wśród nich był kapitan [[Orestes]], potężny minotaur, którego mięśnie zdawały się być wykute z żelaza, a serce przepełniała dobroć. Tego dnia Orestes, chcąc umilić podróż towarzyszom, postanowił dać koncert na swoich dudach. Dźwięki, choć niezbyt harmonijne, niosły się po pokładzie, a minotaur z dumą prezentował swoje umiejętności. Wtem, wśród wesołej krzątaniny, dobiegł ich członka załogi, który doniósł o zbliżającym się stadzie hipokampów, rzadkich i szlachetnych morskich stworzeń. Orestes i Arevon, zaintrygowani, postanowili oswoić te piękne istoty. Orestes, nie szczędząc złocistego trunku, chiał jak to jest w jego zwyczaju przekonać do siebie to piękne stworzenie alkoholem. Morski koń wzgardził ten gest, ale mimo to podążył za Orestesem.
 
-![Hipokamp](../assets/sessions/040/040_hippocampus.jpg)
+![Hipokamp](../assets/sessions/040/040_hippocampus.webp)
 
 Po drodze na [[Wyspa Skorpiona|Wyspę Skorpiona]], załoga Ultrosa natknęła się na dryfującą na wodzie drewnianą statuę [[Sydon]]a. Na statule, ku ich zdziwieniu, znajdowała się grupa mieszkańców [[Mytros]], którzy przedstawili się jako kolektyw "Artyści w Służbie Sydona", w skrócie [[AWSS]]. Twierdzili, że fala zmiotła ich, razem ze statuą i cudem uniknęli śmierci. Po krótkiej rozmowie, załoga Ultrosa postanowiła wziąć ich na pokład. Artyści, po krótkiej rozmowie zdecydowali się zostać zagorzałymi wyznawcami Pięciu, co nieco uspokoiło załogę. Niedługo po tym na statku pojawił się mechaniczny konstrukt, który dostarczył Arevonowi zamówioną zbroję, a Orestesowi list od [[Volkan]]a. Bóg kowali informował Orestesa, że z chęcią zatrudni cyklopów Jankanów w swojej kuźni.
 
-![Chalcia, Dziedziczka Sydona](../assets/sessions/040/040_chalcia.jpg)
+![Chalcia, Dziedziczka Sydona](../assets/sessions/040/040_chalcia.webp)
 
 Wieczorem, gdy słońce chyliło się ku zachodowi, na pokładzie Ultrosa wylądowała tajemnicza postać. Była to [[Chalcia]], córka bliźniaków, kuzynka [[Versir]]a, istota o trzech oczach i mocy, która budziła respekt. Poruszała się po statku z gracją, ale widać w niej było drapieżnika. Chalcia, z wyższością i pewnym lekceważeniem, przyglądała się bohaterom, przepowiadając im porażkę. Stwierdziła, że kiedy przysięga dobiegnie końca, [[Thylea]] będzie należeć do tytanów. Sugerowała, że bohaterowie powinni się zastanowić jaką drogą podążają i czy na pewno podejmują własne decyzje. Chalcia, po wygłoszeniu swego mrocznego proroctwa, odleciała, pozostawiając załogę Ultrosa w niepewności.
 
@@ -26,7 +26,7 @@ Rankiem, po nocy spędzonej na rozmowach i piciu piwa, bohaterowie postanowili w
 
 Nessa ma wkrótce osiągnąć pełnoletność, a wtedy grozi jej przemiana w wielkiego skorpiona, jeśli do tego czasu nie znajdzie jeźdźca. Kuzynka [[Pholon]]a próbowała wykorzystywać swoje największe atuty, ale bohaterowie byli niewzruszeni na jej wdzięki. W końcu Orestes pchnął ją w kierunku swojego kuzyna [[Brax]]a, który wydawał się zainteresowany związkiem z uroczą centaurzycą. W obozie arezyjczyków rozpętała się szalona impreza, pełna piwa i palonego kwiatu lotosu. W pewnym momencie centaury zaczęły odchodzić na stronę, wtedy Pholon wyjawił Orestesowi informacje o dzikich orgiach centaurów. Orestes rzucił monetą i postanowił dołączyć.
 
-![Impreza](../assets/sessions/040/040_party.jpg)
+![Impreza](../assets/sessions/040/040_party.webp)
 
 Rano skacowani bohaterowie ruszyli ponownie w kierunku wieży. Tym razem dotarli tam bez przeszkód, droga wiodła przez pole kwiatów lotosu otaczających [[Wieża Wiedźmy Lotosu|wieżę wiedźmy]]. Nagle, gdy tylko wkroczyli na polanę, czas wokół nich oszalał. Dzień i noc zaczęły następować po sobie w zawrotnym tempie, a całe otoczenie stało się rozmyte i nierealne. Drużyna zdecydowała przeć do przodu i dotarła pod drzwi wieży, które same się im uchyliły. W środku bohaterowie ujrzeli statuę przedstawiającą sfinksa, a także gromadkę dzieci, która jak wyglądało pracowała nad produkcją narkotyków z kwiatu lotosu.
 

@@ -2,7 +2,7 @@
 title: Euria
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Nimfa, Jesienny Wiatr, wyznawczyni Heliosa_
 

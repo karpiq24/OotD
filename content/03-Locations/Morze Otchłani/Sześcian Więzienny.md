@@ -2,7 +2,7 @@
 title: Sześcian Więzienny
 ---
 
-![Sześcian](../../assets/sessions/065/065_cube.png)
+![Sześcian](../../assets/sessions/065/065_cube.webp)
 
 _Gigantyczny, lewitujący sześcian na łańcuchach z adamantu, będący więzieniem dla najgroźniejszej istoty w Thylei._
 

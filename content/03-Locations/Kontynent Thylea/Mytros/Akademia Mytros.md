@@ -2,7 +2,7 @@
 title: Akademia Mytros
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Główne centrum nauki w Thylei._
 

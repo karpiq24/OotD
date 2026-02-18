@@ -2,7 +2,7 @@
 title: Javon
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Doświadczony myśliwy i zwiadowca zatrudniony przez [[Kyrah]]._
 

@@ -2,7 +2,7 @@
 title: Iphis
 ---
 
-![Iphis](../../../assets/sessions/033/iphis.png)
+![Iphis](../../../assets/sessions/033/iphis.webp)
 
 _Amazonka przesłuchiwana przez drużynę._
 

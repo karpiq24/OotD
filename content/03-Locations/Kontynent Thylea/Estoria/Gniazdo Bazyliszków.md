@@ -2,7 +2,7 @@
 title: Gniazdo Bazyliszków
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Ukryta jaskinia położona około mili na północ od [[Skała Estora|Skały Estora]], nad brzegiem rzeki [[Rzeka Arkelon|Arkelon]]._
 

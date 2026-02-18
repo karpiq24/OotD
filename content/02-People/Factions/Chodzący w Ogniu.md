@@ -2,7 +2,7 @@
 title: Chodzący w Ogniu
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Plemię jaszczuroludzi oddane Sydonowi, władające Wyspą Ognia._
 

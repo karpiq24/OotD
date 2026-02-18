@@ -2,7 +2,7 @@
 title: Plemię Delfina
 ---
 
-![Delfin](../../../content/assets/sessions/043/043_dolphin.jpg)
+![Delfin](../../../content/assets/sessions/043/043_dolphin.webp)
 
 _Elfickie plemię z Wyspy Indygo, ceniące izolację i tradycję._
 

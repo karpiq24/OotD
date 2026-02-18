@@ -2,7 +2,7 @@
 title: Antikythera
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Zaczarowany mechanizm służący jako magiczny kompas. Artefakt wykonany z niezniszczalnego brązu i gwiezdnego metalu._
 

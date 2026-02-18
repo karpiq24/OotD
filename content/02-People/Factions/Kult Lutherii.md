@@ -2,7 +2,7 @@
 title: Kult Lutherii
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Najstarszy kult w Mytros, oddany Pani Snów._
 

@@ -2,7 +2,7 @@
 title: Delg
 ---
 
-![Delg](../../../assets/sessions/043/043_delg.jpg)
+![Delg](../../../assets/sessions/043/043_delg.webp)
 
 _Zdesperowany przywódca krasnoludów z plemienia Wieloryba._
 

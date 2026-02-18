@@ -2,7 +2,7 @@
 title: Talieus
 ---
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.webp)
 
 _Syn Sydona i Lutherii, ucieleśnienie gniewu i hedonizmu._
 

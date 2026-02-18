@@ -2,7 +2,7 @@
 title: Damon
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Wielki czarodziej Smoczych Lordów, założyciel [[Akademia Mytros|Akademii Mytros]].
 

@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/042/chat_log.json)"
 ---
 **Data:** 17.02.2025
 
-![Ventis](../assets/sessions/042/042_dragon.jpg)
+![Ventis](../assets/sessions/042/042_dragon.webp)
 
 ## Podsumowanie
 
@@ -22,7 +22,7 @@ I rzeczywiście, wkrótce na linii widnokręgu majaczyć zaczęła niewielka, ni
 
 Arevon, druid o bystrym umyśle i zmyśle obserwacji wyostrzonym przez lata spędzone na morzu, wysłał na zwiad swego wiernego kruka. Ptak, posłuszny woli swego pana, wzbił się w powietrze i pomknął w stronę lądu, by za chwilę powrócić z wieściami. Na wyspie stoi kapliczka, zbudowana z szarego kamienia, poświęcona [[Lutheria|Lutherii]], Pani Snów i Śmierci. Przed kapliczką wznosi się kamienna misa ofiarna, na której widać ślady niedawno palonego ognia. Miejsce to, choć niewielkie i odosobnione, emanowało aurą tajemnicy i zapomnienia.
 
-![Kaplica Lutheri](../assets/sessions/042/042_chapel.jpg)
+![Kaplica Lutheri](../assets/sessions/042/042_chapel.webp)
 
 Podpłynęli więc bliżej, tym razem mniejszą łodzią, wysadzając na brzeg Arevona, Orestesa i [[Versir|Versira]]. [[Orion Xul]] pozostał w łodzi, pilnując jej bezpieczeństwa, zaś Felicjan obserwował wszystko z pokładu Ultrosa, gotów do wsparcia magią na odległość.
 
@@ -40,7 +40,7 @@ Złote promienie słońca muskały fale, gdy Ultros, niczym morski ptak po dług
 
 Osada Węgorzy, okazała się być tętniącym życiem miasteczkiem przy plaży. Niziołki i gnomy, mieszkańcy tego miejsca, z zaciekawieniem spoglądali na przybyłych gości, szepcząc między sobą i wskazując palcami na ich potężny statek. Jeden z niziołków, starzec o długiej, siwej brodzie, podszedł do nich z koszem pełnym ryb, zachwalając swe towary i próbując nawiązać handel. Jednakże, bohaterowie, skupieni na swym celu, uprzejmie odroczyli ten biznes, pytając o drogę do przywódczyni plemienia, [[Loopywoopy]].
 
-![Loopywoopy](../assets/sessions/042/042_loopywoopy.jpg)
+![Loopywoopy](../assets/sessions/042/042_loopywoopy.webp)
 
 Wkrótce, ich oczom ukazała się ona sama. Loopywoopy, gnomka o żywym spojrzeniu i barwnym stroju, siedziała na schodach, otoczona gromadką dzieci, którym z zapałem opowiadała jakąś historię. Na jej głowie spoczywał misterny nakrycie głowy, do pasa miała przyczepione wypchane ogony węgorzy, świadectwo jej pozycji i charakterystyczny element stroju plemienia. Na widok zbliżających się gości, Loopywoopy wstała, odprawiła dzieci i z uśmiechem powitała przybyszów.
 
@@ -52,15 +52,15 @@ Gdy uczta dobiegała do końca, a bohaterowie przygotowywali się do opuszczenia
 
 Arevon, w mgnieniu oka, unieruchomił smoczycę magicznymi pnączami, krępując jej ruchliwość. Orion nadal pozbawiony ekwipunku zaatakował żeliwną patelnią. Felicjan, próbował przemówić smoczycy do rozsądku, kwestionując jej związek ze Smoczymy Lordami.
 
-![Orestes na grzbiecie smoczycy](../assets/sessions/042/042_orestesventis.jpg)
+![Orestes na grzbiecie smoczycy](../assets/sessions/042/042_orestesventis.webp)
 
 Walka była zacięta i pełna dynamiki. Smoczyca, mimo uwięzienia, machała skrzydłami, próbując z całych sił wyrwać się z magicznych pnączy. Kiedy się to udało, smoczyca ruszyłą to ucieczki. Próbując dopaść smoczycę, Versir teleportował Orestesa na grzbiet smoczycy. Barbarzyńca, wytrwale trzymając się grzbietu bestii, zadawał cios za ciosem, raniąc smoka swym toporem. Jednakże, potęga smoka była ogromna. Ventis, wykorzystując legendarną akcję, uderzyła skrzydłami Orestesa, zrzucając go z grzbietu. Barbarzyńca, spadając z wysokości, cudem uniknął śmierci. Smoczyca uciekła.
 
-![Arevon leczy rany Orestesa](../assets/sessions/042/042_healing.jpg)
+![Arevon leczy rany Orestesa](../assets/sessions/042/042_healing.webp)
 
 Po walce, bohaterowie, choć odnieśli taktyczne zwycięstwo, byli zmęczeni i poranieni. Arevon uleczył Orestesa magicznymi mocami, przywracając mu pełnię sił. Po krótkim odpoczynku, podjęli decyzję o udaniu się do [[Plemię Delfina|plemienia Delfina]], mając w zamyśle nawiązanie z nimi sojuszu i wspólne poszukiwanie smoka. Wyruszyli w drogę, niosąc w sercach determinację i nadzieję na pokonanie zagrożenia, które zawisło nad Wyspą Indygo.
 
-![Wyprawa](../assets/sessions/042/042_journey.jpg)
+![Wyprawa](../assets/sessions/042/042_journey.webp)
 
 
 ## Kluczowe wydarzenia / decyzje

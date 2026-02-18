@@ -2,7 +2,7 @@
 title: Chariot of Dawn
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Złoty Rydwan Heliosa_
 

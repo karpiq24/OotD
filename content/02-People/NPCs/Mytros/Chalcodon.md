@@ -2,7 +2,7 @@
 title: Chalcodon
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Filozof z Akademii, autor "Mathematika Chalcodona"._
 

@@ -2,7 +2,7 @@
 title: Brenna
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Córka wodza plemienia Wieloryba, Delga._
 

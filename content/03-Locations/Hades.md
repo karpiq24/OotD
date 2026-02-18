@@ -2,7 +2,7 @@
 title: Hades
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Netherworld / Underworld_
 

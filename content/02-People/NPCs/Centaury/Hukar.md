@@ -2,7 +2,7 @@
 title: Hukar
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Wódz centaurów przemierzających stepy w pobliżu Mithralowej Kuźni._
 

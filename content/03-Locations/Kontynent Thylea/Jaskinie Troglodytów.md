@@ -2,7 +2,7 @@
 title: Jaskinie Troglodytów
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Górny poziom dawnych kopalni Mithralowej Kuźni, obecnie, przejęty przez szczep troglodytów. Cuchnące, wilgotne tunele pełne niebezpieczeństw.
 

@@ -2,7 +2,7 @@
 title: Nessa
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Centaurzyca, kuzynka Pholona._
 

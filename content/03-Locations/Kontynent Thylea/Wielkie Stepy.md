@@ -2,7 +2,7 @@
 title: Wielkie Stepy
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Rozległe, otwarte przestrzenie w północnej części Thylei._
 

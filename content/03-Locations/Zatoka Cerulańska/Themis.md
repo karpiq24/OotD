@@ -2,7 +2,7 @@
 title: Themis
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek. Są one uważane za najbardziej przerażające ze wszystkich plemion barbarzyńskich w Zatoce.
 

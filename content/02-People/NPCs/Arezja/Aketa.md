@@ -2,7 +2,7 @@
 title: Aketa
 ---
 
-![Aketa](../../../assets/sessions/062/062_Aketa.png)
+![Aketa](../../../assets/sessions/062/062_Aketa.webp)
 
 _Szefowa Koalicji Kupców w Arezji, wpływowa i konkretna bizneswoman._
 

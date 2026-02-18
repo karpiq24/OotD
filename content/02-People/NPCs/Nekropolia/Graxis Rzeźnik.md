@@ -2,7 +2,7 @@
 title: Graxis Rzeźnik
 ---
 
-![Graxis](../../../assets/placeholder.png)
+![Graxis](../../../assets/placeholder.webp)
 
 _Ostatni z klanu krwiożerczych minotaurów, przeklęty strażnik Grobowca Xandera._
 

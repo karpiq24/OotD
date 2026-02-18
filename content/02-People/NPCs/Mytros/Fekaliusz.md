@@ -2,7 +2,7 @@
 title: Fekaliusz
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Żywiołak wody zatykający kanały._
 

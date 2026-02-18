@@ -2,7 +2,7 @@
 title: Shazum
 ---
 
-![Wielki Żółw](../../../assets/sessions/061/061_turtle.png)
+![Wielki Żółw](../../../assets/sessions/061/061_turtle.webp)
 
 _Ekscentryczny Kupiec Międzywymiarowy_
 

@@ -2,7 +2,7 @@
 title: Haidee
 ---
 
-![Haidee](../../../assets/sessions/062/062_Haidee.png)
+![Haidee](../../../assets/sessions/062/062_Haidee.webp)
 
 _Niziołka prowadząca sklep z magicznymi osobliwościami w Arezji._
 

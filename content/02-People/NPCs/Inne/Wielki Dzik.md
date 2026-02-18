@@ -2,7 +2,7 @@
 title: Wielki Dzik
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Potężna, spaczone bestia wysłana przez Bliźniaczych Tytanów, by siać zniszczenie w Heartlandach._
 

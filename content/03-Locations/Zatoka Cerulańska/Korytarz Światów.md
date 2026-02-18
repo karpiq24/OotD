@@ -2,7 +2,7 @@
 title: Korytarz Światów
 ---
 
-![Korytarz Światów](../../assets/sessions/041/041_worlds.jpg)
+![Korytarz Światów](../../assets/sessions/041/041_worlds.webp)
 
 Magiczny korytarz znajdujący się w wieży [[Wiedźma Lotosu|Wiedźmy Lotosu]]. Jego ściany pokryte są hieroglifami, a liczne okna ukazują wizje z innych planów egzystencji, czasów i światów.
 

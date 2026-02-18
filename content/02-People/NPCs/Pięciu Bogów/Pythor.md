@@ -3,7 +3,7 @@ title: Pythor
 image_prompt: adult male, god of battle, very muscular build, long and thick wavy brown hair with blonde highlights, a full beard and mustache, bright blue eyes, a wide confident grin, wearing a bronze or gold-colored cuirass and heavy, dark metal pauldrons, powerful bare arms, fantasy warrior, Greco-Roman style with Norse warrior influences.
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Legendarny Bóg Bitwy, jeden z [[Pięciu Bogów]] i Król [[Estoria|Estorii]]._
 

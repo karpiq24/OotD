@@ -2,7 +2,7 @@
 title: Kult Węża
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Tajemnicza gildia złodziei._
 

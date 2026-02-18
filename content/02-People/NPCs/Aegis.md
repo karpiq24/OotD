@@ -2,7 +2,7 @@
 title: Aegis
 ---
 
-![Aegis](../../assets/sessions/039/039_aegis.jpg)
+![Aegis](../../assets/sessions/039/039_aegis.webp)
 
 _Tajemniczy starzec znaleziony w brzuchu martwego wieloryba_
 

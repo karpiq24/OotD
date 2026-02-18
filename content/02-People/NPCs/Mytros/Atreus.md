@@ -2,7 +2,7 @@
 title: Atreus
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Filozof i kapitan, autor "Metaphysika Atreusa"._
 

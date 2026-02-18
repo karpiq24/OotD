@@ -2,7 +2,7 @@
 title: Bella
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Towarzyszka Acastusa i Gaiusa_
 

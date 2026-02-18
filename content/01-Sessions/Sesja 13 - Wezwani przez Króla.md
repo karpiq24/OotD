@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/013/chat_log.json)"
 ---
 **Data:** 13.05.2024
 
-![Sala tronowa Mytros](../assets/sessions/013/013_throneroom.jpg)
+![Sala tronowa Mytros](../assets/sessions/013/013_throneroom.webp)
 
 ## Podsumowanie
 

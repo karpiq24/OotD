@@ -2,7 +2,7 @@
 title: Skarbiec Thylei
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Bank i świątynia Matki Bogini._
 

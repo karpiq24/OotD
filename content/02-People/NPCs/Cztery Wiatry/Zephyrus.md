@@ -2,7 +2,7 @@
 title: Zephyrus
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Oceanid, Wiosenny Wiatr, zakochany w Kyrah_
 

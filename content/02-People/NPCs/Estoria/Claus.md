@@ -2,7 +2,7 @@
 title: Claus
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Przeklęty rabuś grobów_
 

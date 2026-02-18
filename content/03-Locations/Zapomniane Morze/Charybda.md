@@ -2,7 +2,7 @@
 title: Charybda
 ---
 
-![Charybda](../../assets/sessions/065/065_chardyba.png)
+![Charybda](../../assets/sessions/065/065_chardyba.webp)
 
 _Gigantyczny wir wodny stanowiący śmiertelne zagrożenie oraz przejście do Morza Otchłani._
 

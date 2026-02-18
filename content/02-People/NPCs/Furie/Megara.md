@@ -2,7 +2,7 @@
 title: Megara
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Królowa Furii, jedna z Trzech._
 

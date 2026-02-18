@@ -2,7 +2,7 @@
 title: Góra Telamok
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Martwe miasto i góra będąca miejscem ostatecznego spoczynku Smoczych Lordów.
 

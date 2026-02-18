@@ -6,13 +6,13 @@ chat_log: "[Chat log](../assets/sessions/066/chat_log.json)"
 ---
 **Data:** 2026-01-14
 
-![Łańcuchy](../assets/sessions/066/066_chains.png)
+![Łańcuchy](../assets/sessions/066/066_chains.webp)
 
 ## Podsumowanie
 
 ### Taniec ze Sferą i Przebudzenie Bestii
 
-![Bitwa w Sześcianie](../assets/sessions/066/066_battle_in_cube.png)
+![Bitwa w Sześcianie](../assets/sessions/066/066_battle_in_cube.webp)
 
 Drużyna kontynuowała mordercze starcie z konstruktami i gigantycznymi czerwiami wewnątrz [[Sześcian Więzienny|Sześcianu Więziennego]]. **[[Versir]]**, wciąż cierpiący po makabrycznej utracie dłoni, musiał polegać na defensywnej magii i unikach, podczas gdy **[[Orestes]]**, napędzany furią, ciskał się na wrogów z siłą giganta wzgórz. Kluczowym momentem starcia okazał się jednak czyn **[[Felicjan Janus Twardowski|Felicjana Janusa Twardowskiego]]**. Czarodziej, ryzykując własnym umysłem, nawiązał mentalną więź z przerażającą **Sferą Anihilacji** – tym samym bytem, który wcześniej okaleczył jego towarzysza. Z nienaturalną precyzją Felicjan zaczął sterować kulą czystej nicości, przesuwając ją po polu bitwy. Efekt był piorunujący: cielska gigantycznych czerwiów, dotknięte przez sferę, znikały w niebycie, dezintegrowane na poziomie atomowym, co ostatecznie przechyliło szalę zwycięstwa na stronę bohaterów. **[[Arevon Elorrenthi|Arevon]]**, wykorzystując potęgę druidzkiej magii, przywołał księżycowe światło, dobijając wrogów.
 
@@ -22,7 +22,7 @@ W obliczu zagrożenia zalaniem przez potwory, **Felicjan** użył telekinezy, by
 
 ### Pakt z Zarządcą i Cień Lutherii
 
-![Ultroloth](../assets/sessions/066/066_ultroloth.png)
+![Ultroloth](../assets/sessions/066/066_ultroloth.webp)
 
 Gdy fundamenty więzienia drżały, z cienia wyłoniły się trzy brązowe automatony, a za nimi lewitująca postać o wydłużonej głowie bez ust. Nie był to jednak kolejny bezmyślny konstrukt, lecz **[[The Keeper]]** (Ultroloth) – demoniczny zarządca tego przybytku. Istota ta, komunikując się telepatycznie, okazała się znużonym i cynicznym urzędnikiem, a nie fanatycznym sługą. Poinformował on bohaterów, że **[[Lutheria]]**, Pani Snów, jest już w drodze, zaalarmowana hałasem. Zaproponował jednak układ: jeśli bohaterowie w przyszłości dostarczą mu Kosę Lutherii, on pomoże im w ostatecznym rozwiązaniu problemu uwolnionego Tarrasque'a.
 
@@ -30,7 +30,7 @@ Bohaterowie, rozumiejąc, że dalsza obecność w sześcianie grozi śmiercią z
 
 ### Złamany Tytan i Drugi Sześcian
 
-![Talieus i Hypnos](../assets/sessions/066/066_talieus_hypnos.png)
+![Talieus i Hypnos](../assets/sessions/066/066_talieus_hypnos.webp)
 
 Płynąc przez surrealistyczne wody [[Morze Otchłani|Morza Otchłani]], **Orion** dostrzegł na horyzoncie gigantyczną sylwetkę brodzącą w czarnych wodach. Był to **[[Talieus Pierwszy|Talieus]]**, dawny Tytan Rzemiosła, z oczami przesłoniętymi bandażami, ciągnący na potężnych łańcuchach okręt Luterii ([[Hypnos]]) niczym niewolnicze zwierzę pociągowe. Widok ten wstrząsnął **[[Versir|Versirem]]**, który jest spokrewniony z Tytanami. Wykorzystując magię, wysłał do Talieusa wiadomość: *"Witaj wujku. Jesteśmy na morzu otchłani, żeby cię odbić. Jakie sztuczki czekają na nas na statku? O czym powinniśmy wiedzieć?"*. Odpowiedź, która nadeszła po chwili ciszy, była krótka i łamiąca serce: *"Jestem... złamany"*. Słowa te dobitnie uświadomiły drużynie, jak okrutny los spotkał dawnych władców pod jarzmem Luterii.
 
@@ -38,7 +38,7 @@ Błądząc po morzu w poszukiwaniu bezpiecznej przystani, **[[Ultros]]** natkną
 
 ### Upiorna Narada z Estorem
 
-![Duch Estora](../assets/sessions/066/066_ghost_meeting.png)
+![Duch Estora](../assets/sessions/066/066_ghost_meeting.webp)
 
 Bezpieczni na chwilę na otwartych wodach, bohaterowie zebrali się w kajucie narad, by ustalić dalszy plan. Niespodziewanie, na jednym z krzeseł zmaterializował się duch **[[Estor Arkelander|Estora Arkelandera]]**. Na widok upiornego kapitana, bogini **[[Kyrah]]** zbladła z przerażenia. Gdy tylko bohaterowie zaczęli paktować ze zjawą, Kyrah, nie mogąc znieść obecności swojego dawnego dręczyciela, opuściła pomieszczenie.
 
@@ -52,7 +52,7 @@ Duch wyjawił, że w dawnym leżu Krakena spoczywają szczątki Gregora i Hezzeb
 
 ### Depresja Wielorybów i Zaproszenie Kalisto
 
-![Kalisto](../assets/sessions/066/066_kalisto.png)
+![Kalisto](../assets/sessions/066/066_kalisto.webp)
 
 Następnego ranka **Arevon** podjął próbę komunikacji z martwymi wielorybami, które podążały za statkiem. Stworzenia te nie pragnęły śmierci, lecz celu, którego w swojej egzystencji zostały pozbawione. Bohaterowie nie byli jednak w stanie przedstawić im oferty, która wyrwałaby je z letargu.
 
@@ -99,4 +99,4 @@ Niedługo potem do burty Ultrosa zbliżyła się niewielka łódź wiosłowa. Ko
 - Kosa Lutherii
 
 ## Filmy
-![Estor Recap](../assets/sessions/066/066_estor.mp4)
+![Estor Recap](../assets/sessions/066/066_estor.webm)

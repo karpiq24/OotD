@@ -2,7 +2,7 @@
 title: Loopywoopy
 ---
 
-![Loopywoopy](../../../assets/sessions/042/042_loopywoopy.jpg)
+![Loopywoopy](../../../assets/sessions/042/042_loopywoopy.webp)
 
 _Gnomka o żywym spojrzeniu i barwnym stroju, przywódczyni Plemienia Węgorza._
 

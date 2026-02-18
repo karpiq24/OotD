@@ -2,7 +2,7 @@
 title: Aella
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Amazonka z legendy o Konstelacji Bliźniąt_
 

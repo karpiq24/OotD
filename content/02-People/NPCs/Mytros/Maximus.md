@@ -2,7 +2,7 @@
 title: Maximus
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Bezlitosny handlarz minotaurami._
 

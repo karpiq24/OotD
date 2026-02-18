@@ -2,7 +2,7 @@
 title: Hywin
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Przywódca Merfolków, ojciec Iolaah._
 

@@ -2,7 +2,7 @@
 title: Chalcia Pierwsza
 ---
 
-![Placeholder](../../../../assets/placeholder.png)
+![Placeholder](../../../../assets/placeholder.webp)
 
 _Tytan Szybkości_
 

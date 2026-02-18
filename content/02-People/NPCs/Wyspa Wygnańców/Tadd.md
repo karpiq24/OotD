@@ -2,7 +2,7 @@
 title: Tadd
 ---
 
-![Tadd](../../../assets/sessions/045/045_tad.jpg)
+![Tadd](../../../assets/sessions/045/045_tad.webp)
 
 _Genialny architekt i szaleniec._
 

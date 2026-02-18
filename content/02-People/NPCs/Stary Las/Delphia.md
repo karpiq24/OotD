@@ -2,7 +2,7 @@
 title: Delphia
 ---
 
-![Delphia](../../../assets/placeholder.png)
+![Delphia](../../../assets/placeholder.webp)
 
 _Królowa Driad ze Starego Lasu._
 

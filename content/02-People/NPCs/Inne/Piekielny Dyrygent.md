@@ -2,7 +2,7 @@
 title: Piekielny Dyrygent
 ---
 
-![Katedra](../../../assets/sessions/060/060_The_Cacophony_of_Penance.png)
+![Katedra](../../../assets/sessions/060/060_The_Cacophony_of_Penance.webp)
 
 _Dyrygent Orkiestry Dusz_
 

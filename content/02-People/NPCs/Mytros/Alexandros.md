@@ -2,7 +2,7 @@
 title: Alexandros
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Smoczy Lord Acastusa_
 

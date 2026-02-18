@@ -2,7 +2,7 @@
 title: Bliźniaczy Tytani
 ---
 
-![Bliźniaczy Tytani](../../assets/placeholder.png)
+![Bliźniaczy Tytani](../../assets/placeholder.webp)
 
 _Starożytni władcy Thylei, dzieci bogini Thylei i Kentimane'a._
 

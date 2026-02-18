@@ -2,7 +2,7 @@
 title: Dzielnica Świątynna
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Religijne i polityczne serce Mytros._
 

@@ -2,7 +2,7 @@
 title: Aesop
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Główny kapłan [[Smocza Kaplica|Smoczej Kaplicy]], strażnik legend o Smoczych Lordach._
 

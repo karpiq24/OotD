@@ -2,7 +2,7 @@
 title: Smoczy Talizman
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Klucz do Fortecy Smoczych Lordów_
 

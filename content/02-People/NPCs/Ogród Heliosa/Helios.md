@@ -2,7 +2,7 @@
 title: Helios
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Starożytne bóstwo słońca, czczone przez niektórych jako jedyne prawdziwe bóstwo Thylei._
 

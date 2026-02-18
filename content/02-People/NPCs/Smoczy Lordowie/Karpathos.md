@@ -2,7 +2,7 @@
 title: Karpathos
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Pierwszy Król Arezji, Wilczy Lord_
 

@@ -2,7 +2,7 @@
 title: Latająca Forteca Smoczych Lordów
 ---
 
-![Latająca Forteca](../../assets/placeholder.png)
+![Latająca Forteca](../../assets/placeholder.webp)
 
 _Starożytna cytadela w chmurach_
 

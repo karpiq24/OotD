@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/016/chat_log.json)"
 ---
 **Data:** 03.06.2024
 
-![Trellus i Septia](../assets/sessions/016/016_lutherie_priests.png)
+![Trellus i Septia](../assets/sessions/016/016_lutherie_priests.webp)
 
 ## Podsumowanie
 

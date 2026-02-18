@@ -2,7 +2,7 @@
 title: Jocasta
 ---
 
-![Jocasta](../../../assets/sessions/062/062_Jocasta.png)
+![Jocasta](../../../assets/sessions/062/062_Jocasta.webp)
 
 _Karczmarka w Czerwonym Lotosie._
 

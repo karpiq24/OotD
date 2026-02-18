@@ -2,7 +2,7 @@
 title: Galimus
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Żołnierz przemieniony w pierwszego minotaura_
 

@@ -2,7 +2,7 @@
 title: Kanały Mytros
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _System kanalizacyjny pod miastem Mytros._
 

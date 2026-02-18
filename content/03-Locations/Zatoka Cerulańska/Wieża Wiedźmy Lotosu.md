@@ -2,7 +2,7 @@
 title: Wieża Wiedźmy Lotosu
 ---
 
-![Wieża Wiedźmy Lotosu](../../assets/sessions/040/040_tower.png)
+![Wieża Wiedźmy Lotosu](../../assets/sessions/040/040_tower.webp)
 
 Wysoka wieża zamieszkana przez [[Wiedźma Lotosu]], znajdująca się na [[Wyspa Skorpiona]].
 

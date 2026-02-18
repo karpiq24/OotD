@@ -2,7 +2,7 @@
 title: Wyspa Wygnańców
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Jałowa skała w [[Zapomniane Morze|Zapomnianym Morzu]], służąca jako miejsce wygnania dla najgorszych przestępców z wolnych miast Thylei. Znana również jako wyspa pod Konstelacją Wojownika.
 

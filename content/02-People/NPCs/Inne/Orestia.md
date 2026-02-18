@@ -6,7 +6,7 @@ occupation: Była Magini Akademii Mytros
 image_prompt:
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Satyryca uwięziona na Wyspie Krzywoprzysięstwa za złamanie przysięgi podczas Wielkich Igrzysk._
 

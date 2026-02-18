@@ -2,7 +2,7 @@
 title: Groonar
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _DJ Koźlak na Latającej Fortecy_
 

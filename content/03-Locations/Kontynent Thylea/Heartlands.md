@@ -2,7 +2,7 @@
 title: Heartlands
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Centralny region [[Thylea|Thylei]].
 

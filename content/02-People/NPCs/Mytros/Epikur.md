@@ -2,7 +2,7 @@
 title: Epikur
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Filozof z Akademii Mytros._
 

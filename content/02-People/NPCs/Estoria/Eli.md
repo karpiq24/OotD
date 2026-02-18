@@ -2,7 +2,7 @@
 title: Eli
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Leśny duszek (sprite) mieszkający w pobliżu [[Woodhike]]._
 

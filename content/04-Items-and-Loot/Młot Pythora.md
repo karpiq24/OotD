@@ -2,7 +2,7 @@
 title: Młot Pythora
 ---
 
-![Hammer of Pythor](../assets/placeholder.png)
+![Hammer of Pythor](../assets/placeholder.webp)
 
 _Broń (Młot bojowy), Artefakt_
 

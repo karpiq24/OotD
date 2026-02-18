@@ -2,7 +2,7 @@
 title: Kraken
 ---
 
-![Kraken](../../../assets/placeholder.png)
+![Kraken](../../../assets/placeholder.webp)
 
 _Starożytny terror głębin._
 

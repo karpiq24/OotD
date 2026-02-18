@@ -2,7 +2,7 @@
 title: Wyspa Skorpiona
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 Wyspa położona w Zatoce Cerulańskiej, znana z występowania wielkich skorpionów oraz tajemniczej Wiedźmy Lotosu.
 

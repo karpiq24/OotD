@@ -2,7 +2,7 @@
 title: Stary Las
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Starożytna i gęsta puszcza, będąca domem dla wielu rdzennym ras Thylei._
 

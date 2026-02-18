@@ -2,7 +2,7 @@
 title: Świątynia Lutherii
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Emanująca bogactwem świątynia Pani Snów._
 

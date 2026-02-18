@@ -2,7 +2,7 @@
 title: Cronos
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Były przywódca więźniów na Wyspie Wygnańców._
 

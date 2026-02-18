@@ -2,7 +2,7 @@
 title: Myrmeki
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Insektoidalna rasa śmiertelników._
 

@@ -2,7 +2,7 @@
 title: Karczma "Smoczy Ząb"
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 Ciesząca się dużą popularnością gospoda w [[Estoria|Estorii]], mieszcząca się w niepozornym ceglanym budynku z rzeźbionymi detalami z białego kamienia. Jest to główny punkt spotkań podróżnych, kupców i żołnierzy stacjonujących w południowej części miasta.
 

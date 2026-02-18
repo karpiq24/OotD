@@ -2,7 +2,7 @@
 title: Hileas
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Dowódca w armii [[Mytros (Miasto)|Mytros]]_
 

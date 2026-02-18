@@ -2,7 +2,7 @@
 title: Zguba Tytanów (Titansbane)
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Weapon (longsword), legendary (requires attunement)_
 

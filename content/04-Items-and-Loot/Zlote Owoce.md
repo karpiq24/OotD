@@ -2,7 +2,7 @@
 title: Złote Owoce
 ---
 
-![Owoce Drzewa Serca](../assets/sessions/039/039_fruits.jpg)
+![Owoce Drzewa Serca](../assets/sessions/039/039_fruits.webp)
 
 _Magiczne owoce z Drzewa Serca_
 

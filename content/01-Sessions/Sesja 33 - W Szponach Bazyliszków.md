@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/033/chat_log.json)"
 ---
 **Data:** 02.12.2024
 
-![Iphis](../assets/sessions/033/iphis.png)
+![Iphis](../assets/sessions/033/iphis.webp)
 
 ## Podsumowanie
 

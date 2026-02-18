@@ -2,7 +2,7 @@
 title: Ochos Arkelander
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Smoczy Lord, jeździec smoczycy Hexii_
 

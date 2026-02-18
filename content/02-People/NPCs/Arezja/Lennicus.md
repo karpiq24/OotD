@@ -2,7 +2,7 @@
 title: Lennicus
 ---
 
-![Lennicus](../../../assets/sessions/062/062_Lennicus.png)
+![Lennicus](../../../assets/sessions/062/062_Lennicus.webp)
 
 _Krasnoludzki kapłan zarządzający Sanktuarium (łaźniami i szpitalem) przy arezyjskim gimnazjum._
 

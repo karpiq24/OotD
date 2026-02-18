@@ -2,7 +2,7 @@
 title: Kapitan Nersus
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Kapitan statku "Ostatnia Nadzieja"._
 

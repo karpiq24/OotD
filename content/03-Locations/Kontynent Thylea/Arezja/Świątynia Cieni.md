@@ -2,7 +2,7 @@
 title: Świątynia Cieni
 ---
 
-![Mistrz Cieni](../../../assets/sessions/063/063_shadow.png)
+![Mistrz Cieni](../../../assets/sessions/063/063_shadow.webp)
 
 _Mroczna i tajemnicza świątynia, siedziba szpiegów i zabójców._
 

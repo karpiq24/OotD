@@ -6,7 +6,7 @@ chat_log: "[Chat log](../assets/sessions/053/chat_log.json)"
 ---
 **Data:** 14.07.2025
 
-![Wall of Force](../assets/sessions/053/053_wall.png)
+![Wall of Force](../assets/sessions/053/053_wall.webp)
 
 ## Podsumowanie
 
@@ -22,19 +22,19 @@ Wykorzystując tę chwilową przewagę, drużyna przystąpiła do działania. Wy
 
 Walka była chaotyczna i brutalna. [[Gaius]], choć potężny, był bezradny w obliczu skoordynowanego ataku. [[Orestes]], trzymając go w uścisku, wyciągnął go w zasięg magicznej aury [[Versir|Versira]], a następnie, z potężnym zamachem, cisnął nim w dół, w przepaść. Dowódca Zakonu, z okrzykiem przerażenia, spadał w mrok, a jego los zdawał się być przesądzony. Smok, pozbawiony jeźdźca, wpadł w szał. Rzucił się na [[Orestes|Orestesa]], próbując uwolnić się z uścisku, lecz minotaur, z nadludzką siłą, trzymał się kurczowo smoczego ogona, zadając kolejne ciosy.
 
-![Chromatic Bolt](../assets/sessions/053/053_bolt.png)
+![Chromatic Bolt](../assets/sessions/053/053_bolt.webp)
 
 [[Felicjan Janus Twardowski|Felicjan]], widząc okazję, by zakończyć walkę, posłał w kierunku spadającego [[Gaius|Gaiusa]] magiczny pocisk. Chromatyczna kula energii, niczym kometa, pomknęła w dół, odbiła się rykoszetem od smoczej łuski i trafiła prosto w pierś dowódcy, kończąc jego żywot w eksplozji ognia i bólu. Smoczyca, [[Argyn]], wydała z siebie ryk pełen wściekłości i żalu, tracąc wszelkie pozory taktyki i rzucając się na bohaterów z furią oszalałej bestii. [[Orestes]], z trudem utrzymując się na jej grzbiecie, przyjął na siebie serię potężnych ciosów. [[Arevon Elorrenthi|Arevon]], w akcie desperacji, rzucił się w przepaść, by uleczyć upadającego [[Versir|Versira]], samemu odnosząc ciężkie rany.
 
-![Skok Arevona](../assets/sessions/053/053_leap.png)
+![Skok Arevona](../assets/sessions/053/053_leap.webp)
 
 Wydawało się, że losy bitwy wiszą na włosku. Jednak to właśnie wtedy, gdy sytuacja zdawała się beznadziejna, bohaterowie pokazali swą prawdziwą siłę. [[Orion Xul|Orion]], z furią godną półboga, zasypał smoczycę gradem ciosów, a jego włócznia, niczym błyskawica, raz po raz raniła jej cielsko. [[Orestes]], mimo bólu, nie puszczał ogona, zadając kolejne ciosy toporem. W końcu, [[Versir]], podniesiony z martwych przez druida, zadał ostateczny cios. Skupił całą swą moc i cisnął w smoczycę potężnym piorunem, który przeszył jej serce. [[Argyn]], z ostatnim, żałosnym rykiem, padła martwa na skalną półkę, a jej srebrne łuski straciły swój blask.
 
-![Lootowanko](../assets/sessions/053/053_loot.png)
+![Lootowanko](../assets/sessions/053/053_loot.webp)
 
 Po walce zapadła cisza, przerywana jedynie ciężkimi oddechami zwycięzców. Zmęczeni, ale triumfujący, przystąpili do zbierania łupów. Przy ciele [[Gaius|Gaiusa]] znaleźli magiczny pierścień pozwalający spowalniać upadek, potężną włócznię, [[Breastplate of Xander|zbroję Xandera]], która osłabiała ataki tytanów. Natomiast w pozłacanej skrzyni [[Hergeron|Hergerona]] odkryli drogocenne pierścienie, platynę oraz, co najważniejsze, [[Plany Naprawy Magicznego Kompasu|plany naprawy magicznego kompasu]], który był jednym z głównych celów ich misji. [[Arevon Elorrenthi|Arevon]] i [[Orestes]], z pomocą reszty drużyny, przystąpili do oprawiania smoka, pozyskując cenne składniki.
 
-![Kustosz](../assets/sessions/053/053_bowl.png)
+![Kustosz](../assets/sessions/053/053_bowl.webp)
 
 W trakcie odpoczynku, [[Felicjan Janus Twardowski|Felicjan]], czując się już bezpiecznie, postanowił zbadać tajemniczą [[Mosiężna Misa|misę]] znalezioną w Wielkiej Bibliotece. Gdy jego spojrzenie padło na jej powierzchnię, naczynie wypełniło się wodą, a w jej toni ukazała się twarz istoty nie z tego świata. Przedstawił się on jako [[Kustosz]] prastarych tajemnic i złożył czarodziejowi niepokojącą ofertę: w zamian za bliżej nieokreśloną przysługę w przyszłości, był gotów podzielić się z nim wiedzą, która mogłaby ocalić im życie w mrocznych odmętach [[Morze Otchłani|Morza Otchłani]]. [[Felicjan Janus Twardowski|Felicjan]], choć zaintrygowany, z roztropnością odrzucił pakt, obiecując, że „oddzwoni”.
 
@@ -85,6 +85,6 @@ W końcu, po długim i wyczerpującym dniu, bohaterowie powrócili na statek, gd
 * Smocze składniki (krew, róg, woreczek oddechowy)
 
 ## Filmy
-![Chromatic Bolt](../assets/sessions/053/053_bolt.mp4)
-![Orestes](../assets/sessions/053/053_orestes.mp4)
-![Orion](../assets/sessions/053/053_orion.mp4)
+![Chromatic Bolt](../assets/sessions/053/053_bolt.webm)
+![Orestes](../assets/sessions/053/053_orestes.webm)
+![Orion](../assets/sessions/053/053_orion.webm)

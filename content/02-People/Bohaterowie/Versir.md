@@ -3,7 +3,7 @@ title: Versir
 image_prompt: adult male with a dark fantasy aesthetic. He has a slender build, pale alabaster skin, and short blonde hair styled in a messy quiff. His face is defined by a strong jawline, high cheekbones, and piercing cyan eyes, often held in a confident smirk. large, jagged scar runs along the side of his neck and jaw. He wears an ornate breastplate. One of his hands is missing, ending in a stump, while the other wears a large, magical gauntlet.
 ---
 
-![Versir](../../assets/Versir.png)
+![Versir](../../assets/Versir.webp)
 
 _Aasmiar Paladin/Sorcerer, [[Epickie Ścieżki#The Timeless One (Wieczny)|The Timeless One]]_
 _**Wieczny**, który po stuleciach powrócił do [[Thylea|Thylei]] i odkrył los Zaginionych Tytanów._

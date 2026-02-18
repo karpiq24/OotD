@@ -2,7 +2,7 @@
 title: Arystonar
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Brązowy smok, wierzchowiec Jaseny Ventrak_
 

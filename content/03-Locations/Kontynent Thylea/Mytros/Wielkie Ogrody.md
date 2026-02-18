@@ -2,7 +2,7 @@
 title: Wielkie Ogrody
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Zielone płuca miasta._
 

@@ -2,7 +2,7 @@
 title: Dedal
 ---
 
-![Placeholder](../../../assets/placeholder.png)
+![Placeholder](../../../assets/placeholder.webp)
 
 _Szalony wynalazca z samotnej wyspy na Zapomnianym Morzu._
 

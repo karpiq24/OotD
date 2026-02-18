@@ -4,7 +4,7 @@ chat_log: "[Chat log](../assets/sessions/012/chat_log.json)"
 ---
 **Data:** 06.05.2024
 
-![Zephyrus, Wiosenny Wiatr](../assets/sessions/012/012_zephyrus.jpg)
+![Zephyrus, Wiosenny Wiatr](../assets/sessions/012/012_zephyrus.webp)
 
 ## Podsumowanie
 
