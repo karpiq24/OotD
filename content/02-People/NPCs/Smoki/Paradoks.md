@@ -18,3 +18,5 @@ W [[Sesja 58 - Wyspa Czasu]] spotkany przez bohaterów jako strażnik przejścia
 Wykluł się w roku 499 CE na pokładzie statku [[Ultros]], w trakcie podróży ku [[Morze Otchłani|Morzu Otchłani]] ([[Sesja 65 - Wyprawa w Otchłań]]). Jego narodzinom towarzyszyły pęknięcia skorupy jaja w kajucie [[Felicjan Janus Twardowski|Felicjana]]. Nowonarodzony smok był zaskoczony, że nie znajduje się na Wyspie Czasu, co potwierdza, że zachował wspomnienia ze swego poprzedniego bytu.
 
 Po wykluciu, szybko nawiązał kontakt z [[Felicjan Janus Twardowski|Felicjanem]] i mosiężnym smokiem [[Chh'Krtak|Chh'Krtakiem]], dołączając do drużyny jako nowy towarzysz broni.
+
+W [[Sesja 71 - Infiltracja Praxys]] [[Orestes]] próbował związać się z nim Przysięgą Smoczych Lordów obiecując ciepłego miejsca przy browarze. Oburzony Paradoks zapytał retorycznie, czy dla idealnego piwa wojownik zagiąłby też czasoprzestrzeń. Po radosnym przyznaniu się Orestesa do takiego pomysłu, zniesmaczony i zawiedziony brakiem ambicji smok, stanowczo odrzucił umowę.
