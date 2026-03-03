@@ -28,3 +28,5 @@ title: Inne
 - [[Wielki Dzik]]
 - [[Orestia]]
 - [[The Warden]]
+- [[Krok]]
+- [[Ramsus]]
