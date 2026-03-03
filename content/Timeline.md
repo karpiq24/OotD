@@ -400,4 +400,10 @@
 * Wizja [[Arevon Elorrenthi|Arevona]] o upadku [[Praxys]] i śmierci Telamoka.
 * Opracowanie planu infiltracji wieży [[Sydon|Sydona]] pod postacią wiatru.
 
-
+## Sesja 71 - Infiltracja Praxys (02.03.2026)
+* Planowanie infiltracji wieży [[Praxys]] i odrzucenie propozycji [[Orestes]]a przez smoka [[Paradoks]]a.
+* Zwiad lotniczy [[Arevon Elorrenthi|Arevon]]a wokół wieży, obserwacja Wszechwidzącej Gwiazdy i znalezienie wejścia przez rury odpływowe.
+* Wizja [[Versir]]a, który stanął przed dylematem: zniszczyć adamantowe kolce pod wodą czy połączyć gwiazdy na szczycie wieży, by ocalić Tytana [[Hergeron Pierwszy|Hergerona]].
+* Podwodna przeprawa przez cuchnące kanały i uniknięcie konfrontacji z cyklopem [[Krok]]iem za pomocą iluzji stworzonej przez [[Orion Xul|Orion]]a i [[Felicjan Janus Twardowski|Felicjan]]a.
+* Odnalezienie spętanej Królowej Myrmeków; po początkowej chęci pomocy, [[Versir]] uznaje potencjalną plagę za zagrożenie dla [[Thylea|Thylei]] i inicjuje atak.
+* Walka z rojem adaptujących się owadów, zdobycie mikstury Potion of Fire Resistance i pancerza Gorgona w kuźni, a następnie dotarcie pod drzwi Złotego Cielca.
