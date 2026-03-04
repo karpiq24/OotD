@@ -10,25 +10,24 @@ video_script: "[Skrypt wideo](../assets/sessions/071/video_script.md)"
 <!-- Main visuals will be inserted here by rpg-illustrator -->
 
 ## Podsumowanie
-![Narada na pokładzie Ultrosa](../assets/sessions/071/narada_na_statku_1772556653570.png)
-![Przeprawa bohaterów przez rury kanalizacyjnee](../assets/sessions/071/przeprawa_przez_scieki_1772556668477.png)
-![Walka z Królową Myrmeków w celi](../assets/sessions/071/walka_z_myrmekami_1772556687642.png)
+![Wieża Praxys w nocy](../assets/sessions/071/071_praxys.webp)
+[Prompt](../assets/sessions/071/071_praxys.txt)
 
 ### Przygotowania do Szturmu
-![Orestes kuszacy Paradoksa piwem](../assets/sessions/071/rozmowa_z_paradoksem_1772556701676.png)
-![Felicjan z Kairosem](../assets/sessions/071/feli_i_kairos_1772556718129.png)
+![Felicjan z Kairosem](../assets/sessions/071/071_kairos.webp)
+[Prompt](../assets/sessions/071/071_kairos.txt)
 
 Na pokładzie legendarnego okrętu Ultros, przecinającego mroczne fale, w sercach Bohaterów Przepowiedni ważyły się losy Thylei. Czas Przysięgi Pokoju nieubłaganie dobiegał końca, a wojna z Sydonem stanowiła ponure widmo na horyzoncie. W kwaterach okrętu odbyła się kluczowa narada. Zespół musiał zdecydować o planie infiltracji, podziale sił oraz ewentualnym udziale smoków. Felicjan, genialny mag, planując swoje magiczne sztuczki, pozyskał od Boga Kuźni Volkana magiczny nawóz. Orestes z kolei, wierny swojemu umiłowaniu do złocistego trunku, próbował pozyskać lojalność smoka Paradoksa, kusząc go obietnicą darmowego piwa oraz ciepłego leża na zapleczu rzemieślniczego browaru. Paradoks zapytał wówczas, czy dla uwarzenia idealnego piwa Orestes byłby skłonny cofnąć się w czasie i celowo namieszać w czasoprzestrzeni. Gdy wojownik bez zawahania potwierdził, zdegustowany smok stanowczo go odrzucił, widząc tak nieodpowiedzialne i mizerne ambicje. Po burzliwych dyskusjach herosi ostatecznie zdecydowali o wyruszeniu w uderzeniowym, skrytym szyku. Felicjan zdecydował się jednak zabrać ze sobą Kairosa – młodego smoka, z którym już jakiś czas temu związał się przysięgą Smoczych Lordów.
 
 ### Zwiad pod postacią chmury
-![Wieża Praxys w nocy](../assets/sessions/071/praxys_z_oddali_1772556733385.png)
-![Uwięziony pod powierzchnią wody Tytan](../assets/sessions/071/tytan_pod_woda_1772556751600.png)
+![Arevon transformujący w chmurę](../assets/sessions/071/071_wind_walk.webp)
+[Prompt](../assets/sessions/071/071_wind_walk.txt)
 
 Aby dogłębnie poznać układ niezdobytej i legendarnej fortecy Pana Burz, Arevon Elorrenthi, wykorzystując pierwotną magię wiatru (Wind Walk), dokonał transformacji w bezszelestną, niemalże całkowicie niewidzialną dla postronnych, formę eterycznej chmury. Przemierzając wichry nocy z zawrotną prędkością, ujrzał owiane majestatem Praxys – kolosalną, wzniesioną z kamienia i brązu wieżę wyłaniającą się nieubłaganie z szalejących fal, której wierzchołek wieńczyła wszechwidząca, świetlista gwiazda, omiatająca otoczenie swym przenikliwym blaskiem. Cały obszar powietrzny i wierzch budowli rygorystycznie patrolowały dziesiątki potężnych, przerażających Gryfów. Każde z okien oraz misternie rzeźbionych tarasów zabezpieczone było magiczną barierą – Ścianą Mocy (Wall of Force), uniemożliwiającą tak łatwą i swobodną infiltrację z powietrza. Zbadanie morskich głębin pod fundamentami budowli utwierdziło Arevona w wiedzy, którą drużyna nabyła już wcześniej – cała gargantuiczna i pyszniąca się swą władzą iglica Wieży spoczywała na potężnych barkach zniewolonego i zanurzonego w morskiej toni Tytana, Hergerona Pierwszego. Mijając bystrym spojrzeniem pływające z harpunami podwodne patrole okrutnego gatunku Merrow, Arevon zbadał system wodny struktury. Odkrył, że wieża posiada dwojakiego rodzaju kanały – mniejsze zasysały relatywnie czystą wodę morską, podczas gdy potężne otwory odpływowe wypluwały gęste, cuchnące nieczystości. To właśnie te drugie kanały okazały się być obiecującą ścieżką ominięcia solidnych zabezpieczeń głównego wejścia.
 
 ### Wizja Wśród Fal i Przeprawa Przez Ścieki
-![Rozdwojona wizja Versira](../assets/sessions/071/wizja_versira_1772556770527.png)
-![Cyklop Krok z mopem idący od łazientki](../assets/sessions/071/krok_w_latrynie_1772556790942.png)
+![Rozdwojona wizja Versira](../assets/sessions/071/071_wizja_versira.webp)
+[Prompt](../assets/sessions/071/071_wizja_versira.txt)
 
 Zgodnie z wynikami zwiadu, drużyna nakreśliła ostateczny, choć ryzykowny plan szturmu na Praxys. Bohaterowie postanowili wślizgnąć się przez rury odprowadzające nieczystości z wieży, by w ten sposób całkowicie ominąć zewnętrzne straże i Ściany Mocy. Przygotowując się do akcji, osłonili się zaklęciem Wind Walk (przyjmując postać eterycznych chmur) i wykorzystali mikstury wodnej formy (Potion of Aqueous Form), by bez problemu poruszać się pod wodą.
 
@@ -39,8 +38,7 @@ Początkowo rury doprowadziły herosów do rozległej, zatopionej w mroku piwnic
 Sama przeprawa przez system kanalizacyjny pod prąd gęstych ścieków stała się prawdziwym testem wytrzymałości. Bohaterowie wynurzyli się z odpływów prosto w monstrualnie wielkiej, marmurowej latrynie. Okazało się, że o "czystość" tej łazienki dbał poczciwy cyklop o imieniu Krok – wyjątkowo zdeformowany, gdyż, ku powszechnemu zaskoczeniu, posiadał dwoje oczu. Zanim Krok na dobre zorientował się w sytuacji, Arevon (wciąż w postaci eterycznej chmury) prześlizgnął się przez latrynę i wykonał błyskawiczny zwiad pobliskich pomieszczeń. Odkrył montownię golemów obsługiwaną przez dziwne, insektoidalne humanoidy, baraki żołnierzy Sydona, oraz kuchnię pod batutą koźlaka imieniem Ramsus. Kiedy Krok zaczął kwestionować dźwięki dochodzące z kabiny, Orion, wykazując się niezwykłym refleksem aktorskim, zaczął głośno jęczeć z zamkniętej kabiny i odgrywać gigantyczne problemy żołądkowe po defekacji. Felicjan momentalnie dopełnił tę szaradę potężną iluzją dźwiękową niekontrolowanej biegunki. Zdezorientowany Krok usłyszał wykrzyczane z kabiny żądanie dostarczenia kolejnych rolek papieru toaletowego i w popłochu oddalił się z latryny w poszukiwaniu kanapki.
 
 ### Królowa Myrmeków
-![Ściana Ognia utrudniajaca Myrmekom szarze](../assets/sessions/071/sciana_ognia_feli_1772556804995.png)
-![Monumentalny Złoty Cielec przed Wrotami](../assets/sessions/071/zloty_cielec_1772556821251.png)
+![Królowa Myrmeków](../assets/sessions/071/071_myrmekes_queen.webp)
 
 Gdy tylko cyklop bezpiecznie zniknął, drużyna ruszyła w stronę szczelnie zamkniętych drzwi, których Arevon wcześniej nie zdołał zbadać z powodu szczelnego zamknięcia. Szybko okazało się, że za pierwszym rzędem drzwi kryły się od razu kolejne – oba masywne zamki zostały jednak sprawnie sforsowane dzięki wybitnym umiejętnościom złodziejskim Arevona i jego drobnym narzędziom. Po otwarciu wrót, ich oczom ukazał się makabryczny widok: olbrzymia Królowa Myrmeków – matka insektoidalnego roju – była spętana sześcioma gigantycznymi łańcuchami. Jej niedoli pilnowało dwóch opancerzonych, bezgłowych strażników z rasy Blemysów. Gdy tylko wrota zostały otwarte, strażnicy natychmiastowo zareagowali na intruzów, jednak zamiast rzucić się na nich, w morderczym szale zaatakowali i zaczęli szlachtować samą Królową. Wielka bestia wyczuła nowo przybyłych i telepatycznie zaczęła błagać bohaterów o uwolnienie, obiecując w zamian gigantyczną nagrodę i wypuszczenie swojego wściekłego pomiotu na wrogą twierdzę, by zniszczyć ją od środka.
 
@@ -82,7 +80,7 @@ Bez zbędnej zwłoki, opuszczając martwe insekty za plecami, zespół przemieś
 * [[Praxys]] (Wieża Sydona)
 
 ## Przedmioty
-* [[Potion of Fire Resistance]]
+* Potion of Fire Resistance
 * Płyty z Pancerza Mechanicznego Gorgona
 
 ## Filmy
