@@ -82,4 +82,4 @@ Bez zbędnej zwłoki, opuszczając martwe insekty za plecami, zespół przemieś
 * Płyty z Pancerza Mechanicznego Gorgona
 
 ## Filmy
-<!-- Video placeholders or links if any -->
+![Wizja Versira](../assets/sessions/071/071_vision.webm)
