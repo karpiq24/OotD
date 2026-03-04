@@ -7,8 +7,6 @@ video_script: "[Skrypt wideo](../assets/sessions/071/video_script.md)"
 ---
 **Data**: 02.03.2026
 
-<!-- Main visuals will be inserted here by rpg-illustrator -->
-
 ## Podsumowanie
 ![Wieża Praxys w nocy](../assets/sessions/071/071_praxys.webp)
 [Prompt](../assets/sessions/071/071_praxys.txt)
