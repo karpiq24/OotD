@@ -20,3 +20,7 @@ W [[Sesja 11 - Mithralowa Kuźnia]] poległ w walce z młodym cerberem. Został 
 W [[Sesja 47 - Wyspa Mojr]] zawarł pakt z [[Nona|Noną]], jedną z [[Mojry|Mojr]]. W zamian za spędzenie z nią nocy i spłodzenie potomka, otrzymał ulepszenie swojej włóczni. Był jedynym bohaterem, który zgodził się na indywidualny układ z Paniami Losu.
 
 W [[Sesja 49 - Wielkie Gęsie Powstanie]] zadał ostateczny cios Chimerze, przebijając jej serce włócznią. Później został przemieniony w gęś przez klątwę [[Althaia|Althai]], ale walczył dzielnie w gęsim powstaniu przeciwko wiedźmie.
+
+W [[Sesja 71 - Infiltracja Praxys]] wsławił się aktorsko-złodziejskim popisem w latrynie wieży - chcąc prześlizgnąć się poza cyklopem [[Krok|Krokiem]] zaczął głośno jęczeć i odgrywać uciążliwe problemy żołądkowe, krzycząc do zdezorientowanego cyklopa z zamkniętej kabiny żądania na papier toaletowy. Cyklop w konsternacji zrezygnował z dalszych pytań i zgodnie z jego prośbą, by nie patrzeć na "problemy żołądkowe", odszedł by zjeść wcześniej przygotowaną kanapkę. W dalszej części zadał ostateczny, morderczy cios spętanej [[Królowa Myrmeków|Królowej Myrmeków]].
+
+W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] dołożył swoją niebiańską precyzję, by powstrzymać z ukrycia rządy uzurpatora Władcy Burz w wieży [[Praxys]]. W bezpośrednim starciu raził przeciwników ostrym zakończeniem włóczni ojca zadając dotkliwe obrażenia, pomagając ostatecznie odpędzić go pod kopułę mytrońskiej świątyni.

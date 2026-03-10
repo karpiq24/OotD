@@ -6,3 +6,4 @@ title: Załoga Arevona
 - [[Garrick Vanalan]]
 - [[Ivello Ostren]]
 - [[Tars d’Lyrandar]]
+- [[Lia Amakiir]]

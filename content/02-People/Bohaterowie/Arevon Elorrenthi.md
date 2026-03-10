@@ -34,3 +34,7 @@ W [[Sesja 49 - Wielkie Gęsie Powstanie]] podejrzewał [[Althaia|Althaię]] od s
 W [[Sesja 64 - Pieśń dla Smoczycy]], gdy zbliżali się do Wyspy Smoka, jego umysł stał się naczyniem dla wspomnień samej [[Hexia|Hexii]]. Zobaczył świat jej oczami - miłość do [[Ochos Arkelander|Ochosa]], pieśń, i moment, w którym [[Zguba Tytanów|Titansbane]] zawiódł, nie mogąc zabić Sydona. Ta wizja pozwoliła drużynie zrozumieć ból smoczycy.
 
 W [[Sesja 65 - Wyprawa w Otchłań]] popisał się mistrzowską nawigacją, przeprowadzając [[Ultros|Ultrosa]] przez wir [[Charybda]] na [[Morze Otchłani]]. Wewnątrz [[Sześcian Więzienny|Sześcianu Więziennego]] odczytał starożytne runy w języku Primordial, odkrywając przerażającą prawdę o uśpionym wewnątrz [[Tarrasque]].
+
+W [[Sesja 71 - Infiltracja Praxys]] jako eteryczna chmura (Wind Walk) przeprowadził brawurowy samotny zwiad majestatycznej fortecy Pana Burz na morzu, ustalając optymalną ścieżkę ataku przez kanały odpływowe po ominięciu Ścian Mocy. To jego złodziejskie umiejętności otworzyły następnie wrota do komnaty spętanej [[Królowa Myrmeków|Królowej Myrmeków]].
+
+W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] w potyczce wspierał kompanię swoimi potężnymi zaklęciami, uzdrawiając ranionego minotaura czy taktycznie dzieląc pole bitwy potężną *Ścianą Ognia*, z której niestety zregenerował się, podrzucony tam przez Orestesa, Żelazny Golem z kuźni tytanów.

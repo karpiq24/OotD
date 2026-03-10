@@ -26,9 +26,10 @@ This workflow processes a user-reviewed session recap draft, adding wikilinks, i
     *   Activate skill `rpg-illustrator`.
     *   Generate prompts (prioritizing `image_prompt` frontmatter from linked entities).
     *   Generate Images -> Insert into file -> Move to `content/assets/sessions/{000}/`.
-3.  **Timeline**:
+3.  **Timeline & Context**:
     *   Activate skill `rpg-timeline-manager`.
     *   Append Key Events to `content/Timeline.md`.
+    *   Update concise summary in `content/Campaign_Context.md`.
 4.  **Video Scripts**:
     *   Activate skill `rpg-video-scripter`.
     *   Generate video prompts to `content/06-Video-Scripts/`.
