@@ -73,3 +73,4 @@ title: Sesje
 - [[Sesja 69 - Ogród Lutherii|Sesja 69: Ogród Lutherii]]
 - [[Sesja 70 - Audiencja u Pani Snów|Sesja 70: Audiencja u Pani Snów]]
 - [[Sesja 71 - Infiltracja Praxys|Sesja 71: Infiltracja Praxys]]
+- [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia|Sesja 72: Śniadanie u Tytana: Bochenek Przeznaczenia]]
