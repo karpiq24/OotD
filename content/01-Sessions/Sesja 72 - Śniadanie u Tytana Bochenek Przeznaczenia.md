@@ -11,7 +11,7 @@ chat_log: "[Chat log](../assets/sessions/072/chat_log.json)"
 
 ## Podsumowanie
 
-![Zasadzka na Tytana Sydona z bochenka chleba](../assets/sessions/072/072_main.png)
+![Zasadzka na Tytana Sydona z bochenka chleba](../assets/sessions/072/072_main.webp)
 [Prompt](../assets/sessions/072/072_main.txt)
 
 ### Garzoon
@@ -22,7 +22,7 @@ Cyklop, nieufny i podenerwowany krwawą rzezią, zadecydował o konieczności ws
 
 ### Pułapki, Magma i Ukryty Skarbiec
 
-![Ognista pułapka w kuźni z mechanicznym bykiem](../assets/sessions/072/072_trap.png)
+![Ognista pułapka w kuźni z mechanicznym bykiem](../assets/sessions/072/072_trap.webp)
 [Prompt](../assets/sessions/072/072_trap.txt)
 
 Przeczesując pomieszczenie kuźni, drużyna natrafiła na intrygującą dźwignię. Zza jednych z nich dobiegał upiorny szmer i uderzenia dziesiątek odnóży – zwiastun kolejnej fali [[Myrmeki|myrmeków]]. Bohaterowie, licząc na odkrycie tajnego przejścia, pociągnęli za potężną dźwignię. Zamiast drzwi, aktywowali jednak morderczą pułapkę w korytarzu przed kuźnią. Z góry runęły gigantyczne bloki adamantu, trwale pieczętując wyjścia, a z otworów w suficie zaczęła wlewać się wrząca, bulgocząca magma. Po chwili metalowy byk na którym został zaaranżowany [[Garzoon]] zaczął kręcić się i wierzgać. Truchło Gygana zsunęło się wprost w objęcia lawy, płonąc jak pochodnia. Gdy mechanizm ostatecznie odpompował magmę, herosi z ulgą wrócili do eksploracji.
@@ -31,7 +31,7 @@ W kolejnym pomieszczeniu trafili na zagadkową ślepią uliczkę. Na ścianach o
 
 ### Piekielna Kuchnia i Trojański Chleb
 
-![Spotkanie z szefem kuchni Ramsusem](../assets/sessions/072/072_kitchen.png)
+![Spotkanie z szefem kuchni Ramsusem](../assets/sessions/072/072_kitchen.webp)
 [Prompt](../assets/sessions/072/072_kitchen.txt)
 
 Kontynuując zwiad, herosi trafili do rozległej kuchni wieży, gdzie wpadli prosto na głównego szefa kuchni – wykwalifikowanego gnoma imieniem **[[Ramsus]]**. Choć drużyna nadal nosiła przebrania, bystre spojrzenie koźlaka, natychmiast przejrzało ich maskaradę. Próby kłamstw [[Orestes|Orestesa]] spaliły na panewce, lecz ku ich zaskoczeniu, kucharz nie podniósł alarmu. Zmęczony despotycznymi rządami Władcy Burz i wizją nadchodzącej, wyniszczającej wojny, [[Ramsus]] zaproponował im układ. Opowiedział o nadchodzącym śniadaniu **[[Sydon|Sydona]]** – gigantycznym bochenku chleba, który miał stanowić centrum śniadaniowej uczty na najwyższym piętrze wieży.
@@ -40,7 +40,7 @@ Plan był tyleż genialny, co szalony: wydrążyć bochenek i ukryć w nim Bohat
 
 ### Śniadanie Mistrzów i Furia Władcy Burz
 
-![Starcie na śmierć i życie z Władcą Burz, Sydonem](../assets/sessions/072/072_sydon.png)
+![Starcie na śmierć i życie z Władcą Burz, Sydonem](../assets/sessions/072/072_sydon.webp)
 [Prompt](../assets/sessions/072/072_sydon.txt)
 
 Ogromny półmisek z bochenkiem przebył długą drogę windą towarową, mijając piętra z więzieniami i sypialniami Furii, aż w końcu dotarł do prywatnych komnat Tytana. Pomieszczenie zajmowało siedem ociekających złotem i czerwienią tronów oraz gigantyczną, wypukłą mapę [[Kontynent Thylea|Thylei]] na podłodze. Gdy potężna dłoń **[[Sydon|Sydona]]** sięgnęła po wypiek, by oderwać od niego kęs, bochenek eksplodował od wewnątrz. **[[Orestes]]** wybuchnął z chleba z furią na twarzy. Twarz Tytana wykrzywiła się w komicznym, a po chwili wściekłym szoku.
@@ -49,7 +49,7 @@ Rozpoczęła się tytaniczna batalia. **[[Versir]]** jako pierwszy doskoczył do
 
 ### Meduza, Żelazne Golemy i Chalcia
 
-![Potężna bitwa z Chalcią pośród ognia i magii](../assets/sessions/072/072_chalcia.png)
+![Potężna bitwa z Chalcią pośród ognia i magii](../assets/sessions/072/072_chalcia.webp)
 [Prompt](../assets/sessions/072/072_chalcia.txt)
 
 Nim kurz po ucieczce Tytana zdążył opaść, wejście do komnaty stanęło otworem, a głośne wycie alarmu rozdarło bębenki w uszach. W progu pojawiła się przerażająca meduza z wężowym ogonem. A z cieni sąsiednich korytarzy wyłoniły się dwa kolosalne, ciężko stąpające **Żelazne Golemy**. Po chwili w centrum pomieszczenia, lewitując ujawniła się sama [[Chalcia]], mówiąc, że nie mogła doczekać się tego spotkania. Zaczęła miotać potężnymi czarami. [[Chalcia]] przystąpiła do ofensywy przywołując niszczycielski ogień i pioruny, które spaliły posadzkę i boleśnie raniły drużynę.
