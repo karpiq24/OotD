@@ -16,6 +16,8 @@ chat_log: "[Chat log](../assets/sessions/072/chat_log.json)"
 
 ### Garzoon
 
+![Garzoon](../assets/sessions/072/072_garzoon.webp)
+
 Wnętrze monumentalnej wieży **[[Praxys]]**, ponurej domeny Władcy Burz, powitało Bohaterów Przepowiedni zapachem ozonu i stęchlizny. Drużyna, wciąż ukryta pod płaszczykiem magicznych i fizycznych przebrań, powoli zagłębiała się w korytarze najeżone niebezpieczeństwami. Ich kroki doprowadziły ich pod masywne, wykute z czystego adamantu drzwi. Gdy tylko się do nich zbliżyli, niewielkie okienko w pancernej płycie odsunęło się ze zgrzytem, a w szczelinie ukazało się pojedyncze, podejrzliwe oko cyklopa. Strażnik o imieniu [[Garzoon]], dzierżący potężny kowalski młot, stał na tle zrujnowanego pomieszczenia, w którym walały się truchła owadopodobnych [[Myrmeki|myrmeków]]. **[[Versir]]**, usiłując zachować zimną krew, spróbował przekonać strażnika, że insekty podniosły bunt, a oni zostali wysłani aby posprzątać bałagan.
 
 Cyklop, nieufny i podenerwowany krwawą rzezią, zadecydował o konieczności wszczęcia alarmu. Otworzył drzwi kuźni i szybko skierował się w kierunku innych drzwi prowadzących do centralnej klatki schodowej wieży. Złapał za wielką złotą monetę z wygrawerowanym czerwonym okiem – łudząco podobną do artefaktu noszonego niegdyś przez [[Talieus Pierwszy|Talieusa]] – podniósł ją w geście autoryzacji i pchnął ciężkie wrota. Bohaterowie wiedzieli, że nie mogą pozwolić, by dźwięk dzwonów rozniósł się po wieży. Zanim strażnik zdążył ruszyć w stronę schodów, **[[Orestes]]** z potępieńczym rykiem rzucił się naprzód, a jego potężny topór z chrzęstem wbił się w potylicę Gygana, kładąc go trupem na miejscu. Nie tracąc cennych sekund, minotaur wciągnął masywne zdala od schodów i z braku lepszego pomysłu, ułożył je w groteskowej pozie na grzbiecie wielkiego, mechanicznego byka, podpierając ciało trzonkiem cyklopiego młota.
@@ -57,6 +59,9 @@ Nim kurz po ucieczce Tytana zdążył opaść, wejście do komnaty stanęło otw
 **[[Arevon Elorrenthi|Arevon]]**, starając się opanować chaos pola bitwy, wyczarował potężną *Ścianę Ognia (Wall of Fire)*, odcinając część komnaty, i spróbował spętać [[Chalcia|Chalcię]] magicznymi pnączami. **[[Felicjan Janus Twardowski|Felicjan]]**, miotając swoimi *Chromatycznymi Kulami (Chromatic Orb)*, na przemian mroził i raził kwasem nacierające konstrukty. Żelazne Golemy bezlitośnie napierały do przodu. Kiedy [[Chalcia]] przyzwała *Łańcuch Piorunów (Chain Lightning)*, [[Felicjan Janus Twardowski|Felicjan]] szybko zareagował, przekierowując zabójcze pioruny w nią samą.
 
 ### Ognisty Kres Dziedziczki Sydona
+
+![Ostateczny cios należał jednak do Versira](../assets/sessions/072/072_versir_assassination.webp)
+[Prompt](../assets/sessions/072/072_versir_assassination.txt)
 
 **[[Orestes]]**, napędzany adrenaliną, wykonał manewr, który na zawsze przejdzie do legend (i anegdot o barbarzyńskich pomyłkach). Używając swoich skrzydeł, pochwycił jednego z ważących tony Żelaznych Golemów, wzbił się z nim na wysokość kilkudziesięciu stóp i z triumfalnym okrzykiem zrzucił go prosto w sam środek *Ściany Ognia* [[Arevon Elorrenthi|Arevona]]. Niestety, potworny konstrukt, zbudowany do pracy w magmie, zamiast stopić się, zaabsorbował płomienie, regenerując swoje uszkodzenia. 
 
