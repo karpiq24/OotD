@@ -1,5 +1,6 @@
 ---
 title: Chalcia
+image_prompt: young adult female, dark fantasy queen, regal sorceress, fair skin, haughty expression, strong jawline, piercing light blue eyes, sharp dark eyeliner, dark red lipstick, a distinct red circular eye symbol on the center of the forehead, short messy dark brown hair, wearing a massive black spiky crown resembling jagged obsidian with a central silver diamond accent, heavy collar necklace featuring large faceted dark brown crystals, textured black ribbed shawl draped over shoulders, structured bronze and black geometric patterned top
 ---
 
 ![Placeholder](../../../../assets/placeholder.webp)
