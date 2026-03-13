@@ -407,3 +407,11 @@
 * Podwodna przeprawa przez cuchnące kanały i uniknięcie konfrontacji z cyklopem [[Krok]]iem za pomocą iluzji stworzonej przez [[Orion Xul|Orion]]a i [[Felicjan Janus Twardowski|Felicjan]]a.
 * Odnalezienie spętanej Królowej Myrmeków; po początkowej chęci pomocy, [[Versir]] uznaje potencjalną plagę za zagrożenie dla [[Thylea|Thylei]] i inicjuje atak.
 * Walka z rojem adaptujących się owadów, zdobycie mikstury Potion of Fire Resistance i pancerza Gorgona w kuźni, a następnie dotarcie pod drzwi Złotego Cielca.
+
+## Sesja 72 - Śniadanie u Tytana: Bochenek Przeznaczenia (09.03.2026)
+* Infiltracja wieży [[Praxys]], powstrzymanie [[Garzoon|Garzoona]] przed uruchomieniem alarmu i uniknięcie pułapki w kuźni.
+* Odkrycie ukrytego skarbca i zdobycie magicznego ekwipunku (m.in. [[Oszczepy Błyskawic]], pary magicznych rękawic).
+* Pakt z szefem kuchni [[Ramsus|Ramsusem]] i realizacja planu zasadzki wewnątrz gigantycznego bochenka chleba.
+* Starcie z [[Sydon|Sydonem]] w jego sali tronowej zakończone ucieczką Tytana do [[Mytros]].
+* Pokonanie [[Chalcia|Chalcii]], meduzy i Żelaznych Golemów; śmierć córki Sydona z rąk [[Versir|Versira]].
+
