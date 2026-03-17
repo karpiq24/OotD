@@ -237,4 +237,4 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 
 ## Finałowa Odyseja: Praxys i Pani Snów (Sesje 69-72)
 *   **Audiencja u Lutherii (S69-S70):** Wizyta na okręcie Hypnos, ostateczna śmierć ducha Estora Arkelandera i otrzymanie Titansbane od Volkana.
-*   **Infiltracja Praxys (S71-S72):** Potajemne wejście do wieży Sydona, walka z rojem Myrmeków i zasadzka na Tytana ukryta w gigantycznym bochenku chleba.
+*   **Infiltracja Praxys (S71-S72):** Potajemne wejście do wieży Sydona, zasadzka przeprowadzona z wnętrza bochenka chleba i śmierć [[Chalcia|Chalcii]] z rąk herosów.
