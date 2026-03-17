@@ -11,83 +11,97 @@ chat_log: "[Chat log](../assets/sessions/073/chat_log.json)"
 
 ## Podsumowanie
 
-Oto szczegółowe i wyczerpujące podsumowanie Waszej epickiej sesji:
+### Starcie z Golemem w Sercu Praxys
 
-### Gorzki Smak Trucizny i Upadek Piekielnego Ogara
+Wieża **Praxys**, mroczna twierdza **Sydona**, Władcy Burz, wznosiła się nad wzburzonym morzem niczym kamienna igła wbita w niebo. Bohaterowie Przepowiedni — **Arevon Elorrenthi**, **Felicjan Janus Twardowski**, **Orestes**, **Orion Xul** oraz **Versir** — przebywali już w jej wnętrzu, infiltrując kolejne piętra w ramach zuchwałej misji, która miała doprowadzić do ostatecznej konfrontacji z samym Tytanem. Sesja rozpoczęła się w samym środku zaciekłego starcia z potężnym **golemem**, mechanicznym strażnikiem wieży, którego metaliczny kadłub lśnił złowieszczym blaskiem w świetle pochodni. Bestia, dotychczas atakująca Oriona ciosami stalowych pięści i ognistymi bełtami, teraz otworzyła swą paszczę nienaturalnie szeroko i zionęła strugą paraliżującej **trucizny**. Atak był miażdżący — **55 punktów obrażeń od trucizny** uderzył w bohaterów niczym fala, choć część z nich zdołała zminimalizować skutki dzięki odporności i reakcjom obronnym. Orion, korzystając ze zdolności **Chromatic Dragon**, odparł część trucizny, podczas gdy Orestes, zahartowany barbarzyńca, przyjął cios na siebie z grymasem bólu, lecz bez ustępowania. Felicjan, czarodziej o bystrym umyśle, uderzył w golema **lodem**, wybierając mroźny żywioł jako najskuteczniejszy przeciwko metalowemu przeciwnikowi. Jego **Ray of Frost** okazał się zaskakująco skuteczny — trafienie krytyczne posłało przez golema falę chłodu, która pokryła jego pancerz szronem, a dodatkowe kostki obrażeń z czarodziejskiego kunsztu Felicjana dobiły stworzenie do granicy wytrzymałości. Arevon, druid gwiazd, wspierał drużynę swoimi atakami, a pioruny, które trafiły golema, ostatecznie rozbiły jego metalowy kadłub na kawałki. Zwycięstwo było pewne, lecz kosztowne — bohaterowie zużyli niemało zasobów na pokonanie tej mechanicznej bestii.
 
-Echa bitwy w trzewiach wieży Praxys wciąż rezonowały od uderzeń oręża i krzyków bojowych, gdy Bohaterowie Przepowiedni zmagali się z morderczymi strażnikami. Mosiężny golem, niewzruszony i brutalny, nagle rozwarł swą żelazną paszczę szerzej niż dotychczas. Zamiast płomieni, buchnęła z niej gęsta, żrąca chmura toksycznych oparów. Orestes, naznaczony klątwą Minotaur, przyjął na siebie pełen impet tego trującego podmuchu. Jad wdarł się do jego płuc, paląc żyły i niemal rzucając potężnego wojownika na kolana. Mimo to, furia barbarzyńcy nie zgasła. Orion Xul, Półbóg i syn Pythora, błyskawicznie zareagował, osłaniając towarzyszy tarczą, jednak kwasowe opary zebrały swoje żniwo. Ostateczny cios mosiężnemu monstrum zadał Felicjan Janus Twardowski; jego potężny, wzmocniony magią i niszczycielską mocą lodu *Promień Mrozu* (Ray of Frost) roztrzaskał konstrukt, kończąc jego żywot.
+### Eksploracja Komnat Wieży i Dwuskładnikowe Uwierzytelnianie
 
-Nie był to jednak koniec starcia. Piekielny Cerber, rozwścieczony i krwawiący, upatrzył sobie Orestesa jako główny cel. Bestia, wspomagana swoimi legendarnymi akcjami, raz za razem szarpała zbroję i ciało Minotaura, wbijając kły głęboko w jego mięśnie. Pozbawiony początkowo ochronnej furii swojego Szału, Orestes tracił siły w zastraszającym tempie, balansując na krawędzi życia i śmierci z zaledwie kilkoma punktami zdrowia. Sytuację pogorszył fakt, iż mroczny ogar zionął magiczną ciemnością, która spowiła pole bitwy, oślepiając większość bohaterów. Arevon Elorrenthi, posiłkując się swym wyostrzonym zmysłem słuchu i intuicją Druida Gwiazd, próbował zlokalizować bestię w mroku. Versir, Wieczny, zatańczył w ciemnościach, posyłając w stronę wroga magiczne cięcia przepełnione echem piorunów i zielonego ognia. Ostatecznie, ranny i osaczony Cerber padł pod zmasowanym atakiem drużyny, a mrok wreszcie się rozwiał. W chwili wytchnienia Arevon i Orestes, wykazując się nie lada opanowaniem, zdołali fachowo oprawić truchło mitycznego psa, pozyskując jego serce oraz twardą skórę – cenne trofea, z których bogowie i rzemieślnicy mogą w przyszłości wykuć potężne artefakty.
+Po pokonaniu golema drużyna przystąpiła do metodycznego przeszukiwania piętra. Korytarze **Praxys** okazały się labiryntem drzwi — niezliczonych, masywnych drzwi, co skłoniło Orestesa do trafnej obserwacji, że **Sydon**, w czasach swej największej mądrości, kazał zamontować ich tak wiele, aby ewentualni intruzi wyczerpali się samym ich otwieraniem. Za jednym z nich Arevon odkrył sporą komnatę, w której środku znajdowała się zagłębienie przypominające piaskownicę, otoczoną marmurowym chodnikiem. W drobnym, delikatnym piasku stały **kamienne posągi** w pozach pełnych przerażenia — ewidentne dzieło meduzy, której obecność bohaterowie wcześniej odnotowali. Te zastygłe w kamieniu ofiary patrzyły pustymi oczami na przybyszów, milcząc o swojej tragedii.
 
-### W Sanktuarium Pana Burz
+Istotnym odkryciem okazał się **mechanizm alarmowy** przy schodach. Felicjan podjął próbę jego rozszyfrowania, lecz choć zrozumiał zasadę działania, czegoś brakowało — jakiegoś klucza, drugiego składnika uwierzytelnienia, jak żartobliwie zauważył czarodziej. Wówczas Arevon wpadł na pomysł, by użyć **magicznego oka**, które drużyna posiadała — artefaktu powiązanego z systemami bezpieczeństwa wieży. Próba okazała się **sukcesem**: alarm został wyłączony, a drużyna mogła kontynuować eksplorację bez obawy o natychmiastowe wykrycie. Minotaury patrolujące korytarze spoglądały na bohaterów z lekkim zaciekawieniem, lecz wzruszały ramionami i odchodziły w swoją stronę — przebranie i pewność siebie drużyny robiły swoje.
 
-Pozostawiwszy za sobą truchła strażników, drużyna wkroczyła w głąb prywatnych komnat Sydona, Władcy Burz. Pomieszczenie ociekało wręcz nieprzyzwoitym przepychem i arogancją Tytana. Ogromne, okrągłe łoże przykryte skórami nieznanych, lewiatanopodobnych bestii dominowało nad przestrzenią. W centrum znajdował się prywatny basen, nad którym górował gigantyczny, w pełni nagi marmurowy posąg samego Sydona, wyeksponowany w pozie pełnej pychy, z mocno przerysowanymi i wyolbrzymionymi atrybutami męskości. Felicjan, nie potrafiąc oprzeć się swojej psotnej naturze, użył zaklęcia, by dorysować na posągu wulgarnie wyglądającą „rakietę”, czym zapewnił drużynie chwilę komicznego rozluźnienia.
+### Sypialnia Sydona — Narcyzm, Baseny i Ukryte Skarby
 
-Rozpoczęło się metodyczne przeszukiwanie luksusowej sypialni. Czarodziej odnalazł starożytną, pokrytą kurzem księgę zaklęć, która okazała się niezwykle cennym znaleziskiem dla jego magicznego repertuaru. Orion, zaglądając pod łoże, wyciągnął zawinięty w dziwny, sztywny materiał obraz, który bezceremonialnie zabrał. Tymczasem Arevon natrafił na dokument zapisany pismem Tytanów – notatkę samego Sydona dotyczącą jego córek. Wspomniano w niej o zmarłej driadzie Demetrii oraz o Versi, Naiadzie i Wyroczni, co po raz kolejny przypomniało bohaterom o skomplikowanych i tragicznych więzach krwi łączących bogów, tytanów i ich dzieci w Thylei. Po sprawdzeniu odrażająco cuchnących drzwi, za którymi prawdopodobnie znajdowało się leże smoków, drużyna postanowiła skupić się na głównym, opancerzonym wejściu prowadzącym głębiej.
+Najciekawszym pomieszczeniem na tym piętrze okazała się **prywatna sypialnia Sydona**. Bohaterowie wkroczyli do przestronnej komnaty wyłożonej luksusowymi kanapami, pokrytej gigantyczną skórą jakiejś pradawnej bestii. Znajdował się tu **prywatny basen**, nad którym górował nagi, marmurowy posąg Sydona — naturalnej wielkości i, jak z rozbawieniem odkryli bohaterowie, obdarzony proporcjonalnie imponującym atrybutem męskości. Felicjan, nie tracąc czasu, zanurzył się w basenie, kąpiąc się pod czujnym, choć nieruchomym spojrzeniem kamiennego Tytana. Używając **Prestidigitation**, narysował na posągu obsceniczny rysunek — mały akt buntu wobec bóstwa, które zamierzali pokonać.
 
-### Kosmiczna Sadzawka i Skarby Smoczych Lordów
+Przeszukiwanie komnaty przyniosło **cenniejsze odkrycia**. Arevon, wspomagany przez kolegów, znalazł pod łóżkiem **pięknie namalowany obraz** zawinięty w materiał — najwyraźniej na tyle wartościowy lub intymny, że Sydon chował go przed wzrokiem gości. Felicjan natomiast, przeszukując biurko i półki z przyciemniałymi księgami, odnalazł **księgę zaklęć** — cenny spellbook zawierający czary ósmego poziomu, który z pewnością wzbogaci jego magiczny arsenał. Arevon odkrył też **niedawno ruszany pergamin** — dokument napisany w języku Sydona, którego treść mogła zawierać istotne informacje strategiczne. Versir, rozmyślając nad dalszą drogą, zauważył, że z **kominka** w sypialni prowadzi w górę szyb wentylacyjny — na tyle duży, by zmieścił się w nim nawet dorosły człowiek, a być może i droga na sam szczyt wieży.
 
-Ciężkie, wzmocnione adamantytynem wrota skarbca ustąpiły pod naciskiem mistrzowskich umiejętności złodziejskich Arevona, wspomaganego radami iluzorycznej babki Felicjana, Despiny. To, co ukazało się ich oczom, zapierało dech w piersiach. W centrum komnaty nie było podłogi, lecz wyrwa w samej tkance rzeczywistości – portal lub sadzawka ukazująca bezkresny kosmos, pełen wirujących galaktyk i gwiezdnego pyłu. Arevon, jako Druid Gwiazd, był zafascynowany tym zjawiskiem. W głębi gwiezdnej otchłani dostrzegli mroczną, pulsującą czerwoną gwiazdę. Felicjan, analizując jej naturę, doszedł do przerażającego wniosku – nie była to zwykła anomalia, lecz potężny, magiczny ładunek, tykająca bomba gotowa zniszczyć całą wieżę, a może i wyspę. Zdecydowali nie ingerować w nią do czasu, aż nie będą gotowi na ostateczny upadek Praxys.
+### Starcie z Cerberem w Mroku Magicznej Ciemności
 
-Dookoła kosmicznej wyrwy stało sześć cokołów, każdy przykryty szklaną kopułą, skrywający bezcenne artefakty. Bohaterowie, upewniwszy się, że nie ma tam bezpośrednich pułapek, zabrali wszystko. Wśród łupów znalazł się dziwny pergamin zamknięty w tubie pieczęcią *Arcane Lock*, prastara księga owinięta cierniami, magiczna klepsydra, złowieszczo wyglądający hełm, para butów, a nade wszystko – olbrzymia smocza czaszka z ułamanym rogiem. Felicjan natychmiast rozpoznał w niej szczątki Balmytrii, legendarnej srebrnej smoczycy, a róg, który od dawna nosili, idealnie pasował do pęknięcia. Ze względu na tragiczny stan Orestesa, który cudem unikał śmierci, drużyna postanowiła zaryglować drzwi i spędzić godzinę na krótkim odpoczynku, lecząc rany i identyfikując potężne, nowo zdobyte przedmioty.
+Za masywnym drzwiami, za którymi unosił się charakterystyczny **smród odchodów** — rozpoznany przez Felicjana jako „psie gówno i siarka" — czaiło się przerażające stworzenie. Gdy bohaterowie otworzyli zamknięte drzwi, z metalowej, pokrytej runami kuli wyłonił się **Cerber** — trójgłowy piekielny pies o potężnych szczękach i telepatycznych zdolnościach. Stworzenie przemówiło do ich umysłów z złowrogą uprzejmością: *„Ale miło z waszej strony, że mnie tutaj uwolniliście. Teraz możemy się zabawić."*
 
-### Więzienie Tortur i Wyzwolenie Wygnańców
+Walka okazała się brutalna. Cerber natychmiast pogrążył pomieszczenie w **magicznej ciemności**, która uczyniła większość bohaterów ślepymi — jedynie Arevon i Orestes, obdarzeni zdolnością widzenia w mroku, mogli dostrzec kontury bestii, lecz magiczna natura ciemności utrudniała nawet im orientację. Orestes, który nie zdążył włączyć swojego **Rage'a** przed pierwszym atakiem, przyjął potężne ugryzienie wprost na swoją zbroję — **25 punktów obrażeń** wstrząsnęło minotaurem, a kolejne ataki legendarnymi akcjami bestii systematycznie odzierały go z punktów życia. Cerber uwziął się na Orestesa z zaciekłością godną piekielnego psa, gryzac go raz za razem, choć **Shield Wall** Oriona parował część ciosów. Versir walczył **Booming Blade'em**, zadając potężne 57 obrażeń jednym trafieniem, natomiast Felicjan manewrował w ciemności, próbując znaleźć odpowiedni kąt do ataku. Ostatecznie to właśnie **Ray of Frost** Felicjana okazał się śmiertelnym ciosem — mroźny promień przebił się przez odporności Cerbera i powalił bestię na zimny kamień. Zaskoczony własnym sukcesem, czarodziej jedynie mruknął z niedowierzaniem.
 
-Odnowiwszy siły, herosi ruszyli w dół gigantyczną windą. Gdy mechanizm ruszył, zorientowali się z obrzydzeniem, że winda nie jest napędzana maszynerią, lecz cierpieniem – setki harpii, zniewolonych i przykutych do łańcuchów, ciągnęły jej liny. Poziom więzienny przywitał ich krzykami i zapachem krwi. W klatkach zwisających nad przepaścią tłoczyli się jeńcy, a wokół nich krążyło stado brutalnych harpii pełniących rolę strażniczek i oprawców. 
+Po walce drużyna **zebrała materiały z ciała Cerbera** — serce i skórę, z których rzemieślnik mógłby wykuć potężne przedmioty: **Firesambun** (pas dający dodatkowy atak po zabiciu wroga) oraz **Cloak of Magic Immunity** (płaszcz dający odporność na magię w określonych sytuacjach).
 
-Widok ten przebudził w drużynie gniew. Walka była krótka, lecz intensywna. Arevon wezwał potężny, wypalający *Promień Księżyca* (Moonbeam), który w mgnieniu oka spopielił kilka latających bestii. Orion Xul z niesamowitą celnością ciskał swoimi magicznymi oszczepami, strącając potwory z powietrza. Zregenerowany Orestes wpadł w swój ożywczy szał i ciął toporem, a Versir wspierał towarzyszy płonącym ostrzem. Harpie, nie mając szans z potęgą Bohaterów Przepowiedni, zostały zmasakrowane. Wśród więźniów Arevon odnalazł znajomą twarz – Stavrosa, "Króla" z Wyspy Wygnańców, a także kilku innych ocalałych z minionych przygód. Drużyna musiała podjąć trudną decyzję: ewakuacja w tej chwili była niemożliwa. Obiecali więźniom, że gdy tylko zniszczą Tytanów i zdobędą okręt, powrócą, by ich uwolnić. Dla ich własnego bezpieczeństwa polecili im zamknąć się w klatkach i czekać w ukryciu.
+### Skarbiec Sydona — Klepsydra, Rękawica i Czaszka Balmytrii
 
-### Krwawa Arena Szalonego Tytana
+Za Cerberem kryły się **drzwi skarbca** — masywne, przypominające sejf, wykonane z adamantytu. Arevon, wykorzystując swoje umiejętności złodziejskie i magię, zdołał je otworzyć. Wnętrze skarbca zapierało dech w piersiach. Na kamiennych filarach, pod szklanymi kopułkami, spoczywało **sześć cennych przedmiotów**: tajemnicza **klepsydra**, **księga owinięta cierniami**, **scroll case** (zamknięty potężnym **Arcane Lockiem**), a także **rękawica** identyczna z tą, którą nosił Versir — z tą różnicą, że miała wszystkie kliny uzupełnione. Na honorowym miejscu leżała gigantyczna **smocza czaszka** z nadłamanym rogiem, na widok której towarzysząca drużynie **Melania** zareagowała z głęboką zadumą — rozpoznała ją jako czaszkę **Balmytrii**, legendarnej srebrnej smoczycy. Okazało się, że róg noszony przez Felicjana idealnie pasował do ubytku w czaszce.
 
-Nie tracąc czasu, zjechali na kolejny poziom, znany jako "Niebiosa" (Heavens). Minęli obojętnego, opancerzonego minotaura, strażnika, który po nieudolnej próbie zastraszenia przez Orestesa (zakończonej ciosem w nerki i wymianą pięści), po prostu przepuścił ich dalej, wzruszając ramionami. Przekraczając progi wielkich wrót, drużyna wkroczyła na olbrzymią przestrzeń przypominającą antyczną arenę do walk gladiatorów. Podłoga pokryta była wyschniętą krwią, a powietrze ciężkie od zbliżającego się zagrożenia.
+Klepsydra, po zidentyfikowaniu, okazała się **legendarnym przedmiotem** o tak potężnych właściwościach, że nawet doświadczony Arevon określił ją jako „najbardziej pojebany item, jaki widział w życiu". Drużyna długo debatowała, kto powinien go nosić, ostatecznie decydując się na przechowanie go w **Bag of Holding** do czasu odpowiedniej potrzeby. Bohaterowie zabrali **wszystkie sześć przedmiotów** ze skarbca — nic nie wybuchło, co przyjęli z ulgą i lekkim niedowierzaniem.
 
-Zanim zdążyli dokładnie zbadać teren, z głośników lub magicznych tub dobiegł ich dudniący, szaleńczy głos: *"Zapewne przyszliście się ze mną spotkać! Wpadliście w moją śmiertelną pułapkę!"*. Z głośnym zgrzytem ciężka krata opadła, odcinając im drogę ucieczki. Zapadła magiczna ciemność, a gdy opadła, po drugiej stronie areny, za niematerialną barierą *Ściany Mocy* (Wall of Force), ukazała się widownia. Na najwyższym rzędzie, w otoczeniu cyklopów i satyrów, siedział zadowolony z siebie Tytan – **Goloron Pierwszy**. Z rubasznym, okrutnym uśmiechem Tytan Mądrości ogłosił rozpoczęcie igrzysk, a z cieni areny wyłoniły się trzy wściekłe, potężne smoki, gotowe rozerwać intruzów na strzępy. Bohaterowie ponownie musieli chwycić za broń, stając twarzą w twarz ze śmiercią w teatrze szaleńca.
+W jednym z pomieszczeń na tym piętrze bohaterowie natrafili także na tajemniczą **sadzawkę gwiazd**, w której pulsowała ciemnoczerwona, hipnotyzująca gwiazda. Arevon, jako druid gwiazd, wyczuł, że to stworzenie, nie zwykły obiekt kosmiczny, lecz nie był w stanie pojąć jego natury. Felicjan, obserwując pulsację, zauważył, że przypomina mu fireball tuż przed eksplozją — gwiazda wyglądała, jakby miała zaraz **wybuchnąć**. Babka Felicjana, duchowa opiekunka czarodzieja, potwierdziła tę obserwację. Versir próbował wciągnąć gwiazdę do swojej rękawicy, lecz bez skutku. Rzucony kamień uniósł się w powietrze i odleciał w bezmiar — sadzawka wyraźnie ignorowała grawitację. Drużyna postanowiła zostawić ten fenomen na później.
+
+### Więzienie Praxys — Harpie, Tortury i Odnalezieni Więźniowie
+
+Winda napędzana przez **harpie na linach** — widok, który zrobił wrażenie na wszystkich poza Arevonem, przyzwyczajonym do wind w Eberronie — zawiozła drużynę na **poziom więzienny**. Ciemne, ponure korytarze wypełnione były celami, w których za kratami jęczeli więźniowie. Harpie, pełniące rolę strażniczek i torturerek, natychmiast zaatakowały bohaterów. Walka z hordą harpii, choć nie stanowiła zagrożenia porównywalnego z Cerberem, okazała się wyczerpująca ze względu na ich liczebność — kolejne fale skrzydlatych bestii nadlatywały z ciemnych korytarzy. Orion, chroniony swoim imponującym **pancerzem** (AC 30), stał jak mur nie do przebicia — harpie nie potrafiły przebić się przez jego zbroję nawet jednym trafieniem. Orestes, ledwie żywy po walce z Cerberem (zaledwie **3 HP**), walczył z determinacją, rąbiąc toporem jedną harpię za drugą, korzystając ze swojego **Rage'a** i **Reckless Attack**. Versir leczył minotaura **Lay on Hands**, podtrzymując go przy życiu, podczas gdy Arevon eliminował bestie swoimi atakami na odległość, a Felicjan oszczędzał spell sloty, atakując cantripami.
+
+Wśród uwolnionych więźniów drużyna odnalazła **Stavrosa**, dawnego samozwańczego króla **Wyspy Wygnańców**, który po przybyciu sług Sydona odmówił dołączenia do jego armii i za karę trafił do lochów. Stavros wyjaśnił, że zabezpieczył resztki swojego statku w dokach, choć ten nie nadawał się już do podróży. Arevon z radością odkrył również **członka swojej dawnej załogi** — jednego z rozbitków z Eberronu, którego natychmiast włączył do grupy, argumentując, że kobieta „nie jest z tego świata" i dlatego zasługuje na szczególne traktowanie. Reszta więźniów, pod wodzą Stavrosa, miała czekać na powrót bohaterów po oczyszczeniu wieży. Orion, z typową dla siebie bezpośredniością, zagroził jednemu z narzekających więźniów powrotem do klatki — argument ten okazał się wystarczająco przekonujący.
+
+### Odpoczynek, Identyfikacja i Plany na Przyszłość
+
+Drużyna zarządziła **krótki odpoczynek** na poziomie więziennym, wykorzystując czas na leczenie ran, odnawianie zasobów i identyfikację zdobycznych przedmiotów. Felicjan, rytuałem **Identify**, zbadał zamknięty scroll case, odkrywając, że jest on zabezpieczony wzmocnionym **Arcane Lockiem** — rzuconym na wyższym niż zwykle poziomie. **Hełm** zdobyty w skarbcu okazał się potężnym artefaktem zdolnym do wywoływania **Darkness** — przydatnym, lecz, jak zauważył Arevon, „bardzo samolubnym" przedmiotem. **Buty** również posiadały użyteczne właściwości. Najbardziej intrygująca okazała się druga **rękawica** — identyczna z tą, którą nosił Versir, z tymi samymi funkcjami, lecz z pełnymi klinami i nieznaną zawartością wewnątrz.
+
+Arevon przywołał swojego **familiara** — kruka z ciemnym widzeniem — zużywając na to Wild Shape, a następnie odzyskując slot zaklęcia pierwszego poziomu dzięki rzadko używanej zdolności druida gwiazd. Drużyna przedyskutowała dalszy plan: wieża **Praxys** miała jeszcze poziom **Heavens**, gdzie według informacji od Lutherii czekał na nich **Goloron** — jeden z potężnych dzieci Tytanów — oraz **smoki** gdzieś na szczycie konstrukcji.
+
+### Arena Golorona — Pułapka i Trzy Smoki
+
+Winda zawiozła bohaterów na piętro **Heavens**, gdzie wkroczyli do ogromnej komnaty przypominającej **arenę**. Na podłodze widniały plamy wyschniętej krwi, a w powietrzu unosił się zapach przeszłych walk. Tajemniczy głos powitał ich telepatycznie, zapraszając do środka. Gdy drużyna weszła na arenę, krata za nimi **podniosła się**, odcinając drogę ucieczki. Śmiech rozległ się echem po kamiennych ścianach: *„Ha, ha, ha, wpadliście w moją śmiertelną pułapkę!"* Orestes, z typową dla siebie pewnością siebie, odparował: *„On chyba jeszcze nie wie, że to nie tak, że my jesteśmy zamknięci z nim, tylko on jest zamknięty tutaj z nami."*
+
+Magiczna ciemność opadła, odsłaniając widownię, na której siedział **Goloron** we własnej osobie, w towarzystwie **dwóch cyklopów** i kilku koźlaków, oddzielony od areny **Wall of Force**. A ze skrytek areny wyłoniły się **trzy smoki**, gotowe do walki. Goloron, z sadystyczną radością, ogłosił: *„Niech igrzyska się zaczną!"*
+
+Na tym dramatycznym cliffhangerze — z trzema smokami naprzeciw wyczerpanej, lecz niezłomnej drużyny — sesja dobiegła końca, pozostawiając bohaterów Przepowiedni w obliczu kolejnego śmiertelnego wyzwania w samym sercu wieży Sydona.
 
 ## Kluczowe wydarzenia / decyzje
 
-* Ostateczne pokonanie mosiężnego golema oraz piekielnego cerbera w trzewiach wieży Praxys.
+* Ostateczne pokonanie żelaznych golemów.
 * Eksploracja prywatnych komnat Sydona, w tym znieważenie posągu tytana przez Felicjana.
-* Odkrycie kosmicznej wyrwy pełniącej rolę magicznej bomby wewnątrz skarbca tytana.
-* Zdobycie sześciu potężnych artefaktów, w tym czaszki legendarnej smoczycy Balmytrii.
+* Odkrycie kosmicznej wyrwy i skarbca Sydona.
+* Pokonanie strażnika skarbca - Cerbera.
+* Zdobycie sześciu artefaktów oraz czaszki legendarnej smoczycy Balmytrii.
 * Zmasakrowanie strażniczek-harpii i odnalezienie uwięzionego Stavrosa na poziomie więziennym.
-* Konfrontacja z szalonym Goloronem Pierwszym na krwawej arenie i rozpoczęcie starcia z trzema smokami.
+* Konfrontacja z szalonym Goloronem na krwawej arenie i rozpoczęcie starcia z trzema smokami.
 
 ## Pamiętne Cytaty
 
-* Arevon: "Nie zapomnijcie zasubskrybować oraz zafollowować mnie na Facebooku!"
+* Arevon: "To jest najbardziej pojebany item jaki widziałem chyba w życiu."
 * Felicjan: "Ja używam Prestigitation i rysuję rakietę na Seydonie."
 * Orestes: "Mały ale wariat! Idę i walę go po nerach!"
-* Arevon: "Windy w Eperonie to normalka, muszę powiedzieć."
-* Orion: "Mój genialny plan."
+* Arevon: "Windy w Eberronie to normalka, muszę powiedzieć."
 * Orestes: "Nie, no on chyba jeszcze nie wie, że to nie tak, że my jesteśmy zamknięci z nim, tylko on jest zamknięty tutaj z nami."
-* Versir: "Nie będę miał żadnych wyrzutów, co mnie jakoś zapierdola."
 
 ## Postacie Niezależne (NPC)
 
-* Goloron Pierwszy (Tytan Mądrości, syn bliźniaków, organizator igrzysk na arenie)
-* Stavros (Król z Wyspy Wygnańców, odnaleziony w więzieniu)
-* Despina (iluzoryczna babka Felicjana, doradzająca przy otwieraniu zamków)
-* Sydon (Władca Burz, właściciel wieży, wspomniany w notatkach i przedstawiony na posągu)
-* Balmytria (legendaarna srebrna smoczyca, której czaszkę odnaleziono)
+* Goloron
+* Stavros
+* Despina
+* Sydon
+* Balmytria
 
 ## Lokacje
 
 * Wieża Praxys
-* Komnaty Sydona
-* Skarbiec w Praxys
-* Poziom więzienny (napędzany cierpieniem harpii)
-* Niebiosa (poziom areny w wieży Praxys)
-* Krwawa Arena
 
 ## Przedmioty
 
 * Serce i skóra piekielnego cerbera
-* Starożytna księga zaklęć Sydona
-* Obraz zawinięty w sztywny materiał
-* Notatka Sydona dotycząca Demetrii i Versi Wyroczni
+* Księga zaklęć Despiny
+* Obraz ze stópkami Lutherii zawinięty w sztywny materiał
+* Notatka Sydona dotycząca jego dzieci
 * Pergamin w tubie z pieczęcią Arcane Lock
 * Prastara księga owinięta cierniami
 * Magiczna klepsydra
 * Złowieszczy hełm
 * Para magicznych butów
-* Czaszka Balmytrii (srebrnej smoczycy)
+* Czaszka Balmytrii
