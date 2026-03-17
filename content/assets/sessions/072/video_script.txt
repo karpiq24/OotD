@@ -1,0 +1,72 @@
+# Video Script: Sesja 72 - Śniadanie u Tytana
+
+**Art Style Set**: Arcane (League of Legends TV series style), painterly textures, sharp angles, expressive lighting, cinematic depth of field, vibrant colors, Fortiche production style.
+
+**Global Ingredients** (Składniki): 
+- **Sydon**: Potężny, umięśniony bóg o białych włosach, czerwonych oczach i trzecim oku na czole (@Sydon).
+- **Orestes**: Minotaur w białej todze z furiackim spojrzeniem (@Orestes).
+- **Gigantyczny Bochenek**: Gargantuiczny chleb na złotym półmisku.
+
+---
+
+## Clip 1: Cisza przed Burzą
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> A cinematic close-up of a gargantuan, golden-brown rustic loaf of bread resting on a massive, ornate golden platter. The bread's crust is dusted with flour and has thick, scored patterns. The platter sits on a colossal obsidian table in an opulent throne room. In the background, seven massive, gold-dripping thrones with blood-red upholstery are arranged in a semicircle. The walls are adorned with magnificent purple banners with golden embroidery. Near the table, a gigantic, realistic, convex glowing blue topographical map of Thylea is visible on the floor. Golden sunbeams cut through ozone-filled air. High quality Arcane League of Legends TV series style, painterly textures, sharp angles, expressive lighting, cinematic depth of field, vibrant colors, Fortiche production style.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Najazd kamerą (Zoom In) / Slow Dolly In*
+**Action Prompt (Copy this)**:
+> The camera slowly dollies in towards the giant loaf of bread. Tense silence. Suddenly, the bread crust subtly shifts and vibrates from within. A small crumb falls off the side. The air around the bread seems to crackle with faint magical static. The lighting flickers slightly as if responding to a contained power.
+
+**Audio & Dialogue Prompt (Optional)**:
+> [Background sounds: Niskie, rytmiczne drżenie. Dźwięk pękającej chrupiącej skórki chleba. Ciche sapanie i szept "Teraz..."]
+
+---
+
+## Clip 2: Eksplozja Bochenka
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> A side view of a colossal, immensely muscular elderly male god with tanned skin and wild flowing white hair and beard. He wears a draped white toga, thick gold bicep armbands, and a wide gold belt. He has glowing red eyes and a glowing red third eye on his forehead. He is reaching a massive, weathered hand toward a gargantuan loaf of bread on a golden platter. The scene is set in his opulent throne room, with seven gold-dripping thrones and purple banners in the background. A glowing topographical map on the floor illuminates the scene with a cold blue light. High quality Arcane League of Legends TV series style, painterly textures, sharp angles, expressive lighting, cinematic depth of field, vibrant colors, Fortiche production style.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Wyjazd kamerą (Zoom Out) / Dynamic Tilt Up*
+**Action Prompt (Copy this)**:
+> As the god's hand touches the crust, the bread suddenly explodes from the center in a shower of crumbs and golden light. A powerful male minotaur with brown fur, large curved grey horns, and piercing glowing blue eyes bursts out from the heart of the loaf. He is mid-leap, his face contorted in a furiack shout, swinging a massive battleaxe downward. Behind him, hints of other heroes are visible emerging from the debris. The god's expression shifts from surprise to shock, his glowing eyes widening.
+
+**Audio & Dialogue Prompt (Optional)**:
+> [Background sounds: Potężny huk rozrywanego pieczywa, furiacki ryk minotaura. Dialogue: Orestes krzyczy: "SURPRISE, MADAFAKA!"]
+
+---
+
+## Clip 3: Desant Bohaterów
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> An epic group shot of five fantasy heroes mid-action as they leap onto a massive, convex glowing blue topographical map of Thylea on the throne room floor.
+> 1. powerful male minotaur with brown fur, curved horns, glowing blue eyes, and thick blonde hair, swinging a large battleaxe. 
+> 2. lean human wizard with messy dark brown hair, a full beard, and two bronze star emblems on his chest, casting a blue magical orb. 
+> 3. slender male elf with long pointed ears and wavy dark brown hair, aiming a glowing bow. 
+> 4. fantasy warrior in ornate golden Spartan plate armor with a plumed Corinthian helmet, shielding with a round wooden shield. 
+> 5. slender male with pale skin and short blonde quiff, holding a sword with a confident smirk. 
+> They are surrounded by falling bread crumbs and fragments of a giant loaf. In the background, seven massive thrones and purple banners are visible as the god recoils, lightning beginning to dance around his hands. High quality Arcane League of Legends TV series style, painterly textures, sharp angles, expressive lighting, cinematic depth of field, vibrant colors, Fortiche production style.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Orbituj (Orbit around the heroes)*
+**Action Prompt (Copy this)**:
+> The camera orbits around the heroes as they land in fighting stances. Particles of bread and dust swirl in slow motion. The human wizard releases a bolt of magic that illuminates the room. The god (Sydon) roars in anger, his third eye flaring with intense red light as a massive wave of lightning erupts from his body, pushing back the debris. The whole scene feels alive with magical energy and high-stakes combat.
+
+**Audio & Dialogue Prompt (Optional)**:
+> [Background sounds: Magiczne wybuchy, trzask piorunów, szczęk oręża. Dialogue (Sydon): "ZEPSULIŚCIE MI ŚNIADANIE!"]
+
+---
+
+**Instrukcja dla użytkownika**: Załaduj te klipy (Clips) do osi czasu w **Kreatorze Scen** (Scene Creator), aby połączyć je w finałową scenę zasadzki!

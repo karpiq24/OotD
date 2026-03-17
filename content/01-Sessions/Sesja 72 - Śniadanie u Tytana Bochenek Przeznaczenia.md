@@ -3,6 +3,7 @@ title: "Sesja 72: Śniadanie u Tytana: Bochenek Przeznaczenia"
 transcript_txt: "[Transkrypt (txt)](../assets/sessions/072/transcript.txt)"
 transcript_json: "[Transkrypt (json)](../assets/sessions/072/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/072/chat_log.json)"
+video_script: "[Skrypt wideo](../assets/sessions/072/video_script.txt)"
 ---
 
 # Sesja 72: Śniadanie u Tytana: Bochenek Przeznaczenia
@@ -106,3 +107,7 @@ Mimo tego taktycznego błędu, drużyna nie ustępowała. Widmowy Smok [[Felicja
 * Magiczny Kołczan
 * Oszczepy Błyskawic (Javelins of Lightning)
 * Trzy pary magicznych rękawic
+
+## Filmy
+
+![Bochenek Przeznaczenia - Atak na Sydona](../assets/sessions/072/072_bread_wars.webm)
