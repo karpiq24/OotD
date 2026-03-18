@@ -12,4 +12,4 @@ Goloron to tytan o pustych oczach, w których czai się szaleństwo. Jego obecno
 
 ## Historia
 Nazwany po wuju, [[Goloron Pierwszy|Goloronie Pierwszym]]. Podczas spotkania na Górze Volkana jego spojrzenie zdradzało oznaki obłędu.
-W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] stoczył epicką walkę z [[Kraken|Krakenem]] pośród morskiej burzy. Emanował nekromantyczną energią i ostatecznie uciekł, wzbijając się w powietrze. W [[Sesja 73 - Cienie Praxys Skarbiec Tytana i Arena Golorona]] czekał na bohaterów prowadząc krwawą arenę na poziomie Heavens w wieży [[Praxys]]. Nasłał na wyczerpaną drużynę trzy smoki oddzielony od walczących ścianą mocy (Wall of Force).
+W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] stoczył epicką walkę z [[Kraken|Krakenem]] pośród morskiej burzy. Emanował nekromantyczną energią i ostatecznie uciekł, wzbijając się w powietrze. W [[Sesja 73 - Praxys - Skarbiec Sydona]] czekał na bohaterów prowadząc krwawą arenę na poziomie Heavens w wieży [[Praxys]]. Nasłał na wyczerpaną drużynę trzy smoki oddzielony od walczących ścianą mocy (Wall of Force).
