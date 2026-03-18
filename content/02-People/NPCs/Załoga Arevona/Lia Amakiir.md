@@ -13,4 +13,4 @@ _Wojowniczka z załogi Arevona, pochodząca z Sharn w Eberronie._
 ## Historia
 Lia była kluczowym członkiem oryginalnej załogi [[Arevon Elorrenthi|Arevona]] w świecie Eberron, służąc na statku "The Tranquility". Przed dołączeniem do załogi prawdopodobnie krążyła po najniższych poziomach Sharn jako najemniczka lub strażniczka. 
 
-Zaginęła wraz z resztą załogi, gdy statek rozbił się u brzegów [[Thylea|Thylei]]. Jej obecny status pozostaje nieznany, choć postacie takie jak [[Garrick Vanalan]] czy [[Ivello Ostren]] dają nadzieję na odnalezienie kolejnych towarzyszy Arevona.
+Zaginęła wraz z resztą załogi, gdy statek rozbił się u brzegów [[Thylea|Thylei]]. Jej obecny status był długo nieznany, lecz w [[Sesja 73 - Cienie Praxys Skarbiec Tytana i Arena Golorona]] została odnaleziona i uwolniona z więzienia w wieży [[Praxys]]. Przekazała Arevonowi informację, że resztki ich statku The Tranquility znajdują się w dokach wieży.

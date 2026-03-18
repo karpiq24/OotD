@@ -17,10 +17,12 @@ This workflow processes a user-reviewed session recap draft, adding wikilinks, i
 2.  **Verify** content is loaded.
 
 ## Step 3: Finalization (Wikilinks & Visuals)
-1.  **Link Entities**:
+1.  **Link, Update and Create Entities**:
     *   Activate skill `rpg-wiki-manager`.
     *   Search for entity names in the text.
     *   Replace with `[[wikilinks]]`.
+    *   Update any target entities with new information.
+    *   Create any new characters, locations etc.
     *   Save the file.
 2.  **Visuals**:
     *   Activate skill `rpg-illustrator`.
