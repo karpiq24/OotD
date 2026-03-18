@@ -415,3 +415,11 @@
 * Starcie z [[Sydon|Sydonem]] w jego sali tronowej zakończone ucieczką Tytana do [[Mytros]].
 * Pokonanie [[Chalcia|Chalcii]], meduzy i Żelaznych Golemów; śmierć córki Sydona z rąk [[Versir|Versira]].
 
+## Sesja 73 - Cienie Praxys Skarbiec Tytana i Arena Golorona (16.03.2026)
+* Ostateczne pokonanie żelaznych golemów.
+* Eksploracja prywatnych komnat Sydona, w tym znieważenie posągu tytana przez Felicjana.
+* Pokonanie strażnika skarbca - [[Cerber|Cerber]]a.
+* Odkrycie kosmicznej wyrwy z widokiem na Morze Astralne oraz tajemniczej, pulsującej gwiazdy zwiastującej potężną eksplozję.
+* Rozbrojenie skarbca Sydona, zdobycie sześciu potężnych artefaktów oraz odzyskanie czaszki legendarnej smoczycy [[Balmytria|Balmytrii]].
+* Zmasakrowanie strażniczek-harpii i odnalezienie uwięzionego [[Stavros|Stavrosa]] i [[Lia Amakiir|Lii Amakiir]] na poziomie więziennym.
+* Konfrontacja z szalonym [[Goloron|Goloronem]] na krwawej arenie i rozpoczęcie starcia z trzema smokami.

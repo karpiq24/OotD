@@ -39,3 +39,4 @@ title: Lista postaci niezależnych
 - [[02-People/NPCs/Zakon Sydona|Zakon Sydona]]
 - [[02-People/NPCs/Załoga Arevona|Załoga Arevona]]
 - [[02-People/NPCs/Świątynia Wyroczni|Świątynia Wyroczni]]
+- [[Cerber]]

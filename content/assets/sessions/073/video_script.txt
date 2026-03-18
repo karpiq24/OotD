@@ -1,0 +1,89 @@
+# Video Script: Sesja 073 - Eksploracja Sypialni Sydona
+
+**Art Style Set**: High quality digital fantasy art
+**Global Ingredients** (Składniki): @Orion, @Felicjan, @Versir, @Arevon, @Orestes
+
+---
+
+## Clip 1: Orion finding picture of Lutheria feet
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> In a colossal, opulent ancient Greek-style bedroom illuminated by dancing candlelight, a male fantasy warrior with an athletic build is kneeling on the pristine marble floor next to a massive, luxurious king-sized bed covered in thick, exotic animal furs. He wears highly ornate golden plate armor with intricate filigree in a Greco-Roman spartan style. His head is covered by a full golden Corinthian helmet with a large yellow and black plume, from which his glowing orange eyes peer out. He wears a dark blue cloth hood and cape over layered golden pauldrons. Underneath the bed, partially pulled out, is a dusty, flat object wrapped in old linen. Atmospheric lighting, dark shadows, high quality digital fantasy art.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Pan: Right, Motion: Slow / Najazd kamerą (Dolly In) na obraz*
+**Action Prompt (Copy this)**:
+> The heavy golden armored warrior slowly slides the flat object out from beneath the fur-covered bed, his armor slightly clinking against the marble floor. He dramatically grabs the thick linen cloth covering it and pulls it away, revealing an incredibly detailed, beautifully painted canvas of a pale woman's bare feet. Dust motes swirl in the air illuminated by nearby candlelight.
+**Audio & Dialogue Prompt (Optional)**:
+> Dźwięk przesuwanego ciężkiego płótna. Opancerzony wojownik wzdycha z niedowierzaniem: "Na bogów... on naprawdę miał na tym punkcie obsesję."
+
+---
+
+## Clip 2: Felicjan adjusting Sydons statue
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> A lavish, dimly lit fantasy ancient bedroom with a pristine indoor swimming pool lined with glowing blue tiles. A young adult male human wizard playfully swimming in the crystal-clear pool water. He has a lean, rugged build, intense blue-grey eyes, a strong jawline, a weathered complexion, and a prominent scar across his right cheek. His short, messy dark brown hair is complemented by a full dark brown beard. He is extending his hand, using magic to draw a glowing, abstract, brightly lit cyan symbol directly onto the sturdy base of a large, majestic white marble statue depicting an immensely muscular elderly male thunder god with thick white hair. Luxurious atmosphere, marble pillars, animal hide rugs on the edges of the pool. High quality digital fantasy art.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Zoom In, Slow Motion*
+**Action Prompt (Copy this)**:
+> The young wizard treads water smoothly in the clear blue pool, raising his hand playfully with glowing fingertips. A bright, glowing cyan magic symbol sparks and materializes directly onto the sturdy base of the marble statue, glowing intensely and leaving magical sparks floating in the air. The water elegantly ripples around the wizard's shoulders as he smiles mischievously at his magical prank.
+**Audio & Dialogue Prompt (Optional)**:
+> Plusk wody w basenie i iskrzenie przypominające spięcie. Męski, rozbawiony głos mówi: "Zobaczymy, jak ci się spodoba ten nowy tatuaż, staruszku."
+
+---
+
+## Clip 3: Versir analyzing the fireplace
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> A colossal, opulent ancient bedroom. An adult male with a dark fantasy aesthetic kneeling closely near a grand, heavily carved marble fireplace filled with dead ashes. He has a slender build, pale alabaster skin, and short blonde hair styled in a messy quiff. His face is defined by a strong jawline, high cheekbones, and piercing cyan eyes. A large, jagged scar runs along the side of his neck and jaw. He wears an ornate breastplate. One of his hands is missing, ending in a stump, while the other wears a large, magical gauntlet with glowing cyan runes. He is craning his neck and looking straight up into the dark, expansive vertical ventilation shaft inside the fireplace. Luxurious atmosphere, dim ambient lighting. High quality digital fantasy art.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Tilt: Up / Orbit The Character*
+**Action Prompt (Copy this)**:
+> The pale warrior gently touches the cold, soot-covered masonry of the grand marble fireplace with his glowing magical gauntlet, casting an eerie cyan light into the dark interior. He leans forward, piercing the darkness as he intensely analyzes the dark, expansive vertical ventilation shaft above him. Tiny particles of black soot and gray ash gently drift down from the chimney and float around his face.
+**Audio & Dialogue Prompt (Optional)**:
+> Ciche echo szumu płynącego z głębi komina. Chłodny, kalkulujący głos szepcze: "Ten szyb... to może być nasza droga na sam szczyt."
+
+---
+
+## Clip 4: Arevon reading document on the desk
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> A lavish fantasy ancient bedroom entirely cast in moody, warm candlelight. A young adult male elf standing over a massive, opulent dark wood desk scattered with thick tomes and ancient scrolls. He has a slender build, an angular face with high cheekbones, a sharp jawline, intense dark eyes, and long pointed ears. His shoulder-length, wavy dark brown hair frames his face. He wears layered brown leather armor with intricate silver filigree details over a dark, high-collared tunic. He is carefully reading a large, unrolled ancient parchment document covered in glowing blue runes. Luxurious atmosphere, dark fantasy. High quality digital fantasy art.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Orbit: Left, Slow Motion*
+**Action Prompt (Copy this)**:
+> The elven druid carefully holds the edges of the ancient parchment document resting on the desk, his eyes darting back and forth across the glowing magical text. The bright blue magical light from the paper violently flares up, softly illuminating his angular face and pointed ears in the otherwise dim room. A soft, unnatural breeze from a nearby window gently rustles his wavy dark brown hair and the pages of an open book lying nearby.
+**Audio & Dialogue Prompt (Optional)**:
+> Szelest suchego pergaminu i pulsujące magiczne buczenie. Szept bohatera: "To zapiski samego Sydona... o jego dzieciach."
+
+---
+
+## Clip 5: Orestes taking a dump on the bed
+
+### Step 1: First Frame (Static Image)
+*Model Suggestion: Nano Banana 2*
+**Prompt (Copy this)**:
+> A lavish, opulent fantasy ancient bedroom with colossal marble pillars. A powerful male minotaur is aggressively sitting directly on top of a massive, extremely luxurious king-sized bed covered in pristine white silk sheets and thick, expensive white animal furs. He has a muscular build, broad shoulders, and brown fur. His bovine head features large, curved dark grey horns, piercing glowing blue eyes, and a bull snout. He has stylish, thick blonde hair swept back and a well-groomed blonde fur beard. He is dressed in a draped white toga with an ornate red sash featuring carved patterns. He sits aggressively with arms crossed, violently crushing the expensive furs under his weight in absolute disrespect to the room's owner. Luxurious atmosphere, extreme contrast of high class and rebellious behavior. High quality digital fantasy art.
+
+### Step 2: Base Video (Action & Audio)
+*Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
+*Camera Suggestion: Static / Odjazd kamerą (Dolly Out)*
+**Action Prompt (Copy this)**:
+> The massive minotaur sits aggressively atop the luxurious fur-covered bed, totally crushing the pristine white silk sheets beneath his heavy weight. He crosses his thick muscular arms in defiance, letting out a deep, satisfied grunt of rebellion while forcefully stomping his hooves to ruin the expensive fabrics. A flurry of loose goose feathers from the utterly crushed pillows suddenly flutters down from above in slow motion.
+**Audio & Dialogue Prompt (Optional)**:
+> Głośny, tubalny śmiech minotaura wymieszany z potężnym stękaniem na kibelku: "Niech ten cały zasrany Tytan wie, co o nim myślę! Hahaha!"

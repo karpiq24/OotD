@@ -74,3 +74,4 @@ title: Sesje
 - [[Sesja 70 - Audiencja u Pani Snów|Sesja 70: Audiencja u Pani Snów]]
 - [[Sesja 71 - Infiltracja Praxys|Sesja 71: Infiltracja Praxys]]
 - [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia|Sesja 72: Śniadanie u Tytana: Bochenek Przeznaczenia]]
+- [[Sesja 73 - Cienie Praxys Skarbiec Tytana i Arena Golorona|Sesja 73: Cienie Praxys: Skarbiec Tytana i Arena Golorona]]

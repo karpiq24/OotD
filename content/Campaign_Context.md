@@ -235,6 +235,6 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 *   **Otchłań (S65-S67):** Wyprawa na Morze Otchłani. Spotkanie z Krakenem i Tarrasque'iem. Ostateczne zniszczenie ducha Estora w Lustrzanym Więzieniu.
 *   **Arena Krzywoprzysięstwa (S68):** Walka na arenie Lutherii z duchami przeszłości (fale pokonanych wrogów). Przybycie samej Lutherii.
 
-## Finałowa Odyseja: Praxys i Pani Snów (Sesje 69-72)
+## Finałowa Odyseja: Praxys i Pani Snów (Sesje 69-73)
 *   **Audiencja u Lutherii (S69-S70):** Wizyta na okręcie Hypnos, ostateczna śmierć ducha Estora Arkelandera i otrzymanie Titansbane od Volkana.
-*   **Infiltracja Praxys (S71-S72):** Potajemne wejście do wieży Sydona, zasadzka przeprowadzona z wnętrza bochenka chleba i śmierć [[Chalcia|Chalcii]] z rąk herosów.
+*   **Infiltracja Praxys (S71-S73):** Potajemne wejście do wieży Sydona, zasadzka przeprowadzona z wnętrza bochenka chleba, śmierć [[Chalcia|Chalcii]] z rąk herosów, rozbrojenie skarbca oraz wpędzenie w pułapkę areny Golorona.
