@@ -17,4 +17,4 @@ Cerber to potężny, trójgłowy piekielny pies obdarzony telepatycznymi zdolno�
 Bestia potrafi mówić telepatycznie, objawiając sadystyczną i złowrogą radość z walki ze swoimi oprawcami bądź nową zdobyczą. 
 
 ## Historia
-Cerber służył jako strażnik skarbca w wieży [[Praxys]], zamknięty w metalowej kuli pokrytej runami. W czasie [[Sesja 73 - Cienie Praxys Skarbiec Tytana i Arena Golorona]] został z niej uwolniony przez bohaterów, których natychmiast zaatakował. W brutalnej walce został powalony i zginął, a jego szczątki - serce i skóra - zostały zebrane.
+Cerber służył jako strażnik skarbca w wieży [[Praxys]], zamknięty w metalowej kuli pokrytej runami. W czasie [[Sesja 73 - Praxys - Skarbiec Sydona]] został z niej uwolniony przez bohaterów, których natychmiast zaatakował. W brutalnej walce został powalony i zginął, a jego szczątki - serce i skóra - zostały zebrane.

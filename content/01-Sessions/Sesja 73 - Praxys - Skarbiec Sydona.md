@@ -1,12 +1,12 @@
 ---
-title: "Sesja 73: Cienie Praxys: Skarbiec Tytana i Arena Golorona"
+title: "Sesja 73: Praxys - Skarbiec Sydona"
 transcript_txt: "[Transkrypt (txt)](../assets/sessions/073/transcript.txt)"
 transcript_json: "[Transkrypt (json)](../assets/sessions/073/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/073/chat_log.json)"
 video_script: "[Skrypt wideo](../assets/sessions/073/video_script.txt)"
 ---
 
-# Sesja 73: Cienie Praxys: Skarbiec Tytana i Arena Golorona
+# Sesja 73: Praxys - Skarbiec Sydona
 
 **Data:** 16.03.2026
 
