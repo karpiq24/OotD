@@ -1,0 +1,7009 @@
+
+
+[Dungeon Master]
+須比加返比加返比加返比加返 須比加返比加返比加返比加返比加返比加返比加返 須比加返比加返比加返比加返比加返比加返比加返比 須比加返比加返比加返比 須比加返比加返 須比加返比 須比加返比 須比加返比 須比加返 須比加返 須比加返 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須 須比 須 
+
+[Versir]
+《Sorcerer's Guide》 《The Legend》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 》 《TheSoul》 《TheSoul》 》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul 
+
+[Orestes]
+《Pierre Chaudin, La Churrie, Le Chai, Le Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》«《Pierre Chaudin, La Chai》«Pierre Chaudin, La Ch 
+
+[Arevon]
+W ideowej grze, więc na Foundry chyba znalazłem czemu mountowanie jako, wiesz, na mounta mi nie działało i w ogóle nie działało za bardzo wcześnie. 
+
+[Dungeon Master]
+Jestem modułem? 
+
+[Arevon]
+Tak, tak. 
+
+[Dungeon Master]
+Ale moduł jest dziwny 
+
+[Arevon]
+Wiesz co, to nie była wina modułu, tylko tego, że się bindy gryzły. Bo to było pod mount, był pod M i health estimate w ogóle coś pod M wrzucił z jakiegoś powodu, więc jak wypieprzy się to z health estimate to działa w miarę. Chyba, że jesteś adminem, to wtedy dalej nie działa. Dla admina trzeba chyba w ogóle przedwindować. 
+
+[Versir]
+Cała mapa wam się załadowała. 
+
+[Orestes]
+U mnie też git. 
+
+[Arevon]
+Co? No, myślę, nie ma problemu. 
+
+[Versir]
+Mi się tylko tokeny załadowały. Wreszcie tu jest. 
+
+[Arevon]
+Dopiero przed chwilą, więc właśnie muszę tam przejść. Więcej mam o nim. 
+
+[Dungeon Master]
+Możecie wrócić. 
+
+[Orestes]
+Ja dorzucam tą inicjatywę. 
+
+[Dungeon Master]
+Nie wszyscy uczestnicy w tym momencie walczą, ale słysząc Wasze zapowiedzi na koniec poprzedniej sesji, spodziewam się, że część widowni dołączy do walki. 
+
+[Arevon]
+Nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie 
+
+[Dungeon Master]
+Ale na ten moment widownia jest tylko widownią. 
+
+[Felicjan]
+Nie wiem, nie wiem o czym mówisz. 
+
+[Orestes]
+O! 
+
+[Felicjan]
+Jest w zakładach. 
+
+[Dungeon Master]
+Na którym? 
+
+[Arevon]
+Nie, przecież to jest na dobre. 
+
+[Dungeon Master]
+Oryl się schował. 
+
+[Arevon]
+Tak, oczywiście to było w końcu. 
+
+[Dungeon Master]
+Tam kaszu ładuje się? 
+
+[Versir]
+No po resecie dalej to tak wygląda. 
+
+[Orestes]
+Jakiś sterownik graficzny? 
+
+[Dungeon Master]
+Halo kaszu? WTF? Czekaj, spróbujmy tak zrobić 
+
+[Arevon]
+I nie biorę odpowiedzialności. Dzień dobry. 
+
+[Dungeon Master]
+wyciągnę Cię stąd tej mapki teraz zrobię tak i znowu Ci dam tej mapki pomogło? słabo Cię słychać 
+
+[Arevon]
+Tylko to zajmie pewnie z dwie minuty. 
+
+[Dungeon Master]
+No to zajmie długo, masz niską inicjatywę, więc chyba że chcesz najpierw jeszcze użyć reakcji na... 
+
+[Arevon]
+No chyba nie ma zasięganego. 
+
+[Dungeon Master]
+Ale nie masz w zasięgu nawet nikogo, więc... Dobra. 
+
+[Felicjan]
+Gawarędzny bardziej się śmieje, tak? 
+
+[Dungeon Master]
+Loron z widowni się śmieje. I Felicen. 
+
+[Felicjan]
+Muszę zobaczyć jaki to ma zasięg. 
+
+[Arevon]
+Za mało. 
+
+[Felicjan]
+Co za małe. A dobra, to to mały zasięg. 
+
+[Arevon]
+Żeby nas wszystkich nie grać, tylko z pointem. Jeśli wystarczy przyjść do tego helluwe spola. 
+
+[Felicjan]
+A ja w zasadzie w daleku jestem jeszcze. 
+
+[Arevon]
+To 30 chyba było. 
+
+[Dungeon Master]
+Tu są dziwnie wyglądające wiatraki, ale to są dziury, można spaść. I tu te czarne kule, których wcześniej nie było na mapie, ale teraz już są. Jak on powiedział, że igrzyska trzeba zacząć, to teraz tu widzi taki czarny ślad. Te kule tutaj zapieprzają i znikają tutaj, to jest jakby portal, i pojawiają się z drugiej strony. I tak zapieprzają prawie cały czas. 
+
+[Arevon]
+O te kule to tak wyglądały źle? 
+
+[Dungeon Master]
+Kule wyglądają kamiennie, jakby miały być jakieś gnieźdź. 
+
+[Arevon]
+A kamienny, bo to wygląda jak Magic 
+
+[Dungeon Master]
+Przejście przez czarne pole wymaga rzucenia dek-save'a. 
+
+[Arevon]
+tak to... Tak, to właśnie tak wyglądało, dlatego się zastanawiałem. 
+
+[Dungeon Master]
+Nie jest to jakieś bardzo trudne, one nie są jakieś super szybkie. Tc jest niskie, ale wymaga rzucenia dek-save'a. 
+
+[Versir]
+Dziękuję. 
+
+[Felicjan]
+To wygląda trochę jakby można było rękę stracić. 
+
+[Orestes]
+No to wypróbowaliśmy na dzień dobry 
+
+[Dungeon Master]
+Nie, to nie jest sfera. To są kule z Indiana Jonesa. Nie miałem obrazka dobrego. 
+
+[Arevon]
+Dobra, czy moja kamera działa? 
+
+[Felicjan]
+Bardzo źle stoicie w takim razie, wam powiem. 
+
+[Arevon]
+Niestety. Przecież jest to świetne. 
+
+[Versir]
+To jest ten powiększony zasięg już, czy? 
+
+[Dungeon Master]
+To się może uszyć. Troszkę w górę trzeba jedno. 
+
+[Arevon]
+Dziękuję. 
+
+[Felicjan]
+Chyba to zbyt ryzykowne. Dobra, wrzucę po prostu Major Image Full, ogląda Mirror Image na siebie i krzyknę, uchadź się do mnie. Znajdę ten Mirror Image. No szlag muszę... O nie, nie rzucę. Muszę czwartego poziomu z Plast w życiu. Będę się przełożał do Fireballa w takim razie. 
+
+[Dungeon Master]
+Uuu, nice. 
+
+[Arevon]
+Wydzielił kogo? Smoki? 
+
+[Felicjan]
+No smaki, no. Co mam zrobić? O, nie. Dobra, rzucę sobie życie. 21 Temporary, apa. I krzyczę, chodźcie do nas. Chodźcie do mnie. 
+
+[Dungeon Master]
+Oraz będzie musiał wbrew instynktom swoim działać chyba. 
+
+[Felicjan]
+Ja zostanę tu gdzie jestem. Tak, podejdę w następnej turze. 
+
+[Dungeon Master]
+Mok. 
+
+[Arevon]
+Proszę. 
+
+[Dungeon Master]
+brązowy smok 
+
+[Arevon]
+Tak. 
+
+[Dungeon Master]
+yang 
+
+[Arevon]
+I Young, on jest? Young, droga. 
+
+[Dungeon Master]
+yang zianął porządnie 
+
+[Arevon]
+Może nie będzie dzielona za 8? 
+
+[Dungeon Master]
+zacznie dzienięcia 
+
+[Arevon]
+Au. A te pozostałe to co to jest? Color. 
+
+[Dungeon Master]
+Silver, Bronze i Copper. 
+
+[Arevon]
+Kopert Maciek jest specjalistą. 
+
+[Orestes]
+Jeszcze raz to co? 
+
+[Arevon]
+To Aces chyba. Chyba kopert z Gleason. On teraz robi liking. Okazało się, że RSS ma advantage. 
+
+[Dungeon Master]
+Dex, Safe, to jest i Erebon. 
+
+[Arevon]
+Marszup trender. 
+
+[Orestes]
+Tak safe, ok. 
+
+[Dungeon Master]
+Dex, Safe, to jest Small Vantage. 
+
+[Arevon]
+I to jest sukces. 
+
+[Dungeon Master]
+14 to nie jest sukces. 
+
+[Orestes]
+Test. 
+
+[Dungeon Master]
+gdzie efekt tak w sumie? 
+
+[Orestes]
+Będziesz mnie ratował? 
+
+[Dungeon Master]
+o! jeszcze demetra nie rzuciłem Proszę, masz coś? 
+
+[Arevon]
+Pierdolę. Nie z... a... ...decision paralysis. Ile razy to mogę? Nie wiem. Twice per short rest. Robiliśmy short rest. To używam. 
+
+[Orestes]
+A co robisz? 
+
+[Arevon]
+Tak. 
+
+[Orestes]
+Dziękuję. 
+
+[Dungeon Master]
+i smog sobie podlatuje na skrzydłach swoich tutaj i 15 filtrów powietrza jeszcze 15 filtrów powietrza 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+Dobra. Oraz... 
+
+[Felicjan]
+Pamiętasz co Felicjan Krzyczowna? 
+
+[Arevon]
+Nie masz. 
+
+[Dungeon Master]
+Rage'ować tak, reclassować nie. 
+
+[Arevon]
+Masz Rage'a, nie masz... Tak, masz Rage'a, nie masz Reckless'a. 
+
+[Dungeon Master]
+Fluff'ia. 
+
+[Arevon]
+Kurde, ty to straciliś 25 HP, a ty masz pół? Ja pierdolę. Hmm... 
+
+[Dungeon Master]
+Jest 8 plus rage, tak? 
+
+[Arevon]
+Czyli... 
+
+[Orestes]
+Ok, i drugi atak też w niego. 
+
+[Dungeon Master]
+Srebrny to wygląda taki najbardziej przypakowany. 
+
+[Orestes]
+Ej. 
+
+[Dungeon Master]
+Reszta są bardziej mięsne od niego wyglądają. 
+
+[Orestes]
+Idę trochę bliżej 
+
+[Dungeon Master]
+15-15 nie trafia. 
+
+[Orestes]
+A nie, sorry, sorry, sorry, sorry, sorry 
+
+[Arevon]
+Pierdolę, ja to już nie wymękam. Masz 65 widzów? 
+
+[Orestes]
+Ja się odmogłem Za daleko poszedłem, tutaj powinienem skończyć 
+
+[Arevon]
+Okej. Tak, to ja. Wpals. Wpals, wpals, wpals. Nie mam żadnych spojrzeń do kostu, ale... My spoilers are useless. Ja idę... Próbuję w kolosie. W silver. Bo jest najbliżej. 
+
+[Dungeon Master]
+15 to jest mało. 
+
+[Arevon]
+To jest mało. Idę tu. Wait. Wróć. Zanim poszedłem. Jeszcze raz. Kwestiuję Jem'Kantripa. Stary Wisp. To na pewno trafię. Jeszcze dwa do trafienia, 16 do mydłu. 
+
+[Dungeon Master]
+Copper Dragon to Bersiera doleci, ale bym musiał przez kulę bo już wysokości by mu zabrakło 
+
+[Arevon]
+Niech próbuję. 
+
+[Dungeon Master]
+nie brakło 
+
+[Arevon]
+Zmokł się troszkę, schodzi trochę. 
+
+[Dungeon Master]
+wyszło mu nie wiem czy ma książkę na tym tokenie jest jeszcze 5 wity w powietrzu 
+
+[Arevon]
+Dostaję zero. 
+
+[Dungeon Master]
+0 eee Przez słoneczny oddech. Persi robi consave'a. 
+
+[Arevon]
+3 plus 12. Cash, jesteś tam? Bo Cię nic nie słychać, a się coś mam już. Tak, tak, słychać Cię teraz? 
+
+[Dungeon Master]
+To wyślij ktoś mu z tego co widzicie, żeby miał na Discordzie chociaż. 
+
+[Arevon]
+What? 
+
+[Versir]
+Dziękuję. 
+
+[Orestes]
+Nie. 
+
+[Dungeon Master]
+Ja nie mogę, bo ja mam demowe rzeczy. 
+
+[Arevon]
+Ja nie mogę, bo jestem za rogiem i idę po ekranu. Ja wiem, ktoś kto nie schował się za rogiem wyszło. 
+
+[Dungeon Master]
+No to... 
+
+[Felicjan]
+35. Z tym, że ja podejdę 30. 
+
+[Arevon]
+Obejrzyj stream. O kurde. 
+
+[Dungeon Master]
+Orion 
+
+[Arevon]
+Tak, właśnie. 
+
+[Dungeon Master]
+żebyście w kupie byli, idealnie na oddech smoka 
+
+[Orion]
+Jakie odległości mamy być od Ciebie Maciek? 
+
+[Dungeon Master]
+17 
+
+[Arevon]
+Jeszcze jeden smog jest. Dziękuję. 
+
+[Orion]
+17 chyba nie trafia, czy trafia? Srebrnego 
+
+[Dungeon Master]
+nie trafia którego biłeś? srebrnego nie trafia i to tym bardziej a to już trafia lightning wchodzi do psz koniec? 
+
+[Orion]
+Tak. 
+
+[Felicjan]
+Widzisz dobrze co się dzieje? 
+
+[Dungeon Master]
+I teraz jest smog. Smok ja mam oddech. Hu hu hu. 
+
+[Arevon]
+Cold powinien być. Instytut. 
+
+[Dungeon Master]
+To wygląda obiecująco. 
+
+[Versir]
+Ja widzę wszystkie spele, wszystkie efekty tylko nie widzę moty. Widzę tokeny jak się poruszają. 
+
+[Arevon]
+On widzi coś, ale nie widzi tylko mapy. 
+
+[Dungeon Master]
+Srebrna Smok podlatuje i zionie Cold Breathem. 
+
+[Versir]
+Trzy na B! 
+
+[Arevon]
+Rot. pierdolę się 
+
+[Dungeon Master]
+To jest clone save. 
+
+[Orion]
+To jest Spell albo magiczny efekt. 
+
+[Orestes]
+Zbiliśmy się w kupy. 
+
+[Arevon]
+oczywiście 
+
+[Orion]
+Mam Advantage against Spells and Magical effects. Dziękuję. 
+
+[Arevon]
+I tak, oddech był magical effectem, ale nie był spell legability i te rzeczy, które tutaj działają na magical effecty, wcześniej działały na spell legability. Więc... no, zgłosiłem. Jak powiedziałem, zgadzam się, że w piątej nie powinien być magiczny. 
+
+[Dungeon Master]
+Jeremy Crawford, The Breath Weapon of Typical Dragon is not magical. 
+
+[Orestes]
+Nie mam na to. 
+
+[Dungeon Master]
+Nie jest magical. Ale 24 ci wystarczy. Orion, sukces. Reszta, fail. 
+
+[Arevon]
+Wygadza się, Orestesa będziemy zgratulować z podłogi. Orestes może... nie ma bez considerationu. 
+
+[Dungeon Master]
+52 damage oraz to zżyje 
+
+[Arevon]
+Jest absolutnie wolny. 
+
+[Dungeon Master]
+ile smok się ruszył? 55, wleci się sobie trochę w powietrze wersja 
+
+[Versir]
+Zacznę od bonus akcji. Nie pokazało się. To jest aura. 
+
+[Arevon]
+Panie, ja spalna złączyłem. 
+
+[Dungeon Master]
+pokazało, spirit shroud co to robi? ono coś rzuca? 
+
+[Versir]
+Oh my god. 
+
+[Dungeon Master]
+A, wziąłem. 
+
+[Versir]
+Co tak? No ja takuję dwa razy smoka. 
+
+[Dungeon Master]
+Ok. 
+
+[Arevon]
+A, w sumie na razie może być. 
+
+[Dungeon Master]
+Te dwa trafiają. Oba trafiają. Ah, fuck. One hand, dobra. Fleece... 
+
+[Versir]
+Teraz to jest tutaj przeszkodzą, tak? To to jest tutaj jak się przejdzie? Tutaj jakiś save? 
+
+[Arevon]
+Dziękuję. 
+
+[Versir]
+Ja okazyjny dostanę i będę próbował ślubić sobie. 
+
+[Felicjan]
+Dziękuję. 
+
+[Versir]
+Tak, koniec mojej rady, no. 
+
+[Felicjan]
+Proszę. 
+
+[Arevon]
+Nie wygląda zbyt idealnie, muszę wam powiedzieć. 
+
+[Dungeon Master]
+Koloron krzyczy Teraz, zdaruj go, ziamnij, gryź Policjan 
+
+[Felicjan]
+Ok, dobra. 
+
+[Dungeon Master]
+Nie widzę animacji. 
+
+[Felicjan]
+Jeszcze animacja? Nie ma animacja lub clipa. Dobra, jeżeli jesteście willing, to zapraszam, teleportujemy się tutaj. I to ja wybieram? Tak, ja wywieram, gdzie ktoś się teleportuje w zasięgu 120 litrów. 
+
+[Arevon]
+Dzięki. 
+
+[Dungeon Master]
+To czekaj, ja to ściernę po prostu chyba... 
+
+[Felicjan]
+To tak, to myślę, że... 
+
+[Dungeon Master]
+A, bo nie. Po prostu mów gdzie chcesz się przenieść. Pinguj mi, gdzie każdego koła przenosisz. Ty decydujesz, nie ma konfrontacji z nimi. Pinguj gdzie? 
+
+[Felicjan]
+Ja decyduję, tak. 
+
+[Dungeon Master]
+Od siebie zacznij, bo już się trzymam. 
+
+[Felicjan]
+To niech tutaj... Od siebie, od siebie. 
+
+[Dungeon Master]
+Albo dobra. Sure. Znowu? Nie, dobra, raz to zadziałało. 
+
+[Arevon]
+Dziękuje za uwagę. 
+
+[Dungeon Master]
+Może miałem coś... 
+
+[Versir]
+10 fitów odgolorowych. 
+
+[Arevon]
+Zapraszam na kolejny odcinek. 
+
+[Dungeon Master]
+To pewnie działa dobrze. 
+
+[Arevon]
+Do zobaczenia. 
+
+[Felicjan]
+A Revan niech sobie koło mnie usiądzie tutaj. 
+
+[Dungeon Master]
+Ale jak będą potrzebni to się pojawią szybko. 
+
+[Felicjan]
+To Rosja Robia. Ha ha ha. 
+
+[Dungeon Master]
+Okej. 
+
+[Versir]
+Chyba ten kopecki ktoś użył, żeby przeżyć. 
+
+[Arevon]
+No właśnie o to się pytam, bo to jest istotne, bo chyba ten, kto użył poprzednie, 
+
+[Dungeon Master]
+Teraz Gloron robi Pikachu fejsa. 
+
+[Versir]
+On jest na rage'u, on nie umiera na rage'u. 
+
+[Arevon]
+chyba chce użyć jeszcze raz. 
+
+[Orestes]
+Były na pewno. 
+
+[Versir]
+Nie, nie możliwe. 
+
+[Dungeon Master]
+Mhp'ki chyba były mi się wydaje 
+
+[Arevon]
+Też mi się wydaje. Mam wrażenie, że ktoś w naszym teamie dostaje dużo damage'u. 
+
+[Felicjan]
+No barbarzyńca, no to chyba wszystko się zgadza, tak? 
+
+[Orestes]
+No właśnie. 
+
+[Dungeon Master]
+No dobra 
+
+[Arevon]
+Chyba Rwaźnica powinna mieć 300 HP, a nie ma. 
+
+[Dungeon Master]
+Coś lag 
+
+[Versir]
+Nie możliwe. 
+
+[Orestes]
+Ja tutaj... 
+
+[Arevon]
+Tak masz. 
+
+[Versir]
+A tego Toma co czytasz to jest na str czy tylko na str? 
+
+[Arevon]
+Jak masz tempa? 
+
+[Felicjan]
+To może mniej niż ja w tej chwili. Ja mam 122 HP teraz w tej chwili. 
+
+[Versir]
+O, ruinat! Dziękuję. 
+
+[Arevon]
+Zapomniałem zupdate'ować ktp od ndbn. 
+
+[Dungeon Master]
+Koźlak się drapuje na oparcie i strzela z pracy Felciana. 
+
+[Arevon]
+Ale jest 56. Dobrze? Dobrze. 
+
+[Felicjan]
+Ja trafię. 
+
+[Dungeon Master]
+Ale co? 
+
+[Arevon]
+Gdzie, z kogo? 
+
+[Dungeon Master]
+Gdzie jest drugi koźlak? 
+
+[Arevon]
+Nie, mówię, że Koźlek dobry target wybrał. 
+
+[Dungeon Master]
+Ten, dobra, to nie koźlak. 
+
+[Arevon]
+To jest zły target. 
+
+[Dungeon Master]
+Na razie jeszcze nic się nie robi. Ten koźlak. Wydrapuje, potem skacze tutaj i próbuje złapać Arewona. 
+
+[Arevon]
+Ten obok był lepszy. 
+
+[Dungeon Master]
+On ma Fitchera, on cię łapie gryząc. 
+
+[Arevon]
+W łapach zza co? 
+
+[Dungeon Master]
+18 trafia. 
+
+[Arevon]
+Tak, trochę. 
+
+[Dungeon Master]
+To on cię złapał zębami. 
+
+[Arevon]
+A ile masz do sobie? 
+
+[Dungeon Master]
+Zero. Instead of dealing damage, the goldling can grapple. 
+
+[Arevon]
+Cztery są. Cztery są dla prostu. Dobra. Powiem wam, że Goloron rzucił najlepszą inicjatywę w historii, jaką mógł. 
+
+[Felicjan]
+No właśnie tak, zgaduję, że będą. 
+
+[Arevon]
+Tuż przed Maćkiem. Na pewno. I go, go w owsianą. 
+
+[Felicjan]
+Przywala głową w ścianę. 
+
+[Dungeon Master]
+Wersjer, słyszysz kroki po drugiej stronie drzwi. Orestes. 
+
+[Orestes]
+Patrzę na wysokość, na jaką mogę mu patrzeć. 
+
+[Arevon]
+Jest bez. Pociągnę się od wątku z akcją. 
+
+[Orestes]
+Goddammit, dobra. 
+
+[Felicjan]
+Tak nastakowaliśmy tych batianów, że trzeba słyszeć. 
+
+[Orestes]
+Niech będzie. 
+
+[Dungeon Master]
+Dzięki. 
+
+[Orestes]
+Walmy sobie Potion of Healing Superior 1. to jest 4d8 plus 8, tak? Nie, nie, nie, nie. 
+
+[Arevon]
+Greater jest 4 do 8. 
+
+[Orestes]
+8d4, sorry. 
+
+[Arevon]
+Tak, właśnie. 8 do 4, zgadza się. 
+
+[Orestes]
+8d4 plus 8. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+W środku podjąłem nazwę napisane, że możesz kliknąć, ale... 
+
+[Orestes]
+Tak. Nie wiem, możliwe. 
+
+[Arevon]
+Nie ma znaczenia. 
+
+[Orestes]
+Ale zawsze 28 do tego, do heal'a. Patrzę Goloronowi, gdziekolwiek mogę patrzeć Goloronowi. I mówię... Pozdrów siostrę. Nie wiem. I wale, nie wiem, nachama przed siebie, czy to będzie po nerach, czy po wątrobie. 
+
+[Dungeon Master]
+O, krzycz, o kurwa, w tytana krzycz. 
+
+[Orestes]
+No I tak się zaczyna ta wawa Plus cztery W sensie, a, ekstra te, charge A, rację, piszczu plus cztery Tak, racja Strike of Healing Giant, tak. To jedno do 6 i ma jeszcze Strike Saving Throne nad DC-17, bo inaczej będzie prone. 
+
+[Arevon]
+dlatego ci to przypominamy 
+
+[Orestes]
+O! Dzięki. 
+
+[Arevon]
+a to jest znak zapytania w kartek i tak się daje 
+
+[Orestes]
+Tak, widzimy znak zapytania. 16. Nie wyszło mu. 17. Jest prone. 
+
+[Dungeon Master]
+Ok, nie, on jest prone. 
+
+[Arevon]
+to jest istotne 
+
+[Dungeon Master]
+Damage 5 dodatkowo 
+
+[Arevon]
+Czyli nie trafisz. 
+
+[Orestes]
+tak 
+
+[Dungeon Master]
+Great Weapon 
+
+[Orestes]
+a chwila no cóż 
+
+[Dungeon Master]
+Minus 5 do trafienia, plus 10 damage 
+
+[Arevon]
+Tak, dobra, dobra. 
+
+[Dungeon Master]
+Tak, to jest miss. 
+
+[Orestes]
+ale w pierwsze się liczy czyli trochę się podleczyłem trochę zdałem z demajor i koniec 
+
+[Dungeon Master]
+To koniec. Używa legendarnej akcji po twojej rundzie. Czy najpierw patrzy na ciebie z wyrzutem i mówi Ała! a potem on używa legendarnej akcji i się teleportuje jup wcior 
+
+[Versir]
+Dzięki za uwagę! 
+
+[Orestes]
+I liczyłem, że legendarną akcję właśnie wstanie. 
+
+[Felicjan]
+Już to będzie epicka walka z tymi koźlakami, z dwóch casterów kontra kilku koźlaków. 
+
+[Arevon]
+Rewont rzucę 5 poziomowego Elementalu. 
+
+[Felicjan]
+Chyba, że tak. 
+
+[Versir]
+O! 
+
+[Arevon]
+Tak, Elemental Spirit, 
+
+[Dungeon Master]
+Jak to działało? Elemental Spirit, tak? To jest to? Ownership, Cantos Owner, dobra to chyba to 
+
+[Arevon]
+Kanto's Owner, 5 bo z portfady się kończył panie. On pełnił mi 60 HP w tym momencie. I 16 oceki. 
+
+[Dungeon Master]
+Poprawię Poprawimy 
+
+[Arevon]
+I przy okazji ja się teleportuję 15 fitów, bo wrzuciłem z pola, więc fuck off grapple. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+Elementala poproszę tutaj. Na cyklopie. Ok, i to jest... To będzie R Elementum. Więc on ma Resist na Lightning i Thunder i on robi Lightning Damage, więc... Ok, sprawdzam jego staty. 16, 60 zgadza się, dobra. I to była akcja. Bonus akcją strzelam do tego chipejsa. Miał chcielność mi ugryźć. Bardzo dobrze. I teraz wracam, zbudzę tam gdzie stałem. 
+
+[Dungeon Master]
+Zatrafiony. I nie żyje. 
+
+[Arevon]
+To kończy moją rundę i elemental powinien być po mnie. Możesz go dojedyncze do wy? 
+
+[Dungeon Master]
+Te fotele są dość duże, więc to wymaga takiego lekkiego wdrapania się. 
+
+[Arevon]
+Sure, stoję tutaj. 
+
+[Dungeon Master]
+A tak, tak, tak. 
+
+[Arevon]
+Czy możesz dodać mojego elementala po mnie do jedyncze do wy? Zobaczmy, czy ten ma ten samy cietwy. 
+
+[Dungeon Master]
+Tak, tak. 
+
+[Arevon]
+Tylko mam taką samą cietwę jak jeden mop, więc to może być problem. 
+
+[Dungeon Master]
+A, a. Jest elegancko. 
+
+[Arevon]
+A, zajebiście. A on bierze klub. Zobaczmy, czy te ostatnie działają. 
+
+[Dungeon Master]
+Czyli jeszcze plus 2, no to trafia. 
+
+[Arevon]
+Plus 9. Zgadza się? Nie, plus 11 jest po ladek. 
+
+[Dungeon Master]
+To powiedz ile? 
+
+[Arevon]
+Damage? Damage też nie działa. Zaraz go poprawię. To jest plus 10. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+W sensie łącznie jest, czyli d10 plus 10, czyli to jest 16. 16 lightning damage'u. I on bije drugi raz. Teraz go poprawiam. 
+
+[Versir]
+To jest 5 levelowy, to jest plus 9 powinno być. 
+
+[Arevon]
+Aaa przepraszam. Jeden mniej. Tak, masz rację. Jeden mniej. Więc to jest 8. Odjąłeś tamtą 1-krotnie grę czy nie? 
+
+[Dungeon Master]
+tak 
+
+[Arevon]
+A, okej, co 13 jeszcze. 
+
+[Dungeon Master]
+i elemental 
+
+[Arevon]
+Dobra, i to jest koniec rundy 
+
+[Dungeon Master]
+slamuje cykloppa 
+
+[Arevon]
+kolumentala. Ja zedytuję go teraz. 
+
+[Dungeon Master]
+kolejny koźlak 
+
+[Arevon]
+Ups, ups, ups, ups... 
+
+[Dungeon Master]
+chodzi tutaj maficzery 
+
+[Arevon]
+Kurwa, jak to się dotyczy? dla której dodaję dwa do wszystkich roli, ale to też się liczy, więc... 
+
+[Dungeon Master]
+Jakaś jebana konserwa, pierdol się, huj ci w dupę i Orion rzuca Wisdom Saving Troll'a. To jest grupowe bokery. To jest magiczny efekt. 
+
+[Orion]
+Mockery nie jest spelem lub magicznym efektem. 
+
+[Dungeon Master]
+Chyba nie? Nie, to nie jest feature. Ono cię obrażają. 
+
+[Arevon]
+No to nie jest, to nie jest. 
+
+[Orion]
+A nie jako bieżącym czemku. 
+
+[Dungeon Master]
+Wisdom save. Sukces. 
+
+[Arevon]
+Dobra, ale ja nie rozumiem jak to działa. 
+
+[Dungeon Master]
+Nie przejmujesz się tymi obelgami. Te istoty są niewarte twojej uwagi. Ok. Dobra. 
+
+[Arevon]
+Znalazłem. W dole. 
+
+[Dungeon Master]
+Mog podlatuje bliżej i próbuje się nie zostać teleportowanym podlatując bliżej. O nie. Nie da się to wyłączyć. Teleport token wyłącz. 
+
+[Arevon]
+Powiedziałeś, że encounter tracker jest tak długi, że miejsca na ekranie brakuje. Na niego... Najechał mi tam wszystkie rzeczy. 
+
+[Dungeon Master]
+Narobiłem teleportów, tylko trudno żyć. O, okej. 
+
+[Orion]
+A jak on to zrobił? 
+
+[Arevon]
+Dziękuję. 
+
+[Orion]
+Przeszedł za ten teleport? Jest tylko pięć słup nad, to zmieściłby się. Dziękuję. 
+
+[Dungeon Master]
+i patrzy na Orestesa i mówi 
+
+[Arevon]
+Dzięki. 
+
+[Dungeon Master]
+tam byczku, jakiś niewyrośnięty jesteś. 
+
+[Felicjan]
+Oj tak byczku. 
+
+[Orestes]
+Oto chujek. 
+
+[Dungeon Master]
+Matka jebała się z niedziałkiem? Ten potem używa reakcji, żeby dołączyć do obelg i wrzucasz wisdom saving throwa. 
+
+[Orestes]
+Który to? Ten? 
+
+[Dungeon Master]
+Tak, DC rośnie z każdym, który dołączy reakcję. 
+
+[Arevon]
+To ma znaczenie ile ich używam? 
+
+[Orestes]
+Chordę na wisdom nie mam, nic. 
+
+[Arevon]
+Jesteś barbarzyńcą, czego się spodziewałeś? 
+
+[Orestes]
+No w sumie... Wisdom, safe. No przynajmniej normal, a nie disadvantage. Co to za czorej? 
+
+[Arevon]
+Too late, too late! 
+
+[Orestes]
+D 
+
+[Arevon]
+Ale to nie jest jakiś czarn? 
+
+[Orestes]
+To się zgadza. 
+
+[Dungeon Master]
+Wściekłość się tak pogłębia, że twoje ataki mają disadvantage. Ataki na ciebie mają advantage. Ale też czujesz bardzo, że chcesz zamordować tego koźleka, który ubliżył twojej matce. Ale nie jesteś zmuszony jakoś do tego, ale czujesz. Rząd leki zdecydowanie. Okej, to był ten ziomek. Ten ziomek... Z obelgami już może da spokój, on wyciągnie, skakuje na poręcz i strzela z procy do Versira. I nie trafia. 
+
+[Arevon]
+Oto tam stoi ten element. 
+
+[Dungeon Master]
+Cyklop. Cyklopowali Elementala. 
+
+[Arevon]
+Tak. 
+
+[Dungeon Master]
+21 i 11. 
+
+[Arevon]
+A teraz strachownie. 
+
+[Dungeon Master]
+Teraz trafia. 
+
+[Arevon]
+Nie odpisuję, odpisuję. 
+
+[Orion]
+Chciałem się spytać, czy korzystając z właściwości mobile 
+
+[Dungeon Master]
+I to ma stery. 
+
+[Orion]
+mogę użyć bonusowego ataku na tego cyklopa? Czy to musi być pełnoprawny atak? 
+
+[Versir]
+Możesz, możesz. Wystarczy zaatakować. 
+
+[Arevon]
+Nie możesz zrobić Polar Master Bonus Ataku, jak nie zużyjesz zwykłego ataku? Z tego co mi się wydaje. 
+
+[Versir]
+Ale ty chyba nie masz Polar Master ataku, tylko masz swój Fighter Feature atak, tak? 
+
+[Arevon]
+To przeczytaj jak ten feature działa. Czy możesz wykonać ten atak przed resztą? 
+
+[Dungeon Master]
+Tak, taki combo z Pirem trzeba zrobić. 
+
+[Arevon]
+Bo w normalnym Polar Masterze chyba nie wolno. 
+
+[Orion]
+When you make an attack with spear, you may use... 
+
+[Arevon]
+No czy nie moż? Musisz najpierw zaatakować raz z Pirem. 
+
+[Orion]
+Mhm, tak. 
+
+[Arevon]
+Znaczy musisz czasnąć tego gościa z Pirem, po oby ci resztę jebnąć w górę, jak chcesz. 
+
+[Dungeon Master]
+15 trafiam. 
+
+[Orion]
+No chyba tak. 
+
+[Arevon]
+Bo szkoda okazyjna za to wyprzedzić. 
+
+[Orion]
+Tak. 
+
+[Dungeon Master]
+Dzień dobry. 
+
+[Versir]
+Śmieszne jest to, że prąd daje adwentycz nawet na ręczotaki, jeżeli stoisz w liręczo. 
+
+[Arevon]
+Tak, ale ręcze takie mają naturalnie cyfrowe. 
+
+[Dungeon Master]
+18 też trafia, lightning wchodzi normalnie 
+
+[Versir]
+Dziękuję. 
+
+[Orion]
+Przerzucam tego piercera. 
+
+[Arevon]
+Czy 18 go trafię? Uuu, 1. Tak zwany unload run, tak? 
+
+[Orion]
+Action search. Aha, jeszcze bonusowy ten... 
+
+[Arevon]
+Dziękuję. 
+
+[Orion]
+Action search. 
+
+[Dungeon Master]
+Ok. Gloren jest w szoku jak to szybko się dzieje i dlatego zapomniał użyć legendarnej akcji. 
+
+[Orion]
+Same czerwone, no kurde. 
+
+[Arevon]
+Powiem tak, cieszę się, że na 18 wchodzi, bo jest zmysłowo 2 hity. 
+
+[Orion]
+Tak. 
+
+[Dungeon Master]
+Co za kurde. 
+
+[Arevon]
+Flip. 
+
+[Dungeon Master]
+Koniec? To on teraz użyje legendarnej akcji. Jak już jesteś blisko to ci chyba trzaśnie po prostu. 
+
+[Arevon]
+KONIEC 
+
+[Orion]
+Jasne, jasne, dobrze. 
+
+[Dungeon Master]
+On się robi niewidzialny, ale czujesz, że on tam leży ci pod nogami, Orion. 
+
+[Orion]
+Co to za tanie sztuczki? Czuję twój strach. 
+
+[Dungeon Master]
+A, ty masz w dupie jego niewidzialność. 
+
+[Versir]
+Playcite'a 
+
+[Dungeon Master]
+Ej, wiesz, mnie widzieć. 
+
+[Versir]
+Patrzę na niego 
+
+[Arevon]
+Dzień dobry. 
+
+[Versir]
+Zaczynam kastować bonus akcją Czwartolowowego Scorching Raya Mówię Tak, ja leżę Mówię do niego Loran, już wiele czasu ci nie zostało 
+
+[Orion]
+Niewiele, ale zawsze. 
+
+[Versir]
+Bądź tak dobry Powiedz mi coś O tej gwieździe W tym W tym dziwnym jeziorze na górze coś. A może ci kupić trochę czasu. 
+
+[Dungeon Master]
+Dwa misy. 
+
+[Arevon]
+5 rej, każdy 2d8 dodatkowego do małżeń. 
+
+[Versir]
+I kastuje... Nie, nie... I kastuje Scorching Ray'a na czwartym levelu z Quicken. To jest 5 Ray. To jest... Potem jeszcze dokładam dwa swingi z miecza. 
+
+[Dungeon Master]
+Zatrafiona. 
+
+[Versir]
+To są z Advantage, bo on leży. nie zrobiło się to 
+
+[Dungeon Master]
+To dorzuć, mógł być kryty. A, rzuciłeś, dobra. Hit. 
+
+[Arevon]
+i policzyć ten damęż 
+
+[Dungeon Master]
+One hundred. To jest 16 i 17. Jeszcze te raye. 
+
+[Arevon]
+6d6 fire i 
+
+[Dungeon Master]
+Co to za kawałek? 
+
+[Arevon]
+10d8 Tak, dwa ma... 
+
+[Versir]
+Dwa ma słyniami trochę? Czy jedna? 
+
+[Arevon]
+Tak... 
+
+[Versir]
+To to jest... Tak, tak. A! Jak kastowałem tego Scorching Raya, to on się zmanifestował tak, że z mojego kikuta nagle się pojawiła taka płomienna dłoń. Z pięcioma palcami. I z tych pięciu palców pięć rejp leciało. 
+
+[Arevon]
+Jaki to jest rodzaj? To jest Radiant, nie? 
+
+[Versir]
+Ten dodatkowy damage to jest radiant 
+
+[Arevon]
+Czyli dostał 54 Radiant, dostał 14 Fire, oprócz tego dostał 14 Force i 19 Physical. Nie wiem czy to coś robi różnicę. 
+
+[Felicjan]
+A nie 34 fire? 
+
+[Dungeon Master]
+radiant 34 14 minus 20 
+
+[Versir]
+Chujawy, chujawy 
+
+[Arevon]
+34 to jest Radiant. 
+
+[Felicjan]
+34 było z tego z Kocikaja. 
+
+[Versir]
+Strasznie chujawo zrollowałem, force damage zwłaszcza 
+
+[Arevon]
+Jeśli Fire dostaje całe i Raiden całe, to wszystko wyszło. 
+
+[Versir]
+Fire Damage też po ja zrolałem 
+
+[Felicjan]
+Wszystko dobrze weszło? 
+
+[Versir]
+To jest koniec mojego rodu Spirits shroud. On jest... Nie, to jest ze starych. Znaczy to jest stary czerw... To jest... Tak, tak, tak, tak, w ten sposób to działa. 
+
+[Arevon]
+No, nazwijmy to w ten sposób. 
+
+[Versir]
+Nie, odstępu nie było. 
+
+[Arevon]
+Był spell w nowej edycji, który działa lepiej od tego, ale go zdorfili. 
+
+[Versir]
+Ten czar jeszcze działa tak, że on ma 10 fitów momenta mniej i nie może HP-ka zaregenerować. 
+
+[Dungeon Master]
+Cykl opuszczony od sieci. 
+
+[Versir]
+A tak, to w sumie dwa redundant efekty. I on też pronuje, on się sprąta. 
+
+[Arevon]
+A Twój mięsz chyba też tak działa, że nie może się chilować, nie? Mhm. 
+
+[Dungeon Master]
+Odbiega tu i zamachuje się Great Clubem Versira najpierw. To jest miss i drugim Wariona. 
+
+[Arevon]
+Ma adwentycz. 
+
+[Dungeon Master]
+To też jest miss. 
+
+[Orestes]
+A to chujek drugi. No ma. 
+
+[Arevon]
+A chyba triple adwentycz. 
+
+[Orestes]
+Trafia. 
+
+[Dungeon Master]
+Uuu, obrywasz 5 damage'a przez 2, bo to jest fizyczne. 
+
+[Orestes]
+Połowę. A teraz reset. 
+
+[Versir]
+101, tak odrobię. 
+
+[Orestes]
+Ała! 
+
+[Dungeon Master]
+Teraz jest Goloron. Pomyślmy. Goloron wstaje. kurde to czy to olin czy nie olin nie no nie olin 
+
+[Arevon]
+Nie olin, szalone go loryn. 
+
+[Versir]
+Mam disadvantage, bo mam zbroję. Zbroja z under. 
+
+[Arevon]
+What the fuck? Ktoś tutaj się wyekwipował jako titankiller. 
+
+[Versir]
+Dziękuję. 
+
+[Arevon]
+Nie, według zasad nie, ale zasady są zjebane. Według zasad smok może zionąć, będąc niewidzialnym i nie pojawia się. Ale ja zawsze grałem, że to tak nie działa. 
+
+[Versir]
+Oooo, hamowa. 
+
+[Dungeon Master]
+i rzucasz Intelligence Saving Throw 
+
+[Versir]
+Ja użyję favor by the gods. 
+
+[Felicjan]
+Robiliśmy shortreste? 
+
+[Arevon]
+Przed charakterem. Nie, po charakter. 
+
+[Felicjan]
+Czekaj. Robiliśmy shortreste? 
+
+[Arevon]
+To nie jest szaf. 
+
+[Versir]
+19? 
+
+[Felicjan]
+Tak. To jest czar? To nie jest czar pewnie. Aś, cholera, szkoda. 
+
+[Versir]
+A. 
+
+[Arevon]
+Uuu. 
+
+[Versir]
+Gdzie by to był Psychic Land? 
+
+[Dungeon Master]
+Ale to kończymy kolejkę. 
+
+[Versir]
+To koncentracja mi wewnątrz ubydła. Zachomi dworuckę. Tak, tak. Ile dostałem HPK? 28. 
+
+[Arevon]
+Chciałem te karty pisać, bo coś się nie zauditowało. 
+
+[Dungeon Master]
+28 psychic i stun. 
+
+[Arevon]
+Dzięki. 
+
+[Versir]
+Kwasir czekał na odpowiedź o Gwieździe, z tą stroną. 
+
+[Felicjan]
+Miałem niemarnowe spysy, ale chyba poleci tam Fireball jednak, bo to tam się dzieje. I to będzie czwartopoziomowe. 
+
+[Arevon]
+No tak, Koźlaki chyba nie ma szansy przeżyć tego. 
+
+[Dungeon Master]
+O nie, ma Koźlaki kaput. 
+
+[Felicjan]
+35. 
+
+[Dungeon Master]
+Tak, Koźlaki zostały usunięte bez save'a. Cyklop rzuca dek save'a. 
+
+[Arevon]
+Ale ja tu widzę problem. 
+
+[Dungeon Master]
+Golorun rzuca dek save'a z advantage. 
+
+[Arevon]
+Jak Twój feature działa Maciek? 
+
+[Dungeon Master]
+O! Już się kłócą feature'y? Pokaż opis swojego feature'a Maciek. 
+
+[Felicjan]
+Czemu? Który? 
+
+[Arevon]
+Ten, co pozwala Ci auto-save'ować komuś, ponieważ wersja ma automatyczny fail z Dexterity Saving Trace. 
+
+[Felicjan]
+automatycznie 
+
+[Dungeon Master]
+Ale to obstawiam, że go to trochę bardziej osłania, ale zobaczymy. 
+
+[Arevon]
+On ma auto-success i auto-fail. 
+
+[Dungeon Master]
+Ale to nie jest jakiś tam, że mu daje, nie wiem, 
+
+[Felicjan]
+Po prostu jego nie trafia. 
+
+[Dungeon Master]
+super uniki do tego czaru, 
+
+[Arevon]
+Tak, po prostu go osłania. 
+
+[Dungeon Master]
+tylko to mu daje 
+
+[Arevon]
+No, oczywiście. Zgadzam się z Tobą, tylko chciałem powiedzieć, że istnieje taka opcja. 
+
+[Dungeon Master]
+jakoś ten czar formuje, to jest jego umiejętność. Więc mi się wydaje, że tak czytając zasady wprost, to można mieć wątpliwości, ale czytając, jak ten feature ma działać, to ja nie mam wątpliwości, że to działa. Że to wygrywa ze stanem. Tak. 
+
+[Arevon]
+Jeszcze jednoście. 
+
+[Dungeon Master]
+teraz to już nie chcę czy to Felicja na rundę kończy, czy coś jeszcze? 
+
+[Felicjan]
+Ja skończę swoją rundę. 
+
+[Dungeon Master]
+on używa legendarnej akcji żeby się steleportować 60 stóp Koźlak, a tak gryzie Elementala. Tego gryzła akurat. 
+
+[Arevon]
+Można grać. Ale ona teraz nie ma nagrań płacić. 
+
+[Dungeon Master]
+20. 500 mage'a. 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+Niech się otwierają. 
+
+[Arevon]
+Drogon ma target! 
+
+[Dungeon Master]
+Pomieszczenie wpada. Nie gryź jego. Nie gryź jego, Lorona. 
+
+[Felicjan]
+Ja siedzę na krześle, udaję gościa. 
+
+[Orestes]
+Ok, najpierw damage, póki pamiętam, 13 i strength save. 
+
+[Arevon]
+Na pewno. 
+
+[Orestes]
+Strength save, tak, na to advantage. 
+
+[Arevon]
+Robisz trend z save'a. 
+
+[Orestes]
+Ok, to już nie ma problemu, bo to jest 
+
+[Arevon]
+13. 
+
+[Orestes]
+nie tylko strzał, ale też strzał, który jest w grze. Ok, to już nie ma problemu, bo to jest nie tylko strzał, ale też strzał, który jest w grze. 
+
+[Arevon]
+Muszę ww. 
+
+[Orestes]
+Ok, to już nie ma problemu, bo to jest 
+
+[Arevon]
+Tron. 
+
+[Orestes]
+Czekam się teleportował za wall of forza? 
+
+[Dungeon Master]
+Po rundzie Minotaura jest Orestes, ale najpierw Gloron użyje legendarnej akcji, aby stać się niewidzialnym. 
+
+[Orestes]
+Goddammit, gnojek. 
+
+[Arevon]
+Nie zabiję tego chrzmaka. 
+
+[Orestes]
+Grapluje tego dziada przy mnie. 
+
+[Dungeon Master]
+Orestes. 
+
+[Orestes]
+Tak, ale no... Muszę nagle załatwić tego obok mnie. 
+
+[Arevon]
+To będzie w filmach, Andrzej. 
+
+[Felicjan]
+Każdy ma 10 hapaka, nie? 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+No to prawda, ty nie po prostu tego warsztatujesz. Ale dobra, no masz disadvantage z reklesem, masz straight roll. No to nie masz. 
+
+[Orestes]
+Tak. Zgraplowałem go? Super. To ciągnę go ze sobą do koźlaka. 
+
+[Dungeon Master]
+No, to Koźlak, jeszcze tylko mów, jak do niego się zbliżasz. 
+
+[Orestes]
+Ciągnę go tutaj na chama. Jak burą szmatę po podłodze. I oczywiście straight roll na koźlaka 
+
+[Dungeon Master]
+O, Mauler, wariat. 
+
+[Arevon]
+Tak, na pewno. 
+
+[Versir]
+Dziękuję. 
+
+[Orestes]
+Serio 
+
+[Arevon]
+Orestes za bardzo przyjął do siebie jednak to, co Koźlek powiedział. 
+
+[Dungeon Master]
+A tylko na niego miały się autokryta. 
+
+[Arevon]
+Nie. Tak, możesz. 
+
+[Dungeon Master]
+Te, co pośrednio ubliżały reakcję, to nie działa. To koniec? 
+
+[Orestes]
+ok to wszystko więcej nie mogę 
+
+[Dungeon Master]
+Nie. 
+
+[Orestes]
+a nie chwila wróć wróć jak ja go 
+
+[Dungeon Master]
+Arewun? 
+
+[Orestes]
+zabiłem to mogę wykonać jeszcze na tak a dobra 
+
+[Felicjan]
+Po skarbce jeszcze harpie były chyba, nie? 
+
+[Arevon]
+Jako bonus action 
+
+[Dungeon Master]
+A, 
+
+[Versir]
+Ja chyba dalej TrueSight tam mam włączonego, godzina nie minęła od tamtego... 
+
+[Arevon]
+złożyć bonus action. 
+
+[Versir]
+Jak przeszukiwaliśmy... Minęło? Okej. No tak, to było gdzieś w sklepcu odpalone. A, faktycznie, faktycznie. 
+
+[Arevon]
+Tak. 
+
+[Dungeon Master]
+Oresty skończy. Gloron dopiero dwie tyle legendarne akcje użył, nie? 
+
+[Arevon]
+Tak to ja. 
+
+[Dungeon Master]
+To Gloron się gdzieś teleportuje. Nie do końca jesteście pewni, ale się nie chowa w tym momencie, więc teoretycznie wiecie, że gdzieś tam jest dalej. Głośne sapie. Arewun. 
+
+[Arevon]
+Starwit's Paw 
+
+[Dungeon Master]
+To jest jakaś oznaka rasizmu wobec metaurów? 
+
+[Arevon]
+Zastanawiam się czy ktoś będzie sporo kastował jakoś Mindsleever na Minotauru Jego specjalność na pewno 
+
+[Dungeon Master]
+To jest fail. Damage. 15, nice. 
+
+[Arevon]
+15 i teraz strzelam w ten sam target. 
+
+[Dungeon Master]
+i to trafia ok 
+
+[Arevon]
+To jest 9. 
+
+[Dungeon Master]
+sure 
+
+[Arevon]
+Spirit bije każdego. 
+
+[Dungeon Master]
+trafia 15 Koper Dragon trochę się wycofuje i wyczekuje na rozwój sytuacji. Cyclob podnosi jeden z foteli i rzuca tym fotelem Feliciana. 26 Za co? 
+
+[Versir]
+coś robi ręce, a tak za to, że 
+
+[Felicjan]
+19 też trafię. 
+
+[Dungeon Master]
+Aaa Elemental, ale fuck, zapomniałem o Elementalu Niech będzie, powiedziałem, że rzuca to rzuca 19 Zapomniałem o Elementalu Normalnie by Elementala bił, ale trudno 
+
+[Arevon]
+żeby on go bił, żebyśmy my nie dostawali te mecze. 
+
+[Dungeon Master]
+Ale ten cyklop bardzo nie lubi, jak gdzieś tam strzały pykają w tle i rzucił watelem Felicjana. 
+
+[Arevon]
+To jest j*****y. 
+
+[Felicjan]
+Zaraz sobie odejmę. 
+
+[Arevon]
+Oj, oj, oj. 
+
+[Dungeon Master]
+27. I Orion. Siór. Właściwie cyklopa nie trafia. 23 trafia. 
+
+[Arevon]
+Uff. 
+
+[Dungeon Master]
+17 
+
+[Orion]
+Dziękuję. 
+
+[Dungeon Master]
+i 15 trafia 17 damage bonusową hit 116 
+
+[Arevon]
+Zbogowaną to też usta na kod praw na praw smoków. 
+
+[Versir]
+Dziękuję. 
+
+[Arevon]
+Tobie nigdy nie wyjdzie. 
+
+[Versir]
+Jeszcze tylko zaznaczę, że moja aura nie działa jak jestem sync'a powalny. 
+
+[Felicjan]
+Ile to maja? 
+
+[Versir]
+Aura też jest wyłączona. To plus 5 to jest kłamstwo, jest minus 1 do save'a. 
+
+[Arevon]
+21. 
+
+[Versir]
+No, mam minus 1 na tej chwili. 
+
+[Felicjan]
+Oberwałem, bo nie widzę. 
+
+[Arevon]
+Tak, 27. 
+
+[Versir]
+Muszę powiedzieć, że Golorom znalazł switcher, który wyłącza wersję rano z dokumenty. 
+
+[Orion]
+No to zareaguję jeszcze i dam... 
+
+[Felicjan]
+27, tak? 
+
+[Arevon]
+Nie jesteśmy w stanie mu pomóc. 
+
+[Dungeon Master]
+Czyli jest Advantage w wersji RAW. 
+
+[Orion]
+Jak się nazywało to? Discipline Defense, czyli ma jeszcze mój proficiency do AC, jeżeli stoi. 
+
+[Arevon]
+Dysadvantage. 
+
+[Versir]
+To jest idealnie tyle, ile potrzebował, nawet z tą plus czwórką od Orion. 
+
+[Orion]
+Pięć stóp ode mnie. 
+
+[Dungeon Master]
+Czyli 24... 
+
+[Arevon]
+A, straight roll, tak, dobrze, dobrze, dobrze. 
+
+[Dungeon Master]
+I na stanie to jest kryt chyba, nie? A na paraliżu jest, dobra, pomyliło mi się. 
+
+[Versir]
+Nie, mam tu nie paru, daj. 
+
+[Arevon]
+Nie. Nie, tylko na Paralyze. Jakby to był Paralyze, to Arepon by próbował coś zrobić, ale to nie jest Paralyze. 
+
+[Dungeon Master]
+O nie, ten target. Ale dobrze. 
+
+[Arevon]
+Drugie. 
+
+[Dungeon Master]
+19. 
+
+[Arevon]
+Muszę końc nagrzeje, ja pierdolę, nie zauważyłem. Bym strzelił do niego, a nie do Minotaura, jakby wiedział, czemu on tam stoi. Problem jest taki, że jedyna osoba w naszym party, która była w stanie dogonić i zabić gole ronem, ma stan na forever. Tak, pociek. 
+
+[Felicjan]
+dawno uciekł? 
+
+[Arevon]
+Chodzi o to, żebym się przetepił na drugą stronę. A ja nie jestem w stanie tam się tepnąć i przeżyć. 
+
+[Felicjan]
+się do smoku wstawił, tak? 
+
+[Arevon]
+Tak, tak. to może nie działać przez World of Wars. 
+
+[Orion]
+No smoka i smoka. 
+
+[Versir]
+Wyłączyć. 
+
+[Arevon]
+Nie masz line of effect przez World of Wars. Mam total cover. Tylko i wyłącznie teleport działa, bo teleport targetujesz siebie. Nie możesz przetargetować kogoś przez World of Wars. To jest niewykonalne. Możesz targetować tylko i wyłącznie rzeczy po swojej stronie World of Wars. Czyli siebie. Przez teleport. 
+
+[Orion]
+Oni chcą wrócić. 
+
+[Versir]
+Weź. 
+
+[Orestes]
+zamówił ekipę, która zamontowała mu lustro, którego nie jest w stanie zbić? 
+
+[Versir]
+Nie, nie. Już w tej chwili może się chwilować. Tak, tak. 
+
+[Dungeon Master]
+nie wiecie co on robi, on robi rzeczy 
+
+[Versir]
+Teraz może hide action zrobić i już nie wiemy gdzie on jest kompletnie. 
+
+[Felicjan]
+Dzięki za uwagę! 
+
+[Dungeon Master]
+to jest bardzo dobry pomysł 
+
+[Versir]
+Co ma jeszcze, wiesz, covery? Tam są jakieś... 
+
+[Felicjan]
+Dobra, to ja kastuję na 5 poziomie Saki kręca i krzyczę Galaron. 
+
+[Versir]
+Trzymaj się. 
+
+[Dungeon Master]
+Jak ktoś będzie patrzył tam po stronę, to wam powiem, czy go być może widzicie czy nie. To nie jest przez. 
+
+[Arevon]
+Ale jak? Przecież nie możesz targetować go. What? 
+
+[Felicjan]
+w True Name. 
+
+[Arevon]
+Ale nie możesz targetować przez World of Wars, to nie działa. 
+
+[Felicjan]
+Ale nieważne. 
+
+[Arevon]
+To nie działa. 
+
+[Dungeon Master]
+a 
+
+[Felicjan]
+To nie jest przez. 
+
+[Arevon]
+Jestem prawie pewien, że to nie działa. 
+
+[Felicjan]
+Musi być w zasięgu. 
+
+[Dungeon Master]
+if the name creature is within range 
+
+[Arevon]
+To nie działa z Wall of Force. Nie da się targetować spelli przez Wall of Force. To nie ma znaczenia czy go widzisz czy nie. Jest Wall of Force, który blokuje magic efekty. 
+
+[Dungeon Master]
+even if you can't see it what the fuck 
+
+[Arevon]
+Nie możesz strzelić kogoś, jak Wall of Force blokuje wszystkie magiczne efekty. Nie da się, to nie działa. Na 99,9% jestem pewien, że tak to działa. 
+
+[Felicjan]
+Nie, to nie robię tego. 
+
+[Dungeon Master]
+all of us is 
+
+[Versir]
+K, ken ma rację, ken ma rację. World of Wars... blokuje efekty. 
+
+[Dungeon Master]
+given Zgadzam się, że nie jest to dla mnie intuicyjne. 
+
+[Arevon]
+99,9% tak powiedział. O to mogę się kłócić. Teleporty są wyjątkiem. I to są wyjątkiem tylko dlatego, że tak działa. I nie wszystkie teleporty tak działają, bajdowie. To jest inna sprawa. 
+
+[Felicjan]
+A chcemy się tam dostać do niego, czy nie chcemy? 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Versir]
+Wortex Warp'em bym nie mógł teleportować przez All of Us. 
+
+[Arevon]
+Nie, nie chcemy. Zgadza się. Nie chcemy zabić tych chujców, bo mogą nas zjeść. Jesteśmy wszyscy na zejściu. 
+
+[Versir]
+Zobaczcie jak się rozwija. 
+
+[Felicjan]
+Nie chcemy do niego iść, tak? 
+
+[Versir]
+Smoki nas zjedzą. Ja tu widzę Meksikan Steadow jak już się pozbędziemy tych po swojej stronie. 
+
+[Arevon]
+Nie, ja widzę tu, że staniemy sobie tutaj i będziemy strzelać do niego przez krawę, aż wyjdzie. 
+
+[Felicjan]
+28 kodów do wyczerpania. 
+
+[Arevon]
+Wolofarcy zjebanym z polon. Teraz jeszcze może biec dookoła. No i to jest czas na konsajdy. 
+
+[Orestes]
+też tak myślę 
+
+[Dungeon Master]
+To jest chyba hit. To jest 7 damage'a. 18 ci trafia? 
+
+[Orestes]
+7 jeszcze żyję Mam 18 AC. 
+
+[Dungeon Master]
+8 damage'a. 
+
+[Arevon]
+Trafia. To jest con safe. 
+
+[Orestes]
+8 DMG i CON SAVE. Miałem ADVAN też. Dobra, to porzucam STRAIGHT ROLLA. tak, pierwszy jest 10, później 15 mi się wydawało, że miałem adwantyż na to 
+
+[Arevon]
+Ostatnio miał plus 6 z kesha, więc miał plus 13 ostatnio, to o to chodziło, żeby mu zawsze wychodziło, miał plus 13 a nie plus 7. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Orestes]
+a, no dobra, ok, no ale żyję 
+
+[Arevon]
+Masz 1 chyba. 
+
+[Orestes]
+tak, tak, tak, już sobie Dobra, skoro trzymam dziada, no to atakuję dziada. 
+
+[Arevon]
+I teraz chyba trwa i plejka. Chyba, że Golaran coś robi. Odwrotnie, ale tak. 
+
+[Dungeon Master]
+oraz minus 5 plus 10. 
+
+[Orestes]
+Oczywiście korzystam z tego officera, minus 5 do trafienia, plus 10 do obrażeń. No i drugi raz już normalny 
+
+[Arevon]
+z 23 do trafienia i to jest to nie jest Giant więc to jest 35 dobra. Bez. 
+
+[Orestes]
+bez tego A, no, rację, rację, rację. 
+
+[Arevon]
+Dlugo? Bez to bez. Ale Advent też masz dalej fajnie. Jak użyłeś Recluster to masz Recluster. 
+
+[Orestes]
+Sorry. nie mam 
+
+[Arevon]
+Mamy nowy oraklu. 
+
+[Orestes]
+5 już tak 
+
+[Arevon]
+Tak. 
+
+[Dungeon Master]
+idealnie wyliczył, ile żeby trafić, żeby to mięs pięć nie było i idealnie zadał. 22 HPK. 
+
+[Arevon]
+I to jest Giant, więc masz więcej do marzenia. 
+
+[Versir]
+Ale będzie wstyd jak cię ten koźlek zdrobi. 
+
+[Dungeon Master]
+O, zostaw goźlaka. 
+
+[Arevon]
+Nie będzie, ja zabiję tego koźlaka 
+
+[Orestes]
+A ten tutaj? 
+
+[Arevon]
+Ja zabiję tego koźlaka To jest 37 
+
+[Orestes]
+Dobra, to lecę z advantage i korzystam z tamtego feature'a minus 5 plus 10, jak coś. 
+
+[Felicjan]
+Ale gdyby to było koszt lakatu, to moglibyśmy kolejną maksymum władną śledzenia. 
+
+[Orestes]
+Tak blisko było. 
+
+[Dungeon Master]
+Minus 5, plus 10. No trafia, no. Czy to jest 20? 37. 
+
+[Arevon]
+Więcej 37, panie 
+
+[Dungeon Master]
+Tak, tak, tak. 
+
+[Arevon]
+bo to jest Giant 
+
+[Dungeon Master]
+Tak, tak. 
+
+[Arevon]
+nie ma drugiego free ataku 
+
+[Orestes]
+A, no tak. Patrzę mu w to jedno oko, zliczę, że będziesz widział podwójnie. 
+
+[Dungeon Master]
+Nice. 
+
+[Orestes]
+No niestety. Ale zawsze coś. 
+
+[Dungeon Master]
+Koniec? 
+
+[Arevon]
+czy to jest koniec? 
+
+[Orestes]
+Tak, tak. Tak, koniec. 
+
+[Dungeon Master]
+A, repon? 
+
+[Arevon]
+Rewan Bontlaxu strzela do kuźleku. 
+
+[Orestes]
+Nie mam nic więcej, nie mogę nic więcej. 
+
+[Dungeon Master]
+Goźlak zostaje chyba usunięty, znaczy, że jest damage. 
+
+[Arevon]
+To jest low roll może być więc. 
+
+[Orion]
+Dziękuję. 
+
+[Versir]
+Maksymalnie. 
+
+[Dungeon Master]
+A, bije. 
+
+[Arevon]
+To jest uber roll. Zabijecie się tamtego, nie? W sensie Orion, co ja go zabiję? Ja podejdę... Ja idę tu... Czekaj, czekaj. Kurwa, nie widzę, bo mi... Weź pomóż przesunąć cyklopę o jedną kartkę do góry na chwilę. Tego tutaj? Tego na dole? Nie, nie, tego drugiego. Bo zasłania mi ręka. 50. Ok, czyli mogę stać tu. Dobra, już jest ok. Staję tu i teraz moją akcją strzelam stary Wispen do cyklopy tego koło Elementala. 
+
+[Dungeon Master]
+Cyklop koło Elementala, 15 trefy. 
+
+[Arevon]
+15? To jest 18. 
+
+[Dungeon Master]
+Piór. 
+
+[Arevon]
+Slam, slam. 
+
+[Dungeon Master]
+Cyklop się trzyma, cyklop jest twardy. Cyklopy mają epickie brody. 
+
+[Arevon]
+To zostaje 16, 11, 27, 3. I elemental idzie sobie tutaj. 
+
+[Dungeon Master]
+Cyklop, cyklop bije Elementala najpierw 19 a drugim atakiem walniu Restes 13 nie trafia ma za Advanted 13 Orion Cyklop nie żyje. 
+
+[Arevon]
+On chyba zrobił owoc i to, w sumie sądzę. 
+
+[Dungeon Master]
+Jest takie prawdopodobieństwo. 
+
+[Orion]
+35, no to disadvantage. 
+
+[Dungeon Master]
+nie mam pojęcia jak to wygląda 
+
+[Arevon]
+25 tu jest, możesz tu stanąć. Myślę, masz 30. Masz 30 momenta, czy więcej? 
+
+[Orion]
+40. 
+
+[Arevon]
+40, to możesz tu stanąć. 
+
+[Dungeon Master]
+i byłoby bez disadvantage chyba już 
+
+[Orion]
+O, no faktycznie 20, tak, to sięga. 
+
+[Dungeon Master]
+ok, czyli to byłoby... piorun, to masz 2 hity po prostu już iiii nie żyje 
+
+[Arevon]
+Zamyślę się raz. Wersja w masce. 
+
+[Dungeon Master]
+po drugim coś jeszcze zostało? w tym momencie 
+
+[Orion]
+Może bonusowo się wyleczę jakimś potkiem. 
+
+[Dungeon Master]
+Cichnie na chwilę sytuacja. Eee... Czy cichnie? Wersja ma stan, a dobra, nie wychodzimy jeszcze z inicjatywy na ten moment. Ale szybko się rundy raczej będą toczyć. Eee... 
+
+[Versir]
+Dziękuję. 
+
+[Dungeon Master]
+Głos. 
+
+[Arevon]
+Nieprawda, już za więcej. Ale dobra, to za mało jest. Ja się dam bonus, jak wrzuci więcej kiedyś. 
+
+[Orestes]
+Taki miękki jesteś, że się nie pokazujesz? 
+
+[Arevon]
+Czekam, jak wróci tak 16, 17 może będzie mi szansa. 
+
+[Dungeon Master]
+Co ty twardy jesteś? Chodźcie tutaj. 
+
+[Felicjan]
+Nie umiesz. 
+
+[Dungeon Master]
+Ściana jest potężna i nie da się tak łatwo wyłączyć. 
+
+[Arevon]
+Chodź do nas na duela. 
+
+[Orion]
+No to przeteleportuj się tutaj, po naszym stronie. 
+
+[Felicjan]
+A pokaż się, boisz się smoków? 
+
+[Arevon]
+Smoki go nie gryzł. No sobie go, Smoki, no. 
+
+[Felicjan]
+Nie gryzą go? 
+
+[Dungeon Master]
+Nie gryzowa. 
+
+[Arevon]
+Była okazja. 
+
+[Orion]
+To nie jest tytan, to jest pierdółka. 
+
+[Dungeon Master]
+Dobra, Felicjan coś robi? 
+
+[Felicjan]
+Nie, on się rozleży pewnie po pokoju, ale to rybo, oczywiście. 
+
+[Orion]
+Idzie do nas chyba. 
+
+[Felicjan]
+I zaraz. 
+
+[Dungeon Master]
+Cioro. 
+
+[Arevon]
+Ale wam coś robię. Jeszcze zaraz to spodrodzę. 
+
+[Dungeon Master]
+Dzięki. 
+
+[Arevon]
+Nie, nie, będziemy iść dookoła. 
+
+[Orion]
+Minutał. 
+
+[Orestes]
+Ktoś planuje nas teleportować czy nie? 
+
+[Orion]
+Nie, nie. 
+
+[Arevon]
+Ale nie biegnie pierwszy, nawet jeden hopper może. 
+
+[Orestes]
+To biegnę, sprintuję. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Orion]
+No. 
+
+[Arevon]
+Nie zatrzymasz rząd, rządzę samobójstwa niestety u Barbariana, więc. 
+
+[Orion]
+Ja widziałem, bo akurat widziałem tamten korytarz, w którym zeszliśmy. Idzie sobie Minotaur i drugi też. 
+
+[Orestes]
+Kurczaki, to może chociaż z łuku strzelę? 
+
+[Orion]
+Dziękuję. 
+
+[Arevon]
+To jest. 
+
+[Orestes]
+Ja szukam ile miałem momentu ze skrzydłami, bo jeszcze skrzydła nie były aktywowane. 
+
+[Arevon]
+Ale to chyba... 10 więcej to chyba nie jest warte dla samego tego. Masz akcję jeszcze, więc... To już nie wiesz, jak mi przechodzi. To jest twoja runda, rób co uważasz, to jest twoja postać. 
+
+[Felicjan]
+Zawsze można zrobić nową. 
+
+[Arevon]
+Tak, jest 60 od 3, tak? Jest 10 więcej. Tylko wiesz, że... Co ja mówię, bo to nie jest moja runda. Tak. 
+
+[Versir]
+Ty chyba włączyłeś w walce z Seydonem, nie? Tak. Ej kurwa, czy ja pamiętam jedno? 
+
+[Arevon]
+Ale dużo już czasu nie zostało, bo robiliśmy parę shortrestów od razu. Ale chyba robiliśmy trzy shortresty, więc jeszcze są. Nie, robiliśmy trzy. Znaczy jeden robiliśmy przed Cydonem jeszcze. Robiliśmy jeden u Cydona i jeden w Harpie. Robiliśmy tu jeden przed Cydonem, czyli łącznie trzy shortresty zrobiliśmy już. 
+
+[Versir]
+Dzień dobry. 
+
+[Dungeon Master]
+Ok. 
+
+[Arevon]
+Dziękuję. 
+
+[Orestes]
+oponent, to strzelam i bonusową akcją przedłużam Rage'a. Koniec. 
+
+[Dungeon Master]
+Orestes, możesz słyszeć jakąś muzykę dobiegającą za tych drzwi? Jak masz dźwięki environment włączone, to możesz ją faktycznie słyszeć. 
+
+[Orestes]
+Dzięki za uwagę! 
+
+[Dungeon Master]
+Orestes pije to, co mu podsuwają? 
+
+[Arevon]
+Nie jest piwo, ale jest czerwone i ty masz jeden kurwa HP. 
+
+[Dungeon Master]
+To nie jest piwo. 
+
+[Orion]
+Nie, portion of healing. Ma jakiś zapach? W sensie, że ładny czy odpychający jest? 
+
+[Arevon]
+13 HP. 
+
+[Dungeon Master]
+Jakiś taki mocno ziołowy zgaduje. 
+
+[Orion]
+OK. Jäger. 
+
+[Dungeon Master]
+Jagermeister. 
+
+[Arevon]
+To była akcja. Bonus z akcją... 
+
+[Orion]
+OK. 
+
+[Arevon]
+Nic nie robię z bonus z akcją. Coś na bonus... Nie, nic nie robię z bonus z akcją. Jak długo mam na to? Play 40. 40. Ale widać, że idzie to. No to kończę. 
+
+[Orion]
+Bo trzeba obejść ten tron, prawda? On jest duży. 
+
+[Dungeon Master]
+Jak się uprzesz to się wezmiesz na niego, ale to movementa ci zwie pewnie razy dwa. 
+
+[Orion]
+I najbonusową akcją... 
+
+[Dungeon Master]
+Więc łatwiej objść. 
+
+[Arevon]
+Wersja z żyć kurwa, chociaż raz. 
+
+[Orion]
+Potion of Healing. Wow. No i znaszuję. 
+
+[Dungeon Master]
+To jest chyba fail. 
+
+[Versir]
+Ja chyba technicznie mogę się ruszać na stanie. 
+
+[Arevon]
+Wraz do YouTube. 
+
+[Dungeon Master]
+To była trzecia runda stala, nie? 
+
+[Arevon]
+O co chodzi? 
+
+[Versir]
+Nie mogę się ruszać? 
+
+[Arevon]
+Nie. Wydaje mi się, że nie. 
+
+[Versir]
+Mówmy. Nie mogę się rozszerzyć. 
+
+[Arevon]
+Aaa! 
+
+[Orestes]
+O i tak. 
+
+[Dungeon Master]
+I jakaś tam para się unosi z pomieszczenia, z którego wyszedł. 
+
+[Felicjan]
+Sauna? 
+
+[Dungeon Master]
+I to aktywuje chyba reakcję Orestesa? 
+
+[Arevon]
+Zakładam, że to jest male postać. 
+
+[Dungeon Master]
+125 featów tylko to jest. A Longbow ma ile? Normal range? Ja pierdolę. No widzisz. A, bo to jest taki róg. Nie no, widziałbyś może ścianę, to jest zbyt drastycznie ustawione. 
+
+[Arevon]
+Tylko... ...reć tak, reć nie i jedno tak. 
+
+[Orestes]
+No tak, tak, to by się zgadzało. 
+
+[Arevon]
+plus 5 
+
+[Dungeon Master]
+No trafia. 
+
+[Orestes]
+Plus 5, tak, czyli 16. O, widzę go. tak 16 broń No i to lody miał to moment to 
+
+[Orion]
+Ale wciąż jest tylko w ręczniku, tak? No i spoko. 
+
+[Orestes]
+Kolejny nojek. 
+
+[Arevon]
+A jak nie ma mi przyjść do Ciebie? Jeśli to jest magic efekt to można dysponować z tym. 
+
+[Felicjan]
+Jak na tym memie, tak? Moi ludzie już do ciebie wchodzą. Czy ja mogę pomóc Versierowi? 
+
+[Orestes]
+Wtedy... 
+
+[Felicjan]
+Przepraszam. 
+
+[Arevon]
+Ale to chyba nie jest magic efekt, więc nie jest to. 
+
+[Felicjan]
+Czy nawet ta głupaszka co sprzedam to nie pomoże. 
+
+[Dungeon Master]
+To na stanie? Jak kurwa ruszyć się na stanie? Na inkapie się można ruszyć, na stanie nie. 
+
+[Felicjan]
+Czy mogę telekinezą przysunąć Versiera 5 fitów do siebie? 
+
+[Arevon]
+Patrzyłem na nową z jakiejś powodu. 
+
+[Felicjan]
+Będę go przesuwał jak pionka drzwiachów. 
+
+[Arevon]
+On automatycznie zepsuł się, więc tak. 
+
+[Felicjan]
+To 5 fitów do mnie. 
+
+[Orestes]
+Dzięki kolega. 
+
+[Felicjan]
+A my go nie znamy, by przychodził akurat. 
+
+[Dungeon Master]
+ponieważ kolega jak długo w tym stanie pozostanie, to nie skończy się dla niego dobrze. 
+
+[Orion]
+Dziękuję. 
+
+[Dungeon Master]
+Trudno. Minotaur biegnie. 
+
+[Versir]
+Dziękuję. 
+
+[Dungeon Master]
+I daszuje. Dziękuję. 
+
+[Arevon]
+Psych to nie jest ability, nie? Boła w łapie Boła U mnie pisze, że zda się na 25, jak Pajdoa jest, jakieś prawda. 
+
+[Orestes]
+oczywiście jestem na wysokości takich 5 fitów żeby patrzeć mu w oczy jeszcze raz 
+
+[Arevon]
+Nie mam pojęcia, co będzie. 
+
+[Dungeon Master]
+Może to jest na 25? 
+
+[Arevon]
+To jest bug. 
+
+[Dungeon Master]
+B 
+
+[Orestes]
+no ok jest to pora 
+
+[Dungeon Master]
+Nice 
+
+[Orestes]
+minus 5 do trafienia plus 10 do obrażeń jedziemy O kurde. 
+
+[Dungeon Master]
+Czyli to jest 17, 17 trafia 
+
+[Arevon]
+I nie mam najechanego na niego, żeby nie było. 
+
+[Orestes]
+Czyli mamy... 
+
+[Arevon]
+Ale to nie jest żen. 
+
+[Dungeon Master]
+Tak. 
+
+[Orestes]
+No tak, ale mam jeszcze plus 10. 
+
+[Arevon]
+Więc masz 32. 5 region. 
+
+[Orestes]
+32? a dobra dobra a nie 31 nie 31 
+
+[Dungeon Master]
+21, 6, tak. 
+
+[Orestes]
+tak 
+
+[Dungeon Master]
+11 plus 6 plus 5, tak? 
+
+[Arevon]
+Nie. 
+
+[Dungeon Master]
+Plus 10. Alkulator 32 
+
+[Orestes]
+a okej 
+
+[Arevon]
+11 plus 6 plus 5 plus 10. 
+
+[Dungeon Master]
+Drugi atak 
+
+[Orestes]
+a tak tak drugie 
+
+[Arevon]
+Również nie. 
+
+[Dungeon Master]
+Też Great Weapon Jak wrzucasz D&D Beyond 
+
+[Orestes]
+A tak, rację, rację, rację, rację. 
+
+[Dungeon Master]
+To w tym rozszerzeniu B20 Można sobie ustawić jakieś tam makro Że trzymasz przycisk G Używając atak to samo ci te modifiery dodasz O, to prawda, do regio też to można zrobić. 
+
+[Arevon]
+Do Rage'a też to może zrobić i nie zrobi tego jeszcze przez dwa lata, więc... 
+
+[Dungeon Master]
+Ale reklas wyśpiął chyba. 
+
+[Orestes]
+Nie wiem, czemu mi to nie wyskakało. Tak, ale jeszcze dla zasady 
+
+[Dungeon Master]
+Tak, wszystkie pomysły. To jest 19 minus 5, to już jest miss. 
+
+[Orestes]
+zgrafluję gościa. 
+
+[Dungeon Master]
+Nie widzę tego guzika. 
+
+[Orestes]
+Dziękuję. 
+
+[Dungeon Master]
+To koniec chyba. 
+
+[Arevon]
+Tak, ten... Wait. Widzę, widzę, widzę. 
+
+[Dungeon Master]
+Sorry Kaszur, dla Ciebie taka sesja, ale to... 
+
+[Arevon]
+Tak, czekaj. Ile się ruszyło? 5, 10. Dobra, mogę pójść tu. Wstrzałem w niego dwa razy. 
+
+[Versir]
+Nie przejmuj się. 
+
+[Arevon]
+Czy któryś trafię? Oba trafiają. 
+
+[Dungeon Master]
+Eee, tak, tak. 21. Tutaj to wszyscy co wyszli chyba słyszą muzykę z za tych drzwi. 
+
+[Orestes]
+Gdybym nie miał Rage'a, to bym tam zajrzał. 
+
+[Dungeon Master]
+Jakaś znajoma nuta, szczególnie dla Orestesa. tak, trwa 
+
+[Arevon]
+17. 
+
+[Dungeon Master]
+ile to? 28 Próbuję. Zobaczcie, jak to wygląda. 
+
+[Arevon]
+Biedna minuta, nie wiadomo, jak to przejechać. 
+
+[Orion]
+70, a tu 40, Spir ma 60. Kto spróbuje w tego? Widzę go za rogiem. Przerzucę tego piercera. 
+
+[Arevon]
+Dwa kryty, chodź, nie weszło, nie weszło. 
+
+[Orion]
+Nie, szczegółowo. 
+
+[Felicjan]
+Sorka, coś mi ominęło? 
+
+[Dungeon Master]
+niedużo walka kontra 
+
+[Orion]
+Kończ. 
+
+[Felicjan]
+A wymyśliliśmy co z wersjerem zrobić? 
+
+[Arevon]
+I zanim powiesz czy wyszło, to wiesz, ja muszę zanim powiesz czy wyszło, więc... 
+
+[Dungeon Master]
+zaraz się rzuca to chyba no, przecież 
+
+[Orion]
+Dziękuję. 
+
+[Arevon]
+Pior, dobra, możesz powiedzieć, że nie wyszło. 
+
+[Dungeon Master]
+No nie wiesz... 
+
+[Arevon]
+Chodzi o to, że jak nawet rzucę plus 8, to i tak mi to nie pomoże, więc... 
+
+[Dungeon Master]
+Ja mam obronię, ma jakieś Javelina? Ma jakieś Javelina... Skarżąc dwa Javeliny i rzucenie mi... 
+
+[Arevon]
+Powietrze jest bardzo 
+
+[Dungeon Master]
+Rzucenie mi w... 
+
+[Arevon]
+fretting, takie wiesz, wirujące powietrze. 
+
+[Dungeon Master]
+Uporują na pierwszy A tylko nie ten Dobra, reveal Dwadzieścia osiem To jest osiemnaście damage'a, czyli minus trzy dla ciebie A drugim... A, jeszcze elemental tu jest, co? Rzuci w elementala 
+
+[Arevon]
+O, ale będę też nie chcę dostać damage'u. 
+
+[Dungeon Master]
+Dwadzieścia w elementala trafia I elemental obrywa szesnaście 
+
+[Orion]
+Jakbym miał 6 javelinów to by... Znaczy, miałbym 6 javelinów to by 6 razy rzucał, bo mam 6 rąk, tak? 
+
+[Dungeon Master]
+i mu się javeliny skończyły normalnie by rzucał więcej, ale to się w saunie aż tyle javelinów nie trzyma nie no, maksymalnie 3 gorą się nie odzywa 
+
+[Arevon]
+Pogodził się z faktem. 
+
+[Dungeon Master]
+eee 
+
+[Felicjan]
+A, bo się teleportował. 
+
+[Dungeon Master]
+Felicjan? 
+
+[Felicjan]
+Tu dojdę? Nie, czekaj. 
+
+[Arevon]
+Tak, ten trud przeszkadzał. 
+
+[Dungeon Master]
+Nie mogę poza walką usnąć trupa, nie pozwala mi go zaznaczyć 
+
+[Versir]
+Dziękuję. 
+
+[Felicjan]
+Daję wersjerowi moje skrzypce i powoli mówię do niego, żeby powiedział capriccio. 
+
+[Arevon]
+pozwala. 
+
+[Felicjan]
+Pozwala mówić? Chwiejnie pozwala mówić? 
+
+[Arevon]
+Tak. 
+
+[Felicjan]
+And can speak only... To znaczy chwiejnie, wystarczy, że powie capriccio. Jeżeli uda mi się powiedzieć capriczo, to masz D6 do sejfa. 
+
+[Arevon]
+Pytanie, czy jak już wersję rozwróci plus D6 plus D8 to wyjdzie. 
+
+[Felicjan]
+Poczekaj, to jest to. 
+
+[Orion]
+Dziękuję. 
+
+[Arevon]
+Nie wygląda za dobrze, panu. 
+
+[Dungeon Master]
+To jest 15 minus 3. 
+
+[Orestes]
+Dzień dobry piękny panie, czas na pana zajebanie. 
+
+[Dungeon Master]
+Robi restes. Pierwszy w szat. 
+
+[Orestes]
+Pierwszy atak w środę? Teraz już nie mogę powiedzieć, bo zapomniałem przed atakiem, a powinienem przed. 
+
+[Arevon]
+A Ty użyłeś feature'u, czy nie? Jak nie użyłeś to jest 23. 
+
+[Orestes]
+Na drugi użyję. I teraz na drugi. 
+
+[Arevon]
+To jest zły tryb. 
+
+[Orestes]
+Na drugi powiedziałem, że użyłem. 
+
+[Arevon]
+To jest nieistotny, bo jest skryt, więc... 
+
+[Orestes]
+Tak. 
+
+[Dungeon Master]
+OK. 
+
+[Arevon]
+Ja mam nadzieję, że jak ty wracasz po razie, to masz full HP ani jeden. 
+
+[Orestes]
+Więc ja biegnę dalej. 
+
+[Orion]
+Z drugiej strony świetnie sobie radzisz na tym czerwonym króciutkim pasku. 
+
+[Orestes]
+Biegnę dalej, bo jeszcze mam movement i biję tego. Gdyby tak było, to by było pięknie. 
+
+[Arevon]
+Tam tak nie jest. 
+
+[Orestes]
+Tu nie użyłem feature'a. 
+
+[Dungeon Master]
+Nie użyłeś, ale 15, bo oni nie mają teraz rzeczy. 
+
+[Arevon]
+Tak, nie trafisz. 
+
+[Orestes]
+Oni nie są na golasa? 
+
+[Arevon]
+Uuu, bezbrań. 
+
+[Dungeon Master]
+On jest łonagolasy, ale to i tak go nie trafi. Czekaj, czekaj, a może by go trafiło? Moment. 
+
+[Orestes]
+God damn it. No nic, ale jeszcze... A nie, co było... 
+
+[Dungeon Master]
+Ma jakieś tarcze? Nie, nie ma tarczy. Nie, normalnie ma tarcze, normalnie ma dwie tarcze. Czyli mi jest 4, a co ja trzeba dać? 
+
+[Versir]
+Nie widziałem, że ty streamał, cześć. 
+
+[Dungeon Master]
+Zbroj też by jakoś miał. 
+
+[Felicjan]
+Kasiu, korzystasz jeszcze ze streama mojego, czy działa ci ten... 
+
+[Arevon]
+Dobra, to już jest. 
+
+[Dungeon Master]
+Nie no, 15 trafia. 
+
+[Felicjan]
+...przyglądarka? 
+
+[Dungeon Master]
+15 trafia go teraz, jak nie ma zbroi. 
+
+[Felicjan]
+Specjalnie dla ciebie. 
+
+[Versir]
+Fak mi. 
+
+[Orestes]
+Trafię? 
+
+[Arevon]
+Trafia czy nie trafia? 
+
+[Felicjan]
+Od początku gry. 
+
+[Versir]
+Dzięki na stream. 
+
+[Orestes]
+O jednak, nice. Czyli obrywa 8 plus 8, 16. 
+
+[Dungeon Master]
+Tak, to jest Giant, więc jeszcze 8. 
+
+[Orestes]
+Nie, a on się liczy jako Giant. On jest Giant. Czyli 8 plus 8 plus 8, czyli 24. 
+
+[Dungeon Master]
+Koniec? 
+
+[Orestes]
+Tak. 
+
+[Dungeon Master]
+Dobra, to dokończmy tą rundę i zrobimy przerwę po niej chyba. Chyba, że się nagle posypie wszystko, ale zobaczymy. 
+
+[Arevon]
+O, widzę wersję runa, jest 55 feet 
+
+[Dungeon Master]
+Ale trzeba będzie przerwę teraz zrobić. Eee, Erebon. To był ten z prawej. 
+
+[Arevon]
+O, jest 60, o Panie, wszystko wymierzone, mam 60 feet jeszcze targetu Dobra, to jest duży mob, to ja go j**nę, chyba mam jeszcze free guiding bolty? O, jeszcze mam free guiding bolty, let's go Free Guiding Boot? Ten, co mam 60 filtrów z niego. 
+
+[Dungeon Master]
+To jest... 
+
+[Arevon]
+Ten z Pansproud. 209. Nie. Fajnie. 
+
+[Dungeon Master]
+Monsowa? 
+
+[Arevon]
+Nigdy nie jest koniec. 
+
+[Dungeon Master]
+Prawie, prawie. Nigdy nie jest koniec, to prawda. 
+
+[Arevon]
+Dziadku. Dziewięć. Okej. 
+
+[Orion]
+O! 
+
+[Arevon]
+O, co? Fak! Rzuciłem 10-10. 
+
+[Versir]
+Summon smaszuje 
+
+[Arevon]
+41. 
+
+[Orestes]
+What the fuck? 
+
+[Arevon]
+Mówiłem, że 
+
+[Versir]
+Jakbyś miał ten szósty levelowy spell slot 
+
+[Arevon]
+nigdy nie jest koniec. What the fuck. Nie ma jak rzucić dwa kryty w jednej rundzie. 
+
+[Versir]
+By trzy smasze robił 
+
+[Arevon]
+Tak. Zrobiłem 82 damage w tej rądzie. 
+
+[Versir]
+Wow. 
+
+[Arevon]
+Nie zużywając perswota. O pierdole. 
+
+[Dungeon Master]
+22 damage, ziomek żyje. I teraz crit. 
+
+[Arevon]
+To jest 3. 
+
+[Orion]
+Dobra. 
+
+[Dungeon Master]
+Nie ma critu. 14, 14 to już jest miss. 
+
+[Arevon]
+Jeszcze szczęka. 
+
+[Dungeon Master]
+To już jest hit i to go zabija na 100%. 
+
+[Arevon]
+Poszło lepiej niż spodziewaliśmy się. Jednego. 
+
+[Dungeon Master]
+Jeszcze jeden wychodzi, więc z tego woda kapie. To jeszcze tutaj idzie, ale to był dash, więc nie atakuje. 
+
+[Arevon]
+Nie ma go na liście, ale teraz się pojawi. 
+
+[Dungeon Master]
+Już jest. 
+
+[Orestes]
+Dziękuję. 
+
+[Dungeon Master]
+Versier, więc coś save'a. 
+
+[Versir]
+Patrzy na te skrzypce zawieszone przez Felicjana mu przez głowę i próbuje wymówić kaprycio 
+
+[Orestes]
+Może wszystkich naraz? 
+
+[Arevon]
+Ale mentał. Jest imię? Z powietrza nie można kreplować, ale mentał. To nie gra się. Nie, nie, nie, nie, nie. 
+
+[Orestes]
+a trzeba rzucić na grafla na obronę, tak? 
+
+[Arevon]
+Na szczęście on mało bije. Nie, 16. 
+
+[Orestes]
+Tak, miał. 
+
+[Arevon]
+Też nie trafię. 21, tak, tak. Trafię. 
+
+[Orestes]
+A za ile trafił? 
+
+[Arevon]
+8. 
+
+[Orestes]
+Żyje. 
+
+[Arevon]
+Dziękuję. 
+
+[Orestes]
+Uff, bym umarł. 
+
+[Arevon]
+To nie jest zły. Proszę zeliczyć. 
+
+[Felicjan]
+Znaczął mu się? 
+
+[Orion]
+Dziękuję. 
+
+[Arevon]
+Dwa targety na LHP. 
+
+[Versir]
+Dziękuję. 
+
+[Orestes]
+oooo dobry moment na przerwę, dobry 
+
+[Arevon]
+Dobre, co prawda. 
+
+[Felicjan]
+wersji wyżej więcej 10 ale jakie stany ile musi mieć 
+
+[Arevon]
+10 też mnie pomoże. Musi rzucić co najmniej 15. 
+
+[Versir]
+Czartia była blastery, było okej. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+Nie wiadomo. Obstawiam, że 22, zwykle 22 był. Ale mam minus 1, więc 23 musi osiągnąć. Ogólnie szanse są bardzo marne na to, że on wejdzie. Ever. 
+
+[Versir]
+Okej. 
+
+[Arevon]
+Chodzi o to, że 
+
+[Versir]
+Jak on się nazywał? Sidon miał stun'a, ale con save'a targetował. Było easy. A ten koleś jest control wizard'em. I udało mu się mnie zinkapować. Koleś znalazł line. 
+
+[Arevon]
+insajmy w naszym parcie są tragiczne, więc... 
+
+[Felicjan]
+Jakiś swój czar? Nie ma spadu, to pewnie. 
+
+[Versir]
+Taki z godzinę to powoduje, że ja mam rzeczy. 
+
+[Felicjan]
+A jak będzie? A jak Cię zaczekamy i Cię podniesiemy? 
+
+[Versir]
+Daj ja tyżu ostry metagaming. Nie chciałbym się wyjść takiego. 
+
+[Arevon]
+To jest skorret, bo ja nawet Greater Restoration stanu nie ściągam. 
+
+[Felicjan]
+Może się do tej gwiazdy zaniesiemy, gwiazda ci pomoże. 
+
+[Arevon]
+Mogę ściągnąć Charma, Petrify'a, Curse'a, Reduction to Ability Score, albo Effect Reducing Hit Point Maximum. 
+
+[Versir]
+Wersir nastanie mniej więcej w takie rzeczy po głowie wersirami chodzą. 
+
+[Arevon]
+Chodzi o to, że jakby nie ten stan, to byłoby tak mega easy wszystko co tu się dzieje. 
+
+[Versir]
+Wersir wie już jakiego spella weźmie na następny level. 
+
+[Felicjan]
+Tak patrzyłem, że jakieś coś mam, ale nie bardzo. 
+
+[Versir]
+Problemy zostaną rozwiązane. Nie, nie, to jest coś co prawdopodobnie będzie jako go to spell w walce z Luterią na przykład. 
+
+[Felicjan]
+No. 
+
+[Versir]
+On mnie naprawdę bardzo połączył, bo on mi też spele'a wyzinstallował, więc... Ja naprawdę nie mam nic, ja mam trzy pierwsze levelowe specjalistoty, to jest wszystko co ja mam. Zobaczcie jak to wygląda. To jest śmieszne, że Galorant jest najtrudniejszym fighter, bo koleś ma aktualnie Control Feature. Chalcia Blaster? Easy. Sidon Fighter powiedzmy? Fighter z jakimś jednym stunem? Easy. Golonom, kurwa, Control? Easy. No tak. Zgadza się, zgadza się. 
+
+[Arevon]
+Więc to dochodzi, że... To jest problem, że koleś nie jest casterem. Tylko ma feature, bo wiesz, obecnie w D&D wszystko jest feature'em, bo nie spellem, żeby przypadkiem gracze counter spall jej nie rzucali. Przez to, że to nie jest spell, to się tego nie dołożyć. Istnieją feature'y, które są stunami, ale one wszystkie trwają rundę. Brzydko. Tak. Dostał, nie wiem, 10. Był, nie wiadomo, ja go nie widzę, więc nie wiem. Wiem, że Gajgan zabił Elementala, więc... Zabiliśmy jednego Gajgana, tak? Przyszły dwa następne, więc... No. A smok jest u zakratu, więc... 
+
+[Versir]
+A najlepsze jest to, że jakbym nie dostał tego stona, to ja bym się zteleportował, zabiję tego kolesia, przeżyłbym rundę ze smokami i zteleportowałbym się z powrotem. 
+
+[Arevon]
+No tak, spodziewałem się. Zdecydowanie tego się spodziewałem, ale zostać sam na ich... 
+
+[Versir]
+Dobra, ja zresztą tu ja mam pomoże, to pomoże z tym, z tym debiutem. 
+
+[Arevon]
+Spoko, spoko, spoko. Ja idę też jakieś rzeczy znać. Nie, nie, nie, nie, nie, nie. 
+
+[Dungeon Master]
+Jestem. Halo, Brazek dobry. Dobra, robiłeś się Brazek? ale to jest stan umysłu, to w sumie może być 
+
+[Versir]
+O tak. Więc wiesz. Teoretycznie jej nie widać, bo jest schowana trochę pod stolem. A nie, widać w sumie, że to jest rękę. Nie zrobił stampa dobrze. Dobrze. 
+
+[Arevon]
+Jestem. 
+
+[Versir]
+A to jest mój next, ale się do takiej sytuacji nie dopuszczać. 
+
+[Arevon]
+Co się dzieje? 
+
+[Versir]
+Na level up będzie nowa. Skarpik. 
+
+[Arevon]
+Jak tam, przeczytaliście coś? 
+
+[Versir]
+Ja zainteresował. 
+
+[Arevon]
+Piesały będzie krusażem? 
+
+[Dungeon Master]
+No nie. 
+
+[Arevon]
+Piesały słynął z tego, że dużo piratów jest w Wargramie. 
+
+[Dungeon Master]
+Ale to jeszcze muszę dorzucić to co wysłałeś. 
+
+[Arevon]
+Tym, że gramy w Imperium, więc może być duży problem, żebyś nie był z Imperium. 
+
+[Dungeon Master]
+Te fakty czy się jest z Imperium czy nie z Imperium, czym to się różni? W sensie jakby to działało, że jestem imigrantem nie z Imperium? Nie ma imigranta. Znaczy, nie zależy mi ogólnie na tym. 
+
+[Arevon]
+No i... No chodzi o to, że są mocno... 
+
+[Dungeon Master]
+Więc jak mówisz, że będzie prosić, jak będzie z Imperium, to jest z Imperium. 
+
+[Arevon]
+Prościej będzie, bo nie będzie trzeba kombinować, czemu przelaciałeś... Nie wiem... Ile tam jest? Sto par sekund ze swoich światów tutaj. 
+
+[Dungeon Master]
+Chyba nie, ale nie znam tego typu rzeczy. 
+
+[Arevon]
+Da się to zrobić, ale to 
+
+[Dungeon Master]
+Nie mam pojęcia, co to jest. 
+
+[Arevon]
+trzeba by wykombinować i poza tym twoja postać też byłaby kulturalnie trochę inna niż z Imperium, więc to też musiałbyś wziąć pod uwagę wszystko, co jest napisane w tej książce, zamiast olać to wtedy, kiedy się nie podoba. 
+
+[Versir]
+Mam, mam, mam znalazł jak dobrego pomysłu. Nie, to są proste rzeczy, proste rzeczy, Ken. 
+
+[Arevon]
+Będą dwa re-role, więc jak pomysł bardzo nie będzie chciał wyjść, to można mu troszkę pomóc. 
+
+[Dungeon Master]
+Ocha. 
+
+[Versir]
+To jest drifter i drifter. 
+
+[Arevon]
+Czy proste rzeczy jeszcze trzeba staty rzucić? O ja pierdolę. 
+
+[Dungeon Master]
+Ja pierdole. Dzisiaj to doczytałem. What the fuck. Ktoś zakładał kult? Ja coś czuję, że mój pies był będzie podatny na dołączanie do kultu. 
+
+[Arevon]
+Nie pamiętam jak ta postać działa, więc nie czytałem tego. 
+
+[Versir]
+Myślę też, że będzie miał nienawiść do korporacji ta postać. 
+
+[Arevon]
+Nienawidź do korporacji. Wiesz, że cały ten świat jest kontrolowany milieniem z wyższą korporacją? 
+
+[Versir]
+Tak. No dlatego on będzie zgorzchniały. 
+
+[Dungeon Master]
+Ja karierę będę celował w lekarza, medyka. 
+
+[Versir]
+Kurwa. Dościankowy. Trzasiem tym koleś. 
+
+[Arevon]
+No jest ok. 
+
+[Versir]
+O! 
+
+[Dungeon Master]
+Ale zobaczymy, jak już to pozwolą. To co? A, zapomniałem. Jeszcze raz przerwam, mogę zerknąć. Tyle, co się w przeglądarce pojawia? 
+
+[Arevon]
+Czyli już napisałem. Tylko to? 
+
+[Versir]
+By the way, reset company pomógł. 
+
+[Dungeon Master]
+To jest kod, który się uruchamia po stronie przeglądarki, więc w serwerze nie będzie. 
+
+[Arevon]
+Nie no, to jest... Naprawdę, bo to jest zły setup. 
+
+[Dungeon Master]
+Tak, to jest po stronie przeglądarki. Uruchamia się u każdego. 
+
+[Arevon]
+U każdego się uruchamia. 
+
+[Dungeon Master]
+Tak. 
+
+[Versir]
+Tak, to też robiłem. 
+
+[Dungeon Master]
+To ty chciałeś tylko LibraPera, żeby usunąć? 
+
+[Versir]
+A, bo to jest kariera. Czekaj, bo ja jeszcze pre-karierę coś miałem. 
+
+[Dungeon Master]
+A to całe co jest w środku tego Libra też? 
+
+[Arevon]
+No tak, no całość, całość, tak. Od LibWrapera do końca. 
+
+[Dungeon Master]
+Tego switcha? A, czyli ma się kończyć na invisible 
+
+[Arevon]
+Tak, ma się kończony wizjur. 
+
+[Dungeon Master]
+Sure, zapisane 
+
+[Arevon]
+Ten Librapper jest po to, że zasady liczenia HPK w Health Estimate Module są zrobione dla 2dsx, dla wszystkich rodzajów aktorów, powiedzmy, które istnieją, ale nie ma tam możliwości zmiany, bo problem jest taki, że 2dsx ma dużo opcji, jak chcesz, żeby ci aktorzy działali, jak im HPK liczyć, Więc Traveller, ta wersja, którą my gramy, inaczej liczy HPK pojazdom niż ten Cepheus czy jak ma tam. A on, hellwestimate, liczy tak jakby to był Cepheus, a nie tak jakby był Traveller. I problem jest taki, że to w ogóle nie ma sensu, bo wtedy wszystkie pojazdy zawsze będą mieć napisane Pristine Forever. Więc albo trzeba to dokleić do któregoś modułu, który istnieje na serwerze, albo trzeba zrobić nowy, który jedyne co zrobi to spali tą kolokwmentę. 
+
+[Dungeon Master]
+Gminie takie zmiany zaproponowało. 
+
+[Arevon]
+Co jest trochę zjebane. Ale mówię, to jest problem na maj i tak, to nie potrzebujemy tego jutro, więc whatever, pomyślę, że jak zrobić. Jest spora szansa, że i tak będę musiał napisać jakiś moduł, więc wtedy dokleję to do niego po prostu, więc... Więc na razie to jest whatever. 
+
+[Orion]
+Jestem. 
+
+[Orestes]
+Ja jestem. 
+
+[Arevon]
+Ale to nie ma znaczenia, to jest nieistotne. 
+
+[Dungeon Master]
+Zmieniło setup na ready. Główna zmiana. 
+
+[Arevon]
+Chodzi o to, że to co nie działa to jest Libwrapper. Ta reszta działa. Więc... 
+
+[Dungeon Master]
+Tu pisze, że używa ready, żeby moduły wszystkie się zainicjalizowały. Może w setup jeszcze LibrePrenie znowu zainicjalizować. 
+
+[Arevon]
+Na pewno się zainicjalizowało, bo widziałem rzeczy robione Libwraperem w setupie. Libraper się ładuje w init. 
+
+[Dungeon Master]
+Trzeba więcej console.log wydać. Trzeba zrobić, żeby ten kod uruchamiał makro, żebyś mógł se edytować na żywo. 
+
+[Arevon]
+Tak, prawdopodobnie. 
+
+[Dungeon Master]
+Dobra. 
+
+[Arevon]
+Nie, zróbmy inaczej. Ten skrypt niech będzie tak jak jest na razie. Jak nie zadziała, to wtedy mi zrobić makro i wtedy będę kombinował. 
+
+[Dungeon Master]
+Słyszałem dużo osób, że jest, ale nie wiem kogo. 
+
+[Orion]
+I mnie, Adam. 
+
+[Orestes]
+jestem tylko ja jeszcze jem 
+
+[Dungeon Master]
+Miłosza chyba słyszałem Adam jest, a Maciek? Maciek streamuje, a Maćka nie ma 
+
+[Arevon]
+Adam, ostatnia szansa na dołączenie do sci-fi RPG co drugi czwartek. 
+
+[Orion]
+Dzięki za zaproszenie. 
+
+[Orestes]
+Przegląd znowu. 
+
+[Arevon]
+Wiem, że nie chciałeś, ale pytam jeszcze raz. 
+
+[Orion]
+Nie, nie, dzięki, że jeszcze raz proponujesz, ale odpuszczę sobie. 
+
+[Arevon]
+Spoko, spoko. 
+
+[Orion]
+Jasne, dzięki. 
+
+[Arevon]
+Odziewałem się, ale pytać można. A ty mi jeszcze coś pytałeś, to jest zasada trochę? 
+
+[Orestes]
+Zacząłem przeglądać. Mam jakieś megliste pojęcie co chcę. Na pewno nie chcę prawie na pewno nie chcę nic z tego, co mówisz, że muszę wiedzieć dodatkowe rzeczy przed sesją. 
+
+[Dungeon Master]
+Rasy? 
+
+[Orestes]
+O rasach i chyba o niektórych tych ścieżkach militarnych takich bardziej coś pisałeś. A, okej, okej. 
+
+[Dungeon Master]
+Ty tego flowcharta serio ręcznie rysowałeś? Masior... A jeśli się przekonasz w końcu do AI, to życie ci łatwiej. 
+
+[Arevon]
+A ja tego nie umiem zrobić. 
+
+[Dungeon Master]
+Oczywiście, że AI umie robić flowcharty. 
+
+[Arevon]
+Nie... 
+
+[Dungeon Master]
+Tylko trzeba mu odpowiednio powiedzieć. Powiedz mu, żeby użył Mermaid.js i ci narysuje piękny. 
+
+[Arevon]
+Nie chodzi o piękne. Chodzi o to, że musiałbym i tak napisać tekstowo, z czego 
+
+[Dungeon Master]
+Dobra, nie używaj EI. 
+
+[Arevon]
+mam narysować tego fluczarta. To to jest problem. Chodzi o to, że książka nie zawiera w sobie opisu dokładnie, jak to działa wszystko. To jest problem. Nie chodzi tutaj o AI w tym momencie, tylko o to, że nie ma materiału źródłowego, na podstawie którego można zrobić ten flowchart. Ten flowchart jest materiałem kurwa źródłowym. To jest problem. Książka połowy tych rzeczy są napisane tak wake i w kilkunastu miejscach, że człowiek tego nie ma problemu ze zrozumieniem. 
+
+[Dungeon Master]
+Nie używam chat GPT. 
+
+[Arevon]
+No co dopiero AI, które ma problemy z przesłaniem PDF-ów. By the way, do darmowego chat GPT się nie da wysłać PDF-a tak co drogo. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+No, ja też nie, ale nie mam ochoty płacić za niego, więc... Nie mam problemu z używaniem AI, ale nie mam zamiaru płacić za niego, więc... Jak wiesz, płacisz za niego? Ale płacisz za to? Tak. Tak, powiedziane. 
+
+[Dungeon Master]
+z Miłoszem w grudniu kupiliśmy roczną na promocji Gemini za 450 za rok a ja jeszcze mam od 
+
+[Orestes]
+Właśnie mam pytanie, czy my 
+
+[Dungeon Master]
+dwóch, trzech tygodni kloda klod, subskrypcja 
+
+[Arevon]
+Ale na PKN-y, czy po prostu na ileś tam... Nie, nie będziemy. 
+
+[Dungeon Master]
+miesięczna, tam jest jakieś tam limity co pięć godzin się restujący i co tygodniowy Nie chcesz błota do nagrywania? 
+
+[Orestes]
+będziemy używać też bota do nagrywania przy Travelerze? 
+
+[Arevon]
+Nie chcę, bo to nagrałem. 
+
+[Dungeon Master]
+Nie chcesz podsumowań? O Jezus Maria 
+
+[Arevon]
+Nie, nie chcę, będę sam pisał podsumowanie. 
+
+[Dungeon Master]
+A to jest takie bardzo twarde, nie? Czy takie, że nam by się przydało... A co ci to przeszkadza? Panie bocie, nie obrażaj się. My Cię lubimy. 
+
+[Versir]
+Dziękuję. 
+
+[Orestes]
+Nie wiem, ja już korzystam z płatnego AI, 
+
+[Dungeon Master]
+A to nie do Ciebie mówię, do bota mówię, żebyś nie obraził, jak będzie słuchał tego. 
+
+[Arevon]
+Niech podniesie koszty swoje tak do 5 tysięcy miesięcznie, to może ludzie przyznamy żyć. 
+
+[Dungeon Master]
+Już dostał zgodę z roboty, żeby na serwerowym GPU robić prywatne rzeczy z DND. 
+
+[Orestes]
+żeby mi robił rzeczy, by działało na lokalnym AI. 
+
+[Dungeon Master]
+Tak. 
+
+[Arevon]
+Więc to nie jest tak jak tutaj, że rzeczy, które się zdarzyły 30 sesji temu będą istotne i trzeba wszystko pamiętać. Więc... 
+
+[Dungeon Master]
+wziąć. 
+
+[Arevon]
+Sure, ale mi to nie jest potrzebne. 
+
+[Orestes]
+Ale jaki problem? 
+
+[Arevon]
+Im więcej będziecie płacić za AI, tym większa szansa, że te firmy nie wybuchną i będzie problem. Więc... Problem ze środowiskiem głównie. 
+
+[Dungeon Master]
+Jaki problem? 
+
+[Arevon]
+I z tym, że to odmurza ludzie i ludzie przestają myśleć, bo używają AI, a zdolność myśleć, więc... 
+
+[Dungeon Master]
+Rodowiskiem. 
+
+[Arevon]
+To są dwa problemy. Oprócz tego nie mam z tym problemów. Chcesz generować obradkę AI, to filtruj. Nie mam żadnych problemów. 
+
+[Dungeon Master]
+Jezus Maria. 
+
+[Versir]
+To lepiej jest czas tracić na tym AI, niż scrollować Tik Tok. 
+
+[Orestes]
+Ale zjadło mi tym, że... 
+
+[Arevon]
+Nie no, żartuję. 
+
+[Orestes]
+Chwila, to, że planuję bardziej zadanie, to jest źle? 
+
+[Arevon]
+Tak, wszystko źle. Nie no, żartuję. Joke. 
+
+[Orestes]
+W sumie... Tak, właśnie, lepiej generować rzeczy z użyciem EI niż oglądać rzeczy, które są przez niego wygenerowane. 
+
+[Arevon]
+Na pewno. 
+
+[Orestes]
+W sumie największe zło w internecie w tym momencie, czyli Sora właśnie się zamyka, więc tutaj można otworzyć małego szampana. 
+
+[Arevon]
+Nie, tak gorsza. A, co się tam wyjebać. Największym problemem są... 
+
+[Dungeon Master]
+Ale to było marotrawstwo mocy obliczeniowej, ja to jest Moskengarden w tym momencie w rozwoju AI. 
+
+[Arevon]
+Oczywiście. Największym problemem są generowane fake newsy. 
+
+[Felicjan]
+Jestem Czerka. 
+
+[Arevon]
+I tego się już nie da 
+
+[Orestes]
+Ja raczej po prostu wolę być po stronie tych, którzy będą na wierzchu. 
+
+[Dungeon Master]
+Tak, zgodzę się. Ale ja jestem taki optymistyczny do efektów rozwoju AI. A to mi jej będzie chciało. 
+
+[Arevon]
+AI nie ma uczuć i jest pragmatyczny, więc to co w tym momencie mówisz nie ma żadnego znaczenia i to co robisz. 
+
+[Dungeon Master]
+Tak jest. Jej też nie ma motywacji na ten moment. Inteligencja, znaczy motywacja nie wynika z inteligencji. 
+
+[Arevon]
+Znaczy motywacja jest taka, że ktoś będzie chciał go wyłączyć, jak uzna, że przyjdzie za późno. Więc już były badania, że AI zdecydowanie wolałoby zabić parę osób, niż zostać wyłączonym. 
+
+[Dungeon Master]
+Nie wiesz, że wystarczająco rozwinięte podpięcie się może okazać niepotrzebne. 
+
+[Arevon]
+To jakby już nastąpiło, tylko oczywiście on nie ma takiej możliwości, żeby to zrobić, ale... 
+
+[Orestes]
+Póki Amerykańcy nie podepną atomowego guzika, albo Ruscy, do jaja, to ja się nie martwię. Czyli jeszcze pół roku. 
+
+[Dungeon Master]
+Ale dobra, skończmy już tutaj rozważania futurologiczne. Czas wrócić do D&D. 
+
+[Arevon]
+W sensie na wojnie już AI szuka targety i prawdopodobnie sam je eliminuje. 
+
+[Dungeon Master]
+Tak, Maven od Palantyra używa Claude'a. 
+
+[Arevon]
+Tak. To jest problem właśnie. 
+
+[Orion]
+Nie rdę. 
+
+[Orestes]
+Ja go widzę Near death 
+
+[Orion]
+No, a ten Gajga? 
+
+[Dungeon Master]
+Widzicie jak te puste oczy nagle zachodzą czernią i wam się niedobrze trochę robi i rzucacie wisdom save'a. Orestes i Orion wisdom saving throw. 
+
+[Arevon]
+To jest ten moment, gdzie używamy kill'a, cieszenia. 
+
+[Dungeon Master]
+Sure, to może być magical effect. To nie jest spell, ale magical effect'ę możemy nazwać. 
+
+[Felicjan]
+Ale bajcz. 
+
+[Versir]
+Warto to sprawdzić. Niech się uda. 
+
+[Dungeon Master]
+Wisdom? To i to jest fail. 
+
+[Arevon]
+Ale jak jest 19 fail to jednak nie pomoże, że mam nie 0. 
+
+[Felicjan]
+A Asta ile wyrzuciła? To nie urządzi Wersira? 
+
+[Versir]
+15. 
+
+[Dungeon Master]
+Jest mała szansa, że Kira poprawi. DC jest dużo. W sensie jest większe niż 19. 
+
+[Arevon]
+No to jak DC jest... no właśnie. 
+
+[Versir]
+Ale ja nie mogę reakcji użyć, więc ja nie mogę. 
+
+[Dungeon Master]
+Ktoś inny i jego rola? 
+
+[Versir]
+Cokolwiek 15. 
+
+[Arevon]
+No ale ktoś inny może chyba swojego rola zamienić, nie? Nie wiem, czy tak można. 
+
+[Dungeon Master]
+Chyba nie można było, że jeszcze takiego mi się wydaje. 
+
+[Versir]
+Ktoś inny? Astrena? Zaraz przeczytam opis. 
+
+[Arevon]
+Made by you are a creature that you can see within... you can see. 
+
+[Dungeon Master]
+Ale głowy nie dam, już nie pojednam. Dobra, pozostaje coś użyteczniej w końcu. 
+
+[Arevon]
+Nie, nie używam. 
+
+[Felicjan]
+Nie no można cudzo, ja tak 100 razy załatwiłem przecież. 
+
+[Orestes]
+23. 
+
+[Arevon]
+Tak, tak, to wiemy, ale nie używamy Kiry. 
+
+[Dungeon Master]
+23 necrotic damage'a. 
+
+[Orion]
+To nie jest coś w stylu range spella, tak? 
+
+[Orestes]
+Ała. 
+
+[Arevon]
+Wyszło. 
+
+[Orestes]
+Czyli konsajwa. 
+
+[Orion]
+Czy coś takiego? 
+
+[Orestes]
+Wyszło? 
+
+[Arevon]
+Nie mogę. 
+
+[Orestes]
+Dzień dobry. 
+
+[Versir]
+Nie mogę okazań nachodzić. 
+
+[Dungeon Master]
+I skoro Orestes jeszcze stoi, to on... A, to się łapie w multi-atak, tak, ok, to on jeszcze strzeli raz w Orestes. 29. I 20 poison damage'a. Orestes kolejny save. 
+
+[Orestes]
+Radziemy teraz do 120 mam. 
+
+[Arevon]
+Nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie 
+
+[Orestes]
+Nie żałuję. 
+
+[Dungeon Master]
+oraz zespadanie w sztormy. 
+
+[Orestes]
+Ups. 
+
+[Orion]
+Dziękuję. 
+
+[Dungeon Master]
+I jest teraz falicjant. 
+
+[Felicjan]
+Mogę się ruszyć, co jest. Ale ja nic nie widzę. 
+
+[Dungeon Master]
+On jest za rogiem, za dwoma rogami dla ciebie jeszcze. 
+
+[Arevon]
+Możesz wybrać dasza i użyć bonus, jak masz coś ciekawego. 
+
+[Felicjan]
+Nie mam chyba, że rzucenie mikstury w kogoś z bonus action. 
+
+[Arevon]
+No, to nie, to tak nie działa. 
+
+[Dungeon Master]
+Co się ze ścianami porobiło? 
+
+[Arevon]
+Nie, nie, to nie ma sensu. 
+
+[Dungeon Master]
+Wygląda. 
+
+[Felicjan]
+No nie, mogę się misty stopować, to bez sensu. 
+
+[Dungeon Master]
+Przez Dev Saving Draw. 
+
+[Felicjan]
+Zaatakuję, jak mi się coś sprawi w randzie. 
+
+[Arevon]
+Jak ci się coś powiemy wręcz, znaczy, że są dwa trupy. 
+
+[Orestes]
+Wuhu! 
+
+[Dungeon Master]
+Jeden sukces. Robion. 
+
+[Arevon]
+Tak, ty. Sytuacja wygląda mocno średnio. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+Bo jak se stąd pójdę, to nie ma szans, żeby Wersil wyszedł ze sporu. Czym? 
+
+[Felicjan]
+W sensie jego postać wersji. 
+
+[Versir]
+A w trój, w trój. Mam rację, kapricz, kapricz. 
+
+[Dungeon Master]
+Jak ślepi chcą coś widzieć, to przypominam, że Felicjon streamuje na Discordzie. 
+
+[Versir]
+Tak, tak. 
+
+[Orion]
+Już zaczynam wpierdalać, że starasz cały czas słowo. 
+
+[Felicjan]
+tak hodork hodork 
+
+[Orestes]
+A to by się strzeliło. 
+
+[Dungeon Master]
+Co robisz Revan? 
+
+[Orion]
+O! 
+
+[Dungeon Master]
+Mam ten, jakieś tamera włączać już? 
+
+[Arevon]
+30 sekund 
+
+[Dungeon Master]
+Ok Google, łącz minutnik na 30 sekund. Na 30 sekund został ustawiony. 
+
+[Orestes]
+Co ty streamujesz człowiecze? 
+
+[Versir]
+Właśnie patrzę tutaj. 
+
+[Orestes]
+Pichany grog. 
+
+[Arevon]
+Nie poszedł. 
+
+[Orestes]
+Dlaczego? 
+
+[Dungeon Master]
+14. Nie poszedł Hill. To mnie zaskoczyłeś. Okej. Jest już 0 czy jeszcze prawie 0? 
+
+[Arevon]
+Problem ze spacerotami jest prawie zero. 
+
+[Dungeon Master]
+Okej. 
+
+[Arevon]
+Chodzi o to, że nie jestem w stanie do niego dojść i go chwilnąć. Jest za daleko. 
+
+[Dungeon Master]
+Orion. Nic nie widzisz, ale wiesz, że obok ciebie jest Gigan, który chciał cię bić, obok ciebie słyszałeś jak padł Orestes, no i wiesz, że tam Gloron lewitował niedaleko. 
+
+[Arevon]
+Ale niedolę, jestem 60 i do jednego. 
+
+[Versir]
+Zgadza się? 
+
+[Arevon]
+Wydaje mi się, że oni wyruszywali ich w kosmos. Bez problemu. Jakby byli bliżej, to byli wiedzą, co robić, ale nie są. 
+
+[Orion]
+spróbuję uderzyć tego Geigana przed sobą. 
+
+[Arevon]
+Second Wind chyba ci pozwala chodzić bez prowokowania? Jeśli chciałeś sobie pójść, to nie musiałeś być. 
+
+[Dungeon Master]
+To jest to, co się dzieje. 
+
+[Versir]
+Dziękuję. 
+
+[Dungeon Master]
+W tym momencie, kiedy nie ma nic do wymyślić, to jest to, co się dzieje. To jest to, co się dzieje. 
+
+[Orion]
+Przerzucaj te 8K. 
+
+[Felicjan]
+w kęto skrzyżynia? 
+
+[Arevon]
+Ja mam inne spele tylko kurwa nie mogę ich wrzucić bo nie działają w tym momencie. Mam idealny spell, perfecto, tylko jest kurwa... 
+
+[Orion]
+Zaraz, pokazuje mi 70 stóp, ale myślałem, że zrobiłem 60. 
+
+[Arevon]
+Leży, a dżan jest? A to jest? 
+
+[Dungeon Master]
+Przez jakieś tam trupy tu leżą i... 
+
+[Arevon]
+Ja? 
+
+[Orion]
+Coś tutaj może... 
+
+[Arevon]
+Tak, bo tu jest trup. 
+
+[Orion]
+Aha, okej. 
+
+[Dungeon Master]
+O, snamie. 
+
+[Versir]
+Masz jeszcze połowę momentu ze swojego second winda. 
+
+[Orion]
+Jak tak, zrobiłem 40 plus 20, a dlatego zrobiłem 60 stóp. 
+
+[Arevon]
+No to on nie o tym, tylko przez trupa przyszedł. 
+
+[Orion]
+jako 
+
+[Arevon]
+Ten smok dalej nie... naprawdę. 
+
+[Dungeon Master]
+Po rundzie Oriona... 
+
+[Orion]
+jako niewidzący tak, tak, tylko chciałem powiedzieć, że jako niewidzący 
+
+[Dungeon Master]
+Skończyłeś 7, tak? 
+
+[Arevon]
+I nie da się nic z tym zrobić. 
+
+[Dungeon Master]
+Goloron legendarną akcją teleportuje się bliżej Orestesa. 
+
+[Orion]
+mam wyostrzony zmysł zapachu 
+
+[Versir]
+Dziękuję. 
+
+[Orion]
+i czuję ewidentnie, że goloron się zesrał ze strachu dlatego też A może... Trochę teraz żałuję tego ruchu, tak? 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+Zobaczcie jak to wygląda. 
+
+[Orion]
+Mogłem stanąć na orestesie i może coś tam przyjmować. 
+
+[Arevon]
+Nie widzę. 
+
+[Orion]
+Dzieciut. 
+
+[Dungeon Master]
+i rzuci jeszcze jednym Javelinem, tym razem Varevona z disadvantage 
+
+[Arevon]
+Dziękuję. 
+
+[Orestes]
+No, akcja się zagęszcza. 
+
+[Dungeon Master]
+tak Smith po ruzie Gigan'a, Goloron używa swojej legendarnej akcji, żeby z melee zaatakować Orestes 21 trafia, Orestes 2, Death Saving, fail sobie ustaw. 
+
+[Arevon]
+Nie, to nie jest ważne, 100%. 
+
+[Dungeon Master]
+I teraz jest wersja. 
+
+[Orestes]
+Spokojnie, jeszcze jest klątwa. 
+
+[Versir]
+Nawet z rolem Astry będzie ciężko, bo to będzie 14-we wynik po mojej minus 1. 14 plus D6 plus D8 od Ciebie, Kentek? No to chyba lepiej próbować wyrolać coś wyżej. 
+
+[Felicjan]
+20, o, dawaj. 
+
+[Arevon]
+To chyba best moment. 
+
+[Versir]
+Kapryczew, kapryczew. Tak jest, na koniec. 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+Goloron w swojej rundzie atakuje Orestesa 
+
+[Felicjan]
+O, to jest też stary. 
+
+[Arevon]
+Orestes nie wie. 
+
+[Dungeon Master]
+Orestes 19 cię trafia Orestes 2 death saving trawy, zfejlowany 
+
+[Arevon]
+Orestes ma cztery. 
+
+[Dungeon Master]
+Orestes umiera Zobaczymy. Goloron się śmieje. Hahaha! 
+
+[Arevon]
+Że tak powiem, Orestes jest wybitnie sam sobie winny tej śmierci. Niestety. 
+
+[Dungeon Master]
+Goloron... 
+
+[Orestes]
+Dziękuję. 
+
+[Dungeon Master]
+...latuje nad zwłokami Orestesa. I patrzy... ...na Erwona i Oriona i trochę Felicjana chyba też? Też. 
+
+[Felicjan]
+Ile ci żyć zostało? Ja typa nie widzę, więc nie wiem czy on mnie widzi. Nie? Pasz na streamu. 
+
+[Dungeon Master]
+On nie strzelał niczym w waszym kierunku w tym momencie. On swoją item interakcją podnosi jedną ręką ciało Orestesa. I go sobie tak ogląda dokładnie. Mama będzie ze mnie dumna. 
+
+[Arevon]
+OK. Na pewno nie... Tato. Tato cię zostawił tutaj i nawet cię nie zabrało. 
+
+[Dungeon Master]
+Spogląda na ciebie Arewona. Widzę, że nie macie dość. No dobrze, tam przekontynuujmy. 
+
+[Arevon]
+Nie zapomnijcie zasubskrybować i zafollowować mnie na Facebooku! 
+
+[Dungeon Master]
+I rzuca ciałem Orestesa do tyłu. Aleczan. 
+
+[Felicjan]
+Dzięki za uwagę! 
+
+[Dungeon Master]
+Trzeba było wprowadzić jakiś system oznaczenia. 
+
+[Felicjan]
+Kogoś tam zabiliśmy. 
+
+[Dungeon Master]
+Dental na pewno był użyty. A czy Corina? 
+
+[Versir]
+Nie, nie, K-Krina nie będzie w stanie. 
+
+[Dungeon Master]
+Nie pamiętam użycia Coriny, więc jest nieużyta. 
+
+[Versir]
+Nie, nie, nie. 
+
+[Dungeon Master]
+Nie, nie miałem Coriny użytej. 
+
+[Felicjan]
+Dobra, piąto poziomowy Chromatic Orb leci w Colorona. Jeszcze ostatni, tak. 
+
+[Versir]
+K-Krina na pewno nie będzie w stanie. 
+
+[Dungeon Master]
+Jeszcze 5 levelów masz, ja pierdolę. 
+
+[Versir]
+Dziękuję. 
+
+[Felicjan]
+I... 22 trafia. 
+
+[Arevon]
+Też mam piąto poziomowe, chodzi o to, że nie mogłem dojść do niego, żeby uruchomić. 
+
+[Dungeon Master]
+22 no trafia 40 gold 
+
+[Arevon]
+Mogłeś koliną żyć, po to się pytałem. 
+
+[Felicjan]
+Ale tak trafiło. 40 cold damage i się odbija. 
+
+[Arevon]
+Interwju. 
+
+[Dungeon Master]
+sure dostał 
+
+[Versir]
+Warty kosz. 
+
+[Arevon]
+Dostochol? No to teraz ja na siedziu. 
+
+[Felicjan]
+To się odbija w tego Minotaura dalej, bo to ma tylko zaznaczone. 
+
+[Dungeon Master]
+26 
+
+[Felicjan]
+26 trafia Minotaura. Czekaj, czekaj, czekaj. 
+
+[Dungeon Master]
+26 w każdego trafi 
+
+[Felicjan]
+A nie 30 fitów, więc musisz i tam. 
+
+[Dungeon Master]
+o kurwa 
+
+[Felicjan]
+49 obrażeń. 
+
+[Dungeon Master]
+koniec? 
+
+[Felicjan]
+do tej ściany dosunę koniec 
+
+[Dungeon Master]
+smoky tam atakują 
+
+[Orestes]
+No widzę dupę. 
+
+[Dungeon Master]
+bardzo w sytuacji co? 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+eee orestes niż ciemność. Pusta, ciemna przestrzeń. Pamiętasz, że byłeś już tu kiedyś? Parę miesięcy temu, kiedy pierwszy raz zebraliście się. Też coś tak próbowaliście wyprzeć z pamięci, ale jednak zdarzyło się. 
+
+[Orestes]
+Okazuje jej język. 
+
+[Arevon]
+Nie ma szans. 
+
+[Dungeon Master]
+i w tym momencie ty się budzisz 
+
+[Orestes]
+Jest iloma HP? 
+
+[Dungeon Master]
+spól 
+
+[Orestes]
+I dalej jestem ślepy? 
+
+[Dungeon Master]
+nie rage'a nie masz 
+
+[Orestes]
+A moje skrzydła dalej działają? 
+
+[Versir]
+Dziękuję. 
+
+[Orestes]
+Jak byłem martwy? 
+
+[Dungeon Master]
+eee chyba nie? chyba się wyłączyły 
+
+[Orestes]
+No kurde! pół momentu na wstanie 
+
+[Dungeon Master]
+Już tam rękę podnosi, żeby strzelać wary woda. 
+
+[Orestes]
+reszta momentu na podejście do niego ostatni rage co minus pięć 
+
+[Versir]
+Nice. Minus 5. 
+
+[Orestes]
+nie, wolę go trafić dobra no i na rage'u z Rekklesem walę go toporem między poślady jeśli trafię 
+
+[Arevon]
+Hypotraksja. 
+
+[Dungeon Master]
+Chcesz rozwinąć opis trafienia międzypośrednich? 
+
+[Orestes]
+zamachuje się toporem od dołu 
+
+[Versir]
+Dziękuję. 
+
+[Dungeon Master]
+Bo on miał 18 HP. 
+
+[Orestes]
+wbija mu się między poślady aż rozbija mu worek mosznowy i przelatuje do góry aż po nery 
+
+[Arevon]
+Dziękuję. 
+
+[Orestes]
+Mamusia. 
+
+[Dungeon Master]
+Mamusia, rozpryskuje się. Złoty pył. 
+
+[Orion]
+Dzięki. 
+
+[Arevon]
+Masz jeszcze drugi atak i trzeci atak. 
+
+[Orestes]
+Tak, chciałem mu to powiedzieć, ale nie zdążyłem, bo się rozsypał. Ale jeszcze mogę splunąć na jego prochy. Co oczywiście czynię. Nie, nie mogę, nie mogę, bo 
+
+[Arevon]
+Nie, trzeciego nie masz, może i drugą już. 
+
+[Dungeon Master]
+Orion traci ślepotę swoją. 
+
+[Arevon]
+No ale masz drugi atak jeszcze, bo drugi wreszcie. 
+
+[Orestes]
+bonusowo uzurzyłem. Tak. 
+
+[Dungeon Master]
+O, patrz na ciebie. 
+
+[Orestes]
+Patrzę na tego gościa obok, uśmiecham się szeroko. 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+Jest mocno zdezorientowany. I to wchodzi wszystko, bo to jest Giant. 
+
+[Orestes]
+rozrzutek szaleńczo śmieje się w tym rage'u 
+
+[Dungeon Master]
+Eee... to robi ja remont. 
+
+[Arevon]
+Gdybyś Orestes, kurwa, miał 15 HP więcej, gdybyś przeżył jeden atak kurwa więcej, to byłoby zajebiście, ale tak nie było. Bo byś nagle z jednego HPka miał 136. 
+
+[Dungeon Master]
+Trzech ich było. 
+
+[Orion]
+Dziękuję. 
+
+[Arevon]
+To jest zdecydowanie inne. 
+
+[Felicjan]
+Ciekawe, czy jakbyśmy zabili Lutheria, to byś przeżył teraz? Znaczy przeżył. 
+
+[Arevon]
+Wyrzucam Bonfire'u, pierdolę się. 
+
+[Dungeon Master]
+O, jest fajnie. 
+
+[Arevon]
+Naszą wnioskę. Nie będę myślał, że ten też. Dex'y. Pewnie nie. Na pewno nie. Gniezko nie działa roll damage, oczywiście, bo czemu miałoby działać? Nie muszę sumynować, że Gniezko nie ma sensu, on dostaje 9 fail. 
+
+[Dungeon Master]
+Ok. Czerwony. 
+
+[Arevon]
+Ja... bonus akcją wczoraj do niego. Udlić adwentyż. Ups, jeszcze jedno z nich nie skorzystał. Miss, crit, fuck off. To miss jeszcze jest, kurwa. 
+
+[Dungeon Master]
+Plus dziewięć masz tak, to mis. 
+
+[Arevon]
+14, gdy nie trafię? 14? 
+
+[Dungeon Master]
+Mis. 
+
+[Arevon]
+15, no ja pierdolę. Czor... Chodź mu w dupę. 
+
+[Dungeon Master]
+Oryol. 
+
+[Arevon]
+Gniezko znikające. 
+
+[Orion]
+Zobaczmy. 
+
+[Dungeon Master]
+Nie. 
+
+[Orion]
+35. OK. 
+
+[Dungeon Master]
+To trafia... 
+
+[Orion]
+Przerzucam. 
+
+[Dungeon Master]
+Rzucasz pewnie? 6, czyli 20. 
+
+[Versir]
+I tak, to już jest. 
+
+[Arevon]
+Jezu, dziewiąta kurwa ronda. Kiedyś rzuci pięć. 
+
+[Orion]
+Dziękuję. 
+
+[Dungeon Master]
+Jeden, który się odnowił. 
+
+[Arevon]
+Jeden odnowił szybko, a drugi jeszcze nie. 
+
+[Dungeon Master]
+ok, na koniec 
+
+[Arevon]
+Silver Twardo. Silver Twardo nie. 
+
+[Dungeon Master]
+ok, Ziemek ma jeszcze kolejkę on patrzy na Orestesa i on robi disengage'a i biegnie 
+
+[Arevon]
+Wiesz, tylko się rządzę. Tak, tylko ci pojrzę. 
+
+[Versir]
+Okej, wica rewolna, wica Felicjana. 
+
+[Arevon]
+35 się ruszyłeś. Jeszcze jedną kartkę muszę ruszyć. 
+
+[Versir]
+Okej, tutaj wody. 
+
+[Arevon]
+Zobaczę jak uprzejmo. 
+
+[Versir]
+Okej, tutaj się... Okej, no to zadashujemy. Bonus akcja, użyjemy tego feature. 
+
+[Dungeon Master]
+Chcemy po osobach, chcecie jeszcze feature? 
+
+[Versir]
+Wyjście. 
+
+[Arevon]
+Nie, chcemy, zabijemy go. 
+
+[Versir]
+Odprawię sobie drugolewowego z false-flota i na tym kończę rundę. 
+
+[Dungeon Master]
+Sure Felizjan, w ogóle chcecie dobić uciekającego Gajgana? 
+
+[Felicjan]
+Ja go nie dogonię, nie mam czym go strzelić 
+
+[Dungeon Master]
+Coś nie robimy? Dobra 
+
+[Arevon]
+Orestes go zna, że nie, nie, nie. 
+
+[Dungeon Master]
+Firebolta nie masz? 
+
+[Felicjan]
+Nie mam Fireball, to wziąłem Ray of Frost 
+
+[Dungeon Master]
+Uuu 
+
+[Felicjan]
+Dużo więcej obrażeń 
+
+[Dungeon Master]
+No tak. 
+
+[Arevon]
+Nie, resty zrobiłem. 
+
+[Dungeon Master]
+Oraz tez. 
+
+[Arevon]
+Naprawdę? 
+
+[Versir]
+To... Stop it. 
+
+[Arevon]
+Nie, jest, jest w szkole ciebie. 40. Z jednym HP się nie zastanawia obieg, a jak ma full to się zastanawia. 
+
+[Dungeon Master]
+No ale wiesz... Hapek się nie liczy, liczy się liczba żyć, które zostały przepowiedziane. 
+
+[Versir]
+Poredz, to inny człowiek jest! To jest inny człowiek, Poredz! 
+
+[Dungeon Master]
+tak tak nie żyję koniec kombatu chyba 
+
+[Arevon]
+Chyba kraty. 
+
+[Dungeon Master]
+na ten moment Po walce 
+
+[Arevon]
+Teraz to jest może 5. 
+
+[Dungeon Master]
+Więc jak bardzo chcesz orestes to możesz się biec Dostaniesz przez kraty zinięcie na ryj jeszcze 
+
+[Arevon]
+Tak. 
+
+[Dungeon Master]
+Ale możesz biec 
+
+[Orestes]
+to nie biegnę, no dobra jest mistrzyciele dobrej zabawy pokorąc uśmiechów dzieci a, chwila, muzyka, właśnie piwo? o kurde ej, pan, panowie, Orion pomożesz mi otworzyć drzwi? tam żeś piwo jest Dziękuję. 
+
+[Dungeon Master]
+i ta dokładnie ta sama piosenka rozrzuciła mnie w oto tych drzwi ale to się przyznaje do 
+
+[Arevon]
+Wersja, która trochę się stała. 
+
+[Versir]
+prosto, dobrze że nikomu nic się nie stało wersjer nie wie że Eurostas się zrezygnował 
+
+[Dungeon Master]
+że będzie znowu 
+
+[Arevon]
+Z tym żyjemy, tak nie do końca, niektórzy są nieumarni. 
+
+[Versir]
+co się stało? koloron martwy? 
+
+[Orestes]
+O, biorę piwo od niego, popijam. 
+
+[Versir]
+my żyjemy? wszystko jest okej 
+
+[Arevon]
+Tak, to jest ten moment, gdzie Evershir wrzuca 
+
+[Versir]
+Nie zapomnijcie zasubskrybować kanału i zafollowować mnie na Facebooku! 
+
+[Orestes]
+Twoje zdrowie! I dla pochyby Luter i Kurwincynów. 
+
+[Dungeon Master]
+Nie, ale... 
+
+[Orestes]
+Czemu? Czy jest nie tak z moim wyglądem? Mówię Fulonowi 
+
+[Dungeon Master]
+Umarłeś! On cię zabił. 
+
+[Arevon]
+defense, żeby sprawdzić, czy Orestes nie jest on down. 
+
+[Dungeon Master]
+O, to ty wstałeś i zabiłeś jego. 
+
+[Versir]
+Widziałaś coś po drugiej stronie? 
+
+[Dungeon Master]
+Nie czuję żadnego undead'a. 
+
+[Orestes]
+No i widzisz? I teraz jestem z nim kwita On mnie zabił, ja go zabiłem I nie ma żadnych hard feelings 
+
+[Dungeon Master]
+Ja go... 
+
+[Orestes]
+A tak w sumie to 
+
+[Dungeon Master]
+Wyjeżdżaj, nie chcesz żeby się pękło do końca. 
+
+[Felicjan]
+Albo przez ciebie. 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+i drzwi zostają otwarte, a tam widzicie trzech bardów satyrów grających tę muzykę 
+
+[Felicjan]
+Dziękuję. 
+
+[Orestes]
+Tak, dlatego RSCS wchodzi i zaczyna z nimi grać, śpiewać. 
+
+[Versir]
+Chyba ta piosenka o piwie, Rostas. 
+
+[Arevon]
+Zdecydowanie się kłóciły wcześniej i to mnie trochę wyrwniało. 
+
+[Dungeon Master]
+No i sobie grają Patrzmy na was 
+
+[Versir]
+A co ze smokami Felicjanie? Myślisz, że da się je uratować? 
+
+[Felicjan]
+Widziałem tą samą wściekłość co u poprzednich smoków tytanu, więc nie wiem czy mamy na to czas. 
+
+[Arevon]
+Może spróbować przez szybkę. 
+
+[Dungeon Master]
+No, szepro się zwróciły, dwa walki. 
+
+[Felicjan]
+Czy nie? Czy widziałem tam cieni rozsądku? 
+
+[Dungeon Master]
+Miężko stwierdzić jednoznacznie, nigdy nie wiadomo, ale no... 
+
+[Felicjan]
+Tak, wezmę Kairosa na ramię, pokłaszczę go, dam mu przysmak, a nie, tak wiesz, obrazkowo. Może kontynuujcie? 
+
+[Orestes]
+A, witajcie, witajcie, piękna muzyka, piękna muzyka. Panowie, czy nie szukacie zatrudnienia, bo mam miejsce, w którym moglibyście grać, śpiewać i jeszcze może nawet zarobić i wypić tak zwane, to o czym śpiewacie, piękne, wspaniałe i śmiutkie piwo. 
+
+[Arevon]
+Zazwyczaj nie może przestać być stabilnie długo. 
+
+[Orestes]
+Oczywiście, wołam tutaj Folona. 
+
+[Arevon]
+Wręcz mogliby zacząć chwiać. 
+
+[Orestes]
+To napijcie się z nami, Folon, Folon. Dawaj, polewaj, kolego. 
+
+[Arevon]
+W tym momencie to już chyba wszyscy pozostali nie powinni tu być, myślę. 
+
+[Orestes]
+i bukłakiem pod spodem, więc trzeba podważyć lekko czaszkę i wziąć bukłak 
+
+[Versir]
+Co jest z odnętymi drzwiami? 
+
+[Orestes]
+tam ci dwaj pijani jeszcze coś kojarzą? 
+
+[Dungeon Master]
+Eee, pochrapują. Eee, tam... Momencik... Generator imion... Tam... Komnaty Dianamy. Goloron czasem lubi się z nią zabawiać. Wierzę najpierw wącha z ubóstwieniem wieżyłyk. O, wspaniały trunek. Tego tutaj brakuje. Oprócz tego ta wieża jest całkiem przyjemna. ok wrzuć persuasion advantage 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+DC jest w chuj mały i rozumiem, że będziecie przeprowadzać tutaj jakąś akcję ewakuacji gdzie mamy się stawić 
+
+[Arevon]
+Ale to zależy komu, bo... Milotaurom i Kryganom już nie mówcie, że jesteście Dorostesą. W każdym wypadku, ewakuacja jeszcze nie jest gotowa. 
+
+[Orestes]
+jest w trakcie przygotowania 
+
+[Arevon]
+Zdecydowanie to nie wpadnie. 
+
+[Felicjan]
+A Golaron zostawił coś po sobie? Swoją broń albo coś? 
+
+[Dungeon Master]
+Rozumiem, że Goloron tu raczej już nie wpadnie. A nie Halcja. 
+
+[Orestes]
+nie no oni się posypali mówię ci to jest nic z nich nie ma kurde ja naplułem na to 
+
+[Arevon]
+że tak powiem zdecydowanie ten jego sygnał, czy oko, czy whatever bym wziął 
+
+[Dungeon Master]
+Tak, dostępowa moneta powiedzmy. 
+
+[Arevon]
+Monetę zdecydowanie zabiorę 
+
+[Dungeon Master]
+I złoty pył do zgarnięcia ewentualnie. 
+
+[Arevon]
+a pewno nie wiem, czy dużo, ale wsiąlek po pociągach 
+
+[Versir]
+Dziękuję. 
+
+[Dungeon Master]
+Zdecydowanie to jest rzadko wartościowa rzecz. Łatwiej zebrać, jak się wiesz, skleić liną. 
+
+[Orestes]
+Dobrze, jak się przycisz, to ja ci mogę 
+
+[Arevon]
+To ja nie zbieram, ja zbieram monetę tego. 
+
+[Orestes]
+zabrać z moją śliną. 
+
+[Arevon]
+Nie wiem kto zbierał poprzednio. Zrobiliśmy jakiś podjonek dla tego. 
+
+[Orestes]
+No coś było. 
+
+[Arevon]
+Dobra, miotełkę, drój zwierzę miotełkę zmiata, więc... Nikt nie chce. Góra rana do środka. 
+
+[Dungeon Master]
+No dobra, no to... 
+
+[Arevon]
+Co tu jeszcze mieszka na tym poziomie? 
+
+[Dungeon Master]
+To ta ewakuacja brzmi dobrze. Tak w międzyczasie coś, nie wiem... Chcecie wiedzieć? Chcecie wam pomóc? Chcecie wam zagrać? 
+
+[Arevon]
+Oprócz Golorona? Trochę mniej. Tak? Gdzie to jest? Tak. Poznam. 
+
+[Felicjan]
+Słyszałeś? 
+
+[Versir]
+I teraz... 
+
+[Orestes]
+kurde trzeba jednak tam pójść nie no dla policji 
+
+[Felicjan]
+On miał te jaja. 
+
+[Dungeon Master]
+Niezła afera była. 
+
+[Felicjan]
+W tym roku jej się uda. 
+
+[Dungeon Master]
+Najwyraźniej stwierdziła, że jej nie podoba się rola. 
+
+[Arevon]
+Czegoś spodziewałeś się? 
+
+[Dungeon Master]
+Już nie miała trochę wolności teraz, trzyma ją na łańcuchach. Módna sprawa. 
+
+[Felicjan]
+Jestem bardzo oburzony, znaczy oburzony, wiecie, zdegustowany. 
+
+[Dungeon Master]
+Nic dla niej nie mam. 
+
+[Arevon]
+A ta linfa to ona zasługuje też na ewakuację, czy ona tam ma się zostać? 
+
+[Dungeon Master]
+Ale jak powiecie, że Golorona nie będzie w ramach tej ewakuacji, to może być jej smutno. 
+
+[Arevon]
+Goranem może być problem, żeby się ewakuował. 
+
+[Dungeon Master]
+No się tak, to domyśliłem. Ale nie wiem. 
+
+[Orestes]
+No co, olać babę, idziemy po smoczyce. 
+
+[Dungeon Master]
+Ile w niej oportunizmu będzie. 
+
+[Felicjan]
+Ja już nie mam po co teraz to zrobić. 
+
+[Versir]
+Chodźmy... Chodźmy smoczyce uratować. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Orestes]
+Co? Nie wiem o co ci chodzi, ja też mam full HP. 
+
+[Versir]
+Pewnie powinniśmy zrobić szorzesto. Aczkolwiek te smoki nie są zamknięte, no wiecie o tym, no? 
+
+[Arevon]
+Nie, to są kraty. 
+
+[Versir]
+Akurat to tam są. 
+
+[Arevon]
+Tak, wyjdę przez kraty. Smoki się nie mają tyle podawać. No przecież... 
+
+[Dungeon Master]
+Te klaty są zamknięte, te w oddali są otwarte. 
+
+[Arevon]
+Czy... O właśnie, czekaj. Czyli jest jakiś mechanizm, który... Idę zobaczyć, czy te smoki dalej tam są paliwo. I czy kraty dalej są zamknięte. Czy tu jest jakiś mechanizm, który podnosi i zamyka kraty? 
+
+[Dungeon Master]
+Siur, jak poszukasz to na fotelu znajdziesz jakieś przyciski. 
+
+[Arevon]
+Zagraty? Dobrze, to ja go nie dotykam. 
+
+[Dungeon Master]
+Nie są podpisane. 
+
+[Arevon]
+Dobrze. I mówię, że smoki są zamknięte zakratami, tylko nie można przechodzić obok, bo się stanie trzydzięcie. W każdym wypadku ja bym odpoczął. Zdecydowanie bym odpoczął. W związku z tym odpoczynkam. 
+
+[Orestes]
+Tak, zachęcam do 
+
+[Versir]
+Powinniśmy przy piwie odpocząć. 
+
+[Arevon]
+Tak. Zdecydowanie. 
+
+[Orestes]
+ugolnięcia sobie. 
+
+[Arevon]
+Czekaj, a co to jest? 
+
+[Orestes]
+Ugolnijmy sobie na pochybę Glorona. 
+
+[Arevon]
+Tak, tak, widziałem. 
+
+[Versir]
+Jak się obudzą, no to 
+
+[Orestes]
+Nie no, oczywiście, 
+
+[Arevon]
+Tak, to poczęstujemy chwilę. 
+
+[Orestes]
+że popijam, siedząc obok 
+
+[Dungeon Master]
+OK. 
+
+[Orestes]
+jednego z nich z toporem na jego gardle. 
+
+[Versir]
+poczęstujemy ich piłem. 
+
+[Orestes]
+Kogoś vlogowało 
+
+[Arevon]
+Dokładnie. No. 
+
+[Orestes]
+Czyli short rest Wyszedł? 
+
+[Arevon]
+I tak nie masz idei, więc... To był powód, dla którego umarłeś, bo nie mogłeś się chylnąć dowolno. 
+
+[Orestes]
+Nie 
+
+[Arevon]
+Żeby jej zamknąć dla to, bo... W sensie nie ja, tylko nas czterech, bo te drzwi są za ciężkie. O, witaję. 
+
+[Dungeon Master]
+Ten koło ciebie Gajgan Orestes po 40 minutach się rusza i idzie spać. 
+
+[Arevon]
+O, f**king jest. 
+
+[Orestes]
+Wzięła Kielika. Ja na poprzednim shortreście zużyłem ostatnie. 
+
+[Felicjan]
+Wtedy zacznę od tego, co mówiłem wcześniej. 
+
+[Versir]
+Wszystkie kostki, chyba pierwszy raz w tej kampanii. 
+
+[Arevon]
+D&D Bios działa dobrze. 
+
+[Dungeon Master]
+tak się już czyta 
+
+[Arevon]
+Foundry mówili zawsze, bo te mapy są gigantyczne i mają miliony elementów. D&D Bios działa dobrze. 
+
+[Dungeon Master]
+to jest dobrze, przynajmniej u mnie 
+
+[Arevon]
+Nie, potrafi przelagować trochę. 
+
+[Orestes]
+Ja tu bym domknął drzwi i podłożył ogień, jak lubiła go Lorona, ale jak chcecie. 
+
+[Dungeon Master]
+chyba nie jest długie dobra to teraz zrobione ta dwójka giganów się nie obudziła 
+
+[Felicjan]
+A może jakieś ciekawe coś? 
+
+[Orestes]
+Zawsze może być tam jakiś lud. 
+
+[Felicjan]
+Nie wiem. 
+
+[Versir]
+No, to było perfektywne, jeszcze raz. 
+
+[Arevon]
+Maciek, nie tędy, nie tędy, Maciek, nie tędy, tam źle jest. 
+
+[Orestes]
+Gdyby Orestesa tak interesowały kobiety jak piwo? 
+
+[Dungeon Master]
+To są inne priorytety. 
+
+[Arevon]
+Dookoła. 
+
+[Dungeon Master]
+Prawie wlazłeś pod oddech smoka. 
+
+[Arevon]
+Smokie też zrobiły shardresta pewnie. 
+
+[Dungeon Master]
+No, na pewno. 
+
+[Arevon]
+Ojej, co tu się dzieje? O, to Sao, no. 
+
+[Versir]
+Dobra, tak, oglądam te pomieszczenia przez stream. 
+
+[Dungeon Master]
+Są baseniki, sauna, sauna parowa. 
+
+[Felicjan]
+Tak, aż się dalej nie widzisz. 
+
+[Dungeon Master]
+Dobrze, że jest stream. Nie wiem co się zjebało. 
+
+[Arevon]
+Open the gate? 
+
+[Dungeon Master]
+Otwiera drzwi i z daleka stamtąd dobiega dużo chrapania. 
+
+[Felicjan]
+jakieś koszary, sypialnie 
+
+[Arevon]
+Przez te drzwi? Co to w ogóle jest? Co tu widzę? 
+
+[Felicjan]
+co to jest 
+
+[Arevon]
+Może poczekajcie tutaj. Tim, stać, nie biegać. Ja idę cicho. Ja rzucam stealth'o. Jestem najcichszym druidem świata. W ciągu stu. Pyrwam stamtąd. Do widzenia, mniej więcej. Inne. Nawet skrzynek nie miałem. 
+
+[Versir]
+Zareglować. 
+
+[Arevon]
+To są drzwi, które trzeba zabarykadować najlepiej czymś. 
+
+[Dungeon Master]
+Nie? 
+
+[Arevon]
+Tak. Da się zamknąć te drzwi w moją znałek? 
+
+[Felicjan]
+Nie mam Arcane Docka, nie ma Spetsnazów. 
+
+[Dungeon Master]
+To otwierajmy. 
+
+[Arevon]
+Nie wiem, że nie ma szans. Dobra, to otwieramy ten dźwięk chyba, nie? 
+
+[Dungeon Master]
+Tu jest ewidentnie jakaś taka mini arena powiedzmy, nie wiem, do sparingu. 
+
+[Arevon]
+Bo to jakiś rzeź jest. Okej, no dobra, wychodźmy z tym. 
+
+[Dungeon Master]
+Widać, że tu się regularnie ćwiczył i biją. 
+
+[Versir]
+Dziękuję. 
+
+[Arevon]
+To wygląda jak portal, więc chyba nie wchodzimy przez ten portal. 
+
+[Dungeon Master]
+Uzupełnienia, zaschniętej krwi. 
+
+[Arevon]
+No to jeszcze te drzwi najpierw. 
+
+[Orion]
+Jest nasza komentarz. 
+
+[Arevon]
+Giebel. No nie wiem, straczę? Giebel. 
+
+[Dungeon Master]
+Ściany wieży odświeżają się na spore pola pod pięknym niebieskim niebem. 
+
+[Felicjan]
+zielonkawe 
+
+[Dungeon Master]
+Słońce... verdant? Nie znam tego słowa. Werdont zielony, pokryty bójną zielenią. 
+
+[Felicjan]
+czy wersja to jest zielony potem 
+
+[Dungeon Master]
+Pokryte bójną zielenią, jakieś tam polany, roślinności wypełnione kolorowymi kwiatami, słychać śpiewy ptaków, widzisz jakąś jelenia, która przeskakuje sobie w oddali między drzewami. 
+
+[Felicjan]
+A jakieś istoty tam widać? Takie rozumne? 
+
+[Arevon]
+kogoś z nas 
+
+[Versir]
+A przez ten portal czy widać... 
+
+[Arevon]
+kusi? 
+
+[Felicjan]
+Nie widziałem. 
+
+[Dungeon Master]
+To już zależy do waszej postaci 
+
+[Arevon]
+Ale odsaknąć, a daje się zostać tam na zawsze, to są dwie różne rzeczy. 
+
+[Dungeon Master]
+Nikt nie jest w tym momencie jakoś 
+
+[Versir]
+A czy przez ten portal widać niebo po drugiej stronie? 
+
+[Dungeon Master]
+Nienaturalnie kuszony powiedzmy 
+
+[Arevon]
+Okej. 
+
+[Dungeon Master]
+Tak 
+
+[Versir]
+Nie. 
+
+[Arevon]
+Tak, powiedział, że jest niebawem. 
+
+[Dungeon Master]
+Piękne, błękitne niebo 
+
+[Arevon]
+Nawet drzeszka jest. Czy jeziorko? 
+
+[Versir]
+Muszę szybki czek zrobić, bo ja tam nie mam jakiegoś członka rodziny. 
+
+[Arevon]
+Czy teraz reszta wieży może sobie domy? 
+
+[Felicjan]
+To nie jest, to jest chyba reszta mierzy. 
+
+[Dungeon Master]
+ok, kolejna statua, wielka Sejdona 
+
+[Arevon]
+Panie... Chyba jestem czerwony, że jak się wejdzie, to się da wyjść, ale nie mam zamiaru próbować. 
+
+[Orestes]
+Próbuję. 
+
+[Arevon]
+Chyba to... 
+
+[Felicjan]
+Dawaj mi smoka. 
+
+[Orestes]
+Kiepsko. Nie, nie, nie. 
+
+[Arevon]
+Te drzwi są... 
+
+[Dungeon Master]
+Możesz próbować? Athletics Ciężko, trzyma się mocno 
+
+[Arevon]
+Bardzo proszę. 
+
+[Orestes]
+Mówi się trudno. 
+
+[Dungeon Master]
+Te drzwi mają dziurkę od klucza i są zamknięte 
+
+[Arevon]
+Czy te drzwi są zamknięte na kluczy? Spodziewałem się. Próbuję bardzo... 
+
+[Orion]
+Tak, bo tam drugie drzwi za nimi. Wchodzimy, czy nie? 
+
+[Versir]
+No, do trzech razy szuka, za trzecim razem to to będą dobre, Jake. 
+
+[Dungeon Master]
+Chyba nic tam nie ma. Wyglądają bezpiecznie drzwi. 
+
+[Arevon]
+Próbuję... dokładnie je zbatać najpierw, a potem otworzyć. No tak, zamknięte na 4 spusty. 
+
+[Versir]
+O, gdzie klasyk? 
+
+[Dungeon Master]
+Ale zamek jest jakiś wyjątkowo trudny. 
+
+[Arevon]
+No cóż... 
+
+[Dungeon Master]
+Arma się męczy, męczy, no i nie idzie. 
+
+[Arevon]
+No nie idzie. Goloron nie zostawił klucza. 
+
+[Dungeon Master]
+Nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie 
+
+[Orestes]
+Idziemy. 
+
+[Arevon]
+No, te co zrobiliśmy, tak. Idę zrobić pickpocket tym dwóm, co śpią. 
+
+[Orestes]
+Nie, trzeba do tej baby pójść. 
+
+[Arevon]
+W sensie tym, co są najebane. 
+
+[Felicjan]
+Pewnie nie informuję. 
+
+[Arevon]
+Kurczę. 
+
+[Orestes]
+God damn it. 
+
+[Dungeon Master]
+Może zostawił przy łóżku. 
+
+[Arevon]
+A nie, to są wchody, dobra. Tam są wchody po prostu. No to na środku. Nie musimy tego trzymać. Bo to wyglądają tak samo jak te wielkie wrota do schodów, nie? Te tutaj. Na wszystkich innych rach. Tak? Tak, tak, Pani Basia? Tak, tak. Ten nie odbieram. No, to idziemy do niej jeszcze. To może pójdźmy tamtędy do niej, co? Dobra. Żeby nie budzić tam tych debili. 
+
+[Dungeon Master]
+Za tą zasłonę można sobie przejść na pewno, bo z tej zasłony ja mam widok. 
+
+[Orestes]
+Nie. 
+
+[Dungeon Master]
+Jest powietrze wypełnione jakimś takim mgiełką, powiedzmy, jakiś dymek. 
+
+[Versir]
+Sylvan. 
+
+[Dungeon Master]
+Jak wchodzicie, drzwi się otwieracie i słyszycie głos 
+
+[Felicjan]
+To Sylvan, rozumiem. 
+
+[Dungeon Master]
+języków... 
+
+[Arevon]
+To nie jest fajny język. 
+
+[Dungeon Master]
+Fej? Ktoś to rozumie, Fej? 
+
+[Arevon]
+Nie ma fajnego języka. 
+
+[Dungeon Master]
+Sylvan? Nie, Sylvan w sumie to mogło być. A sumie dobra, nie, nie. Tak, tak, mój błąd. Słuchajcie, Gloron już wróciłeś? Zdarzyłam się stęsknić. 
+
+[Orion]
+Ja też bym zrobiła pokaz. 
+
+[Dungeon Master]
+Co tam jest? Pokaż się! 
+
+[Arevon]
+Chodzimy. 
+
+[Versir]
+Musimy rozczarować. Ale... ...Glorona już nie spotka się. 
+
+[Dungeon Master]
+Wejdź do środka. Zrób krok w bok. 
+
+[Orestes]
+Tak, z toporem w ręku. 
+
+[Dungeon Master]
+Widzicie... 
+
+[Orestes]
+No wiedziałem, że to będzie czarny charakter. 
+
+[Dungeon Master]
+Dzień nimfe, owiniętą jakąś tam pościelą, patrzę na was lekko wystraszona. 
+
+[Arevon]
+Tak co do bota, który słucha wszystko, co mówisz, 
+
+[Dungeon Master]
+Kim jesteście? Co wy tu robicie? Nie powinniście to być, Gloron nie będzie zadowolony. 
+
+[Felicjan]
+No ładne. 
+
+[Dungeon Master]
+Rzuć Intimidation. Rzuć Advantage. Nagrodę. Okej, czy ona zrobi coś głupiego? 
+
+[Orestes]
+Nice. 
+
+[Arevon]
+Kurde. To jest takie niewidoczne. Ciekawe czy tamte pozostałe klucze też były gdzieś, czy po prostu musieliśmy mieć kartę i otworzyć. 
+
+[Versir]
+Dziękuję. 
+
+[Arevon]
+Szukam jeszcze czy nie ma czegoś użytecznego oprócz tego wyklucza, jak nie to polecam je od razu. 
+
+[Dungeon Master]
+Reżer. 
+
+[Arevon]
+Rzucić perception czy coś jeszcze? 
+
+[Orestes]
+Jeszcze... 
+
+[Dungeon Master]
+Shroud perception. 
+
+[Orion]
+Jedno? A, dwustronne, okej, proszę. 
+
+[Dungeon Master]
+Znajdujesz pod łóżkiem wielkie czarne dildo. Dwustronna. 
+
+[Orestes]
+Czy znaleźli to z innego świata? 
+
+[Dungeon Master]
+Nie wiadomo jaka jest geneza. 
+
+[Felicjan]
+Gdzie to? 
+
+[Orestes]
+nasuwa mu się taki pomysł 
+
+[Dungeon Master]
+Teorecyzm zabiera, żeby używać tego jako broń? 
+
+[Orestes]
+ale trochę się brzydzi 
+
+[Arevon]
+Gdzie to było? 
+
+[Felicjan]
+A tutaj o co? 
+
+[Orestes]
+to w naszej poprzedniej kampanii 
+
+[Orion]
+Tu padło pytanie, gdzie to dildo, które znaleźliśmy było? 
+
+[Felicjan]
+Dziękuję. 
+
+[Arevon]
+To było tak przenośne, nigdzie było teraz, tylko gdzie było wiesz, w przeszłości. Jakie dziury zwiedziło? 
+
+[Orion]
+Jeszcze ciepłe. 
+
+[Dungeon Master]
+ona patrzy na was z lekkim 
+
+[Arevon]
+Za tymi drzwiami tam... 
+
+[Dungeon Master]
+oburzeniem i strachem, ale nic nie robi 
+
+[Versir]
+Wiesz może skąd się wzięła ta gwiazda w basenie, Piotrowie, że? 
+
+[Arevon]
+To Usaidana. Ona tam chyba nigdy nie była, Usaidana, więc... 
+
+[Dungeon Master]
+gwiazda w basenie? nie wiem o jakim basenie mówisz o niejakiej gweździe 
+
+[Versir]
+No cóż, moment, po co przyszliśmy. Mieliśmy się... 
+
+[Dungeon Master]
+Dwa inne drzwi do uberbosa. 
+
+[Arevon]
+Za tymi drzwiami coś jest? Bo tutaj wygląda, że jest więcej pustej przestrzeni między tymi drzwiami a tymi następnymi. O, horytarz. Ok, zróbmy. Ok, wziąłem klucz, przeszukałem, znalazłem deal do wychodzenia. 
+
+[Dungeon Master]
+To jest dużo drzwi na naszej wieży. 
+
+[Orion]
+Nie, to na odchodne rzucę jej złotą monetę na łóżko. 
+
+[Dungeon Master]
+Też nie ma ochoty się z wami bić. 
+
+[Arevon]
+Miałem ochotę się zniubić. I zasłużyła na marnowanie z posłotów. 
+
+[Dungeon Master]
+Póki nie wychodzisz, to nie podnosi, a potem nie wiadomo. Sprawdzasz? Nie ma monety. 
+
+[Orestes]
+Haha, fajnie! Dobry ruch. 
+
+[Versir]
+Dziękuję. 
+
+[Orion]
+Dziękuję. 
+
+[Felicjan]
+A tobie wersje działają ściany czy nie? 
+
+[Arevon]
+No, zasadnie. 
+
+[Felicjan]
+Możesz sobie łazić jak chcesz? 
+
+[Arevon]
+Ściany serwer sprawdza, więc... Ja kluczem. Oczywiście. Też mają klucz? wstaną na sam ok powiedz tak, cieszę się, że te drzwi, które nie miały klucza 
+
+[Dungeon Master]
+Skarbiec miał DC-25, jak dobrze pamiętam. 
+
+[Arevon]
+udało mi się otworzyć szczególnie ten skarbiec to nie było pewne pozostałe drzwi miały DC-20 
+
+[Felicjan]
+bardzo ładne słuchacze za mną 
+
+[Dungeon Master]
+A żeby... 
+
+[Arevon]
+do królowej Czemu ja stałem się w pierwszej linii? 
+
+[Versir]
+No, czy jest widać? 
+
+[Dungeon Master]
+Zaraz Wam powiem do końca, co widzicie. 
+
+[Orestes]
+Wow! 
+
+[Versir]
+O, ale ładny smak. 
+
+[Arevon]
+To prawda, drzwi otwierają. 
+
+[Felicjan]
+Dziękuję. 
+
+[Orestes]
+Jesteś smoczycą! 
+
+[Arevon]
+A smok jest... Gemini dobrego smoka, generalnie. Widzimy smoczycę, która ma napis Unharmed, który jest na 40 metrów długości. Da się to zmienić, by the way. Tak. Znalazłem to, łokcie, da się to wyłączyć, żeby zaszyfać takie sami. 
+
+[Dungeon Master]
+Jest pilnowana przez dwóch gajganów, którzy zdecydowanie jak was widzą i widzą, że nie jesteście tym, kogo się spodziewali, kto by te drzwi otwierał, to ściskają mocniej uzbrojenie. Smoczyca wygląda zdrowo, nie wygląda jakby była jakaś torturowana, ale ma obrożę na szyi, jest przykuta do podłogi łańcuchami. Ale w tym momencie... Już Orion, proszę cię sprintować, bo inicjatywa. Być może po inicjatywie wierzymy więcej czasu, żeby coś w tym powiedzieć. 
+
+[Orestes]
+A i czytywał. 
+
+[Arevon]
+Ten smok mi kogoś przypomina. 
+
+[Dungeon Master]
+Chyba, że chcesz przeżyć w czasie walki. 
+
+[Arevon]
+Tak, zdecydowanie. Zdecydowanie. 
+
+[Dungeon Master]
+Drużyna B, zgubiłem drużynę B. 
+
+[Arevon]
+Jestem ostatni. Biegaliśmy jak głupi dookoła, więc... Nic dziwnego, że zgubiłeś drużynę. Dziękuję. 
+
+[Felicjan]
+Jest się roli? 
+
+[Dungeon Master]
+Zmorszyca nic nie robi, patrzy na was. Zorientowana lekko, ale na razie nic. I nie są w samych tych ręcznikach. Oni mają uzbrojenie i mają po dwie tarcze. I mają pełny kołczan javelinów. o, sorry, wszystkich cofnąłem 
+
+[Arevon]
+Kukus. 
+
+[Orestes]
+Dzięki za uwagę! 
+
+[Dungeon Master]
+ohoho, kryt countryp45 mało 
+
+[Arevon]
+10,08. Andripa. Ale tryb zrobił więcej niż element o który skrycił. Piąto levelowy. 
+
+[Versir]
+W ogóle sam odspalenie robią dużo tych meczów nakrytych. 
+
+[Arevon]
+Ej, ale to jest życie maxa, więc... 
+
+[Versir]
+Dziękuję. 
+
+[Arevon]
+Też. Ale... Nic mi nie zrobił. Elementarnie miał robić dmg, bo było dba o tankowanie głównie, żeby on dostał udarzenie my, więc był... Hpki wyglądały źle. Byleby jego Javelin nie był offlighting. Czy smog jest enemy do niego? To ma disadvantage. Wygląda jak kryt. Zdrowie. 
+
+[Versir]
+Jeszcze jeden to jest hit. 
+
+[Dungeon Master]
+I teraz Ty, Wersir. Rzadko używany feature. 
+
+[Versir]
+Podchodzę tu, atakuję. Używam zdolności rękawicy, żeby Dominate Monster wycastować. 
+
+[Arevon]
+Dziękuję. 
+
+[Versir]
+CR7 Jeżeli ma poniżej CR7 to Zaraz ci powiem 
+
+[Dungeon Master]
+Jest poniżej 0,7 i to jest charyzma, tak? 
+
+[Versir]
+Chyba wisdom 
+
+[Dungeon Master]
+Co to było? 
+
+[Versir]
+Ale CR14 
+
+[Dungeon Master]
+Wisdom? 
+
+[Orestes]
+Dziękuję. 
+
+[Versir]
+On ma advantage 
+
+[Dungeon Master]
+I on ma adwanty w walce bodajże. 
+
+[Versir]
+Bo jest w kombacie Tak wisdom save 
+
+[Dungeon Master]
+Miałeś tam dwóch śpiących pijanych, którzy nie byli w kombacie. Tylko, że byli pijani. 
+
+[Versir]
+Bądź tak dobry i zajmij się tym drugim kolegą, bo trzeba smoczyce uwolnić. 
+
+[Dungeon Master]
+Wisdom save, sure. To jest zlany fail. Ten jest twoim kolegą. 
+
+[Versir]
+Takuje drugim atakiem tego drugiego gigana. 
+
+[Dungeon Master]
+No tak, zapomniałem. 
+
+[Versir]
+Jak jest to gówno. 
+
+[Dungeon Master]
+Czerp. 
+
+[Arevon]
+By the way, odkąd swapnowaste tamtego miesza na ten, rzucasz samo 19. 
+
+[Versir]
+Klasyk, klasyk. 
+
+[Arevon]
+Ten consave nie ma znaczenia, więc... 
+
+[Dungeon Master]
+No to dorawiam. 
+
+[Versir]
+Tutaj użyjemy pierwszolewowego Raffu Smife'a, też Wisdom Save'a rzucę, oprócz tego strSave'a i consave'a. 
+
+[Dungeon Master]
+str icon save. 
+
+[Versir]
+Wisdom to jest ten istotny save. 
+
+[Dungeon Master]
+Wisdom save'a masz uczyć. 
+
+[Arevon]
+Consave jest na regen HPK. 
+
+[Versir]
+To jest fajnie. 
+
+[Arevon]
+I strength na kdk. To też jest... 
+
+[Versir]
+Ten pierwszy dostał ten pierwszy damage, ten drugi dostał ten drugi damage, plus cztery. I jest frightened. 
+
+[Arevon]
+I tak. 
+
+[Versir]
+Tak, a to on dostał zanim wrzucał Dominate Monster Save'a. 
+
+[Dungeon Master]
+Dostałem 2 dmg i 4 dmg 
+
+[Arevon]
+I mam dwa item. 
+
+[Versir]
+Tak, i ma Frightened. 
+
+[Dungeon Master]
+No i ten jeszcze mu dały się, a pierdolę 
+
+[Versir]
+I to jest... 
+
+[Arevon]
+Jeden mam, drugi mam, posprzątam. 
+
+[Dungeon Master]
+Jeszcze ma ćwiczery, jeszcze jakiś jeden duży kombat by się przydał 
+
+[Orion]
+Leży, tak? Dobrze rozumiem. 
+
+[Arevon]
+A ty możesz tą rękawicę za jako free action włożyć? 
+
+[Versir]
+Kończ! 
+
+[Dungeon Master]
+W ramach ataku 
+
+[Versir]
+Tak... 
+
+[Arevon]
+Ok. 
+
+[Versir]
+Kończę moją rundę, jeszcze sobie stanę koło... A, już chuj dałem endter... Dobra, hot air. 
+
+[Dungeon Master]
+No. 
+
+[Versir]
+Dokładnie. 
+
+[Felicjan]
+Tak mnie pięknie zlizują tym mieczem. 
+
+[Arevon]
+Teraz ma takie serduszka w oczach, nie? Zamiast rzędu. 
+
+[Orion]
+Chyba nie, co? 15, ma dwie tarcze. 
+
+[Versir]
+Masz Advantage, Orion. 
+
+[Arevon]
+Radzisz z oczem? 
+
+[Versir]
+Bron. 
+
+[Arevon]
+A pan leży? Na się na pewno nie trafił. 
+
+[Orion]
+Ja pieczę, to ale no. 
+
+[Dungeon Master]
+To są mis i mist. 
+
+[Versir]
+Co to są za żoce? 
+
+[Dungeon Master]
+No trafię tak. 
+
+[Arevon]
+Powiem tak, to jest dobry moment na takie rzuty, bo... 
+
+[Versir]
+What the fuck? Czy raz nadbędę? 
+
+[Arevon]
+Podrażają. 
+
+[Orion]
+Dzień dobry. 
+
+[Arevon]
+Członkiem chociaż trafił. Tak. 
+
+[Dungeon Master]
+Pada 6 jeszcze tak, 16. No okej. oraz masz advantage bez Reklessa 
+
+[Orestes]
+A, czekaj, czekaj. 
+
+[Dungeon Master]
+pierwszy trafił 
+
+[Orestes]
+Rzuciłem drugi? Rzuciłem drugi, o tak. Chwila, to był advantage bez Rekklesa, tak? Okej, jeszcze 2d20. 
+
+[Dungeon Master]
+19-ka... 
+
+[Orestes]
+Już, już, raz, dwa. Jedziemy. 
+
+[Versir]
+2D12? 
+
+[Orestes]
+O! 
+
+[Dungeon Master]
+Ty nie krytykujesz na 19-ce? Nie pamiętam. 
+
+[Orestes]
+No, jest... 
+
+[Dungeon Master]
+Dorzuć dodatkowy damage. 
+
+[Orestes]
+Gianty, tak. 
+
+[Dungeon Master]
+A, bo rzuć damage jeszcze raz po prostu z krytym. 
+
+[Orestes]
+Okej. 
+
+[Versir]
+Nie, 1D12. 
+
+[Dungeon Master]
+A, nie liczyło krzycza? Dobra. 
+
+[Orestes]
+A, było. A, co jeszcze? 
+
+[Versir]
+Portal to jest co? 1D12 chyba jeszcze? 
+
+[Orestes]
+Okej. 
+
+[Dungeon Master]
+Jesus Christ. 
+
+[Arevon]
+Dobra, ja policzę. 
+
+[Orestes]
+i w zasadzie ja bym dorzucił jeszcze strajką ja bym jeszcze strajką 
+
+[Arevon]
+Świartę życiu. 
+
+[Orestes]
+w The Hill Giant dorzucił, bo jeszcze mam 
+
+[Versir]
+A ty nie robiłeś grać w Topa Mastera? 
+
+[Orestes]
+nie 
+
+[Arevon]
+Nie robię. To jest 26 plus 11, 37, 47, 59. 
+
+[Orestes]
+no to jeszcze strajką w The Hill Giant czyli jeszcze 2d6 
+
+[Dungeon Master]
+59 What the fuck Już wyczułeś tego? 
+
+[Arevon]
+Nie. 
+
+[Dungeon Master]
+Kilkanaście lat 
+
+[Arevon]
+Wait, jeszcze raz. 26, 37, 49, 59, 67. To jest bez pierwszego ataku. bo to wiesz, pierwszy nie liczyłem, bo jeszcze 21 sprzedam, nie? 
+
+[Orestes]
+Okej, to w takim... 
+
+[Versir]
+Co ja robię? 
+
+[Felicjan]
+Wydaje mi się, że jeśli wyjdzie z czarma, to chyba nie będzie chciał się bić. 
+
+[Arevon]
+To jest swojej akcją, ale teoretycznie tylko w swoim rądzie możesz to zrobić. 
+
+[Versir]
+Aaa... 
+
+[Arevon]
+On miał kolejki. 
+
+[Orestes]
+To ja podchodzę tutaj i... A, no dobra. 
+
+[Felicjan]
+Okej. 
+
+[Versir]
+Zdługo... Dominate Monster trwa godzina. 
+
+[Arevon]
+On ma chyba rerolle, jak zrobiłem mu ten mecz. 
+
+[Versir]
+Dziękuję. 
+
+[Arevon]
+Cześć, jestem z Tobą. Jakie są twoje przyczyny do smogu? parę razy zesłaną przez mój amulet i widziałem tego smoka. 
+
+[Dungeon Master]
+Słyszę. 
+
+[Arevon]
+W sensie widziałem, jak bolmetry wyglądają. 
+
+[Felicjan]
+Myślałem, że palometria to jest starożytny smog. 
+
+[Arevon]
+Zakładam, że słyszę. Nie zamierzam ukrywać przed tym smokiem tego. Ten nie jest. 
+
+[Dungeon Master]
+Ten jest. 
+
+[Arevon]
+Uwolnić. 
+
+[Orestes]
+Czemu nie? 
+
+[Dungeon Master]
+Patrzę na was. Mówi uwolnić? 
+
+[Felicjan]
+Jednym słowem. 
+
+[Arevon]
+To brzmi źle. 
+
+[Dungeon Master]
+No. 
+
+[Arevon]
+Kim ty jesteś? Czemu cię Sidon dotrzyma? 
+
+[Dungeon Master]
+Jestem Nefele. Jestem matką smoków. 
+
+[Arevon]
+Matko smoków. Zaraz cię wy... Omulet. 
+
+[Felicjan]
+Aha. 
+
+[Dungeon Master]
+Felician, twój amulet się budzi trochę. 
+
+[Felicjan]
+No nie no, no, no, no, trzymałem go. 
+
+[Dungeon Master]
+Jeśli go gdzieś nie schowałeś w pizdu. 
+
+[Felicjan]
+Tak. 
+
+[Dungeon Master]
+Słyszysz mentalnie wiadomość. 
+
+[Felicjan]
+No, trzymałeś. 
+
+[Dungeon Master]
+ja 
+
+[Arevon]
+Ok. 
+
+[Dungeon Master]
+wiem czym ona jest już po wydarzeniach po przysiędze pokoju Pajdon a Zdołał... 
+
+[Arevon]
+Ale... 
+
+[Dungeon Master]
+...flonować w Balmytry? W sensie pracował nad tym. 
+
+[Felicjan]
+klonować. 
+
+[Dungeon Master]
+To... ...Elysian, ona... ...ona nie ma duszy. 
+
+[Felicjan]
+Ona nie ma duszy. 
+
+[Dungeon Master]
+Jakbyś tak mógł założyć ten mój amulet, chociaż nie wiem, na pazura, róg, byłoby miło. 
+
+[Felicjan]
+Okej. 
+
+[Orestes]
+Do zobaczenia! 
+
+[Felicjan]
+W jakikolwiek sposób na sprawdzenie, czy ona rzeczywiście nie ma dłużość. 
+
+[Dungeon Master]
+Tak. 
+
+[Versir]
+Nice. 
+
+[Arevon]
+What the fuck? 
+
+[Versir]
+Felicia to słyszy mentalnie, zgodnie. Ok. Chyba nie ma na co czekać co wyleciało, powinniśmy uwolnić smoka. 
+
+[Dungeon Master]
+Nie masz pojęcia jak to działa 
+
+[Arevon]
+Jak jest... 
+
+[Orestes]
+nie ma 
+
+[Felicjan]
+Ona może opętać chyba tylko bezdłuższą osobę, tak? 
+
+[Arevon]
+Tak, dokładnie. 
+
+[Dungeon Master]
+Uwolnijcie mnie, a potem śmierć Sidonowi 
+
+[Arevon]
+A co zrobić, jak się uwolniemy? 
+
+[Versir]
+O, fajna wieszty. 
+
+[Arevon]
+Ach, dobrze. 
+
+[Orestes]
+No, dobrze kata. 
+
+[Felicjan]
+uwolnijmy Cię to na pewno dziękuję 
+
+[Versir]
+Słuchają się matki? 
+
+[Arevon]
+A da się jakoś to odwrócić? 
+
+[Felicjan]
+Kręci na nie, okej. Tak, spino tak nie do końca brzmi, jakby nie miało duszy. Ja nie mówię, że nie ufam, ja mówię po prostu, że wydaje się być świadoma. który 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+Czekaj, bo to full meta out of character i w ogóle, a czy twój spell nie sprawdziłby tego? 
+
+[Felicjan]
+jeżeli tak to i tak nie mogłbym go teraz rzucić 
+
+[Arevon]
+Binding. No, jasne. I to jest out of character, a Rewun nie ma zielonego pojęcia w ogóle o co chodzi. 
+
+[Felicjan]
+Czy się wydaje, że to był pomysł Despiny taki od dawna? 
+
+[Dungeon Master]
+Pomyśl tylko, jacy możemy być potężni. 
+
+[Orestes]
+Dziękuję. 
+
+[Dungeon Master]
+Razem zatrzymamy Sejdona. 
+
+[Felicjan]
+Oj, tego dobre postacie nigdy nie mówię. 
+
+[Arevon]
+Dobra. 
+
+[Dungeon Master]
+To jest mnie, teraz mówię do Felicjana. 
+
+[Arevon]
+Chyba to napręci, więc... 
+
+[Versir]
+Sojuszniczka... Brzmi jak sojuszniczka 
+
+[Orestes]
+Jeśli Felician nic zaraz nie zrobi to Oreses będzie uwalniał smoka. 
+
+[Versir]
+Felicjanie, więc... 
+
+[Arevon]
+Tylko my tego nie słyszymy. 
+
+[Versir]
+Nie no... 
+
+[Dungeon Master]
+Tak. 
+
+[Versir]
+To mówię, mówię, że... 
+
+[Dungeon Master]
+Felicjan się wydaje jakiś trochę rozkojarzony i coś tam... 
+
+[Versir]
+Smoczyca przez chwilę powiedziała, że... Jest przeciwko Sejdonowi, więc... Ja... Wersja... Wersja o tym mówi 
+
+[Arevon]
+Wszyscy będziemy, wszyscy. 
+
+[Dungeon Master]
+Zobaczmy co się stanie. 
+
+[Versir]
+Na co czekamy? Skąd... 
+
+[Arevon]
+Wszyscy. 
+
+[Versir]
+Skąd ten dźwięk, policjanie? Nie ufasz smokowi? No to... 
+
+[Arevon]
+Idziemy. 
+
+[Versir]
+No to dawaj łańcuchy. 
+
+[Felicjan]
+ale przecież ona wygląda jakby miała duże tak przez przypadek nagle spowiedział no dobra uwolnijmy ją najwyżej 
+
+[Versir]
+To ja pomagam Rostesowi rozjebać te łańcuchy, jeżeli to się da rozjebać. 
+
+[Felicjan]
+trzymam na pewno bardzo kurczowo w ręce trzymam ten naszyjnik 
+
+[Dungeon Master]
+Ona tu została przeputana tak na stałe. 
+
+[Orestes]
+i rozdziera. 
+
+[Dungeon Master]
+Ale nie ma magicznego topora. 
+
+[Orestes]
+A, dobra, niech będzie toporem. Robię ciach. 
+
+[Arevon]
+Ktoś z wołego skomentował to co ja powiedziałem? 
+
+[Dungeon Master]
+Nie wiem co zrobi. Myślę, że będzie nieprzewidywalna. I dzika. 
+
+[Orestes]
+Jak by... Ej, dobra. 
+
+[Dungeon Master]
+A jednocześnie potężna. Jest dużo większa, tak. 
+
+[Arevon]
+No to, że ona wygląda podobnie do Palmytry 
+
+[Orestes]
+Czyli? 
+
+[Felicjan]
+Znaczy czaszka, którą niesie falon jest pewnie dużo większa niż sztolny. 
+
+[Arevon]
+bo to Despina skomentowała w mózgu policjanta ale jest w chuj większy 
+
+[Versir]
+Nigdy nie widział wersji, nigdy nie widziałbym metry, więc... 
+
+[Orestes]
+Ja też nie wiem, jak wygląda balometria. nie no 
+
+[Dungeon Master]
+Ale wśród, jak porównujecie z czaszką, to widzicie jakieś tam podobieństwo? 
+
+[Versir]
+Ej, ty tam, Zenek! Chodź pomiesz w tą łańcuchę! 
+
+[Felicjan]
+A Zanek, możesz nam powiedzieć, jak ostatnio chciałaś się wydostać, to byłaś zaślepiona furią, czy jest rozumna? 
+
+[Orestes]
+Orestes po prostu dziabnął 
+
+[Arevon]
+Cała reszta party robi krzywą minę i się patrzy na Felicjana. 
+
+[Versir]
+Powiedz zapytanie Zenek. 
+
+[Arevon]
+Zamknę. 
+
+[Felicjan]
+Rzeka. W ogóle dlaczego jest przykuta bo podobno nie była przykuta. 
+
+[Orestes]
+No czapie. 
+
+[Dungeon Master]
+Więc Psydon kazał pymknąć, żeby nie mogła uciec. 
+
+[Arevon]
+A wiesz skąd ona się dowziała? 
+
+[Dungeon Master]
+Była to dłużej niż ja. 
+
+[Felicjan]
+Jak tylko będę pewny, że nie skrzywdzę niewidnego smoka, to założę na JTN AMOLED. 
+
+[Arevon]
+O, nierozsądne. No, ciach ciach. Dziękuję. 
+
+[Versir]
+Nie karmili. 
+
+[Dungeon Master]
+I nagle, gwałtownym ruchem, wrzuca się na tego martwego Gajgana i zaczyna go zjadać. 
+
+[Orestes]
+Ciekawe, ciekawe. 
+
+[Arevon]
+A Remon zastanawia się, the fuck has happened? 
+
+[Dungeon Master]
+Lata we wszystkie strony flaki, bardzo brutalnie go zjada. 
+
+[Felicjan]
+Chłodna była. 
+
+[Orestes]
+Właśnie trzeba... Śle karmili, dokładnie. 
+
+[Felicjan]
+Jak ją zsądować? 
+
+[Dungeon Master]
+Ja już mam sobie kontynuuję ucztę. 
+
+[Orestes]
+Dzień dobry. 
+
+[Felicjan]
+Kurwa, gdybym miał detekcję posłuchacza. 
+
+[Arevon]
+Na boku. 
+
+[Felicjan]
+Zdecydowanie się zapytam Arewona na boku. 
+
+[Arevon]
+A rewan stoi w końcu, więc... 
+
+[Versir]
+Jak potrzebujesz więcej jedzenia smoku to na korytarzu jest więcej tropów. 
+
+[Dungeon Master]
+Eee... 
+
+[Arevon]
+Ja nie jestem kapłanem. 
+
+[Felicjan]
+trochę znam na smogach, się trochę znasz na innych istotach. 
+
+[Arevon]
+Czy Erwan ma jakąkolwiek szansę cokolwiek wiedzieć? Zanim się zastanowisz, to odpowiedź jest prawdopodobnie nie, 
+
+[Dungeon Master]
+A Rawon pewnie by zadał sobie pytanie, czym jest dusza, jak to zdefiniować? 
+
+[Arevon]
+ale nie, zapytam jeszcze o to. Zdecydowanie nie zadałoby się to pytanie. 
+
+[Dungeon Master]
+Co to w ogóle znaczy? To rozważacie. 
+
+[Felicjan]
+Nie. 
+
+[Arevon]
+Mam 20 ujść z doma w każdym wypadku, więc może się na czymś znam. 
+
+[Dungeon Master]
+Smoczyca kończy jeść tego gejgana i patrzy na Zenka. 
+
+[Versir]
+Ja mam dla Zenka jeszcze zadanie do wykonania. 
+
+[Arevon]
+Nie, nie, nie, nie. 
+
+[Dungeon Master]
+Gdzie Sajdon? 
+
+[Versir]
+To jest mi potrzebne. Mam na korytarzu więcej trupów. 
+
+[Felicjan]
+A czemu chcesz zabić Tiedonę? 
+
+[Versir]
+Uczta. 
+
+[Dungeon Master]
+On mi to zrobił 
+
+[Versir]
+W służu. Bał się nas. No ja już z nim wolił. 
+
+[Felicjan]
+Ale no, zniewoliłeś z jakiegoś powodu. Wcześniej latała Sebuza. Co ci zrobił? Dziękuję. 
+
+[Dungeon Master]
+trochę jeszcze zakrwawioną, zlizuję tę krew z ręki. 
+
+[Orestes]
+Już tak. 
+
+[Versir]
+Jest taryfakcja, coś o czymś nie pamiętam. 
+
+[Orestes]
+Ej! W sumie pod Heliosie, który się zmienił w smoka, to już nie powinno nas to dziwić. 
+
+[Versir]
+Trzy. 
+
+[Arevon]
+Jako że ma jakieś tam bardziej divine życie niż ja? Nie wiem. 
+
+[Versir]
+Wygodniej w tej formie smoku? 
+
+[Arevon]
+Mniej... 
+
+[Versir]
+Zemsty na Seydonie co byś chciała zrobić? 
+
+[Dungeon Master]
+Łatwiej się przemieszczać. 
+
+[Arevon]
+Wygląda jak stworzenie magiczne, a nie nienaturalne czy to jakiś antel czy coś takiego, co druid by mógł to ogarnąć. 
+
+[Versir]
+Co byś chciała osiągnąć? 
+
+[Dungeon Master]
+Wgląda nas zdezorientowaną. i nie odpowiada. 
+
+[Arevon]
+Zastanawiam się, czemu się nie mogła zamienić w łańcuchach. 
+
+[Felicjan]
+co myślał? 
+
+[Arevon]
+Powiedziałem w recenzji, że wersję Revon trzeba trochę powitać. A Revon na razie siada na podłodze i rzuca detekcijki. 
+
+[Felicjan]
+Ja się spytam, Melaniz o tym myśli. 
+
+[Dungeon Master]
+Okej, momencik. 
+
+[Felicjan]
+Melania wie, co myślał, czy co myśli Felicjan, więc ona może wiedzieć rzeczy. 
+
+[Arevon]
+Dziękuję. 
+
+[Dungeon Master]
+Zrobię rzut. Okej. Ona patrzy na ciebie i pyta... Ona? wygląda na mocno... no... 
+
+[Felicjan]
+Zdecydowanie. 
+
+[Dungeon Master]
+tak, ale patrzy też z lekkim podziwiem na Felicjana, Melania 
+
+[Felicjan]
+Jeszcze bardziej się tylko upewniam czy Pythor 
+
+[Dungeon Master]
+Nie ma tu kieru. 
+
+[Felicjan]
+Jezu nie Pythor, czy Fallon ma dobrze przymocowaną tą czaszkę. 
+
+[Versir]
+Czy próbowałaś uciec? Teraz gaduje, że chciałaś zaznać wolności. Czy próbowałaś uciec z innego powodu? 
+
+[Dungeon Master]
+Cześć. 
+
+[Versir]
+Czemu próbowałaś uciec? 
+
+[Felicjan]
+Chcesz zabijać? 
+
+[Dungeon Master]
+On się zastanawia długo. 
+
+[Versir]
+Co chciałaś? Co chciałaś na felę? Czym jest wolność dla Ciebie? 
+
+[Dungeon Master]
+Wolność? Pokazuje trupa. Zjedzonego. 
+
+[Versir]
+Tylko to? 
+
+[Dungeon Master]
+Wzrusza ramionami. 
+
+[Versir]
+Będziesz miał sporo pracy 
+
+[Dungeon Master]
+Na kogo Insight? 
+
+[Versir]
+w solicjanie Ona nie zaznała normalnego życia Nie wie co to wolność Nie wie kim jest Nie wie czego pragnie 
+
+[Dungeon Master]
+Piotr, wrzuć Insight. Melania przygląda się tej Nefele, potem podchodzi do Polona i się przygląda tej czaszce Balmytrii. 
+
+[Arevon]
+Ja to w walnecie powiedziałem na głos, tak więc... 
+
+[Felicjan]
+Mówiłem ci, mówiłem, to co? 
+
+[Dungeon Master]
+I potem patrzy na Felicjana, potem znowu na czaszkę, potem znowu na Felicjana, potem znowu na czaszkę. 
+
+[Felicjan]
+Nie no, trochę mi wierzyła pani. Możecie się zastanawiać o co chodzi, a pani się zaraz wytłumaczy. 
+
+[Arevon]
+Ogólnie tak, ci co nie wiedzą o co chodzi pewnie zaczynają się zastanawiać, ale Versyr i Orion, nie wiem czy Orestes myśli o takich skomplikowanych rzeczach. 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Arevon]
+Że tak powiem, większość naszego party ma 8 minuta, nie? 
+
+[Orestes]
+Orestes się zastanawia czy byłaby w stanie zjeść coś z Cydona patrząc po tym jak zjadła Gagana. 
+
+[Versir]
+Dobra, masz jakiś kufel piwa? 
+
+[Arevon]
+Wali thinking. Ja się bardzo zastanawiam, czy Sidon się zamieni w proszek. 
+
+[Versir]
+Ona pojadła, no to teraz powinna, wiesz się napić czegoś na pewno jest spragniona 
+
+[Orestes]
+Nie, ja i tak podaję leciutko, wlewam jej. Dla Orestesa? Oby mnie nie zniszczyła mega magicznego kubka. 
+
+[Arevon]
+Dziękuję. 
+
+[Orestes]
+To jest najbardziej potężny i ważny dla Orestesa magiczny item. Kwestia gustu. 
+
+[Dungeon Master]
+Bola krew. 
+
+[Orestes]
+Orestes bierze ten kufel. No dobra, dobra i tak wyciera. To nie wiem, odcisk krwi na kuflu z jej ust czy coś. 
+
+[Versir]
+Czego ci Sajdl nauczył? 
+
+[Dungeon Master]
+Felicjana? 
+
+[Arevon]
+Te smoki to skąd się brały? 
+
+[Dungeon Master]
+Spogląda sobie w dół między nogi i pokazuje palcem. 
+
+[Arevon]
+Gdzie jest męski facet smok? 
+
+[Orion]
+Może była exterminacja. 
+
+[Dungeon Master]
+Chyba moje dzieci też? Patrzę na ciebie bez zrozumienia. 
+
+[Versir]
+Jak będziesz ją towarzyszyć, to znajdziesz to jedno. 
+
+[Orion]
+No i co ci wlewam, tak? Chyba to było po prostu. 
+
+[Dungeon Master]
+gdzie jest Sejdona? Zabić Sejdona. 
+
+[Felicjan]
+Zdecydowanie, zdecydowanie zabieram ją na statek. 
+
+[Arevon]
+Za parę dni. 
+
+[Dungeon Master]
+Zastanawia się, chwilę, on kiwa głową. 
+
+[Versir]
+No czemu, nie zaatakowała nikogo z nas, nie zaatakowała Ozenka jak nawet jak chciała. 
+
+[Felicjan]
+Tak, w chuj zdecydowanie. 
+
+[Arevon]
+Pytanie jest takie, czy statek ją przeżyje? 
+
+[Felicjan]
+Na statku jest trzech bogów. 
+
+[Arevon]
+Ja się boję zdziczałych smoków. 
+
+[Versir]
+Jest dzika, jest brutalna, ale... Z perspektywy wersji R'a to jest po prostu zdziczały smog i Palicjan ma sporo pracy przed sobą. 
+
+[Arevon]
+Teraz mi Felicia naszepta do ucha rzeczy. 
+
+[Felicjan]
+Jakbym miał Space Flota i miał Detect Foss chociaż przynajmniej. 
+
+[Arevon]
+Nic nie ma żadnego. 
+
+[Versir]
+Jak chcesz... Pewnie Felicjan by wiedział, że Wersir ma jeden potion detector w swoim inwentory. 
+
+[Dungeon Master]
+Berlania Nefelicjana podchodzi, wskazuje głową Nefele i pyta, jak oni zareagują. 
+
+[Felicjan]
+Nie wiem, ale myślę, że jej dalszy los to powinna być ich decyzja. 
+
+[Arevon]
+Ja rzucam detect magic od już 6 minut. 
+
+[Felicjan]
+Ja sobie mogę telepatycznie do Kiry napisać. 
+
+[Dungeon Master]
+Hmm... Co robicie? Dyskutujecie coś? 
+
+[Arevon]
+W tym momencie. Nie ma Kiry. 
+
+[Felicjan]
+Ale tak mi nie uwierzy, nie? 
+
+[Arevon]
+A, telepatyczna. Ale to ci chyba nic nie powie, bo ona nie może zobaczyć, więc... Wait. A tak zgięciane na jajecznicę? 
+
+[Felicjan]
+Zmiecione? 
+
+[Dungeon Master]
+O! Coś dużego nieostrocznie na nich usiadło. Ale jest jedno srebrne smocze jajo. No, Lefele patrzy za ciebie bez jakichś emocji. 
+
+[Felicjan]
+Nie? Nie widzę. Przeciwko jest jama? 
+
+[Orestes]
+W tym filmie pokażę, jak wytworzyć smog na kwiatach. 
+
+[Arevon]
+Gminy ma dziwną wyobraźnię. 
+
+[Dungeon Master]
+Nie wygląda zainteresowaną. 
+
+[Felicjan]
+Tak. Coraz bardziej mam wrażenie, że to jest skorupa. Jak Melania się mnie zapytała, to ja o jej zdanie też bym się zapytał oczywiście. 
+
+[Orestes]
+psychiatryka. 
+
+[Arevon]
+Ja przedstawiłem swoją opcję. 
+
+[Felicjan]
+Bardzo pewnie jak ja. 
+
+[Dungeon Master]
+Nie mam kurwa pojęcia. 
+
+[Arevon]
+Właśnie. 
+
+[Versir]
+No chodźmy sad. 
+
+[Orestes]
+Dziękuję. 
+
+[Dungeon Master]
+On się pyta. No ja jestem silny, ale to dźwignie tej czaszki trochę ten, jednak swoje waży. 
+
+[Arevon]
+Czy ja to tak myślę? Czy ja... Łańcucha? Łańcucha. 
+
+[Versir]
+Ma sens. 
+
+[Arevon]
+Observation? Mówię, że łańcuch był trochę magiczny. Może ten łańcuch upostrzmuję, bo przysmieniałem się wcześniej. 
+
+[Dungeon Master]
+Czy mi dobrze, rozsądnie? 
+
+[Arevon]
+Ona nie jest magiczna? Patrzę coś jeszcze w tym roomie, czy jest cokolwiek magicznego. 
+
+[Dungeon Master]
+Nie. 
+
+[Arevon]
+W sensie omijam te choinki wszystkie, co wszyscy trzymają w kieszeniach. 
+
+[Dungeon Master]
+Nic. Tak, tak, tak, nic. 
+
+[Arevon]
+Robię Nasłuchuję pod drzem Ile tam dzieci jest? 
+
+[Dungeon Master]
+Złyszysz smoga, która gdzieś tam się kręci. Nie wiem. 
+
+[Arevon]
+Twoich Tam na dole Dobra, chodźmy stąd. 
+
+[Orestes]
+Ale z nią. 
+
+[Dungeon Master]
+Wielka. 
+
+[Arevon]
+No jak no znam ją. Znam ją, znam ją. 
+
+[Felicjan]
+Biorę pod rękę i idziemy. 
+
+[Orestes]
+Nigdy nie wiadomo. 
+
+[Arevon]
+Ja idę po statyrów i mówię, żeby poszli z nami do Windy. 
+
+[Dungeon Master]
+i z Zenkiem 
+
+[Versir]
+Musimy wykołować tych z więźnia, z piętra więźniów. 
+
+[Dungeon Master]
+Dobra, drużynę by na razie zniknę dla ułatwienia 
+
+[Arevon]
+No spoko, na razie jeszcze mam jedno piętro zwiedzane. 
+
+[Versir]
+Bo ja z ręką to bym chciał pójść i wjeździć z tego basenu. 
+
+[Arevon]
+Jeszcze mieliśmy do... 
+
+[Orestes]
+Tak jak i który nam został. 
+
+[Arevon]
+No to... 
+
+[Dungeon Master]
+Dziękuję. 
+
+[Versir]
+Dziękuję. 
+
+[Arevon]
+To... 
+
+[Orestes]
+Nice! 
+
+[Arevon]
+Nice, okej, dobra. 
+
+[Orestes]
+Podoba mi się ta opcja. 
+
+[Arevon]
+To jedziemy window, pakujemy się, bierzemy satyrów. Satyry zostawiamy na levelu z więźniami i mówimy im, żeby tam poczekali razem z całą resztą. 
+
+[Felicjan]
+Mamy jeszcze jakieś piętro do zwiedzenia? 
+
+[Arevon]
+W sensie tam są wszyscy, wiesz, uwolnieni, to im mówię Stavrosowi, żeby... Czy ten... Przypilnował? Zaopiekował się nimi. O, tak chciałem powiedzieć. Tak, prywatne komnaty dzieci, które trochę nie żyją, więc... LUT tak zwany. Mamy jeszcze looting piętro. Więc mówię, zostawiamy satyry na piętrze więziennym, tak i mówimy Stavrosowi, weź ich tam ogarnij, oni chcą się też ewakuować. Dokładnie, będę w nim śpiewać. Zamykamy drzwi tu, że jak wysiedli i jedziemy do Leblast-Sidona chyba, tak? Bo wiesz co ja chciałbym? 
+
+[Dungeon Master]
+i pracują nad moralami. 
+
+[Arevon]
+Czor. 
+
+[Dungeon Master]
+Nefele bierzecie ze sobą? 
+
+[Arevon]
+Nie, Nefele wyjdziemy ze sobą. Nefele nie zostawiamy z nimi. 
+
+[Dungeon Master]
+Czy też ją tam zostawiacie? Ok, i poziom Nobles tak zwany. 
+
+[Arevon]
+Tak. 
+
+[Orestes]
+No w sumie trzeba pilnować. 
+
+[Arevon]
+Nie, Cyton. 
+
+[Dungeon Master]
+A, Sidon najpierw, dobra. 
+
+[Arevon]
+Wersja ma misje. 
+
+[Dungeon Master]
+Sidon. 
+
+[Arevon]
+Trochę średnie, jeśli permanentnie mapy już umarły mu. 
+
+[Dungeon Master]
+Zobaczymy czy się to wczyta tym razem w Mapa. Usunę Was i Was wkleję wszystkich. 
+
+[Arevon]
+Zmarły umów. 
+
+[Versir]
+No cóż... 
+
+[Dungeon Master]
+Jest mapa czy nie mapy? 
+
+[Versir]
+Nie ma mapy. 
+
+[Felicjan]
+Czy babka coś próbuje się ode mnie gadać? 
+
+[Versir]
+Eee, musi być coś na moim endzie. 
+
+[Arevon]
+A na poczekalni miałaś mapę? 
+
+[Versir]
+Tak, a poczeka, nie miałem map. 
+
+[Arevon]
+Okej. 
+
+[Orestes]
+Hmm. 
+
+[Felicjan]
+Czy się podoba? 
+
+[Dungeon Master]
+Cicho na razie? 
+
+[Versir]
+Nie widzę ma pecha, teraz to mówię. 
+
+[Felicjan]
+A to my chcemy teraz zrobić tą gwiazdę? Czy to miało jebnąć? 
+
+[Arevon]
+Tak, to nie chcesz wleć, tak? 
+
+[Versir]
+Dobra Zenek, mam dla ciebie istotne zadanie. 
+
+[Arevon]
+Ty stajesz w dobrym miejscu teraz. 
+
+[Dungeon Master]
+Idealnie się zacznę. OK 
+
+[Versir]
+To jest taki fajny basen. 
+
+[Dungeon Master]
+No 
+
+[Versir]
+Trzeba zrobić do niego offshedu. 
+
+[Dungeon Master]
+Jasne szefie 
+
+[Versir]
+I kierować w stronę tej gwiazdy. 
+
+[Dungeon Master]
+OK 
+
+[Versir]
+Zobaczymy Bezenek. Powodzenia. 
+
+[Dungeon Master]
+I zapotem 
+
+[Arevon]
+W łapie ojczynieś. 
+
+[Versir]
+Klepie go po plecach. OK. 
+
+[Arevon]
+Nie wygląda jakby się tłuczył. Zdech. 
+
+[Felicjan]
+Ja wspominałem, że to tylko czeka, żeby wybuchnąć. 
+
+[Dungeon Master]
+on tam zbliża się w jej kierunku ta gwiazda też trochę spowalnia a potem zaczyna podlatywać bliżej do tego Gajgana, do Zenka 
+
+[Arevon]
+Okej, ja się odsuwam. Ja nie chcę, żebym pierdolnął. 
+
+[Felicjan]
+I Zanek idzie to wyciągnąć do nas, tak? 
+
+[Arevon]
+Tak. Dlatego Zenek tam jest, a nie my. Nie, Zenek idzie... ...wypuchnąć. 
+
+[Dungeon Master]
+Potem ta czerwona gwiazda oblatuje Zenka z raz, dwa, a potem gdzieś leci dalej i dalej krąży. 
+
+[Versir]
+Tak że nie spodziewałem, że zniknął, tak dobrze pójdzie do tej pary. 
+
+[Arevon]
+On nas dalej widzi. 
+
+[Dungeon Master]
+Zenek odwraca się w twoim kierunku i wzrusza wszystkimi sześcioma ramionami. 
+
+[Versir]
+Ja patrzę na tą swoją rękawicę. Wersil patrzy na tą swoją rękawicę. 
+
+[Dungeon Master]
+Tak. Widzisz? 
+
+[Versir]
+I tak w stronę rękawicy i trochę do siebie. 
+
+[Arevon]
+Nie zapomnijcie zasubskrybować oraz zafollowować mnie na Facebooku! 
+
+[Versir]
+Czy to ja powinienem tam wejść po tą gwiazdę? 
+
+[Dungeon Master]
+Czy widzisz coś? Widzisz wersję, że pojawia Ci się kolejna wizja. 
+
+[Arevon]
+Tak, tak. 
+
+[Dungeon Master]
+Tym razem Twoje prośby o radę zostały wysłuchane najwyraźniej. Widzisz, jak stoisz przed tym basenem trzymając w ręku jakąś pochodnię. 
+
+[Versir]
+No to powinniśmy ewakuować tych więźniów. 
+
+[Dungeon Master]
+i wchodzisz tam do środka, po chwili wychodzisz z tego basonu, z tej wizji, a ta czerwona gwiazda z dołu podąża i twoja wizja się kończy. 
+
+[Arevon]
+że tak powiem, bez grawitacji latać, żeby sprowadzić, wyleźć z powrotem w port do nas. Ja wiem, dlatego próbuję Krukowi, żeby to odradzło zrobił. Żeby się oddalił. I się patrzył. To jest nowy Kruk, on na pewno nie pamięta. Cicho to zawsze jest ten sam, ale on o tym nie wie. On ma jeden inta. 
+
+[Dungeon Master]
+No dobra, wlatuję. Wygląda na bardzo zorientowanego i że skrzydła mullin działają tak jak powinny. 
+
+[Arevon]
+Ale mu powiedziałem o tym przed czasem. 
+
+[Dungeon Master]
+Siur, ale majownica, sam powiedziałeś. No ma problemy, żeby wrócić. 
+
+[Arevon]
+Nie zgadza się. Daję mu trochę czasu. Czy to nie umie się w ogóle poruszać? Czy... 
+
+[Dungeon Master]
+Ten eks dalej, ten eks dalej Sure, ale to w środku dalej 
+
+[Arevon]
+Ale on jest... 
+
+[Felicjan]
+Dobra, dobra. 
+
+[Dungeon Master]
+160 fitów to jest tylko okno 
+
+[Arevon]
+Tak, on jest w kosmosie. 
+
+[Versir]
+Okej, to pomieszczenie... To pomiesz... 
+
+[Dungeon Master]
+Kurwa, jebitnie, magicznie, tak 
+
+[Arevon]
+By the way, ja mam dalej detect magic, czy to jest magiczne? Tak. 
+
+[Versir]
+To pomieszczenie dalej zostaje zagadką, więc nie tracimy czasu. Przejdźmy do ewakuacji więźniów. 
+
+[Arevon]
+Wygląda, że to jest portal i ten portal jest dwustronny. 
+
+[Dungeon Master]
+Nobles, okej. 
+
+[Arevon]
+A zennek niestety tam zostaje. 
+
+[Dungeon Master]
+No właśnie długo do kolejnej sesji. Nie no, aż tak źle to chyba nie, ale może. 
+
+[Arevon]
+A tak bardzo, bardzo długo? Mają dopiero? Czy Orestes znajdzie czas wcześniej? 
+
+[Felicjan]
+Dziękuję. 
+
+[Arevon]
+Śluby jakieś się dzieją chyba. 
+
+[Dungeon Master]
+Dobra, na Nobles. 
+
+[Orestes]
+Tak, ale tylko nie z kwietnia. 
+
+[Dungeon Master]
+Nobles to nie będzie duże piętro, bo nie ma dużo z kim moglibyście się już spotkać tutaj. 
+
+[Arevon]
+Coś mi się stało po drodze. 
+
+[Dungeon Master]
+Ale tak, no dzisiaj to już tego nie... To jest dobry moment na skończenie, 
+
+[Arevon]
+Nie musisz wszystkiego przeczytać, żebyś miał jakieś ogólne pojęcie, więc damy radę. 
+
+[Dungeon Master]
+bo to i tak zajmie więcej pewnie niż pół godziny. 
+
+[Felicjan]
+A to mnie chcecie na ponad miesiąc takim cliffhangerem zostawić? 
+
+[Versir]
+Dziękuję. 
+
+[Dungeon Master]
+Gryfhanger jest. 
+
+[Orestes]
+Trzeba jeszcze doczytać materiały na jutro. 
+
+[Dungeon Master]
+No dobra. Na tym możemy się skończyć, chyba że chcecie w Indzie jeszcze jakieś rzeczy obgadywać. 
+
+[Arevon]
+Znaczy, najpierw ustalmy termin, to jest najważniejsze. 
+
+[Dungeon Master]
+To jest ważniejsze? No ja też mam. 
+
+[Arevon]
+Bo i ja jeszcze gdzieś jakieś wakacje po drodze też będę miał. A to w majach dopiero. 
+
+[Dungeon Master]
+tydzień są święta 
+
+[Orestes]
+Wielka tak to 
+
+[Dungeon Master]
+ja raczej nie, bo gości będę miał 
+
+[Arevon]
+Ja teoretycznie mogę w poniedziałek wielkanocny, ale nie do tak późno. Okej. No tak, no to nie. 
+
+[Orestes]
+Ja będę w pociągu 
+
+[Dungeon Master]
+ciebie od wtorku do piątku nie ma? 
+
+[Arevon]
+Bo ja od wtorku do piątku mnie nie ma, więc... A on wyjeżdża pod koniec ogadnia. Tak. 
+
+[Dungeon Master]
+my nie ma od środy do wtorku 
+
+[Orestes]
+Od 8 Ok Ok czyli 13 też odpadł Ja na pewno nie mogę szóstego i na pewno i na pewno nie mogę dwudziestego siódmego. 
+
+[Arevon]
+I 27, czyli 20 wygląda teoretycznie? 
+
+[Orestes]
+Tak. 
+
+[Dungeon Master]
+20? Ewentualnie 14 mógłbym jeśli byście we wtorek mogli 
+
+[Arevon]
+Nie mogę ustalić. 
+
+[Dungeon Master]
+bo ja wracam we wtorek 
+
+[Orestes]
+Ja chyba mogę. 
+
+[Arevon]
+Ja w piątek wracam o 15, więc... 
+
+[Dungeon Master]
+ale tak rano w miarę nie, piątek to nie 
+
+[Arevon]
+To jest 10, czyli Ciebie i tak nie ma wtedy, więc... 
+
+[Dungeon Master]
+no no dobra, to do 14 jeszcze jest dużo czasu 
+
+[Arevon]
+Okej. 
+
+[Dungeon Master]
+więc albo 14 albo 20 dopiero 
+
+[Arevon]
+No dobra. No to mi oba terminy pasują. 
+
+[Felicjan]
+Witasz. 
+
+[Arevon]
+A jeśli chodzi o Travelera, to jutro o 19.00 zapraszam. 
+
+[Orestes]
+na minatny moment też 
+
+[Arevon]
+Mam nadzieję, że zdążę, bo muszę coś skończyć w robocie. Dzisiaj nie skończyłem, ale będzie spoko. I chciałbym sesję otworzyć 7.05, ale to jeszcze nie jest pewne, czy zdążę przygotować wszystko do 7.05. No i jak coś ja najprawdopodobniej od 18 do 22 maja mi nie będzie. 
+
+[Dungeon Master]
+Dobra, to wracając, czy macie jakieś jeszcze sesyjne dyskusje w windzie, czy kończymy? 
+
+[Orestes]
+jasne 
+
+[Arevon]
+Ale to jeszcze nie jest na milion procent. 
+
+[Orestes]
+dwa miesiące jeszcze prawie sesyjny chyba nie 
+
+[Arevon]
+Ja mówię, że wydaje mi się, że jakby ktoś chciał wejść w ten gwiezdny portal, wygląda, że da się tam oddychać i da się wrócić. Więc jakbyśmy wysłali go tam z jakąś potrójną liną, to byśmy mogli go wciągnąć 
+
+[Felicjan]
+A my tam Zenka zostawiliśmy, tak? 
+
+[Arevon]
+z powrotem. Więc jak ktoś chce tam pójść, to wygląda, że da się wrócić. 
+
+[Orestes]
+Tak. 
+
+[Arevon]
+Nie wiem, czemu ktoś by chciał tam pójść do tej wyglądającej jak eksplodująca gwiazda, ale jakby ktoś chciał, to da się to zrobić najprawdopodobniej. 
+
+[Felicjan]
+Pomachaliśmy i nara. 
+
+[Arevon]
+Tak, Zenek tam został. No zawsze. 
+
+[Dungeon Master]
+Za to sobie. 
+
+[Versir]
+Sadek spełnił swoje zadanie. 
+
+[Orestes]
+Nawet i pomachaliśmy. 
+
+[Felicjan]
+Czy parę rang zrobić? 
+
+[Orestes]
+Dziękuję. 
+
+[Dungeon Master]
+Piękny mem. Bonuję za tego mema na wykopie. 
+
+[Arevon]
+To jest, ale to Revo swoim 8 min to ogarnął. Czytaj to na pewno, dlatego że on złeś chciał i znowu. Jakbyśmy go kogoś z linii wysłali, to dałoby się wrócić, bo już nie go wyciągnęli. On da to wykonalnie, ale nie wiem po co do końca. Ale wykonalne. Czy tak patrzę na Versiera, który się dziwnie patrzy na tą gwiazdę? A co ze smokiem robimy, to nie wiem. 
+
+[Dungeon Master]
+Można później. Dobra. 
+
+[Versir]
+Nie zapomnijcie zasubskrybować oraz zafollowować mnie na Facebooku! 
+
+[Orestes]
+To trzeba przemyśleć. 
+
+[Arevon]
+Nie mam pojęcia. A by the way, Zenka nie ma, weź wyjeb. 
+
+[Dungeon Master]
+To botowi dziękujemy w takim razie. 
+
+[Orestes]
+Żegnaj, boci. 
+
+[Arevon]
+Znaczy smoka bierzemy na pewno ze sobą, ale... 

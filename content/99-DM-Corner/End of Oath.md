@@ -1,11 +1,3 @@
-Running an *Odyssey of the Dragonlords* campaign is a massive and incredibly rewarding undertaking! Reaching the end of the Oath of Peace is one of the most epic reveals in the entire adventure.
-
-As an AI, I don’t get to sit at the table and roll the dice with you, but I am absolutely thrilled to help you prep this unforgettable moment. Since Pythor is alive in your campaign, I have adapted the notes so he transforms right alongside the others, using his true background from the transcript.
-
-Here are your session notes, read-aloud descriptions, and dialog trees based on the transcript provided!
-
----
-
 ### The Great Transformation (Read-Aloud Description)
 
 *Use this immediately after the Oath of Peace is read aloud by a player.*
