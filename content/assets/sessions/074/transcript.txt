@@ -1,14 +1,3 @@
-
-
-[Dungeon Master]
-須比加返比加返比加返比加返 須比加返比加返比加返比加返比加返比加返比加返 須比加返比加返比加返比加返比加返比加返比加返比 須比加返比加返比加返比 須比加返比加返 須比加返比 須比加返比 須比加返比 須比加返 須比加返 須比加返 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須比 須 須比 須 
-
-[Versir]
-《Sorcerer's Guide》 《The Legend》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 》 《TheSoul》 《TheSoul》 》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul》 《TheSoul 
-
-[Orestes]
-《Pierre Chaudin, La Churrie, Le Chai, Le Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai, Le Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》《Pierre Chaudin, La Chai》«《Pierre Chaudin, La Chai》«Pierre Chaudin, La Ch 
-
 [Arevon]
 W ideowej grze, więc na Foundry chyba znalazłem czemu mountowanie jako, wiesz, na mounta mi nie działało i w ogóle nie działało za bardzo wcześnie. 
 
@@ -47,9 +36,6 @@ Ja dorzucam tą inicjatywę.
 
 [Dungeon Master]
 Nie wszyscy uczestnicy w tym momencie walczą, ale słysząc Wasze zapowiedzi na koniec poprzedniej sesji, spodziewam się, że część widowni dołączy do walki. 
-
-[Arevon]
-Nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie 
 
 [Dungeon Master]
 Ale na ten moment widownia jest tylko widownią. 
