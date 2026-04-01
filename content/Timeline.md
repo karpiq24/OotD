@@ -423,3 +423,9 @@
 * Rozbrojenie skarbca Sydona, zdobycie sześciu potężnych artefaktów oraz odzyskanie czaszki legendarnej smoczycy [[Balmytria|Balmytrii]].
 * Zmasakrowanie strażniczek-harpii i odnalezienie uwięzionego [[Stavros|Stavrosa]] i [[Lia Amakiir|Lii Amakiir]] na poziomie więziennym.
 * Konfrontacja z szalonym [[Goloron|Goloronem]] na krwawej arenie i rozpoczęcie starcia z trzema smokami.
+
+## Sesja 74 - Matka Smoków (30.03.2026)
+* Starcie na krwawej arenie i ostateczne zgładzenie tytana [[Goloron|Golorona]] przez wskrzeszonego [[Orestes|Orestesa]].
+* Odkrycie i uwolnienie [[Nephele (Smok)|Nephele]], bezdusznego klona smoczycy [[Balmytria|Balmytrii]].
+* Podbój i eksploracja poziomu Heavens w wieży [[Praxys]] (spotkanie z nimfą [[Dianama|Dianamą]] i satyrami-bardami).
+* Badanie kosmicznej wyrwy i zaginięcie zdominowanego gygana [[Zenek|Zenka]] w Morzu Astralnym.
