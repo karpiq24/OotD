@@ -75,4 +75,4 @@ title: Sesje
 - [[Sesja 71 - Infiltracja Praxys|Sesja 71: Infiltracja Praxys]]
 - [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia|Sesja 72: Śniadanie u Tytana: Bochenek Przeznaczenia]]
 - [[Sesja 73 - Praxys - Skarbiec Sydona|Sesja 73: Praxys - Skarbiec Sydona]]
-- [[Sesja 74 - Upadek Tytana Mądrości i Uwolnienie Matki Smoków|Sesja 74: Upadek Tytana Mądrości i Uwolnienie Matki Smoków]]
+- [[Sesja 74 - Matka Smoków|Sesja 74: Matka Smoków]]
