@@ -7,6 +7,16 @@ chat_log: "[Chat log](../assets/sessions/074/chat_log.json)"
 
 # Sesja 74: Matka Smoków
 
+![Arena Golorona](../assets/sessions/074/074_arena_golorona_bitwa.png)
+[Prompt](../assets/sessions/074/074_arena_golorona_bitwa.txt)
+
+![Oddech smoka](../assets/sessions/074/074_oddech_smoka_bitwa.png)
+[Prompt](../assets/sessions/074/074_oddech_smoka_bitwa.txt)
+
+![Teleportacja na widownię](../assets/sessions/074/074_teleportacja_na_widownie_golorona.png)
+[Prompt](../assets/sessions/074/074_teleportacja_na_widownie_golorona.txt)
+
+
 **Data:** 30.03.2026
 
 ## Podsumowanie
@@ -19,11 +29,25 @@ Srebrny smok, najbardziej masywny z trójki, wzniósł się w powietrze i z grac
 
 ### Scatter — Ucieczka na Widownię
 
+![Bitwa na widowni](../assets/sessions/074/074_bitwa_na_widowni_elemental.png)
+[Prompt](../assets/sessions/074/074_bitwa_na_widowni_elemental.txt)
+
+![Obelgi koźlaków](../assets/sessions/074/074_obelgi_kozakow_arena.png)
+[Prompt](../assets/sessions/074/074_obelgi_kozakow_arena.txt)
+
+
 W chwili, gdy sytuacja na arenie wyglądała coraz gorzej, **[[Felicjan Janus Twardowski|Felicjan]] Janus Twardowski** podjął decyzję, która odwróciła bieg bitwy. Czarodziej skupił moc i rzucił zaklęcie **Scatter**, które w jednym pulsie teleportacyjnej energii wyrwało całą drużynę z areny i przeniósło na podwyższenie po zachodniej stronie Wall of Force — wprost na widownię, tuż obok tronu [[Goloron|Golorona]]. Smoki, uwięzione po drugiej stronie bariery, mogły jedynie ryczeć z bezsilnej wściekłości, obserwując jak ich pan zostaje odcięty. Bohaterowie wylądowali pośród oszołomionych cyklopów i koźlaków, a **[[Goloron]]** po raz pierwszy stracił swój szalony uśmiech — igrzyska przerodziły się w coś, czego nie zaplanował.
 
 Walka na widowni rozgorzała z pełną intensywnością. Koźlaki, oprócz walki fizycznej, sięgnęły po swoją najbardziej paskudną broń — **obelgi**. Jeden z nich wrzasnął do [[Orestes|Orestesa]]: „Tam byczku, jakiś niewyrośnięty jesteś!", a drugi dorzucił z reakcji: „Matka jebała się z niziołkiem?" — każda kolejna zniewaga pogłębiała wściekłość minotaura, nakładając na niego disadvantage do ataków. **[[Arevon Elorrenthi|Arevon]]** przywołał piąto-poziomowego **Elementala**, który zaczął siać spustoszenie w szeregach wroga, a **[[Orion Xul|Orion]]** ze swoją włócznią sunął między wrogami, szukając drogi do tytana.
 
-### Szaleńczy Gambit [[Goloron|Golorona]] — Stun, Ucieczka i Niewidzialność
+### Szaleńczy Gambit Golorona — Stun, Ucieczka i Niewidzialność
+
+![Ogłuszenie Versira](../assets/sessions/074/074_stun_versira_psionika.png)
+[Prompt](../assets/sessions/074/074_stun_versira_psionika.txt)
+
+![Niewidzialność tytana](../assets/sessions/074/074_niewidzialnosc_tytana_escape.png)
+[Prompt](../assets/sessions/074/074_niewidzialnosc_tytana_escape.txt)
+
 
 Drużyna zaczęła wyraźnie dominować. [[Versir]] sypał ciosami z miecza wspartymi **Spirit Shroudem**, a z jego kikuta dłoni, straconej wcześniej w kontakcie ze Sferą Anihilacji, wystrzelił **Scorching Ray** — pięć promieni ognia wyłaniających się z pięciu płomiennych palców widmowej ręki. [[Goloron]] chwiał się pod naporem ataków, krew sączyła się z ran na jego tytanicznym ciele, a porażka zdawała się nieuchronna.
 
@@ -33,11 +57,25 @@ Wtedy szalony tytan sięgnął po ostateczny środek. Jego puste oczy zalała at
 
 ### Korytarz Krwi — Cyklopy, Minotaury i Gygany
 
+![Bitwa na korytarzu](../assets/sessions/074/074_korytarz_krwi_bitwa_gygany.png)
+[Prompt](../assets/sessions/074/074_korytarz_krwi_bitwa_gygany.txt)
+
+![Fireball Felicjana](../assets/sessions/074/074_fireball_felicjana_korytarz.png)
+[Prompt](../assets/sessions/074/074_fireball_felicjana_korytarz.txt)
+
+
 Po wyeliminowaniu większości koźlaków ognistym **Fireballem** [[Felicjan Janus Twardowski|Felicjana]], który zmiótł je bez rzutu obronnego, oraz po dobiciu ostatnich cyklopów skoordynowanymi atakami [[Orion Xul|Oriona]] i Elementala. Zza drzwi wyłonił się potężny **minotaur** — który natychmiast zaatakował [[Orestes|Orestesa]], próbując go nadziać rogami. Barbarzyńca, wciąż wściekły po obelgach koźlaków, złapał minotaura w uchwyt i zaczął ciągnąć go po podłodze „jak burą szmatę", waląc toporem na przemian w niego i w wszystko, co się ruszało.
 
 Walka przeniosła się na **korytarz** za widownią, gdzie dołączyły kolejne **minotaury** oraz **sześciorękie Gygany** — potężne, wieloramienne olbrzymy, które ciskały javelinami z przerażającą celnością. Sytuacja robiła się coraz bardziej chaotyczna — [[Orestes]] walczył na jednym HP, [[Versir]] wciąż tkwił w stuporze, a [[Arevon Elorrenthi|Arevon]] i [[Felicjan Janus Twardowski|Felicjan]] próbowali jakoś utrzymać linię obrony, podczas gdy [[Orion Xul|Orion]] krążył po flankach, rażąc wrogów swoją włócznią.
 
-### Śmierć i Przeznaczenie [[Orestes|Orestesa]]
+### Śmierć i Przeznaczenie Orestesa
+
+![Śmierć Orestesa](../assets/sessions/074/074_smierc_orestesa_goloron.png)
+[Prompt](../assets/sessions/074/074_smierc_orestesa_goloron.txt)
+
+![Egzekucja Golorona](../assets/sessions/074/074_egzekucja_golorona_zloty_pyl.png)
+[Prompt](../assets/sessions/074/074_egzekucja_golorona_zloty_pyl.txt)
+
 
 Po jakimś czasie, z bocznego korytarza, znienacka wyłonił się ponownie **[[Goloron]]**. Skupił swoje ataki na najbardziej osłabionym celu — **Orestesie**. Nekrotyczna energia sączyła się z pustych oczu tytana, zatruwając krew minotaura, a kolejne ciosy systematycznie zdejmowały resztki jego wytrzymałości. [[Orestes]] padł, tracąc przytomność, a [[Goloron]] — korzystając z legendarnych akcji — uderzał konającego barbarzyńcę raz za razem, pieczętując los minotaura.
 
@@ -49,11 +87,25 @@ Wstał o połowę ruchu, z ostatnim **Rage'em** buzującym w żyłach, podszedł
 
 ### Piwo, Satyry i Sekrety Wieży
 
+![Satyry i piwo](../assets/sessions/074/074_satyry_piwo_odpoczynek.png)
+[Prompt](../assets/sessions/074/074_satyry_piwo_odpoczynek.txt)
+
+![Portal do Morza Astralnego](../assets/sessions/074/074_portal_morze_astralne_niebo.png)
+[Prompt](../assets/sessions/074/074_portal_morze_astralne_niebo.txt)
+
+
 Po upadku [[Goloron|Golorona]] i likwidacji pozostałych gyganów na korytarzu zapanowała cisza. Za zamkniętymi drzwiami [[Orestes]] usłyszał znajomą muzykę. Gdy drzwi się otworzyły, ukazali się trzej **satyry-bardowie**, grający radosną melodię o piwie. Minotaur, jeszcze z krwią tytana na topórze, natychmiast dołączył do śpiewu i zaczął rekrutować muzyków do pracy w bliżej nieokreślonej gospodzie.
 
 Drużyna przeprowadziła **krótki odpoczynek** przy piwie, po czym wznowiła ekspolracje piętra Heavens. Odkryto komnatę nimfy **[[Dianama|Dianamy]]** — kochanki [[Goloron|Golorona]] — a w niej klucz do zamkniętych drzwi. Znaleziono też salę treningową, koszary gyganów oraz fascynujący **portal** w ścianie wieży, za którym rozciągał się rajski widok — bujne polany, lazurowe niebo, kolorowe kwiaty i śpiew ptaków.
 
-### [[Nephele (Smok)|Nephele]] — Matka Smoków bez Duszy
+### Nephele (Smok) — Matka Smoków bez Duszy
+
+![Nephele w Okowach](../assets/sessions/074/074_nephele_wieziona_matka_smokow.png)
+[Prompt](../assets/sessions/074/074_nephele_wieziona_matka_smokow.txt)
+
+![Uwolniona Nephele](../assets/sessions/074/074_uwolniona_nephele_brutalnosc.png)
+[Prompt](../assets/sessions/074/074_uwolniona_nephele_brutalnosc.txt)
+
 
 Największym odkryciem sesji było to, co kryło się za zamkniętymi na klucz drzwiami. Bohaterowie ujrzeli sporą komnatę, w której na łańcuchach przykuta była **potężna smoczyca** — srebrnołuska, majestatyczna, pilnowana przez dwóch uzbrojonych gyganów. Walka z wartownikami była krótka — **[[Versir]]** użył mocy rękawicy, by **zdominować umysł** jednego z nich (ochrzczonego pieszczotliwie **[[Zenek|Zenkiem]]**), a reszta drużyny szybko rozprawiła się z drugim, przy czym [[Orestes]] trafił krytycznym ciosem, zadając niemal sześćdziesiąt punktów obrażeń jednym zamachem.
 
@@ -65,7 +117,11 @@ W tym momencie **amulet [[Despina|Despiny]]** noszony przez **[[Felicjan Janus T
 
 Topór [[Orestes|Orestesa]] z trzaskiem przeciął łańcuchy, a [[Nephele (Smok)|Nephele]] — wolna po raz pierwszy od nie wiadomo jak dawna — natychmiast rzuciła się na martwego gygana i zaczęła go pożerać z przerażającą brutalnością. Flaki latały we wszystkie strony, krew bryzgała na ściany, a bohaterowie patrzyli w milczeniu. Obok smoczycy odkryto jedno ocalałe **srebrne smocze jajo** pośród zgniecionych skorup — [[Nephele (Smok)|Nephele]] nie wykazała nim żadnego zainteresowania, co jedynie potwierdziło podejrzenia o jej bezdusznej naturze.
 
-### Gwiazda, [[Zenek]] i Niewypełniona Misja
+### Gwiazda, Zenek i Niewypełniona Misja
+
+![Zenek w basenie astralnym](../assets/sessions/074/074_zenek_basen_astralny_gwiazda.png)
+[Prompt](../assets/sessions/074/074_zenek_basen_astralny_gwiazda.txt)
+
 
 Po spotkaniu z [[Nephele (Smok)|Nephele]], drużyna powróciła do tajemniczego **basenu z kosmiczną wyrwą**, gdzie wciąż pulsowała czerwona gwiazda o niepokojącej energii. **[[Versir]]** wysłał zdominowanego **[[Zenek|Zenka]]** do basenu z misją zbadania fenomenu. [[Zenek]] posłusznie wszedł do basenu i zbliżył się do pulsującego obiektu, lecz gwiazda jedynie okrążyła go dwukrotnie, po czym odleciała dalej, krążąc wokół gwiazd w hipnotycznym tańcu. Gygan wzruszył wszystkimi sześcioma ramionami w geście bezradności.
 
