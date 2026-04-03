@@ -3,6 +3,7 @@ title: "Sesja 74: Matka Smoków"
 transcript_txt: "[Transkrypt (txt)](../assets/sessions/074/transcript.txt)"
 transcript_json: "[Transkrypt (json)](../assets/sessions/074/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/074/chat_log.json)"
+video_script: "[Skrypt wideo](../assets/sessions/074/video_script.txt)"
 ---
 
 ![Egzekucja Golorona](../assets/sessions/074/074_egzekucja_golorona_zloty_pyl.webp)
@@ -128,3 +129,8 @@ Sesja zakończyła się z drużyną ładującą się do windy — z [[Nephele (S
 ## Lokacje
 
 * Wieża [[Praxys]]
+
+## Filmy
+
+![Zmartwychwstanie Orestesa](../assets/sessions/074/074_orestes_jesus.webm)
+
