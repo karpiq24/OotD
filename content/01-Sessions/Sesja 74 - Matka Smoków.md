@@ -5,17 +5,8 @@ transcript_json: "[Transkrypt (json)](../assets/sessions/074/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/074/chat_log.json)"
 ---
 
-# Sesja 74: Matka Smoków
-
-![Arena Golorona](../assets/sessions/074/074_arena_golorona_bitwa.png)
-[Prompt](../assets/sessions/074/074_arena_golorona_bitwa.txt)
-
-![Oddech smoka](../assets/sessions/074/074_oddech_smoka_bitwa.png)
-[Prompt](../assets/sessions/074/074_oddech_smoka_bitwa.txt)
-
-![Teleportacja na widownię](../assets/sessions/074/074_teleportacja_na_widownie_golorona.png)
-[Prompt](../assets/sessions/074/074_teleportacja_na_widownie_golorona.txt)
-
+![Egzekucja Golorona](../assets/sessions/074/074_egzekucja_golorona_zloty_pyl.webp)
+[Prompt](../assets/sessions/074/074_egzekucja_golorona_zloty_pyl.txt)
 
 **Data:** 30.03.2026
 
@@ -23,18 +14,17 @@ chat_log: "[Chat log](../assets/sessions/074/chat_log.json)"
 
 ### Krwawa Arena [[Goloron|Golorona]] — Ogień, Lód i Szaleństwo Smoków
 
+![Oddech smoka](../assets/sessions/074/074_oddech_smoka_bitwa.webp)
+[Prompt](../assets/sessions/074/074_oddech_smoka_bitwa.txt)
+
 Bohaterowie Przepowiedni znaleźli się w samym sercu areny **[[Goloron|Golorona]]**, szalonego syna [[Bliźniaczy Tytani|Bliźniaków]], na jednym z wyższych pięter wieży **[[Praxys]]**. Ogromna, prostokątna komnata rozciągała się przed nimi niczym antyczny amfiteatr — w zachodniej części, na podwyższeniu, stał masywny tron, wokół którego rozsiadła się widownia złożona z **cyklopów** i **koźlaków**. Całą tę sekcję od właściwej areny oddzielała niewidzialna, lecz absolutnie nieprzenikliwa bariera — **Wall of Force**. Na wschodnim krańcu komnaty ciężka krata skrywała trzy młode smoki — srebrnego, brązowego i miedzianego — których oczy płonęły szaleńczym blaskiem. Sam **[[Goloron]]** zasiadał na tronie niczym groteskowy sędzia własnych igrzysk, a gdy ogłosił rozpoczęcie widowiska, krata na wschodzie podniosła się z zgrzytem i bestie wdarły się na arenę.
 
 Srebrny smok, najbardziej masywny z trójki, wzniósł się w powietrze i z gracją drapieżnika uderzył **Cold Breathem** prosto w zbite zbyt blisko siebie szeregi drużyny.Lodowe kryształy pokryły zbroję minotaura, a elf druid zacisnął zęby, czując jak mróz przenika do kości. Brązowy i miedziany smok podążyli za starszym bratem, siejąc dodatkowe spustoszenie kwasem i błyskawicami.
 
 ### Scatter — Ucieczka na Widownię
 
-![Bitwa na widowni](../assets/sessions/074/074_bitwa_na_widowni_elemental.png)
+![Bitwa na widowni](../assets/sessions/074/074_bitwa_na_widowni_elemental.webp)
 [Prompt](../assets/sessions/074/074_bitwa_na_widowni_elemental.txt)
-
-![Obelgi koźlaków](../assets/sessions/074/074_obelgi_kozakow_arena.png)
-[Prompt](../assets/sessions/074/074_obelgi_kozakow_arena.txt)
-
 
 W chwili, gdy sytuacja na arenie wyglądała coraz gorzej, **[[Felicjan Janus Twardowski|Felicjan]] Janus Twardowski** podjął decyzję, która odwróciła bieg bitwy. Czarodziej skupił moc i rzucił zaklęcie **Scatter**, które w jednym pulsie teleportacyjnej energii wyrwało całą drużynę z areny i przeniósło na podwyższenie po zachodniej stronie Wall of Force — wprost na widownię, tuż obok tronu [[Goloron|Golorona]]. Smoki, uwięzione po drugiej stronie bariery, mogły jedynie ryczeć z bezsilnej wściekłości, obserwując jak ich pan zostaje odcięty. Bohaterowie wylądowali pośród oszołomionych cyklopów i koźlaków, a **[[Goloron]]** po raz pierwszy stracił swój szalony uśmiech — igrzyska przerodziły się w coś, czego nie zaplanował.
 
@@ -42,12 +32,8 @@ Walka na widowni rozgorzała z pełną intensywnością. Koźlaki, oprócz walki
 
 ### Szaleńczy Gambit Golorona — Stun, Ucieczka i Niewidzialność
 
-![Ogłuszenie Versira](../assets/sessions/074/074_stun_versira_psionika.png)
-[Prompt](../assets/sessions/074/074_stun_versira_psionika.txt)
-
-![Niewidzialność tytana](../assets/sessions/074/074_niewidzialnosc_tytana_escape.png)
+![Niewidzialność tytana](../assets/sessions/074/074_niewidzialnosc_tytana_escape.webp)
 [Prompt](../assets/sessions/074/074_niewidzialnosc_tytana_escape.txt)
-
 
 Drużyna zaczęła wyraźnie dominować. [[Versir]] sypał ciosami z miecza wspartymi **Spirit Shroudem**, a z jego kikuta dłoni, straconej wcześniej w kontakcie ze Sferą Anihilacji, wystrzelił **Scorching Ray** — pięć promieni ognia wyłaniających się z pięciu płomiennych palców widmowej ręki. [[Goloron]] chwiał się pod naporem ataków, krew sączyła się z ran na jego tytanicznym ciele, a porażka zdawała się nieuchronna.
 
@@ -57,10 +43,7 @@ Wtedy szalony tytan sięgnął po ostateczny środek. Jego puste oczy zalała at
 
 ### Korytarz Krwi — Cyklopy, Minotaury i Gygany
 
-![Bitwa na korytarzu](../assets/sessions/074/074_korytarz_krwi_bitwa_gygany.png)
-[Prompt](../assets/sessions/074/074_korytarz_krwi_bitwa_gygany.txt)
-
-![Fireball Felicjana](../assets/sessions/074/074_fireball_felicjana_korytarz.png)
+![Fireball Felicjana](../assets/sessions/074/074_fireball_felicjana_korytarz.webp)
 [Prompt](../assets/sessions/074/074_fireball_felicjana_korytarz.txt)
 
 
@@ -70,12 +53,8 @@ Walka przeniosła się na **korytarz** za widownią, gdzie dołączyły kolejne 
 
 ### Śmierć i Przeznaczenie Orestesa
 
-![Śmierć Orestesa](../assets/sessions/074/074_smierc_orestesa_goloron.png)
+![Śmierć Orestesa](../assets/sessions/074/074_smierc_orestesa_goloron.webp)
 [Prompt](../assets/sessions/074/074_smierc_orestesa_goloron.txt)
-
-![Egzekucja Golorona](../assets/sessions/074/074_egzekucja_golorona_zloty_pyl.png)
-[Prompt](../assets/sessions/074/074_egzekucja_golorona_zloty_pyl.txt)
-
 
 Po jakimś czasie, z bocznego korytarza, znienacka wyłonił się ponownie **[[Goloron]]**. Skupił swoje ataki na najbardziej osłabionym celu — **Orestesie**. Nekrotyczna energia sączyła się z pustych oczu tytana, zatruwając krew minotaura, a kolejne ciosy systematycznie zdejmowały resztki jego wytrzymałości. [[Orestes]] padł, tracąc przytomność, a [[Goloron]] — korzystając z legendarnych akcji — uderzał konającego barbarzyńcę raz za razem, pieczętując los minotaura.
 
@@ -87,12 +66,8 @@ Wstał o połowę ruchu, z ostatnim **Rage'em** buzującym w żyłach, podszedł
 
 ### Piwo, Satyry i Sekrety Wieży
 
-![Satyry i piwo](../assets/sessions/074/074_satyry_piwo_odpoczynek.png)
+![Satyry i piwo](../assets/sessions/074/074_satyry_piwo_odpoczynek.webp)
 [Prompt](../assets/sessions/074/074_satyry_piwo_odpoczynek.txt)
-
-![Portal do Morza Astralnego](../assets/sessions/074/074_portal_morze_astralne_niebo.png)
-[Prompt](../assets/sessions/074/074_portal_morze_astralne_niebo.txt)
-
 
 Po upadku [[Goloron|Golorona]] i likwidacji pozostałych gyganów na korytarzu zapanowała cisza. Za zamkniętymi drzwiami [[Orestes]] usłyszał znajomą muzykę. Gdy drzwi się otworzyły, ukazali się trzej **satyry-bardowie**, grający radosną melodię o piwie. Minotaur, jeszcze z krwią tytana na topórze, natychmiast dołączył do śpiewu i zaczął rekrutować muzyków do pracy w bliżej nieokreślonej gospodzie.
 
@@ -100,12 +75,8 @@ Drużyna przeprowadziła **krótki odpoczynek** przy piwie, po czym wznowiła ek
 
 ### Nephele (Smok) — Matka Smoków bez Duszy
 
-![Nephele w Okowach](../assets/sessions/074/074_nephele_wieziona_matka_smokow.png)
-[Prompt](../assets/sessions/074/074_nephele_wieziona_matka_smokow.txt)
-
-![Uwolniona Nephele](../assets/sessions/074/074_uwolniona_nephele_brutalnosc.png)
+![Uwolniona Nephele](../assets/sessions/074/074_uwolniona_nephele_brutalnosc.webp)
 [Prompt](../assets/sessions/074/074_uwolniona_nephele_brutalnosc.txt)
-
 
 Największym odkryciem sesji było to, co kryło się za zamkniętymi na klucz drzwiami. Bohaterowie ujrzeli sporą komnatę, w której na łańcuchach przykuta była **potężna smoczyca** — srebrnołuska, majestatyczna, pilnowana przez dwóch uzbrojonych gyganów. Walka z wartownikami była krótka — **[[Versir]]** użył mocy rękawicy, by **zdominować umysł** jednego z nich (ochrzczonego pieszczotliwie **[[Zenek|Zenkiem]]**), a reszta drużyny szybko rozprawiła się z drugim, przy czym [[Orestes]] trafił krytycznym ciosem, zadając niemal sześćdziesiąt punktów obrażeń jednym zamachem.
 
@@ -119,7 +90,7 @@ Topór [[Orestes|Orestesa]] z trzaskiem przeciął łańcuchy, a [[Nephele (Smok
 
 ### Gwiazda, Zenek i Niewypełniona Misja
 
-![Zenek w basenie astralnym](../assets/sessions/074/074_zenek_basen_astralny_gwiazda.png)
+![Zenek w basenie astralnym](../assets/sessions/074/074_zenek_basen_astralny_gwiazda.webp)
 [Prompt](../assets/sessions/074/074_zenek_basen_astralny_gwiazda.txt)
 
 
