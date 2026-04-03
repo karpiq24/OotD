@@ -5,9 +5,6 @@ transcript_json: "[Transkrypt (json)](../assets/sessions/072/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/072/chat_log.json)"
 video_script: "[Skrypt wideo](../assets/sessions/072/video_script.txt)"
 ---
-
-# Sesja 72: Śniadanie u Tytana: Bochenek Przeznaczenia
-
 **Data:** 09.03.2026
 
 ## Podsumowanie
