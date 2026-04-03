@@ -1,83 +1,81 @@
 ---
 name: rpg-video-scripter
-description: Generates video script PROMPTS only (no images) tailored for Google Flow workflows.
+description: Generates a structured video script with integrated prompts for Google Flow (Veo/Nano).
 ---
 
 # RPG Video Scripter (Google Flow Edition)
 
-Use this skill to create a highly structured video script file. This script is designed so the User can easily copy and paste prompts directly into Google Flow, step-by-step, utilizing Flow's specific UI features (First Frame, Veo Video Generation, Expand, Camera, Ingredients, Scene Creator).
+Use this skill to create a highly structured video script file (`video_script.txt`). This script is optimized for Google Flow, allowing the user to quickly copy-paste prompts for high-quality AI video generation.
 
-## Instructions
+## Core Rules
 
-1.  **Input:**
-    *   Session Recap file (markdown).
-    *   List of "Key Events" (or select top 3-6 dramatic moments).
+1.  **Single Video Prompt**: Combine all scene information into one single English text block.
+    *   **Include**: Action descriptions, Camera movement instructions (e.g., "The camera orbits clockwise..."), Lighting, Atmosphere, and Sound descriptions.
+    *   **Dialogue**: Use **Polish** ONLY for actual character speech (e.g., "...as the knight yells: 'Za Thyleę!' while charging..."). All other descriptions must be in English.
+    *   **Pacing**: Veo clips are exactly **8 seconds**, so describe actions that fit this duration. Avoid "cut to"; describe continuous motion.
 
-2.  **Prompt Generation (DELEGATED via `rpg-illustrator`):**
-    *   **Action**: For every major key event, you MUST call the `rpg-illustrator` skill in **"Prompt Generation" Mode** to create the foundation for a **Clip**.
-    *   **Input**: Provide a description of the event to the skill.
-    *   **Output**: The skill returns a fully refined image prompt (NO proper names, uses physical descriptions, consistent style, verbatium `image_prompt`).
-    *   **Do NOT** manually reconstruct character descriptions or styles here. Trust the `rpg-illustrator` output. We will use this output as the "First Frame" (Rozpocznij) image prompt.
+2.  **Clip Methods (Mutually Exclusive)**: For each clip, you must propose exactly ONE method:
+    *   **Method A: First Frame (Image-to-Video)**: Generate a static image first (using `rpg-illustrator`), then set it as the `Start Frame` in Veo. This is best for complex character details or specific starting compositions.
+    *   **Method B: Ingredients (Text-to-Video with @refs)**: Generate the video directly from text. Reference saved characters/items using `@IngredientName`. This is best for dynamic movement or when characters are already defined in the user's Flow library.
 
-3.  **Select Art Style (CONSISTENCY REQUIRED):**
-    *   **Choose ONE art style** for the entire script. All clips MUST adhere to it.
-    *   **Allowed Styles**: *High quality digital fantasy art, Dark Fantasy Oil Painting (Frazetta style), Watercolor and Ink, Vibrant Comic Book Style, Stained Glass illustration, Woodcut print, Tarot Card aesthetic, Abstract Ethereal Concept Art, 80s Dark Fantasy Anime, Nouveau Art Style, Cinematic photorealistic fantasy.*
+3.  **Visual Prompting (DELEGATED)**:
+    *   **Action**: For every clip, you MUST call the `rpg-illustrator` skill in **"Prompt Generation" Mode** to get character and environment descriptions.
+    *   **First Frame (Method A)**: Use the `rpg-illustrator` output verbatim for the image prompt.
+    *   **Ingredients (Method B)**: Use the `rpg-illustrator` output but replace character names with `@IngredientName` tags in the consolidated video prompt.
 
-4.  **Google Flow Workflow Structure:**
-    *   Google Flow uses a specific pipeline: Generate Image -> Use as First Frame -> Generate Video Clip -> Expand/Edit -> Combine Clips in Scene Creator into a final **Scene**.
-    *   Structure the script so the user can easily copy/paste prompts for each step of this pipeline.
+4.  **Ingredient Generation Rules**:
+    *   When the output asks to define an Ingredient (`@Name`), provide a **full image prompt** for that ingredient in the `Global Ingredients` section:
+    *   **Character Ingredients**: Prompt = [Character Description] + "isolated on a simple one color background (grey or white background), no environment".
+    *   **Place/Environment Ingredients**: Prompt = [Environment Description] + "empty, no characters, no people".
+    *   **Style**: Always include the session's art style in these ingredient prompts.
 
-    *   **Phase A: First Frame Generation (Image)**
-        - Shows the **BEGINNING STATE** of the clip, **BEFORE** the main action occurs.
-        - The user will generate this using models *Nano Banana 2*.
-        - The prompt is exactly what `rpg-illustrator` gave you (environment + lighting + character states).
-    
-    *   **Phase B: Base Video (Action)**
-        - Describes the **TRANSFORMATION/ACTION** occurring in the clip perfectly hooked to the Start Frame.
-        - Create a cinematic Veo prompt describing exactly what moves. **Crucially, Veo clips are exactly 8 seconds long by default**, so pace the action to fit this timeframe.
-        - **Camera Instructions**: Provide an explicit Google Flow Camera Suggestion (e.g., *Pan: Left, Tilt: High, Motion: Orbit, Dolly Zoom / Najazd kamerą*).
-        - **Audio & Dialogue**: Veo clips generate embedded audio automatically. Provide descriptions for consistent background sounds. If needed, include **Polish dialogue** and a description of the voice tone (e.g., "Męski, chropowaty głos...").
-        - **Transitions**: NEVER use "cut to". Videos are continuous shots.
+5.  **Art Style Consistency**: Choose ONE art style for the entire session (e.g., *Arcane Studio Fortiche style*, *80s Dark Fantasy Anime*, *Dark Fantasy Oil Painting (Frazetta style)*) and apply it to every prompt. Never choose photorealistic style.
 
-    *   **Phase C: Flow Refinement (Optional per clip)**
-        - **Expand (Rozszerz)**: If the action is too complex/long for one 8s generation, provide a secondary prompt for the "What next? (Co dalej?)" text field in the video editor.
-        - **Ingredients (Składniki)**: If a specific character must remain perfectly consistent across clips, suggest saving them as an Ingredient to attach using `@`.
+## Output Format
 
-5.  **Output Format:**
-    *   Create a file: `content/assets/sessions/{000}/video_script.txt` (where `{000}` is the 3-digit session number).
-    *   Format structure:
+Create the file: `content/assets/sessions/{000}/video_script.txt` (where `{000}` is the 3-digit session number).
 
-        ```markdown
-        # Video Script: Sesja {number}
-        
-        **Art Style Set**: {Selected Art Style}
-        **Global Ingredients** (Składniki): {Suggest any characters or recurring items that should be saved as 'Składniki' in Flow for consistency}
-        
-        ---
-        
-        ## Clip 1: {Event Name}
-        
-        ### Step 1: First Frame (Static Image)
-        *Model Suggestion: Nano Banana 2*
-        **Prompt (Copy this)**:
-        > [Insert the EXACT, detailed output from rpg-illustrator here. High quality, full character descriptions, lighting, environment, etc.]
-        
-        ### Step 2: Base Video (Action & Audio)
-        *Model: Veo 3.1 - Fast | Tool: Set Video 'Rozpocznij' frame using image from Step 1*
-        *Camera Suggestion: [e.g., Static / Najazd kamerą (Zoom In) / Orbituj]*
-        **Action Prompt (Copy this)**:
-        > [Describe the cinematic action and movement based on the first frame. Remember it's an 8-second continuous shot. E.g., The man in armor stands up and slowly raises his glowing sword. Dust particles swirl in the air.]
-        
-        **Audio & Dialogue Prompt (Optional)**:
-        > [Background sounds: e.g., Mroźny wiatr i wycie wilków. / Dialogue (Polish): e.g., Kobieta o delikatnym, zimnym głosie szepcze: "Zima nadeszła."]
-        
-        ### Step 3: Expand / Rozszerz (Optional)
-        *Use when in the video player/editor after generating Step 2*
-        **Action Continuation Prompt (Co dalej?)**:
-        > [E.g., An explosive blue shockwave ripples out from the raised sword, shattering the ground around him.]
+### Template Structure:
 
-        ---
-        
-        ## Clip 2: ...
-        ```
-    *   **Constraint**: Do NOT generate actual images or videos. Process text only. At the end, remind the user to load these **Clips** into the "Kreator Scen" (Scene Creator) timeline to combine them into the final **Scene**!
+```markdown
+# Video Script: Sesja {number} - {Title}
+
+**Art Style**: {Selected Style}
+
+**Global Ingredients (Składniki)**:
+*   **@IngredientName**:
+    *   *Role*: {Character/Location}
+    *   *Prompt (Copy and paste to create ingredient)*:
+{Full refined prompt based on Rule 4}
+
+---
+
+## CLIP 1: {Event Name}
+**Method**: {Method A: First Frame | Method B: Ingredients}
+
+### STEP 1: {Setup - e.g., Generate First Frame}
+**Prompt to copy (for Step 1 image)**:
+[Refined prompt from rpg-illustrator - used for Image Generation in Method A, or as the character baseline for Method B]
+
+### STEP 2: VIDEO GENERATION (8 Seconds)
+*Model: Veo 3.1 - Fast | Motion: 5 | [Set Image from Step 1 as Start Frame (Method A only)]*
+
+**Consolidated Video Prompt to copy (for Step 2 video)**:
+[One single block containing: Action + Camera Movement + Atmosphere + Sound + Polish Dialogue. English only, except for Polish speech. Use @IngredientName markers if Method B.]
+
+### STEP 3: EXPAND / ROZSZERZ (Optional)
+**Continuation Prompt to copy (for Expand/Co dalej?)**:
+[Brief 8-second follow-up action for the Expand tool if the scene needs more time.]
+
+---
+```
+
+## Instructions for the Agent
+
+1.  **Identify or Receive Scenes**:
+    *   **Case A (Default)**: Identify 3-6 key dramatic moments from the session recap.
+    *   **Case B (User-Specified)**: If the user provides a specific scene description, prompt, or list of moments, **use those instead**.
+2.  **Propose a Clip Method** (A or B) for each, balancing visual detail (Method A) with fluid character movement (Method B).
+3.  **Call `rpg-illustrator`** in "Prompt Generation" Mode for each clip to get high-quality descriptions.
+4.  **Write the Consolidated Video Prompt** ensuring it hits all requirements (Camera, Audio, Polish Dialog).
+5.  **Save the file** and remind the user to load these into the "Kreator Scen" (Scene Creator) timeline to build the final scene.

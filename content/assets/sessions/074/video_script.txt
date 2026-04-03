@@ -1,0 +1,123 @@
+# Video Script: Sesja 74 - Matka Smoków
+
+**Art Style**: Arcane Studio Fortiche style
+
+**Global Ingredients (Składniki)**:
+*   **@Orestes**:
+    *   *Role*: Character (Minotaur Barbarian)
+    *   *Prompt (Copy and paste to create ingredient)*:
+powerful male minotaur with a muscular build, broad shoulders, and brown fur. His bovine head features large, curved dark grey horns, piercing glowing blue eyes, and a bull snout. He has stylish, thick blonde hair swept back and a well-groomed blonde fur beard. He is dressed in a draped white toga with an ornate red sash featuring carved patterns and a textured grey shoulder strap. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting, isolated on a simple one color white background, no environment.
+*   **@Goloron**:
+    *   *Role*: Character (Titan)
+    *   *Prompt (Copy and paste to create ingredient)*:
+adult male, mythological god, imposing muscular build, dark skin, glowing blank white eyes, horizontal third eye on the forehead with a teal iris, short dark beard and mustache, mid-length straight black hair, golden spiked crown, form-fitting dark bronze muscle cuirass armor, glowing cyan magical lines tracing the armor and skin, matching bronze bracers and pointed leg greaves, white pleated kilt with cyan trim, ornate gold belt with a sunburst and teal center, structured bronze shoulder collar, massive flowing two-tone cape dark on the outside and white on the inside with cyan geometric borders. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting, isolated on a simple one color white background, no environment.
+*   **@Arevon**:
+    *   *Role*: Character (Elf Druid)
+    *   *Prompt (Copy and paste to create ingredient)*:
+young adult male elf with a slender build, an angular face, sharp jawline, intense dark eyes, and long pointed ears. His shoulder-length, wavy dark brown hair frames his face. He wears layered brown leather armor with intricate silver filigree details over a dark, high-collared tunic. He is equipped with black fingerless leather gloves, an ornate silver pendant with a large cracked dark gemstone, and a single silver diamond-shaped earring. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting, isolated on a simple one color white background, no environment.
+*   **@Lutheria**:
+    *   *Role*: Character (Goddess of Dreams)
+    *   *Prompt (Copy and paste to create ingredient)*:
+young adult female, slender build, pale skin, long wavy platinum blonde hair, smirking expression, black lipstick, heavy black eye makeup with dripping tear streaks, gothic black lace dress, black feather shoulder piece, an intricate crown of black horns and glowing blue crystals, black choker with a large faceted blue gemstone pendant, dangling blue gemstone earrings, holding a large ornate scythe with a glowing blue blade. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting, isolated on a simple one color white background, no environment.
+*   **@Gygan**:
+    *   *Role*: NPC (Six-armed Giant)
+    *   *Prompt (Copy and paste to create ingredient)*:
+Massive six-armed cyclops with a single large glowing eye in the center of its forehead. It has grey, stone-like skin and is dressed in crude leather and bronze armor strips. Each of its six muscular arms holds a bronze javelin or a heavy iron sword. It is an imposing, ancient giant. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting, isolated on a simple one color white background, no environment.
+*   **@AncientHallway**:
+    *   *Role*: Location (Praxys Grand Corridor)
+    *   *Prompt (Copy and paste to create ingredient)*:
+A grand, immensely wide and high-vaulted luxury corridor designed for giants. The walls are made of polished white marble with gold filigree and glowing blue magical circuits. Massive golden chandeliers hang from the ceiling, casting a warm and bright light. The floor is made of large, reflective obsidian tiles with gold patterns. The atmosphere is opulent, majestic, and brightly lit. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting, empty, no characters, no people.
+*   **@PsychicVoid**:
+    *   *Role*: Location (Orestes' Mental Space)
+    *   *Prompt (Copy and paste to create ingredient)*:
+A surreal dreamscape in a void of absolute darkness. The "floor" looks like a surface of dark, still water reflecting a non-existent sky. Faint ethereal mists swirl in the distance. The atmosphere is silent and haunting. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting, empty, no characters, no people.
+
+---
+
+## CLIP 1: Psioniczny Cios
+**Method**: Method B: Ingredients
+
+### STEP 1: Charakter i Scena (Pierwsza Klatka)
+**Prompt to copy (for Step 1 image)**:
+A high-action battle scene frozen in time in a grand, brightly lit luxury corridor (@AncientHallway). In the center, a powerful male minotaur (@Orestes) stands ready with his axe. He is surrounded by massive six-armed cyclopes (@Gygan) in combat stances. From a side corridor, an imposing dark-skinned mythological god (@Goloron) has his hand raised and aimed at @Orestes, his horizontal third eye starting to glow with a teal light. Arcane Studio Fortiche style, vibrant colors, stylized line art.
+
+### STEP 2: VIDEO GENERATION (8 Seconds)
+*Model: Veo 3.1 - Fast | Motion: 5*
+
+**Consolidated Video Prompt to copy (for Step 2 video)**:
+Starting from the static frame, @Orestes roars "Dzień dobry piękny panie, czas na pana zajebanie!" as he strikes @Gygan. Simultaneously, @Goloron fires a sudden, focused stream of inky black psionic energy from his palm that strikes @Orestes in the chest. @Orestes recoils from the impact as inky smoke fills the @AncientHallway. Loud magical crackling and deep rumbling sounds. Arcane Studio Fortiche style.
+
+---
+
+## CLIP 2: Upadek i Odrzucenie
+**Method**: Method B: Ingredients
+
+### STEP 1: Charakter i Scena (Pierwsza Klatka)
+**Prompt to copy (for Step 1 image)**:
+Inside the grand @AncientHallway. The powerful male minotaur (@Orestes) lies limp and lifeless on the reflective marble floor. The imposing mythological god (@Goloron) stands tall over the body, leaning down with one hand reaching out to grab @Orestes by the throat. Extreme low angle, opulent lighting, Arcane Studio Fortiche style, vibrant colors, stylized line art.
+
+### STEP 2: VIDEO GENERATION (8 Seconds)
+*Model: Veo 3.1 - Fast | Motion: 5*
+
+**Consolidated Video Prompt to copy (for Step 2 video)**:
+Starting from the low angle frame, @Goloron firmly grips @Orestes' neck and effortlessly lifts the massive minotaur high into the air. @Goloron looks at the face of his victim and utters "Mama będzie ze mnie dumna" with a deep voice. He then violently flings @Orestes' body backward into the darkness. The camera pans rapidly with the body. Sound of a heavy thud and sinister laughter. Arcane Studio Fortiche style.
+
+---
+
+## CLIP 3: Pęknięte Lustro
+**Method**: Method A: First Frame
+
+### STEP 1: Generowanie Pierwszej Klatki
+**Prompt to copy (for Step 1 image)**:
+A surreal dreamscape in @PsychicVoid. The powerful male minotaur (@Orestes) floats dazed in the dark void. Directly in front of him is a massive, ornate antique mirror with a pristine, uncracked silver surface reflecting his confused face. Ethereal lighting, mysterious atmosphere, Arcane Studio Fortiche style, vibrant colors, stylized line art.
+
+### STEP 2: VIDEO GENERATION (8 Seconds)
+*Model: Veo 3.1 - Fast | Motion: 5 | [Set Image from Step 1 as Start Frame]*
+
+**Consolidated Video Prompt to copy (for Step 2 video)**:
+Continuous motion from the floating state in @PsychicVoid. Suddenly, a single sharp metallic snap sounds as the mirror in front of @Orestes spontaneously cracks. A complex spider-web of deep fractures rapidly spreads across the glass surface, distorting the reflection. Ethereal mists swirl around the mirror. Soft ringing background sound. Arcane Studio Fortiche style.
+
+---
+
+## CLIP 4: Obietnica Lutherii
+**Method**: Method A: First Frame
+
+### STEP 1: Generowanie Pierwszej Klatki
+**Prompt to copy (for Step 1 image)**:
+Extreme close-up on the heavily shattered mirror in @PsychicVoid. Within a sharp, jagged shard of glass, the face of the goddess (@Lutheria) is framed, her eyes fixed on the viewer. @Orestes' face is positioned close to the glass, his expression shifting from confusion to defiance. Arcane Studio Fortiche style, vibrant colors, stylized line art.
+
+### STEP 2: VIDEO GENERATION (8 Seconds)
+*Model: Veo 3.1 - Fast | Motion: 5 | [Set Image from Step 1 as Start Frame]*
+
+**Consolidated Video Prompt to copy (for Step 2 video)**:
+Starting from the close-up, @Orestes sticks out his long pink tongue at the reflection of @Lutheria with a defiant huff. In response, @Lutheria's malicious smirk widens. Sudden sharp cracking noises as even more fractures explode across the mirror surface, filling the frame with jagged glass lines. Surreal and haunting atmosphere. Arcane Studio Fortiche style.
+
+---
+
+## CLIP 5: "Jesteś Następny"
+**Method**: Method B: Ingredients
+
+### STEP 1: Charakter i Scena (Pierwsza Klatka)
+**Prompt to copy (for Step 1 image)**:
+Back in @AncientHallway. @Goloron stands triumphantly with his back to the limp body of @Orestes on the floor. @Goloron is pointing a long, threatening finger at @Arevon, who stands further down the hallway in a defensive pose. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting.
+
+### STEP 2: VIDEO GENERATION (8 Seconds)
+*Model: Veo 3.1 - Fast | Motion: 5*
+
+**Consolidated Video Prompt to copy (for Step 2 video)**:
+Starting from the pointing stance in @AncientHallway, @Goloron speaks with absolute authority: "Jesteś następny." A low heartbeat sound pulses. Behind him, the eyes of @Orestes suddenly snap open and glow with intense blue light. @Orestes starts to push himself up from the floor silently. The camera shifts focus from @Goloron's hand to @Arevon's shocked eyes. Arcane Studio Fortiche style.
+
+---
+
+## CLIP 6: Złota Egzekucja
+**Method**: Method B: Ingredients
+
+### STEP 1: Charakter i Scena (Pierwsza Klatka)
+**Prompt to copy (for Step 1 image)**:
+A dramatic scene in @AncientHallway. @Orestes has risen behind @Goloron and stands in a powerful combat stance, his massive iron greataxe raised high over his head, ready to strike the god's exposed back. @Goloron is still focused forward, unaware. Arcane Studio Fortiche style, vibrant colors, stylized line art, high-end digital painting.
+
+### STEP 2: VIDEO GENERATION (8 Seconds)
+*Model: Veo 3.1 - Fast | Motion: 5*
+
+**Consolidated Video Prompt to copy (for Step 2 video)**:
+The final blow in the @AncientHallway. @Orestes lunges forward, swinging the axe in a powerful downward arc into @Goloron's back. As the blade hits, the camera shakes violently from the power. Instead of blood, @Goloron's body shatters into a blinding explosion of gold dust and swirling light. Golden particles flood the corridor. Sounds of a massive metallic impact followed by a magical boom. Arcane Studio Fortiche style.
