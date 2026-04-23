@@ -76,3 +76,4 @@ title: Sesje
 - [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia|Sesja 72: Śniadanie u Tytana: Bochenek Przeznaczenia]]
 - [[Sesja 73 - Praxys - Skarbiec Sydona|Sesja 73: Praxys - Skarbiec Sydona]]
 - [[Sesja 74 - Matka Smoków|Sesja 74: Matka Smoków]]
+- [[Sesja 75 - Koniec Przysięgi|Sesja 75: Koniec Przysięgi]]
