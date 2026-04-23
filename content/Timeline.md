@@ -429,3 +429,12 @@
 * Odkrycie i uwolnienie [[Nephele (Smok)|Nephele]], bezdusznego klona smoczycy [[Balmytria|Balmytrii]].
 * Podbój i eksploracja poziomu Heavens w wieży [[Praxys]] (spotkanie z nimfą [[Dianama|Dianamą]] i satyrami-bardami).
 * Badanie kosmicznej wyrwy i zaginięcie zdominowanego gygana [[Zenek|Zenka]] w Morzu Astralnym.
+
+## Sesja 75 - Koniec Przysięgi (20.04.2026)
+* Krwawe starcie z kamiennymi gargulcami oraz faworytami [[Chalcia|Chalcii]] w Komnacie Rozkoszy.
+* Audiencja u Furii ([[Megara|Megary]], [[Alecto]] i [[Tyzyfone]]), które wyjawiły sekrety dotyczące zdrady Mojr i przekazały ostrzeżenia dla [[Arevon Elorrenthi|Arevona]] dotyczące jego ojczystego świata.
+* Rytualne uwolnienie uwięzionej gwiazdy na szczycie wieży, co doprowadziło do widowiskowej destrukcji [[Praxys]].
+* Ostatnie spotkanie [[Versir|Versira]] z wujem [[Hergeron|Hergeronem]] i przejęcie przez bohatera tytanicznej esencji siły.
+* Oficjalne wygaśnięcie Przysięgi Pokoju, skutkujące odzyskaniem pełnej mocy przez [[Sydon|Sydona]] i [[Lutheria|Lutherię]].
+* Ujawnienie prawdziwej tożsamości Pięciorga Bogów jako smoków (m.in. [[Sybolkorax]], [[Arkyrania|Arkyrani]]) i poznanie pełnej historii o krwawej ofierze [[Balmytria|Balmytrii]] podczas Królewskiej Gry ([[09 Gra Bogów]]).
+* Podjęcie decyzji o natychmiastowej żegludze do [[Mytros]] w celu dołączenia do ostatecznej wojny.

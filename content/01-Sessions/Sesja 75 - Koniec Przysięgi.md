@@ -3,25 +3,32 @@ title: "Sesja 75: Koniec Przysięgi"
 transcript_txt: "[Transkrypt (txt)](../assets/sessions/075/transcript.txt)"
 transcript_json: "[Transkrypt (json)](../assets/sessions/075/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/075/chat_log.json)"
-video_script: "[Skrypt wideo](../assets/sessions/075/video_script.txt)"
 ---
 
 **Data:** 20.04.2026
 
 ## Podsumowanie
 
+![Zniszczenie Praxys](../assets/sessions/075/075_main_destruction.webp)
+[Prompt](../assets/sessions/075/075_main_destruction.txt)
 ### Krwawe Powitanie na Piętrze Szlachty
 
+![Walka z gargulcem](../assets/sessions/075/075_section1_battle.webp)
+[Prompt](../assets/sessions/075/075_section1_battle.txt)
 Ciężkie, okute brązem drzwi windy rozsunęły się z metalicznym zgrzytem, wpuszczając drużynę na piętro wieży **[[Praxys]]** przeznaczone dla szlachty. Powietrze było tu inne niż poniżej – gęste, przesycone wonią kadzideł, starych pergaminów i tego nieuchwytnego chłodu, jaki towarzyszy zawsze miejscom, gdzie od wieków mieszka pycha. Nie zdążyli jednak nacieszyć się tym osobliwym majestatem, gdyż zza rogu wynurzył się potężny **[[Minotaur z Thylei|minotaur]]** – strażnik, którego bycze oczy błysnęły podejrzliwością na widok przybyszów. **[[Versir]]**, z właściwą sobie śliską elokwencją, próbował odegrać rolę zaufanego gościa pałacu, lecz minotaur nie dał się zwieść ani na chwilę. Mruknął coś pod nosem, uderzył pięścią w wyrzeźbiony w ścianie symbol, a wówczas dwie ogromne **czterorękie statuy gargulców**, dotąd stojące niewzruszenie po obu stronach korytarza, zatrzęsły się i z głuchym trzaskiem odrywającego się kamienia ożyły.
 
 Bitwa rozgorzała niemal natychmiast. **[[Arevon Elorrenthi|Arevon]]**, czerpiąc z pradawnych mocy druida gwiazd, rozpalił pośrodku sali **magiczne ognisko**, którego płomienie tańczyły nienaturalnie zimnym, błękitno-białym blaskiem. **[[Orestes]]**, wykorzystując swoją minotaurzą posturę i siłę doprowadzoną do szału bitewnego, chwycił jednego z gargulców za czteroczłonkowy kadłub i – charcząc z wysiłku – wepchnął go wprost w ten czarodziejski pożar, gdzie kamień zaczął pękać i syczeć. Z północnych drzwi, wśród dymu, wynurzył się **sześcioręki [[Gyganie|Gygan]]**, mag o sześciu ramionach splatających gesty w przerażającym rytmie, ciskając zaklęciami z trzech kierunków jednocześnie. W tym momencie do walki włączyła się **[[Nephele]]** – uwolniona smoczyca, która rozwinęła skrzydła i z lodowatym rykiem zionęła mroźnym oddechem, sypiąc odłamkami lodu, które odłamywały gargulcom kończyny. Gdy ostatnia z kamiennych bestii roztrzaskała się na posadzce, smoczyca obróciła się ku magowi i – z gracją zarazem przerażającą i uwalniającą – po prostu go **pożarła**, kąsając potwora w pół i przełykając go z gygańskim krzykiem grzęznącym gdzieś w jej gardzieli.
 
 ### Sypialnia Chalcii i Falanga Czadów
 
+![Walka z Czadami](../assets/sessions/075/075_section2_brawl.webp)
+[Prompt](../assets/sessions/075/075_section2_brawl.txt)
 Ledwie ucichło echo bitwy, **[[Arevon Elorrenthi|Arevon]]** przyłożył szpiczaste ucho do ściany i wsłuchał się w szepty dobiegające z głębi korytarza. Za ostatnimi drzwiami ukrywało się coś niespodziewanego. Gdy drużyna wtargnęła do środka, stanęła oko w oko z **dziesięcioma nagimi, muskularnymi mężczyznami** o naoliwionych ciałach wypielęgnowanych na modłę posągów, lśniących od olejków. Byli to **Czady** – osobista kolekcja amantów **[[Chalcia|Chalcii]]**, martwej juz córki Bliźniaków, utrzymywana w zbytku jej prywatnej sypialni ku jej własnej uciesze. Scena miała w sobie coś komicznego, ale nie było czasu na żarty – mężczyźni rzucili się na intruzów z dzikością, próbując dusić **[[Orestes|Orestesa]]** i **[[Versir|Versira]]** gołymi rękami, ich napięte bicepsy zaciskając się na szyjach bohaterów. **[[Orion Xul|Orion]]**, który w tych trudnych chwilach nigdy nie tracił zimnej krwi, uniósł swoją niszczycielską broń i jednym zamaszystym cięciem powalił kilku przeciwników naraz, rozpryskując krew po jedwabnych prześcieradłach i perfumowanych poduszkach. Po walce drużyna spenetrowała komnatę, wyciągając z niej pokaźne worki złota, garści klejnotów i – co najcenniejsze – **[[Circlet of Blasting]]**, magiczny diadem iskrzący się zaklętą mocą.
 
 ### Spotkanie z Furiami i Sekret Gwiazdy
 
+![Spotkanie z Furiami](../assets/sessions/075/075_section3_furies.webp)
+[Prompt](../assets/sessions/075/075_section3_furies.txt)
 Eksplorując kolejne pomieszczenia, bohaterowie natrafili na komnatę zamieszkaną przez trzy siostry: **[[Megara|Megarę]], [[Alecto]] i [[Tyzyfone]]**. [[Furie]], boginie zemsty i strażniczki praw, powitały drużynę z powściągliwym szacunkiem. Wyjaśniły, że są starsze niż **[[Sydon]] i [[Lutheria]]** – zostały stworzone przez samą **[[Thylea|Thyleę]]** na początku świata. **[[Orestes]]**, niepoprawny w swoim zwyczaju, wyjął flaszę piwa i poczęstował boginie. Choć nie miały w zwyczaju pić, przyjęły dar, a uśmiechająca się spod kaptura Alecto skomentowała to słowami "zacny napój". 
 
 Rozmowa z Furiami przyniosła wiele kluczowych odpowiedzi. Siostry przyznały, że obserwują poczynania drużyny i zasugerowały, że **[[Thylea]] potrzebuje leczenia, a bohaterowie mogą być na to lekarstwem**, przypominając im zarazem o konieczności dotrzymania złożonych przysiąg. Potwierdziły również, że **[[Mojry]]** miały bezpośredni udział w pierwszej wielkiej krzywdzie wyrządzonej w [[Thylea|Thylei]] – spisku, który doprowadził do uderzenia w **[[Versi Pierwsza|Versi Pierwszą]]**, matkę [[Versir|Versira]]. Furia [[Megara]] zwróciła się także do **[[Arevon Elorrenthi|Arevon Elorrenthi|Arevona]]**, ostrzegając go przed powrotem do jego rodzinnego świata ([[Eberron|Eberronu]]) i zwracając uwagę, że tamtejsi władcy, gdyby poznali bezpieczną drogę do Thylei, bez skrupułów złupiliby jej bogactwa.
@@ -30,6 +37,8 @@ Lecz największym darem sióstr była wiedza o samej wieży. Furie wyszeptały, 
 
 ### Ewakuacja i Ogień na Szczycie
 
+![Lot z gwiazdą](../assets/sessions/075/075_section4_escape.webp)
+[Prompt](../assets/sessions/075/075_section4_escape.txt)
 Czas naglił. Drużyna przebiła się schodami na parter, potem do doków **[[Praxys]]**, gdzie załadowała na statek wszystkich uwolnionych więźniów – **[[Krok|Kroka]]**, **[[Boi|Boia]]** (obsługę windy), **[[Satyr z Thylei|satyrów-bardów]]**, kucharza **[[Ramsus|Ramsusa]]** – a także **drużynę B** z **[[Pholon|Pholonem]]** i **czaszką [[Balmytria|Balmytrii]]** troskliwie trzymaną w ramionach. Bohaterowie nakazali ekipie odpłynąć **na bezpieczną odległość** i obserwować z horyzontu. Sami zaś pozostali, by dokonać tego, co musiało zostać dokonane.
 
 **[[Versir]]** zbliżył się na szczycie wieży do lewitującej, lśniącej **gwiazdy** – istoty z [[Morze Astralne|Morza Astralnego]], więzionej przez stulecia. Gdy uniósł pochodnię, jej knot zajął się **srebrnym, drgającym światłem gwiezdnym**, buchając gorącym, magicznym płomieniem. W tym samym momencie **[[Felicjan Janus Twardowski|Felicjan]]** użył **[[Heart of the Gale]]**, by rzucić na siebie i [[Versir|Versira]] zaklęcie latania. Obaj wlecieli w dół przez komin na **piętro [[Sydon|Sydona]]**, prosto do komnaty z basenem będącym portalem do [[Morze Astralne|Morza Astralnego]]. Aby upewnić się, że [[Versir]] nie przepadnie w portalu, [[Felicjan Janus Twardowski|Felicjan]] obwiązał go liną, po czym bohater zanurkował do basenu. 
@@ -38,18 +47,24 @@ Czerwona gwiazda-rodzic, wyczuwszy światło dziecka z pochodni, zatrzymała si�
 
 ### Uwolnienie Hergerona i Dar Siły
 
+![Spotkanie z Tytanem](../assets/sessions/075/075_section5_titan.webp)
+[Prompt](../assets/sessions/075/075_section5_titan.txt)
 Spośród pyłu i rumowiska, na tle zapadającej się wieży, wyłoniła się olbrzymia sylwetka. Był to **[[Hergeron]]**, tytan uwolniony z wielowiekowego więzienia – i, niestety, wciąż zagubiony i wrogo nastawiony. Nie rozpoznawał nikogo i zamierzył się na **[[Versir|Versira]]** z potężną siłą, chwytając go i dotkliwie raniąc. Początkowa perswazja [[Versir|Versira]] w pradawnym języku Sylvan nie przyniosła skutku – oszalały tytan wciąż napierał. Dopiero gdy reszta drużyny ruszyła do ataku, osłabiając potężnego przeciwnika, [[Versir]] zmienił taktykę. Wyciągnął odnowione ostrze, wykrzykując: *"Wujku, to ja, [[Versir]]! Miecz jest skończony! Bliźniaki zapłacą za to, co zrobiły!"*. 
 
 Te argumenty, w połączeniu z osłabieniem Tytana zadanymi mu przez drużynę ciosami, w końcu zadziałały. W oczach [[Hergeron|Hergerona]] pojawiło się zrozumienie. [[Hergeron]] zamrugał, a jego twarz zmieniła się z furii w rozpoznanie. Zdał sobie sprawę z tego, kim jest stojący przed nim półbóg. Przyznał jednak, że jest zbyt słaby, by bezpośrednio pomóc w walce. *"Weź moją siłę i zabij [[Sydon|Sydona]]. To jedyny sposób, żeby osiągnąć pokój w [[Thylea|Thylei]] ponownie"* – przemówił. Następnie przekazał swoją esencję, a **[[Hand of Kentiname|Hand of Kentimane]]** rozbłysła na nowo, przyjmując do swego wnętrza kolejnego tytana. [[Hergeron]] rozpłynął się, dołączając do rodzeństwa ukrytego wewnątrz Rękawicy.
 
 ### Powrót na Ultros i Reakcja Bogów
 
+![Smoki na statku](../assets/sessions/075/075_section6_dragons.webp)
+[Prompt](../assets/sessions/075/075_section6_dragons.txt)
 Bohaterowie wrócili na pokład **[[Ultros|Ultrosa]]**, wciąż pokryci pyłem [[Praxys]], wciąż lekko oszołomieni skalą tego, co właśnie dokonali. Jednak to reakcja **bogów** na ich widok była najbardziej osobliwa. **[[Volkan]]**, **[[Pythor]]** i **[[Kyrah]]**, gdy zobaczyli **[[Nephele]]** oraz **czaszkę Balmytrii** wyłożoną na pokładzie przez [[Pholon|Pholona]], zamarli. **[[Pythor]]**, zwykle porywczy i krzykliwy, zamilkł na chwilę, a potem wybuchł gniewem tak czystym, że niebo nad statkiem pociemniało – zapowiedział, że **„zerwie mięso z jego kości”** za wszystko, co zrobił. **[[Kyrah]]** odwróciła głowę, a jej oczy zalśniły wilgocią. **[[Volkan]]** dotknął czaszki z delikatnością, której nikt by się po bogu kowalstwa nie spodziewał.
 
 Załoga i drużyna patrzyły zdumione. Dlaczego bogowie reagowali tak osobiście, tak głęboko, na widok czaszki dawno zmarłego smoka i kobiety, która do niedawna była smoczycą? Tylko **[[Felicjan Janus Twardowski|Felicjan]]** uśmiechał się smutno – on wiedział. Od tygodni składał w swoich notatkach elementy tej układanki: **bogowie to smoki**, a **[[Balmytria]] była żoną [[Volkan|Volkana]] i matką [[Kyrah]] oraz [[Pythor|Pythora]]**. To, co dla reszty było dopiero kiełkującą zagadką, dla niego było potwierdzeniem od dawna noszonej prawdy.
 
 ### Koniec Przysięgi Pokoju i Prawda Ujawniona
 
+![Przemiana bogów](../assets/sessions/075/075_section7_oath.webp)
+[Prompt](../assets/sessions/075/075_section7_oath.txt)
 Następnego dnia, w samo południe, nadszedł moment, na który świat czekał – lub którego się lękał – od pięciu stuleci. **[[Przysięga Pokoju]] wygasała**. Wszyscy zebrali się na pokładzie **Ultrosa**, w milczeniu napiętym jak cięciwa łuku, obserwując, jak słońce osiąga zenit. **[[Volkan]]** poprosił [[Felicjan Janus Twardowski|Felicjana]] o zapieczętowany pojemnik na **[[Zwój Przysięgi Pokoju]]**, wydarty wcześniej ze skarbca [[Sydon|Sydona]] w [[Praxys]]. W środku spoczywał pergamin, który był fundamentem obecnego porządku [[Thylea|Thylei]]. **[[Felicjan Janus Twardowski|Felicjan]]**, na prośbę boga, wyraźnym głosem odczytał słowa zapisane krwią i magią:
 
 > "Niech będzie wiadome wszystkim, i każdemu, kogo to dotyczy, że w minionych latach na Thylei szerzyła się niezgoda i wojna między Bogami a Tytanami.

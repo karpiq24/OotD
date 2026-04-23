@@ -1,5 +1,6 @@
 ---
 title: Megara
+image_prompt: female, young adult, slender build, pale porcelain skin, sunken dark eyes, black tear-like markings running down cheeks, thin lips, sharp facial features, short white hair, ornate silver chain headdress draped across the forehead, expansive black bladed wings, mechanical and sharp feather structure, dark metallic finish, intricate black plate armor, ornate gold filigree patterns, golden cross-like emblem on the chest, layered pauldrons, articulated gauntlets, protective tassets, sleek black greaves, pointed boots, dark fantasy inquisitor, gothic fallen angel, somber and divine, highly detailed engravings, chains with hooks suspended from the belt, grim celestial style
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
