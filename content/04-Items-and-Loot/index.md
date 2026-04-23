@@ -34,3 +34,4 @@ title: Przedmioty i Łupy
 - [[Zguba Tytanów|Zguba Tytanów (Titansbane)]]
 - [[Zlote Owoce|Złote Owoce]]
 - [[04-Items-and-Loot/Spellbooks|Spellbooks]]
+- [[Circlet of Blasting]]

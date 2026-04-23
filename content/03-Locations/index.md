@@ -10,3 +10,5 @@ title: Miejsca
 - [[03-Locations/Zapomniane Morze|Zapomniane Morze]]
 - [[03-Locations/Zatoka Cerulańska|Zatoka Cerulańska]]
 - [[Nyx|Nyx (Morze Astralne)]]
+- [[Eberron]]
+- [[Morze Astralne]]
