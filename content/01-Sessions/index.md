@@ -77,3 +77,4 @@ title: Sesje
 - [[Sesja 73 - Praxys - Skarbiec Sydona|Sesja 73: Praxys - Skarbiec Sydona]]
 - [[Sesja 74 - Matka Smoków|Sesja 74: Matka Smoków]]
 - [[Sesja 75 - Koniec Przysięgi|Sesja 75: Koniec Przysięgi]]
+- [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|Sesja 76: Bitwa o Mytros: Pierwsza Fala]]
