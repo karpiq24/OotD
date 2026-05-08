@@ -27,3 +27,4 @@ title: Frakcje
 - [[Tytani]]
 - [[Zakon Sydona]]
 - [[Łamacze Fal]]
+- [[Egida Mytros]]

@@ -438,3 +438,17 @@
 * Oficjalne wygaśnięcie Przysięgi Pokoju, skutkujące odzyskaniem pełnej mocy przez [[Sydon|Sydona]] i [[Lutheria|Lutherię]].
 * Ujawnienie prawdziwej tożsamości Pięciorga Bogów jako smoków (m.in. [[Sybolkorax]], [[Arkyrania|Arkyrani]]) i poznanie pełnej historii o krwawej ofierze [[Balmytria|Balmytrii]] podczas Królewskiej Gry ([[09 Gra Bogów]]).
 * Podjęcie decyzji o natychmiastowej żegludze do [[Mytros]] w celu dołączenia do ostatecznej wojny.
+
+## Sesja 76 - Bitwa o Mytros: Pierwsza Fala (04.05.2026)
+* Rozmowa z [[Kyrah|Kyrą]] na pokładzie [[Ultros|Ultrosa]] – [[Versir]] wyznał smoczycy, że jej brat [[Narsus]] jest większym głupcem, ale to ona popełniła większe błędy; różnica polega na tym, że ona próbuje się na nich uczyć. Zaoferował też zniszczenie miecza Estora.
+* Trzy *Scrying* [[Arevon Elorrenthi|Arevona]] – nieudane na [[Hergeron|Hergeronie]], na Dokach [[Mytros]] (obraz chaosu i blokady morskiej) oraz na [[Yala|Yali]] (siedzi samotnie na klifie patrząc na [[Mytros]]).
+* Smoki-bogowie ciągną [[Ultros|Ultrosa]] na linach, by przyspieszyć rejs do [[Mytros]].
+* Cud [[Delphia|Delphi]] – driada [[Ultros|Ultrosa]] naprawia statek pnączami po trafieniu trebusza, a okręt-taran przebija blokadę [[Zakon Sydona]].
+* [[Acastus|Akastus]] przebija swoją zdradziecką włócznią szyję [[Icarus|Icarusa]], mutując smoka, który zamraża tsunami [[Sydon|Sydona]] w lodową górę nad miastem.
+* [[Apasia]] na miedzianym smoku ratuje spadającego [[Acastus|Akastusa]] w ostatniej chwili.
+* Smoki-bogowie podejmują walkę z oszalałym [[Icarus|Icarusem]], prosząc drużynę o skupienie się na obronie ulic.
+* Pierwsza runda Bitwy o [[Mytros]]: zwycięstwa Krasnoludów z [[Estoria|Estorii]], Amazonek przy Dokach; przegrane Magów z [[Akademia Mytros|Akademii]] i [[Centurioni z Mytros|Mytros Centurions]]; tragiczna śmierć [[Steros|Sterosa]].
+* [[Felicjan Janus Twardowski|Felicjan]] ujawnia stworzone wcześniej Simulacrum, wprowadzając do walki klona jako drugiego maga w drużynie.
+* [[Hergeron]] rzuca Steel Wind Strike na całą drużynę, zadając potężne obrażenia m.in. [[Orion Xul|Orionowi]] i klonowi [[Felicjan Janus Twardowski|Felicjana]].
+* [[Orestes]] wznosi się w powietrze i zadaje [[Hergeron|Hergeronowi]] krytyczny cios z połączeniem Rage, Reckless Attack i Great Weapon Master.
+* Epickie kombo leczące: [[Versir]] rzuca *Beacon of Hope* wymuszając maksymalne leczenie, co [[Arevon Elorrenthi|Arevon]] od razu wykorzystuje potężnym zaklęciem leczącym, przywracając każdemu około 50 HP.

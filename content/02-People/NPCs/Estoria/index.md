@@ -16,3 +16,4 @@ title: Estoria
 - [[Lyssis Arkelander]]
 - [[Przyjazny Cyklop]]
 - [[Thobos]]
+- [[Grimhilda]]

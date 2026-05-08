@@ -31,3 +31,5 @@ Wysłał bohaterów na poszukiwanie statku **[[Ultros]]**, wręczając im mapę 
 W [[Sesja 13 - Wezwani przez Króla]] spotkał się z drużyną, zachowując się arogancko. W [[Sesja 14 - Burza nad Mytros]] nagrodził bohaterów mapą do [[Ultros|Ultrosa]] po powstrzymaniu burzy.
 
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] uroczyście rozpoczął igrzyska i powitał [[Sydon|Sydona]] oraz [[Lutheria|Lutherię]], choć przybycie nieumarłych wyraźnie go zaskoczyło.
+
+W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]], po początkowym ignorowaniu zagrożenia, w końcu dołączył do walki w obronie miasta, dosiadając [[Icarus|Icarusa]] i posyłając do walki [[Egida Mytros|Egidę Mytros]]. Podczas manifestacji [[Sydon|Sydona]] i tsunami w Dokach Mytros, w desperacji przebił szyję Icarusa tajemniczą, pulsującą sinym światłem włócznią. Uratowało to miasto przed falą dzięki wyzwolonej sturdze zimna, lecz zmutowało Icarusa, który zrzucił Acastusa (uratowanego przez [[Apasia|Apasię]]).

@@ -235,7 +235,8 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 *   **Otchłań (S65-S67):** Wyprawa na Morze Otchłani. Spotkanie z Krakenem i Tarrasque'iem. Ostateczne zniszczenie ducha Estora w Lustrzanym Więzieniu.
 *   **Arena Krzywoprzysięstwa (S68):** Walka na arenie Lutherii z duchami przeszłości (fale pokonanych wrogów). Przybycie samej Lutherii.
 
-## Finałowa Odyseja: Praxys i Pani Snów (Sesje 69-75)
+## Finałowa Odyseja i Bitwa o Mytros (Sesje 69-76)
 *   **Audiencja u Lutherii (S69-S70):** Wizyta na okręcie Hypnos, ostateczna śmierć ducha Estora Arkelandera i otrzymanie Titansbane od Volkana.
 *   **Infiltracja Praxys (S71-S74):** Potajemne wejście do wieży Sydona, zasadzka przeprowadzona z wnętrza bochenka chleba, śmierć [[Chalcia|Chalcii]] z rąk herosów, rozbrojenie skarbca, zgładzenie [[Goloron|Golorona]] na jego krwawej arenie oraz uwolnienie bezdusznego smoczego klona - [[Nephele (Smok)|Nephele]].
 *   **Koniec Przysięgi (S75):** Rytualne zniszczenie wieży Praxys. Wygaśnięcie Przysięgi Pokoju obnaża pradawną tajemnicę bogów-smoków i oddaje Tytanom pełnię władzy nad kontynentem.
+*   **Bitwa o Mytros: Pierwsza Fala (S76):** Przebicie blokady zakonnej, obrona miasta przed tsunami Sydona i początek decydującego starcia z empyreanem Hergeronem w Świątyni Pięciu.

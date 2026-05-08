@@ -15,3 +15,5 @@ Inteligentniejszy od typowego cyklopa, duma ze swoich umiejętności kowalskich.
 
 ## Historia
 Został wysłany przez Sydona na Wyspę Ognia, by zastąpić swojego ojca, [[Bront|Bronta]], który został porwany. W [[Sesja 37 - Próba Ognia]] jego ojciec dowiedział się o jego losie.
+
+W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] dowodził siłami [[Egida Mytros|Egidy Mytros]] przeciwko automatonom [[Sydon|Sydona]] podczas ataku na miasto. Zginął w pierwszej rundzie walk, zadając bolesny cios bohaterom w początkowej fazie obrony.

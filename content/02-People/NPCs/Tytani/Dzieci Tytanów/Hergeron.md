@@ -5,12 +5,14 @@ image_prompt: adult male, mythological god, imposing muscular build, tan skin, s
 
 ![Placeholder](../../../../assets/placeholder.webp)
 
-_Syn Sydona i Lutherii, spokojny obserwator._
+_Empyrejski syn Sydona i Vallus, niestabilny półbóg._
 
 ## Opis
-Hergeron to potężny tytan, syn Bliźniaczych Tytanów. W przeciwieństwie do części rodzeństwa, jest spokojny i opanowany. Podczas spotkania na Górze Volkana obserwował bohaterów w milczeniu.
+Hergeron to potężny półbóg (empyrean), syn Sydona i Vallus. Podczas wcześniejszego spotkania na Górze Volkana obserwował bohaterów w milczeniu, jednak po wchłonięciu iskier rodzeństwa stał się potężny, agresywny i niestabilny, emanując oślepiającym, złotym światłem z oczu.
 
 ## Historia
-Nazwany po wuju, [[Hergeron Pierwszy|Hergeronie Pierwszym]]. Jest jednym z pięciorga dzieci Sydona i Lutherii, które pojawiły się podczas rytuału na Górze Volkana.
+Nazwany po wuju, [[Hergeron Pierwszy|Hergeronie Pierwszym]]. Był jednym z pięciorga dzieci Sydona (wtedy uznawanych za dzieci Bliźniaczych Tytanów), które pojawiły się podczas rytuału na Górze Volkana.
 
 W [[Sesja 7 - Uratować Księżniczkę]] obwinił [[Gaius|Commandera Gaiusa]] o porażkę związaną z niedopełnieniem ofiary z [[Anora|Anory]].
+
+W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] zaatakował i zrujnował [[Świątynia Pięciu]]. Przejął dwie boskie iskry z nieżyjącego rodzeństwa (w tym iskry Siły i Mądrości), co zapewniło mu niesamowitą potęgę, ale kosztowało go stabilność. Zmierzył się tam z drużyną, zadając im potężne rany czarem *Steel Wind Strike*, po czym otrzymał potężny, krytyczny cios od [[Orestes|Orestesa]]. Walka pozostała nierozstrzygnięta do końca sesji.
