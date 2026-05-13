@@ -55,28 +55,3 @@ Na początku swojej tury, Hergeron musi wykonać test, rzucając kością k6:
 
 5–6: Boska harmonia (oba zmysły działają wspólnie)
   Brak negatywnych skutków.
-
-
-
-
-To help you prepare for the upcoming confrontation, I have integrated the **Unstable Divine Sparks** trait into Hergeron's stat block. This mechanic beautifully reflects his fracturing divine nature following the events of the Great Storm and the internal conflict of the sparks he carries[cite: 1, 7].
-
-### Hergeron: Updated Traits
-
-**Innate Spellcasting.** Hergeron's innate spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
-*   **At will:** *detect thoughts*, *sending*
-*   **3/day each:** *mirror image*, *blur*, *confusion*
-*   **1/day each:** *steel wind strike*, *spirit guardians* (6th level), *divine word*
-
-**Legendary Resistance (1/Day).** If Hergeron fails a saving throw, he can choose to succeed instead.
-
-**Magic Resistance.** Hergeron has advantage on saving throws against spells and other magical effects.
-
-**Magic Weapons.** Hergeron’s weapon attacks are magical.
-
-**Elusive.** Attacks against Hergeron cannot have advantage unless he is incapacitated.
-
-**Unstable Divine Sparks.** At the start of each of his turns, Hergeron must roll a **d6** to determine the current state of his divine essence:
-*   **1–2: Strength Overload (Pythor’s Spark).** Blinded by battle fury, Hergeron abandons all defense. Attack rolls against him have **advantage**. Furthermore, Hergeron has **disadvantage** on Intelligence, Wisdom, and Charisma saving throws.
-*   **3–4: Paralyzing Sense (Vallus’s Spark).** A flood of visions, prophecies, and thoughts from across Thylea overwhelms his empyrean mind. His **Speed** is reduced to 0, and he cannot use the **Multiattack** action this turn (he can make only one melee attack or cast one spell). Additionally, he writhes in pain, giving him **disadvantage** on Strength, Dexterity, and Constitution saving throws.
-*   **5–6: Divine Harmony.** His senses work in unison, and he suffers no negative effects.
