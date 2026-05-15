@@ -18,3 +18,7 @@ Jest to duchowe centrum kultu [[Pięciu Bogów]] oraz miejsce spotkań przedstaw
 
 ## Historia
 W [[Sesja 55 - Egida Mytros]] Bohaterowie Przepowiedni spotkali się tu potajemnie z królową [[Vallus]] oraz [[Idylla|Idyllą]], aby omówić plany obrony miasta i przekazać konspekt wojenny [[Sydon|Sydona]].
+
+W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] świątynia padła ofiarą ataku empyreana [[Hergeron|Hergerona]] — posągi bogów leżały powalone, schody pokrywały zmasakrowane ciała akolitów, a Syn Burzy lewitował nad dachem, otoczony oddziałem centaurów, minotaurów i gyganów.
+
+W [[Sesja 77 - Bitwa o Mytros Druga Fala]] na posadzce świątyni rozegrał się ostateczny pojedynek z [[Hergeron|Hergeronem]]. Empyrean zginął tu od dwóch widmowych sztyletów wbitych w jego pośladki przez fey'a wezwanego przez [[Arevon Elorrenthi|Arevona]], a [[Orestes]] zadał jednemu z minotaurów krytyczne uderzenie za 66 obrażeń. Po walce świątynia została oczyszczona z resztek oddziału Syna Burzy.

@@ -452,3 +452,14 @@
 * [[Hergeron]] rzuca Steel Wind Strike na całą drużynę, zadając potężne obrażenia m.in. [[Orion Xul|Orionowi]] i klonowi [[Felicjan Janus Twardowski|Felicjana]].
 * [[Orestes]] wznosi się w powietrze i zadaje [[Hergeron|Hergeronowi]] krytyczny cios z połączeniem Rage, Reckless Attack i Great Weapon Master.
 * Epickie kombo leczące: [[Versir]] rzuca *Beacon of Hope* wymuszając maksymalne leczenie, co [[Arevon Elorrenthi|Arevon]] od razu wykorzystuje potężnym zaklęciem leczącym, przywracając każdemu około 50 HP.
+
+## Sesja 77 - Bitwa o Mytros: Upadek Icarusa (12.05.2026)
+* **Śmierć [[Hergeron|Hergerona]]** — [[Arevon Elorrenthi|Arevon]] wezwał fey'a (Conjure Fey), który teleportował się za plecy empyreana w [[Świątynia Pięciu|Świątyni Pięciu]] i wbił mu dwa widmowe sztylety w pośladki; syn [[Sydon|Sydona]] i [[Lutheria|Lutherii]] padł martwy. [[Arevon Elorrenthi|Arevon]] odzyska [[Złota Moneta Hergerona|złotą monetę-klucz do Praxys]] ze zwłok.
+* **[[Orestes]] zadaje 66 obrażeń** jednym atakiem na minotaura (krytyk + Reckless Attack), czyszcząc [[Świątynia Pięciu|Świątynię Pięciu]] z resztek eskorty [[Hergeron|Hergerona]].
+* **Trzecia runda Bitwy o [[Mytros]]** — [[Corinna]] obejmuje dowództwo nad jednym z legionów; [[Felicjan Janus Twardowski|Felicjan]] osobiście prowadzi magów; obrońcy odepchnęli kolejne fale [[Sydon|Sydona]], ale doki w gruzach, 150 obrońców poległo.
+* **Hold Monster bumerangiem** — [[Icarus]] rzuca Hold Monster na drużynę; [[Felicjan Janus Twardowski|Felicjan]] przekierowuje zaklęcie z powrotem na smoka, paraliżując go własną mocą.
+* **[[Arevon Elorrenthi|Arevon]] tworzy Wall of Fire** odgradzając [[Icarus|Icarusa]]; [[Orestes]] nieskutecznie próbuje [[Arrow of Dragon Slaying]] (strzała się nie przebija); [[Tysophale]], [[Raspytrion]] i [[Arkyrania]] gryzą i drapią mutanta.
+* **Drugi paraliżujący oddech [[Icarus|Icarusa]]** — [[Arevon Elorrenthi|Arevon]] i Klonicjan zinkapacytowani; [[Versir]] wytrzymuje, trzykrotnie [[Icarus]] wyrzuca jedynkę na atakach na [[Versir|Versira]]; [[Versir]] leczy [[Arevon Elorrenthi|Arevona]] Lesser Restoration.
+* **[[Orestes]] powala [[Icarus|Icarusa]] Strike of the Hill Giant** — mimo monstrualnych rozmiarów smoka sprowadza go do parteru.
+* **[[Arevon Elorrenthi|Arevon]] zabija [[Icarus|Icarusa]]** — odpala Wrath of the Dragon Gods (Mytros Action), po czym trafia radiantnym ostrzem rozbijając aurę ciemności mutanta; **[[Mytros (Bogini)|Bogini Mytros]]** przyznaje drużynie 2 nowe Miracle Pointy.
+* **[[Sybolkorax]] ujawnia plan [[Kolos Pythora|Kolosa Pythora]]** — wielką statuę boga wojny można obudzić jak mecha-boga; kluczem jest [[Rod of Rulership]] dzierżone przez [[Acastus|Acastusa]] w [[Pałac Królewski w Mytros|pałacu królewskim]]. Drużyna rozważa [[Ismene Neurdagon|Ismenę Neurdagon]] lub [[Moxena|Moxenę]] jako pilotkę.
