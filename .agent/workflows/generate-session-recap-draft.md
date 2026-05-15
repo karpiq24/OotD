@@ -21,11 +21,10 @@ This workflow processes a raw transcript into a markdown draft.
     *   If present, move `input/transcript.json` -> `content/assets/sessions/{000}/transcript.json`
 
 ## Step 3: Context Loading & Analysis
-1.  **Read Transcript**: Read the *entire* content of the moved transcript file (`content/assets/sessions/{000}/transcript.txt`). Do not skip any portions; ensure the full text is loaded into context.
-2.  **Scan** the transcript for proper names.
-3.  **Search** `content/02-People` and `content/03-Locations` for matching files.
-4.  **Read** matched files to build a "Context Buffer".
-5.  **Read** at last 3 session files in `content/01-Sessions/` to understand the current narrative arc.
+1.  **Line Count**: Run `wc -l content/assets/sessions/{000}/transcript.txt` to get the total line count — the skill needs this to plan chunks.
+2.  **Build canonical glossary**: Run `.venv/bin/python scripts/extract_glossary.py content/assets/sessions/{000}/transcript.txt`. The stdout is the session-specific canonical-names list (filtered to names that appear in this transcript). Pass it verbatim into every chunk subagent prompt.
+3.  **Read phonetic corrections**: `.agent/skills/rpg-summarizer/resources/phonetic_corrections.md` — list of known ASR misspellings. Pass verbatim into every chunk subagent prompt too.
+4.  **Read** the last 3 session files in `content/01-Sessions/` to understand the current narrative arc. Do NOT load all transcript dialogue into your context — the rpg-summarizer skill handles the full text via chunk subagents.
 
 ## Step 4: Draft Generation (Text Only)
 1.  **Activate** skill `rpg-summarizer`.

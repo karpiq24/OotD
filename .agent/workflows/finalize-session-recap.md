@@ -16,7 +16,7 @@ This workflow processes a user-reviewed session recap draft, adding wikilinks, i
 1.  **Read** the *User-Edited* file: `content/01-Sessions/Sesja {number} - ... .md`.
 2.  **Verify** content is loaded.
 
-## Step 3: Finalization (Wikilinks & Visuals)
+## Step 3: Finalization (Wikilinks, Prompts, Timeline, Scripts)
 1.  **Link, Update and Create Entities**:
     *   Activate skill `rpg-wiki-manager`.
     *   Search for entity names in the text.
@@ -24,10 +24,10 @@ This workflow processes a user-reviewed session recap draft, adding wikilinks, i
     *   Update any target entities with new information.
     *   Create any new characters, locations etc.
     *   Save the file.
-2.  **Visuals**:
-    *   Activate skill `rpg-illustrator`.
-    *   Generate prompts (prioritizing `image_prompt` frontmatter from linked entities).
-    *   Generate Images -> Insert into file -> Move to `content/assets/sessions/{000}/`.
+2.  **Generate Image Prompts**:
+    *   Activate skill `rpg-illustrator` with mode `Session Recap - Prompts Only`.
+    *   Input: path to the session markdown file.
+    *   The skill generates prompts, saves them as `.txt` files in `content/assets/sessions/{000}/`, and inserts placeholder image links into the markdown.
 3.  **Timeline & Context**:
     *   Activate skill `rpg-timeline-manager`.
     *   Append Key Events to `content/Timeline.md`.
@@ -36,5 +36,15 @@ This workflow processes a user-reviewed session recap draft, adding wikilinks, i
     *   Activate skill `rpg-video-scripter`.
     *   Generate video prompts to `content/06-Video-Scripts/`.
 
-## Step 4: Completion
-1.  **Notify User**: "Session {number} recap finalized! Verified wikilinks, images generated, timeline updated, and video scripts created."
+## Step 4: Prompt Review (User Gate)
+1.  **Notify User**: "Image prompts are ready for review in `content/assets/sessions/{000}/`. Open the `.txt` files and check each scene description. Edit any you want changed, then reply to generate the actual images."
+2.  **Wait** for explicit user confirmation before proceeding.
+
+## Step 5: Image Generation
+1.  **Generate Images**:
+    *   Activate skill `rpg-illustrator` with mode `Session Recap - Generate Images`.
+    *   Input: `content/assets/sessions/{000}/`.
+    *   The skill renders a `.png` for every `.txt` prompt file in that folder.
+
+## Step 6: Completion
+1.  **Notify User**: "Session {number} recap finalized! Wikilinks applied, images generated, timeline updated, and video scripts created."

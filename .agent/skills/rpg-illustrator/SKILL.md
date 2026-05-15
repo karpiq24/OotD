@@ -9,9 +9,10 @@ Use this skill as the central visual engine for the campaign. It handles prompt 
 
 ## API / Modes
 This skill accepts the following parameters:
-- **Mode**: One of `["Session Recap", "Single Image", "Prompt Generation"]`.
+- **Mode**: One of `["Session Recap - Prompts Only", "Session Recap - Generate Images", "Single Image", "Prompt Generation"]`.
 - **Input Data**:
-    - For `Session Recap`: Path to the **Edited** markdown file to process.
+    - For `Session Recap - Prompts Only`: Path to the **Edited** markdown file to process.
+    - For `Session Recap - Generate Images`: Path to the session assets folder (`content/assets/sessions/{000}/`).
     - For `Single Image`: A description string of what to draw.
     - For `Prompt Generation`: A description string of the scene.
 
@@ -70,18 +71,20 @@ In the background, a powerful lizardfolk with a lightning staff and a medusa arc
 
 ---
 
-## Workflow 1: Session Recap Mode
+## Workflow 1a: Session Recap - Prompts Only
 **Input**: `Input Data` = Absolute path to the session recap markdown file.
+
+Use this mode to generate and save all image prompts without rendering any images yet. Intended as the first phase before user review.
 
 1.  **Read & Parse**: Read the content of the markdown file.
 2.  **Scan for Entities**: Identify `[[wikilinks]]` in the text to find relevant entity files for descriptions.
 3.  **Generate Prompts**:
     -   **Main Header**: Create 3 distinct prompts representing the overall session themes/events.
     -   **Section Headers**: For *each* `### Header` in the body, create 2 distinct prompts representing that specific section.
-4.  **Save Prompt**:
-    -   Save the **Full Refined Prompt** to a text file: `content/assets/sessions/{000}/{filename}.txt`.
+4.  **Save Prompts**:
+    -   Save each **Full Refined Prompt** to a text file: `content/assets/sessions/{000}/{filename}.txt`.
 5.  **Update File**:
-    -   Insert image blocks into the markdown file *immediately* after the headers (Main and Sections).
+    -   Insert image placeholder blocks into the markdown file *immediately* after the headers (Main and Sections).
     -   **Format**:
         ```markdown
         ![{Short Description of Scene}](../assets/sessions/{000}/{filename}.png)
@@ -89,10 +92,18 @@ In the background, a powerful lizardfolk with a lightning staff and a medusa arc
         ```
     -   **Alt Text**: Use a short, readable description in **Polish** (e.g., "Bitwa na Arenie", "Spotkanie z Zarządcą"). Do NOT put the full prompt here.
     -   **Path**: Use `../assets/sessions/{000}/` relative path.
-6.  **Generate Images**:
-    -   Call `generate_image` for each prompt.
-    -   **Target File**: `content/assets/sessions/{000}/{filename}.png` (Ensure it matches the link).
-    -   **Error Handling**: If generation fails, do NOT revert the markdown. The placeholders are valuable.
+6.  **Stop here.** Do NOT call `generate_image`. Return a summary of all saved `.txt` file paths so the user knows what to review.
+
+## Workflow 1b: Session Recap - Generate Images
+**Input**: `Input Data` = Path to the session assets folder (`content/assets/sessions/{000}/`).
+
+Use this mode after the user has reviewed and approved the prompts. It reads every `.txt` file in the assets folder and renders the corresponding image.
+
+1.  **Find Prompts**: List all `.txt` files in the given assets folder.
+2.  **Generate Images**:
+    -   For each `.txt` file, read its content and call `generate_image`.
+    -   **Target File**: Same path as the `.txt` file but with `.png` extension.
+    -   **Error Handling**: If generation fails, do NOT revert the markdown. The placeholders remain valuable — skip the failed image and continue.
 
 ## Workflow 2: Single Image Mode
 **Input**: `Input Data` = Description string.
