@@ -35,3 +35,6 @@ title: Przedmioty i Łupy
 - [[Zlote Owoce|Złote Owoce]]
 - [[04-Items-and-Loot/Spellbooks|Spellbooks]]
 - [[Circlet of Blasting]]
+- [[Arrow of Dragon Slaying]]
+- [[Rod of Rulership]]
+- [[Złota Moneta Hergerona]]
