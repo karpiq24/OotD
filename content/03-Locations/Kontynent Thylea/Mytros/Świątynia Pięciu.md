@@ -21,4 +21,4 @@ W [[Sesja 55 - Egida Mytros]] Bohaterowie Przepowiedni spotkali się tu potajemn
 
 W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] świątynia padła ofiarą ataku empyreana [[Hergeron|Hergerona]] — posągi bogów leżały powalone, schody pokrywały zmasakrowane ciała akolitów, a Syn Burzy lewitował nad dachem, otoczony oddziałem centaurów, minotaurów i gyganów.
 
-W [[Sesja 77 - Bitwa o Mytros Druga Fala]] na posadzce świątyni rozegrał się ostateczny pojedynek z [[Hergeron|Hergeronem]]. Empyrean zginął tu od dwóch widmowych sztyletów wbitych w jego pośladki przez fey'a wezwanego przez [[Arevon Elorrenthi|Arevona]], a [[Orestes]] zadał jednemu z minotaurów krytyczne uderzenie za 66 obrażeń. Po walce świątynia została oczyszczona z resztek oddziału Syna Burzy.
+W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] na posadzce świątyni rozegrał się ostateczny pojedynek z [[Hergeron|Hergeronem]]. Empyrean zginął tu od dwóch widmowych sztyletów wbitych w jego pośladki przez fey'a wezwanego przez [[Arevon Elorrenthi|Arevona]], a [[Orestes]] zadał jednemu z minotaurów krytyczne uderzenie za 66 obrażeń. Po walce świątynia została oczyszczona z resztek oddziału Syna Burzy.

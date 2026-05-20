@@ -15,4 +15,4 @@ Otwiera jedne z drzwi w wieży [[Praxys]], rezydencji [[Sydon|Sydona]].
 ## Historia
 Moneta noszona była przez empyreana [[Hergeron|Hergerona]], syna [[Sydon|Sydona]] i [[Lutheria|Lutherii]].
 
-W [[Sesja 77 - Bitwa o Mytros Druga Fala]], po pokonaniu [[Hergeron|Hergerona]] w [[Świątynia Pięciu|Świątyni Pięciu]], [[Arevon Elorrenthi|Arevon]] wyłuskał monetę spomiędzy fałd jego szat.
+W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]], po pokonaniu [[Hergeron|Hergerona]] w [[Świątynia Pięciu|Świątyni Pięciu]], [[Arevon Elorrenthi|Arevon]] wyłuskał monetę spomiędzy fałd jego szat.

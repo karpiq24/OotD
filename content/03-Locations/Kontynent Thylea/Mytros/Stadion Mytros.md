@@ -10,4 +10,4 @@ Wielki stadion w [[Mytros]], wykuty w kamieniu u podnóża góry [[Kuźnia Volka
 ## Historia
 Miejsce to jest symbolem siły i jedności Mytros, goszczącym tysiące obywateli podczas najważniejszych wydarzeń sportowych i kulturalnych.
 
-W [[Sesja 77 - Bitwa o Mytros Druga Fala]] piaskowa arena stadionu (nazywana w sesji kolosseum) stała się areną epickiego pojedynku ze zmutowanym [[Icarus|Icarusem]]. Smok został tu pokonany wspólnym wysiłkiem drużyny i smoków [[Tysophale]], [[Raspytrion|Raspytriona]] oraz [[Arkyrania|Arkyranii]], a finalny radiantny cios zadał [[Arevon Elorrenthi|Arevon]]. [[Sybolkorax]], ranny przed walką, leżał *near-death* na boku areny i został później przywrócony do życia.
+W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] piaskowa arena stadionu (nazywana w sesji kolosseum) stała się areną epickiego pojedynku ze zmutowanym [[Icarus|Icarusem]]. Smok został tu pokonany wspólnym wysiłkiem drużyny i smoków [[Tysophale]], [[Raspytrion|Raspytriona]] oraz [[Arkyrania|Arkyranii]], a finalny radiantny cios zadał [[Arevon Elorrenthi|Arevon]]. [[Sybolkorax]], ranny przed walką, leżał *near-death* na boku areny i został później przywrócony do życia.

@@ -15,4 +15,4 @@ Berło jest **kluczem do aktywacji [[Kolos Pythora|Kolosa Pythora]]** — gargan
 ## Historia
 Berło spoczywa w rękach króla [[Acastus|Acastusa]], ukryte w [[Pałac Królewski w Mytros|pałacu królewskim]].
 
-W [[Sesja 77 - Bitwa o Mytros Druga Fala]] [[Sybolkorax]] ujawnił drużynie istnienie Berła i jego rolę w przebudzeniu Kolosa, czyniąc je celem następnej wizyty bohaterów w pałacu.
+W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] [[Sybolkorax]] ujawnił drużynie istnienie Berła i jego rolę w przebudzeniu Kolosa, czyniąc je celem następnej wizyty bohaterów w pałacu.
