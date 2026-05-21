@@ -7,20 +7,14 @@ chat_log: "[Chat log](../assets/sessions/077/chat_log.json)"
 
 **Data:** 12.05.2026
 
-![Upadek Icarusa](../assets/sessions/077/077_icarus_radiant_death.png)
+![Upadek Icarusa](../assets/sessions/077/077_icarus_radiant_death.webp)
 [Prompt](../assets/sessions/077/077_icarus_radiant_death.txt)
-
-![Śmierć Hergerona](../assets/sessions/077/077_hergeron_fey_death.png)
-[Prompt](../assets/sessions/077/077_hergeron_fey_death.txt)
-
-![Bitwa o Mytros](../assets/sessions/077/077_mytros_battle.png)
-[Prompt](../assets/sessions/077/077_mytros_battle.txt)
 
 ## Podsumowanie
 
 ### Sztylety w tyłku Syna Burzy
 
-![Walka z Hergeronem w świątyni](../assets/sessions/077/077_temple_hergeron.png)
+![Walka z Hergeronem w świątyni](../assets/sessions/077/077_temple_hergeron.webp)
 [Prompt](../assets/sessions/077/077_temple_hergeron.txt)
 
 [[Świątynia Pięciu]] w [[Mytros]] wciąż drżała od echa potężnych zaklęć i brzęku stali, gdy bohaterowie kontynuowali rozpaczliwą walkę z empyreanem **[[Hergeron|Hergeronem]]**, synem [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Sytuacja na polu bitwy była napięta jak cięciwa łuku — wokół centralnego oponenta krążyła resztka jego eskorty, a minotaury, które dotąd próbowały szarżować na drużynę, w panice rozpoczęły odwrót. [[Hergeron]], mimo licznych ran zadanych w poprzedniej rundzie, wciąż stał groźnie w powietrzu, dyszący gniewem, ze szpadą gotową do kolejnego zamachnięcia. **[[Orestes]]**, minotaur barbarzyńca, znalazł się w samym centrum jego wściekłości — empyrean uderzył go w pierś, zadając szesnaście punktów obrażeń kłutych oraz czternaście od chłodu, a chwilę później ponowił atak, dorzucając kolejne siedem punktów kłutych i dziewięć zimna.
@@ -31,10 +25,7 @@ To jednak [[Arevon Elorrenthi|Arevon]] zadał ostateczny cios. Druid wyciągną�
 
 ### Sprzątanie pobojowiska w Świątyni Pięciu
 
-![Arevon z monetą Hergerona](../assets/sessions/077/077_arevon_coin.png)
-[Prompt](../assets/sessions/077/077_arevon_coin.txt)
-
-![Orestes masakruje minotaura](../assets/sessions/077/077_orestes_cleave.png)
+![Orestes masakruje minotaura](../assets/sessions/077/077_orestes_cleave.webp)
 [Prompt](../assets/sessions/077/077_orestes_cleave.txt)
 
 Po śmierci empyreana drużyna nie miała czasu na świętowanie — w okolicy wciąż łaziło kilku minotaurów oraz jedna szczególnie absurdalna postać: **centaur druid**, który w ferworze walki przeobraził się w **orkę** — zabójczego wieloryba — i miotał się teraz po świątynnej posadzce, najwyraźniej nie zorientowawszy się jeszcze, że jego pan padł. **[[Arevon Elorrenthi|Arevon]]** schylił się nad zwłokami [[Hergeron|Hergerona]] i wyłuskał spomiędzy fałd jego szat **[[Złota Moneta Hergerona|wielką, zdobioną złotą monetę]]** — drobiazg wyglądający jak okazały medalion, ale w istocie **klucz otwierający jedne z drzwi w wieży [[Praxys]]**. Tymczasem **Klonicjan** kontynuował ostrzał z dystansu, raziąc orkę-wieloryba i kolejne minotaury dziesiątkami punktów obrażeń.
@@ -43,10 +34,7 @@ Najbardziej spektakularne uderzenie należało jednak do **[[Orestes|Orestesa]]*
 
 ### Krew na ulicach Mytros
 
-![Walki na ulicach Mytros](../assets/sessions/077/077_battle_streets.png)
-[Prompt](../assets/sessions/077/077_battle_streets.txt)
-
-![Corinna dowodzi legionem](../assets/sessions/077/077_corinna_commands.png)
+![Corinna dowodzi legionem](../assets/sessions/077/077_corinna_commands.webp)
 [Prompt](../assets/sessions/077/077_corinna_commands.txt)
 
 Mimo wewnętrznego triumfu w sanktuarium, wojna nad [[Mytros]] toczyła się dalej, a Mistrz Gry sprawnie przeszedł do kolejnej rundy bitewnej fazy. Dla drużyny i ich sojuszników była to chwila niepewności: jedna z jednostek wroga osiągnęła status **Routed** — jej morale spadło do zera, a ona sama zaczęła wycofywać się z linii frontu, by przegrupować się gdzieś z dala od głównego starcia. Niestety, chwilę później to **Legion drużyny** również dostał status **Routed**. [[Orestes]] natychmiast zaproponował, by ruszyć z odsieczą tam, gdzie sytuacja jest najbardziej krytyczna.
@@ -59,7 +47,7 @@ Sukcesy mieszały się jednak z porażkami. Doki, choć podszarpane, nie były j
 
 ### Kolosseum i Icarus
 
-![Zmutowany Icarus na arenie](../assets/sessions/077/077_arena_icarus.png)
+![Zmutowany Icarus na arenie](../assets/sessions/077/077_arena_icarus.webp)
 [Prompt](../assets/sessions/077/077_arena_icarus.txt)
 
 Po dwóch rundach żelaznego rzemiosła bitewnego Mistrz Gry przerwał kalkulacje. *„Czas na ciekawsze rzeczy"*, oznajmił, a bohaterowie wciągnęli powietrze. Akcja przeniosła się do **[[Stadion Mytros|kolosseum]]**, gdzie w samym centrum piaskowej areny miotał się **zmutowany [[Icarus]]** — ogromny, pokryty obrzydliwymi, krzywymi kolcami, niegdyś dumny srebrny smok [[Acastus|Acastusa]], teraz koszmar ciała przeobrażony obcą magią. **[[Sybolkorax]]** — niegdyś bóg-kowal [[Volkan]], dziś już tylko brązowy smok pozbawiony swojej dawnej boskiej mocy — leżał w stanie **near-death** na boku piaskowej areny, oddychając ciężko, łuski osmalone i poszarpane. Pozostała trójka smoków-niegdyś-bogów — **[[Raspytrion]]** (dawniej [[Pythor]]), **[[Arkyrania]]** (dawniej [[Kyrah]]) i **[[Tysophale]]** (dawniej [[Vallus]]) — utrzymywała się jeszcze w niezłej kondycji, lecz wszyscy widzieli, że bez wsparcia drużyny obrońcom [[Mytros]] zabraknie sił.
@@ -68,10 +56,7 @@ Drużyna stanęła do inicjatywy z pełnym **bless**em ([[Felicjan Janus Twardow
 
 ### Hold Monster bumerangiem
 
-![Icarus zieje paraliżującym oddechem](../assets/sessions/077/077_icarus_paralysis_breath.png)
-[Prompt](../assets/sessions/077/077_icarus_paralysis_breath.txt)
-
-![Felicjan przekierowuje Hold Monster](../assets/sessions/077/077_felicjan_redirect.png)
+![Felicjan przekierowuje Hold Monster](../assets/sessions/077/077_felicjan_redirect.webp)
 [Prompt](../assets/sessions/077/077_felicjan_redirect.txt)
 
 Pierwsze legendarne akcje bestii spadły jak grom. [[Icarus]], rozwarłszy paszczę, wytoczył ku obrońcom **paraliżujący oddech** — stożek lodowatego tchnienia, który najpierw nakładał **inkapacytację**, a dopiero potem rzeczywisty **paraliż** — i nawet z dwoma rzutami obronnymi szanse na uniknięcie obu efektów były znikome. *„Jeśli zrobi tak ponownie, wszyscy nie żyjemy"* — padło stwierdzenie [[Arevon Elorrenthi|Arevona]], suche jak piasek areny.
@@ -80,10 +65,7 @@ Jakby tego było mało, [[Icarus]] rzucił także **Hold Monster** — zaklęcie
 
 ### Ogień, strzała i pomoc smoków
 
-![Wall of Fire Arevona](../assets/sessions/077/077_wall_of_fire.png)
-[Prompt](../assets/sessions/077/077_wall_of_fire.txt)
-
-![Smoki atakują Icarusa](../assets/sessions/077/077_dragons_attack_icarus.png)
+![Smoki atakują Icarusa](../assets/sessions/077/077_dragons_attack_icarus.webp)
 [Prompt](../assets/sessions/077/077_dragons_attack_icarus.txt)
 
 **[[Arevon Elorrenthi|Arevon]]** podpalił wszystko, co mógł — **Wall of Fire** rozlewał się przez piasek, odgradzając [[Icarus|Icarusa]] od reszty świata płonącą barierą. **[[Versir]]** uzbroił 30-stopową aurę emanacji i przygotowywał swoje **Channel Divinity**, świecąc jak chodząca latarnia świętej mocy. **[[Orestes]]** sięgnął po szczególny relikt swojego kołczana — **[[Arrow of Dragon Slaying|Arrow of Dragon Slaying]]**, magiczną strzałę przeznaczoną do zabijania smoków. Łowiecki gest barbarzyńcy wypadł jednak nieszczęśliwie: strzała trafiła w łuskę [[Icarus|Icarusa]], lecz nie zdołała się przebić, odbijając się bezsilnie i opadając na piasek.
@@ -92,10 +74,7 @@ Pomoc nadeszła ze strony smoków. **[[Tysophale]]** i **[[Raspytrion]]** zanurk
 
 ### Drugi oddech mutanta
 
-![Versir w aurze bożej odpiera ataki Icarusa](../assets/sessions/077/077_versir_aura_nat1.png)
-[Prompt](../assets/sessions/077/077_versir_aura_nat1.txt)
-
-![Versir leczy sparaliżowanego Arevona](../assets/sessions/077/077_arevon_heals_versir.png)
+![Versir leczy sparaliżowanego Arevona](../assets/sessions/077/077_arevon_heals_versir.webp)
 [Prompt](../assets/sessions/077/077_arevon_heals_versir.txt)
 
 [[Icarus]], choć już osłabiony, raz jeszcze rozwarł obrzmiałą paszczę i ze świstem powietrza wytoczył ku obrońcom potworny stożek paraliżującego tchnienia. **[[Versir]]**, dzierżąc świętą aurę, dwukrotnie czuł na karku zimny dotyk paraliżu — i dwukrotnie, choć niespiesznie, zdołał oprzeć się jego mocy. Mniej szczęścia mieli **[[Arevon Elorrenthi|Arevon]]** i sobowtór [[Felicjan Janus Twardowski|Felicjana]]: niemoc zatrzasnęła ich ciała jak pancerz, pozbawiając oddechu i woli. Inkapacytacja przerwała koncentrację czarownika i przez chwilę zdawało się, że los bitwy znów się odwraca przeciw drużynie.
@@ -104,7 +83,7 @@ Pomoc nadeszła ze strony smoków. **[[Tysophale]]** i **[[Raspytrion]]** zanurk
 
 ### Ostateczny cios
 
-![Orestes powala Icarusa Strike of the Hill Giant](../assets/sessions/077/077_orestes_hill_giant.png)
+![Orestes powala Icarusa Strike of the Hill Giant](../assets/sessions/077/077_orestes_hill_giant.webp)
 [Prompt](../assets/sessions/077/077_orestes_hill_giant.txt)
 
 Już wcześniej w starciu **[[Orestes]]**, pełen barbarzyńskiej werwy, wykorzystał moment chaosu i ruszył do szarży. Z gniewem Rage'a płonącym w piersi dopadł zmutowanego smoka, uderzył toporem za trzydzieści punktów obrażeń, a potem dorzucił **Strike of the Hill Giant** — i mimo monstrualnych rozmiarów bestii **sprowadził [[Icarus|Icarusa]] do parteru**. **[[Arkyrania]]** wykorzystała moment i nadciągnęła z górnego pułapu, wbijając w odsłonięty grzbiet pazury i kły z pełnią smoczej furii.
@@ -115,7 +94,7 @@ Wtedy nadszedł czas **[[Arevon Elorrenthi|Arevona]]**. Druid sięgnął najpier
 
 ### Cisza po bestii i głos starego smoka
 
-![Arevon leczy smoki po bitwie](../assets/sessions/077/077_arevon_healing.png)
+![Arevon leczy smoki po bitwie](../assets/sessions/077/077_arevon_healing.webp)
 [Prompt](../assets/sessions/077/077_arevon_healing.txt)
 
 ![Sybolkorax wskazuje na kolosa Pythora](../assets/sessions/077/077_sybolkorax_prophecy.png)
