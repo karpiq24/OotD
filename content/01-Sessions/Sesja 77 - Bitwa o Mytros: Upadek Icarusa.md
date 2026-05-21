@@ -149,3 +149,10 @@ Mimo tej komplikacji pomysł podchwycili natychmiast. Padały żarty o Megazordz
 * **[[Złota Moneta Hergerona]]** — wielka, zdobiona moneta wyglądająca na medalion, w istocie klucz otwierający jedne z drzwi w wieży [[Praxys]].
 * **[[Arrow of Dragon Slaying]]** — magiczna strzała [[Orestes|Orestesa]]; nie przebiła łuski zmutowanego [[Icarus|Icarusa]].
 * **[[Rod of Rulership]]** — starożytne berło dzierżone przez [[Acastus|Acastusa]], klucz do aktywacji [[Kolos Pythora|kolosa Pythora]]; cel kolejnej wizyty drużyny w pałacu królewskim.
+
+## Filmy
+
+![Fey teleportuje się za plecami Hergerona i wbija mu sztylety w pośladki](../assets/sessions/077/077_fey_teleports_behind_god.webm)
+
+![Arevon zadaje ostateczny cios radiantną energią zmutowanemu Icarusowi](../assets/sessions/077/077_elf_druid_slashes_dragon_radiant.webm)
+
