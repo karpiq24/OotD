@@ -1,7 +1,3 @@
-Oto kolejna część naszego wielkiego finału. Ta scena to klasyczny szekspirowski upadek – król, który stracił wszystko, zamknięty w swojej sali tronowej, kurczowo trzymający się resztek władzy.
-
-Zgodnie z Twoimi instrukcjami, przygotowałem opis tego spotkania, uwzględniając postępujące szaleństwo Acastusa, rolę Apasii oraz rozgałęzienie fabularne, które w obu przypadkach prowadzi do epickiego starcia.
-
 ### Sekcja 6: Kolos i Acastus (Major Event 4)
 
 **Notatki dla DM-a (Jak prowadzić scenę):**
@@ -92,3 +88,20 @@ W tymariancie Apasia, Acastus i ocalały Lord walczą ramię w ramię z drużyn�
 > „Kolos się przebudził! Bóg bitwy przybył, by ocalić miasto!” 
 > 
 >
+
+---
+
+## Dialogi Króla Akastosa
+
+* „Wy... wy powinniście byli zginąć, kiedy posłałem was za Ultrosem. To... To byliście wy. To byliście wy przez cały ten czas, drwiąc ze mnie. To byliście wy, od kiedy pojawiła się tamta przepowiednia. To wy doprowadziliście Sydona do tego stanu. To wy nie potrafiliście żyć w pokoju. Wszystko było w porządku, dopóki się nie pojawiliście, dopóki nie wkroczyliście do akcji. Wtedy to wszystko zaczęło się sypać. Tak... dlaczego nie dostrzegłem tego wcześniej? Ja... ja pierwszy to wywołałem. Ja... ja pragnąłem waszej śmierci, ale potem omamiliście mnie swoimi bohaterskimi czynami, swoim niezłomnym duchem. Złapałem się na tym, że w głębi mojego mrocznego serca wam kibicowałem. Ale teraz widzę, że to był mój brak wiary w Sydona i moje niefortunne zaufanie pokładane w was.”
+* „To nie byli moi ludzie! To byli ludzie, którzy odwrócili się przeciwko mnie! To byli ludzie, którzy chcieli odebrać to, co moje – moje królestwo! Chcieli mi je odebrać i oddać Sydonowi. Nie taka była umowa! Miał nastać dalszy wiek pokoju. Obiecał mi to! Jest kłamcą!”
+* „Jeśli on jest kłamcą, to czyni mnie to głupcem. A ja... nie, zrobiłem wszystko jak trzeba. Przestrzegałem wszystkich zasad. Zrobiłem wszystko, o co mnie proszono, a nawet więcej. Czciłem każdego boga, szanowałem każdą tradycję. Zrobiłem wszystko, co mogłem. Zreformowałem Zakon Władców Smoków, aby chronić to miasto. Zrobiłem to wszystko, a i tak wyjdę na głupca.”
+* „Wy! Zawsze próbowaliście mnie upokorzyć na oczach moich własnych ludzi! Nawet w moim własnym pałacu! Tyle w was braku szacunku, tyle zuchwałości! Ty Orion, zrodzony w boskości... tobie wielkość została podana na tacy. Nigdy nie musiałeś na nią pracować, nigdy nie musiałeś na nią zasłużyć. Po prostu miałeś ją we krwi. I oto znowu się ze mnie wyśmiewacie. Słyszę was. Czuję wasze myśli. Chcecie mojej śmierci.”
+* „Kolos... największa broń, jaką mamy do obrony miasta. Nie, nie... ja mam berło kontrolne. Nikt nie może go dostać. Będę je bezpiecznie strzegł.”
+* „Próbowałem walczyć. To było bezowocne. Jego moc jest zbyt wielka.”
+* „Dzikie karty... słyszałem, jak wielu określa waszą piątkę właśnie w ten sposób. Mówią, że tańczycie poza przeznaczeniem, że kroczycie między światami, że nie musicie przestrzegać zasad. Myślę, że widząc was dosiadających tych wspaniałych stworzeń, można uznać to za wystarczający dowód.”
+* „Może i przepowiedziano mi, że będę kimś o niewielkiej wartości i znaczeniu, ale nadszedł czas, abym odłożył dumę na bok i postawił lud na pierwszym miejscu – bardziej niż kiedykolwiek wcześniej.”
+* „Jeśli nadal służycie Sydonowi, to jesteście wrogami miasta Mytros. Powiedz mi teraz, Izydorze, po której stronie leży wasza lojalność?”
+* „Władcy Smoków! Niezależnie od tego, czy służycie Sydonowi, czy tronowi Mytros, złożyliście przysięgę – przysięgę Władców Smoków. Nasi poprzednicy by się za was wstydzili! Zaprzestańcie tej walki natychmiast! I pomóżcie mi ratować lud tego miasta oraz tych, którzy zostali zmuszeni do walki w żałosnej walce Sydona o władzę.”
+* „Jestem twoim jeźdźcem! Nakazuję ci się zatrzymać!”
+* „Wejdźcie do wnętrza Kolosa! Zróbcie to, co musi zostać zrobione! Ja pomogę mojej żonie w walce z tą bestią!”
