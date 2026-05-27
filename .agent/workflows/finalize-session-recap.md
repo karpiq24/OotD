@@ -34,7 +34,7 @@ This workflow processes a user-reviewed session recap draft, adding wikilinks, i
     *   Update concise summary in `content/Campaign_Context.md`.
 4.  **Video Scripts**:
     *   Activate skill `rpg-video-scripter`.
-    *   Generate video prompts to `content/06-Video-Scripts/`.
+    *   Generate video script to `content/assets/sessions/{000}/video_script.txt` and update the recap frontmatter to link the script.
 
 ## Step 4: Prompt Review (User Gate)
 1.  **Notify User**: "Image prompts are ready for review in `content/assets/sessions/{000}/`. Open the `.txt` files and check each scene description. Edit any you want changed, then reply to generate the actual images."

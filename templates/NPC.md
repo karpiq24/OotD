@@ -4,6 +4,8 @@ race:
 gender:
 occupation:
 image_prompt:
+character_personality:
+voice_characteristics:
 ---
 
 ![Placeholder](../assets/placeholder.png)

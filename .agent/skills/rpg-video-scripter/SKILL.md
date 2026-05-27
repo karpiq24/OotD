@@ -1,81 +1,121 @@
 ---
 name: rpg-video-scripter
-description: Generates a structured video script with integrated prompts for Google Flow (Veo/Nano).
+description: Generates a structured, multi-scene video script optimized for Google Flow (Gemini Omni) from a session recap, maintaining character and location visual continuity via rpg-illustrator prompts.
 ---
 
-# RPG Video Scripter (Google Flow Edition)
+# RPG Video Scripter
 
-Use this skill to create a highly structured video script file (`video_script.txt`). This script is optimized for Google Flow, allowing the user to quickly copy-paste prompts for high-quality AI video generation.
+Use this skill to translate a D&D session recap into a high-quality, structured video script that the user can copy-paste directly into Google Flow (Gemini Omni). The skill ensures character and location visual continuity, matches physical description prompts from `rpg-illustrator`, and outputs the exact tag format that Flow expects.
 
-## Core Rules
-
-1.  **Single Video Prompt**: Combine all scene information into one single English text block.
-    *   **Include**: Action descriptions, Camera movement instructions (e.g., "The camera orbits clockwise..."), Lighting, Atmosphere, and Sound descriptions.
-    *   **Dialogue**: Use **Polish** ONLY for actual character speech (e.g., "...as the knight yells: 'Za Thyleę!' while charging..."). All other descriptions must be in English.
-    *   **Pacing**: Veo clips are exactly **8 seconds**, so describe actions that fit this duration. Avoid "cut to"; describe continuous motion.
-
-2.  **Clip Methods (Mutually Exclusive)**: For each clip, you must propose exactly ONE method:
-    *   **Method A: First Frame (Image-to-Video)**: Generate a static image first (using `rpg-illustrator`), then set it as the `Start Frame` in Veo. This is best for complex character details or specific starting compositions.
-    *   **Method B: Ingredients (Text-to-Video with @refs)**: Generate the video directly from text. Reference saved characters/items using `@IngredientName`. This is best for dynamic movement or when characters are already defined in the user's Flow library.
-
-3.  **Visual Prompting (DELEGATED)**:
-    *   **Action**: For every clip, you MUST call the `rpg-illustrator` skill in **"Prompt Generation" Mode** to get character and environment descriptions.
-    *   **First Frame (Method A)**: Use the `rpg-illustrator` output verbatim for the image prompt.
-    *   **Ingredients (Method B)**: Use the `rpg-illustrator` output but replace character names with `@IngredientName` tags in the consolidated video prompt.
-
-4.  **Ingredient Generation Rules**:
-    *   When the output asks to define an Ingredient (`@Name`), provide a **full image prompt** for that ingredient in the `Global Ingredients` section:
-    *   **Character Ingredients**: Prompt = [Character Description] + "isolated on a simple one color background (grey or white background), no environment".
-    *   **Place/Environment Ingredients**: Prompt = [Environment Description] + "empty, no characters, no people".
-    *   **Style**: Always include the session's art style in these ingredient prompts.
-
-5.  **Art Style Consistency**: Choose ONE art style for the entire session (e.g., *Arcane Studio Fortiche style*, *80s Dark Fantasy Anime*, *Dark Fantasy Oil Painting (Frazetta style)*) and apply it to every prompt. Never choose photorealistic style.
-
-## Output Format
-
-Create the file: `content/assets/sessions/{000}/video_script.txt` (where `{000}` is the 3-digit session number).
-
-### Template Structure:
-
-```markdown
-# Video Script: Sesja {number} - {Title}
-
-**Art Style**: {Selected Style}
-
-**Global Ingredients (Składniki)**:
-*   **@IngredientName**:
-    *   *Role*: {Character/Location}
-    *   *Prompt (Copy and paste to create ingredient)*:
-{Full refined prompt based on Rule 4}
+## Input Parameters
+- **Session Recap File**: Absolute path to the session recap markdown file (e.g. `content/01-Sessions/Sesja 74 - Matka Smoków.md`).
+- **Mode Selection**: Decided interactively with the user:
+  - **Highlights Mode**: Capture 3 to 10 of the most memorable clips spanning the entire session's events.
+  - **Single Event Mode**: Capture a sequence of 3 to 10 shots mapping a specific dramatic scene or battle from beginning to end.
+- **Art Style Selection**: Decided interactively with the user from 10 dynamic presets generated on the fly.
 
 ---
 
-## CLIP 1: {Event Name}
-**Method**: {Method A: First Frame | Method B: Ingredients}
-
-### STEP 1: {Setup - e.g., Generate First Frame}
-**Prompt to copy (for Step 1 image)**:
-[Refined prompt from rpg-illustrator - used for Image Generation in Method A, or as the character baseline for Method B]
-
-### STEP 2: VIDEO GENERATION (8 Seconds)
-*Model: Veo 3.1 - Fast | Motion: 5 | [Set Image from Step 1 as Start Frame (Method A only)]*
-
-**Consolidated Video Prompt to copy (for Step 2 video)**:
-[One single block containing: Action + Camera Movement + Atmosphere + Sound + Polish Dialogue. English only, except for Polish speech. Use @IngredientName markers if Method B.]
-
-### STEP 3: EXPAND / ROZSZERZ (Optional)
-**Continuation Prompt to copy (for Expand/Co dalej?)**:
-[Brief 8-second follow-up action for the Expand tool if the scene needs more time.]
+## Step 1: Parse the Session Recap, Character, & Location Lists
+1. Read the session recap file. Extract key sections (using `###` headers) and dramatic event candidates (e.g., specific battles, discoveries, or deaths).
+2. Identify all characters (Bohaterowie/NPCs) and locations featured in the recap or sections.
+3. For each identified character, locate their markdown file in the wiki (e.g., in `content/02-People/Bohaterowie/` or `content/02-People/NPCs/`). Read their frontmatter to extract `image_prompt`, `character_personality`, and `voice_characteristics`.
+4. For each identified location, locate their markdown file in the wiki (e.g., under `content/03-Locations/`). Read their frontmatter to extract `image_prompt`.
+5. **Fallback Generation Rules**:
+   - If any character or location fields are missing or empty in their wiki frontmatter:
+     - **Thoroughly search session recaps** (using grep or file searches on files in `content/01-Sessions/`) to harvest additional context about how they were described, what actions occurred there, key atmosphere traits, and quotes.
+     - Combine the findings from the wiki entity file with these harvested details.
+     - **Character Image Prompt Fallback**: Synthesize a detailed, long physical description (at least 5 distinct visual attributes) based on their bio, race, gender, role, and any physical descriptions or action contexts harvested from the session recaps.
+     - **Character Personality Fallback**: Synthesize a detailed paragraph describing their traits, behavior, motivations, and temperament, enriched with their key decisions found in the session recaps.
+     - **Character Voice Characteristics Fallback**: Deduce and write a highly specific voice profile (tone, speed, pitch, accent) informed by their dialogue style and quotes found in session recaps.
+     - **Location Image Prompt Fallback**: Synthesize a detailed, long environmental description (at least 5 distinct visual attributes) detailing the architecture, landscape, color palette, lighting (e.g. dramatic, dark, bioluminescent), mood, and materials, drawing directly from the wiki bio and harvested session recap contexts.
 
 ---
+
+## Step 2: Interactive Prompting (User Decision Gate)
+Before generating the script, list the extracted key event candidates to the user in chat. Ask the user two key design questions:
+
+### 1. Script Focus Mode
+- "Should the script be a **Highlights** video of memorable moments across the entire session, or should it focus on **One Specific Event**?"
+- Provide a list of the extracted sections/events. If they select a specific event, focus the entire script on detailing that event sequentially.
+
+### 2. Video Art Style (Dynamic Generation)
+Analyze the parsed session recap's thematic context, environments (e.g. celestial tower, dark oceans, ancient temples), and overall emotional tone. Present the user with **10 unique visual art style options generated on the fly**:
+- **Mandatory Option 1**: **Arcane (League of Legends / Fortiche Studio style)**: Masterful mix of 3D rendering and hand-painted 2D textures, dramatic theatrical lighting, sharp graphic outlines, highly stylized anatomy, and rich, dynamic brushstrokes.
+- **Options 2–10 (On-The-Fly Generation)**: Dynamically conceive **9 distinct art styles** tailored specifically to the narrative and themes of this particular session recap. 
+  - For each dynamic style, provide a catchy title and a clear, descriptive summary of its visual attributes and guidelines so the user can easily visualize the final aesthetic.
+
+---
+
+## Step 3: Script Writing Rules & Prompt Refinement (Reusing rpg-illustrator)
+
+When drafting the script, follow these rules:
+
+1. **Scene Layout**: The script must be broken down into individual 4-to-10 second shots.
+2. **Visual Prompts (English)**: 
+   - Must be written in **English** for maximum compatibility with Gemini Omni in Flow.
+   - Describe subject, camera angle, action, lighting, and apply the selected **Video Art Style** prompt descriptors at the end.
+   - Use `@CharacterName` (e.g. `@Orestes`) and `@LocationName` (e.g. `@Praxys`) within the prompt to track characters and environments. Include their resolved physical/environmental descriptions in the text to maintain visual and scene consistency.
+3. **Ingredients to Assign in Flow**:
+   - List each character and location tracked in the visual prompt using `@CharacterName` and `@LocationName` tags.
+   - Format: `@Name (Reference image of the [role/location], see [File.md]: [Verbatim Physical/Environmental Description])`.
+4. **Audio/Dialogue (Polish)**:
+   - Must be in **Polish** to preserve exact in-game quotes, narration, and tone.
+   - Format: `@Voice: CharacterName — "Dialogue line"` or `None (Sound effect/music description)`.
+
+---
+
+## Step 4: Google Flow Script Structure
+
+Format the final script output file exactly like this:
+
+```
+# Skrypt wideo: Sesja {NNN} - {Session Title} ({Mode})
+Art Style: {Selected Art Style Name}
+
+## 1. Google Flow Project Assets Setup
+Before generating the scenes, set up these character and location assets in your Google Flow project:
+
+### Characters
+
+#### @CharacterName
+- **Image Prompt**: {The long physical description from frontmatter/fallback}
+- **Character Personality**: {Personality description from frontmatter/fallback}
+- **Voice Characteristics**: {Voice characteristics from frontmatter/fallback}
+
+### Locations
+
+#### @LocationName
+- **Image Prompt**: {The long environmental description from frontmatter/fallback}
+
+---
+
+## 2. Scenes Timeline
+
+Scene 1: {Scene Title/Action}
+Visual Prompt: {Detailed English prompt including camera shot type, mood, actions, and character tags like @CharacterName, within the environment tagged @LocationName. Conclude with the selected art style guidelines.}
+Ingredients to Assign in Flow:
+- @CharacterName
+- @LocationName
+Audio/Dialogue:
+- @Voice: CharacterName — "Polish dialogue or narration line"
+
+Scene 2: {Scene Title/Action}
+Visual Prompt: {Detailed English prompt...}
+...
 ```
 
-## Instructions for the Agent
+---
 
-1.  **Identify or Receive Scenes**:
-    *   **Case A (Default)**: Identify 3-6 key dramatic moments from the session recap.
-    *   **Case B (User-Specified)**: If the user provides a specific scene description, prompt, or list of moments, **use those instead**.
-2.  **Propose a Clip Method** (A or B) for each, balancing visual detail (Method A) with fluid character movement (Method B).
-3.  **Call `rpg-illustrator`** in "Prompt Generation" Mode for each clip to get high-quality descriptions.
-4.  **Write the Consolidated Video Prompt** ensuring it hits all requirements (Camera, Audio, Polish Dialog).
-5.  **Save the file** and remind the user to load these into the "Kreator Scen" (Scene Creator) timeline to build the final scene.
+## Step 5: Save & Attach to Recap
+
+1. Save the generated script as a plain text file to `content/assets/sessions/{NNN}/video_script.txt`.
+2. Open the session recap markdown file (`content/01-Sessions/Sesja {NNN} - *.md`).
+3. Add or update the following field in the YAML frontmatter:
+   ```yaml
+   video_script: "[Skrypt wideo](../assets/sessions/{NNN}/video_script.txt)"
+   ```
+4. Run the index auto-updater script to update the Obsidian-compatible navigation and links:
+   ```bash
+   python3 scripts/update_indexes.py
+   ```
