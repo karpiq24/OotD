@@ -199,27 +199,27 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 
 ## Oś Czasu i Kluczowe Wydarzenia
 
-### Początek Przygody (Sesje 1-10)
+### Początek Przygody: Przepowiednia i Grobowiec Xandera (Sesje 1-10)
 *   **Wielki Dzik (S1):** Bohaterowie spotykają się w oberży Kwaśny Rocznik z inicjatywy Kyrah. Pokonują Wielkiego Dzika wysłanego przez Tytanów.
 *   **Przepowiednia (S2):** Wyrocznia (Versi) wyjawia im trzy Wielkie Prace: zdobycie broni Smoczych Lordów, rozpalenie Mithralowej Kuźni, wypicie z Rogu Balmytrii.
 *   **Skradziony Róg (S3-S4):** Odzyskanie rogu od driady Demetrii w Starym Lesie.
 *   **Obrona Estorii (S5-S7):** Walka z bazyliszkami i uratowanie księżniczki Anory przed ofiarą dla Sydona.
 *   **Nekropolia (S8-S10):** Wyprawa do grobowca Xandera. Zdobycie korony, tarczy i topora Smoczych Lordów. Pokonanie Graxisa Rzeźnika.
 
-### Mithralowa Kuźnia i Gniew Tytanów (Sesje 11-20)
+### Mithralowa Kuźnia i Kryzys w Mytros (Sesje 11-20)
 *   **Mithralowa Kuźnia (S11-S12):** Rozpalenie kuźni, śmierć i wskrzeszenie Oriona (przez Pythora). Stworzenie magicznych broni.
 *   **Burza nad Mytros (S13-S14):** Sydon zsyła sztorm na stolicę. Bohaterowie, wspierani przez Boreasa i Kyrah, uciszają burzę na szczycie góry Volkana. Otrzymują mapę do Ultrosa.
 *   **Ultros (S15-S17):** Poszukiwania statku. Odkrycie spisku w kanałach Mytros. Walka z kultystami Lutherii.
 *   **Noc Długich Rogów (S18-S20):** Bunt minotaurów w Mytros. Orestes pokonuje czempiona Maximusa.
 
-### Wielka Odyseja (Sesje 21-40)
+### Wielka Odyseja: Wielkie Igrzyska i Wyspy Zatoki (Sesje 21-40)
 *   **Wyprawa po Ultrosa (S24):** Pokonanie Estora Arkelandera przy Martwych Wodospadach. Orestes przejmuje ster nad widmowym okrętem.
 *   **Wielkie Igrzyska (S25-S30):** Zawody w Mytros z udziałem Bogów i Tytanów. Felicjan wygrywa wyścig rydwanów, Arevon finałową walkę. Kradzież Antikythery.
 *   **Rewolucja na Themis (S31-S36):** Obalenie uzurpatorki Thessilei, przywrócenie na tron królowej Darien. Zniesienie niewolnictwa mężczyzn.
 *   **Wyspa Ognia (S37-S38):** Bitwa w wulkanie. Versir zdobywa Rękawicę. Odnalezienie laski Sydona.
 *   **Wyspa Skorpiona (S40):** Odkrycie planów Tytanów.
 
-### Wyprawa na Krańce Świata (Sesje 41-55)
+### Przygotowania do Wojny: Sojusze i Szpiegostwo na Yonder (Sesje 41-55)
 *   **Wiedźma Lotosu (S41):** Poznanie słabości Hexii.
 *   **Sojusz ze Smokami (S42-S44):** Pokonanie miedzianej smoczycy Ventis.
 *   **Wyspa Mojr (S47-S48):** Zdjęcie klątwy ze smoczych jaj (narodziny małych smoków). Pakty bohaterów z Mojrami.
@@ -227,17 +227,22 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 *   **Inwazja na Yonder (S51-S53):** Szpiegowska misja w bazie wroga. Śmierć Gaiusa i jego smoka. Zdobycie planów wojennych.
 *   **Egida Mytros (S55):** Acastus prezentuje armię automatonów jako alternatywę dla herosów.
 
-### Wojna o Thyleę (Sesje 56-68)
+### Wyprawa na Zapomniane Morze: Zagubieni Tytani, Hades i Sojusznicy (Sesje 56-64)
 *   **Wyspa Czasu (S56-S59):** Pętla czasu, pokonanie Talieusa (Tytana), zdobycie latającej fortecy. Odkrycie smoka Paradoxa.
 *   **Typhon i Hades (S60-S61):** Zejście do podziemi. Uwolnienie Yali (ciotki Versira).
 *   **Dyplomacja w Arezji (S62-S63):** Przekonanie wojowniczego miasta do dołączenia do wojny przeciw Tytanom.
 *   **Pieśń dla Hexii (S64):** Spacyfikowanie smoczycy Hexii pieśnią (przez Orestesa). Odzyskanie broni Titansbane.
+
+### Finałowa Odyseja: Morze Otchłani, Infiltracja Praxys i Koniec Przysięgi (Sesje 65-75)
 *   **Otchłań (S65-S67):** Wyprawa na Morze Otchłani. Spotkanie z Krakenem i Tarrasque'iem. Ostateczne zniszczenie ducha Estora w Lustrzanym Więzieniu.
 *   **Arena Krzywoprzysięstwa (S68):** Walka na arenie Lutherii z duchami przeszłości (fale pokonanych wrogów). Przybycie samej Lutherii.
-
-## Finałowa Odyseja i Bitwa o Mytros (Sesje 69-77)
 *   **Audiencja u Lutherii (S69-S70):** Wizyta na okręcie Hypnos, ostateczna śmierć ducha Estora Arkelandera i otrzymanie Titansbane od Volkana.
 *   **Infiltracja Praxys (S71-S74):** Potajemne wejście do wieży Sydona, zasadzka przeprowadzona z wnętrza bochenka chleba, śmierć [[Chalcia|Chalcii]] z rąk herosów, rozbrojenie skarbca, zgładzenie [[Goloron|Golorona]] na jego krwawej arenie oraz uwolnienie bezdusznego smoczego klona - [[Nephele (Smok)|Nephele]].
 *   **Koniec Przysięgi (S75):** Rytualne zniszczenie wieży Praxys. Wygaśnięcie Przysięgi Pokoju obnaża pradawną tajemnicę bogów-smoków i oddaje Tytanom pełnię władzy nad kontynentem.
+
+### Oblężenie Mytros: Walka w Mieście i Przebudzenie Kolosa (Sesje 76-78)
 *   **Bitwa o Mytros: Pierwsza Fala (S76):** Przebicie blokady zakonnej, obrona miasta przed tsunami Sydona i początek decydującego starcia z empyreanem Hergeronem w Świątyni Pięciu.
-*   **Bitwa o Mytros: Upadek Icarusa (S77):** Śmierć Hergerona od fey'owych sztyletów w tyłek, pokonanie zmutowanego Icarusa na arenie przez połączone siły drużyny i smoków-bogów. [[Sybolkorax]] ujawnia plan przebudzenia [[Kolos Pythora|Kolosa Pythora]] — do aktywacji potrzebne jest [[Rod of Rulership]] z [[Pałac Królewski w Mytros|pałacu Acastusa]]. Kolejny cel: wymusić oddanie berła i obudzić mecha-boga.
+*   **Bitwa o Mytros: Upadek Icarusa (S77):** Śmierć Hergerona od fey'owych sztyletów w tyłek, pokonanie zmutowanego Icarusa na arenie przez połączone siły drużyny i smoków-bogów. [[Sybolkorax]] ujawnia plan przebudzenia [[Kolos Pythora|Kolosa Pythora]] — do aktywacji potrzebne jest [[Rod of Rulership]] z [[Pałac Królewski w Mytros|pałacu Acastusa]].
+*   **Bitwa o Mytros: Przebudzenie Kolosa (S78):** Konfrontacja z szalonym królem [[Acastus|Acastusem]] w sali tronowej, odparcie oskarżeń i przekonanie go do oddania [[Rod of Rulership|Berła Władzy]]. Likwidacja napastników i zgładzenie zdradzieckiego [[Tarchon|Tarchona]] oraz dowódcy [[Leopardas|Leopardasa]] w pałacu. Przebudzenie [[Kolos Pythora|Kolosa Pythora]] jako mecha-boga odwraca losy bitwy lądowej, lecz węże morskie zatapiają [[Ultros|Ultrosa]] w porcie, a na pole walki wkracza sam tytan [[Sydon|Sydon]].
+
+
