@@ -79,3 +79,4 @@ title: Sesje
 - [[Sesja 75 - Koniec Przysięgi|Sesja 75: Koniec Przysięgi]]
 - [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|Sesja 76: Bitwa o Mytros: Pierwsza Fala]]
 - [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa|Sesja 77: Bitwa o Mytros: Upadek Icarusa]]
+- [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa|Sesja 78: Bitwa o Mytros: Przebudzenie Kolosa]]
