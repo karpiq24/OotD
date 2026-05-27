@@ -1,0 +1,95 @@
+# Skrypt wideo: Sesja 078 - Bitwa o Mytros: Przebudzenie Kolosa (Single Event Mode)
+Art Style: God of War (Mythological Realism)
+
+## 1. Google Flow Project Assets Setup
+Before generating the scenes, set up these character and location assets in your Google Flow project:
+
+### Characters
+
+#### @Arevon
+- **Image Prompt**: young adult male elf with a slender build. He has an angular face with high cheekbones, a sharp jawline, intense dark eyes, and long pointed ears. His shoulder-length, wavy dark brown hair frames his face. He wears layered brown leather armor with intricate silver filigree details over a dark, high-collared tunic. He is equipped with black fingerless leather gloves, an ornate silver pendant with a large cracked dark gemstone, and a single silver diamond-shaped earring. The overall aesthetic is fantasy adventurer.
+- **Character Personality**: Wise and inquisitive, seeking answers about the cosmos. He is deeply connected to nature and the stars, showing naive curiousness but growing into a strategic, stellar-form-shifting druid. Committed to his allies, even willing to sacrifice his legendary speed for their common goal.
+- **Voice Characteristics**: Melodious, calm, and deliberate, speaking with a gentle but firm tone. He has a measured cadence, occasionally carrying an air of foreign elegance and cosmic wonder.
+
+#### @Versir
+- **Image Prompt**: adult male with a dark fantasy aesthetic. He has a slender build, pale alabaster skin, and short blonde hair styled in a messy quiff. His face is defined by a strong jawline, high cheekbones, and piercing cyan eyes, often held in a confident smirk. A large, jagged scar runs along the side of his neck and jaw. He wears an ornate breastplate. He wears a large, magical gauntlet on one hand.
+- **Character Personality**: Enigmatic, charismatic, and intensely driven by a personal quest for vengeance. As a half-tytan, he exhibits a dark paladin's resolve, willing to make cold, ruthless tactical sacrifices for the greater good of Thylea. He hides a deeply strategic mind behind a confident, sometimes cynical smirk.
+- **Voice Characteristics**: Smooth, low, and silver-tongued. He speaks with a smooth, commanding authority that can quickly turn chillingly cold, utilizing telepathic whispers or booming divine commands with equal ease.
+
+#### @Felicjan
+- **Image Prompt**: young adult male human wizard with a lean, rugged build. He has intense blue-grey eyes, a strong jawline, a weathered complexion, and a prominent scar across his right cheek. His short, messy dark brown hair is complemented by a full dark brown beard. He wears layered medieval clothing, a rust-brown hooded tunic over a coarse off-white linen shirt, with a thick brown leather shoulder strap and buckle. Two bronze circular geometric star emblems are visible on his chest.
+- **Character Personality**: Brilliant but plagued by self-doubt and fear of failure, which he overcame to fulfill his destiny as "The Gifted One". He is highly intelligent, pragmatic, and possesses a sharp, witty sense of humor. He cares deeply for his wife Melania and is fiercely protective of his allies, showing immense tactical creativity in battle.
+- **Voice Characteristics**: Warm, slightly gravelly, and quick-witted. He speaks with a rhythmic, academic clarity that shifts into intense, commanding incantations when wielding high-tier magic.
+
+#### @Acastus
+- **Image Prompt**: middle-aged male, muscular build, ancient Greek king, stern expression, dark intense eyes, furrowed brow, short dark hair, a thick black beard and mustache, wearing a golden laurel wreath crown, an ornate golden cuirass with a pauldron shaped like a snarling lion's head, a red cape over his shoulder.
+- **Character Personality**: Popular with the common folk but secretly arrogant, impatient, and deeply insecure, suffering from an inferiority complex relative to his ancestor Estor Arkelander. Fearful of death, he is manipulative and power-hungry, though he briefly found a desperate resolve when urged by his mother to put his people first during the siege.
+- **Voice Characteristics**: In his prime, he spoke with a booming, theatrical authority. Now, under stress, his voice is frayed, strained, and defensive, cracking with desperate pride and resentment.
+
+#### @Idylla
+- **Image Prompt**: elegant middle-aged human woman of royal stature. She has high cheekbones, calculating brown eyes, and long, braided dark brown hair woven with thin silver threads. She wears a draped and embroidered emerald-green chiton with delicate silver leaf patterns along the collar and hem, secured by silver fibulae on her shoulders. Her posture is poised and commanding.
+- **Character Personality**: Politically brilliant, manipulative, and dignified. She has a sharp grasp of courtly intrigue and exercises a deep, maternal authority over her son Acastus. While she can be cold and self-serving, she is realistic and possesses the courage to face grim truths, urging her son to abandon his foolish pride when his city is on the brink of destruction.
+- **Voice Characteristics**: Soft but remarkably clear and commanding. Her tone is melodic and carrying, utilizing a maternal warmth that can instantly turn into a sharp, icy whip of disapproval.
+
+### Locations
+
+#### @PalacKrolewski
+- **Image Prompt**: massive ancient Greek palace interior, a grand throne room. The structure features high-vaulted ceilings, sweeping marble pillars, grand archways, and royal bronze plaques with legal codes. A decorative glass dome on the ceiling allows dim light to filter in. At the far end of the room stands a massive golden throne. The floor is polished marble, now covered in dust and debris from the ongoing siege outside. The air is thick with rising smoke and tension.
+
+---
+
+## 2. Scenes Timeline
+
+Scene 1: Wejście do zrujnowanej Sali Tronowej
+Visual Prompt: A wide establishing shot from behind three adventurers—@Arevon (a slender elven druid in brown leather armor), @Versir (an aasimar with a pale face and ornate breastplate), and @Felicjan (a rugged bearded wizard in a hooded tunic)—as they walk through the heavy, cracked oak doors into the grand throne room of @PalacKrolewski. The floor is dusty white marble with long shadows stretching forward. In the far background, @Acastus sits slumped on a massive golden throne, looking small and defeated. The ceiling is a grand arched dome. Light filters through high shattered stained-glass windows, filled with floating ash and smoke. Mythological realism in the style of God of War. Gritty, raw, hyper-detailed, with deep shadows and high-contrast chiaroscuro lighting.
+Ingredients to Assign in Flow:
+- @Arevon (Reference image of the adventurer, see [[Arevon Elorrenthi|Arevon Elorrenthi.md]]: young adult male elf...)
+- @Versir (Reference image of the half-titan paladin, see [[Versir|Versir.md]]: adult male...)
+- @Felicjan (Reference image of the human wizard, see [[Felicjan Janus Twardowski|Felicjan Janus Twardowski.md]]: young adult male human...)
+- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
+- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+Audio/Dialogue:
+- None (Sound of heavy leather footsteps echo in the silence; the distant, muffled rumble of battle outside)
+
+Scene 2: Szalony Król na Tronie
+Visual Prompt: A medium close-up of @Acastus sitting on the golden throne in @PalacKrolewski. He looks disheveled and heavily wounded; blood trickles down his forehead from under a gold laurel wreath crown that has been forced painfully deep onto his head. His dark eyes are wild, bloodshot, and wide with mad despair. He clutches the ornate golden Rod of Rulership tightly in both hands. The lighting is harsh and direct, highlighting the sharp lines of his face, his dark beard, and the metallic sheen of his lion-headed golden cuirass. Mythological realism in the style of God of War. Gritty and raw, hyper-detailed skin textures of sweat and dry blood.
+Ingredients to Assign in Flow:
+- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
+- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+Audio/Dialogue:
+- @Voice: Acastus — "I co teraz?! Przyszliście tu napawać się moim upadkiem?! To przez was... przez wasze przeklęte czyny skończył się pokój śmiertelników z Tytanami! Ściągnęliście na Mytros ostateczną zagładę!"
+
+Scene 3: Odrzucenie Oskarżeń
+Visual Prompt: A medium shot of @Arevon stepping forward in the dusty throne room of @PalacKrolewski, his hand resting on his silver pendant. His elven features are sharp, angular, and filled with cold resolve. Behind him, @Versir stands with a confident yet stern expression, cyan eyes shining in the dim light. Shafts of golden light highlight the intricate silver filigree on @Arevon's leather armor. Mythological realism in the style of God of War. Gritty, high-contrast lighting with floating ash particles in the air.
+Ingredients to Assign in Flow:
+- @Arevon (Reference image of the adventurer, see [[Arevon Elorrenthi|Arevon Elorrenthi.md]]: young adult male elf...)
+- @Versir (Reference image of the half-titan paladin, see [[Versir|Versir.md]]: adult male...)
+- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+Audio/Dialogue:
+- @Voice: Arevon — "Akastusie, nie zrzucaj winy za własną nieudolność na nas! My spowodowaliśmy koniec Przymierza? Tego Przymierza, które zostało podpisane, zanim większość z nas w ogóle się narodziła?"
+
+Scene 4: Ostateczny Wybór
+Visual Prompt: A close-up of @Versir speaking, his pale face defined by a strong jawline and a jagged scar. His piercing cyan eyes lock onto the king off-screen. The background of @PalacKrolewski is blurred. One of his hands, clad in an ornate magical gauntlet, is slightly raised in a slow, powerful gesture. High-contrast chiaroscuro lighting casts deep shadows across his face, emphasizing his cold, determined expression. Mythological realism in the style of God of War. Gritty, sharp graphic details, warm flame reflections in his eyes.
+Ingredients to Assign in Flow:
+- @Versir (Reference image of the half-titan paladin, see [[Versir|Versir.md]]: adult male...)
+- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+Audio/Dialogue:
+- @Voice: Versir — "Nie musisz oddawać nam tego berła dla naszej chwały. Oddaj je, byśmy tchnęli życie w Kolosa i ocalili miasto. Akastusie... chcesz być zapamiętany na kartach historii jako tchórz, który miał broń w ręku i bał się jej użyć?"
+
+Scene 5: Matczyny Głos
+Visual Prompt: A medium shot of @Idylla stepping gracefully out of the deep shadows in @PalacKrolewski, standing near the throne of @Acastus. Her elegant emerald-green chiton and braided hair are highlighted by a soft, warm light. Her posture is poised and majestic, her calculating brown eyes filled with a mother's stern authority as she looks down at her broken son. Mythological realism in the style of God of War. High-contrast, rich textures of cloth and ancient stone.
+Ingredients to Assign in Flow:
+- @Idylla (Reference image of the king's mother, see [[Idylla|Idylla.md]]: elegant middle-aged human woman...)
+- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
+- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+Audio/Dialogue:
+- @Voice: Idylla — "Zawsze przykładałeś zbyt wiele uwagi do tego, co mówią przepowiednie, mój synu. Teraz skończ użalać się nad sobą i zrób chociaż raz w życiu to, co słuszne."
+
+Scene 6: Przekazanie Berła i Nowa Determinacja
+Visual Prompt: A medium shot of @Acastus rising heavily from the golden throne in @PalacKrolewski, his eyes shining with a new, desperate determination. He steps forward, extending his muscular arm, holding out the golden Rod of Rulership towards the heroes. In the background, @Felicjan, the rugged wizard, stands watching with intense blue-grey eyes, his messy brown beard catching the light. The shattered glass dome above them casts long, dramatic patterns of light and shadow. Mythological realism in the style of God of War. Gritty, hyper-detailed, with deep textures of gold, bronze, and stone.
+Ingredients to Assign in Flow:
+- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
+- @Felicjan (Reference image of the human wizard, see [[Felicjan Janus Twardowski|Felicjan Janus Twardowski.md]]: young adult male human...)
+- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+Audio/Dialogue:
+- @Voice: Acastus — "Macie rację... Może i przepowiedziano mi, że będę kimś o niewielkiej wartości. Ale nadszedł czas, bym odłożył dumę na bok i postawił mój lud na pierwszym miejscu. Uratujcie to miasto."

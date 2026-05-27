@@ -1,5 +1,6 @@
 ---
 title: Nazwa Miejsca
+image_prompt:
 ---
 
 ![Placeholder](../assets/placeholder.png)

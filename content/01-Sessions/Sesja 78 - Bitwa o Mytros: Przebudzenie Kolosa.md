@@ -3,6 +3,7 @@ title: "Sesja 78: Bitwa o Mytros: Przebudzenie Kolosa"
 transcript_txt: "[Transkrypt (txt)](../assets/sessions/078/transcript.txt)"
 transcript_json: "[Transkrypt (json)](../assets/sessions/078/transcript.json)"
 chat_log: "[Chat log](../assets/sessions/078/chat_log.json)"
+video_script: "[Skrypt wideo](../assets/sessions/078/video_script.txt)"
 ---
 
 **Data:** 25.05.2026
