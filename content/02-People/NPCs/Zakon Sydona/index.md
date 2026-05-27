@@ -8,3 +8,4 @@ title: Zakon Sydona
 - [[Elasus]]
 - [[Gaius]]
 - [[Heleka]]
+- [[Leopardas]]
