@@ -21,6 +21,16 @@ Before generating the scenes, set up these character and location assets in your
 - **Character Personality**: Brilliant but plagued by self-doubt and fear of failure, which he overcame to fulfill his destiny as "The Gifted One". He is highly intelligent, pragmatic, and possesses a sharp, witty sense of humor. He cares deeply for his wife Melania and is fiercely protective of his allies, showing immense tactical creativity in battle.
 - **Voice Characteristics**: Warm, slightly gravelly, and quick-witted. He speaks with a rhythmic, academic clarity that shifts into intense, commanding incantations when wielding high-tier magic.
 
+#### @Orestes
+- **Image Prompt**: powerful male minotaur with a muscular build, broad shoulders, and brown fur. His bovine head features large, curved dark grey horns, piercing glowing blue eyes, and a bull snout. He has stylish, thick blonde hair swept back and a well-groomed blonde fur beard. He is dressed in a draped white toga with an ornate red sash featuring carved patterns and a textured grey shoulder strap. The aesthetic is a Greco-Roman gladiator and mythological creature.
+- **Character Personality**: Good-natured and determined but plagued by a curse of bad luck. As "The Doomed One", he has cheated death multiple times and seeks to break his curse through heroic deeds. He has a simple, down-to-earth demeanor, is deeply protective of his companions, and has an enduring love for beer and playing the bagpipes.
+- **Voice Characteristics**: Low, rumbling, and slightly gravelly, but warm. He speaks with a hearty, straightforward cadence, occasionally punctuated by minotaur-like grunts or booms of wild fury.
+
+#### @Orion
+- **Image Prompt**: male fantasy warrior with an athletic build and elven features. He wears highly ornate golden plate armor with intricate filigree in a Greco-Roman spartan style. His head is covered by a full golden Corinthian helmet with a large yellow and black plume, from which his glowing orange eyes peer out. He wears a dark blue cloth hood and cape over layered golden pauldrons. His attire is completed by a leather belt with multiple pouches, a gold ornamental bird-head buckle, a blue loincloth with white embroidered patterns, a quiver of arrows, and a round wooden shield. He wields an ornate spear that sparks with lightning.
+- **Character Personality**: Inquisitive, brave, and deeply aware of the divine spark in his blood. As the son of Pythor, he fights with the grace and pride of a demigod, seeking to prove his worth and live up to his father's legacy. He has a dramatic flair, is highly confident in battle, and holds deep contempt for cowards and traitors.
+- **Voice Characteristics**: Resonant, clear, and proud, with a commanding dramatic projection. His speech is elegant and assertive, carrying the confident weight of a mythic hero.
+
 #### @Acastus
 - **Image Prompt**: middle-aged male, muscular build, ancient Greek king, stern expression, dark intense eyes, furrowed brow, short dark hair, a thick black beard and mustache, wearing a golden laurel wreath crown, an ornate golden cuirass with a pauldron shaped like a snarling lion's head, a red cape over his shoulder.
 - **Character Personality**: Popular with the common folk but secretly arrogant, impatient, and deeply insecure, suffering from an inferiority complex relative to his ancestor Estor Arkelander. Fearful of death, he is manipulative and power-hungry, though he briefly found a desperate resolve when urged by his mother to put his people first during the siege.
@@ -31,65 +41,106 @@ Before generating the scenes, set up these character and location assets in your
 - **Character Personality**: Politically brilliant, manipulative, and dignified. She has a sharp grasp of courtly intrigue and exercises a deep, maternal authority over her son Acastus. While she can be cold and self-serving, she is realistic and possesses the courage to face grim truths, urging her son to abandon his foolish pride when his city is on the brink of destruction.
 - **Voice Characteristics**: Soft but remarkably clear and commanding. Her tone is melodic and carrying, utilizing a maternal warmth that can instantly turn into a sharp, icy whip of disapproval.
 
+#### @Tarchon
+- **Image Prompt**: tall athletic human male in his late 30s. He has a stern, angular face, sharp features, intense dark eyes, and short-cropped black hair. He wears heavy, polished bronze plate armor of a Mytros centurion, adorned with lion motifs and red fabric trim. Over his shoulders is a short red cape. He is equipped with a matching bronze scabbard holding a short sword. The aesthetic is ancient Greek soldier and dragon rider.
+- **Character Personality**: Servile and fanatically loyal to Sydon, hiding his dark allegiance under a mask of duty and honor. He was a trusted advisor to King Acastus but ultimately betrayed his king and the city of Mytros for the promise of power under the titan Sydon. He is opportunistic, cold, and cruel, but ultimately lacks the true bravery of a hero.
+- **Voice Characteristics**: Sharp, militaristic, and commanding, but carrying a strained, fanatical edge when showing his true colors. He speaks with high-pitched, desperate intensity during battle.
+
 ### Locations
 
 #### @PalacKrolewski
 - **Image Prompt**: massive ancient Greek palace interior, a grand throne room. The structure features high-vaulted ceilings, sweeping marble pillars, grand archways, and royal bronze plaques with legal codes. A decorative glass dome on the ceiling allows dim light to filter in. At the far end of the room stands a massive golden throne. The floor is polished marble, now covered in dust and debris from the ongoing siege outside. The air is thick with rising smoke and tension.
+
+### Items
+
+#### @RodOfRulership
+- **Image Prompt**: A highly ornate, polished golden royal sceptre (Rod of Rulership) from ancient Greek mythology. The rod is crafted from gleaming yellow gold, decorated with intricate clockwork engraving and filigree. The head of the sceptre is sculpted in the likeness of a roaring dragon clutching a glowing amber gemstone. The shaft is wrapped in aged, textured leather bindings with ancient Greek bronze studs. A faint, regal golden aura emanates from the object.
 
 ---
 
 ## 2. Scenes Timeline
 
 Scene 1: Wejście do zrujnowanej Sali Tronowej
-Visual Prompt: A wide establishing shot from behind three adventurers—@Arevon (a slender elven druid in brown leather armor), @Versir (an aasimar with a pale face and ornate breastplate), and @Felicjan (a rugged bearded wizard in a hooded tunic)—as they walk through the heavy, cracked oak doors into the grand throne room of @PalacKrolewski. The floor is dusty white marble with long shadows stretching forward. In the far background, @Acastus sits slumped on a massive golden throne, looking small and defeated. The ceiling is a grand arched dome. Light filters through high shattered stained-glass windows, filled with floating ash and smoke. Mythological realism in the style of God of War. Gritty, raw, hyper-detailed, with deep shadows and high-contrast chiaroscuro lighting.
+Visual Prompt: A wide establishing shot from behind three lead adventurers—@Arevon (a slender elven druid), @Versir (a pale-faced aasimar), and @Felicjan (a rugged human wizard)—as they walk through the heavy, cracked oak doors into the grand throne room of @PalacKrolewski. The floor is dusty white marble with long shadows stretching forward. In the far background, a slumped royal figure sits on a massive golden throne, looking small and defeated. The ceiling is a grand arched dome. Light filters through high shattered stained-glass windows, filled with floating ash and smoke. Mythological realism in the style of God of War. Gritty, raw, hyper-detailed, with deep shadows and high-contrast chiaroscuro lighting.
 Ingredients to Assign in Flow:
-- @Arevon (Reference image of the adventurer, see [[Arevon Elorrenthi|Arevon Elorrenthi.md]]: young adult male elf...)
-- @Versir (Reference image of the half-titan paladin, see [[Versir|Versir.md]]: adult male...)
-- @Felicjan (Reference image of the human wizard, see [[Felicjan Janus Twardowski|Felicjan Janus Twardowski.md]]: young adult male human...)
-- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
-- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+- @Arevon (Reference image of the adventurer: young adult male elf...)
+- @Versir (Reference image of the half-titan paladin: adult male...)
+- @Felicjan (Reference image of the human wizard: young adult male human...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
 Audio/Dialogue:
 - None (Sound of heavy leather footsteps echo in the silence; the distant, muffled rumble of battle outside)
 
 Scene 2: Szalony Król na Tronie
-Visual Prompt: A medium close-up of @Acastus sitting on the golden throne in @PalacKrolewski. He looks disheveled and heavily wounded; blood trickles down his forehead from under a gold laurel wreath crown that has been forced painfully deep onto his head. His dark eyes are wild, bloodshot, and wide with mad despair. He clutches the ornate golden Rod of Rulership tightly in both hands. The lighting is harsh and direct, highlighting the sharp lines of his face, his dark beard, and the metallic sheen of his lion-headed golden cuirass. Mythological realism in the style of God of War. Gritty and raw, hyper-detailed skin textures of sweat and dry blood.
+Visual Prompt: A medium close-up of @Acastus sitting on the golden throne in @PalacKrolewski. He looks disheveled and heavily wounded; blood trickles down his forehead from under a gold laurel wreath crown that has been forced painfully deep onto his head. His dark eyes are wild, bloodshot, and wide with mad despair. He clutches the ornate golden @RodOfRulership tightly in both hands. The lighting is harsh and direct, highlighting the sharp lines of his face, his dark beard, and the metallic sheen of his lion-headed golden cuirass. Mythological realism in the style of God of War. Gritty and raw, hyper-detailed skin textures of sweat and dry blood.
 Ingredients to Assign in Flow:
-- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
-- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+- @Acastus (Reference image of the fallen king: middle-aged male...)
+- @RodOfRulership (Reference image of the sceptre: A highly ornate, polished golden royal sceptre...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
 Audio/Dialogue:
 - @Voice: Acastus — "I co teraz?! Przyszliście tu napawać się moim upadkiem?! To przez was... przez wasze przeklęte czyny skończył się pokój śmiertelników z Tytanami! Ściągnęliście na Mytros ostateczną zagładę!"
 
 Scene 3: Odrzucenie Oskarżeń
-Visual Prompt: A medium shot of @Arevon stepping forward in the dusty throne room of @PalacKrolewski, his hand resting on his silver pendant. His elven features are sharp, angular, and filled with cold resolve. Behind him, @Versir stands with a confident yet stern expression, cyan eyes shining in the dim light. Shafts of golden light highlight the intricate silver filigree on @Arevon's leather armor. Mythological realism in the style of God of War. Gritty, high-contrast lighting with floating ash particles in the air.
+Visual Prompt: A medium shot of @Arevon stepping forward in the dusty throne room of @PalacKrolewski, his hand resting on his silver pendant. His elven features are sharp, angular, and filled with cold resolve. Behind him, @Versir stands with a confident yet stern expression, cyan eyes shining in the dim light. Beside them, @Orion stands vigilant with glowing orange eyes peering from beneath his Corinthian helmet, holding his lightning-sparking spear. Shafts of golden light highlight the intricate silver filigree on @Arevon's leather armor. Mythological realism in the style of God of War. Gritty, high-contrast lighting with floating ash particles in the air.
 Ingredients to Assign in Flow:
-- @Arevon (Reference image of the adventurer, see [[Arevon Elorrenthi|Arevon Elorrenthi.md]]: young adult male elf...)
-- @Versir (Reference image of the half-titan paladin, see [[Versir|Versir.md]]: adult male...)
-- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+- @Arevon (Reference image of the adventurer: young adult male elf...)
+- @Versir (Reference image of the half-titan paladin: adult male...)
+- @Orion (Reference image of the half-elf fighter: male fantasy warrior...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
 Audio/Dialogue:
-- @Voice: Arevon — "Akastusie, nie zrzucaj winy za własną nieudolność na nas! My spowodowaliśmy koniec Przymierza? Tego Przymierza, które zostało podpisane, zanim większość z nas w ogóle się narodziła?"
+- @Voice: Arevon — "Akastusie, nie zrzucaj winy za własną nieudolność na nas! My spowodowaliśmy koniec Pokoju? Tego Przysięgi, która została spisana, zanim większość z nas w ogóle się narodziła?"
 
 Scene 4: Ostateczny Wybór
 Visual Prompt: A close-up of @Versir speaking, his pale face defined by a strong jawline and a jagged scar. His piercing cyan eyes lock onto the king off-screen. The background of @PalacKrolewski is blurred. One of his hands, clad in an ornate magical gauntlet, is slightly raised in a slow, powerful gesture. High-contrast chiaroscuro lighting casts deep shadows across his face, emphasizing his cold, determined expression. Mythological realism in the style of God of War. Gritty, sharp graphic details, warm flame reflections in his eyes.
 Ingredients to Assign in Flow:
-- @Versir (Reference image of the half-titan paladin, see [[Versir|Versir.md]]: adult male...)
-- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+- @Versir (Reference image of the half-titan paladin: adult male...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
 Audio/Dialogue:
 - @Voice: Versir — "Nie musisz oddawać nam tego berła dla naszej chwały. Oddaj je, byśmy tchnęli życie w Kolosa i ocalili miasto. Akastusie... chcesz być zapamiętany na kartach historii jako tchórz, który miał broń w ręku i bał się jej użyć?"
 
 Scene 5: Matczyny Głos
 Visual Prompt: A medium shot of @Idylla stepping gracefully out of the deep shadows in @PalacKrolewski, standing near the throne of @Acastus. Her elegant emerald-green chiton and braided hair are highlighted by a soft, warm light. Her posture is poised and majestic, her calculating brown eyes filled with a mother's stern authority as she looks down at her broken son. Mythological realism in the style of God of War. High-contrast, rich textures of cloth and ancient stone.
 Ingredients to Assign in Flow:
-- @Idylla (Reference image of the king's mother, see [[Idylla|Idylla.md]]: elegant middle-aged human woman...)
-- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
-- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+- @Idylla (Reference image of the king's mother: elegant middle-aged human woman...)
+- @Acastus (Reference image of the fallen king: middle-aged male...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
 Audio/Dialogue:
 - @Voice: Idylla — "Zawsze przykładałeś zbyt wiele uwagi do tego, co mówią przepowiednie, mój synu. Teraz skończ użalać się nad sobą i zrób chociaż raz w życiu to, co słuszne."
 
 Scene 6: Przekazanie Berła i Nowa Determinacja
-Visual Prompt: A medium shot of @Acastus rising heavily from the golden throne in @PalacKrolewski, his eyes shining with a new, desperate determination. He steps forward, extending his muscular arm, holding out the golden Rod of Rulership towards the heroes. In the background, @Felicjan, the rugged wizard, stands watching with intense blue-grey eyes, his messy brown beard catching the light. The shattered glass dome above them casts long, dramatic patterns of light and shadow. Mythological realism in the style of God of War. Gritty, hyper-detailed, with deep textures of gold, bronze, and stone.
+Visual Prompt: A medium shot of @Acastus rising heavily from the golden throne in @PalacKrolewski, his eyes shining with a new, desperate determination. He steps forward, extending his muscular arm, holding out the golden @RodOfRulership towards the heroes. In the background, @Felicjan stands watching with intense blue-grey eyes, his messy brown beard catching the light, while the towering minotaur @Orestes observes the exchange with tense anticipation. The shattered glass dome above them casts long, dramatic patterns of light and shadow. Mythological realism in the style of God of War. Gritty, hyper-detailed, with deep textures of gold, bronze, and stone.
 Ingredients to Assign in Flow:
-- @Acastus (Reference image of the fallen king, see [[Acastus|Acastus.md]]: middle-aged male...)
-- @Felicjan (Reference image of the human wizard, see [[Felicjan Janus Twardowski|Felicjan Janus Twardowski.md]]: young adult male human...)
-- @PalacKrolewski (Reference image of the grand throne room, see [[Pałac Królewski w Mytros|Pałac Królewski w Mytros.md]]: massive ancient Greek palace...)
+- @Acastus (Reference image of the fallen king: middle-aged male...)
+- @Felicjan (Reference image of the human wizard: young adult male human...)
+- @Orestes (Reference image of the minotaur barbarian: powerful male minotaur...)
+- @RodOfRulership (Reference image of the sceptre: A highly ornate, polished golden royal sceptre...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
 Audio/Dialogue:
 - @Voice: Acastus — "Macie rację... Może i przepowiedziano mi, że będę kimś o niewielkiej wartości. Ale nadszedł czas, bym odłożył dumę na bok i postawił mój lud na pierwszym miejscu. Uratujcie to miasto."
+
+Scene 7: Chaos i Zdrada Tarchona
+Visual Prompt: A dramatic action shot inside @PalacKrolewski as the shattered glass dome explodes inward, raining down stone debris and dust. Three young, ferocious dragons ridden by elite warriors of Sydon drop into the grand room, breathing streams of crackling lightning and hot fire. In the center of the chaotic chamber, @Tarchon (a regal human centurion in bronze plate armor) lunges forward with a fanatical scream, swinging his sword down at the surprised @Orestes (the powerful minotaur). The atmosphere is thick with ozone, dynamic shadows, and hyper-kinetic motion blur. Mythological realism in the style of God of War.
+Ingredients to Assign in Flow:
+- @Tarchon (Reference image of the centurion: tall athletic human male...)
+- @Orestes (Reference image of the minotaur barbarian: powerful male minotaur...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
+Audio/Dialogue:
+- @Voice: Tarchon — "Chwała Sydonowi!"
+
+Scene 8: Szał Minotaura i Unieruchomienie Smoka
+Visual Prompt: A gritty, visceral close-up of @Orestes in a primal szał berserkera (rage). His eyes glow with piercing blue energy. Using his immense minotaur strength, he physically wrestles and pins a thrashing young copper dragon to the shattered marble floor of @PalacKrolewski. In the blurry background, @Arevon in his stellar form and @Felicjan in his winged draconic transformation support the fray. Mythological realism in the style of God of War. Raw, bloody, and hyper-detailed.
+Ingredients to Assign in Flow:
+- @Orestes (Reference image of the minotaur barbarian: powerful male minotaur...)
+- @Arevon (Reference image of the adventurer: young adult male elf...)
+- @Felicjan (Reference image of the human wizard: young adult male human...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
+Audio/Dialogue:
+- None (Sound of the minotaur's savage battle roar and the dragon's agonized shriek)
+
+Scene 9: Upokorzenie Zdrajcy
+Visual Prompt: A heroic, low-angle shot of @Orion leaping high into the air with the graceful majesty of a demigod, his golden Corinthian helmet's plume flowing behind him. With absolute contempt on his face, he thrusts the blunt, thick wooden shaft of his ornate lightning-sparking spear directly through the throat of the defeated @Tarchon, pinning the traitorous commander to the cracked marble floor of @PalacKrolewski. Small lightning sparks crackle around the spear tip, illuminating the dark, dusty air. Mythological realism in the style of God of War. Striking chiaroscuro, cinematic, and epic.
+Ingredients to Assign in Flow:
+- @Orion (Reference image of the half-elf fighter: male fantasy warrior...)
+- @Tarchon (Reference image of the centurion: tall athletic human male...)
+- @PalacKrolewski (Reference image of the grand throne room: massive ancient Greek palace...)
+Audio/Dialogue:
+- None (Sound of a wet, heavy impact as the wooden spear shaft strikes home, followed by Tarchon's final, fading gasp)
