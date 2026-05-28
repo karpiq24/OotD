@@ -27,9 +27,9 @@ Gdzie indziej, w dzielnicy winnic i w pobliżu starożytnych świątyń, Magowie
 ![Szalony Król Acastus](../assets/sessions/078/078_krol_1.webp)
 [Prompt](../assets/sessions/078/078_krol_1.txt)
 
-Nie tracąc cennych sekund, herosi ruszyli do [[Pałac Królewski w Mytros|Pałacu Królewskiego]]. Przebijając się przez puste korytarze, dotarli do sali tronowej, gdzie zastali wstrząsający widok. Król [[Acastus]] siedział bezpośrednio na swoim tronie, z koroną wciśniętą głęboko na głowę, aż krew sączyła się spod jej krawędzi – jakby wepchnął ją tam siłą w przypływie szaleństwa lub rozpaczy. Choć poturbowany i zakrwawiony, wciąż kurczowo ściskał magiczne [[Rod of Rulership|Berło Władzy]].
+Nie tracąc cennych sekund, herosi ruszyli do [[Pałac Królewski w Mytros|Pałacu Królewskiego]]. Jeszcze w drodze, planując konfrontację, [[Orestes]] ironizował, że pewnie nie ma kogo okładać, bo król zapewne leży już konający pod jakimś filarem. Przebijając się przez puste korytarze, dotarli do sali tronowej, gdzie zastali wstrząsający widok. Król [[Acastus]] siedział bezpośrednio na swoim tronie, z koroną wciśniętą głęboko na głowę, aż krew sączyła się spod jej krawędzi – jakby wepchnął ją tam siłą w przypływie szaleństwa lub rozpaczy. Choć poturbowany i zakrwawiony, wciąż kurczowo ściskał magiczne [[Rod of Rulership|Berło Władzy]].
 
-Zamiast jednak prosić o ratunek czy ukorzyć się przed przybyłymi, zjadliwy władca od razu przeszedł do ataku, oskarżając bohaterów o sprowadzenie całego tego kataklizmu. Zarzucił im, że to przez ich działania zakończył się pokój między śmiertelnikami a Tytanami, ściągając na [[Mytros]] ostateczną zgubę. Bohaterowie nie zamierzali jednak wysłuchiwać jego oskarżeń. [[Versir]] i [[Arevon Elorrenthi|Arevon]] natychmiast ucięli te żale, przypominając królowi, że to jego własna nieudolność sprowadziła nieszczęście na królestwo.
+Zamiast jednak prosić o ratunek czy ukorzyć się przed przybyłymi, zjadliwy władca od razu przeszedł do ataku, oskarżając bohaterów o sprowadzenie całego tego kataklizmu. Zarzucił im, że to przez ich działania zakończył się pokój między śmiertelnikami a Tytanami, ściągając na [[Mytros]] ostateczną zgubę. Bohaterowie nie zamierzali jednak wysłuchiwać jego oskarżeń. [[Versir]], [[Orestes]] i [[Arevon Elorrenthi|Arevon]] natychmiast ucięli te żale, przypominając królowi, że to jego własna nieudolność sprowadziła nieszczęście na królestwo. Widząc opór władcy, [[Arevon Elorrenthi|Arevon]] przekonywał go, że bez berła miasto czeka zagłada, wykonując rzut na perswazję.
 
 [[Versir]], patrząc na monarchę z mieszaniną pogardy i chłodu, postawił sprawę jasno: drużyna nie potrzebuje jego berła dla własnej chwały, lecz by tchnąć życie w [[Kolos Pythora|Kolosa]] i ocalić miasto. Zapytał wprost, czy [[Acastus]] chce zostać zapamiętany w historii jako żałosny tchórz, który trzymał w dłoniach jedyne narzędzie ocalenia, ale bał się go użyć. Wtedy do rozmowy włączyła się jego matka, [[Idylla]]. Wezwała syna, by wreszcie przestał ślepo ufać przepowiedniom, przestał się nad sobą użalać i choć raz w życiu zrobił to, co słuszne.
 
@@ -74,6 +74,7 @@ Co gorsza, z oddali dochodziły echa nieopisanej rzezi. [[Sydon]] we własnej os
 * Konfrontacja z królem [[Acastus|Acastusem]], odparcie jego oskarżeń i przekonanie go do oddania [[Rod of Rulership|Berła Władzy]].
 * Odparcie krwawej zasadzki jeźdźców smoków [[Zakon Sydona]] w sali tronowej pałacu.
 * Niespodziewana zdrada [[Tarchon|Tarchona]], który w trakcie zasadzki w sali tronowej wraz ze swoim smokiem zaatakował [[Orestes|Orestesa]] z okrzykiem „Chwała Sydonowi!”.
+* Pochwycenie i unieruchomienie przez [[Orestes|Orestesa]] wrogiego smoka w trakcie szału berserkera, a następnie zadanie mu potężnych cięć toporem.
 * Zgładzenie zdradzieckiego [[Tarchon|Tarchona]] przez [[Orion Xul|Oriona Xula]], który z pogardą wbił trzonek włóczni w jego gardło.
 * Przelot na smokach przez płonące miasto do portu w celu dotarcia do monumentu boga wojny.
 * Aktywacja [[Kolos Pythora|Kolosa Pythora]] przy użyciu [[Rod of Rulership|Berła Władzy]], co podniosło morale mieszkańców i odwróciło losy bitwy na lądzie.
@@ -84,6 +85,7 @@ Co gorsza, z oddali dochodziły echa nieopisanej rzezi. [[Sydon]] we własnej os
 
 * [[Felicjan Janus Twardowski|Felicjan]]: "Punkty cudów są dla zarządu na Longresty, nie dla areczków tam na polu bitwy."
 * [[Arevon Elorrenthi|Arevon]]: "Kosztem cywilów. Some of you may die."
+* [[Orestes]]: "No tam naklepać. Wiesz, nie ma co zaklepać za bardzo pewnie. A ja zakładam, że kona gdzieś pod filarkiem."
 * [[Arevon Elorrenthi|Arevon]]: "Obstawiam, że leży pijany pod tronem."
 * [[Idylla]]: "Zawsze przykładałeś zbyt wiele uwagi do tego, co mówią przepowiednie. Sekarang skończ użalać się nad sobą i zrób chociaż raz w życiu to, co słuszne."
 * [[Versir]]: "Acastusie, chcesz być zapamiętany na kartach historii jako tchórz, który miał broń w ręku i jej nie użył?"
@@ -114,3 +116,8 @@ Co gorsza, z oddali dochodziły echa nieopisanej rzezi. [[Sydon]] we własnej os
 
 * [[Rod of Rulership|Berło Władzy]] (artefakt niezbędny do uruchomienia i kontrolowania [[Kolos Pythora|Kolosa Pythora]])
 * [[Kolos Pythora]] (gigantyczna, mechaniczna statua boga wojny, pełniąca rolę potężnej machiny bojowej)
+
+
+## Filmy
+
+![Konfrontacja z Acastusem](../assets/sessions/078/078_mad_king.webm)
