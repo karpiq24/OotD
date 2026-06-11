@@ -20,3 +20,6 @@ Cichy, posłuszny i zorientowany na realizację celów Felicjana. Posiada tę sa
 Został powołany do życia przez [[Felicjan Janus Twardowski|Felicjana]], by służyć jako dodatkowa siła bojowa i wsparcie dla Bohaterów Przepowiedni.
 
 Podczas starć w Mytros walczył ramię w ramię z drużyną. W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] odegrał kluczową rolę w zmaganiach na arenie, choć został przejściowo wyłączony z walki paraliżującym oddechem [[Icarus|Icarusa]]. W [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa]] wspierał obronę sali tronowej w Pałacu Królewskim, ciskając lodowe i kwasowe *Chromatyczne Kule*, by razić wrogich jeźdźców smoków Sydona.
+
+W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] sterował [[Kolos Pythora|Kolosem Pythora]] i rzucił na niego czar przyspieszenia (*Haste*), by precyzyjnie zaatakować [[Sydon|Sydona]] włócznią.
+

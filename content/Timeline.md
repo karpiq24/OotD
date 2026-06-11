@@ -472,3 +472,11 @@
 * **Przebudzenie Kolosa Pythora** — Przelot na sprzymierzonych smokach ([[Sybolkorax]], [[Arkyrania]], [[Tysophale]], [[Raspytrion]]) do portu i włożenie [[Rod of Rulership|Berła Władzy]] w mechanizm kontrolny głowy Kolosa. Ożywienie gigantycznej machiny jako mecha-boga odmieniło losy bitwy na lądzie i dało obrońcom nową nadzieję.
 * **Zatopienie Ultrosa i przybycie Sydona** — Pojawienie się gigantycznych węży morskich Sydona w [[Zatoka Cerulańska|Zatoce Cerulańskiej]], które zaatakowały i zatopiły [[Ultros|Ultrosa]]. Chwilę później sam tytan [[Sydon]] wkroczył na pole bitwy, zwiastując zbliżającą się ostateczną konfrontację.
 
+## Sesja 79 - Bitwa o Mytros: Gniew Pana Burz (08.06.2026)
+* **Skoordynowane uderzenie na Sydona** — Drużyna na grzbietach smoków ([[Raspytrion]], [[Sybolkorax]]) oraz sterowany przez [[Klonicjan|Klonicjana]] (klona [[Felicjan Janus Twardowski|Felicjana]]) i przyspieszony magią [[Kolos Pythora]] rozpoczynają bezpośredni szturm na [[Sydon|Sydona]] w zrujnowanym porcie [[Mytros]].
+* **Starcie z sługami tytana** — Jeden z cyklopów próbuje obrzucać herosów głazami, ale zostaje odcięty przez [[Felicjan Janus Twardowski|Felicjana]] kręgiem *Ściany Ognia*. Wieloręki [[Gyganie|Gygan]] łapie w locie za ogon smoka [[Sybolkorax|Sybolkoraxa]], unieruchamiając go w miejscu i paraliżując ruch [[Orestes|Orestesa]].
+* **Teleportacja i klątwa Versira** — [[Versir]] leczy rany swoje oraz swojego magicznego wierzchowca [[Trąba|Tromby]], po czym obaj teleportują się w błysku magii wprost przed twarz [[Sydon|Sydona]]. Versir zadaje dwa cięcia swym mieczem, nakładając na tytana klątwę odcinającą go od wszelkiego leczenia, oraz nawiązuje z nim dialog o przyczynach nienawiści do śmiertelników.
+* **Legendarna odpowiedź Sydona** — Władca Burz odpowiada pogardą i wyprowadza potężne cięcie swoją [[Glewia Sydona|glewią]], poważnie raniąc smoka [[Raspytrion|Raspytriona]] (wierzchowca [[Orion Xul|Oriona Xula]]), który jednak utrzymuje się w locie.
+* **Przerwanie starcia** — Pojedynek zostaje zawieszony w połowie pierwszej rundy z przyczyn losowych (nagłe odejście mistrza gry od stołu); starcie pozostaje nierozstrzygnięte.
+
+

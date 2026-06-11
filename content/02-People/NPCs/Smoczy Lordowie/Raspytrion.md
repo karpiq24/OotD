@@ -16,3 +16,6 @@ Cechy charakteru, motywacje, ideały.
 Zniknął bez śladu pod koniec Pierwszej Wojny. Spekuluje się, że mógł zostać zwabiony w pułapkę przez Lutherię.
 
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] wraz z [[Tysophale]] zanurkował na zmutowanego [[Icarus|Icarusa]] w [[Stadion Mytros|kolosseum]], zatapiając w jego skażonym ciele kły i pazury. Po walce został wyczerpany — [[Arevon Elorrenthi|Arevon]] uleczył go magią po pokonaniu bestii.
+
+W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] służył jako wierzchowiec [[Orion Xul|Oriona Xula]]. Został dotkliwie ranny uderzeniem glewii [[Sydon|Sydona]], lecz utrzymał się w powietrzu.
+

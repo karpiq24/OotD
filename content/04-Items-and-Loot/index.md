@@ -38,3 +38,4 @@ title: Przedmioty i Łupy
 - [[Arrow of Dragon Slaying]]
 - [[Rod of Rulership]]
 - [[Złota Moneta Hergerona]]
+- [[Glewia Sydona]]
