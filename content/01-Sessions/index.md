@@ -81,3 +81,4 @@ title: Sesje
 - [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa|Sesja 77: Bitwa o Mytros: Upadek Icarusa]]
 - [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa|Sesja 78: Bitwa o Mytros: Przebudzenie Kolosa]]
 - [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz|Sesja 79: Bitwa o Mytros: Gniew Pana Burz]]
+- [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|Sesja 80: Bitwa o Mytros: Śmierć Pana Burz]]

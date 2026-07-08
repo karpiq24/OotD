@@ -1,0 +1,315 @@
+[PRZED NAGRANIEM] Orion Xul (rzut): Arcana (+0) 15 1d20 + 0 1d20 15 | rzuty: = 15, 1d20 + 0, 1d20
+[PRZED NAGRANIEM] Felicjan Janus Twardowski (rzut): Dagger, +1 You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 28 1d20 + 8 1d20 20 Roll Damages | rzuty: = 28, 1d20 + 8, 1d20
+[PRZED NAGRANIEM] Felicjan Janus Twardowski (rzut): Dagger, +1 You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. Piercing Damage: 7 1d4 + 3 4 4 Piercing Critical Damage: 4 1d4 4 4 | rzuty: = 7, 1d4 + 3, 1d4
+[00:04:44] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+[00:07:07] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 30 6d8 1 6 4 8 3 8 30 | rzuty: = 30, 6d8
+[00:08:13] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+[00:11:02] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[00:15:32] Orestes: \r15d10
+[00:15:40] Orestes: 71
+[00:17:46] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14
+[00:18:20] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[00:21:16] Raspytrion: 75
+[00:23:19] Klonicjan Janus Twardowski (rzut): Wall of Fire Legacy • 4th Level Evocation (Cast at 4th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(a small piece of phosphorus) Range 120ft. Concentration Requires Concent… | rzuty: = 11, 5d8, 5d8
+[00:23:55] Cyclops: Greatclub Simple Melee Attack Damage Action Instantaneous reach 10 ft Equipped Proficient
+[00:23:58] Cyclops: Greatclub Simple Melee Attack Damage Action Instantaneous reach 10 ft Equipped Proficient
+[00:24:46] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[00:26:30] Sydon: Applied conditions: &Reference[dehydration]
+[00:27:44] Primordial Surge: 15.22
+[00:28:36] Sydon, The Lord of Storms: 6
+[00:30:20] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 27, 1d20 + 14
+[00:30:28] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 28 7d6 2 6 5 6 2 1 6 28 | rzuty: = 28, 7d6
+[00:30:48] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 23, 1d20 + 14
+[00:30:54] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 30 7d6 6 1 5 5 3 6 4 30 | rzuty: = 30, 7d6
+[00:34:31] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[00:37:35] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 33, 1d20 + 14
+[00:37:41] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 21 7d6 2 6 2 5 3 1 2 21 | rzuty: = 21, 7d6
+[00:39:46] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 15, 1d20 + 12, 1d20
+[00:42:03] Versir: 15
+[00:44:05] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[00:44:25] Versir: DC 13 Concentration Concentration
+[00:44:29] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[00:46:09] Arevon Elorrenthi: villain monologue!
+[00:46:34] Trąba: 23
+[00:46:36] Trąba: 29
+[00:46:37] Trąba: 14
+[00:46:38] Trąba: 23
+[00:46:38] Trąba: 20
+[00:46:39] Trąba: 22
+[00:46:58] Trąba: 2
+[00:47:02] Trąba: 4
+[00:47:26] Trąba: 80
+[00:48:04] Trąba: 25
+[00:48:05] Trąba: 14
+[00:48:48] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d20 + 11, 1d8 + 6, 3d6, 1d8, 3d6 = Damage: 26 14 + 12, = Critical Damage: 14 6 + 8, = Combined: 40 14 + 12 + 6 + 8
+[00:49:10] Trąba: 12
+[00:49:28] Nephele: Applied conditions: &Reference[restrained]
+[00:50:15] Sydon, Lord of All (rzut): Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 17, 4d8
+[00:50:25] Versir (rzut): Dexterity Save (+5) 19 1d20 + 5 14 14 | rzuty: = 19, 1d20 + 5
+[00:50:32] Trąba: 3
+[00:50:50] Versir: DC 10 Concentration Concentration
+[00:52:26] Versir (rzut): Constitution Save (+14) 29 1d20 + 14 15 15 | rzuty: = 29, 1d20 + 14
+[00:52:49] Sydon, Lord of All (rzut): Cloudburst Trap (Costs 3 Actions) (6d8) 27 6d8 5 8 6 3 1 4 27 | rzuty: = 27, 6d8
+[00:53:20] Versir: DC 10 Concentration Concentration
+[00:53:35] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[00:54:58] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+[00:57:28] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages
+[00:57:35] Arevon Elorrenthi (rzut): Moon Sickle, +2 (d4) 3 1d4 3 3 | rzuty: = 3, 1d4
+[00:57:49] Arevon Elorrenthi: Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…
+[00:57:50] Arevon Elorrenthi (rzut): Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 13, 2d8
+[00:57:53] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 37, 8d8 + 6
+[00:58:14] Trąba: Life Bond Feature When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you're within 5 feet of it.
+[00:58:18] Sydon, Lord of All (rzut): Dexterity Save (+14) 24 1d20 + 14 10 10 | rzuty: = 24, 1d20 + 14
+[00:58:23] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 16 6d8 3 2 1 7 2 1 16 | rzuty: = 16, 6d8
+[01:00:03] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 32 25 + 7
+[01:00:57] Orestes: 1
+[01:01:47] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 17 12 + 5
+[01:02:57] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 20 16 + 4, = Critical Damage: 33 12 + 4 + 17, = Conditional: 2 2, = Combined: 53 16 + 4 + 12 + 4 + 17
+[01:04:21] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 15 9 + 6, = Critical Damage: 21 3 + 12 + 6, = Conditional: 2 2, = Combined: 36 9 + 6 + 3 + 12 + 6
+[01:06:09] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[01:07:56] Versir (rzut): Dexterity Save (+5) 17 1d20 + 5 12 12 | rzuty: = 17, 1d20 + 5
+[01:08:01] Trąba: 1
+[01:08:07] Arevon Elorrenthi: 26
+[01:09:09] Vehicle: 26
+[01:09:14] Vehicle: 24
+[01:09:37] Versir: DC 12 Concentration Concentration
+[01:10:36] Trąba: 29
+[01:10:39] Arevon Elorrenthi: DC 10 Concentration Concentration
+[01:10:43] Arevon Elorrenthi: DC 12 Concentration Concentration
+[01:10:45] Versir: DC 14 Concentration Concentration
+[01:10:48] Versir (rzut): Constitution Save (+14) 28 1d20 + 14 14 14 | rzuty: = 28, 1d20 + 14
+[01:11:52] Orion Xul: 3
+[01:12:19] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20
+[01:12:22] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 14 + 4
+[01:12:44] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20
+[01:12:50] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 23 13 + 10
+[01:12:57] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+[01:13:02] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 16 + 3
+[01:13:17] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 32, 1d20 + 12, 1d20
+[01:13:20] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9, 1d4
+[01:13:25] Orion Xul: 12
+[01:16:11] Sydon: Applied conditions: &Reference[dehydration]
+[01:17:12] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 34 23 + 11
+[01:17:51] Orestes: 27
+[01:18:15] Sydon, Lord of All: Jetstream Buffeting Jetstream Buffeting. Strength Saving Throw: DC 23, all other creatures flying within 60 feet of Sydon. Failure: A creature's flying speed is reduced to 0 until the start of its next turn, causing creatures without the ability to hover to fall. Save: Strength DC 23
+[01:18:54] Orestes: 29
+[01:19:11] Orestes (rzut): Strength (+6) 10 1d20 + 6 1d20 4 25 1d20 + 6 1d20 19 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20
+[01:19:29] Sydon, The Lord of Storms: 19
+[01:19:43] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 25 13 + 12
+[01:20:06] Orestes: 22
+[01:21:23] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[01:22:32] Leviathan: 20.24
+[01:24:09] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20 = 27, 6d8, 6d8
+[01:24:36] Versir: Find Steed 2nd Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range 30ft. You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the Otherworldly Steed stat block. If you already have a steed from this spell, the steed is replaced by the new one. The steed resembles a…
+[01:26:36] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 29 21 + 8
+[01:53:16] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+[01:58:07] Leviathan: Tidal Wave Feature The leviathan magically creates a wave of water that extends from a point it can see within 120 feet of itself. The wave is up to 250 feet long, up to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a DC 24 Strength saving throw. On a failed save, a creature takes 45 ( 7d12 bludgeoning ) damage and is knocked Prone . On a successful save, a creature t…
+[01:58:38] Orion Xul (rzut): Strength Save (+11) 15 1d20 + 11 1d20 4 | rzuty: = 15, 1d20 + 11, 1d20
+[01:59:17] Orion Xul: Indomitable action Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+[01:59:18] Orestes: 28
+[01:59:27] Orestes (rzut): Strength (+6) 23 1d20 + 6 1d20 17 13 1d20 + 6 1d20 7 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20
+[01:59:34] Orion Xul (rzut): Strength Save (+11) 30 1d20 + 11 1d20 19 | rzuty: = 30, 1d20 + 11, 1d20
+[02:00:26] Orion Xul: 11
+[02:02:32] Felicjan Janus Twardowski (rzut): Dexterity Save (+2) 13 1d20 + 2 1d20 11 | rzuty: = 13, 1d20 + 2, 1d20
+[02:02:40] Felicjan Janus Twardowski: 2
+[02:02:50] karpiq: 12
+[02:03:11] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 22 1d20 + 8 1d20 14 | rzuty: = 22, 1d20 + 8, 1d20
+[02:03:54] Felicjan Janus Twardowski: DC 20 Concentration Concentration
+[02:05:20] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 27 6d8 6 2 5 7 1 6 27 | rzuty: = 27, 6d8
+[02:06:19] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+[02:07:42] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 22, 1d20 + 14
+[02:08:05] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 40 26 + 14
+[02:08:43] Sybolkorax: 28
+[02:09:13] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 19 16 + 3
+[02:09:57] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 25 14 + 11
+[02:10:59] Sydon, Lord of All (rzut): Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 18, 4d8
+[02:11:14] Orestes (rzut): Dexterity (+2) 11 1d20 + 2 1d20 9 12 1d20 + 2 1d20 10 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+[02:12:48] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+[02:13:05] Arevon Elorrenthi: Shield 1st Level Abjuration Casting Time 1 reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell Duration 1 round Components V, S Range Self An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 1d20+5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
+[02:13:12] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+[02:13:35] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+[02:14:38] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 16, 1d20 + 14
+[02:14:50] Orion Xul: 4
+[02:15:11] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 24, 1d20 + 12, 1d20
+[02:15:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 14 + 5
+[02:15:37] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20
+[02:15:41] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 17 + 5
+[02:15:55] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 15, 1d20 + 12, 1d20
+[02:16:03] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 13 + 8
+[02:16:22] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 22, 1d20 + 12, 1d20
+[02:16:24] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 13, 1d4 + 9
+[02:18:07] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 27, 1d20 + 14
+[02:18:17] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 23 7d6 2 4 3 6 1 4 3 23 | rzuty: = 23, 7d6
+[02:20:26] Versir: 26
+[02:22:01] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14
+[02:22:10] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 20 7d6 4 2 3 4 3 3 1 20 | rzuty: = 20, 7d6
+[02:22:38] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14
+[02:24:00] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[02:27:24] Versir (rzut): Dexterity Save (+5) 23 1d20 + 5 18 18 | rzuty: = 23, 1d20 + 5
+[02:27:30] Versir: 2
+[02:27:44] Sydon, Lord of All (rzut): Lightning Storm (Costs 2 Actions) (3d10) 23 3d10 10 9 4 23 | rzuty: = 23, 3d10
+[02:28:05] Versir: DC 10 Concentration Concentration
+[02:32:58] Versir: Applied conditions: &Reference[transformed]
+[02:33:40] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 28, 1d20 + 14
+[02:33:44] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 19 7d6 3 1 3 5 2 3 2 19 | rzuty: = 19, 7d6
+[02:35:05] Versir: 24
+[02:35:06] Versir: 18
+[02:35:07] Versir: 27
+[02:35:08] Versir: 16
+[02:35:08] Versir: 14
+[02:35:09] Versir: 27
+[02:35:23] Versir: 4
+[02:35:40] Versir: 72
+[02:36:04] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 18, 1d20 + 11
+[02:36:07] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 15, 1d20 + 11
+[02:36:19] Versir: 1
+[02:36:28] Versir: 2
+[02:37:59] Trąba: Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.
+[02:39:00] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+[02:41:50] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 34 23 + 11
+[02:43:37] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 23 6d8 5 1 7 5 4 1 23 | rzuty: = 23, 6d8
+[02:46:00] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+[02:47:29] Orestes: 1
+[02:48:28] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 20 10 + 10
+[02:48:58] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 30 20 + 10
+[02:50:26] Primordial Surge: 3
+[02:50:39] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+[02:50:41] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+[02:50:45] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+[02:51:18] Arevon Elorrenthi: Absorb Elements 1st Level Abjuration Casting Time 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage Duration 1 round Components S Range Self The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first …
+[02:51:43] Versir: DC 10 Concentration Concentration
+[02:52:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 15, 1d20 + 12, 1d20
+[02:52:27] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20
+[02:52:34] Raspytrion: 4
+[02:52:38] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 20 14 + 6
+[02:52:49] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 13, 1d20 + 12, 1d20
+[02:52:58] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 20, 1d20 + 12, 1d20
+[02:53:07] Raspytrion: 4
+[02:53:12] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 11, 1d4 + 9
+[02:54:33] Raspytrion: 6
+[02:55:15] Arevon Elorrenthi: 12
+[02:55:21] Arevon Elorrenthi: 24
+[02:55:25] Arevon Elorrenthi: 11
+[02:55:42] Arevon Elorrenthi: 27
+[02:57:40] Versir (rzut): Strength Save (+9) 10 1d20 + 9 1 1 | rzuty: = 10, 1d20 + 9
+[02:57:58] Felicjan Janus Twardowski (rzut): Strength Save (-1) 0 1d20 - 1 1d20 1 8 1d20 - 1 1d20 9 | rzuty: 1d20 - 1, 1d20, 1d20 - 1, 1d20
+[02:58:19] Sydon, Lord of All (rzut): Talon of the Storm (Cooldown 5-6) (10d8) 60 10d8 2 7 6 8 7 6 3 7 6 8 60 | rzuty: = 60, 10d8
+[02:58:48] Versir: DC 30 Concentration Concentration
+[02:58:53] Versir (rzut): Constitution Save (+14) 33 1d20 + 14 19 19 | rzuty: = 33, 1d20 + 14
+[02:59:02] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 15 1d20 + 8 1d20 7 | rzuty: = 15, 1d20 + 8, 1d20
+[03:02:10] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 30 22 + 8
+[03:03:06] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[03:05:12] Sydon, Lord of All (rzut): Lightning Storm (Costs 2 Actions) (3d10) 18 3d10 3 6 9 18 | rzuty: = 18, 3d10
+[03:05:22] Hoooooooobert: 3
+[03:05:28] Trąba: 1
+[03:07:19] Felicjan Janus Twardowski (rzut): Disintegrate Legacy • 6th Level Transmutation (Cast at 6th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a lodestone and a pinch of dust) Range 60ft. A thin green ray springs… | rzuty: = 74, 10d6 + 40, 10d6
+[03:09:05] Primordial Surge: Life From Death Feature When the surge dies, it explodes in a burst of raw creation. The area in a 50-foot radius centered on the primordial surge is blanketed in lush flora native to the region, providing enough food to feed a dozen Large or smaller creatures for 6 ( 1d12 ) days. Creatures in the area that have been dead no longer than 1 day are returned to life with 4 ( 1d8 ) hp.
+[03:10:32] Versir: Applied conditions: &Reference[transformed]
+[03:11:17] Versir: 11
+[03:11:59] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 21, 1d20 + 11
+[03:12:01] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 30, 1d20 + 11
+[03:12:12] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 13 7 + 6
+[03:12:20] Versir: 8
+[03:12:24] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 22 13 + 9
+[03:12:30] Versir: 11
+[03:12:41] Versir: 6
+[03:14:04] Leviathan (rzut): Slam Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 21 ( 2d12 + 8 bludgeoning ) damage plus 13 ( 2d12 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Profici…
+[03:14:50] Versir: DC 10 Concentration Concentration
+[03:14:55] Versir: DC 10 Concentration Concentration
+[03:15:15] karpiq: 1
+[03:15:22] Leviathan (rzut): Tail Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19 ( 2d10 + 8 bludgeoning ) damage plus 10 ( 3d6 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Proficie…
+[03:15:41] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 27 17 + 10
+[03:15:54] Versir: DC 10 Concentration Concentration
+[03:17:23] Arevon Elorrenthi: Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…
+[03:17:31] Arevon Elorrenthi (rzut): Moon Sickle, +2 (d4) 1 1d4 1 1 | rzuty: = 1, 1d4
+[03:17:40] Arevon Elorrenthi: Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…
+[03:17:42] Arevon Elorrenthi (rzut): Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 7, 2d8
+[03:17:50] Arevon Elorrenthi (rzut): Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 28, 8d4 + 6
+[03:18:31] Arevon Elorrenthi (rzut): Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 23, 1d20 + 13
+[03:18:36] Arevon Elorrenthi (rzut): Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 12, 3d8
+[03:18:57] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 17, 1d20 + 14
+[03:20:11] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 15 12 + 3
+[03:21:09] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 19 11 + 8
+[03:22:02] Sybolkorax: 6
+[03:24:02] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 13, 1d20 + 12, 1d20
+[03:24:07] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 22, 1d20 + 12, 1d20
+[03:24:11] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 13 10 + 3
+[03:24:22] Raspytrion: 4
+[03:24:33] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20
+[03:24:45] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 30, 1d20 + 12, 1d20
+[03:24:47] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9
+[03:26:34] Sydon, The Lord of Storms: 5
+[03:27:39] Versir (rzut): Strength Save (+9) 24 1d20 + 9 15 15 | rzuty: = 24, 1d20 + 9
+[03:27:51] Orestes (rzut): Strength (+6) 18 1d20 + 6 1d20 12 14 1d20 + 6 1d20 8 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20
+[03:27:59] Sybolkorax: 16
+[03:28:19] Arevon Elorrenthi (rzut): Eye of the Galactic Dragon (d8) 6 1d8 6 6 | rzuty: = 6, 1d8
+[03:28:28] Sydon, Lord of All (rzut): Talon of the Storm (Cooldown 5-6) (10d8) 45 10d8 1 4 6 7 3 6 1 4 6 7 45 | rzuty: = 45, 10d8
+[03:30:57] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14
+[03:31:05] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 22 7d6 4 4 1 3 1 5 4 22 | rzuty: = 22, 7d6
+[03:32:16] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[03:33:17] Versir: Applied conditions: &Reference[transformed]
+[03:33:30] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14
+[03:33:36] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 27 7d6 6 6 3 6 1 4 1 27 | rzuty: = 27, 7d6
+[03:35:29] Tysophale: Lightning Breath Feature Dexterity Saving Throw: DC 15 , each creature in a 60-foot-long, 5-foot-wide Line . Failure: 49 ( 9d10 Lightning ) damage. Success: Half damage. DC 15 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft line
+[03:35:59] Felicjan Janus Twardowski: 3
+[03:36:16] Versir: Applied conditions: &Reference[transformed]
+[03:36:33] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14
+[03:36:40] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 27 7d6 1 3 5 3 6 5 4 27 | rzuty: = 27, 7d6
+[03:36:55] Orestes (rzut): Constitution Save (+8) 9 1d20 + 8 1d20 1 | rzuty: = 9, 1d20 + 8, 1d20
+[03:38:14] Versir: 42
+[03:38:19] Versir: 59
+[03:38:53] Versir: 1
+[03:39:04] Versir: 27
+[03:41:07] Leviathan (rzut): Slam Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 21 ( 2d12 + 8 bludgeoning ) damage plus 13 ( 2d12 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Profici…
+[03:41:32] Leviathan (rzut): Tail Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19 ( 2d10 + 8 bludgeoning ) damage plus 10 ( 3d6 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Proficie…
+[03:41:54] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 15, 1d20 + 14
+[03:43:00] Arevon Elorrenthi: Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …
+[03:43:12] Arevon Elorrenthi (rzut): Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 40, 5d8 + 6
+[03:43:39] Arevon Elorrenthi (rzut): Moon Sickle, +2 (d4) 3 1d4 3 3 | rzuty: = 3, 1d4
+[03:44:06] Arevon Elorrenthi: Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…
+[03:44:11] Arevon Elorrenthi (rzut): Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 5, 2d8
+[03:44:38] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 33 6d8 5 8 7 3 7 3 33 | rzuty: = 33, 6d8
+[03:47:09] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 17, 1d20 + 14
+[03:48:08] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 22 13 + 9
+[03:49:03] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 15 10 + 5, = Critical Damage: 36 9 + 5 + 22, = Conditional: 6 6, = Combined: 51 10 + 5 + 9 + 5 + 22
+[03:49:34] Orestes: 6
+[03:51:28] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 31, 1d20 + 14
+[03:51:34] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 20 7d6 3 3 5 3 2 1 3 20 | rzuty: = 20, 7d6
+[03:53:22] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+[03:53:25] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 24, 1d20 + 12, 1d20
+[03:53:29] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 23 14 + 9
+[03:53:33] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 20 14 + 6
+[03:53:42] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+[03:53:46] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 16 10 + 6
+[03:53:51] Raspytrion: 1
+[03:54:01] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 18, 1d20 + 12, 1d20
+[03:54:09] Raspytrion: 3
+[03:54:28] Sydon, Lord of All (rzut): Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 23, 4d8
+[03:54:41] Orion Xul (rzut): Dexterity Save (+1) 18 1d20 + 1 1d20 17 2 1d20 + 1 1d20 1 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+[03:55:31] Sydon, The Lord of Storms: 1
+[03:56:22] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 32 21 + 11
+[03:56:22] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 30 18 + 12
+[03:56:52] Sybolkorax: 17
+[03:57:06] Sybolkorax: 14
+[04:01:13] Versir: Applied conditions: &Reference[transformed]
+[04:01:21] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 24 14 + 10
+[04:02:08] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 27, 1d20 + 11
+[04:02:09] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 13, 1d20 + 11
+[04:02:18] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 17 9 + 8
+[04:03:44] Versir: Vortex Warp 2nd Level Conjuration Casting Time 1 action Duration Instantaneous Components V, S Range 90ft. You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a s…
+[04:04:43] Versir (rzut): Dexterity Save (+5) 23 1d20 + 5 18 18 | rzuty: = 23, 1d20 + 5
+[04:04:49] Versir: 4
+[04:04:51] Orestes (rzut): Dexterity Save (+2) 15 1d20 + 2 1d20 13 8 1d20 + 2 1d20 6 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+[04:04:57] Sydon, Lord of All (rzut): Lightning Storm (Costs 2 Actions) (3d10) 23 3d10 10 4 9 23 | rzuty: = 23, 3d10
+[04:05:27] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 34 6d8 3 8 8 2 7 6 34 | rzuty: = 34, 6d8
+[04:05:41] Sydon, Lord of All (rzut): Dexterity Save (+14) 28 1d20 + 14 14 14 | rzuty: = 28, 1d20 + 14
+[04:06:14] Arevon Elorrenthi (rzut): Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 28, 1d20 + 13
+[04:06:19] Arevon Elorrenthi (rzut): Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 11, 4d6
+[04:07:15] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 5 5, = Damage: 26 19 + 7
+[04:07:25] Orestes: 4
+[04:08:20] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 17 11 + 6, = Critical Damage: 22 2 + 6 + 14, = Conditional: 2 2, = Combined: 39 11 + 6 + 2 + 6 + 14
+[04:08:45] Orestes: 1
+[04:09:53] Arevon Elorrenthi: by the way, miałbyś jeszcze jeden atak
+[04:10:14] Orestes: Dokładnie, ale już nie ma na kogo
+[04:12:11] Orestes: Axe of Xander Weapon (Greataxe), Legendary (requires attunement) This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathically by transmitting emotion to the creature carrying or using it. The axe’s primary purpose is to destroy giants and titans. When you attack one of tho…
+[04:12:22] Orestes: 13

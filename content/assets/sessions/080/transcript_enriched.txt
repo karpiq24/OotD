@@ -1,0 +1,3355 @@
+
+
+[CZAT PRZED NAGRANIEM] Orion Xul (rzut): Arcana (+0) 15 1d20 + 0 1d20 15 | rzuty: = 15, 1d20 + 0, 1d20
+
+
+[CZAT PRZED NAGRANIEM] Felicjan Janus Twardowski (rzut): Dagger, +1 You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 28 1d20 + 8 1d20 20 Roll Damages | rzuty: = 28, 1d20 + 8, 1d20
+
+
+[CZAT PRZED NAGRANIEM] Felicjan Janus Twardowski (rzut): Dagger, +1 You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. Piercing Damage: 7 1d4 + 3 4 4 Piercing Critical Damage: 4 1d4 4 4 | rzuty: = 7, 1d4 + 3, 1d4
+
+
+[VISUAL 00:00:00] Na zrzucie ekranu z sesji prowadzonej na platformie VTT widoczna jest mapa przedstawiająca Kolos Pythora w trakcie trwania walki. W centrum uwagi znajdują się otwarte karty postaci Sydon oraz Lutheria, a na liście inicjatywy w Encounter Trackerze widoczni są m.in. Nephele, Arevon Elorrenthi, Orestes, Orion Xul, Klonicjan oraz Felicjan Janus Twardowski. Na ekranie widoczne są również liczne tokeny przeciwników, w tym rekiny oraz jednostki z frakcji Smoczych Lordów.
+
+
+[VISUAL 00:00:00] Mapa przedstawia miasto Mytros podczas sesji "The Battle of Mytros". Na ekranie widoczny jest handout z tekstem: "Bogini Świtu przybrała imię od miasta, które ukochała. Zginęła chroniąc Mytros podczas Pierwszej Wojny i wstąpiła do niebios." – Aesop ze Smoczej Świątyni. Wtrackerze walki widoczne są postacie takie jak Nephele, Arevon Elorrenthi, Orestes, Orion Xul, Klonicjan oraz Felicjan Janus Twardowski, a także przeciwnicy w postaci gigantycznych rekinów.
+
+
+[Dungeon Master]
+Co się stało? Coś mi tu AI napisało, ale... Stare form... Tak, Nefele przyleciała, Sidon robi rozpierduchę, ze statku Tranquility tam Gigan szlapie runami z armaty. W wodzie pływają rakiny. Minotaury już nie latają. I cyklop i inne rzeczy, ale cyklop miata kamieniami. 
+
+[Orestes]
+A przepomnisz jak działały akcje z tymi smokami jak się na nich lata? Okej. Smoku jesteś piękny. 
+
+[Dungeon Master]
+Dobra, a to zacznijmy od Nefele, która jest zdenerwowana. Smoki? To chyba centaury właśnie. 
+
+[Versir]
+Coś, co robi difficult terrain na statku. To jest ten sam efekt, w którym ja dostałem, to dc bylo 16, i to bylo escape. 
+
+[Dungeon Master]
+A nie, nie robił Difficult Terrain. To ten, Fortecza? Tak, dwójka robi Difficult Terrain. Czyli Fortecza Smoczchlordów za całą akumulce. To jest jakby zaznaczony obszar. Dobra. 
+
+[Versir]
+Witowałaś się nade mnu? 
+
+[Arevon]
+No, no dobrze, ale może zionęć tego, na pewno. 
+
+[Dungeon Master]
+Co jej bardzo niedużo wtedy zostaje, co może zrobić? No, nie może zionąć. Recharge nie jest zaznaczone, że zużyte? 
+
+[Arevon]
+Chyba, że zrobiłeś zionięcie. Nie pamiętam. Uuu, nice. 
+
+[Dungeon Master]
+Nie jest zaznaczone, że zużyte, to chyba nie zionęła. Cior! Zioni smoku. O, teoretycznie zionię w Seidona. 
+
+[CZAT 00:04:44] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+
+
+[Dungeon Master]
+Nad głową wersji Rada Rada raczej. Na pewno Rada. Seidon jest duży. Ta... okej. 
+
+[Versir]
+Kuria smoka. 
+
+[Arevon]
+Nice. Plus 50. 
+
+[Dungeon Master]
+Eee... Seidon... 
+
+[Arevon]
+Okej. O-okej. O-okej. 
+
+[Versir]
+Wzgardzony smok. 
+
+[Arevon]
+Fele, skurwiona. 
+
+[Versir]
+Wzgardzony Smok. Komu doszlo? 
+
+[Orestes]
+Dzień dobry. 
+
+[Arevon]
+Mówiłeś ostatnio, że masz złe stylbloki na Foundry. Wyszło mu. Siedemnaście. Siedemnaście dostał. 
+
+[VISUAL 00:06:02] Scena przedstawia starcie na pokładzie okrętu Ultros, płynącego po wzburzonych wodach. W walce biorą udział Sydon, Nephele, Arevon Elorrenthi, Orestes, Orion Xul, Versir oraz Felicjan Janus Twardowski, wspierani przez liczne rekiny. Na ekranie widoczne są otwarte karty statystyk Nephele oraz Sydona, a panel "Encounter Tracker" wskazuje trzecią rundę starcia oraz wykonany przez Nephele atak "Cold Breath" wymierzony w Sydona.
+
+
+[Arevon]
+Rando. Łuki tu ja. To ja mam swoją akcję zaplanowaną. Na szczęście. Stary ja zaplanował tą akcję. Więc ja podlatuję smokiem tutaj i ja zlatuję na poziom zero. I ja ziunę tak jak jest ustawione. To jest force damage. 
+
+[CZAT 00:07:07] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 30 6d8 1 6 4 8 3 8 30 | rzuty: = 30, 6d8
+
+
+[Versir]
+A, zsmoką. 
+
+[CZAT 00:08:13] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+
+
+[Versir]
+Smoka akce. Jak po polskim? 20? Oboje 2 litry. Oboje 20? 
+
+[Arevon]
+Wpisał tam zero charge, a ja na pewno tego nie użyłem. Nie mam uses. Nie wiem. Uses, recharge. Okej, dobra, widzę. Dobra, dobra. Okej, dobra, dobra. No to... Zrzuciłem połowę movementa, zrobiłem dwa żenięcia, akcja, bonus, akcja. Rekin na mnie patrzy. Ej, nie chcę, żeby rekin wygryźł. 
+
+[CZAT 00:11:02] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Versir]
+Tak, tak. 
+
+[Felicjan]
+Pusz. Też się tylko zastanawiam, czy na pewno rzucałem lecie poziomowym speleciatem. Wydaje mi się, że czwarty. No to mam czwarty, do rzucenia czwarty. 
+
+[Orestes]
+Ja sobie... Ja sobie z Sybolkoraksem podlecę tutaj bliżej. Ja nie wiem, ja mogę tym sterować? O, mogę. Super. Sobie podlecimy. I wedwójkę... Tak, tak, w wulkanie czas na napierdelanie. Tamten duży i lecimy. Ja z siebie zeskakuję. Gdzie? A tutaj? Dobra, to z tej strony podlecimy. Dobra. Dobra, to ja bym chciał z niego zejść i każdy z nas ma swoją akcję, czyli dalej to już lecimy, że dalej lecimy, że teraz jedna. No dobra, to dobra. Nie, nie, no przeleciałem obok. No to w wall of fire jest tu, tak? Aaa, dobra, w ten sposób, to razem z niej walimy z góry, no to walimy brefa i tyle, tak, bref weapon, tak, to będzie to, a no tak, dobra, teraz, no jakbyś był w stanie, bo ja tutaj trochę, 15 do 10, dobra, okej, to spróbujmy wycelować, 
+
+[CZAT 00:15:32] Orestes: \r15d10
+
+
+[CZAT 00:15:40] Orestes: 71
+
+
+[VISUAL 00:16:11] Na mapie przedstawiającej wzburzone morze i wybrzeże z widocznym w tle obliczem Sydona, statek Ultros prowadzi walkę z przeciwnikami. W starciu biorą udział m.in. Orestes, Orion Xul, Felicjan Janus Twardowski, Versir oraz Klonicjan, którzy mierzą się z grupą rekinów. Po prawej stronie panel śledzenia spotkania wskazuje aktywną turę oraz trwającą walkę z udziałem Sydonem.
+
+
+[Arevon]
+To, że Measured Templates są pod statekiem jest średnie. Statek jest tilem chyba, nie? What? A nie tilem. Myślałem, że on jest tilem. One powinny być nad tilemi. Chyba musisz ją złożyć na przedłużenie, a w reali, że... 
+
+[Orestes]
+To jak mamy wspólne, no to muszę. O nie! 
+
+[CZAT 00:17:46] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14
+
+
+[Orestes]
+Hm, hm, hm, hm. 
+
+[CZAT 00:18:20] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Orestes]
+Zobaczcie. 
+
+[Dungeon Master]
+O nie, ale sobie stoją dobre. Orion, to nie jest dla Ciebie dobry przeciwnik. 
+
+[Orion]
+Ivern ma Resist'a, czy Indium na Lightning? Ja pierdolę. Natomiast mogę... 
+
+[Dungeon Master]
+No ale ciężko, żeby Bóg Piorunów nie miał odporności na pioruny. 
+
+[Orion]
+Mogę albo robić swoje ataki, 
+
+[Dungeon Master]
+Mogłoby być gorzej, mogłoby go leczyć. Tak, tak, tak. 
+
+[Orion]
+albo użyć to, co Smoc może robić, tak? Dobrze rozumiem. Albo ja, albo... to może ten... Repulsion Bros? No, po chuj mi to, że by się co... Pozostaje mi po prostu go atakować, tak? 
+
+[Arevon]
+Nie mam pojęcia, ale trzeba coś... 
+
+[Orion]
+Chyba, że te rekiny. Jakbym zrobił na trzy rekiny tego lightning brush i muszę się obniżyć, tak? 
+
+[Arevon]
+O, to chyba musisz się tak ustawić, żeby wersji red nie wyjąć. No tak, na zero musisz wchodzić. 
+
+[Dungeon Master]
+I się da. Dorosły Lightning Breath jest 90 fitów. 
+
+[Orion]
+Dobra. 10d10. Spoko. Bardzo spoko. 
+
+[Arevon]
+Easy. Easy. 
+
+[Dungeon Master]
+Okej. Nice. Całkiem niezły. 
+
+[Arevon]
+To jest... 
+
+[CZAT 00:21:16] Raspytrion: 75
+
+
+[Arevon]
+To jest... Ja pierdolę, ja rzuciłem 40. Dc19. 
+
+[Dungeon Master]
+What the fuck? Yyyyyy, to są decksaver. 
+
+[Arevon]
+Wygląda jak fail. Masz jakiś bonus action na oryna, który mógłbyś użyć? 
+
+[Orion]
+Swojego, tak. No bo w sumie jest w zasięgu, no. No to, no tak. Tak, masz rację. Nie, nie, nie. No to tyle. 
+
+[Felicjan]
+No chujo, rzucim kloanisianem, ale... Jezusie. A to kloanisian, to felisian powinien być. Mówię to kloanisian, to felisian powinien rzucić. 
+
+[CZAT 00:23:19] Klonicjan Janus Twardowski (rzut): Wall of Fire Legacy • 4th Level Evocation (Cast at 4th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(a small piece of phosphorus) Range 120ft. Concentration Requires Concent… | rzuty: = 11, 5d8, 5d8
+
+
+[Felicjan]
+Co to za samony, no? 
+
+[CZAT 00:23:55] Cyclops: Greatclub Simple Melee Attack Damage Action Instantaneous reach 10 ft Equipped Proficient
+
+
+[CZAT 00:23:58] Cyclops: Greatclub Simple Melee Attack Damage Action Instantaneous reach 10 ft Equipped Proficient
+
+
+[Orestes]
+Goddammit, no drugi trafił nam. 
+
+[Dungeon Master]
+Ty odejmujesz te młode, ja mam odjąć. 
+
+[Orestes]
+Odejmę mu. 
+
+[Dungeon Master]
+Nauczyłeś się odejmować? Tokenom? O, udało się. 
+
+[Orestes]
+Chyba tak? Udało mi się? He, he, he. 
+
+[Dungeon Master]
+No dobra, rekin duży. 
+
+[Orestes]
+Spoko, zapomnę. 
+
+[Dungeon Master]
+Trąba tu dalej jest. No bo to podpływa do trąby. Ty bez adwantyż dalej. What the fuck. 
+
+[CZAT 00:24:46] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Dungeon Master]
+Metros action nr 3. 
+
+[Arevon]
+Seidon z nim jest. Więc możemy jebnąć w dwa Rekiny i healnąć Wersira, albo w Cyklopa i healnąć Orestesa. No tak, ale mówię, to nas Seidona nie zadziała, a Rekiny powoli schodzą, więc... Ciebie nikt nie wie. 
+
+[Orion]
+Wróciłem, dostałem tym bajtem? Czy to nie? O, dobra. Miejmy się to mówić po japońsku, nie? 
+
+[Arevon]
+To możemy nic wiążeć, to jest okej, myślę, że nic. O, to jest Seidon. The fuck is this? 
+
+[VISUAL 00:26:20] Mapa przedstawia Morze Otchłani, gdzie na tle ogromnej, zatopionej twarzy Sydona, Władcy Burz, toczy się starcie morskie. W walce bierze udział statek Ultros, w którego pobliżu znajdują się postacie, w tym Orestes oraz liczne rekiny otaczające jednostkę. W oknie śledzenia walki widoczni są także Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski, Versir oraz Klonicjan.
+
+
+[CZAT 00:26:30] Sydon: Applied conditions: &Reference[dehydration]
+
+
+[Arevon]
+Nie wiem, jak wygląda. 
+
+[Felicjan]
+Jeszcze... No dobra, raz by uderzył na hejście, ale to tylko hej... hejstaktor. 
+
+[Orestes]
+On zsamanował chmurkę. 
+
+[CZAT 00:27:44] Primordial Surge: 15.22
+
+
+[Orestes]
+Chcesz wyciągnąć rzeczki? Już wyłączę kamerkę. 
+
+[Arevon]
+Seidon boi się Kolosa. Dlaczego to doszło? 
+
+[CZAT 00:28:36] Sydon, The Lord of Storms: 6
+
+
+[Dungeon Master]
+O! Pakiet D6 sejdą rzucił. Hu hu hu. Okej. Ale ciężko jakoś ładnie ułożyć. On se podlatuje na statyk chyba po prostu. Tak. To jest na pewno dla niego... On lata, a dalej kwa przez trupami i liczy movement razy dwa. Tego nie ogarnąłem dalej. Nie wiem co to jest od początku tej kampanii. Dobra, drugą linijką wymierzyłem. On sobie tu podlatuje i sobie wylata nad statkiem. Odnowił feature'a. To jest dobry feature teraz do użycia. Spróbujmy wycelować. 50 foot cone. Ale to nie jest dobry feature teraz do użycia. Dobra, przecież on to jest mały. Ciebie woli jednąć laserem. Leci w ciebie cataclysmic bolt, czyli w sensie warkeranie. 
+
+[CZAT 00:30:20] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 27, 1d20 + 14
+
+
+[CZAT 00:30:28] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 28 7d6 2 6 5 6 2 1 6 28 | rzuty: = 28, 7d6
+
+
+[CZAT 00:30:48] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 23, 1d20 + 14
+
+
+[CZAT 00:30:54] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 30 7d6 6 1 5 5 3 6 4 30 | rzuty: = 30, 7d6
+
+
+[Arevon]
+Pamiętaj, że to liczy... tak. Mierz linijką. 
+
+[Felicjan]
+To jest stówa. To jest stówa? Pokazuje 200. Tu jest stówa? 
+
+[Arevon]
+To nie jest linijką. Więcej, 120. Czemu wygląda, że Twój token może być mały? 
+
+[Felicjan]
+Tu. Nie, tu. A ja się nie mogę ruszyć. Pinguję cały czas. 
+
+[Arevon]
+Bo nie możesz przejść przez niego. To było nowe. To tak tylko z pół roku jest token blocking. Wcześniej nie było. 
+
+[Dungeon Master]
+Token blocking, partial, o! Token blocking. 
+
+[Arevon]
+Ale double movement liczony przez trupy to z początkowego roku. 
+
+[Dungeon Master]
+None. Save settings, a spróbuj teraz się ruszyć. 
+
+[Arevon]
+Tak dobrze pokazuje. 
+
+[Dungeon Master]
+I pokazuje, o i chyba dobrze pokazuje. Ło! 
+
+[Felicjan]
+Ach, poszło. Idzie. On ma zasięg 20. Czy to wystarczy? 
+
+[Dungeon Master]
+Czyli to nie był żaden plugin, to był system DND. Po prostu w jakimś 
+
+[Arevon]
+No tak, bo u mnie tego nie ma w Travelerze, więc... 
+
+[Dungeon Master]
+aplikacji oddali. 
+
+[Arevon]
+6 metrów. 
+
+[Felicjan]
+Ma reach 20. To jest idealnie 20 od kanta do kanta. 
+
+[Dungeon Master]
+Plus 20 wysokości. 
+
+[Felicjan]
+A plus 20 wysokości. 
+
+[Dungeon Master]
+Czyli kolos jest duży. Tańczy aż tak duży. Wiele to jest, 20 fitów w sumie nie jest aż tak dużo. 
+
+[Arevon]
+Koloś jest na pewno większy niż 6 metrów. Kolos, który jest imieniem na physical damage. 
+
+[CZAT 00:34:31] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Arevon]
+A skąd te plus 10? Coś tu jest źle. Nie ma być plus 23. To chyba było źle wtedy też, więc... Jeszcze hejstratek. To jest hejstratek. Nie ma w lesie. Nie. 
+
+[Dungeon Master]
+Chyba zrobiłem. 23. 23 go trafi, tak. No, 51 na ataku. Teraz dobrze już, tak. 
+
+[Arevon]
+Na pewno nie ma w lesie. 
+
+[Dungeon Master]
+4. Do trafienia to się wygląda, że zgadza, tak. 
+
+[Arevon]
+Nie ma mieć plus 17 do trafienia, to się zgadza? 17 do trafienia? 
+
+[Dungeon Master]
+10 plus 10 nic z siły plus 7 z proficjancy. To się zgadza. Ała! 7 używa reakcji. 7 użyje reakcji na to. Chujowa reakcja na Kolosa. Tydon nie używa reakcji. Ale po rundzie Klincjana Tydon używa legendarnej akcji na pewno. Za mało odsunął. 
+
+[VISUAL 00:36:30] Mapa przedstawia starcie toczące się na Morzu Otchłani, bezpośrednio na tle Kolosa Pythora. Drużyna, w tym postacie Arevon Elorrenthi, Orion Xul i Felicjan Janus Twardowski, walczy na pokładzie statku Ultros z Sydonem, Władcą Burz. Widoczny panel śledzenia starcia potwierdza obecność licznych przeciwników, takich jak rekiny oraz sam Sydon.
+
+
+[Dungeon Master]
+Okej, to przetrun do Felicjana. Tydon używa legendarnej akcji. Kolosy da się zastanować? Wątpię. Tutaj nie ma odporności na Stana. What the fuck? Może go po stołu chow... Walnie. Kona nie ma aż tak dużo. 
+
+[CZAT 00:37:35] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 33, 1d20 + 14
+
+
+[CZAT 00:37:41] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 21 7d6 2 6 2 5 3 1 2 21 | rzuty: = 21, 7d6
+
+
+[Arevon]
+Więc nie, to już do Ciebie zdecydowane, że... 
+
+[CZAT 00:39:46] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 15, 1d20 + 12, 1d20
+
+
+[Arevon]
+Dlatego można było użyć colda, żeby mieć advantage. Lepiej trafić z połową, niż natrafić, no. O. No, bless na pewno nie się może. Pster. Tak jest cyklu. Średnie. 
+
+[Dungeon Master]
+Tam, gdzie ostatnio zapisywałem, a nie wiem, czy ostatnio tam zapisałem, mam napisane 9. Chyba 9? 
+
+[Arevon]
+No to chyba dziewięć. Radgo, colas chyba nie jebnie. 
+
+[Dungeon Master]
+Poczekaj, poczekaj, przed twoją kolejką jeszcze akcja będzie jedna. Sidonowi się nie podoba, że ten klinicjan w kolosie za nim łazi, a Sidon potrafi strzelać na całkiem niezły dystans, więc on sobie robi... wiatr wieje, wzbija go w powietrze i jest na 80 filiach teraz. Tam go kolos nie sięgnie już. 
+
+[CZAT 00:42:03] Versir: 15
+
+
+[Arevon]
+Tromba ma blessa. A to nie działa. Czy to działa? Nie, on to się powinien skończyć. To na rundę tylko trwa. On nie daje ryzyku. Możesz przeczytać ten feature? 
+
+[Dungeon Master]
+Until the end of their next turn Dobra, bo to był legendarny akcja Pomyliłem dwa feature'y Tak, tak, tak Faktycznie jest feature, który daje restrain'a A skoro ma restrain'a To pewnie z tego dostała trąba Dostał? Trąba to jest on, czy ona tak w ogóle? Więc to jest To był damage, restrain Until the end of their next turn Escape 16 
+
+[Arevon]
+Ale to wydaje mi się, że to już było rundę wcześniej. 
+
+[Dungeon Master]
+Tak 
+
+[Arevon]
+Poprzedniej. 
+
+[Dungeon Master]
+Do końca rundy 
+
+[Arevon]
+Aż! Zostanie dwa kozyny. Au. 
+
+[CZAT 00:44:05] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Arevon]
+Ja pierdolę. 
+
+[CZAT 00:44:25] Versir: DC 13 Concentration Concentration
+
+
+[CZAT 00:44:29] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Arevon]
+Nope. Możesz. 
+
+[Dungeon Master]
+zaznacz dobrze. 
+
+[Arevon]
+Dalej cię słychać tragicznie z tego drogi. Niestety. 
+
+[Dungeon Master]
+Sure. Strzałka mi też działa. No to do Sejlana masz jakieś 85, może 80. Plus wysokość. 
+
+[Arevon]
+Już mam skryt, ale niektórych zaliczam. Zdecydowanie ci wystarczy momentu. To nie jest zimne combo, to jest combo za pierdylią damage'u. 
+
+[Dungeon Master]
+Zawsze jest politowanie tylko na ciebie, ale kontynuuj. 
+
+[CZAT 00:46:09] Arevon Elorrenthi: villain monologue!
+
+
+[Dungeon Master]
+Sure. Okej. Takie dziwne kombo znowu. 
+
+[Orion]
+Coś pięknego. 
+
+[Arevon]
+Masz blessa jeszcze. 
+
+[CZAT 00:46:34] Trąba: 23
+
+
+[CZAT 00:46:36] Trąba: 29
+
+
+[CZAT 00:46:37] Trąba: 14
+
+
+[CZAT 00:46:38] Trąba: 23
+
+
+[CZAT 00:46:38] Trąba: 20
+
+
+[VISUAL 00:46:39] Akcja rozgrywa się na pokładzie statku Ultros podczas sztormu. Na mapie widoczni są Sydon, Orestes oraz Arevon Elorrenthi, otoczeni przez drapieżne rekiny z Plemienia Rekina. W panelu bocznym widoczny jest licznik walki, wskazujący trzecią rundę starcia oraz informacje o atakach i testach koncentracji postaci.
+
+
+[CZAT 00:46:39] Trąba: 22
+
+
+[Dungeon Master]
+Raz, dwa, dwa. No. Wrzuć dwa razy. 
+
+[CZAT 00:46:58] Trąba: 2
+
+
+[Dungeon Master]
+Okej. 
+
+[CZAT 00:47:02] Trąba: 4
+
+
+[Dungeon Master]
+Okej. Nie no, dobra. To... Do dwudziestki była dwójka i wychodzi dwadzieścia dwa, to trafiło, więc możecie dowiedzieć się już, ile ma zleka dokładnie. Tak, siur. No dobra, siur. I to tylko jeden nie trafił w takim razie. I z czym to się tam combo-łąba robi? To jest duży kostek. 
+
+[CZAT 00:47:26] Trąba: 80
+
+
+[Dungeon Master]
+Au. 
+
+[Versir]
+Wersir te płomienie wsadza w miecz i potem macha tym mieczem sześć razy i lecą w skrócinkę jednego A potem moją akcją jeszcze go atakuje dwa razy W skrócinkę 
+
+[CZAT 00:48:04] Trąba: 25
+
+
+[CZAT 00:48:05] Trąba: 14
+
+
+[Dungeon Master]
+Piu, piu, piu, piu, piu. 
+
+[Versir]
+Spirit Troll 
+
+[Dungeon Master]
+Jakaś tam... 
+
+[Versir]
+Tak, i te D8ki są radiant, a te D6ki są wild 
+
+[Dungeon Master]
+To jest dobra. Osiemdziesiąt damage'a po pierwsze, tak? Tam to był. No, nie ma znaczenia. Wchodzi dobrze to i to. I trąbu co, rzucałeś jeszcze raz? 
+
+[Versir]
+Trąbą nic nie rzucałem, to było Titan's Blade Okej, mam nadzieję, że to poparzy demont. 
+
+[CZAT 00:48:48] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d20 + 11, 1d8 + 6, 3d6, 1d8, 3d6 = Damage: 26 14 + 12, = Critical Damage: 14 6 + 8, = Combined: 40 14 + 12 + 6 + 8
+
+
+[Versir]
+Dobra, ile to jest? 1d6 plus... 1d8 plus 6... 3d6... 26... 
+
+[CZAT 00:49:10] Trąba: 12
+
+
+[CZAT 00:49:28] Nephele: Applied conditions: &Reference[restrained]
+
+
+[Versir]
+5 level up, 5 level up. Jestem jasnym. Tak! Wow. 
+
+[CZAT 00:50:15] Sydon, Lord of All (rzut): Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 17, 4d8
+
+
+[CZAT 00:50:25] Versir (rzut): Dexterity Save (+5) 19 1d20 + 5 14 14 | rzuty: = 19, 1d20 + 5
+
+
+[CZAT 00:50:32] Trąba: 3
+
+
+[CZAT 00:50:50] Versir: DC 10 Concentration Concentration
+
+
+[Arevon]
+Ja sprawdzam wszystkich, nie tylko Ciebie, więc to nie jest wybiórczy do tego. 
+
+[CZAT 00:52:26] Versir (rzut): Constitution Save (+14) 29 1d20 + 14 15 15 | rzuty: = 29, 1d20 + 14
+
+
+[CZAT 00:52:49] Sydon, Lord of All (rzut): Cloudburst Trap (Costs 3 Actions) (6d8) 27 6d8 5 8 6 3 1 4 27 | rzuty: = 27, 6d8
+
+
+[CZAT 00:53:20] Versir: DC 10 Concentration Concentration
+
+
+[CZAT 00:53:35] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Arevon]
+A rzuciła do szóstku? Pięć rzuciła. Success. 
+
+[Dungeon Master]
+że się oddechy odnawiają. What the fuck? Sure. Tu jednak jakieś 50 fitów, powiedzmy. Jeszcze tu leci trochę. Z tego rasa na pewno to wyjdzie. 
+
+[Arevon]
+Mamy skrypt napisany, więc możesz powiedzieć co fisza. 
+
+[Dungeon Master]
+55 i 50, więc to jest 74, to jeszcze ma 
+
+[Arevon]
+Siedemdziesiąt cztery. 
+
+[Dungeon Master]
+15 fitów, kur... Nie, nie, 5 fitów. 
+
+[Arevon]
+Pięć. 
+
+[Dungeon Master]
+Sure, to powiedzmy, że 5 fitów wyżej jeszcze. Po prostu. No dobra, jak jest coldbreath to coldbreath, ja pierdolę. 
+
+[CZAT 00:54:58] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+
+
+[Dungeon Master]
+Jeszcze się da wyrzucać, no dobra. No trudno. Biedny Sidon. Okej. 
+
+[Arevon]
+No jest listo. Jebany nie umie rzucać mało. A na cale nie umie rzucać dużo. What the fuck is this? Trzy trzy trzy trzy trzy trzy dwa dwa trzy trzy trzy trzy jeden jeden. Osiemdziesiąt. 
+
+[Dungeon Master]
+Arawonna. Nice, nice. Stójcie blisko siebie. 
+
+[Orestes]
+Najpierw będę ja, potem Cyklop. Może Cyklop nie mieć rundy. 
+
+[Arevon]
+Ja muszę się ruszyć ilu? Muszę się ruszyć tu. Tu najlepiej. 60 w ten i 50 w góry. 
+
+[VISUAL 00:56:48] Na mapie przedstawiającej wzburzone wody morskie toczy się starcie wokół statku, na pokładzie którego znajdują się m.in. Arevon Elorrenthi, Orion Xul, Orestes, Klonicjan, Felicjan Janus Twardowski, Versir oraz Trąba. Wokół jednostki widoczne są tokeny zagrożeń, w tym stworzenie o nazwie Primordial Surge, którego karta statystyk jest otwarta w lewej części ekranu. Prawy panel z dziennikiem walki wskazuje na trwającą czwartą rundę starcia z udziałem Sydona, Władcy Burz oraz smoka Nephele.
+
+
+[Arevon]
+I 78. O Jezu. Tak, tak. Ja zdaję to sprawę, że docenimy obszarówkę, więc nie można mieć wszystkiego niestety. 
+
+[Dungeon Master]
+Pior. 53! 
+
+[Arevon]
+Zmieniam formę na chwilującą. I testujemy. 
+
+[CZAT 00:57:28] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages
+
+
+[Arevon]
+Ten ról działa jak wykliknę. 
+
+[CZAT 00:57:35] Arevon Elorrenthi (rzut): Moon Sickle, +2 (d4) 3 1d4 3 3 | rzuty: = 3, 1d4
+
+
+[Arevon]
+To jest 53. 
+
+[CZAT 00:57:49] Arevon Elorrenthi: Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…
+
+
+[CZAT 00:57:50] Arevon Elorrenthi (rzut): Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 13, 2d8
+
+
+[CZAT 00:57:53] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 37, 8d8 + 6
+
+
+[Arevon]
+A teraz idzie on F7. 
+
+[Dungeon Master]
+OP. Pior. Co on rzuca? 
+
+[Arevon]
+Dex F7. 
+
+[CZAT 00:58:14] Trąba: Life Bond Feature When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you're within 5 feet of it.
+
+
+[Dungeon Master]
+Chyba mu wyszło. Połowa, rozumiem. 
+
+[Arevon]
+Ile? 
+
+[CZAT 00:58:18] Sydon, Lord of All (rzut): Dexterity Save (+14) 24 1d20 + 14 10 10 | rzuty: = 24, 1d20 + 14
+
+
+[CZAT 00:58:23] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 16 6d8 3 2 1 7 2 1 16 | rzuty: = 16, 6d8
+
+
+[Arevon]
+What the fuck? Tak. 
+
+[Dungeon Master]
+Okej, a kto tu pływa w wodzie jeszcze? 
+
+[Arevon]
+8. What the fuck? 
+
+[Versir]
+Trąbę też heal'ałeś tym swoim heal'em, by the way. 
+
+[Arevon]
+Sure? Nie celowałem, co robię? Ja nie będę komentować tego rolla. 6d8. A, ja nie wrzuciłem tego. 
+
+[Dungeon Master]
+Orion tylko. To rekin płynie. Oczywiście movementa zabraknie, więc musi dashować. No nic, pomyślmy. 
+
+[Arevon]
+No, panie, patrz, szósteczkę. Nie, żebym mógł sidonać. 
+
+[Dungeon Master]
+Seczka. To niedobrze. Sidon użyje legendarnej akcji, jeszcze jednej, ostatniej. 
+
+[Arevon]
+Nie pomaga. 
+
+[Dungeon Master]
+Żeby chlasnąć... Kto chce chlasnąć? Próbuje chlasnąć trąbę swoją glebią. 
+
+[Versir]
+No to bydlę. Trąba jest nietykalny. 
+
+[CZAT 01:00:03] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 32 25 + 7
+
+
+[Arevon]
+To jest jeden. 
+
+[Dungeon Master]
+Pierdole, no what the fuck? 
+
+[Arevon]
+On na dwójce trafiał. 
+
+[Dungeon Master]
+Co jest z moimi bossami nie tak? No czemu ja... To nie jest pierwszy boss, w którym kurwa nic nie umiem rzucić porządnie. 
+
+[Arevon]
+Spoko, mój damage też był zajebisty dzisiaj, więc... 
+
+[Versir]
+Do tego firewalla uważaj 
+
+[Dungeon Master]
+Rekiny trąby nie mogły chwycić, teraz sam Sidon nie. Zajebiście. Ten płynął o Restes. 
+
+[Orestes]
+Okej, czy jestem w stanie tak przesunąć troszkę w tą stronę tutaj w lewo żeby ja muszę rzucić najpierw na odnowienie tego oddechu, co nie? 
+
+[Dungeon Master]
+Tak, do sześć. 
+
+[Orestes]
+to było D6, dobra i nope 
+
+[Arevon]
+6. Nope. 
+
+[CZAT 01:00:57] Orestes: 1
+
+
+[Dungeon Master]
+Nie ma. 
+
+[Orestes]
+no 
+
+[Arevon]
+I tak sidon z nim, więc... 
+
+[Orestes]
+no mówi się trudno to jak tam jestem to już po prostu zrobię multi-attack i się rozwali tego na dole kolegę 
+
+[Dungeon Master]
+A jest cyklopowy jeszcze runden, ładnie kamieniami rzucał. 
+
+[CZAT 01:01:47] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 17 12 + 5
+
+
+[Dungeon Master]
+No nie wygląda. Nie ma cyklopa. Bolącowa akcja. Masz atak bolącowy akcji. Nie. 
+
+[CZAT 01:02:57] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 20 16 + 4, = Critical Damage: 33 12 + 4 + 17, = Conditional: 2 2, = Combined: 53 16 + 4 + 12 + 4 + 17
+
+
+[Orestes]
+O wadko, teraz tu podliczyć. 
+
+[Versir]
+Wow, wow, wow 
+
+[Orestes]
+Tak, i rzuciło mi automatycznie te ekstra dwie kości z tego 13 levelu coś tam. 
+
+[Versir]
+Hazard zawsze władzy 
+
+[Orestes]
+Wszystko jest dobrze. No dobra, w sumie to ja mam pełny ładunek w tym. Jakby się na niego zużyć. No, w sumie racja. Dobra, to ostatni atak. Jestem greedy. Jak to? Greedy jest piękne. 
+
+[Versir]
+Okej! 
+
+[CZAT 01:04:21] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 15 9 + 6, = Critical Damage: 21 3 + 12 + 6, = Conditional: 2 2, = Combined: 36 9 + 6 + 3 + 12 + 6
+
+
+[Versir]
+Ej, mid się przypomina, nie? 
+
+[Arevon]
+Zdecydowanie, mid się przypomina, ale dużo mniejszy damage, więc... 
+
+[Versir]
+Przewił mój damage w rundzie 
+
+[Orion]
+Aby znowu użyć tego brefa muszę odnowić go, tak? 
+
+[Arevon]
+Garbic dzwoń do brata, mamy mid resurrection. Okej, dobra, to jest 40 i 54. 
+
+[Versir]
+Z deszczu pod rynek Z każdej kratki trąby aura łapie 
+
+[Arevon]
+Nie codziennie ktoś już robi dwa kryty z Great Wargolmasters rzędu. Znaczy on kryci na 19, ale to jest inna sprawa, więc... Nie, ale dostaniesz tyle damage'ów, że teraz leżę na glebie i będę się zbierał od chudłogi, więc... 54. Great. Ja robię 16, wypraszam sobie. Mój damage jest constant. Ja robię 16. Is this given? 
+
+[CZAT 01:06:09] Giant Shark (rzut): Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Arevon]
+To jest miss. 22, bo jest ancient. Arasptry nie jest, przepraszam, przepraszam, przepraszam, pomijamy się ze subokorexem. Nie, nie, to on trafia. Przepraszam. 
+
+[Dungeon Master]
+nie przejmuję, to kliknę po prostu. O, 120 i idziemy dalej. Teraz burzowa chmurka. Aranż. O, chcemy sobie z blisko was nawet. Może to by było dobre. 
+
+[VISUAL 01:06:58] Na mapie przedstawiającej pokład okrętu Ultros trwa walka, w której bierze udział Sydon, Władca Burz oraz inni bohaterowie, w tym Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski, Versir i Orestes. Nad polem bitwy dominuje potężna istota zwana Primordial Surge, której opis zdolności „Primordial Storm: Ruinous Rain” jest widoczny w otwartym oknie interfejsu. W prawej części ekranu widać listę inicjatywy oraz szczegółowe informacje o obrażeniach zadanych przez Topór Xandera.
+
+
+[Versir]
+Też 
+
+[Dungeon Master]
+Nie wiem, czy to jest dobre. O, w sumie może jest dobre. O, nie tylko na ciebie. Leci sobie na 80 litrów jednak. I leci tak na dwa z wszystkich. I z niej zaczyna padać deszcz. Taki, że deszcz zaczyna tak trochę palić. I to jest Ruinous Rain. Each creature, tutaj obszarowo, więc smoki i wy jednocześnie obrywacie. Decksave'a robicie. To jest A City Fire. 
+
+[CZAT 01:07:56] Versir (rzut): Dexterity Save (+5) 17 1d20 + 5 12 12 | rzuty: = 17, 1d20 + 5
+
+
+[CZAT 01:08:01] Trąba: 1
+
+
+[CZAT 01:08:07] Arevon Elorrenthi: 26
+
+
+[Versir]
+A ja teraz trąby nie mogę zaznaczyć Okej 
+
+[Dungeon Master]
+W inicjatywie możesz kliknąć wtedy, będziesz mógł kliknąć. Kliknij dwa razy na przykład w inicjatywie. 
+
+[Versir]
+A smog też ma po coś Kurwa Jakie DC ma ta chmura? To chmura... 
+
+[Orestes]
+Czyli ja i smog nie rzucamy, zajebiście. A no i w sumie advantage tam nie ma. 
+
+[CZAT 01:09:09] Vehicle: 26
+
+
+[CZAT 01:09:14] Vehicle: 24
+
+
+[Dungeon Master]
+Ci, co mają sukces, obrywają połowę. Trąba obrywa fulla. And? Tylko ten... Trąba żyje jeszcze? 
+
+[CZAT 01:09:37] Versir: DC 12 Concentration Concentration
+
+
+[Versir]
+Nope. 75 fitów w dół. 
+
+[Dungeon Master]
+No dobra. Ale widzisz, jakby 
+
+[Versir]
+O, to ja chcę rzucić. 
+
+[Dungeon Master]
+trąba przeżyła, to ten płonący kwas, który leje się z tego deszczu, to by się przylepił jeszcze do trąby, jeszcze by ją palił. Co rundę. Do was się nie przylepiło niestety. 
+
+[Versir]
+Bo wtedy trąba przezwieje. Aaa, tak, tak, tak, dobra, dobra, dobra. Tak, tak, zapomniałem. Dobra, to ja spadam na statek. 70 fitów w dół. No kurwa. 
+
+[Arevon]
+Czemu u mnie silnego plus 12, tak to było? 
+
+[CZAT 01:10:36] Trąba: 29
+
+
+[Arevon]
+Ja rzucałem Concentration jak wersję i jeszcze nie spadł, więc mam dalej, ale... 
+
+[CZAT 01:10:39] Arevon Elorrenthi: DC 10 Concentration Concentration
+
+
+[CZAT 01:10:43] Arevon Elorrenthi: DC 12 Concentration Concentration
+
+
+[Versir]
+29 to już chyba wrzucić muszę. 
+
+[CZAT 01:10:45] Versir: DC 14 Concentration Concentration
+
+
+[Versir]
+Tak. Wystarczyło stargetować trąbę. 
+
+[CZAT 01:10:48] Versir (rzut): Constitution Save (+14) 28 1d20 + 14 14 14 | rzuty: = 28, 1d20 + 14
+
+
+[Arevon]
+To ja rzucałem niealkerania, to jest mój miskryt. Ja mam plus większego save'a niż ona, więc... No bo zniknę. Musisz D6 rzucić. 
+
+[Versir]
+Cześć! 
+
+[Orion]
+No to najpierw tego od dołu, nie, zaraz zobaczmy jak jest inicjatywa, nie robi różnicy, tego na dole, na pewno żyje, one mają dużo, na dole 19, no to jeszcze bonusem i 4 do 6, tak, aha, aha, no, nie, chyba nie potrzebuję, 
+
+[Arevon]
+Up. 
+
+[CZAT 01:11:52] Orion Xul: 3
+
+
+[Arevon]
+Chyba musisz dźgać... Czy Chmura jest creaturem? Ta się targetować? 
+
+[CZAT 01:12:19] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20
+
+
+[Arevon]
+Nie może. 
+
+[CZAT 01:12:22] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 14 + 4
+
+
+[Dungeon Master]
+Którego biłeś? Tego na dole czy na górze? Żyje, żyje. Rekiny są dość tankowne. Trafia, trafia. Łatwo je trafić. Hubs tylko mają dużo. 
+
+[CZAT 01:12:44] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20
+
+
+[CZAT 01:12:50] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 23 13 + 10
+
+
+[Dungeon Master]
+Jeszcze jeden taki i padnie. 
+
+[CZAT 01:12:57] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+
+
+[CZAT 01:13:02] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 16 + 3
+
+
+[Dungeon Master]
+I leż. Przerzucasz tą jedyneczkę, zgaduję. A nie, to jest bludgeoning. 
+
+[CZAT 01:13:17] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 32, 1d20 + 12, 1d20
+
+
+[CZAT 01:13:20] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9, 1d4
+
+
+[CZAT 01:13:25] Orion Xul: 12
+
+
+[Dungeon Master]
+Ty nie możesz. Piercing tylko możesz. To i tak jest 11, 2, 10, 3. 
+
+[Arevon]
+Versyra, Orestesa i chyba na mnie? Chyba, że na Oriona, bo nie jestem przekonany. To jest jaka decyzja? Zginie temp HPK jeszcze oprócz tego, nie? 
+
+[Orion]
+mogą zrobić 
+
+[Arevon]
+W każdym wypadku Orestes i Versyra dostajecie 10 temp HPK. Zaznaczcie sobie jakiś status, że następny atak przed inicjatywą 10 ma disadvantage. Ja sobie tam half'kowy, half'kowy pisałem, więc... Tempo to dziś. 
+
+[CZAT 01:16:11] Sydon: Applied conditions: &Reference[dehydration]
+
+
+[Orestes]
+Okej. 
+
+[Arevon]
+I disadvantage, pierwsza ataka. Doszliśmy do tego, że to działa na ten disadvantage będzie, więc... A Rekkles, tak, tak, tak, tak. Ale badko jest w mid range'u, więc strzelać będzie disadvantage, więc jeśli zacznę strzelać. 
+
+[VISUAL 01:17:06] Na mapie przedstawiającej pokład okrętu Ultros toczy się starcie z Sydonem, Władcą Burz. W walce biorą udział m.in. Nephele, Arevon Elorrenthi, Orestes, Orion Xul, Klonicjan, Felicjan Janus Twardowski oraz Versir. W oknie „Encounter Tracker” widoczne są wpisy dotyczące akcji „Odkupienie Pythora” oraz „Spear Mastery”, a Sydon jest oznaczony warunkiem „Dehydration”.
+
+
+[Arevon]
+Na pierwsza atak. To oni... 
+
+[CZAT 01:17:12] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 34 23 + 11
+
+
+[Arevon]
+What the fuck? Pierdolch. To nie jest prawda. Ma plus 8. Powinien. Plus 8. 
+
+[Orestes]
+Nim, tak? Okej, ile on ma kona? Plus 8, dobra. Czyli co, 34 tylko traci? 
+
+[Arevon]
+Ok. 
+
+[CZAT 01:17:51] Orestes: 27
+
+
+[CZAT 01:18:15] Sydon, Lord of All: Jetstream Buffeting Jetstream Buffeting. Strength Saving Throw: DC 23, all other creatures flying within 60 feet of Sydon. Failure: A creature's flying speed is reduced to 0 until the start of its next turn, causing creatures without the ability to hover to fall. Save: Strength DC 23
+
+
+[Arevon]
+Ja też mam. 
+
+[Orestes]
+Dużo. I ja też mam. Strength save, dobra. 
+
+[Arevon]
+Rekreacja, że co? Rekreacja zdecydowanie spada. 
+
+[CZAT 01:18:54] Orestes: 29
+
+
+[Orestes]
+Volkan? Czy ja mam? Nie, ja nie mam advantage na strength save'a. Czy mam? 
+
+[Arevon]
+No to chyba nie ma znaczenia. 
+
+[CZAT 01:19:11] Orestes (rzut): Strength (+6) 10 1d20 + 6 1d20 4 25 1d20 + 6 1d20 19 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20
+
+
+[Arevon]
+Ona dostanie falling damage, a nie ja, więc... Zaraz spadam za. 
+
+[CZAT 01:19:29] Sydon, The Lord of Storms: 19
+
+
+[Arevon]
+Falling damage, please. A, to jest mój falling damage. Chociaż to jest damage z jego zdolności. 
+
+[CZAT 01:19:43] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 25 13 + 12
+
+
+[CZAT 01:20:06] Orestes: 22
+
+
+[Arevon]
+Ten moment, gdzie trzeba się zwinać z powierzchni ziemi w powietrzu. 
+
+[Orion]
+disengage'a ja nie odnowiłem 
+
+[CZAT 01:21:23] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[CZAT 01:22:32] Leviathan: 20.24
+
+
+[Dungeon Master]
+Działa, czy to nie działa? Właśnie oddziałem Seidonowi 43 dmg. Teraz się zgadza. Ale what the fuck, mam Rakina zaznaczonego, klikam Apply Damage, guzik i on odejmuje Seidonowi zamiast Rakinowi. Przeręcznie. Felicjan, to jest misja i Bless nie pomoże. 
+
+[CZAT 01:24:09] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20 = 27, 6d8, 6d8
+
+
+[Dungeon Master]
+Ok, Wersir. 
+
+[CZAT 01:24:36] Versir: Find Steed 2nd Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range 30ft. You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the Otherworldly Steed stat block. If you already have a steed from this spell, the steed is replaced by the new one. The steed resembles a…
+
+
+[Dungeon Master]
+Uuuu, nowa Trombo. O, wcześniej nie była Celestyl? 
+
+[Versir]
+To nie była fajna trąba. To jest mój ostatni Spal Stop, by the way. 
+
+[Dungeon Master]
+Była taka możliwość? 
+
+[Versir]
+Bonus akcją... Używam... Jak to się nazywa? Celestial Transformation używam. 
+
+[Dungeon Master]
+Aż legendarne akcje, żadnej Scylon nie użył. A dobra, jeszcze bym nie miał czas. 
+
+[Versir]
+Będzie trąbę paliło. 
+
+[Dungeon Master]
+Okej. 
+
+[Versir]
+Dobra, 60 feet, a gdzie ja chcę polecieć? Plak. Ogólnie jeszcze będę się ruszał, a to będzie koniec mojej rundy. 
+
+[Dungeon Master]
+Po twojej rundzie Scylon użyje dwie legendarne akcje, żeby wybrać trzy targety. Gdzie targety to będzie Archerania, Tromba i Cyból... Nie, nie, nie, to nie ma sensu, to jest Lightning. Byłoby chujowe. Zdecydowanie tego nie zrobi. Użyje jedną legendarną akcję i walnie Glewiu, smoka, który się uziął na nim. 
+
+[CZAT 01:26:36] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 29 21 + 8
+
+
+[Versir]
+Tak, tak. What's up? 
+
+[VISUAL 01:27:15] Scena rozgrywa się na Morzu Otchłani, gdzie postacie znajdują się na pokładzie statku Ultros, dryfującego nad ogromną, zatopioną twarzą Kolosa Pythora. W walce biorą udział między innymi Arevon Elorrenthi, Orestes, Orion Xul, Felicjan Janus Twardowski, Versir oraz potężny Sydon, Władca Burz. Po prawej stronie panelu widoczne są szczegóły działań Nephele oraz informacja o użyciu przez nią ataku Titanic Black Glaive.
+
+
+[Orion]
+i w tym przypadku 
+
+[Versir]
+Ty byłbyś... A, w sumie ty masz flying speeda. Ile ty masz swój walking speed? 
+
+[Arevon]
+zawsze pięć tematów jednocześnie i sobie wybierasz, na które chcesz pójść. I zwykle co najmniej jeden lub zwykle nawet dwa słowa interesujące. I sporo jest też takich tematów, że możesz pójść posłuchać, mimo że to się do niego nie przyda, ale będzie ciekawe. Było parę takich slotów, że nie było nic. Sorry, trudno, ale przez trzy dni, przez 
+
+[VISUAL 01:52:38] Scena przedstawia starcie toczące się na Morzu Otchłani, w pobliżu latającej fortecy lub statku, nad którym góruje gigantyczna twarz Sydona. Na mapie widoczne są tokeny postaci, w tym Nephele, Arevona Elorrenthi, Orestesa, Oriona Xula, Klonicjana, Felicjana Janusa Twardowskiego oraz Versira. W prawej części ekranu znajduje się handout z opisem przedmiotu "Titanic Black Glaive" oraz dziennik walki wskazujący na trwającą 5. rundę starcia.
+
+
+[Dungeon Master]
+Smoczyca, ma oddech znowu Mogłaby to zrobić Ale ona lubi Seidona być głównie Przeleci trochę tu i zielnie w stronę Seidona 
+
+[Arevon]
+Zobaczmy, ile chmurka ma HP-ka. 
+
+[Dungeon Master]
+Nie chce mi się Tak się samo narysuje Na pewno to zrobić 
+
+[CZAT 01:53:16] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+
+
+[Dungeon Master]
+Ewidentnie Ma trochę wyżej, też musi podlecieć w sumie Momencik Mniej niż Seidon Tak, tragedii nie ma 
+
+[Arevon]
+Minisajdon teraz, czy minisajdon na starcie? Właśnie. Uuu, Primordial Surge sfejlował konsejwo. Średnio, średnio, panie. 
+
+[Dungeon Master]
+Chmurka obrywa Połowę damage'a 
+
+[Arevon]
+Średnio? Sajdon wyrwa jedną szartą. ZWIATAM. 
+
+[Dungeon Master]
+tylko, że bardziej błyskawizowa jest 
+
+[Arevon]
+O kurwa, ta chmurka jest ostra. 
+
+[Dungeon Master]
+ale ogniem i kwasem najwyraźniej też pluje no dobra, lewia tam lewia ma mocny atak 250 feet long i 120 feetów od siebie o kurwa czekaj, czekaj muszę narysować, kto ma was w zasięgu kto może mieć was w zasięgu ktoś jeszcze ale to Tidal wave 
+
+[Arevon]
+Policja mnie jest. Nie wiem, co ty robisz. 
+
+[Dungeon Master]
+250 feet tall Tak Więc ta wysokość to może nam nie pomóc No w ogóle narysujmy sobie to 50 feet wide Ko 5 Direction What Direction Nie, coś mi się nie zgadza. Distance width 50, 250. O! Teraz się zgadza. To jest coś, co brzydko rysuję. Jeszcze raz. Nie wiem. Też. Jeszcze raz. Distance 250, szerokość 50. O! Teraz to ładniej wygląda. Właśnie coś się zbugowało mi. 
+
+[Arevon]
+Sajdon jest idealnie na środku. 
+
+[Orion]
+w tym przypadku smog obrywa czy ja też obrywam, jak takim tajdalem mi tutaj ja 
+
+[CZAT 01:58:07] Leviathan: Tidal Wave Feature The leviathan magically creates a wave of water that extends from a point it can see within 120 feet of itself. The wave is up to 250 feet long, up to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a DC 24 Strength saving throw. On a failed save, a creature takes 45 ( 7d12 bludgeoning ) damage and is knocked Prone . On a successful save, a creature t…
+
+
+[Dungeon Master]
+Kolos na pewno. Klencian jest powiedzmy, że chroniony w tym kolesie. Kolos jest OP. 
+
+[CZAT 01:58:38] Orion Xul (rzut): Strength Save (+11) 15 1d20 + 11 1d20 4 | rzuty: = 15, 1d20 + 11, 1d20
+
+
+[Dungeon Master]
+Strength saving throw. Nie no, reszty też. 
+
+[Orion]
+chyba użyję przerzucam te piętnastkę, nie podoba mi się to 
+
+[Dungeon Master]
+No kurwa, siedzi na smoku. Masz, masz, ruszę ci troszeczkę. Zaraz ci angle zmienię, direction, czekaj, 37 stopni. Nie, w drugą stronę. 32. Proszę bardzo. Czy pan Arewon jest zadowolony, Kentos? 
+
+[CZAT 01:59:17] Orion Xul: Indomitable action Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level.
+
+
+[CZAT 01:59:18] Orestes: 28
+
+
+[Dungeon Master]
+Czekaj, myślisz o piksele. 
+
+[CZAT 01:59:27] Orestes (rzut): Strength (+6) 23 1d20 + 6 1d20 17 13 1d20 + 6 1d20 7 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20
+
+
+[CZAT 01:59:34] Orion Xul (rzut): Strength Save (+11) 30 1d20 + 11 1d20 19 | rzuty: = 30, 1d20 + 11, 1d20
+
+
+[CZAT 02:00:26] Orion Xul: 11
+
+
+[Orion]
+ja użyłem przerzuciłem sobie, jest trzydziestka a smog jedenaście wyrzucił A redukuje to? To jest... Czyli 17, tak? Tak, tak, tak. 
+
+[Dungeon Master]
+I 70 dmg, nie 70, 40, sorry mój błąd, coś mi pojebało się, wcześniej było 80 gdzieś, a nie wiem skąd mi się widziało, nieważne Follow Klonica nie dostał, ale czy się dobrze utrzymał w przewróconym kolesie to już taka inna sprawa trochę, nie wiem 
+
+[CZAT 02:02:32] Felicjan Janus Twardowski (rzut): Dexterity Save (+2) 13 1d20 + 2 1d20 11 | rzuty: = 13, 1d20 + 2, 1d20
+
+
+[CZAT 02:02:40] Felicjan Janus Twardowski: 2
+
+
+[VISUAL 02:02:48] Na mapie przedstawiającej scenę „The God of Storms” widać Sydona, Władcę Burz, otoczonego aurą ognia w deszczowej scenerii. Obok jego tokena znajdują się znaczniki wskazujące na trwającą walkę, a panel „Encounter Tracker” potwierdza obecność wielu uczestników starcia, w tym Nephele, Arevona Elorrenthi, Orestesa, Oriona Xula oraz Felicjana Janusa Twardowskiego. Czat oraz śledzenie starcia wskazują na aktywną wymianę ciosów, w tym rzut na zaklęcie „Tidal Wave”.
+
+
+[CZAT 02:02:50] karpiq: 12
+
+
+[CZAT 02:03:11] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 22 1d20 + 8 1d20 14 | rzuty: = 22, 1d20 + 8, 1d20
+
+
+[CZAT 02:03:54] Felicjan Janus Twardowski: DC 20 Concentration Concentration
+
+
+[Dungeon Master]
+Z dziesięcia smog dwadzieścia. No. To porządna obszarówka. On se jeszcze podpłynie trochę bliżej. Tch. No, Erebon. Dex save. 
+
+[CZAT 02:05:20] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 27 6d8 6 2 5 7 1 6 27 | rzuty: = 27, 6d8
+
+
+[Dungeon Master]
+A, wyrzuciłem ze złego miejsca, więc bonus może być zły. Jest zły bonus. Dex akurat... Dex ma 14. To mu wyszło, więc 13. A, chmurka też jeszcze. Sure. Dex save. Chmurka pełna, side'em połowa. 
+
+[CZAT 02:06:19] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+
+
+[Arevon]
+Zostaje dziewięć, pierdolę, dziewięć, a jest, nie, plus siedemnaście zrobię. 
+
+[CZAT 02:07:42] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 22, 1d20 + 14
+
+
+[Arevon]
+Było zdecydowanie standardem. 
+
+[CZAT 02:08:05] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 40 26 + 14
+
+
+[Arevon]
+Ostatnio już byłem trzydzieści osiem razy chyba. Jaki duży kołn jest tego feature'a? Nie sięgniesz dwóch, nie? 
+
+[Orestes]
+Ała, ała, ała. Kon, czyli plus osiem, dobra. 
+
+[CZAT 02:08:43] Sybolkorax: 28
+
+
+[Orestes]
+I don't think so. No. To ja jestem greedy. Wyciągam mój emanujący radością życia topór i jedziemy. 
+
+[CZAT 02:09:13] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 19 16 + 3
+
+
+[Orestes]
+Ajajaj. Ja? Tym? Moim? 
+
+[Arevon]
+Pewnie nie sięgniesz obu. 
+
+[Orestes]
+Już mówię ci. Momencik. Tak, trzydzieści fitów. No nie, nie, nie. Niestety. 
+
+[CZAT 02:09:57] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 25 14 + 11
+
+
+[Arevon]
+Trafiłeś. Dwadzieścia osiem czterdzieści cztery. 
+
+[CZAT 02:10:59] Sydon, Lord of All (rzut): Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 18, 4d8
+
+
+[CZAT 02:11:14] Orestes (rzut): Dexterity (+2) 11 1d20 + 2 1d20 9 12 1d20 + 2 1d20 10 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[Dungeon Master]
+To teraz burzowa chmurka, teraz nie pada deszczem, zamiast tego zaczyna walić pierunami. Jaki to ma zasięg? 60 fitów. O, prawo na starcz, Jarkę rani. Tę wersję rozstarczy, do Restesa nie starczy. Bez ruchu. A nie, czekaj, miałem zwycięstwo zaznaczone. Do wszystkich trafi, starczy. A, Fjörr. Jeden piorun w Ark... A nie, to jest kurwa piorun, ja to leczę. Smoki. A, to jest wybór. On może zrobić Acid, Cold, Fire, Lightning or Thunder. Thunder zdecydowanie pasuje. Zdecydowanie to jest Thunder. Pierwszy Thunder w Ark Runie. 
+
+[CZAT 02:12:48] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+
+
+[Dungeon Master]
+To jest chyba hit. 
+
+[VISUAL 02:12:56] Na mapie przedstawiającej pokład okrętu *Ultros* podczas sztormu trwa starcie z potężnym żywiołakiem o nazwie Primordial Surge. W pobliżu widać postacie takie jak Arevon Elorrenthi, Orestes, Orion Xul, Versir oraz Felicjan Janus Twardowski, którzy mierzą się z zagrożeniem. Okno interfejsu po lewej stronie wyświetla statystyki i umiejętności przeciwnika, w tym ataki typu Elemental Strike, podczas gdy panel po prawej stronie śledzi inicjatywę oraz historię ostatnich działań w walce.
+
+
+[Dungeon Master]
+Fjörr? Pewnie dobrze. 
+
+[CZAT 02:13:05] Arevon Elorrenthi: Shield 1st Level Abjuration Casting Time 1 reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell Duration 1 round Components V, S Range Self An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 1d20+5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
+
+
+[Dungeon Master]
+Drugi idzie bezpośrednio w Versiera. To jest miss. 
+
+[CZAT 02:13:12] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+
+
+[Versir]
+To jest mistrz. On ma disadvantage w ogóle we mnie. Zawsze. Forever. 
+
+[CZAT 02:13:35] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+
+
+[Dungeon Master]
+Tak. Fajaj bardzo. Ale tak, u mnie też. Dobra, Sidon strzela kataklizmik boltem. W kogo by strzelił? On pamięta, to to wersja odprydolił ostatnio wersję, raz strzeli. 
+
+[CZAT 02:14:38] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 16, 1d20 + 14
+
+
+[Dungeon Master]
+Fior. Orion. 
+
+[Versir]
+No w sumie ten Elemental Strike Sybul Coraxa też chyba powinien być disadvantage. 
+
+[Dungeon Master]
+A, no tak. 
+
+[Orion]
+Zrobimy to odnowienie. 
+
+[CZAT 02:14:50] Orion Xul: 4
+
+
+[Orion]
+Tery odnowia. 
+
+[Dungeon Master]
+5 i 6 chyba, albo sama 6? Na tym smoku, nie pamiętam. 
+
+[CZAT 02:15:11] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 24, 1d20 + 12, 1d20
+
+
+[CZAT 02:15:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 14 + 5
+
+
+[Versir]
+To my Metrostructure użyliśmy. 
+
+[Dungeon Master]
+Okej. Rekin pierwszy atak. Wszedł. Rekin jest twardy. 
+
+[CZAT 02:15:37] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20
+
+
+[CZAT 02:15:41] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 17 + 5
+
+
+[Dungeon Master]
+Zaraz będzie jakaś komboą, bo pewnie beacon of hope. A, uuuu. Niedobrze. 
+
+[CZAT 02:15:55] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 15, 1d20 + 12, 1d20
+
+
+[Dungeon Master]
+Okej, atak. Jest szansa na 15, też go trafię. Nawet bez blesa. 
+
+[CZAT 02:16:03] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 13 + 8
+
+
+[Dungeon Master]
+I to jest 21. Został mu 1 HP. Ale masz 
+
+[Versir]
+Wow. 
+
+[Dungeon Master]
+bląsową akcję jeszcze. 
+
+[Versir]
+Czy możemy... Jak długa jest ta chmurka? 
+
+[CZAT 02:16:22] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 22, 1d20 + 12, 1d20
+
+
+[CZAT 02:16:24] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 13, 1d4 + 9
+
+
+[Dungeon Master]
+I to jest rip. To był ostatni rekin chyba? 
+
+[Orion]
+I wydaje mi się, że ma wysokie te fale, tak? 
+
+[Dungeon Master]
+Całe tylko big boje. 
+
+[Orion]
+Więc już... Czyli co, mówisz po prostu, że pionowo do góry, tak? Dobra. Kurwa, z tym Pitagorazem. Mówisz 60? Dobra. Coś takiego. Tyle. tylko to mi zostało 54 
+
+[CZAT 02:18:07] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 27, 1d20 + 14
+
+
+[CZAT 02:18:17] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 23 7d6 2 4 3 6 1 4 3 23 | rzuty: = 23, 7d6
+
+
+[Versir]
+Nie, jak długa jest ta Metrostructure? A, no to jest krótka. Możemy ją w ogóle dla heala użyć po prostu. To Smoky też healuje? Czy nie? A, to jeden target. Orestes, to jest tylko jeden od Ciebie? 
+
+[Arevon]
+To by ja źle złapał, jak to żyjesz. Nie wiem, to Wersir czy Orestes, który z was dostaje heal'a, to sobie wybierzcie. A Chmurka rzuca Dexterity Saving Throw. I ja nie rzucam damage'a, bo ja nie umiem. Rzuć ktoś 8d6. Nie, nie, 20hp'ka dostaniesz. Oczywiście, że jej kurwa wyszło 1hp. Rzuć ktoś 8d6, bo kto umie rzucać kosko? 
+
+[CZAT 02:20:26] Versir: 26
+
+
+[Orestes]
+To byłem ja. Miałem chyba 20hp. 
+
+[Arevon]
+Miał być ktoś, kto umie rzucać kosko. Czyli dostaję 6 damage'a. 
+
+[Versir]
+Naprawdę? Napierdal To jak ten twój statek wygląda? 
+
+[CZAT 02:22:01] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14
+
+
+[CZAT 02:22:10] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 20 7d6 4 2 3 4 3 3 1 20 | rzuty: = 20, 7d6
+
+
+[CZAT 02:22:38] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14
+
+
+[VISUAL 02:23:05] Na mapie przedstawiającej Morze Otchłani toczy się walka na pokładzie statku Ultros, nad którym góruje postać Sydona. Na pokładzie znajdują się tokeny postaci: Arevon Elorrenthi, Orestes, Orion Xul, Felicjan Janus Twardowski, Versir oraz Klonicjan. Okręt jest otoczony aurą przypominającą morską falę lub macki, a w śledzeniu tury uczestniczą także Nephele oraz Sydon.
+
+
+[Versir]
+Po tych wszystkich... Obok przeszło? No miało mało 
+
+[Felicjan]
+No to jazda, chyba że rzuci czwórkę. I dwójkę, ja pierdolę. Też trafia, na jeden cel tylko jeden nie trafiał, a tak miał on, no bardzo dobrze. 
+
+[CZAT 02:24:00] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Versir]
+Ona była badly injured Powodzenia w chmurku 
+
+[Dungeon Master]
+Guzika play odejmuje Seydonowi zawsze, nie wiem czemu. Lewiatronu werwał dużo. 
+
+[Felicjan]
+She's injured, okej, okej. Klonisja na koniec, a gdzie... Ile mamy longrestów? Mamy dwa longresty. 
+
+[Dungeon Master]
+Kurwa, no to został zbadli. Klonicjana koniec chyba? 
+
+[Versir]
+Ten long red miał być chyba dla flanky No 
+
+[Dungeon Master]
+Macie Miracle Pointów 
+
+[Versir]
+Oh fuck 
+
+[Dungeon Master]
+9, czyli 2 long resty 
+
+[Versir]
+Byłem przekonany, że mamy jednego 
+
+[Dungeon Master]
+potencjalnie. Dobra, ale 
+
+[Versir]
+Kurwa, to ja już poprzedniej powinienem robić Ja dzisiaj zrobiłem w rundzie Smok ma swinging speeda 
+
+[Dungeon Master]
+przed Rundów Felicjana po Rundzie Klonicjana Seydon użyje legendarnej akcji. A użyje tego drugiego jeszcze. Teraz ma jakieś ciekawe przytargety. Zbiera 3 targety. Jeden walnie w Kolosa, bo czemu nie? Czy Kolosa obrywa Lightning? Obrywa, dobra. Jeden Kolos, drugi Nefele, a trzeci Wersir, bo nie siedzi na elektrycznym 120. Więc Kolos i Cashew Wersir to jest to jest Dex Save. 
+
+[CZAT 02:27:24] Versir (rzut): Dexterity Save (+5) 23 1d20 + 5 18 18 | rzuty: = 23, 1d20 + 5
+
+
+[CZAT 02:27:30] Versir: 2
+
+
+[Dungeon Master]
+DC jest 23. Masz Blesa, więc... A, Kolos nie ma Blesa. Okej, no ale to 
+
+[CZAT 02:27:44] Sydon, Lord of All (rzut): Lightning Storm (Costs 2 Actions) (3d10) 23 3d10 10 9 4 23 | rzuty: = 23, 3d10
+
+
+[CZAT 02:28:05] Versir: DC 10 Concentration Concentration
+
+
+[Versir]
+No to musi epicznie wyglądać. Ja też przypomnę, bo na pewno wszyscy zapomnieli, że Sidon ma jakąś aurę anty-heala koło siebie. 
+
+[Dungeon Master]
+Okej. Zdecydowanie nie ma flying speeda. 
+
+[Felicjan]
+A czemu nie mogę tego pingować? 
+
+[Dungeon Master]
+No to nie. Weź z Pinguin ten czar jeszcze. No wiem, wiem, ale prosimy EA, żeby wygenerował obrazek. 
+
+[Felicjan]
+Uciekaj. Bo nie mam przygotowanego. Wiesz, że ze zwojem rzucam do tego. 
+
+[Dungeon Master]
+Albo filmik. To może być dobry na krótki filmik. Nie działa? Dobra, sobie mogę znaleźć. 
+
+[Felicjan]
+Właśnie nie widzę teraz. Tak. 
+
+[Dungeon Master]
+Dobra. Też zwykle guzik jest. 
+
+[Felicjan]
+100 fitów minus 20 fitów wody. 
+
+[Dungeon Master]
+Okej, leci z tafiką do góry, mógłby zrobić dekstaila jakby się miał czego złapać. Ale nie ma jeszcze czego załapać, więc po prostu leci do góry. 
+
+[Felicjan]
+Nie wiem, jak głęboko jest. 
+
+[Dungeon Master]
+Sure, to. 
+
+[Felicjan]
+Tylko właśnie liczę na to, że nie będzie miał więcej wpadów. 
+
+[Dungeon Master]
+Ziemek nie ma ataków dystansowych. Nie wiem, czy nie zapomniałem o niej już raz. 
+
+[Felicjan]
+Albo, że nie będzie mógł rzucić tidal wave do tego, że nie będzie mógł rzucić 
+
+[Versir]
+Nice. Tak jest. W tym razie Tromba robi dash action. 
+
+[Dungeon Master]
+I byłeś blisko Sidona, nie? W sensie to... castują, no trudno. Najwyraźniej aura działa tylko jak Sidon zwraca uwagę. Versiero. 
+
+[Orestes]
+Równo 80 feetów. 
+
+[Dungeon Master]
+No dobra. Coś jeszcze Felicjan robi? Potem Kolos wejdzie w Reverse Gravity, żeby bić się w powietrzu? 
+
+[Felicjan]
+Nie, nie robię nic inwestycyjnego. 
+
+[CZAT 02:32:58] Versir: Applied conditions: &Reference[transformed]
+
+
+[Felicjan]
+Właśnie, no może, tak? Klonisa rzuci Feather Fola. 
+
+[VISUAL 02:33:15] Na mapie przedstawiającej Morze Otchłani toczy się starcie z potężną istotą wodną, oznaczoną jako Leviathan. Na ekranie widoczne są tokeny postaci, w tym Versir, Arevon Elorrenthi, Orestes, Orion Xul, Klonicjan oraz Felicjan Janus Twardowski. W centralnej części pola walki znajduje się efekt świetlny otaczający jedną z postaci, a otwarte okno mechaniczne wyświetla szczegółowe statystyki Lewiatana.
+
+
+[Versir]
+O tak. 
+
+[CZAT 02:33:40] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 28, 1d20 + 14
+
+
+[CZAT 02:33:44] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 19 7d6 3 1 3 5 2 3 2 19 | rzuty: = 19, 7d6
+
+
+[Versir]
+W tym razie trąba robi dash action. O tak. 
+
+[Arevon]
+Czas na wsparcie graja nowego. 
+
+[Versir]
+Czas na scorching ray na piątym poziomie. 
+
+[Arevon]
+O pierdole. 
+
+[Versir]
+Powtarzamy play pattern z tamtej rundy. To jest sześć ataków. 
+
+[Arevon]
+Uff, uff, co to za role? 
+
+[CZAT 02:35:05] Versir: 24
+
+
+[CZAT 02:35:06] Versir: 18
+
+
+[CZAT 02:35:07] Versir: 27
+
+
+[CZAT 02:35:08] Versir: 16
+
+
+[CZAT 02:35:08] Versir: 14
+
+
+[CZAT 02:35:09] Versir: 27
+
+
+[Arevon]
+18 może trafić. 
+
+[Versir]
+Ta osiemnastka ma szansę? 
+
+[Arevon]
+Tak. 4. Plus 11 pomaga. 
+
+[CZAT 02:35:23] Versir: 4
+
+
+[Versir]
+To jest scorching ray damage. 
+
+[Arevon]
+Uuu, role były tragiczne. Ty ty ty kurwa... 
+
+[CZAT 02:35:40] Versir: 72
+
+
+[Dungeon Master]
+Tyle kostek, że mnie zasłaniają. 
+
+[Versir]
+To teraz akcje, bo to był quicken by the way. 
+
+[Dungeon Master]
+Czad. Nie widzę damage'a. 
+
+[Arevon]
+Na blesu użyłeś, nie? 
+
+[Dungeon Master]
+Eee, siedemdziesiąt dwa. O, bywało więcej. 
+
+[Versir]
+To ja uznaje favor by the gods. What the fuck? 
+
+[CZAT 02:36:04] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 18, 1d20 + 11
+
+
+[CZAT 02:36:07] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 15, 1d20 + 11
+
+
+[Dungeon Master]
+Weekend oczywiście, o. Zobaczymy, czy Blast cię ratuje. Sion bardzo by chciał Rigena mieć aktywnego dalej. 
+
+[CZAT 02:36:19] Versir: 1
+
+
+[Dungeon Master]
+Oczywiście, że użyjesz. 
+
+[CZAT 02:36:28] Versir: 2
+
+
+[Versir]
+What the fuck? To jest nie tak! 
+
+[Dungeon Master]
+Osiemnaście plus trzy. Trochę mało dalej. Użył. 
+
+[Arevon]
+I z blesu nie trafił? 
+
+[Dungeon Master]
+Hahaha. 
+
+[Arevon]
+Ja pierdole. 
+
+[Dungeon Master]
+Trzy do cztery, trzy jedynki. 
+
+[Arevon]
+Czy ja jestem w zasięgu? Bo ja muszę w pracy coś pliknąć. 
+
+[Dungeon Master]
+Dwadzieścia jeden, to jest mistrz. 
+
+[Versir]
+Oh my fucking god. Fuck me. 
+
+[Arevon]
+Kurwa. Nie wierzę. 
+
+[Versir]
+A ja jeszcze... 
+
+[Arevon]
+Ale i tak złożyłem reakcję, więc... 
+
+[Versir]
+No tak, dostaję jeszcze 5 radiant, jak scorching rayem go trafiłem i 5 radiant na koniec mojej rundy. Samo to, że go trafiłem z Corchin Crayem 
+
+[Arevon]
+O pierdole. Tak. 
+
+[Dungeon Master]
+o, co to było 
+
+[CZAT 02:37:59] Trąba: Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.
+
+
+[Versir]
+To już aktywowało moją aurę, więc on nie będzie mógł się kinać Chyba nie, że się nie trafią 
+
+[Arevon]
+Czy on się teleportuje jako legendary? 
+
+[Dungeon Master]
+a, 20 20 tak 
+
+[Arevon]
+Jakby chciał cię zjeść. 
+
+[Dungeon Master]
+w sensie to nie jest teleport, to jest taki movement, fikuśnie wiatr wieje i go przesuwa i już 40 idealnie ląduje tak trochę przed Felicianem patrzy prosto na ciebie 
+
+[Felicjan]
+Przytelnie trochę. Cześć. 
+
+[Dungeon Master]
+ale Nefele 
+
+[Arevon]
+Się patrzy, otwiera. No szale teraz. 
+
+[Dungeon Master]
+tak, to Nefele sezjonie skoro znowu odnowiła 
+
+[CZAT 02:39:00] Nephele: Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone
+
+
+[Arevon]
+Tylko chory trochę. Jest chory trochę. 
+
+[Felicjan]
+Ja pamiętam, w tamtej sesji pytałem, czy się pytałem o Mirror Image i Smoka. Bo wiesz, działa Smoka. Czy ja to rzuciłem? Kurwa, nie pamiętam teraz. 
+
+[Dungeon Master]
+Ja już Ci mówię, Maciek, czy rzuciłeś mirror image, żeby kontrolować, gdzie ja mam pliki. Tak, kandydates, sesja, sesja siedemdziesiąta dziewiąta, chat log. Kontrol F, mirror, na czacie było mirror image. Felicjan wysłał mirror image o godzinie siedem... Nie, to jest strefa zła. To nie było 17.05, więc nie wiem w sumie. 
+
+[Arevon]
+Drip? 
+
+[CZAT 02:41:50] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 34 23 + 11
+
+
+[Arevon]
+Tak, co ja. 
+
+[Dungeon Master]
+Tak, tylko wyskakuje w górę, trochę opada, lewituje 30 metrów nad powierzchnią wody. Okej, rebun. No ładnie lewitarnę wyłączyłeś. Bardzo niestandardowy sposób. I już nie śpi. W sensie nie ty, ale nie śpi. Ale zaraz. Work a deck save. Ale, cały damage wchodzi. Tak, chyba. 
+
+[Arevon]
+Mam głupi plan, ale to mi kanon racja wyłączy, więc tego nie zrobię. 
+
+[VISUAL 02:43:24] Akcja sesji toczy się na pokładzie statku Ultros, znajdującego się w trakcie starcia na Morzu Otchłani. Wśród obecnych na mapie postaci widoczni są Sydon, Władca Burz, oraz towarzyszący mu bohaterowie, w tym Arevon Elorrenthi, Orion Xul, Orestes, Felicjan Janus Twardowski, Klonicjan oraz Versir. Interfejs z boku ekranu dokumentuje przebieg walki, w tym użycie przez Nephele ataku Cold Breath oraz działanie Glewii Sydona.
+
+
+[Arevon]
+Nie, żelona chmurka, no chuj chmurce w dupa. Chmurka tak sobie 
+
+[CZAT 02:43:37] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 23 6d8 5 1 7 5 4 1 23 | rzuty: = 23, 6d8
+
+
+[Arevon]
+wsiardowała tam jeszcze, proszę. Dodawałeś chmurce? Jesteś pewien, że nie dodałeś sobie do nowej? Okej. Okej. Dobra, a akcja? A, ja nie wrzuciłem tego. Easy peść. Ale żelienie się w chmurkę nie ma sensu, bo... Małdy mecz roli. Chociaż... Do Orestesa nie dolecę niestety, żeby się... Chociaż... Orestes, jak daleko jesteś od Stejdona? Jesteś zmocowany, jeśli mówisz. 
+
+[Orestes]
+Tylko to musiałbym trochę w dół zlecić, więc mi bezdasza zabraknie. Nad nim pokazuje 90. 
+
+[Arevon]
+Nie, nie, to jak... Jak klikniesz i pokazuje ci nad nim, to to tyle jest. 
+
+[Orestes]
+A ja mam 80 flying speeda jako smok. Mi pokazuje 90. 
+
+[Arevon]
+Ale on jest duży. A to chyba nie za daleko nie sięgasz. Nie rozumiem. 
+
+[Orestes]
+Dobra, skoro nie dolecę... 
+
+[Arevon]
+Chyba nic lepszego do robienia nie wzięła nawet chmurka, więc 10 do 10 zmeżę, to jest do typu... 
+
+[CZAT 02:46:00] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+
+
+[Arevon]
+Naprawdę, znowu jej... Ja pierdolę. Byłoby ładne, jakby jej kurwa nie wyszło na zionięcie znowu. Na mój atak, co nie robi demedżu, jej nie wychodzi, a na ten, który ma prawie to samo DC, jej zawsze wychodzi. No po prostu... Co za biacz. 
+
+[Dungeon Master]
+Jestem zadowolony z tej chmurki. Dla Vietana trochę mniej teraz. Zarabia Rewon zresztą rundę. Jak skończyłeś, to się zbliża runda Orestesa. Jeden jeszcze ma legendarną akcję, ale się jeszcze wstrzyma. 
+
+[Orestes]
+Najpierw to na odnowienie... Aha, nie odnowiłem. 
+
+[Dungeon Master]
+Możesz atakować smokiem po prostu. 
+
+[CZAT 02:47:29] Orestes: 1
+
+
+[Dungeon Master]
+Bicie chmurki fizycznie się magiczną bronią da. Trochę dziwnie nauczycie bić chmurkę, ale czujesz, że to coś robi. Jesteś zakładany, że trafisz. 
+
+[CZAT 02:48:28] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 20 10 + 10
+
+
+[Arevon]
+Z 19. Bez krytykowym mastera. Grid się skończył. O, grid się włączył z kwaratem. Okej. 
+
+[CZAT 02:48:58] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 30 20 + 10
+
+
+[Arevon]
+To na pewno trafia. 38. Okej. Po dalszej rzeczy być bliżej stylu na następny. No, tu bym odstanął się jak tutaj, no. Teografia. 
+
+[Orestes]
+Ale to podlecę sobie, żeby być z tej strony po prostu. Nieee. Dobra, kończę. Kończę w tej linii. 
+
+[Dungeon Master]
+może jeszcze nie użyję, nie, jeszcze nie użyję ale chmurka to to będzie używać czy chcę chmurka, a, no, że padanie deszczem to musi rzucić, czy się odnowi to rzuciła wcześniej nie, bo ja nie dałem tego ręcznie nie mam nowego padania deszczem, więc 
+
+[CZAT 02:50:26] Primordial Surge: 3
+
+
+[Dungeon Master]
+poproszę wczala piorunami thunderowymi piorunami, oczywiście żeby nie było no to jeden w Arewona drugi w 
+
+[CZAT 02:50:39] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+
+
+[CZAT 02:50:41] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+
+
+[Dungeon Master]
+Orestesa a trzeci w Versira 
+
+[CZAT 02:50:45] Primordial Surge (rzut): Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…
+
+
+[Dungeon Master]
+Najbliższe targety, chmurka nie wybrzydza. Dobra, czyli Arevon 24 to trafia, raczej. Drugi był w Orestesa 16, chyba nie trafia. I 29 Versira to raczej trafia. 
+
+[Arevon]
+Zadanie trafia. Ja pierdolę. 
+
+[Orestes]
+Chyba. 17? Nie śpię. 
+
+[Dungeon Master]
+Pierwsza jest Arevona, w sensie Smoka Arevona. 
+
+[Versir]
+Ja będę absorbał 
+
+[Dungeon Master]
+Arc runie, 30 damage'a. Drugi jest Versira damage. 
+
+[CZAT 02:51:18] Arevon Elorrenthi: Absorb Elements 1st Level Abjuration Casting Time 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage Duration 1 round Components S Range Self The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first …
+
+
+[Dungeon Master]
+Był też porządny. 32 Versir. 
+
+[Versir]
+Na drugim levelu Chyba jakąś linię ma 
+
+[CZAT 02:51:43] Versir: DC 10 Concentration Concentration
+
+
+[Orion]
+zrobię tak i będę po prostu próbował przebić się tylko trzeba trafić 
+
+[CZAT 02:52:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 15, 1d20 + 12, 1d20
+
+
+[Orion]
+no tak i nie muszę 
+
+[CZAT 02:52:27] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20
+
+
+[CZAT 02:52:34] Raspytrion: 4
+
+
+[Dungeon Master]
+14 wobec Lightning, uf uf uf, Blesz, ale Blesz robi robotę, 11. 
+
+[CZAT 02:52:38] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 20 14 + 6
+
+
+[CZAT 02:52:49] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 13, 1d20 + 12, 1d20
+
+
+[CZAT 02:52:58] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 20, 1d20 + 12, 1d20
+
+
+[CZAT 02:53:07] Raspytrion: 4
+
+
+[CZAT 02:53:12] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 11, 1d4 + 9
+
+
+[Dungeon Master]
+No Lightning nie działa na niego tak, to prawda. 
+
+[Orion]
+nie muszę dużo zaślepić bo on jest imion dobra i teraz uciekam poruszyłem się 50 to jeszcze ale zaatakowałem go więc mogę użyć 
+
+[VISUAL 02:53:33] Mapa przedstawia walkę na statku Ultros, który znajduje się na wzburzonym Morzu Otchłani. W starciu biorą udział postacie graczy, m.in. Orion Xul, Felicjan Janus Twardowski, Arevon Elorrenthi, Orestes oraz Versir, którzy mierzą się z potężnym Sydonem. W tle widoczna jest ogromna twarz Sydona, a panel "Encounter Tracker" wskazuje trwającą walkę w 6. rundzie.
+
+
+[Dungeon Master]
+Okej, to po twojej rundzie Sidon używa legendarnej akcji, żeby się stepić tutaj. Tak, no zobaczymy jeszcze, no coś takiego pewnie. I teraz jest Metros Action. 
+
+[Versir]
+Może powinniśmy sobie advantage na save'y dać Nie wrzucę kondycji prawie w ogóle, tylko stanę z gleby 
+
+[Arevon]
+Aczkolwiek to ściąga kondycję, to żal stracić. Czekajmy, aż kondycje będą. 
+
+[Versir]
+Od tego już nie użyliśmy? 
+
+[Arevon]
+Astana tam nie będą jeszcze. No ale Restraina też wrzucą, więc... 
+
+[Dungeon Master]
+Tu całą... 
+
+[Orion]
+Jeszcze może rzucę na odnowieniu, tak? Spoko. 
+
+[CZAT 02:54:33] Raspytrion: 6
+
+
+[Orion]
+No dobra. 
+
+[Dungeon Master]
+O, OK. Taką się akcję używacie, czy nie? 
+
+[Arevon]
+Diving Gryffons na trzy targety. Mamy trzy targety. Nie, Gryffów nie. 
+
+[Versir]
+Nice. 
+
+[Dungeon Master]
+Nie było gryfów, nie kojarzę. 
+
+[Arevon]
+Mamy trzy targety, wybieramy wszystkie trzy targety. 
+
+[Dungeon Master]
+Pides powalnia i nie mają reakcji. 
+
+[Arevon]
+Niech trafi. Plus dziesięć. Dzień dobry. Ja mogę za te obrady kończyć. 
+
+[Dungeon Master]
+Kolejność, tylko powiedz, co jest na co. 
+
+[Arevon]
+Na chmurkę. 
+
+[CZAT 02:55:15] Arevon Elorrenthi: 12
+
+
+[Arevon]
+Ja pierdolę. Ja staję doma. 
+
+[CZAT 02:55:21] Arevon Elorrenthi: 24
+
+
+[Versir]
+Idon nie ma raktor, ale zaraz jego runda. 
+
+[CZAT 02:55:25] Arevon Elorrenthi: 11
+
+
+[Dungeon Master]
+Uuu. A, Sidon dostał przynajmniej. To prawda. Sidon ma reakcję. Damage. 
+
+[CZAT 02:55:42] Arevon Elorrenthi: 27
+
+
+[Dungeon Master]
+I... Najgorsze. No, nie takim zajeściu. 
+
+[Versir]
+Jak to wysoko... A, 40 hitów jest. Co do zero dojdzie do meczu? 
+
+[CZAT 02:57:40] Versir (rzut): Strength Save (+9) 10 1d20 + 9 1 1 | rzuty: = 10, 1d20 + 9
+
+
+[Felicjan]
+To mi nie pomogło. Ja sam wyrzuciłem dwie. Dla Jonning. To Lewiatan chyba spada do wody. 
+
+[CZAT 02:57:58] Felicjan Janus Twardowski (rzut): Strength Save (-1) 0 1d20 - 1 1d20 1 8 1d20 - 1 1d20 9 | rzuty: 1d20 - 1, 1d20, 1d20 - 1, 1d20
+
+
+[CZAT 02:58:19] Sydon, Lord of All (rzut): Talon of the Storm (Cooldown 5-6) (10d8) 60 10d8 2 7 6 8 7 6 3 7 6 8 60 | rzuty: = 60, 10d8
+
+
+[Versir]
+To jest... 
+
+[Felicjan]
+Na 30 mam z Wlesem. Wlesem nie mam szans. Nie mam Warcostera. 
+
+[CZAT 02:58:48] Versir: DC 30 Concentration Concentration
+
+
+[Arevon]
+I ty nie miałeś Warcastera? 
+
+[CZAT 02:58:53] Versir (rzut): Constitution Save (+14) 33 1d20 + 14 19 19 | rzuty: = 33, 1d20 + 14
+
+
+[Arevon]
+Wiem. I ciągle nie pamiętam. 
+
+[Felicjan]
+Pytasz mnie piątą sesję z rzędu. Nie wyszło. Ja jeszcze nie wpisałem po kolei. Ile? 60. 
+
+[CZAT 02:59:02] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 15 1d20 + 8 1d20 7 | rzuty: = 15, 1d20 + 8, 1d20
+
+
+[Arevon]
+No dokładnie, bo każdy karakter musi mieć Warcastera, więc... To jest dziwne. To jak... 
+
+[Versir]
+Opinie Kena. A jak... Safe to połowa, tak? Powierzałem się. 
+
+[Felicjan]
+Jak ty wersji załóż tak mało życia? Przy long resta miałeś dopiero co. 
+
+[Arevon]
+To są 60! 
+
+[Felicjan]
+Też dostałem 60. 
+
+[Dungeon Master]
+miał 
+
+[Felicjan]
+On miał long resta dopiero co. 
+
+[Dungeon Master]
+no dobra, push 40 fitów jeszcze 
+
+[Arevon]
+A on dostaje czopa od wszystkiego, więc... 
+
+[Dungeon Master]
+więc ty smokowi odjąłeś też maciek? 
+
+[Felicjan]
+Tak, już odjąłem i nie mogę się ruszyć. 
+
+[Dungeon Master]
+ja cię ruszę 
+
+[Felicjan]
+Lewiatan spada ze stu fitów do wody. 
+
+[Dungeon Master]
+40 fitów to jest tutaj wersir 40 fitów sior, to nie dostaniesz 
+
+[Arevon]
+Wersja ląduje w wodzie. 
+
+[Dungeon Master]
+fall damage'a przynajmniej siu, lobem poleciał nad statkiem okej 
+
+[Versir]
+No masz Revivify'a. 
+
+[Felicjan]
+W przeciwieństwie do Wrocławskiego jest twarda. 
+
+[Dungeon Master]
+ufufu 
+
+[Arevon]
+10... do 6? No on jest też wodem stwory, więc... Ale jest za gigantyczny, więc nie wiem jak to działa. 
+
+[Dungeon Master]
+jest ładny 
+
+[Arevon]
+Było 0, to jest 0, więc... Najpierw zasłużyło, 
+
+[Felicjan]
+Gdzie on jest w ogóle? 
+
+[Arevon]
+ale do wersji raz strzelić nie mogę, bo statek go zaschłania. Zaschłania. Chuj się uderzył. Mój smog by nie przerzył tego, btw, więc... Cieszę się, że byłem z nami do jego. 
+
+[CZAT 03:02:10] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 30 22 + 8
+
+
+[Arevon]
+No... Byłaby sprawa. No... Ej! 
+
+[Felicjan]
+Sajdo jest na wodzie! 
+
+[Arevon]
+Sidon jest na wodzie! Chłopie! Boże... 
+
+[Felicjan]
+Kolos zrobił, przechylił się w stronę Lewiatana, ale odwrócił się na pięcie i idzie w drugą stronę. 
+
+[Arevon]
+Sidon zapłaci... Zapłaci za to, że chciał dobić Tefera. 
+
+[CZAT 03:03:06] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Arevon]
+Nie jest plus 22, jest plus 17. Trafiłeś około razu. 20... 81... Tak, tak, wal nogi. Apeki się nie regenerowały. 
+
+[VISUAL 03:03:43] Na mapie przedstawiającej starcie na pokładzie statku Ultros, postacie graczy walczą z Sydonem, Władcą Burz. Widoczne są tokeny między innymi Arevona Elorrenthi, Orestesa, Oriona Xula, Felicjana Janusa Twardowskiego, Versira oraz Klonicjana. Na ekranie otwarte jest okno statystyk potwora Leviathan, a po prawej stronie znajduje się tracker inicjatywy oraz logi ostatnich ataków wymierzonych w Sydona.
+
+
+[Arevon]
+Tak, on dostał z 800 damage już, więc... Naprawdę nienawidzi Lefele. Lefele strip. Nie, ale Hubert ma i weźmę. Aczkolwiek on musi rzucić wejście, żeby mu wyszło, więc... Był! Wszyscy mają blessa. Tromba też ma blessa. Tromba? Tromba nie żyje. 
+
+[CZAT 03:05:12] Sydon, Lord of All (rzut): Lightning Storm (Costs 2 Actions) (3d10) 18 3d10 3 6 9 18 | rzuty: = 18, 3d10
+
+
+[Arevon]
+No ale dostała 30 damage'u! 
+
+[CZAT 03:05:22] Hoooooooobert: 3
+
+
+[Arevon]
+Tromba nie żyje. 
+
+[CZAT 03:05:28] Trąba: 1
+
+
+[Dungeon Master]
+Eee, okej, to to była runda kliniczna i legendarna akcja. Eee, Neffel. Neffelę sobie przesunę trochę na bok, niech to dryfuje na plaży. I Felician. Ja wiem co Maciek kombinujesz. 
+
+[Arevon]
+Ona nie żyje. To jest grip. 
+
+[Versir]
+Musiałbyś mieć Spell of the Dying. 
+
+[Arevon]
+No to mnie nie zazwyczaj... No nie wiem, bo ciało nie żyje, więc... Nie wiem. To jest dyskusja na inny moment, teraz jest twoja kolejka. Ja też wiem, co on kombinuje, ale... 
+
+[Dungeon Master]
+O kurwa. 
+
+[Versir]
+To byłby taki spell, który... 
+
+[Arevon]
+Gentle repose. Nieważne, twoja kolejka. Kontynuuję. 
+
+[Versir]
+chroni ciało przed... Nice. 
+
+[Arevon]
+Sperm Detailing nie chroni ciała, Sperm Detailing stabilizuje. 
+
+[Versir]
+O Jezu, Bersir chyba jest all in. 
+
+[Dungeon Master]
+Necrotic damage, tu nie ma żadnego rezista. Okej. Dex save. 
+
+[CZAT 03:07:19] Felicjan Janus Twardowski (rzut): Disintegrate Legacy • 6th Level Transmutation (Cast at 6th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a lodestone and a pinch of dust) Range 60ft. A thin green ray springs… | rzuty: = 74, 10d6 + 40, 10d6
+
+
+[Felicjan]
+Nie wyszło, 74 Force Damage, przynajmniej na oł. 
+
+[Arevon]
+To jest fail. 
+
+[Dungeon Master]
+Zgadnij ile chmura miała HPK. Eee, nie no, miałem trochę mniej nawet. Sure! Felician latając, psnięty dopiero co przez wielki podmuch wiatru latając na Tysofale celuje w chmurę, rzuca dezintegrację i chmura zaczyna dezintegrować. I tu mam taki feature When the 
+
+[Felicjan]
+Ale czy to... z dezintegracją to nie tak, że umiera, umiera, tylko się dezintegruje wręcz. 
+
+[Dungeon Master]
+primordial surge dies się zaczyna. Chmura wybucha w sensie zostaje dezintegrowana ale po chwili zaczyna 
+
+[Felicjan]
+A to ileś trwa? Czy to jest jednorazowe? 
+
+[Dungeon Master]
+i w tym miejscu pełno jakiejś bujnej roślinności na dyskach pokładu wyrasta. I tu jest też ciekawy feature, sobie mogę... A, dobra, z Pinguiego, przeczytajcie sobie, bo końcówka 
+
+[CZAT 03:09:05] Primordial Surge: Life From Death Feature When the surge dies, it explodes in a burst of raw creation. The area in a 50-foot radius centered on the primordial surge is blanketed in lush flora native to the region, providing enough food to feed a dozen Large or smaller creatures for 6 ( 1d12 ) days. Creatures in the area that have been dead no longer than 1 day are returned to life with 4 ( 1d8 ) hp.
+
+
+[Dungeon Master]
+szczególnie jest ciekawa. Tylko, że zasięgu nic nie ma. Tak, ale jest 80 fitów w powietrzu. 
+
+[Felicjan]
+A to 50 full tyrannius, to Nephela leżała. 
+
+[Dungeon Master]
+Creatures in the area of heaven and death? No, nie 50, dużo dalej. 
+
+[Felicjan]
+Nie no, Nephela leżała tutaj. 
+
+[Dungeon Master]
+Ale chmura umarła 80 fitów w powietrzu. Więc niestety nie. Myślałem, że zwiększył... Tak To pojebany feature, ale nic nie zrobił No dobra, Felicjan Dezintegracja zadziałała, chmury nie ma Wyłączyłeś najpierw lewetan A co prawda lewetan wrócił do gry Teraz wyłączyłeś chmurę Ona do gry nie wróci Sajdona W sensie, teraz nie Bo ona jest przy ziemi prawie Wersir 
+
+[CZAT 03:10:32] Versir: Applied conditions: &Reference[transformed]
+
+
+[Dungeon Master]
+Tam znowu masz 
+
+[Versir]
+Quicken metamagic. 4th level. Trąba. Trąba numer 3. To jest Celestial Trąba. Trąba używa swojej bonus akcji, żeby mnie heal'nąć. 
+
+[Dungeon Master]
+Trąba numer 3 Bez trąby nie ma zabawy 
+
+[Arevon]
+Mieszka P.E.K.A. 
+
+[Dungeon Master]
+nice 
+
+[Versir]
+Trąba używa swojej akcji, żeby dashować. 
+
+[CZAT 03:11:17] Versir: 11
+
+
+[Versir]
+Znaczy ja wsiadam na Trąbę. I dashujemy do Sejdona. 
+
+[Arevon]
+O pierdolę, co za samobójca ja mam? Wiersir bardzo chcę nie założyć końca tej walki. 
+
+[Dungeon Master]
+najpierw z blessem to jest hit 
+
+[Versir]
+I atakujemy Sejdona z dwa razy miecza. To jest pierwszy heal, to jest drugi heal. 
+
+[CZAT 03:11:59] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 21, 1d20 + 11
+
+
+[Arevon]
+Kot po dwóch hitach. 
+
+[CZAT 03:12:01] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 30, 1d20 + 11
+
+
+[Dungeon Master]
+co to za smutny damage 
+
+[CZAT 03:12:12] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 13 7 + 6
+
+
+[Arevon]
+Co, co, co, co? Ile? Jezusku. 
+
+[Dungeon Master]
+13 plus 8 
+
+[Arevon]
+The fuck? 
+
+[CZAT 03:12:20] Versir: 8
+
+
+[Arevon]
+11. 
+
+[CZAT 03:12:24] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 22 13 + 9
+
+
+[Versir]
+Jest tyle Thunder Damage, jeżeli on dostaje Thunder Damage. 
+
+[Dungeon Master]
+to jest 21 i 22 plus 
+
+[CZAT 03:12:30] Versir: 11
+
+
+[Dungeon Master]
+no trochę lepiej 
+
+[Arevon]
+Kolos jest najbliżej? 
+
+[Dungeon Master]
+thunder damage chciałbyś mu zadać 
+
+[Versir]
+Na koniec mojej rundy dostaję jeszcze 10 Radiant Damage. 
+
+[Dungeon Master]
+już patrzy 
+
+[CZAT 03:12:41] Versir: 6
+
+
+[Dungeon Master]
+thunder on nie bra w ogóle sure 
+
+[Versir]
+5 dostaję w momencie trafienia i 5 na koniec mojej rundy. Hit? 
+
+[Dungeon Master]
+ok kraton fali nie odnowił niestety popatrzmy Zasięgi ataków całkiem duże To co? 
+
+[Arevon]
+Chyba Kolos jest najbliżej. 12 jest najbliżej. 
+
+[Dungeon Master]
+Jest najbliżej Ale czy Leweta chce kolos atakować? Chyba nie Tak, do piątku Teraz chyba do soboty nawet w naszej strefie, ale nie wiem, nie analizowałem On płynie sobie tu 
+
+[Arevon]
+GD to 100. 
+
+[Dungeon Master]
+wyskakuje z wody i atakuje 
+
+[VISUAL 03:13:51] Na mapie przedstawiającej starcie z Sydonem, Władcą Burz, widać tokeny Sydona oraz przywoływanego przez niego lewiatana. W otwartym oknie statystyk widoczne są szczegółowe dane jednostki Leviathan, a na panelu śledzenia walki zaznaczono trwającą siódmą rundę starcia. Czat po prawej stronie rejestruje zadawane obrażenia, w tym użycie broni Titansbane przez Versira oraz nieudany rzut na regenerację zdolności Tidal Wave u lewiatana.
+
+
+[Dungeon Master]
+swoim Richem20 w Resira 29. Chyba hit. 
+
+[CZAT 03:14:04] Leviathan (rzut): Slam Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 21 ( 2d12 + 8 bludgeoning ) damage plus 13 ( 2d12 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Profici…
+
+
+[Versir]
+Użyję trzeciolewlowego absorba na AC-tów. 
+
+[Dungeon Master]
+To jest 19 bladżoning, 16 acid. 7 bladapser. 
+
+[Versir]
+Ile było AC-tów? 
+
+[Dungeon Master]
+4. 16. 
+
+[Arevon]
+16. 27 dostajesz. 
+
+[Versir]
+A ile w Oblaczeniu? Powiedz mi, zgadza się. 
+
+[CZAT 03:14:50] Versir: DC 10 Concentration Concentration
+
+
+[Dungeon Master]
+19. Tak. 
+
+[CZAT 03:14:55] Versir: DC 10 Concentration Concentration
+
+
+[Dungeon Master]
+Okej. Ale to nie koniec, bo on jeszcze się zamachuje ogonem. Trąba czy wersir? Ach, rzucimy. 1 wersir, 2 trąba. 
+
+[CZAT 03:15:15] karpiq: 1
+
+
+[Dungeon Master]
+Wygląda jak. 1 wersira. 
+
+[CZAT 03:15:22] Leviathan (rzut): Tail Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19 ( 2d10 + 8 bludgeoning ) damage plus 10 ( 3d6 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Proficie…
+
+
+[Dungeon Master]
+I... 
+
+[Arevon]
+Wizz? 
+
+[CZAT 03:15:41] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 27 17 + 10
+
+
+[Versir]
+Hit? Nieprzytomne. 
+
+[CZAT 03:15:54] Versir: DC 10 Concentration Concentration
+
+
+[Versir]
+Tromba nie zniknęła. 
+
+[Arevon]
+Nie, trąba nie zlega. Magiczny czy dla? 
+
+[Versir]
+Jako, że resumonowałem trąbę, to chyba nie mam porządnego środka, jak daleko jest ta aura side'a. 
+
+[Dungeon Master]
+Siur 
+
+[Arevon]
+Traktuję. 
+
+[Dungeon Master]
+To Wersir wysuwa się z siodła I unosi się na powierzchnię wody Tutaj miejsce Oj, nie tak To miejsce zrobimy, żeby Wersira tam było lepiej widać Erebon Siur Idealnie Zgadza się 
+
+[Versir]
+Max jest twój str mod, więc nie wiem czy masz 22 stra? 
+
+[Dungeon Master]
+Dzieścia dziewięć 
+
+[CZAT 03:17:23] Arevon Elorrenthi: Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…
+
+
+[CZAT 03:17:31] Arevon Elorrenthi (rzut): Moon Sickle, +2 (d4) 1 1d4 1 1 | rzuty: = 1, 1d4
+
+
+[CZAT 03:17:40] Arevon Elorrenthi: Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…
+
+
+[CZAT 03:17:42] Arevon Elorrenthi (rzut): Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 7, 2d8
+
+
+[CZAT 03:17:50] Arevon Elorrenthi (rzut): Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 28, 8d4 + 6
+
+
+[Dungeon Master]
+Radiant 
+
+[CZAT 03:18:31] Arevon Elorrenthi (rzut): Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 23, 1d20 + 13
+
+
+[CZAT 03:18:36] Arevon Elorrenthi (rzut): Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 12, 3d8
+
+
+[Dungeon Master]
+Siur Po twojej rundzie On strzela wprost w ciebie boltem W sensie Smoka 
+
+[CZAT 03:18:57] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 17, 1d20 + 14
+
+
+[Orestes]
+Dobra. Lecimy, trzeba to kończyć. Do Saydona, hyc! To tak, żeby mi smutno tarczyło do niego. To jestem tutaj, ale tam... Nie, on ma 70, ja też mam 70. 
+
+[CZAT 03:20:11] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 15 12 + 3
+
+
+[Versir]
+To jest plus 6 max, czyli 10 więcej. 39 chyba. 
+
+[CZAT 03:21:09] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 19 11 + 8
+
+
+[Dungeon Master]
+Powiem wam, że Sidon na near-death miał więcej HP-ka niż na pełny miliwiaton. Dobra, drugi, a drugi też jest hit. Czyli to jest... 17... 28... 38! 
+
+[Versir]
+Na pewno 4 więcej niż pierwszy atak. To prawda. On nie dostaje. 
+
+[Dungeon Master]
+9? To mogłem źle policzyć. 
+
+[CZAT 03:22:02] Sybolkorax: 6
+
+
+[Dungeon Master]
+O, o, 10. Czy to koniec? Fuck. Sidon popełnił błąd, zabijając Huberta. Tak teraz patrząc na inicjatywę. Bo tak to mógł po Hubercie, 
+
+[Orion]
+On był ode mnie 70 fitów. Atakuję. Jezus. 
+
+[VISUAL 03:23:59] Na mapie przedstawiającej Morze Astralne trwa intensywne starcie z Sydonem, Władcą Burz, który jest otoczony aurą elektryczności. W walce biorą udział m.in. Arevon Elorrenthi, Orestes, Orion Xul, Felicjan Janus Twardowski, Klonicjan oraz Versir, mierzący się również z potężnym Lewiatanem. Interfejs gry wyświetla karty statystyk Sydona oraz Lewiatana, a także panel śledzenia walki w siódmej rundzie.
+
+
+[CZAT 03:24:02] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 13, 1d20 + 12, 1d20
+
+
+[Orion]
+Czemu? 
+
+[CZAT 03:24:07] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 22, 1d20 + 12, 1d20
+
+
+[Orion]
+Co to jest w ogóle? 
+
+[CZAT 03:24:11] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 13 10 + 3
+
+
+[Orion]
+Kurwa same czerwienie. No to już nie jest 
+
+[CZAT 03:24:22] Raspytrion: 4
+
+
+[Orion]
+taki... To nawet w blesem nie wyjdzie. 
+
+[CZAT 03:24:33] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20
+
+
+[Orion]
+I czy w ogóle jest 
+
+[CZAT 03:24:45] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 30, 1d20 + 12, 1d20
+
+
+[CZAT 03:24:47] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9
+
+
+[Orion]
+Nie ma sensu się odsuwać. Chociaż trochę. 
+
+[Versir]
+Powinniśmy je włożyć, pewnie. 
+
+[Orion]
+On był 70 ode mnie. No to mogę jeszcze tak z 10. Takiego. Dobra. 
+
+[Versir]
+Też z save'ami. No. Na pewno będziemy rzucać save'y. Dobre pytanie. Chyba Orion? Mam też dla Orsesa, Bersira i Orionu. Na next saving throw. Zaraz będziemy rolawać. 
+
+[CZAT 03:26:34] Sydon, The Lord of Storms: 5
+
+
+[Versir]
+To się tylko na szósty odnawia? Czy 5-6? Pięknie. 
+
+[Dungeon Master]
+No ale tak, te wysokości... To jest koło, on może to w dół wycelować po prostu. Czyli wszyscy i tak nie dostaną. Ale Wersir, Tromba, Orestes... To na ludziku. I wyceluje. Stąd V-Rost nawet nie musi chyba nic się przemieszczać. Orestes, Sybul, Korax, Tromba i Wersir rzucają Strength Saving Troll'a. 
+
+[CZAT 03:27:39] Versir (rzut): Strength Save (+9) 24 1d20 + 9 15 15 | rzuty: = 24, 1d20 + 9
+
+
+[Dungeon Master]
+Tak. Nie. To nie Cthulhu. 
+
+[CZAT 03:27:51] Orestes (rzut): Strength (+6) 18 1d20 + 6 1d20 12 14 1d20 + 6 1d20 8 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20
+
+
+[CZAT 03:27:59] Sybolkorax: 16
+
+
+[Dungeon Master]
+Widzę jeden sukces chyba tylko. Kąd? 
+
+[CZAT 03:28:19] Arevon Elorrenthi (rzut): Eye of the Galactic Dragon (d8) 6 1d8 6 6 | rzuty: = 6, 1d8
+
+
+[Dungeon Master]
+Orestesowi plus 6. No to Orestes też ma sukces. No dobra. Wrzucamy damage. Porządny 
+
+[CZAT 03:28:28] Sydon, Lord of All (rzut): Talon of the Storm (Cooldown 5-6) (10d8) 45 10d8 1 4 6 7 3 6 1 4 6 7 45 | rzuty: = 45, 10d8
+
+
+[Dungeon Master]
+nawet chyba. Ale nie wiem. Nie ma tragedii. No dobra. No to tak. Orestes 11. Wersir 22. Co wydałeś? 
+
+[Arevon]
+gdzieś poszedł, kurwa, robić all-in i teraz wygląda tak, że mógł 4 i 5 i jest spuszczowany a Orestes nie dismount 
+
+[Versir]
+Ty latasz, ty masz skrzydła. Dla wszystkiego. 
+
+[Arevon]
+n n się odchodziło było dismounted, więc ktoś kliknął dismount i potem kliknął mount jeszcze raz o, teraz jest dismounted ja wyostawiłem sezonie po papierze, jest też dismounted, więc było mounted, dismounted i mounted i dismounted o, jest 5 litrów wyżej Orestes i bardziej tu 
+
+[Orestes]
+A bo ja z Rekklesem atakowałem rację. 
+
+[Versir]
+Nie da się sfejlować, tak? 
+
+[CZAT 03:30:57] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14
+
+
+[CZAT 03:31:05] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 22 7d6 4 4 1 3 1 5 4 22 | rzuty: = 22, 7d6
+
+
+[Arevon]
+Ja pierdolę, tak. To byłoby chore combo. On ma hejsta. Maszyna do zabijania, która jest wysoka, czyli na 40 fitów, ma hejsta i lapę. 
+
+[CZAT 03:32:16] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Arevon]
+A to jest mega zord damage. 89. 
+
+[Dungeon Master]
+Masz go stargetowanego i mi tam proponuje, żeby ten odjąć. Mogę zmienić na selected sobie i wtedy będzie działać. Dobra. Apply, apply. Okej. Chyba kloenician tyle. 
+
+[CZAT 03:33:17] Versir: Applied conditions: &Reference[transformed]
+
+
+[Dungeon Master]
+Felician. Eee. Eee nie, nie, nie. 
+
+[Arevon]
+Na wersję WD też rzuciłeś save'a bez advantage. Co to jest? Czemu tyle? 
+
+[Dungeon Master]
+Przed Felicianem jeszcze strzeli jednego bolta. Strzeli bolta, znowu vorrestesa. No w advantage wcieliłem, a to czemu nie. 
+
+[CZAT 03:33:30] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14
+
+
+[CZAT 03:33:36] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 27 7d6 6 6 3 6 1 4 1 27 | rzuty: = 27, 7d6
+
+
+[Dungeon Master]
+Eee missclick. Zaraz go kliknąłem. 
+
+[Arevon]
+Orestes pływa chyba w wodzie. Tak, Orestes rzuca save'a. 
+
+[Dungeon Master]
+27. 
+
+[Arevon]
+Pierwsze jest. 
+
+[VISUAL 03:34:08] Na mapie przedstawiającej otwarte morze trwa starcie z Sydonem, Władcą Burz, który jest obecny na polu bitwy jako potężna, elektryzująca postać. W walce biorą udział m.in. Orestes, Arevon Elorrenthi, Orion Xul, Klonicjan, Felicjan Janus Twardowski oraz Versir. Ekran wskazuje na trwającą 7. rundę potyczki, podczas której zliczane są obrażenia zadawane Sydonowi, a w interfejsie widoczna jest karta statystyk Lewiatana.
+
+
+[Arevon]
+DC 10, tak? 
+
+[Versir]
+Ten lewiatan wygląda jakby miał dużo reacha, nie? 
+
+[Arevon]
+No. Nie, jak jedynkę rzucisz, to ci wyjdzie. Jak masz plus 9. Zobacz, masz plus 8, ale... A masz plus 8, no to nie, to ci na jedynkę... A masz blessa, nie, to ci wyjdzie. Byłoby lepiej, gdyby jakiś spadł. No, easy, no problem. Mhm. DC 15 to jest kłamstwo. 
+
+[CZAT 03:35:29] Tysophale: Lightning Breath Feature Dexterity Saving Throw: DC 15 , each creature in a 60-foot-long, 5-foot-wide Line . Failure: 49 ( 9d10 Lightning ) damage. Success: Half damage. DC 15 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft line
+
+
+[Arevon]
+DC nie jest 15. DC jest 19. I DMC jest dziesiątkę więcej. Rzuć jeszcze D10. To jest 10 i 10. 
+
+[CZAT 03:35:59] Felicjan Janus Twardowski: 3
+
+
+[Arevon]
+To jest 58. Full DC? Też mogę zjadać mega. Ale i tak nie ma znaczenia, bo 
+
+[CZAT 03:36:16] Versir: Applied conditions: &Reference[transformed]
+
+
+[CZAT 03:36:33] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14
+
+
+[CZAT 03:36:40] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 27 7d6 1 3 5 3 6 5 4 27 | rzuty: = 27, 7d6
+
+
+[Arevon]
+jak mu wyjdzie save, to nie jest istotne, co ty rzuciłeś. Masz DC 15. Nie, nie masz advantage'a, masz straight roll. 
+
+[CZAT 03:36:55] Orestes (rzut): Constitution Save (+8) 9 1d20 + 8 1d20 1 | rzuty: = 9, 1d20 + 8, 1d20
+
+
+[Arevon]
+U, wpadłeś do wody. Wersję może zrobić Twin Heela teraz. Nie wiem, czy wersja chce to zrobić. Macie obaj mało HP. 
+
+[Versir]
+Zresztą tu. I kastuję. Piąto levelowego. Cure wódca. Twin. Na dwie osoby. Dobra. Ile to jest, kurwa, kostek? 10 do 8? 
+
+[Arevon]
+Jesteś poza Aurą. Tak jest. Na porządku. 
+
+[Versir]
+To jest w Orestesa. 
+
+[CZAT 03:38:14] Versir: 42
+
+
+[Versir]
+Tylko na razie sobie nie dopisuj HP-ka. A to jest we mnie. I teraz ja użyję 
+
+[CZAT 03:38:19] Versir: 59
+
+
+[Versir]
+I mogę 6 kostek przerzucić z tych roli 3 jedynki są przerzucane i 2 dwójki A, 6 kostek 3 jedynki, 2 dwójki, 3 dwójki 3 jedynki, 3 dwójki A, 1, okej 
+
+[Arevon]
+Czyli rzuć najpierw jedną dla niego, a potem resztę dla siebie. Jedną dla ciebie, resztę dla niego, sorry. 
+
+[Versir]
+Sure, good stuff 
+
+[CZAT 03:38:53] Versir: 1
+
+
+[Arevon]
+To tobie nic nie zmieniło, więc ty dostajesz 59. 
+
+[Versir]
+A, oraz to zostaje tyle 
+
+[CZAT 03:39:04] Versir: 27
+
+
+[Versir]
+Bonus akcją 
+
+[Arevon]
+To jest dużo. 
+
+[Orestes]
+Ile to jest? 
+
+[Arevon]
+To ja to muszę dodać, bo to było 1, 2, 3, 4, 5, 6, 7, 8. Było 8, czyli 19 więcej. Czyli o resztę dostajesz 61. 
+
+[Orestes]
+61, ale nice. I'm alive, I'm alive. 
+
+[Arevon]
+A, Versier 59. Nie masz Rage'a, nie masz Rage'a. 
+
+[Orestes]
+Fajnie sięgnę go. 
+
+[Arevon]
+Wtf? 
+
+[Orestes]
+Zaraz będę miał. 
+
+[Versir]
+Bonu? Tak, kiluję Orestesa za 29 lay of hands. 
+
+[Orestes]
+Jeszcze? 
+
+[Versir]
+To jest twoja decyzja. 
+
+[Orestes]
+29, dziękuję. 
+
+[Arevon]
+Odbityk? Co to się odpierdala? O, to healer rundy, jeszcze nie wiem. Jak ten zrecharge'uje, to my wszyscy niszczyjemy. Gollor, on myślał to samo. Nie ma zasady na to. 
+
+[Orestes]
+Nie no, chyba po tym, jak już umarłem i wstałem, to chyba niezbyt. 
+
+[Arevon]
+Tak, wyłączcie twoje decyzje. 
+
+[Versir]
+Raz, dwa, trzy. 
+
+[Orestes]
+No w sumie no trafił. 
+
+[Arevon]
+To zdecydowanie wyraźne. 
+
+[CZAT 03:41:07] Leviathan (rzut): Slam Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 21 ( 2d12 + 8 bludgeoning ) damage plus 13 ( 2d12 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Profici…
+
+
+[Arevon]
+Uj, ja pierdolę. A, 46? 
+
+[Orestes]
+46, o kurde. 
+
+[Arevon]
+Jezu. 
+
+[Orestes]
+Oj tak. 
+
+[CZAT 03:41:32] Leviathan (rzut): Tail Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19 ( 2d10 + 8 bludgeoning ) damage plus 10 ( 3d6 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Proficie…
+
+
+[Orestes]
+O! 
+
+[Arevon]
+O, że istnieje, to widać. Tak to ja. 
+
+[CZAT 03:41:54] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 15, 1d20 + 14
+
+
+[Arevon]
+O, jestem blisko. Uuuu. To ja podatuję sobie tutaj. I ja kastuję maskę buntów. 
+
+[CZAT 03:43:00] Arevon Elorrenthi: Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …
+
+
+[Arevon]
+Na siebie, Arkyrenie, Cybrocoraxa, Orestesa i Vercera. 
+
+[CZAT 03:43:12] Arevon Elorrenthi (rzut): Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 40, 5d8 + 6
+
+
+[Arevon]
+A rzuciłem max więc. No czy nie max. Więc to jeszcze nie jest koniec, bo jak rzucam Kiedy dostanę spele to odnawiam, no i, czekaj, czy to działa tylko na jeden target? Jak to działa? When you cast a spell that restores hitpoints, you can add the four and add the number rolled to the amount of hitpoints restored. Po prostu. Okej, czyli to jest do wszystkich. Okej, czyli wszyscy dostajecie 0.43, łącznie z Cybulcoraxem i Moim Smokiem. 
+
+[CZAT 03:43:39] Arevon Elorrenthi (rzut): Moon Sickle, +2 (d4) 3 1d4 3 3 | rzuty: = 3, 1d4
+
+
+[Arevon]
+Wersję Rorestę z Cybulcorax, Arkyranii dodałem i sobie też. 
+
+[Dungeon Master]
+a teraz 
+
+[Arevon]
+I jeszcze nie jest koniec, bo teraz jeszcze włączam oczywiście starą formę, która jest 30 feet of range'a. A 30 feet of range'a jest idealnie do Areses'a. 
+
+[CZAT 03:44:06] Arevon Elorrenthi: Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…
+
+
+[Arevon]
+Więc Areses oprócz tego filuje i jeszcze... 
+
+[CZAT 03:44:11] Arevon Elorrenthi (rzut): Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 5, 2d8
+
+
+[Arevon]
+A to kurwa to źle, to nie dodaję. To jeszcze plus 6 do tego. 
+
+[VISUAL 03:44:18] Na mapie przedstawiającej Morze Otchłani toczy się starcie na pokładzie okrętu Ultros. W walce biorą udział Sydon, Arevon Elorrenthi, Orestes, Orion Xul, Felicjan Janus Twardowski, Versir oraz Klonicjan. Widoczne są również tokeny przedstawiające smoki oraz inne postacie, a interfejs wskazuje na aktywną 8. rundę starcia z użyciem zaklęć takich jak Mass Cure Wounds.
+
+
+[Arevon]
+Jeszcze Areses i jeszcze 11. To była moja akcja, a teraz bonus akcji udzielone z tego chuje. Tego chujo. Tamten zza delką. To jest karpiek połud, dla którego ja nie prowadzę dindii. 
+
+[CZAT 03:44:38] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 33 6d8 5 8 7 3 7 3 33 | rzuty: = 33, 6d8
+
+
+[Arevon]
+Ta gra powyżej 11-ego levela jest tak zajebiście niezbalansowana, że ja pierdolę. Dex save, please. Decet 21. Od lewia tam. I mój internet umiera. Czy to karpika internet umiera? No ja ciebie rozumiem dobrze, więc... A jego przerywa? O, jego bardo przerywa. Cash, powiedz coś. Albo Orestes. No, okej, czyli to tylko jego przerywa. Halo, źle jest. Teraz jest idealnie. 
+
+[Dungeon Master]
+wyłączyłem kamerę i nagle ping mi pokazywał 300 wyłączyłem kamerkę, ping, ping, 6 nie wyłączyłem należy kamery 
+
+[Arevon]
+Dobra, odpisałem 33 Leviathanowi, to jest fors. 
+
+[Dungeon Master]
+tak ok, po twojej rundzie 
+
+[Arevon]
+To chyba kończy moją rundę. Nie, przepraszam, ile ja się ruszyłem? Kurwa, jest napisane skąd ja się ruszyłem? Stąd. Zruszyłem się jeden, dwa, trzy, cztery. Trzydzieści pięć fitów i zleciałem dwadzieścia... Trzydzieści pięć... Chciałem się jeszcze wycofnąć trochę, możesz dać jeszcze na mnie na chwilę? Chciałem się cofnąć tu i wydać dwadzieścia pięć, no już. Dziękuję. By the way, dopisał ktoś HP kasybru Kuraxowi? 
+
+[Dungeon Master]
+Sidon jeszcze ma legendarną akcję ale co zrobił tą legendarną akcją 
+
+[Arevon]
+Trzydzieści trzy, dobrze, nice. 
+
+[Dungeon Master]
+strzela Boltem 
+
+[Arevon]
+Dwa piąte-levelowe Espresoty poszły na healing, więc... O, ja też kamerą wyłączam na swą drogę. 
+
+[Dungeon Master]
+w Arewona 
+
+[Arevon]
+Nie spodziewałem się niczego innego. 
+
+[CZAT 03:47:09] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 17, 1d20 + 14
+
+
+[Arevon]
+No p***, p***, p***, p***. Co jest z moją kamerą? Czemu u mnie jest? Kto właściwie? O, teraz. I nie dolecisz. No i tak chyba może sobie blokorek 
+
+[Orestes]
+tego obok, więc ja sobie po prostu podpłynę i w niego będę napierdzielał z toporka. 
+
+[Arevon]
+z podlecia wyciągnąć. 
+
+[Orestes]
+Tak, tak, sobie korak, może podlecieć mnie, złapać ja sobie nabiję Rage'a w międzyczasie. Tak, i nawalam lewiatana toporkiem. 
+
+[Arevon]
+Ona chyba mała cecha dość, 
+
+[Orestes]
+Oczywiście z greedy, bo czemu nie. 
+
+[Arevon]
+więc to na 19 dostanę. 
+
+[CZAT 03:48:08] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 22 13 + 9
+
+
+[Arevon]
+Uu, e, easy. B7. Gelejo włączyłeś? 
+
+[Orestes]
+No. Włączyłem Rage'a, 
+
+[Arevon]
+Miałeś jeszcze Gelejo? 
+
+[Orestes]
+ostatniego. No niestety, 
+
+[Arevon]
+To nie jest Titan, zakładam. 
+
+[Orestes]
+chyba nie będzie. 
+
+[Arevon]
+Pani prezesie, czy to jest Titan? 
+
+[Orestes]
+Bartek? Tak. 
+
+[Arevon]
+Czy Leviathan jest Titanem? Okej. Okej, czyli to jest 32. 32. No to jest, wiesz... Grajesz w Duel of the Masters, no. 
+
+[Orestes]
+Czy ja mam drugi atak, czy jak włączyłem Rage'a... 
+
+[Arevon]
+Oczywiście, że masz drugi atak. 
+
+[Orestes]
+A, mam, dobra. Jedziemy w Gridy! 
+
+[Arevon]
+Dokładałbym, że po dwóch latach grając w postaci, już byś wiedział, że masz bąbas. Prawda? What the fuck? 
+
+[Orestes]
+Ha, ha, ha, ha! 
+
+[CZAT 03:49:03] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 15 10 + 5, = Critical Damage: 36 9 + 5 + 22, = Conditional: 6 6, = Combined: 51 10 + 5 + 9 + 5 + 22
+
+
+[Arevon]
+Okej. 
+
+[Versir]
+Stunt, tak? To nie jest tak, że on dalej żyje, tylko... 
+
+[Orestes]
+Z Gridy, przypominam, z Gridy. 
+
+[Arevon]
+No tak, to jest bez adwentów, więc... 
+
+[Orestes]
+A, to dorzucić ten? 
+
+[Arevon]
+Nie, nie rzucę. Dwa iście... 
+
+[Orestes]
+A, czyli coś jeszcze muszę dorzucić? 
+
+[Arevon]
+Dwa iście pięć... 
+
+[Orestes]
+Dobra, dorzucam ze szóstkę. 
+
+[CZAT 03:49:34] Orestes: 6
+
+
+[Orestes]
+Proszę. Tak, i... Tak, i w tym... Tak, to już załatwiam lewiatana, wskakuję na sybol Koraxa, lecę w kierunku Sidona i krzyczę, jesteś dostępny! No wiem, wiem. Na pięćdziesiątkę bym wskoczył. Dobra, to wskakuję na pięćdziesiątkę, dziękuję. I chyba tyle mogę, tak? Dobra. To będzie wszystko ode mnie. 
+
+[Dungeon Master]
+widać po nim zirytowanie, że ile to może trwać on się tam przeniósł, żeby Felicjana bić i potem, nie wiem, czy Felicjana chociaż rozwalnął wszyscy inni go rozproszyli dobra, kolejny laser Arafona zasłużył sobie 
+
+[CZAT 03:51:28] Sydon, Lord of All (rzut): Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 31, 1d20 + 14
+
+
+[Dungeon Master]
+nie 
+
+[CZAT 03:51:34] Sydon, Lord of All (rzut): Cataclysmic Bolt (7d6) 20 7d6 3 3 5 3 2 1 3 20 | rzuty: = 20, 7d6
+
+
+[Dungeon Master]
+Orion my teraz akcjon, chyba się wam skończyły już wszystkie, nie? 
+
+[Orion]
+60. Chyba nie mogę przejść 
+
+[Dungeon Master]
+jak mało, krótka inicjatywa 
+
+[Arevon]
+Zabiliśmy wszystko. I wkurwiać człowieka. Zdecydowanie. 
+
+[Orion]
+przez tego. 
+
+[Arevon]
+Nie, bo on chce go zraidować. Jest taka opcja, że jak przeciągniesz swój token na moba, to on wtedy go robi raiding, a on nie może robić raiding, bo Felicen już na nim siedzi. Ja mam włączone log i cały ścieżka dla kolosów has no place left. 
+
+[Orion]
+No właśnie. Trochę ma skos jeszcze do góry, lewy skos, i tam właśnie tu, tak, żeby dotykać, 
+
+[Arevon]
+To jest debilne, ja to miałem włączone 
+
+[Orion]
+no, w każdym razie to było 60 i 20, poruszyłem się 65 jak na razie. 
+
+[Arevon]
+u siebie. 
+
+[Orion]
+Okej, dobra, jeszcze trzeci, rzucam ósemkę, zgadza się i to było 65, więc wycofam się o 15. 
+
+[CZAT 03:53:22] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+
+
+[CZAT 03:53:25] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 24, 1d20 + 12, 1d20
+
+
+[CZAT 03:53:29] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 23 14 + 9
+
+
+[CZAT 03:53:33] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 20 14 + 6
+
+
+[CZAT 03:53:42] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+
+
+[CZAT 03:53:46] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 16 10 + 6
+
+
+[CZAT 03:53:51] Raspytrion: 1
+
+
+[CZAT 03:54:01] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 18, 1d20 + 12, 1d20
+
+
+[CZAT 03:54:09] Raspytrion: 3
+
+
+[Orion]
+23 lightning, to może wykorzystam reakcję Geese of Chromatic Dragon i to mi przepoławia, tak? 
+
+[VISUAL 03:54:27] Na zrzucie ekranu widać starcie na pokładzie statku Ultros, rozgrywające się w trakcie burzliwej nocy. Na mapie widoczne są tokeny postaci, w tym Sydon otoczony aurą elektryczności oraz inni uczestnicy walki, tacy jak Arevon Elorrenthi, Orestes, Orion Xul, Klonicjan, Felicjan Janus Twardowski i Versir. Po lewej stronie otwarte jest okno z kartą postaci Sydona, a po prawej widoczny jest tracker inicjatywy oraz historia rzutów kostką.
+
+
+[CZAT 03:54:28] Sydon, Lord of All (rzut): Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 23, 4d8
+
+
+[CZAT 03:54:41] Orion Xul (rzut): Dexterity Save (+1) 18 1d20 + 1 1d20 17 2 1d20 + 1 1d20 1 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+
+
+[Orion]
+Okej, oddziałam. 
+
+[CZAT 03:55:31] Sydon, The Lord of Storms: 1
+
+
+[CZAT 03:56:22] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 32 21 + 11
+
+
+[CZAT 03:56:22] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 30 18 + 12
+
+
+[Orestes]
+Ile ma tutaj audycję? 
+
+[CZAT 03:56:52] Sybolkorax: 17
+
+
+[CZAT 03:57:06] Sybolkorax: 14
+
+
+[Dungeon Master]
+O, po drugim ataku Sybolcorax ma Stana. Większa część jest na dowodu zdecydowanie. Czy Orestes się wysuwa? 
+
+[Arevon]
+Easy. O kurwa, żelmo chyba. Twój miał duże. 
+
+[Dungeon Master]
+Jesteś na 55 dalej. Dobra. 
+
+[Arevon]
+Nie wiem. 
+
+[Dungeon Master]
+Clonicjan. Sorry. 
+
+[Arevon]
+Ale nie będziesz mógł zaatakować już, nie? 
+
+[Dungeon Master]
+Okej. Potraga Szczebosz legendarną akcję jakoś zrobi chyba. 
+
+[Arevon]
+Zakładam, co zrobię. Strzeli we mnie Polter, kurwa. Wjebnie Gledio z procesor. Możesz zmienić. Nie jesteś przypisany do niczego. Ja chyba... Więc ja nie wiem, czy ja nie poświęcę mojej koncentracji, żeby go uratować, tak? Nie, krytów nie dostaję. Tak, tak. I krytów nie dostanie, bo sam nie daje krytów, więc zdecydowanie. Ja mam głupi plan, ale szkoda mi mojego Concentration Spell, ale... Nie, nie walnął. Nie walnął. Nie, nie, Regenwald. Może, bo należy do niego ten token. 
+
+[CZAT 04:01:13] Versir: Applied conditions: &Reference[transformed]
+
+
+[Arevon]
+Kolosowi nogi się unoszą na ziemię. Ma advantage? 
+
+[CZAT 04:01:21] Sydon, Lord of All (rzut): Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 24 14 + 10
+
+
+[Versir]
+Jakie on-death efekty ty tam masz? Odpłany z powietrza. Mieram mostówki, nie, straciłem, bo umarłem 
+
+[CZAT 04:02:08] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 27, 1d20 + 11
+
+
+[CZAT 04:02:09] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 13, 1d20 + 11
+
+
+[CZAT 04:02:18] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 17 9 + 8
+
+
+[Versir]
+Wydaje mi się, że to inkapa Co ja zrobię z bonusami? Ja chyba użyję Quicken Vortex Warp w Volcana I go zteleportuję gdzieś tutaj, 120 feetów na północ A, zaraz, może 90, hold up Już pinguje spell'a 90 to jak jest No i tak 
+
+[CZAT 04:03:44] Versir: Vortex Warp 2nd Level Conjuration Casting Time 1 action Duration Instantaneous Components V, S Range 90ft. You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a s…
+
+
+[Dungeon Master]
+Czekaj, nieźle mi, żeby jeszcze generalna akcja kolejna. Lightning Storm może. Sure, to nie jest najgłupsze. Dwa targety są, tylko dajmy z trzech. To z Restrainem, to z Restrainem. Niezłe, ale chujowe trochę. Sure. Versier, Orestes i 
+
+[VISUAL 04:04:36] Na mapie przedstawiającej wzburzone wody podczas starcia na statku Ultros, postacie Arevon Elorrenthi, Orestes, Orion Xul, Klonicjan, Felicjan Janus Twardowski oraz Versir mierzą się z Sydonem, Władcą Burz. Otwarty panel karty postaci pokazuje szczegółowe statystyki Sydona, w tym jego odporności oraz akcje, a po prawej stronie widoczny jest dziennik zdarzeń z informacjami o użyciu Titansbane oraz zaklęcia Vortex Warp. Scena ukazuje kulminacyjny moment walki na otwartym morzu, gdzie potężny Sydon jest otoczony przez bohaterów korzystających z magii i broni.
+
+
+[Dungeon Master]
+nie wiem, Nikolas. Sure, Decksafe. 
+
+[CZAT 04:04:43] Versir (rzut): Dexterity Save (+5) 23 1d20 + 5 18 18 | rzuty: = 23, 1d20 + 5
+
+
+[CZAT 04:04:49] Versir: 4
+
+
+[CZAT 04:04:51] Orestes (rzut): Dexterity Save (+2) 15 1d20 + 2 1d20 13 8 1d20 + 2 1d20 6 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[CZAT 04:04:57] Sydon, Lord of All (rzut): Lightning Storm (Costs 2 Actions) (3d10) 23 3d10 10 4 9 23 | rzuty: = 23, 3d10
+
+
+[Dungeon Master]
+Nikolas jeszcze. 
+
+[CZAT 04:05:27] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 34 6d8 3 8 8 2 7 6 34 | rzuty: = 34, 6d8
+
+
+[CZAT 04:05:41] Sydon, Lord of All (rzut): Dexterity Save (+14) 28 1d20 + 14 14 14 | rzuty: = 28, 1d20 + 14
+
+
+[Arevon]
+Gdybym to złożyła z początku, to wyjebię go w jednego razu. Z 11 damage'u i następny atak, który ktoś wyjebię, to mam advantage'u. 
+
+[CZAT 04:06:14] Arevon Elorrenthi (rzut): Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 28, 1d20 + 13
+
+
+[CZAT 04:06:19] Arevon Elorrenthi (rzut): Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 11, 4d6
+
+
+[Arevon]
+No to i tak warstwa jest taka, jak powiedzmy. Zmieniam formę na dragon z powrotem. Ja się przesunę powoli. Uuu, ja się nie przesunę stamtąd. Przesunę... W sumie jest to dobre miejsce. Mi się podoba to, że jest to, nie? Przesunę się trochę tu. Tak. All in. All in. 
+
+[Orestes]
+walę mu to toporem na twarz da, d4, dobra 
+
+[Arevon]
+Z Brąza Krwi 
+
+[CZAT 04:07:15] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 5 5, = Damage: 26 19 + 7
+
+
+[Arevon]
+jeszcze nie trafiłeś. To może. 
+
+[Orestes]
+może pomoże 
+
+[CZAT 04:07:25] Orestes: 4
+
+
+[Orestes]
+nice 
+
+[Arevon]
+Nastek 22. 
+
+[Orestes]
+mamy tu dwa skryta 
+
+[Arevon]
+Ale wiesz, jak to jest walka, gdzie mamy i wszyscy blessa i jest, kurwa, 10 rund, no to nic dziwnego, nie? Po to był ten hord, to był na tą walkę, więc... 3 z Rage'a. 
+
+[Orestes]
+dwa z rage'a a, trzy, trzy, trzy, już trzy 
+
+[Arevon]
+Zaczynasz z 3 Rage'a. 
+
+[Orestes]
+dobra, racja 
+
+[Dungeon Master]
+Który to jest kryt na Saydana twój? 
+
+[Orestes]
+a, okej, okej 
+
+[Versir]
+A ty chyba zaczynasz z 3 rage'a na meczu 
+
+[Orestes]
+dobra, i drugi, też greedy tak 
+
+[CZAT 04:08:20] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 17 11 + 6, = Critical Damage: 22 2 + 6 + 14, = Conditional: 2 2, = Combined: 39 11 + 6 + 2 + 6 + 14
+
+
+[Versir]
+Pokryt 2 do 10 heal'a 
+
+[Orestes]
+czwarty albo piąty 
+
+[Dungeon Master]
+Czwarty? Piąty? 
+
+[Orestes]
+d6 jeszcze, tak? 
+
+[Dungeon Master]
+56 
+
+[Orestes]
+A, racja. Prosto mu 
+
+[CZAT 04:08:45] Orestes: 1
+
+
+[Dungeon Master]
+Zadanych Toporem Zandera Opisz mi już ten atak 
+
+[Orestes]
+w ryj. Ostatnie 
+
+[Dungeon Master]
+W wodzie będąc 
+
+[Orestes]
+niemachnięcie. Biorę głęboki zamach i idealnie przepuławiam. Nie, nie w wodzie. 5 litrów nad. 
+
+[Dungeon Master]
+A nie, ty latasz, dobra Nie 
+
+[Orestes]
+Tak, tak. 
+
+[Dungeon Master]
+Topor Zandera w rękach Orestesa 
+
+[Orestes]
+Idealnie nie walę mu w łeb, gdzie tak w czoło, żeby przepułowić idealnie to jego trzecie oko. I dobijam do połowy nosa ten topór. 
+
+[Dungeon Master]
+Wbija się potężnie 
+
+[CZAT 04:09:53] Arevon Elorrenthi: by the way, miałbyś jeszcze jeden atak
+
+
+[CZAT 04:10:14] Orestes: Dokładnie, ale już nie ma na kogo
+
+
+[Dungeon Master]
+Jego ciało rozpada się od środka, warstwa po warstwie, jak chmura rozdzielona wiatrem. Zostaje tylko popiół i złoty pył, który rozwiewa się na wietrze i spada do morza, by wkrótce zniknąć bez śladu. Burza, która dręczyła Mithros już od wielu godzin, nienaturalnie szybko zaczyna się rozwiewać. Zapada ciszo, Sidon jest martwy. Zabiliście Tytana. Dostał też ostrzem Zandera, który ma podobne fitury. 
+
+[Orestes]
+Tak? Ile? Tak. A, to nigdy na to... Eee... 
+
+[CZAT 04:12:11] Orestes: Axe of Xander Weapon (Greataxe), Legendary (requires attunement) This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathically by transmitting emotion to the creature carrying or using it. The axe’s primary purpose is to destroy giants and titans. When you attack one of tho…
+
+
+[Orestes]
+Patrzę... 
+
+[CZAT 04:12:22] Orestes: 13
+
+
+[Dungeon Master]
+jakby całe morze było przez coś wciągane ale z miasta zaczynają dochodzić już ochrzyki triumf widzicie, że część jednostek armii Sejdona zaczyna uciekać po pochu ale nie wszystkie, walka w mieście nadal trwa i możemy na tym skończyć chyba, że chcecie jeszcze 3 minutowy krótki teaser 
+
+[Orestes]
+A, ten drugi tutaj lewiatan jest. 
+
+[Dungeon Master]
+Chodźmy jeszcze tylko na chwilę na tą mapę. Kombatu nie ma już. Zdecydowanie. Sidon jest kaput. Lewiatana nie ma. 
+
+[Orestes]
+Trzeba było zajebać. 
+
+[Dungeon Master]
+No gdzieś tam sobie pływa. Okej. Burza po Sidonie ledwo ucichła. Jak mówiłem, słychać na jakieś triumfy. 
+
+[VISUAL 04:14:44] Zrzut ekranu przedstawia mapę taktyczną "The Battle of Mytros", obejmującą miasto Mytros podzielone na ponumerowane sektory. Na mapie widoczne są liczne tokeny postaci, w tym w centralnej części znajduje się portret Orestesa umieszczony w sektorze 19. Po prawej stronie w panelu scen widoczna jest lista lokacji, w tym "The Battle of Mytros" oraz "The Titan Awakens".
+
+
+[Dungeon Master]
+Słychać też inny dźwięk. Śmiech. Też postaci. A na przedzie tego orszaku kroczy ona. Luteria z kryształową kosą. Za nią wlecze się świta z koszmaru. Nie umarli. Spętane duchy. Rzeczy bez nazwy. Tam, gdzie przejdzie machnięciem dłoni zamienia ocalałych z wojny w kozy, krowy, świnie. Tych, których oszczędza sam jej wydok doprowadza do błędu. Podają na kolana rycząc ze śmiechu, rzucając się na przemienione bydło w aktach na które nie ma słów. Ci, którzy akurat nie kalają swoich sąsiadów, już ćwiartują zwierzęta. Żołnierzy mieszczą u więzionych zwierzęcej skórze. Pieką ich na ogniskach z resztek własnych domów, a pomiędzy wszystkim z bruku i gruzu powoli podnoszą się zmarli. Szaleństwo pożera miasto szybciej niż ogień i nawet z tej odległości czujecie to. Jej spojrzenie, które z daleka odnajduje was na powierzchni wody. w tym spojrzeniu widać z daleka zaproszenie i na tym się skończymy sure, glewia się tak nie rozpadła jest tam i nieśmierć jest blisko 
+
+[Orestes]
+Nice, nice. 
+
+[Dungeon Master]
+he he wrócimy do tego na kolejnej sesji bo ja się też muszę zastanowić no dobrze to na tym skończmy czy za tydzień w poniedziałek wszyscy są? okej będziemy kontynuować 
+
+[Arevon]
+Maciek, weź wypowiedź na Traveler Topiku, please. Nie muszę tego zrobić dzisiaj, ale tak, wiesz... Sooner, rather than later. Wejdź na channel. Pytałem kiedy. 
