@@ -46,14 +46,19 @@ This project includes AI workflows and skills to automate session logging and wi
 
 ### Workflows
 - **`/process-session`**: Process a single RPG session recap from `input/` to `content/01-Sessions/`. Handles asset relocation, entity linking, and wiki updates.
-- **`/generate-session-recap`**: Generates a session recap, images, and video prompts from a transcript.
+- **`/generate-session-recap-draft`**: Generates a session recap draft from a transcript in `input/`. Runs in **refine mode** when an `rpgnotes` handoff bundle (`draft0.md` + `validation_report.md`) is found alongside the transcript — chunk subagents correct that draft instead of writing from scratch, and unresolved validation findings are surfaced to the user at the review gate. Falls back to from-scratch mode otherwise. When the bundle includes `transcript_enriched.txt` (transcript with inline `[VISUAL]`/`[CZAT]` ground-truth annotations), chunking and fact-checking run against it. Before the review gate it runs a short **interactive verification** step (≤10 yes/no / pick-one questions) to resolve claims only a human can decide, then a **details-generation** step that derives the structured sections (title, key events, NPCs, locations, items, verbatim quotes from `quotes.json`) from the refined draft and assembles the complete session file — rpgnotes only delivers draft-0 plus the bundle; the final session file is built here. A pristine `draft_pre_edit.md` snapshot is saved for the learning loop.
+- **`/finalize-session-recap`**: Adds wikilinks, image prompts, and timeline events to a user-reviewed draft. Starts by harvesting the user's edits (see `/harvest-corrections`).
+- **`/harvest-corrections`**: Learning loop — diffs the pristine `draft_pre_edit.md` against the user's edited recap and folds each correction back into the pipeline (name fixes → `phonetic_corrections.md`, deleted claims → anti-hallucination examples / ZAKAZY rules, entity facts → wiki files, style edits → style rules). All writes are confirmed by the user first. Runs automatically as Step 0 of `/finalize-session-recap`, or on-demand.
+- **`/iterate-recap`**: Targeted fix pass for an existing recap — give it a session number and a free-form complaint; it greps the transcript for the relevant names/keywords, re-reads only those slices, and rewrites only the affected sections, never the rest of the file. Tool-agnostic (usable from Antigravity too).
+- **`/generate-video-script`**: On-demand workflow that generates a paste-ready Google Flow video script for an existing session recap. Not part of finalization — invoke it explicitly only when a video is actually wanted.
 
 ### Skills
 - **`rpg-wiki-manager`**: Extracts entities (NPCs, Locations, Items, Lore, Handouts) from RPG session recaps and input files, updating the wiki structure.
 - **`rpg-illustrator`**: Generates detailed image prompts and renders images using Nano Banana Pro.
-- **`rpg-summarizer`**: Generates a narrative session recap from a transcript.
+- **`rpg-summarizer`**: Generates a narrative session recap from a transcript, preferring the enriched transcript (`transcript_enriched.txt`, with inline `[VISUAL]`/`[CZAT]` ground-truth annotations) when the rpgnotes bundle provides it.
 - **`rpg-timeline-manager`**: Appends session events to the campaign timeline.
-- **`rpg-video-scripter`**: Generates video script prompts for session events.
+- **`rpg-video-scripter`**: Generates a paste-ready, per-clip Google Flow video script from a session recap. Invoked on-demand via `/generate-video-script`, not automatically.
+- **`rpg-chatlog-analyst`**: Answers precise mechanics questions (exact damage, who cast what) by grepping the session's timeline-anchored FoundryVTT chat events from the rpgnotes handoff bundle.
 
 ### Rules
 The agent follows specific rules for:
