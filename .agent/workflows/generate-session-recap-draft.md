@@ -1,46 +1,27 @@
 ---
-description: Generates a session recap draft from a transcript (Part 1 of 2). Runs in refine mode when an rpgnotes handoff bundle is present in input/.
+description: Generates a session recap draft from a transcript (Part 1 of 2). Runs in refine mode when rpgnotes has already dropped a draft0.md into content/assets/sessions/{NNN}/.
 ---
 
 # Generate Session Recap Draft Workflow
 
 This workflow processes a raw transcript into a markdown draft. It has two modes:
 
-- **Refine mode** — an rpgnotes handoff bundle (`draft0.md` + `validation_report.md`) is present. The chunk subagents correct/refine that draft instead of writing from scratch. Cheaper, faster, and the draft anchors chronology.
-- **From-scratch mode** — no bundle found. Current behavior, unchanged.
-
-## Step 0: Detect Handoff Bundle
-
-1. Look in `input/` for a bundle: `draft0.md` **and** `validation_report.md` present alongside `transcript.txt`, either:
-   - loose directly in `input/`, or
-   - inside `input/session_<NNN>/` (this is the layout rpgnotes writes when `HANDOFF_DIR` points here — see rpgnotes' README "Handoff to the wiki" section).
-2. **Detection rule**: both `draft0.md` and `validation_report.md` must be present for **REFINE MODE**. If either is missing, fall back to **FROM-SCRATCH MODE** and skip the rest of this step (Steps 1-5 proceed exactly as before).
-3. If `input/session_<NNN>/` exists, that directory name gives you `session_number` directly — no need to ask in Step 1. `transcript_enriched.txt` and `quotes.json` may also be present in the bundle; carry them along in Step 2 if so (they are optional and not required for refine mode itself — the enriched transcript is preferred for chunking when present, and `quotes.json` feeds Step 4.7's `## Cytaty` section).
+- **Refine mode** — rpgnotes has already run for this session and written `draft0.md` + `validation_report.md` straight into `content/assets/sessions/{NNN}/` (rpgnotes' `OUTPUT_DIR` points at this repo's `content/`, so there's no copy step — its output lands here directly). The chunk subagents correct/refine that draft instead of writing from scratch. Cheaper, faster, and the draft anchors chronology.
+- **From-scratch mode** — no `draft0.md` found for this session. Current behavior, unchanged.
 
 ## Step 1: Initialization
 
-1. Ask the user for the `session_number`, unless already known from a bundle directory name (Step 0.3).
-2. Confirm the input files exist:
-   - `input/transcript.txt` (Required)
-   - `input/transcript_enriched.txt` (Optional — transcript with `[VISUAL]`/`[CZAT]` annotation lines merged in; when present, chunking and fact-checking use it instead of `transcript.txt`)
-   - `input/chat_log.json` (Optional)
-   - `input/chat_events.json` / `input/chat_events.txt` (Optional — distilled, timeline-anchored Foundry chat; see skill `rpg-chatlog-analyst`)
-   - `input/transcript.json` (Optional)
-   - **Refine mode only**: `draft0.md` (Required for refine mode), `validation_report.md` (Required for refine mode), `quotes.json` (Optional)
+1. Ask the user for the `session_number`.
+2. Confirm the input files exist in `content/assets/sessions/{000}/`:
+   - `transcript.txt` (Required)
+   - `transcript_enriched.txt` (Optional — transcript with `[VISUAL]`/`[CZAT]` annotation lines merged in; when present, chunking and fact-checking use it instead of `transcript.txt`)
+   - `chat_log.json` (Optional)
+   - `chat_events.json` / `chat_events.txt` (Optional — distilled, timeline-anchored Foundry chat; see skill `rpg-chatlog-analyst`)
+   - `transcript.json` (Optional)
+   - **Refine mode**: `draft0.md` present ⇒ refine mode; `validation_report.md` and `quotes.json` also expected alongside it.
+3. If none of these exist yet, they may still be loose in `input/` from an older rpgnotes run — move them into `content/assets/sessions/{000}/` first, then continue.
 
-## Step 2: Asset Management
-
-1. **Directory**: Create `content/assets/sessions/{000}/` (padded 3 digits).
-2. **Move Files** (whether loose in `input/` or inside `input/session_{000}/`):
-   - Move `transcript.txt` -> `content/assets/sessions/{000}/transcript.txt`
-   - If present, move `transcript_enriched.txt` -> `content/assets/sessions/{000}/transcript_enriched.txt`
-   - If present, move `chat_log.json` -> `content/assets/sessions/{000}/chat_log.json`
-   - If present, move `chat_events.json` / `chat_events.txt` -> `content/assets/sessions/{000}/`
-   - If present, move `transcript.json` -> `content/assets/sessions/{000}/transcript.json`
-   - **Refine mode**: also move `draft0.md` -> `content/assets/sessions/{000}/draft0.md`, `validation_report.md` -> `content/assets/sessions/{000}/validation_report.md`, and (if present) `quotes.json` into the same directory.
-3. If `input/session_{000}/` is now empty, remove it.
-
-## Step 3: Context Loading & Analysis
+## Step 2: Context Loading & Analysis
 
 1. **Line Count**: Run `wc -l` on `content/assets/sessions/{000}/transcript_enriched.txt` if present, else `transcript.txt` — the skill chunks whichever file exists (enriched preferred) and needs this count to plan chunks.
 2. **Build canonical glossary**: Run `.venv/bin/python scripts/extract_glossary.py content/assets/sessions/{000}/transcript.txt`. The stdout is the session-specific canonical-names list (filtered to names that appear in this transcript). Pass it verbatim into every chunk subagent prompt.
@@ -50,7 +31,7 @@ This workflow processes a raw transcript into a markdown draft. It has two modes
 
 ## Step 4: Draft Generation (Text Only)
 
-1. **Activate** skill `rpg-summarizer`, passing the mode determined in Step 0 (`refine` or `from-scratch`). In refine mode, also pass the full text of `draft0.md` and `validation_report.md` loaded in Step 3.5.
+1. **Activate** skill `rpg-summarizer`, passing the mode determined in Step 1 (`refine` if `draft0.md` was found, else `from-scratch`). In refine mode, also pass the full text of `draft0.md` and `validation_report.md` loaded in Step 2.5.
 2. **Generate** the narrative draft (the skill returns the narrative text only — the structured details sections are derived later, in Step 4.7).
    - Pick a provisional `title` from the narrative (Step 4.7 finalizes it).
    - **NO** Wikilinks at this stage.
