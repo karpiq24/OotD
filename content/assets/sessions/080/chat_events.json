@@ -1,0 +1,1892 @@
+[
+  {
+    "offset_secs": -793.5309998989105,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Arcana (+0) 15 1d20 + 0 1d20 15 | rzuty: = 15, 1d20 + 0, 1d20"
+  },
+  {
+    "offset_secs": -257.4690001010895,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Dagger, +1 You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 28 1d20 + 8 1d20 20 Roll Damages | rzuty: = 28, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": -246.3989999294281,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Dagger, +1 You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. Piercing Damage: 7 1d4 + 3 4 4 Piercing Critical Damage: 4 1d4 4 4 | rzuty: = 7, 1d4 + 3, 1d4"
+  },
+  {
+    "offset_secs": 284.789999961853,
+    "speaker": "Nephele",
+    "kind": "chat",
+    "text": "Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone"
+  },
+  {
+    "offset_secs": 427.3180000782013,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 30 6d8 1 6 4 8 3 8 30 | rzuty: = 30, 6d8"
+  },
+  {
+    "offset_secs": 493.6270000934601,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line"
+  },
+  {
+    "offset_secs": 662.9110000133514,
+    "speaker": "Giant Shark",
+    "kind": "roll",
+    "text": "Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 932.2999999523163,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "\\r15d10"
+  },
+  {
+    "offset_secs": 940.6329998970032,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "71"
+  },
+  {
+    "offset_secs": 1066.2709999084473,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14"
+  },
+  {
+    "offset_secs": 1100.7000000476837,
+    "speaker": "Giant Shark",
+    "kind": "roll",
+    "text": "Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 1276.6530001163483,
+    "speaker": "Raspytrion",
+    "kind": "chat",
+    "text": "75"
+  },
+  {
+    "offset_secs": 1399.7839999198914,
+    "speaker": "Klonicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Wall of Fire Legacy • 4th Level Evocation (Cast at 4th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(a small piece of phosphorus) Range 120ft. Concentration Requires Concent… | rzuty: = 11, 5d8, 5d8"
+  },
+  {
+    "offset_secs": 1435.8499999046326,
+    "speaker": "Cyclops",
+    "kind": "chat",
+    "text": "Greatclub Simple Melee Attack Damage Action Instantaneous reach 10 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 1438.0409998893738,
+    "speaker": "Cyclops",
+    "kind": "chat",
+    "text": "Greatclub Simple Melee Attack Damage Action Instantaneous reach 10 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 1486.3440001010895,
+    "speaker": "Giant Shark",
+    "kind": "roll",
+    "text": "Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 1590.1889998912811,
+    "speaker": "Sydon",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[dehydration]"
+  },
+  {
+    "offset_secs": 1664.263000011444,
+    "speaker": "Primordial Surge",
+    "kind": "chat",
+    "text": "15.22"
+  },
+  {
+    "offset_secs": 1716.0390000343323,
+    "speaker": "Sydon, The Lord of Storms",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 1820.9749999046326,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 27, 1d20 + 14"
+  },
+  {
+    "offset_secs": 1828.6180000305176,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 28 7d6 2 6 5 6 2 1 6 28 | rzuty: = 28, 7d6"
+  },
+  {
+    "offset_secs": 1848.6689999103546,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 23, 1d20 + 14"
+  },
+  {
+    "offset_secs": 1854.4340000152588,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 30 7d6 6 1 5 5 3 6 4 30 | rzuty: = 30, 7d6"
+  },
+  {
+    "offset_secs": 2071.1129999160767,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 2255.614000082016,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 33, 1d20 + 14"
+  },
+  {
+    "offset_secs": 2261.930999994278,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 21 7d6 2 6 2 5 3 1 2 21 | rzuty: = 21, 7d6"
+  },
+  {
+    "offset_secs": 2386.46799993515,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 15, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 2523.8949999809265,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "15"
+  },
+  {
+    "offset_secs": 2645.388999938965,
+    "speaker": "Giant Shark",
+    "kind": "roll",
+    "text": "Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 2665.048000097275,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 13 Concentration Concentration"
+  },
+  {
+    "offset_secs": 2669.1429998874664,
+    "speaker": "Giant Shark",
+    "kind": "roll",
+    "text": "Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 2769.6040000915527,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "villain monologue!"
+  },
+  {
+    "offset_secs": 2794.765000104904,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "23"
+  },
+  {
+    "offset_secs": 2796.415999889374,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "29"
+  },
+  {
+    "offset_secs": 2797.2590000629425,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "14"
+  },
+  {
+    "offset_secs": 2798.0520000457764,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "23"
+  },
+  {
+    "offset_secs": 2798.875,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "20"
+  },
+  {
+    "offset_secs": 2799.65700006485,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "22"
+  },
+  {
+    "offset_secs": 2818.2139999866486,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 2822.292999982834,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 2846.0250000953674,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "80"
+  },
+  {
+    "offset_secs": 2884.3389999866486,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "25"
+  },
+  {
+    "offset_secs": 2885.2890000343323,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "14"
+  },
+  {
+    "offset_secs": 2928.4189999103546,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d20 + 11, 1d8 + 6, 3d6, 1d8, 3d6 = Damage: 26 14 + 12, = Critical Damage: 14 6 + 8, = Combined: 40 14 + 12 + 6 + 8"
+  },
+  {
+    "offset_secs": 2950.3250000476837,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "12"
+  },
+  {
+    "offset_secs": 2968.3710000514984,
+    "speaker": "Nephele",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[restrained]"
+  },
+  {
+    "offset_secs": 3015.510999917984,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 17, 4d8"
+  },
+  {
+    "offset_secs": 3025.8570001125336,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Dexterity Save (+5) 19 1d20 + 5 14 14 | rzuty: = 19, 1d20 + 5"
+  },
+  {
+    "offset_secs": 3032.0969998836517,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 3050.460000038147,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 3146.9260001182556,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Constitution Save (+14) 29 1d20 + 14 15 15 | rzuty: = 29, 1d20 + 14"
+  },
+  {
+    "offset_secs": 3169.552999973297,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cloudburst Trap (Costs 3 Actions) (6d8) 27 6d8 5 8 6 3 1 4 27 | rzuty: = 27, 6d8"
+  },
+  {
+    "offset_secs": 3200.552999973297,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 3215.7409999370575,
+    "speaker": "Giant Shark",
+    "kind": "roll",
+    "text": "Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 3298.3570001125336,
+    "speaker": "Nephele",
+    "kind": "chat",
+    "text": "Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone"
+  },
+  {
+    "offset_secs": 3448.2439999580383,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 3455.1440000534058,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Moon Sickle, +2 (d4) 3 1d4 3 3 | rzuty: = 3, 1d4"
+  },
+  {
+    "offset_secs": 3469.1050000190735,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…"
+  },
+  {
+    "offset_secs": 3470.7200000286102,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 13, 2d8"
+  },
+  {
+    "offset_secs": 3473.9609999656677,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 37, 8d8 + 6"
+  },
+  {
+    "offset_secs": 3494.076999902725,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "Life Bond Feature When you regain Hit Points from a level 1+ spell, the steed regains the same number of Hit Points if you're within 5 feet of it."
+  },
+  {
+    "offset_secs": 3498.2590000629425,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Dexterity Save (+14) 24 1d20 + 14 10 10 | rzuty: = 24, 1d20 + 14"
+  },
+  {
+    "offset_secs": 3503.183000087738,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 16 6d8 3 2 1 7 2 1 16 | rzuty: = 16, 6d8"
+  },
+  {
+    "offset_secs": 3603.8940000534058,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 32 25 + 7"
+  },
+  {
+    "offset_secs": 3657.4059998989105,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 3707.709000110626,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 17 12 + 5"
+  },
+  {
+    "offset_secs": 3777.7569999694824,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 20 16 + 4, = Critical Damage: 33 12 + 4 + 17, = Conditional: 2 2, = Combined: 53 16 + 4 + 12 + 4 + 17"
+  },
+  {
+    "offset_secs": 3861.552999973297,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 15 9 + 6, = Critical Damage: 21 3 + 12 + 6, = Conditional: 2 2, = Combined: 36 9 + 6 + 3 + 12 + 6"
+  },
+  {
+    "offset_secs": 3969.8440001010895,
+    "speaker": "Giant Shark",
+    "kind": "roll",
+    "text": "Bite Natural Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 ( 3d10 + 6 piercing ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 4076.8389999866486,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Dexterity Save (+5) 17 1d20 + 5 12 12 | rzuty: = 17, 1d20 + 5"
+  },
+  {
+    "offset_secs": 4081.9560000896454,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 4087.095999956131,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "26"
+  },
+  {
+    "offset_secs": 4149.895999908447,
+    "speaker": "Vehicle",
+    "kind": "chat",
+    "text": "26"
+  },
+  {
+    "offset_secs": 4154.542999982834,
+    "speaker": "Vehicle",
+    "kind": "chat",
+    "text": "24"
+  },
+  {
+    "offset_secs": 4177.022000074387,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 4236.0309998989105,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "29"
+  },
+  {
+    "offset_secs": 4239.25,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 4243.938999891281,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 4245.108999967575,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 14 Concentration Concentration"
+  },
+  {
+    "offset_secs": 4248.056999921799,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Constitution Save (+14) 28 1d20 + 14 14 14 | rzuty: = 28, 1d20 + 14"
+  },
+  {
+    "offset_secs": 4312.391999959946,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 4339.270999908447,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4342.417999982834,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 14 + 4"
+  },
+  {
+    "offset_secs": 4364.34500002861,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4370.463000059128,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 23 13 + 10"
+  },
+  {
+    "offset_secs": 4377.571000099182,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4382.285000085831,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 16 + 3"
+  },
+  {
+    "offset_secs": 4397.180000066757,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 32, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4400.601999998093,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9, 1d4"
+  },
+  {
+    "offset_secs": 4405.8440001010895,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "12"
+  },
+  {
+    "offset_secs": 4571.335999965668,
+    "speaker": "Sydon",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[dehydration]"
+  },
+  {
+    "offset_secs": 4632.818000078201,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 34 23 + 11"
+  },
+  {
+    "offset_secs": 4671.548000097275,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "27"
+  },
+  {
+    "offset_secs": 4695.595999956131,
+    "speaker": "Sydon, Lord of All",
+    "kind": "chat",
+    "text": "Jetstream Buffeting Jetstream Buffeting. Strength Saving Throw: DC 23, all other creatures flying within 60 feet of Sydon. Failure: A creature's flying speed is reduced to 0 until the start of its next turn, causing creatures without the ability to hover to fall. Save: Strength DC 23"
+  },
+  {
+    "offset_secs": 4734.927000045776,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "29"
+  },
+  {
+    "offset_secs": 4751.239000082016,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Strength (+6) 10 1d20 + 6 1d20 4 25 1d20 + 6 1d20 19 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20"
+  },
+  {
+    "offset_secs": 4769.375,
+    "speaker": "Sydon, The Lord of Storms",
+    "kind": "chat",
+    "text": "19"
+  },
+  {
+    "offset_secs": 4783.720999956131,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 25 13 + 12"
+  },
+  {
+    "offset_secs": 4806.31200003624,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "22"
+  },
+  {
+    "offset_secs": 4883.108000040054,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 4952.375,
+    "speaker": "Leviathan",
+    "kind": "chat",
+    "text": "20.24"
+  },
+  {
+    "offset_secs": 5049.194000005722,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20 = 27, 6d8, 6d8"
+  },
+  {
+    "offset_secs": 5076.40499997139,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Find Steed 2nd Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range 30ft. You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the Otherworldly Steed stat block. If you already have a steed from this spell, the steed is replaced by the new one. The steed resembles a…"
+  },
+  {
+    "offset_secs": 5196.736999988556,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 29 21 + 8"
+  },
+  {
+    "offset_secs": 6796.305999994278,
+    "speaker": "Nephele",
+    "kind": "chat",
+    "text": "Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone"
+  },
+  {
+    "offset_secs": 7087.21799993515,
+    "speaker": "Leviathan",
+    "kind": "chat",
+    "text": "Tidal Wave Feature The leviathan magically creates a wave of water that extends from a point it can see within 120 feet of itself. The wave is up to 250 feet long, up to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a DC 24 Strength saving throw. On a failed save, a creature takes 45 ( 7d12 bludgeoning ) damage and is knocked Prone . On a successful save, a creature t…"
+  },
+  {
+    "offset_secs": 7118.561000108719,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Strength Save (+11) 15 1d20 + 11 1d20 4 | rzuty: = 15, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 7157.72000002861,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Indomitable action Beginning at 9th level, you can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times between long rests starting at 17th level."
+  },
+  {
+    "offset_secs": 7158.201999902725,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "28"
+  },
+  {
+    "offset_secs": 7167.762000083923,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Strength (+6) 23 1d20 + 6 1d20 17 13 1d20 + 6 1d20 7 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20"
+  },
+  {
+    "offset_secs": 7174.858999967575,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Strength Save (+11) 30 1d20 + 11 1d20 19 | rzuty: = 30, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 7226.483000040054,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "11"
+  },
+  {
+    "offset_secs": 7352.108000040054,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Dexterity Save (+2) 13 1d20 + 2 1d20 11 | rzuty: = 13, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 7360.198999881744,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 7370.256999969482,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "12"
+  },
+  {
+    "offset_secs": 7391.551000118256,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 22 1d20 + 8 1d20 14 | rzuty: = 22, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 7434.3440001010895,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "DC 20 Concentration Concentration"
+  },
+  {
+    "offset_secs": 7520.611999988556,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 27 6d8 6 2 5 7 1 6 27 | rzuty: = 27, 6d8"
+  },
+  {
+    "offset_secs": 7579.326999902725,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line"
+  },
+  {
+    "offset_secs": 7662.434000015259,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 22, 1d20 + 14"
+  },
+  {
+    "offset_secs": 7685.974999904633,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 40 26 + 14"
+  },
+  {
+    "offset_secs": 7723.809000015259,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "28"
+  },
+  {
+    "offset_secs": 7753.023000001907,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 19 16 + 3"
+  },
+  {
+    "offset_secs": 7797.973999977112,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 25 14 + 11"
+  },
+  {
+    "offset_secs": 7859.293999910355,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 18, 4d8"
+  },
+  {
+    "offset_secs": 7874.196000099182,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Dexterity (+2) 11 1d20 + 2 1d20 9 12 1d20 + 2 1d20 10 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 7968.448999881744,
+    "speaker": "Primordial Surge",
+    "kind": "roll",
+    "text": "Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…"
+  },
+  {
+    "offset_secs": 7985.296000003815,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Shield 1st Level Abjuration Casting Time 1 reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell Duration 1 round Components V, S Range Self An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 1d20+5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile."
+  },
+  {
+    "offset_secs": 7992.492000102997,
+    "speaker": "Primordial Surge",
+    "kind": "roll",
+    "text": "Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…"
+  },
+  {
+    "offset_secs": 8015.267999887466,
+    "speaker": "Primordial Surge",
+    "kind": "roll",
+    "text": "Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…"
+  },
+  {
+    "offset_secs": 8078.5380001068115,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 16, 1d20 + 14"
+  },
+  {
+    "offset_secs": 8090.907999992371,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 8111.9400000572205,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 24, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 8115.072999954224,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 14 + 5"
+  },
+  {
+    "offset_secs": 8137.641000032425,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 8141.650000095367,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 17 + 5"
+  },
+  {
+    "offset_secs": 8155.608999967575,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 15, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 8163.703000068665,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 13 + 8"
+  },
+  {
+    "offset_secs": 8182.098000049591,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 22, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 8184.881000041962,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 13, 1d4 + 9"
+  },
+  {
+    "offset_secs": 8287.846999883652,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 27, 1d20 + 14"
+  },
+  {
+    "offset_secs": 8297.618000030518,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 23 7d6 2 4 3 6 1 4 3 23 | rzuty: = 23, 7d6"
+  },
+  {
+    "offset_secs": 8426.198999881744,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "26"
+  },
+  {
+    "offset_secs": 8521.415999889374,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14"
+  },
+  {
+    "offset_secs": 8530.170000076294,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 20 7d6 4 2 3 4 3 3 1 20 | rzuty: = 20, 7d6"
+  },
+  {
+    "offset_secs": 8558.976999998093,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 20, 1d20 + 14"
+  },
+  {
+    "offset_secs": 8640.822000026703,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 8844.438999891281,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Dexterity Save (+5) 23 1d20 + 5 18 18 | rzuty: = 23, 1d20 + 5"
+  },
+  {
+    "offset_secs": 8850.107000112534,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 8864.401999950409,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Lightning Storm (Costs 2 Actions) (3d10) 23 3d10 10 9 4 23 | rzuty: = 23, 3d10"
+  },
+  {
+    "offset_secs": 8885.318000078201,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 9178.87199997902,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[transformed]"
+  },
+  {
+    "offset_secs": 9220.071000099182,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 28, 1d20 + 14"
+  },
+  {
+    "offset_secs": 9224.03200006485,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 19 7d6 3 1 3 5 2 3 2 19 | rzuty: = 19, 7d6"
+  },
+  {
+    "offset_secs": 9305.588000059128,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "24"
+  },
+  {
+    "offset_secs": 9306.673000097275,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "18"
+  },
+  {
+    "offset_secs": 9307.37700009346,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "27"
+  },
+  {
+    "offset_secs": 9308.052000045776,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "16"
+  },
+  {
+    "offset_secs": 9308.744999885559,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "14"
+  },
+  {
+    "offset_secs": 9309.50099992752,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "27"
+  },
+  {
+    "offset_secs": 9323.33999991417,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 9340.668999910355,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "72"
+  },
+  {
+    "offset_secs": 9364.605999946594,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 18, 1d20 + 11"
+  },
+  {
+    "offset_secs": 9367.269999980927,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 15, 1d20 + 11"
+  },
+  {
+    "offset_secs": 9379.404000043869,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 9388.513000011444,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 9479.12599992752,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn."
+  },
+  {
+    "offset_secs": 9540.265000104904,
+    "speaker": "Nephele",
+    "kind": "chat",
+    "text": "Cold Breath Feature Constitution Saving Throw: DC 20 , each creature in a 60-foot Cone . Failure: 54 ( 12d8 Cold ) damage. Success: Half damage. DC 20 Constitution Saving Throw Constitution Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft cone"
+  },
+  {
+    "offset_secs": 9710.84500002861,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 34 23 + 11"
+  },
+  {
+    "offset_secs": 9817.259000062943,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 23 6d8 5 1 7 5 4 1 23 | rzuty: = 23, 6d8"
+  },
+  {
+    "offset_secs": 9960.979000091553,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line"
+  },
+  {
+    "offset_secs": 10049.09400010109,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 10108.362999916077,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 20 10 + 10"
+  },
+  {
+    "offset_secs": 10138.186000108719,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 30 20 + 10"
+  },
+  {
+    "offset_secs": 10226.885999917984,
+    "speaker": "Primordial Surge",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 10239.538000106812,
+    "speaker": "Primordial Surge",
+    "kind": "roll",
+    "text": "Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…"
+  },
+  {
+    "offset_secs": 10241.696000099182,
+    "speaker": "Primordial Surge",
+    "kind": "roll",
+    "text": "Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…"
+  },
+  {
+    "offset_secs": 10245.163000106812,
+    "speaker": "Primordial Surge",
+    "kind": "roll",
+    "text": "Elemental Strike (Ranged) Natural Melee or Ranged Weapon Attack: +11 to hit, range 60 ft., one target. Hit: 28 ( 4d10 + 6 ) acid, cold, fire, lightning, or thunder damage (the primordial surge's choi…"
+  },
+  {
+    "offset_secs": 10278.24699997902,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Absorb Elements 1st Level Abjuration Casting Time 1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage Duration 1 round Components S Range Self The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first …"
+  },
+  {
+    "offset_secs": 10303.21900010109,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 10335.835999965668,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 15, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 10347.135999917984,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 10354.62400007248,
+    "speaker": "Raspytrion",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 10358.364000082016,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 20 14 + 6"
+  },
+  {
+    "offset_secs": 10369.65700006485,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 13, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 10378.561000108719,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 10387.46499991417,
+    "speaker": "Raspytrion",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 10392.117000102997,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 11, 1d4 + 9"
+  },
+  {
+    "offset_secs": 10473.795000076294,
+    "speaker": "Raspytrion",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 10515.984999895096,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "12"
+  },
+  {
+    "offset_secs": 10521.226999998093,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "24"
+  },
+  {
+    "offset_secs": 10525.522000074387,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "11"
+  },
+  {
+    "offset_secs": 10542.644999980927,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "27"
+  },
+  {
+    "offset_secs": 10660.088000059128,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Strength Save (+9) 10 1d20 + 9 1 1 | rzuty: = 10, 1d20 + 9"
+  },
+  {
+    "offset_secs": 10678.177999973297,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Strength Save (-1) 0 1d20 - 1 1d20 1 8 1d20 - 1 1d20 9 | rzuty: 1d20 - 1, 1d20, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 10699.84500002861,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Talon of the Storm (Cooldown 5-6) (10d8) 60 10d8 2 7 6 8 7 6 3 7 6 8 60 | rzuty: = 60, 10d8"
+  },
+  {
+    "offset_secs": 10728.473999977112,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 30 Concentration Concentration"
+  },
+  {
+    "offset_secs": 10733.56200003624,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Constitution Save (+14) 33 1d20 + 14 19 19 | rzuty: = 33, 1d20 + 14"
+  },
+  {
+    "offset_secs": 10742.240999937057,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 15 1d20 + 8 1d20 7 | rzuty: = 15, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 10930.75,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 30 22 + 8"
+  },
+  {
+    "offset_secs": 10986.28200006485,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 11112.68700003624,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Lightning Storm (Costs 2 Actions) (3d10) 18 3d10 3 6 9 18 | rzuty: = 18, 3d10"
+  },
+  {
+    "offset_secs": 11122.137000083923,
+    "speaker": "Hoooooooobert",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 11128.321000099182,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 11239.52999997139,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Disintegrate Legacy • 6th Level Transmutation (Cast at 6th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a lodestone and a pinch of dust) Range 60ft. A thin green ray springs… | rzuty: = 74, 10d6 + 40, 10d6"
+  },
+  {
+    "offset_secs": 11345.700000047684,
+    "speaker": "Primordial Surge",
+    "kind": "chat",
+    "text": "Life From Death Feature When the surge dies, it explodes in a burst of raw creation. The area in a 50-foot radius centered on the primordial surge is blanketed in lush flora native to the region, providing enough food to feed a dozen Large or smaller creatures for 6 ( 1d12 ) days. Creatures in the area that have been dead no longer than 1 day are returned to life with 4 ( 1d8 ) hp."
+  },
+  {
+    "offset_secs": 11432.769999980927,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[transformed]"
+  },
+  {
+    "offset_secs": 11477.894000053406,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "11"
+  },
+  {
+    "offset_secs": 11519.763999938965,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 21, 1d20 + 11"
+  },
+  {
+    "offset_secs": 11521.398000001907,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 30, 1d20 + 11"
+  },
+  {
+    "offset_secs": 11532.619999885559,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 13 7 + 6"
+  },
+  {
+    "offset_secs": 11540.345999956131,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 11544.99799990654,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 22 13 + 9"
+  },
+  {
+    "offset_secs": 11550.578000068665,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "11"
+  },
+  {
+    "offset_secs": 11561.345999956131,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 11644.519000053406,
+    "speaker": "Leviathan",
+    "kind": "roll",
+    "text": "Slam Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 21 ( 2d12 + 8 bludgeoning ) damage plus 13 ( 2d12 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Profici…"
+  },
+  {
+    "offset_secs": 11690.115000009537,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11695.00200009346,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11715.229000091553,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 11722.042000055313,
+    "speaker": "Leviathan",
+    "kind": "roll",
+    "text": "Tail Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19 ( 2d10 + 8 bludgeoning ) damage plus 10 ( 3d6 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Proficie…"
+  },
+  {
+    "offset_secs": 11741.950999975204,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 27 17 + 10"
+  },
+  {
+    "offset_secs": 11754.776000022888,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11843.348000049591,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…"
+  },
+  {
+    "offset_secs": 11851.010999917984,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Moon Sickle, +2 (d4) 1 1d4 1 1 | rzuty: = 1, 1d4"
+  },
+  {
+    "offset_secs": 11860.888000011444,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…"
+  },
+  {
+    "offset_secs": 11862.983999967575,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 7, 2d8"
+  },
+  {
+    "offset_secs": 11870.857000112534,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 28, 8d4 + 6"
+  },
+  {
+    "offset_secs": 11911.088000059128,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 23, 1d20 + 13"
+  },
+  {
+    "offset_secs": 11916.00099992752,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 12, 3d8"
+  },
+  {
+    "offset_secs": 11937.884000062943,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 17, 1d20 + 14"
+  },
+  {
+    "offset_secs": 12011.81500005722,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 15 12 + 3"
+  },
+  {
+    "offset_secs": 12069.917999982834,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 19 11 + 8"
+  },
+  {
+    "offset_secs": 12122.953000068665,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 12242.296999931335,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 13, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12247.66000008583,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 22, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12251.494999885559,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 13 10 + 3"
+  },
+  {
+    "offset_secs": 12262.74799990654,
+    "speaker": "Raspytrion",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 12273.676000118256,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12285.34400010109,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 30, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12287.456000089645,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9"
+  },
+  {
+    "offset_secs": 12394.025000095367,
+    "speaker": "Sydon, The Lord of Storms",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 12459.721999883652,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Strength Save (+9) 24 1d20 + 9 15 15 | rzuty: = 24, 1d20 + 9"
+  },
+  {
+    "offset_secs": 12471.237999916077,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Strength (+6) 18 1d20 + 6 1d20 12 14 1d20 + 6 1d20 8 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20"
+  },
+  {
+    "offset_secs": 12479.75300002098,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "16"
+  },
+  {
+    "offset_secs": 12499.74799990654,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Eye of the Galactic Dragon (d8) 6 1d8 6 6 | rzuty: = 6, 1d8"
+  },
+  {
+    "offset_secs": 12508.387000083923,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Talon of the Storm (Cooldown 5-6) (10d8) 45 10d8 1 4 6 7 3 6 1 4 6 7 45 | rzuty: = 45, 10d8"
+  },
+  {
+    "offset_secs": 12657.933000087738,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14"
+  },
+  {
+    "offset_secs": 12665.553999900818,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 22 7d6 4 4 1 3 1 5 4 22 | rzuty: = 22, 7d6"
+  },
+  {
+    "offset_secs": 12736.045000076294,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 12797.21799993515,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[transformed]"
+  },
+  {
+    "offset_secs": 12810.617000102997,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14"
+  },
+  {
+    "offset_secs": 12816.494999885559,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 27 7d6 6 6 3 6 1 4 1 27 | rzuty: = 27, 7d6"
+  },
+  {
+    "offset_secs": 12929.704999923706,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "Lightning Breath Feature Dexterity Saving Throw: DC 15 , each creature in a 60-foot-long, 5-foot-wide Line . Failure: 49 ( 9d10 Lightning ) damage. Success: Half damage. DC 15 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft line"
+  },
+  {
+    "offset_secs": 12959.704999923706,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 12976.223999977112,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[transformed]"
+  },
+  {
+    "offset_secs": 12993.730000019073,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: 1d20 + 14, 1d20 + 14"
+  },
+  {
+    "offset_secs": 13000.109999895096,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 27 7d6 1 3 5 3 6 5 4 27 | rzuty: = 27, 7d6"
+  },
+  {
+    "offset_secs": 13015.913000106812,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 9 1d20 + 8 1d20 1 | rzuty: = 9, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 13094.107000112534,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "42"
+  },
+  {
+    "offset_secs": 13099.598000049591,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "59"
+  },
+  {
+    "offset_secs": 13133.37199997902,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 13144.983999967575,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "27"
+  },
+  {
+    "offset_secs": 13267.316999912262,
+    "speaker": "Leviathan",
+    "kind": "roll",
+    "text": "Slam Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 21 ( 2d12 + 8 bludgeoning ) damage plus 13 ( 2d12 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Profici…"
+  },
+  {
+    "offset_secs": 13292.760999917984,
+    "speaker": "Leviathan",
+    "kind": "roll",
+    "text": "Tail Natural Melee Weapon Attack: +14 to hit, reach 20 ft., one target. Hit: 19 ( 2d10 + 8 bludgeoning ) damage plus 10 ( 3d6 acid ) damage. Attack Damage Action Instantaneous 20 ft Equipped Proficie…"
+  },
+  {
+    "offset_secs": 13314.28200006485,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 15, 1d20 + 14"
+  },
+  {
+    "offset_secs": 13380.549999952316,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …"
+  },
+  {
+    "offset_secs": 13392.28500008583,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 40, 5d8 + 6"
+  },
+  {
+    "offset_secs": 13419.99799990654,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Moon Sickle, +2 (d4) 3 1d4 3 3 | rzuty: = 3, 1d4"
+  },
+  {
+    "offset_secs": 13446.369999885559,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in your starry form, you retain your game statistics, but your body becomes luminous; your joints glimmer like stars, and glowing lines connect them as on a star chart. This form sheds bright light in a…"
+  },
+  {
+    "offset_secs": 13451.828000068665,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Starry Form: Chalice 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beast. While in… | rzuty: = 5, 2d8"
+  },
+  {
+    "offset_secs": 13478.426000118256,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 33 6d8 5 8 7 3 7 3 33 | rzuty: = 33, 6d8"
+  },
+  {
+    "offset_secs": 13629.237999916077,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 17, 1d20 + 14"
+  },
+  {
+    "offset_secs": 13688.973999977112,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 22 13 + 9"
+  },
+  {
+    "offset_secs": 13743.31200003624,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 15 10 + 5, = Critical Damage: 36 9 + 5 + 22, = Conditional: 6 6, = Combined: 51 10 + 5 + 9 + 5 + 22"
+  },
+  {
+    "offset_secs": 13774.457999944687,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 13888.75200009346,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt Range 300/1200 ft Cataclysmic Bolt. Ranged Spell Attack Roll: +14 1d20+14 , range 300/1200 ft. Hit: 24 ( 7d6 7d6 ) damage. Sydon chooses the damage type for each bolt: Acid, Cold, Fi… | rzuty: = 31, 1d20 + 14"
+  },
+  {
+    "offset_secs": 13894.838000059128,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Cataclysmic Bolt (7d6) 20 7d6 3 3 5 3 2 1 3 20 | rzuty: = 20, 7d6"
+  },
+  {
+    "offset_secs": 14002.799999952316,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 14005.926000118256,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 24, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 14009.081000089645,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 23 14 + 9"
+  },
+  {
+    "offset_secs": 14013.644999980927,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 20 14 + 6"
+  },
+  {
+    "offset_secs": 14022.710000038147,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 14026.022000074387,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 16 10 + 6"
+  },
+  {
+    "offset_secs": 14031.625,
+    "speaker": "Raspytrion",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 14041.176000118256,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 18, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 14049.601000070572,
+    "speaker": "Raspytrion",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 14068.608000040054,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Vengeful Backlash Vengeful Backlash. Dexterity Saving Throw: DC 22, triggers when a creature within 120 feet hits Sydon with an attack. Failure: 18 ( 4d8 4d8 ) Lightning damage. Success: Half damage.… | rzuty: = 23, 4d8"
+  },
+  {
+    "offset_secs": 14081.730999946594,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Dexterity Save (+1) 18 1d20 + 1 1d20 17 2 1d20 + 1 1d20 1 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 14131.49799990654,
+    "speaker": "Sydon, The Lord of Storms",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 14182.585000038147,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 32 21 + 11"
+  },
+  {
+    "offset_secs": 14182.723999977112,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 2d8 + 10, 2d8 = Damage: 30 18 + 12"
+  },
+  {
+    "offset_secs": 14212.992000102997,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 14226.796999931335,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "14"
+  },
+  {
+    "offset_secs": 14473.533999919891,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[transformed]"
+  },
+  {
+    "offset_secs": 14481.832999944687,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Titanic Black Glaive Titanic Black Glaive. Melee Attack Roll: +17 1d20+17 , reach 15 ft. Hit: 19 ( 2d8 + 10 2d8 + 10 ) Slashing damage plus 9 ( 2d8 2d8 ) Thunder damage. If the target is a creature, … | rzuty: 1d20 + 17, 1d20 + 17, 2d8 + 10, 2d8 = Damage: 24 14 + 10"
+  },
+  {
+    "offset_secs": 14528.082999944687,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 27, 1d20 + 11"
+  },
+  {
+    "offset_secs": 14529.671999931335,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 13, 1d20 + 11"
+  },
+  {
+    "offset_secs": 14538.318000078201,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 17 9 + 8"
+  },
+  {
+    "offset_secs": 14624.265000104904,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Vortex Warp 2nd Level Conjuration Casting Time 1 action Duration Instantaneous Components V, S Range 90ft. You magically twist space around another creature you can see within range. The target must succeed on a Constitution saving throw (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a s…"
+  },
+  {
+    "offset_secs": 14683.323999881744,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Dexterity Save (+5) 23 1d20 + 5 18 18 | rzuty: = 23, 1d20 + 5"
+  },
+  {
+    "offset_secs": 14689.802000045776,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 14691.96799993515,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Dexterity Save (+2) 15 1d20 + 2 1d20 13 8 1d20 + 2 1d20 6 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 14697.486999988556,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Lightning Storm (Costs 2 Actions) (3d10) 23 3d10 10 4 9 23 | rzuty: = 23, 3d10"
+  },
+  {
+    "offset_secs": 14727.25099992752,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 34 6d8 3 8 8 2 7 6 34 | rzuty: = 34, 6d8"
+  },
+  {
+    "offset_secs": 14741.885999917984,
+    "speaker": "Sydon, Lord of All",
+    "kind": "roll",
+    "text": "Dexterity Save (+14) 28 1d20 + 14 14 14 | rzuty: = 28, 1d20 + 14"
+  },
+  {
+    "offset_secs": 14774.37700009346,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 28, 1d20 + 13"
+  },
+  {
+    "offset_secs": 14779.97000002861,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 11, 4d6"
+  },
+  {
+    "offset_secs": 14835.87299990654,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 5 5, = Damage: 26 19 + 7"
+  },
+  {
+    "offset_secs": 14845.700000047684,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 14900.105999946594,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 17 11 + 6, = Critical Damage: 22 2 + 6 + 14, = Conditional: 2 2, = Combined: 39 11 + 6 + 2 + 6 + 14"
+  },
+  {
+    "offset_secs": 14925.581000089645,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 14993.634000062943,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "by the way, miałbyś jeszcze jeden atak"
+  },
+  {
+    "offset_secs": 15014.595999956131,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Dokładnie, ale już nie ma na kogo"
+  },
+  {
+    "offset_secs": 15131.226000070572,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Axe of Xander Weapon (Greataxe), Legendary (requires attunement) This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathically by transmitting emotion to the creature carrying or using it. The axe’s primary purpose is to destroy giants and titans. When you attack one of tho…"
+  },
+  {
+    "offset_secs": 15142.059000015259,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "13"
+  }
+]
