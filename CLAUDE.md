@@ -52,15 +52,14 @@ Skills are invoked by workflows or directly, with an explicit mode parameter:
 | `rpg-wiki-manager` | Extracts and creates/updates entity files (NPCs, locations, items, lore) from session text, inserts wikilinks. |
 | `rpg-timeline-manager` | Appends key events to `content/Timeline.md` and updates `content/Campaign_Context.md`. |
 | `rpg-video-scripter` | Generates a paste-ready, per-clip Google Flow video script from a session recap. Invoked on-demand via `generate-video-script`, never automatically. |
-| `rpg-chatlog-analyst` | Answers precise mechanics questions (exact damage, who cast what, hit/miss) by grepping the session's `chat_events.txt` / `chat_log.json` (from the rpgnotes handoff bundle). All timeline sources share one clock: seconds since the Craig recording start. Never loads whole logs into context. |
+| `rpg-chatlog-analyst` | Answers precise mechanics questions (exact damage, who cast what, hit/miss) by grepping the session's `chat_events.txt` / `chat_log.json` (written by rpgnotes into `content/assets/sessions/{NNN}/`). All timeline sources share one clock: seconds since the Craig recording start. Never loads whole logs into context. |
 
 ### `workflows/` — multi-step pipelines
 
 Two main workflows for processing a new session, plus one on-demand workflow:
 
 **`generate-session-recap-draft`** (Part 1):
-0. Detect an `rpgnotes` handoff bundle in `input/` (`draft0.md` + `validation_report.md` alongside `transcript.txt`, loose or in `input/session_<NNN>/`) → **refine mode**; otherwise **from-scratch mode** (unchanged default).
-1. Ask for session number (or read it from the bundle dir name) → move files from `input/` to `content/assets/sessions/{000}/` (including `transcript_enriched.txt` and `quotes.json` when the bundle provides them).
+1. Ask for session number; check `content/assets/sessions/{000}/` for what rpgnotes has already written there (`OUTPUT_DIR` points straight at this repo's `content/`, so no copy/move step is needed). `draft0.md` present → **refine mode**; otherwise **from-scratch mode**.
 2. Get transcript line count (`transcript_enriched.txt` preferred, else `transcript.txt`), scan for names, load entity context, read last 3 session files; in refine mode also read `draft0.md`/`validation_report.md`.
 3. Activate `rpg-summarizer` (chunk subagent mode, `refine` or `from-scratch`) → generates the narrative draft.
 4. Save the narrative draft (provisional title) to `content/01-Sessions/Sesja {N} - {Title}.md`.
