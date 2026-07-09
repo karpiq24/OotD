@@ -39,3 +39,4 @@ title: Przedmioty i Łupy
 - [[Rod of Rulership]]
 - [[Złota Moneta Hergerona]]
 - [[Glewia Sydona]]
+- [[Odkupienie Pythora]]

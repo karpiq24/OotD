@@ -12,3 +12,4 @@ title: Miejsca
 - [[Nyx|Nyx (Morze Astralne)]]
 - [[Eberron]]
 - [[Morze Astralne]]
+- [[Tranquility]]

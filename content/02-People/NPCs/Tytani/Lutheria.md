@@ -1,9 +1,9 @@
 ---
 title: Lutheria
-image_prompt: young adult female, slender build, pale skin, long wavy platinum blonde hair, smirking expression, black lipstick, heavy black eye makeup with dripping tear streaks, gothic black lace dress, black feather shoulder piece, an intricate crown of black horns and glowing blue crystals, black choker with a large faceted blue gemstone pendant, dangling blue gemstone earrings, holding a large ornate scythe with a glowing blue blade, dark fantasy sorceress, queen of the underworld.
+image_prompt: female demon queen, succubus, slender build, pale white skin, sharp facial features, glowing red eyes, dark makeup, red vertical third eye on the forehead, long dark purple hair fading to red, elaborate bone headdress with a central skull, massive curving purple horns, delicate gold chains hanging from horns, large purple teardrop earrings, wearing a revealing dark blue dress with a deep plunging neckline, ornate gold shoulder collar with a central purple gem, gold belt buckle with a large red gem, sheer purple fabric draped over arms, golden claw-like finger armor, intricate dark web-like tattoos on legs, dark fantasy aesthetic
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Lutheria](../../../assets/Lutheria.webp)
 
 _Siostra Sydona_
 
@@ -21,3 +21,5 @@ Niegdyś bogini wielu rzeczy, mówi się, że stworzyła rasy fey, w tym satyró
 Jest Panią Snów (*The Lady of Dreams*), Królową Hypnos, Panią Śmierci, Boginią Podziemi, Królową [[Morze Otchłani|Morza Otchłani]].
 
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] przybyła na stadion w [[Mytros]] przez wyrwę w rzeczywistości, przyprowadzając ze sobą nieumarłych czempionów i drwiąc z zasad króla [[Acastus|Acastusa]].
+
+W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] pojawiła się tuż po śmierci [[Sydon|Sydona]], zamieniając triumf bohaterów w koszmar. Na czele makabrycznego orszaku nieumarłych, spętanych duchów i rzeczy bez nazwy wkroczyła do [[Mytros]], dzierżąc kryształową kosę. Machnięciem dłoni zamieniała ocalałych mieszkańców w bydło, a sam jej widok doprowadzał pozostałych do obłędu i ludożerczego szału. Z daleka jej spojrzenie odnalazło bohaterów na wodzie, posyłając im nieme, mroczne zaproszenie — sesja zakończyła się cliffhangerem.

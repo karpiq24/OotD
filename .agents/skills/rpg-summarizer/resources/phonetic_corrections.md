@@ -22,6 +22,8 @@ Lista rośnie po każdej sesji — dopisuj nowe pomyłki, gdy je zauważysz.
 | Wersir / Versila / Versyl | **Versir** |
 | Felician | **Felicjan** |
 | Anora | **Anora** (córka Pythora) |
+| Tromba | **Trąba** |
+| Sidon | **Sydon** |
 
 ## Słowa polskie, które brzmią jak fantasy
 
