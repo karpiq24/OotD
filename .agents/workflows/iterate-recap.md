@@ -17,7 +17,7 @@ This workflow is deliberately **tool-agnostic**: it uses only *read*, *search/gr
 ## Step 1: Derive search keywords from the complaint
 
 From the complaint, extract the concrete anchors to search for:
-- Proper nouns (character / NPC / location / item names). Expand each through `.agent/skills/rpg-summarizer/resources/phonetic_corrections.md` — the transcript may hold an ASR-garbled spelling, so search for the wrong forms too, not just the canonical name.
+- Proper nouns (character / NPC / location / item names). Expand each through `.agents/skills/rpg-summarizer/resources/phonetic_corrections.md` — the transcript may hold an ASR-garbled spelling, so search for the wrong forms too, not just the canonical name.
 - Distinctive action/keywords ("amulet", "trucizna", "brama", a spell name).
 Build a small list of search terms covering both canonical and garbled spellings.
 
@@ -33,7 +33,7 @@ Read the recap file and identify only the `###` section(s) the complaint touches
 
 ## Step 4: Targeted rewrite
 
-1. Rewrite **only** the affected section(s), grounded in the transcript slice you read in Step 2. Follow the same style and anti-hallucination bar as the summary prompt (`.agent/skills/rpg-summarizer/resources/summary_prompt.txt`) — correct names via the glossary/phonetic corrections, no invented specifics.
+1. Rewrite **only** the affected section(s), grounded in the transcript slice you read in Step 2. Follow the same style and anti-hallucination bar as the summary prompt (`.agents/skills/rpg-summarizer/resources/summary_prompt.txt`) — correct names via the glossary/phonetic corrections, no invented specifics.
 2. **Do not touch any other part of the file.** Preserve unaffected sections, frontmatter, existing wikilinks, image links, and ordering verbatim. Edit surgically — replace only the sentences/sections that are wrong or missing.
 3. If reordering is requested, move only the affected passages; do not regenerate surrounding prose.
 4. Preserve any `[[wikilinks]]` and image placeholders inside a section you rewrite — do not strip links the finalize pass added.

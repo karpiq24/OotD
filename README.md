@@ -66,7 +66,7 @@ The agent follows specific rules for:
 - **Wikilink standards**: Simplified Obsidian-compatible wikilinks without paths or extensions.
 - **Transcript processing**: Always read the full transcript before summarizing.
 
-See `.agent/` directory for full workflow and skill definitions.
+See `.agents/` directory for full workflow and skill definitions.
 
 ## 📝 Available Scripts
 
