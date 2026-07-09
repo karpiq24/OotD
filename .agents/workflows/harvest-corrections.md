@@ -38,7 +38,7 @@ If a single change spans two buckets (e.g. a name fix *and* a fact fix), record 
 Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3a. Name corrections → `phonetic_corrections.md`
-1. **Read `.agent/skills/rpg-summarizer/resources/phonetic_corrections.md` first** and match its exact format — a Markdown table under `## Imiona własne` with rows `| W transkrypcji (forma błędna) | Zapisz jako |`, canonical target in **bold**.
+1. **Read `.agents/skills/rpg-summarizer/resources/phonetic_corrections.md` first** and match its exact format — a Markdown table under `## Imiona własne` with rows `| W transkrypcji (forma błędna) | Zapisz jako |`, canonical target in **bold**.
 2. For each name correction, propose either:
    - a **new row** `| {wrong form(s) seen} | **{canonical}** |`, or
    - **appending the wrong form** to an existing row's left column (pipe-separated, as existing rows do) if that canonical target already has a row.
@@ -46,7 +46,7 @@ Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3b. Deleted claims → anti-hallucination examples / ZAKAZY rule
 1. Collect each deleted claim as a candidate anti-hallucination example (the exact text the user cut, plus a one-line reason if inferable — invented spell, uncited number, etc.).
-2. **Cross-session pattern check**: look at prior harvested deletions (scan the current session's deletions against the same class of deletions — e.g. read earlier `draft_pre_edit.md`/session pairs if quick, or rely on the recurring theme). If the *same kind* of hallucination has now been deleted by the user across **≥2 sessions**, propose a **new numbered ZAKAZY rule** for `.agent/skills/rpg-summarizer/resources/summary_prompt.txt` (in the *ZAKAZY — anty-halucynacje* section, matching its numbered style and Polish wording), phrased as a hard prohibition covering that class.
+2. **Cross-session pattern check**: look at prior harvested deletions (scan the current session's deletions against the same class of deletions — e.g. read earlier `draft_pre_edit.md`/session pairs if quick, or rely on the recurring theme). If the *same kind* of hallucination has now been deleted by the user across **≥2 sessions**, propose a **new numbered ZAKAZY rule** for `.agents/skills/rpg-summarizer/resources/summary_prompt.txt` (in the *ZAKAZY — anty-halucynacje* section, matching its numbered style and Polish wording), phrased as a hard prohibition covering that class.
 3. A single-session deletion is recorded as a candidate only; do not propose a rule change for a one-off.
 
 ### 3c. Entity fact fixes → wiki entity file
@@ -56,7 +56,7 @@ Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3d. Pure style edits → style-rule amendment
 1. Collect style edits and look for a **consistent** pattern (e.g. the user always trims superlatives, always shortens multi-clause sentences, always cuts a stock phrase).
-2. Only if the same pattern appears **repeatedly** in this diff (or matches a pattern seen before), propose a small amendment to the style section of `.agent/skills/rpg-summarizer/resources/summary_prompt.txt` capturing that preference.
+2. Only if the same pattern appears **repeatedly** in this diff (or matches a pattern seen before), propose a small amendment to the style section of `.agents/skills/rpg-summarizer/resources/summary_prompt.txt` capturing that preference.
 3. A one-off rewording is not a pattern — record nothing.
 
 ## Step 4: Present proposals for confirmation
@@ -68,5 +68,5 @@ Build a set of proposed file updates. **Do not write anything yet.**
 ## Step 5: Apply approved writes
 
 1. Write each approved change to its target file, preserving that file's existing format exactly (table layout, numbering, Polish wording).
-2. After writing, if any `content/` file was changed (an entity file in 3c), run `python3 scripts/update_indexes.py` per the indexes rule. Changes to `.agent/` resources do not need index regeneration.
+2. After writing, if any `content/` file was changed (an entity file in 3c), run `python3 scripts/update_indexes.py` per the indexes rule. Changes to `.agents/` resources do not need index regeneration.
 3. **Report** what was written and what was skipped: "Harvested session {number}: {N} name corrections, {M} entity fixes applied; {K} deletion candidates recorded; {style/ZAKAZY proposals}." Keep it to a few lines.

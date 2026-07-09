@@ -28,18 +28,18 @@ python3 update_indexes.py
 
 The `input/` directory is a staging area (gitignored except `.gitkeep`). Drop new session files there before processing.
 
-## The `.agent/` directory
+## The `.agents/` directory
 
-This is the AI automation layer — Claude's instructions for working in this repo. It is **not** a standard Claude Code directory; it contains three subdirectories:
+This is the AI automation layer, shared between Antigravity (native `.agents/rules`, `.agents/skills`, `.agents/workflows` support) and Claude Code. `.agents/` is the single source of truth; `.claude/skills` and `.claude/commands` are symlinks into it (`.claude/skills → ../.agents/skills`, `.claude/commands → ../.agents/workflows`), so Claude Code's native Skill tool and slash commands (e.g. `/finalize-session-recap`) pick up the exact same files Antigravity uses — nothing is duplicated. It contains three subdirectories:
 
 ### `rules/` — always-on constraints
 
-These apply automatically to every task:
+Imported below so their full text is always in context for Claude Code too (mirrors Antigravity's `trigger: always_on`):
 
-- **`read_transcript.md`** — When summarizing a transcript, read the full file before generating output. **Exception**: when `rpg-summarizer` is active (chunked subagent mode), the orchestrating agent must NOT pre-load the full transcript — only get the line count and scan for names. Each chunk subagent reads its own slice.
-- **`indexes.md`** — After any content file is created, moved, or renamed, run `python3 update_indexes.py`.
-- **`wikilinks.md`** — All internal links use simplified Obsidian format: `[[Name]]` or `[[Name|Alias]]`. No paths, no `.md` extension. PC hero names always link to the full filename: `[[Felicjan Janus Twardowski|Felicjan]]`.
-- **`use_venv.md`** — Always use `.venv/bin/python`, never `python3` directly.
+@.agents/rules/read_transcript.md
+@.agents/rules/indexes.md
+@.agents/rules/wikilinks.md
+@.agents/rules/use_venv.md
 
 ### `skills/` — reusable capabilities
 

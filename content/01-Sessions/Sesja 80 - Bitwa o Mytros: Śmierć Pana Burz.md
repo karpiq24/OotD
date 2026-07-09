@@ -97,7 +97,7 @@ Z oddalonego miasta zaczęły dobiegać okrzyki triumfu. Pozbawione swojego wodz
 * [[Nephele]]
 * [[Arkyrania]]
 * [[Sybolkorax]]
-* [[Trąba|Tromba]]
+* [[Trąba]]
 * [[Klonicjan]]
 * [[Volkan]]
 

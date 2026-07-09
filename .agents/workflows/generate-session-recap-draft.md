@@ -25,7 +25,7 @@ This workflow processes a raw transcript into a markdown draft. It has two modes
 
 1. **Line Count**: Run `wc -l` on `content/assets/sessions/{000}/transcript_enriched.txt` if present, else `transcript.txt` — the skill chunks whichever file exists (enriched preferred) and needs this count to plan chunks.
 2. **Build canonical glossary**: Run `.venv/bin/python scripts/extract_glossary.py content/assets/sessions/{000}/transcript.txt`. The stdout is the session-specific canonical-names list (filtered to names that appear in this transcript). Pass it verbatim into every chunk subagent prompt.
-3. **Read phonetic corrections**: `.agent/skills/rpg-summarizer/resources/phonetic_corrections.md` — list of known ASR misspellings. Pass verbatim into every chunk subagent prompt too.
+3. **Read phonetic corrections**: `.agents/skills/rpg-summarizer/resources/phonetic_corrections.md` — list of known ASR misspellings. Pass verbatim into every chunk subagent prompt too.
 4. **Read** the last 3 session files in `content/01-Sessions/` to understand the current narrative arc. Do NOT load all transcript dialogue into your context — the rpg-summarizer skill handles the full text via chunk subagents.
 5. **Refine mode only**: Read `content/assets/sessions/{000}/draft0.md` and `content/assets/sessions/{000}/validation_report.md` in full — these are small (a chunked, already-validated Gemini summary) and are needed to slice per-chunk in Step 4.
 

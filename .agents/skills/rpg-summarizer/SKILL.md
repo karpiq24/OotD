@@ -19,14 +19,14 @@ Two modes, selected by the caller (`generate-session-recap-draft` Step 0):
   .venv/bin/python scripts/extract_glossary.py content/assets/sessions/{NNN}/transcript.txt
   ```
   Save the stdout — this is the **canonical-names glossary** for this session. It lists every NPC/location/item/lore entry from the wiki that appears (by phonetic prefix) in the transcript, plus aliases harvested from `[[Canonical|Alias]]` wikilinks. Embed this glossary into every chunk prompt verbatim.
-- **Read** `.agent/skills/rpg-summarizer/resources/phonetic_corrections.md` — a curated list of ASR misspellings (e.g. `Pytrion → Raspytrion`). Embed verbatim into every chunk prompt too.
+- **Read** `.agents/skills/rpg-summarizer/resources/phonetic_corrections.md` — a curated list of ASR misspellings (e.g. `Pytrion → Raspytrion`). Embed verbatim into every chunk prompt too.
 - **Read** the last 3 session files in `content/01-Sessions/` for narrative arc continuity.
 
 You do NOT need to pre-load the full transcript into the orchestrator's context — the chunk subagents read their own slices.
 
 ## Step 2: Load Style Prompt
 
-Read `.agent/skills/rpg-summarizer/resources/summary_prompt.txt` in full. You will embed its entire content into every subagent prompt below — it defines tone, character names, section formatting, and language style, plus anti-hallucination guardrails and the IC/OOC distinction.
+Read `.agents/skills/rpg-summarizer/resources/summary_prompt.txt` in full. You will embed its entire content into every subagent prompt below — it defines tone, character names, section formatting, and language style, plus anti-hallucination guardrails and the IC/OOC distinction.
 
 ## Step 3: Chunk the Transcript
 
