@@ -479,4 +479,14 @@
 * **Legendarna odpowiedź Sydona** — Władca Burz odpowiada pogardą i wyprowadza potężne cięcie swoją [[Glewia Sydona|glewią]], poważnie raniąc smoka [[Raspytrion|Raspytriona]] (wierzchowca [[Orion Xul|Oriona Xula]]), który jednak utrzymuje się w locie.
 * **Przerwanie starcia** — Pojedynek zostaje zawieszony w połowie pierwszej rundy z przyczyn losowych (nagłe odejście mistrza gry od stołu); starcie pozostaje nierozstrzygnięte.
 
+## Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz (07.07.2026)
+* **Powietrzno-morskie starcie z Sydonem** — Bohaterowie kontynuują walkę z tytanem [[Sydon|Sydonem]] nad wodami zatoki [[Mytros]] przy okręcie [[Tranquility]], dosiadając smoków ([[Arkyrania]], [[Sybolkorax]], [[Nephele (Smok)|Nephele]]) i sterując [[Kolos Pythora|Kolosem Pythora]] wraz z [[Klonicjan|Klonicjanem]].
+* **Śmierć smoczycy Nephele** — [[Sydon]] skupia furię na srebrnołuskiej [[Nephele (Smok)|Nephele]], powala ją i bezlitośnie dobija; martwe ciało smoczycy dryfuje ku plaży.
+* **Burzowy żywiołak i ginące inkarnacje Trąby** — Sydon przywołuje burzową chmurę siejącą palącym kwasem i pierwotnymi gromami; kolejne inkarnacje niebiańskiego wierzchowca [[Versir|Versira]], [[Trąba|Trąby]], giną jedna po drugiej, lecz mag wciąż przyzywa je na nowo.
+* **Odwrócona grawitacja i dezintegracja** — [[Felicjan Janus Twardowski|Felicjan]] odwraca grawitację magicznym zwojem, wyrywając [[Lewiatan|Lewiatana]] z wody wysoko w powietrze, a później dezintegruje burzowego żywiołaka szmaragdowym promieniem.
+* **Zguba Lewiatana** — [[Orestes]] w szale zabija gigantycznego [[Lewiatan|Lewiatana]] serią cięć [[Topór Xandera|Toporem Xandera]].
+* **Śmierć Sydona** — [[Orestes]], szarżując na smoczym grzbiecie, zadaje tytanowi cios ostateczny — [[Topór Xandera]] rozcina trzecie oko [[Sydon|Sydona]]; Władca Burz rozsypuje się w popiół i złoty pył, pozostawiając jedynie [[Glewia Sydona|glewię]]. Nienaturalna burza nad [[Mytros]] milknie.
+* **Przebudzenie Góry Volkana** — Śmierć boga wywołuje tąpnięcie i trzęsienie ziemi, a wygasły wulkan [[Kuźnia Volkana|Góra Volkana]] budzi się do życia, plując dymem i ogniem.
+* **Nadejście Lutherii (cliffhanger)** — Tuż po zwycięstwie przybywa [[Lutheria]] z koszmarną świtą nieumarłych, zamienia ocalałych mieszkańców w bydło i pogrąża miasto w obłędzie, posyłając bohaterom nieme, mroczne zaproszenie.
+
 
