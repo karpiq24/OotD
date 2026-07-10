@@ -1,8 +1,5 @@
 ---
 title: "Sesja 55: Egida Mytros"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/055/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/055/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/055/chat_log.json)"
 ---
 **Data:** 04.08.2025
 

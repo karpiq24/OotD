@@ -1,6 +1,5 @@
 ---
 title: Sesja 30 - Zakończenie Igrzysk
-chat_log: "[Chat log](../assets/sessions/030/chat_log.json)"
 ---
 **Data:** 12.11.2024
 

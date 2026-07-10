@@ -1,8 +1,5 @@
 ---
 title: "Sesja 75: Koniec Przysięgi"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/075/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/075/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/075/chat_log.json)"
 ---
 
 **Data:** 20.04.2026

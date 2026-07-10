@@ -32,11 +32,46 @@
 
   .field-value {
     color: var(--dark);
-    
+
     a {
       text-decoration: none;
       color: var(--secondary);
-      
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .session-asset-group {
+    margin-top: 0.75rem;
+  }
+
+  .session-asset-category {
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin: 0 0 0.25rem 0;
+    color: var(--gray);
+  }
+
+  .session-asset-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .session-asset-entry {
+    font-size: 0.9rem;
+    line-height: 1.4;
+
+    a {
+      text-decoration: none;
+      color: var(--secondary);
+
       &:hover {
         text-decoration: underline;
       }

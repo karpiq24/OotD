@@ -1,8 +1,5 @@
 ---
 title: "Sesja 56: Dedal i Ikar"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/056/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/056/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/056/chat_log.json)"
 ---
 **Data:** 11.08.2025
 

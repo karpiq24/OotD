@@ -1,6 +1,5 @@
 ---
 title: "Sesja 17: Targ Minotaurów"
-chat_log: "[Chat log](../assets/sessions/017/chat_log.json)"
 ---
 **Data:** 08.07.2024
 

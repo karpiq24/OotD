@@ -1,8 +1,5 @@
 ---
 title: "Sesja 65: Wyprawa w Otchłań"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/065/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/065/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/065/chat_log.json)"
 ---
 **Data:** 05.01.2026
 

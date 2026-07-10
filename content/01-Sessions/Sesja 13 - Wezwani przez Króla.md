@@ -1,6 +1,5 @@
 ---
 title: "Sesja 13: Wezwani przez Króla"
-chat_log: "[Chat log](../assets/sessions/013/chat_log.json)"
 ---
 **Data:** 13.05.2024
 

@@ -1,6 +1,5 @@
 ---
 title: "Sesja 5: Skała Estora"
-chat_log: "[Chat log](../assets/sessions/005/chat_log.json)"
 ---
 **Data:** 12.02.2024
 

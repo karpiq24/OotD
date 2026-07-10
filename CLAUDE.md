@@ -64,7 +64,7 @@ Two main workflows for processing a new session, plus one on-demand workflow:
 3. Activate `rpg-summarizer` (chunk subagent mode, `refine` or `from-scratch`) → generates the narrative draft.
 4. Save the narrative draft (provisional title) to `content/01-Sessions/Sesja {N} - {Title}.md`.
 4.5. **Interactive verification** — collect open findings (fact-checker, `validation_report.md`, ambiguous identities, abandoned actions, chunk-boundary chronology) into ≤10 pick-one questions asked in one message; mechanics questions are first answered from `chat_events.txt` via `rpg-chatlog-analyst` and only reach the user if the chat log can't settle them; apply answers to the draft immediately, mark skipped sentences with `<!-- UNVERIFIED: ... -->`.
-4.7. **Generate session details** — from the final refined draft, derive the structured sections per `templates/Session.md` (final title → filename, `Kluczowe wydarzenia`, `Postacie`, `Lokacje`, `Przedmioty`, and `Cytaty` from the bundle's `quotes.json`, verbatim), then assemble the **complete** session file (frontmatter + details + narrative under `## Podsumowanie`) — rpgnotes no longer pre-renders any of it. Finally save the pristine copy to `content/assets/sessions/{000}/draft_pre_edit.md` for the learning loop.
+4.7. **Generate session details** — from the final refined draft, derive the structured sections per `templates/Session.md` (final title → filename, `Kluczowe wydarzenia`, `Postacie`, `Lokacje`, `Przedmioty`, and `Cytaty` from the bundle's `quotes.json`, verbatim), then assemble the **complete** session file (frontmatter — just `title`; asset links are not written by hand, the `SessionAssets` transformer lists them under **Metadane** at build time — plus details + narrative under `## Podsumowanie`) — rpgnotes no longer pre-renders any of it. Finally save the pristine copy to `content/assets/sessions/{000}/draft_pre_edit.md` for the learning loop.
 5. In refine mode, surface any still-unresolved `validation_report.md` findings (not the ones answered in 4.5) plus any UNVERIFIED-marker count alongside the review notice.
 
 **`finalize-session-recap`** (Part 2, after user edits the draft):
@@ -78,7 +78,7 @@ Two main workflows for processing a new session, plus one on-demand workflow:
 **`generate-video-script`** (on-demand only, invoked explicitly — not part of finalization):
 1. Ask for session number → locate the recap file.
 2. Activate `rpg-video-scripter` → interactively pick focus mode + art style, then generate the script.
-3. Save to `content/assets/sessions/{000}/video_script.md`, link it from the recap frontmatter, run `update_indexes.py`, and echo clips in chat.
+3. Save to `content/assets/sessions/{000}/video_script.md` (auto-listed under **Metadane** by the `SessionAssets` transformer — no frontmatter link needed), run `update_indexes.py`, and echo clips in chat.
 
 **`harvest-corrections`** (learning loop; auto-runs as `finalize-session-recap` Step 0, or on-demand):
 1. Diff `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file. Skip gracefully if the pre-edit snapshot is missing.
@@ -103,6 +103,8 @@ content/
   Timeline.md       # Chronological campaign events
   Campaign_Context.md  # Running concise campaign summary
 ```
+
+**Session "Metadane" list.** The `SessionAssets` transformer (`quartz/plugins/transformers/sessionAssets.ts`) scans `content/assets/sessions/{000}/` at build time for any recap file named `Sesja {N} - …` and lists **every** file in that directory — grouped into categories (Transkrypty, Logi czatu, Dane, Raporty, Wideo, Obrazki, Prompty) — under the **Metadane** section rendered by `quartz/components/FrontmatterTable.tsx`. Do **not** add `transcript_*` / `chat_log` / `video_script` links to session frontmatter by hand; drop a file in the asset directory and it appears automatically.
 
 Templates for new entity files: `templates/Session.md`, `NPC.md`, `Location.md`, `Item.md`, `Faction.md`, `Handout.md`.
 

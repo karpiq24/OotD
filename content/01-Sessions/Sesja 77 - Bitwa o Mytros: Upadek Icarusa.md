@@ -1,8 +1,5 @@
 ---
 title: "Sesja 77: Bitwa o Mytros: Upadek Icarusa"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/077/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/077/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/077/chat_log.json)"
 ---
 
 **Data:** 12.05.2026

@@ -1,8 +1,5 @@
 ---
 title: "Sesja 76: Bitwa o Mytros: Pierwsza Fala"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/076/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/076/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/076/chat_log.json)"
 ---
 
 **Data:** 04.05.2026

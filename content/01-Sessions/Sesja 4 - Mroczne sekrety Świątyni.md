@@ -1,6 +1,5 @@
 ---
 title: "Sesja 4: Mroczne sekrety Świątyni"
-chat_log: "[Chat log](../assets/sessions/004/chat_log.json)"
 ---
 **Data:** 05.02.2024
 

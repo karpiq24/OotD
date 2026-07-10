@@ -1,8 +1,5 @@
 ---
 title: "Sesja 61: Yala, Arezja i Żółw"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/061/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/061/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/061/chat_log.json)"
 ---
 **Data:** 03.11.2025
 

@@ -1,6 +1,5 @@
 ---
 title: Sesja 27 - Kolejny dzień Igrzysk
-chat_log: "[Chat log](../assets/sessions/027/chat_log.json)"
 ---
 **Data:** 21.10.2024
 

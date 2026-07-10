@@ -1,8 +1,5 @@
 ---
 title: "Sesja 47: Wyspa Mojr"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/047/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/047/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/047/chat_log.json)"
 ---
 **Data:** 13.05.2024
 

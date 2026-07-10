@@ -1,8 +1,5 @@
 ---
 title: "Sesja 53: Koniec Yonder"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/053/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/053/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/053/chat_log.json)"
 ---
 **Data:** 14.07.2025
 

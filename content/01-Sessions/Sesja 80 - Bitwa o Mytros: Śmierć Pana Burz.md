@@ -1,8 +1,5 @@
 ---
 title: "Sesja 80: Bitwa o Mytros: Śmierć Pana Burz"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/080/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/080/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/080/chat_log.json)"
 ---
 **Data**: 07.07.2026
 

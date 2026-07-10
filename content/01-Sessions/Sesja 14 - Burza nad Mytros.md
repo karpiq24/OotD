@@ -1,6 +1,5 @@
 ---
 title: "Sesja 14: Burza nad Mytros"
-chat_log: "[Chat log](../assets/sessions/014/chat_log.json)"
 ---
 **Data:** 20.05.2024
 

@@ -1,6 +1,5 @@
 ---
 title: "Sesja 16: Świątynia Lutherii"
-chat_log: "[Chat log](../assets/sessions/016/chat_log.json)"
 ---
 **Data:** 03.06.2024
 

@@ -124,12 +124,10 @@ anatomy, rich dynamic brushstrokes.
    {optional ingredients appendix, if produced}
    ```
 2. Save the document as markdown to `content/assets/sessions/{NNN}/video_script.md`.
-3. Open the session recap markdown file (`content/01-Sessions/Sesja {NNN} - *.md`).
-4. Add or update the following field in the YAML frontmatter:
-   ```yaml
-   video_script: "[Skrypt wideo](../assets/sessions/{NNN}/video_script.md)"
-   ```
-5. Run the index auto-updater script to update the Obsidian-compatible navigation and links:
+   The `SessionAssets` transformer auto-detects every file in the session's asset
+   directory and lists it under **Metadane**, so `video_script.md` shows up on the recap
+   automatically — no frontmatter link is needed (and none should be added).
+3. Run the index auto-updater script to update the Obsidian-compatible navigation and links:
    ```bash
    python3 scripts/update_indexes.py
    ```

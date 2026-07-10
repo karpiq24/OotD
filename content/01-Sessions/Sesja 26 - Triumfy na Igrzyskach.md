@@ -1,6 +1,5 @@
 ---
 title: Sesja 26 - Triumfy na Igrzyskach
-chat_log: "[Chat log](../assets/sessions/026/chat_log.json)"
 ---
 **Data:** 14.10.2024
 

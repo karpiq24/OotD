@@ -1,8 +1,5 @@
 ---
 title: "Sesja 51: Desant na Yonder"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/051/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/051/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/051/chat_log.json)"
 ---
 **Data:** 23.06.2025
 
