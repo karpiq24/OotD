@@ -6,21 +6,12 @@ chat_log: "[Chat log](../assets/sessions/080/chat_log.json)"
 ---
 **Data**: 07.07.2026
 
-![Bitwa nad zatoką Mytros](../assets/sessions/080/main_1.webp)
-[Prompt](../assets/sessions/080/main_1.txt)
-
-![Cios ostateczny w Sydona](../assets/sessions/080/main_2.png)
-[Prompt](../assets/sessions/080/main_2.txt)
-
-![Nadejście Lutherii](../assets/sessions/080/main_3.webp)
-[Prompt](../assets/sessions/080/main_3.txt)
+![Przebudzenie Góry Volkana](../assets/sessions/080/tapniecie_mount_volkan_1.webp)
+[Prompt](../assets/sessions/080/tapniecie_mount_volkan_1.txt)
 
 ## Podsumowanie
 
 ### Powietrzna Ofensywa Smoków i Odwet Sydona
-
-![Powietrzna ofensywa smoków](../assets/sessions/080/ofensywa_smokow_1.webp)
-[Prompt](../assets/sessions/080/ofensywa_smokow_1.txt)
 
 ![Odwet Sydona](../assets/sessions/080/odwet_sydona_2.webp)
 [Prompt](../assets/sessions/080/odwet_sydona_2.txt)
@@ -34,17 +25,11 @@ Bitwa o [[Mytros]] wciąż szalała nad wzburzonymi wodami zatoki u wybrzeży mi
 ![Szarża Versira](../assets/sessions/080/szarza_versira_1.webp)
 [Prompt](../assets/sessions/080/szarza_versira_1.txt)
 
-![Furia Orestesa](../assets/sessions/080/furia_orestesa_2.webp)
-[Prompt](../assets/sessions/080/furia_orestesa_2.txt)
-
 **[[Versir]]** kontynuował bezlitosne natarcie, dosiadając swego wierzchowca **[[Trąba|Trąby]]**. Skrzydlaty hefalump raz za razem uderzał w Tytana z niesłabnącą zaciekłością, a sam mag bitewny nasycił ostrze **[[Zguba Tytanów|Zguby Tytanów]]** żywym ogniem i wyprowadził serię świetlistych, radiantnych cięć, które rozdarły cielsko **[[Sydon|Sydona]]**. Władca Burz odpłacił mściwym wyładowaniem błyskawic, którego pełną moc **Versir** przyjął na siebie, nie ustępując. Widząc rany sojusznika, **[[Arevon Elorrenthi|Arevon]]** przybrał gwiezdną formę Kielicha i uleczył **Versira** kojącą magią, która dzięki mistycznej więzi łączącej jeźdźca z wierzchowcem zregenerowała również siły **Trąby**. Druid dopełnił turę kolejnym uderzeniem smoczej energii wymierzonym we wroga.
 
 Zdesperowany **Sydon** spróbował zamachnąć się swą czarną **[[Glewia Sydona|Glewią]]** na **Trąbę**, lecz cios całkowicie chybił — ani rekiny, ani sam Tytan nie zdołali dosięgnąć nietykalnego rumaka. Tymczasem niżej, tuż nad falami roiącymi się od krwiożerczych rekinów, **[[Orestes]]** postanowił wyładować gniew na jednym z nich. Minotaur chwycił **[[Topór Xandera]]** i runął na gigantycznego rekina, wyprowadzając serię brutalnych, druzgocących cięć, które dosłownie rozsiekły morską bestię na strzępy. W tym momencie **Sydon** przywołał żywiołowy sztorm, z którego zaczął spływać palący, rujnujący deszcz, dosięgający zarówno smoków, jak i bohaterów.
 
 ### Kwasowa Ulewa i Gniew Władcy Burz
-
-![Kwasowa ulewa](../assets/sessions/080/kwasowa_ulewa_1.webp)
-[Prompt](../assets/sessions/080/kwasowa_ulewa_1.txt)
 
 ![Gniew Władcy Burz](../assets/sessions/080/gniew_wladcy_burz_2.webp)
 [Prompt](../assets/sessions/080/gniew_wladcy_burz_2.txt)
@@ -58,17 +43,11 @@ Nad polem bitwy wciąż wisiała mroczna chmura pierwotnej energii, z której la
 ![Odwrócona grawitacja](../assets/sessions/080/odwrocona_grawitacja_1.webp)
 [Prompt](../assets/sessions/080/odwrocona_grawitacja_1.txt)
 
-![Zionięcia smoków](../assets/sessions/080/zioniecia_smokow_2.webp)
-[Prompt](../assets/sessions/080/zioniecia_smokow_2.txt)
-
 **[[Arevon Elorrenthi|Arevon]]**, korzystając z aktywnej od początku walki smoczej przemiany (*Draconic Transformation*), znajdował się na grzbiecie **[[Arkyrania|Arkyranii]]** i zionął niszczycielską energią, starając się dosięgnąć Władcy Burz. Wtedy **[[Orestes]]**, ignorując niebezpieczeństwo, zaszarżował na **[[Sydon|Sydona]]** z **[[Topór Xandera|Toporem Xandera]]** i zadał mu brutalny cios; każde trafienie w cielsko Władcy Burz wyzwalało jednak mściwe wyładowania elektryczne, które raziły napastnika. Burzowa chmura przestała lać deszczem i zaczęła ciskać pierwotnymi gromami — najpierw raniąc **Arkyranię** i **[[Versir|Versira]]**, a potem uderzając żywiołowym ciosem w **Arevona**, który w porę zasłonił się barierą magicznej siły, oraz w **Versira**, który zwinnie wymknął się trafieniu. **[[Orion Xul|Orion]]** w tym czasie precyzyjnym rzutem dobił ostatniego z wielkich rekinów. **Sydon** odpowiedział gradem pocisków niszczycielskiej energii oraz przywołaną burzą, która raziła **[[Kolos Pythora|Kolosa]]**, **[[Nephele (Smok)|Nephele]]** i **Versira**, podczas gdy **Kolos** wbił włócznię w cielsko **[[Lewiatan|Lewiatana]]**, ciężko go raniąc. Szukając sposobu na unieszkodliwienie wodnej bestii, **[[Felicjan Janus Twardowski|Felicjan]]** odczytał magiczny zwój i odwrócił grawitację — potężny **Lewiatan** został bezradnie wyrwany z wody i uniesiony wysoko w powietrze, a **[[Klonicjan]]** spłynął łagodnie dzięki magii spowalniającej upadek.
 
 Wykorzystując zamęt, **[[Versir]]** na grzbiecie **[[Trąba|Trąby]]** natarł na **Sydona** i uwolnił w jego stronę serię ognistych promieni — istny grad płonącej energii, który zalał Tytana świetlistym żarem i zadał mu ogromne obrażenia. Zaraz potem sięgnął po **[[Zguba Tytanów|Zgubę Tytanów]]**, a każde cięcie klingi wypalało w ciele Władcy Burz rany, które nie chciały się już zasklepić, dławiąc jego nadprzyrodzoną zdolność do regeneracji. Mimo świętego ognia i mroźnych zionięć sprzymierzonych smoków **Sydon** wciąż stał na nogach, a wokół niego szalał żywioł burzowej chmury, gotów odpowiedzieć kolejnymi wyładowaniami.
 
 ### Podmuch Tytana i Śmierć Nephele
-
-![Podmuch Tytana](../assets/sessions/080/podmuch_tytana_1.png)
-[Prompt](../assets/sessions/080/podmuch_tytana_1.txt)
 
 ![Śmierć Nephele](../assets/sessions/080/smierc_nephele_2.webp)
 [Prompt](../assets/sessions/080/smierc_nephele_2.txt)
@@ -79,9 +58,6 @@ Unoszący się w powietrzu **Felicjan** wycelował palec w nadwątlonego burzowe
 
 ### Magia Gwiazd i Zguba Lewiatana
 
-![Magia gwiazd](../assets/sessions/080/magia_gwiazd_1.webp)
-[Prompt](../assets/sessions/080/magia_gwiazd_1.txt)
-
 ![Zguba Lewiatana](../assets/sessions/080/zguba_lewiatana_2.webp)
 [Prompt](../assets/sessions/080/zguba_lewiatana_2.txt)
 
@@ -90,9 +66,6 @@ Widząc rannych sojuszników, **[[Arevon Elorrenthi]]** przybrał świetlistą, 
 **[[Kolos Pythora]]** kontynuował natarcie, wbijając swą gigantyczną włócznię głęboko w cielsko **Sydona** i zadając mu potężne rany. Tytan nie pozostawał dłużny — cisnął w **Orestesa** kolejnym kataklizmicznym pociskiem, który zdruzgotał obronę minotaura i strącił go z powrotem w spienioną wodę. **Versir** zareagował błyskawicznie, splatając rozdwojoną moc leczącą, która jednocześnie odnowiła siły jego i **Orestesa**. W tej samej chwili wynurzający się z odmętów **[[Lewiatan]]** runął na minotaura, miażdżąc go swoim cielskiem i smagając ogonem ociekającym żrącym kwasem. **Arevon**, widząc, jak krucho wygląda sytuacja, uwolnił szeroką falę uzdrawiającej energii, która obmyła całą drużynę wraz ze smoczycą **Arkyranią** oraz **[[Sybolkorax|Sybolkoraxem]]**, po czym zionął w morską bestię smoczą mocą. Wpadłszy w szał, **Orestes** dopłynął do **Lewiatana** i wyprowadził morderczą serię lekkomyślnych cięć **Toporem Xandera**. Ostrze, którego przeznaczeniem jest niszczenie olbrzymów i tytanów, zagłębiało się raz za razem, aż brutalne uderzenia ostatecznie zakończyły żywot potwora. Triumfujący minotaur natychmiast wskoczył na grzbiet **Sybolkoraxa** i z okrzykiem ruszył z powrotem w stronę **Sydona**.
 
 ### Ostrza, Błyskawice i Śmierć Władcy Burz
-
-![Ostrza i błyskawice](../assets/sessions/080/ostrza_blyskawice_1.webp)
-[Prompt](../assets/sessions/080/ostrza_blyskawice_1.txt)
 
 ![Śmierć Władcy Burz](../assets/sessions/080/smierc_wladcy_burz_2.webp)
 [Prompt](../assets/sessions/080/smierc_wladcy_burz_2.txt)
@@ -103,8 +76,6 @@ Unosząc się w powietrzu tuż nad taflą wody, **Orestes** wziął potężny za
 
 ### Koszmar Pani Śmierci
 
-![Przebudzenie Góry Volkana](../assets/sessions/080/tapniecie_mount_volkan_1.webp)
-[Prompt](../assets/sessions/080/tapniecie_mount_volkan_1.txt)
 
 ![Koszmar Pani Śmierci](../assets/sessions/080/koszmar_lutherii_2.webp)
 [Prompt](../assets/sessions/080/koszmar_lutherii_2.txt)
