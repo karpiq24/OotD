@@ -1,6 +1,5 @@
 ---
 title: "Sesja 1: Wielki Dzik"
-chat_log: "[Chat log](../assets/sessions/001/chat_log.json)"
 ---
 **Data:** 15.01.2024
 

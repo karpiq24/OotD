@@ -1,8 +1,5 @@
 ---
 title: "Sesja 45: Tajemnica Wyspy Wygnańców"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/045/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/045/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/045/chat_log.json)"
 ---
 **Data:** 24.03.2025
 

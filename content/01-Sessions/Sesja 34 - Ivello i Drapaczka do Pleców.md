@@ -1,8 +1,5 @@
 ---
 title: "Sesja 34: Ivello i Drapaczka do Pleców"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/034/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/034/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/034/chat_log.json)"
 ---
 **Data:** 16.12.2024
 

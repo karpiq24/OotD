@@ -1,6 +1,5 @@
 ---
 title: "Sesja 21: Ukryte pragnienia Ismene"
-chat_log: "[Chat log](../assets/sessions/021/chat_log.json)"
 ---
 **Data:** 19.08.2024
 

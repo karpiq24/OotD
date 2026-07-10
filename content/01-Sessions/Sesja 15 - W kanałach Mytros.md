@@ -1,6 +1,5 @@
 ---
 title: "Sesja 15: W kanałach Mytros"
-chat_log: "[Chat log](../assets/sessions/015/chat_log.json)"
 ---
 **Data:** 27.05.2024
 

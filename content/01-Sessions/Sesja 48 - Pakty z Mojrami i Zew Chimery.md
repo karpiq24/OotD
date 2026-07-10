@@ -1,8 +1,5 @@
 ---
 title: "Sesja 48: Pakty z Mojrami i Zew Chimery"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/048/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/048/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/048/chat_log.json)"
 ---
 **Data:** 19.05.2025
 

@@ -1,9 +1,5 @@
 ---
 title: "Sesja 70: Audiencja u Pani Snów"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/070/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/070/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/070/chat_log.json)"
-video_script: "[Skrypt wideo](../assets/sessions/070/video_script.txt)"
 ---
 **Data**: 16.02.2026
 

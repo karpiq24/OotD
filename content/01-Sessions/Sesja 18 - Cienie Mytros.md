@@ -1,6 +1,5 @@
 ---
 title: "Sesja 18: Cienie Mytros"
-chat_log: "[Chat log](../assets/sessions/018/chat_log.json)"
 ---
 **Data:** 22.07.2024
 

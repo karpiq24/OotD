@@ -56,7 +56,7 @@ function parseMarkdownLinks(text: string): (string | JSX.Element)[] {
     result.push(
       <a href={linkUrl} class="internal" key={match.index}>
         {linkText}
-      </a>
+      </a>,
     )
     lastIndex = match.index + match[0].length
   }
@@ -95,12 +95,12 @@ function formatFieldValue(value: unknown): string | JSX.Element | (string | JSX.
     const formattedItems = value.map((item) => formatFieldValue(item)).filter(Boolean)
     if (formattedItems.length === 0) return null
     // For simple string arrays, join them
-    if (formattedItems.every(item => typeof item === 'string')) {
+    if (formattedItems.every((item) => typeof item === "string")) {
       return (formattedItems as string[]).join(", ")
     }
     // For complex items, return as array
-    return formattedItems.flatMap((item, i) => 
-      i < formattedItems.length - 1 ? [item, ", "] : [item]
+    return formattedItems.flatMap((item, i) =>
+      i < formattedItems.length - 1 ? [item, ", "] : [item],
     ) as (string | JSX.Element)[]
   }
 
@@ -119,49 +119,61 @@ function formatFieldValue(value: unknown): string | JSX.Element | (string | JSX.
 export default ((opts?: Partial<FrontmatterTableOptions>) => {
   const options: FrontmatterTableOptions = { ...defaultOptions, ...opts }
 
-  const FrontmatterTable: QuartzComponent = ({
-    fileData,
-    displayClass,
-  }: QuartzComponentProps) => {
+  const FrontmatterTable: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
     const frontmatter = fileData.frontmatter
-
-    if (!frontmatter) {
-      return null
-    }
+    const sessionAssets = fileData.sessionAssets ?? []
 
     // Get all frontmatter fields that should be displayed
-    const displayableFields = Object.entries(frontmatter).filter(([key, value]) => {
-      // Skip excluded fields
-      if (options.excludeFields.includes(key)) {
-        return false
-      }
-      // Skip empty values
-      const formattedValue = formatFieldValue(value)
-      if (formattedValue === null || formattedValue === "") {
-        return false
-      }
-      return true
-    })
+    const displayableFields = frontmatter
+      ? Object.entries(frontmatter).filter(([key, value]) => {
+          // Skip excluded fields
+          if (options.excludeFields.includes(key)) {
+            return false
+          }
+          // Skip empty values
+          const formattedValue = formatFieldValue(value)
+          if (formattedValue === null || formattedValue === "") {
+            return false
+          }
+          return true
+        })
+      : []
 
-    // Hide if no displayable fields
-    if (options.hideWhenEmpty && displayableFields.length === 0) {
+    // Hide if there's nothing to show (neither frontmatter rows nor session assets)
+    if (options.hideWhenEmpty && displayableFields.length === 0 && sessionAssets.length === 0) {
       return null
     }
 
     return (
       <div class={classNames(displayClass, "frontmatter-table")}>
         {options.title && <h3>{options.title}</h3>}
-        <ul class="frontmatter-list">
-          {displayableFields.map(([key, value]) => {
-            const formattedValue = formatFieldValue(value)
-            return (
-              <li class="frontmatter-entry" key={key}>
-                <span class="field-label">{formatFieldName(key)}</span>:{" "}
-                <span class="field-value">{formattedValue}</span>
-              </li>
-            )
-          })}
-        </ul>
+        {displayableFields.length > 0 && (
+          <ul class="frontmatter-list">
+            {displayableFields.map(([key, value]) => {
+              const formattedValue = formatFieldValue(value)
+              return (
+                <li class="frontmatter-entry" key={key}>
+                  <span class="field-label">{formatFieldName(key)}</span>:{" "}
+                  <span class="field-value">{formattedValue}</span>
+                </li>
+              )
+            })}
+          </ul>
+        )}
+        {sessionAssets.map((group) => (
+          <div class="session-asset-group" key={group.category}>
+            <h4 class="session-asset-category">{group.category}</h4>
+            <ul class="session-asset-list">
+              {group.files.map((f) => (
+                <li class="session-asset-entry" key={f.url}>
+                  <a href={f.url} class="internal">
+                    {f.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
       </div>
     )
   }

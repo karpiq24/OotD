@@ -1,6 +1,5 @@
 ---
 title: "Sesja 20: Noc Długich Rogów"
-chat_log: "[Chat log](../assets/sessions/020/chat_log.json)"
 ---
 **Data:** 12.08.2024
 

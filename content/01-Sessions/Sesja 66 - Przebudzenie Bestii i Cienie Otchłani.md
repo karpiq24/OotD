@@ -1,8 +1,5 @@
 ---
 title: "Sesja 66: Przebudzenie Bestii i Cienie Otchłani"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/066/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/066/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/066/chat_log.json)"
 ---
 **Data:** 2026-01-14
 

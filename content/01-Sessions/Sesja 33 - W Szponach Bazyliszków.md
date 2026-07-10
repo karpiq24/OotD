@@ -1,8 +1,5 @@
 ---
 title: "Sesja 33: W Szponach Bazyliszków"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/033/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/033/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/033/chat_log.json)"
 ---
 **Data:** 02.12.2024
 

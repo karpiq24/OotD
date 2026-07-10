@@ -1,6 +1,5 @@
 ---
 title: "Sesja 23: Nowe Przymierze"
-chat_log: "[Chat log](../assets/sessions/023/chat_log.json)"
 ---
 **Data:** 16.09.2024
 

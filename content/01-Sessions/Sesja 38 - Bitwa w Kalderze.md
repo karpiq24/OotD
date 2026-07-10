@@ -1,8 +1,5 @@
 ---
 title: "Sesja 38: Bitwa w Kalderze"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/038/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/038/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/038/chat_log.json)"
 ---
 **Data:** 20.01.2025
 

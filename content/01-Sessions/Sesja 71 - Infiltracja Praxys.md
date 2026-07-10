@@ -1,9 +1,5 @@
 ---
 title: "Sesja 71: Infiltracja Praxys"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/071/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/071/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/071/chat_log.json)"
-video_script: "[Skrypt wideo](../assets/sessions/071/video_script.md)"
 ---
 **Data**: 02.03.2026
 

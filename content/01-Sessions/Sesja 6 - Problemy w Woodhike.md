@@ -1,6 +1,5 @@
 ---
 title: "Sesja 6: Problemy w Woodhike"
-chat_log: "[Chat log](../assets/sessions/006/chat_log.json)"
 ---
 **Data:** 21.02.2024
 

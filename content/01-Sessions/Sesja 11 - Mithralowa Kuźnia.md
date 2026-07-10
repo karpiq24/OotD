@@ -1,6 +1,5 @@
 ---
 title: "Sesja 11: Mithralowa Kuźnia"
-chat_log: "[Chat log](../assets/sessions/011/chat_log.json)"
 ---
 **Data:** 22.04.2024
 

@@ -1,6 +1,5 @@
 ---
 title: "Sesja 7: Uratować Księżniczkę"
-chat_log: "[Chat log](../assets/sessions/007/chat_log.json)"
 ---
 **Data:** 04.03.2024
 

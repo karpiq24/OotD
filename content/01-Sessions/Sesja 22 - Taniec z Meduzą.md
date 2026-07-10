@@ -1,6 +1,5 @@
 ---
 title: "Sesja 22: Taniec z Meduzą"
-chat_log: "[Chat log](../assets/sessions/022/chat_log.json)"
 ---
 **Data:** 26.08.2024
 

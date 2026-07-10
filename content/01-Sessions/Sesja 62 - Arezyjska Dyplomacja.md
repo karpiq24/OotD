@@ -1,8 +1,5 @@
 ---
 title: "Sesja 62: Arezyjska Dyplomacja"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/062/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/062/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/062/chat_log.json)"
 ---
 **Data:** 17.11.2025
 

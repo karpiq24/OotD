@@ -1,8 +1,5 @@
 ---
 title: "Sesja 79: Bitwa o Mytros: Gniew Pana Burz"
-transcript_txt: "[Transkrypt (txt)](../assets/sessions/079/transcript.txt)"
-transcript_json: "[Transkrypt (json)](../assets/sessions/079/transcript.json)"
-chat_log: "[Chat log](../assets/sessions/079/chat_log.json)"
 ---
 
 **Data:** 08.06.2026

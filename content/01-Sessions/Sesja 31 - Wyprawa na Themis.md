@@ -1,6 +1,5 @@
 ---
 title: "Sesja 31: Wyprawa na Themis"
-chat_log: "[Chat log](../assets/sessions/031/chat_log.json)"
 ---
 **Data:** 18.11.2024
 

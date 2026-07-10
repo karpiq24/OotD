@@ -1,6 +1,5 @@
 ---
 title: Sesja 28 - Igrzysk ciąg dalszy
-chat_log: "[Chat log](../assets/sessions/028/chat_log.json)"
 ---
 **Data:** 28.10.2024
 
