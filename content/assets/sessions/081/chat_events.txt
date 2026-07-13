@@ -1,0 +1,324 @@
+[00:03:46] Battle of Mytros: 12
+[00:13:54] Versir: targeted strike The Maneuver roll
+[00:15:20] Battle of Mytros: 20
+[00:15:20] Battle of Mytros: 15
+[00:15:34] Battle of Mytros: 21
+[00:15:34] Battle of Mytros: 22
+[00:15:45] Battle of Mytros: 2
+[00:15:45] Battle of Mytros: 11
+[00:15:45] Battle of Mytros: 23
+[00:15:52] Battle of Mytros: 14
+[00:15:52] Battle of Mytros: 13
+[00:15:56] Orion Xul: 53
+[00:16:02] Battle of Mytros: 9
+[00:16:02] Battle of Mytros: 4
+[00:16:12] Battle of Mytros: 17
+[00:16:12] Battle of Mytros: 20
+[00:16:21] Orion Xul (rzut): Hit Dice 6 1d10 + 3 1d10 3 | rzuty: = 6, 1d10 + 3, 1d10
+[00:16:45] Battle of Mytros: 24
+[00:16:45] Battle of Mytros: 61
+[00:16:49] Battle of Mytros: 1
+[00:16:49] Battle of Mytros: 5
+[00:16:49] Battle of Mytros: Battle in Academy (4) Egida Mytros vs Bronze Automatons II Bronze Automatons II wins 52–60 Allied Sydon Recovery +1 14 vs DC 14 Defensive Footing: +2 +1 (failed) 13 vs DC 15 Winner Hope -2 Morale 9 vs DC 12 Rallier (adjacent): +2 +1 Morale 4 vs DC 12 Winner Final State Inj 2 · Mor 0 Inj 4 · Mor 3 Allied: LEGION ROUTED Civilian deaths this engagement: ~125
+[00:17:10] Battle of Mytros: 21
+[00:17:10] Battle of Mytros: 21
+[00:17:14] Battle of Mytros: 37
+[00:17:14] Battle of Mytros: 17
+[00:17:18] Battle of Mytros: 2
+[00:17:18] Battle of Mytros: 34
+[00:17:18] Battle of Mytros: 16
+[00:17:22] Battle of Mytros: 9
+[00:17:22] Battle of Mytros: 13
+[00:17:31] Battle of Mytros: 27
+[00:17:31] Battle of Mytros: 13
+[00:17:35] Battle of Mytros: 22
+[00:17:35] Battle of Mytros: 22
+[00:17:48] Orion Xul (rzut): Hit Dice 6 1d10 + 3 1d10 3 | rzuty: = 6, 1d10 + 3, 1d10
+[00:17:54] Battle of Mytros: 26
+[00:17:54] Battle of Mytros: 37
+[00:17:54] Battle of Mytros: 81
+[00:17:57] Battle of Mytros: 2
+[00:17:57] Battle of Mytros: 1
+[00:17:57] Battle of Mytros: Battle in Palace (5) Mytros Centurions I vs Gygans I Mytros Centurions I wins 92–54 Allied Sydon Recovery +1 (failed) 9 vs DC 14 Fanatic: Disadvantage Winner +1 13 vs DC 12 Ironclad: +2 Hope +1 Morale 27 vs DC 12 Rallier (adjacent): +2 Winner -1 Morale 13 vs DC 12 Final State Inj 2 · Mor 7 Inj 1 · Mor 6 Civilian deaths this engagement: ~5
+[00:18:12] Battle of Mytros: 17
+[00:18:12] Battle of Mytros: 18
+[00:18:26] Battle of Mytros: 20
+[00:18:26] Battle of Mytros: 24
+[00:18:31] Battle of Mytros: 1
+[00:18:31] Battle of Mytros: 17
+[00:18:31] Battle of Mytros: 24
+[00:18:36] Battle of Mytros: 14
+[00:18:36] Battle of Mytros: 16
+[00:18:39] Battle of Mytros: 28
+[00:18:39] Battle of Mytros: 11
+[00:18:43] Battle of Mytros: 8
+[00:18:43] Battle of Mytros: 18
+[00:18:49] Battle of Mytros: 47
+[00:18:56] Battle of Mytros: 2
+[00:18:56] Battle of Mytros: 3
+[00:18:56] Battle of Mytros: Battle in Theater (6) Estoria Dwarves vs Bronze Automatons I Bronze Automatons I wins 54–66 Allied Sydon Recovery +1 14 vs DC 14 No injury 16 vs DC 13 Winner Hope -1 Morale 28 vs DC 12 Rallier: +3 +1 Morale 11 vs DC 12 Winner Final State Inj 3 · Mor 2 Inj 1 · Mor 6 Civilian deaths this engagement: ~75
+[00:19:13] Battle of Mytros: 23
+[00:19:13] Battle of Mytros: 11
+[00:19:26] Battle of Mytros: 17
+[00:19:26] Battle of Mytros: 16
+[00:19:30] Battle of Mytros: 1
+[00:19:30] Battle of Mytros: 25
+[00:19:30] Battle of Mytros: 15
+[00:19:36] Battle of Mytros: 14
+[00:19:36] Battle of Mytros: 6
+[00:19:42] Battle of Mytros: 12
+[00:19:42] Battle of Mytros: 8
+[00:19:48] Battle of Mytros: 24
+[00:19:48] Battle of Mytros: 25
+[00:20:03] Battle of Mytros: 57
+[00:20:03] Battle of Mytros: 75
+[00:20:06] Battle of Mytros: 1
+[00:20:06] Battle of Mytros: 1
+[00:20:06] Battle of Mytros: Battle in Comon Hearth (10) Mytros Centurions II vs Merrows Mytros Centurions II wins 65–42 Allied Sydon Recovery +1 (failed) 14 vs DC 15 Fanatic: Disadvantage Warden (adjacent): +2 Defensive Footing: +2 Veteran: floor 5 Winner +2 (failed) 10 vs DC 15 Veteran: floor 5 Hope +2 Morale 12 vs DC 12 Veteran: floor 5 Winner -2 Morale 9 vs DC 12 Veteran: floor 5 Final State Inj 3 · Mor 4 Inj 4 · Mor 1 C…
+[00:21:08] Battle of Mytros: 3
+[00:21:08] Battle of Mytros: 3
+[00:21:09] Battle of Mytros: Civilian Casualties Overview The war takes its toll across the city... Source Deaths Destroyed Strategic Objectives under Sydon Control +30 Total Added +30
+[00:27:29] Arevon Elorrenthi: Guidance Legacy • Divination Cantrip Casting Time 1 action Duration up to 1 minute Components V, S Range Touch Concentration Requires Concentration You touch one willing creature. Once before the spell ends, the target can roll a d4 d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends.
+[00:29:56] Arevon Elorrenthi (rzut): Cosmic Omen (d6) 5 1d6 5 5 | rzuty: = 5, 1d6
+[00:32:19] Felicjan Janus Twardowski (rzut): Religion (+10) 23 1d20 + 10 1d20 13 | rzuty: = 23, 1d20 + 10, 1d20
+[00:36:07] Felicjan Janus Twardowski (rzut): Insight (+1) 12 1d20 + 1 1d20 11 | rzuty: = 12, 1d20 + 1, 1d20
+[00:36:08] karpiq: 19
+[00:37:34] Arevon Elorrenthi: Revivify Legacy • 3rd Level Necromancy (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S, M(diamonds worth 300 gp, which the spell consumes) Range Touch You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body par…
+[00:49:46] Sybolkorax: Sybolkorax takes a short rest spending 17 hit dice to recover 222 hit points.
+[01:06:54] Goatling: 8
+[01:08:40] Orestes (rzut): Deception (-1) 7 1d20 - 1 1d20 8 12 1d20 - 1 1d20 13 | rzuty: 1d20 - 1, 1d20, 1d20 - 1, 1d20
+[01:16:17] Versir: 16.08
+[01:16:25] Lutheria, The Lady of Dreams: 20.27
+[01:16:26] Lamia: 20.13
+[01:16:26] Tassos: 5.1
+[01:16:26] Maenad: 19.18
+[01:16:26] Goatling: 6.16
+[01:16:26] Goatling Trickster: 6.16
+[01:16:26] Maenad: 7.18
+[01:16:26] Goatling Trickster: 19.16
+[01:16:26] Goatling: 15.16
+[01:16:26] Goatling: 15.16
+[01:16:26] Chondrus: 20.16
+[01:16:26] Cerberus: 17.14
+[01:16:27] Orestes: 20.14
+[01:16:30] Orion Xul: 14.11
+[01:16:34] Arevon Elorrenthi: 14.16
+[01:16:38] Felicjan Janus Twardowski: 5.14
+[01:16:41] Hoooooooobert: 14.13
+[01:47:45] Orestes (rzut): Wisdom Save (-1) 4 1d20 - 1 1d20 5 | rzuty: = 4, 1d20 - 1, 1d20
+[01:48:13] Orestes: Ring of Orestes Ring, Legendary (requires attunement by a Doomed One) This simple ring seems to be created from a dragon bone. On the inside the inscription says: "DLA UKOCHANEGO ORESTESA". You have advantage on saving throws you make to avoid being charmed or frightened or to end those conditions on you. Ring of Orestes was enhanced by God of Crafts, Volkan himself. You gain a +1 1d20+1 bonus to…
+[01:49:46] Lutheria: Tasha's Hideous Laughter Enchantment A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall Prone , becoming Incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected. At the end…
+[01:51:54] Chondrus: Wall of Force 5th Level • Evocation An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made …
+[01:52:32] Orestes: Applied conditions: &Reference[incapacitated] &Reference[prone]
+[01:52:55] Orestes (rzut): Wisdom Save (-1) 3 1d20 - 1 1d20 4 | rzuty: = 3, 1d20 - 1, 1d20
+[01:54:03] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+[01:54:16] Orestes (rzut): Constitution Save (+8) 14 1d20 + 8 1d20 6 | rzuty: = 14, 1d20 + 8, 1d20
+[01:54:48] Orestes (rzut): Wisdom Save (-1) 14 1d20 - 1 1d20 15 14 1d20 - 1 1d20 15 | rzuty: 1d20 - 1, 1d20, 1d20 - 1, 1d20
+[01:56:23] Versir (rzut): Charisma Save (+17) 26 1d20 + 17 9 9 | rzuty: = 26, 1d20 + 17
+[01:56:39] Orion Xul (rzut): Charisma Save (+1) 14 1d20 + 1 1d20 13 11 1d20 + 1 1d20 10 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+[01:56:52] Arevon Elorrenthi (rzut): Charisma Save (-1) 15 1d20 - 1 16 16 17 1d20 - 1 18 18 | rzuty: 1d20 - 1, 1d20 - 1
+[01:56:54] Orion Xul: 1
+[01:57:44] Goatling Trickster: Sling Simple Ranged Attack Damage Action Instantaneous 30/120 ft Equipped Proficient
+[01:58:18] Cerberus (rzut): Bite Natural Melee Weapon Attack: 1d20+12 (+12) to hit, reach 10 ft., one target. Hit: 18 ( 3d6 + 8 ) piercing damage + 3 ( 1d6 ) poison damage, and the creature must make a DC 15 Constitution saving…
+[01:59:06] Orion Xul (rzut): Constitution Save (+9) 27 1d20 + 9 1d20 18 | rzuty: = 27, 1d20 + 9, 1d20
+[02:00:15] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 30, 1d20 + 11
+[02:00:17] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 18, 1d20 + 11
+[02:00:25] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 21 7 + 14
+[02:00:36] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 22 13 + 9
+[02:00:46] Chondrus: DC 10 Concentration Concentration
+[02:02:08] Goatling: Sling Simple Ranged Attack Damage Action Instantaneous 30/120 ft Equipped Proficient
+[02:02:16] Goatling: Sling Simple Ranged Attack Damage Action Instantaneous 30/120 ft Equipped Proficient
+[02:04:15] Arevon Elorrenthi (rzut): Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 26, 1d20 + 13
+[02:04:22] Arevon Elorrenthi (rzut): Guiding Bolt Legacy • 1st Level Evocation (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V, S Range 120ft. A flash of light streaks toward a creature of your choice within rang… | rzuty: = 16, 4d6
+[02:04:31] Arevon Elorrenthi (rzut): Starry Form: Archer Range 60ft. 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beas… | rzuty: 1d20 + 11, 1d20 + 11
+[02:04:36] Arevon Elorrenthi (rzut): Starry Form: Archer Range 60ft. 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beas… | rzuty: = 19, 2d8 + 6
+[02:04:48] Klonicjan: 13.1
+[02:06:13] Orion Xul: Spellguard Shield Armor (Shield), Very Rare (requires attunement) While holding this Shield, you have Advantage on saving throws against spells and other magical effects, and spell attack rolls have Disadvantage against you.
+[02:06:48] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20
+[02:06:59] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 15 10 + 5
+[02:07:08] Orion Xul: 2
+[02:07:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+[02:07:18] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 11 + 8
+[02:07:27] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20
+[02:07:30] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 12 + 7
+[02:07:45] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 28, 1d20 + 12, 1d20
+[02:07:47] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 15 12 + 3
+[02:07:56] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20
+[02:07:59] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 12 + 6
+[02:08:20] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20
+[02:08:25] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 15 11 + 4
+[02:08:48] Orion Xul: Shield Wall action You can use a bonus action to activate your Shield Wall ability. You may use this ability once, and you regain the ability to do so after completing a long rest. For 1 minute, you and every ally who can see or hear you gains +2 1d20+2 AC as long as they are standing within 5 feet of an ally who is using a shield. Additionally, your allies wielding shields gain an additional +1 …
+[02:13:13] Maenad: Dagger Simple Melee Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[02:13:25] Maenad: Dagger Simple Melee Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[02:14:11] Goatling Trickster: Sling Simple Ranged Attack Damage Action Instantaneous 30/120 ft Equipped Proficient
+[02:14:33] Goatling (rzut): Bite Natural Melee Weapon Attack: 1d20+5 (+5) to hit, reach 5 ft., one target. Hit: 5 ( 1d4 + 3 ) piercing damage. Instead of dealing damage, the goatling can grapple the target Attack Damage Action …
+[02:22:38] Arevon Elorrenthi: 25
+[02:23:23] Chondrus: DC 12 Concentration Concentration
+[02:25:07] Felicjan Janus Twardowski: Blink Legacy • 3rd Level Transmutation (Cast at 3rd Level) Casting Time 1 action Duration 1 minute Components V, S Range Self Roll a d20 d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the …
+[02:26:01] Felicjan Janus Twardowski: 20
+[02:26:59] Tassos (rzut): Spirit Guardians 3rd Level • Conjuration You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears…
+[02:29:20] Versir (rzut): Constitution Save (+14) 27 1d20 + 14 13 13 | rzuty: = 27, 1d20 + 14
+[02:29:25] Lutheria: Finger of Death Necromancy You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw. It takes 7d8 + 30 necrotic damage on a failed save, or half as much damage on a successful one. A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your comma…
+[02:31:49] Chondrus: Fire Bolt Evocation You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried. This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10). Attack Damage V, S Action Instan…
+[02:32:15] Orestes: Applied conditions: &Reference[incapacitated] &Reference[prone]
+[02:32:41] Orestes (rzut): Wisdom Save (-1) 4 1d20 - 1 1d20 5 | rzuty: = 4, 1d20 - 1, 1d20
+[02:33:14] Orestes: 2
+[02:33:40] Orestes (rzut): Wisdom Save (-1) 4 1d20 - 1 1d20 5 5 1d20 - 1 1d20 6 | rzuty: 1d20 - 1, 1d20, 1d20 - 1, 1d20
+[02:33:56] Orestes (rzut): Wisdom Save (-1) 0 1d20 - 1 1d20 1 | rzuty: = 0, 1d20 - 1, 1d20
+[02:35:04] Lamia: Corrupting Touch Feature Wisdom Saving Throw: DC 13 , one creature the lamia can see within 5 feet. Failure: 13 ( 3d8 Psychic ) damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions. DC 13 Wisdom Saving Throw Wisdom Saving Throw Damage Action Instantaneous Self 1 creature
+[02:35:29] Orion Xul (rzut): Wisdom Save (+2) 11 1d20 + 2 1d20 9 18 1d20 + 2 1d20 16 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+[02:35:36] Lamia (rzut): Claw Natural Melee Attack Roll: +5 , reach 5 ft. Hit: 7 ( 1d8 + 3 Slashing ) damage plus 7 ( 2d6 Psychic ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[02:36:05] Maenad: Reckless Feature At the start of its turn, the maenad can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+[02:36:08] Maenad: Dagger Simple Melee Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[02:36:10] Maenad: Dagger Simple Melee Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[02:36:43] Cerberus (rzut): Bite Natural Melee Weapon Attack: 1d20+12 (+12) to hit, reach 10 ft., one target. Hit: 18 ( 3d6 + 8 ) piercing damage + 3 ( 1d6 ) poison damage, and the creature must make a DC 15 Constitution saving…
+[02:37:11] Orion Xul (rzut): Constitution Save (+9) 22 1d20 + 9 1d20 13 | rzuty: = 22, 1d20 + 9, 1d20
+[02:37:44] Versir (rzut): Wisdom Save (+10) 21 1d20 + 10 11 11 | rzuty: = 21, 1d20 + 10
+[02:37:52] Versir: 18
+[02:42:21] Versir: 17
+[02:42:31] Chondrus: DC 10 Concentration Concentration
+[02:44:37] Arevon Elorrenthi (rzut): Conjure Fey 6th Level Conjuration Casting Time 1 action Duration up to 10 minutes Components V, S Range 60ft. Concentration Requires Concentration You conjure a Medium spirit from the Feywild in an u… | rzuty: = 16, 1d20 + 13
+[02:44:49] Arevon Elorrenthi: 1
+[02:45:31] Arevon Elorrenthi: 29
+[02:46:41] Tassos: DC 13 Concentration Concentration
+[02:47:15] Arevon Elorrenthi (rzut): Starry Form: Archer Range 60ft. 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beas… | rzuty: = 18, 1d20 + 11
+[02:47:21] Arevon Elorrenthi (rzut): Starry Form: Archer Range 60ft. 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beas… | rzuty: = 15, 2d8 + 6
+[02:49:52] Versir (rzut): Wisdom Save (+10) 11 1d20 + 10 1 1 | rzuty: = 11, 1d20 + 10
+[02:50:24] Versir: 4
+[02:53:50] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+[02:53:53] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 11 + 7
+[02:54:08] Orion Xul: 8
+[02:54:16] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 24, 1d20 + 12, 1d20
+[02:54:19] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 25 13 + 12
+[02:54:27] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 25, 1d20 + 12, 1d20
+[02:54:29] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 13 + 6
+[02:54:44] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 22, 1d20 + 12, 1d20
+[02:54:47] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9
+[02:54:51] Orion Xul: 7
+[02:55:13] Klonicjan: 2
+[02:58:46] Arevon Elorrenthi: 33
+[03:00:59] Goatling Trickster: Sling Simple Ranged Attack Damage Action Instantaneous 30/120 ft Equipped Proficient
+[03:02:29] Felicjan Janus Twardowski: Dispel Magic Legacy • 3rd Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range 120ft. Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On …
+[03:02:59] Felicjan Janus Twardowski: 13
+[03:05:00] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+[03:05:01] Versir (rzut): Constitution Save (+14) 20 1d20 + 14 6 6 | rzuty: = 20, 1d20 + 14
+[03:05:09] Versir: 1
+[03:05:54] Orestes: Applied conditions: &Reference[incapacitated] &Reference[prone]
+[03:06:22] Orestes (rzut): Wisdom Save (-1) 10 1d20 - 1 1d20 11 | rzuty: = 10, 1d20 - 1, 1d20
+[03:07:36] Lamia: Applied conditions: &Reference[frightened]
+[03:07:57] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+[03:08:05] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 10 + 12
+[03:08:40] Orion Xul: 2
+[03:09:15] Versir: 3
+[03:09:30] Arevon Elorrenthi (rzut): Cosmic Omen (d6) 1 1d6 1 1 | rzuty: = 1, 1d6
+[03:09:31] Versir (rzut): Wisdom Save (+10) 22 1d20 + 10 12 12 | rzuty: = 22, 1d20 + 10
+[03:09:41] Versir: 2
+[03:10:14] Arevon Elorrenthi (rzut): Spell Attack Casting Time undefined Duration undefined Components Range undefined Spell Attack 26 1d20 + 13 13 13 | rzuty: = 26, 1d20 + 13
+[03:10:23] Grasping Vine: 35
+[03:10:40] Lutheria: DC 10 Concentration Concentration
+[03:11:10] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages
+[03:11:29] Arevon Elorrenthi: 16
+[03:11:30] Arevon Elorrenthi: 1
+[03:11:32] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 45, 8d8 + 6
+[03:13:59] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+[03:14:09] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 14 + 8
+[03:14:16] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20
+[03:14:22] Lutheria: DC 11 Concentration Concentration
+[03:14:47] Orion Xul: 2
+[03:14:53] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 14 + 8
+[03:15:00] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20
+[03:15:04] Orion Xul: 1
+[03:15:23] Lutheria: DC 11 Concentration Concentration
+[03:15:35] Orion Xul (rzut): Second Wind (1d10+13) 14 1d10 + 13 1d10 1 | rzuty: = 14, 1d10 + 13, 1d10
+[03:16:23] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+[03:16:32] Arevon Elorrenthi (rzut): Constitution Save (+8) 12 1d20 + 8 4 4 | rzuty: = 12, 1d20 + 8
+[03:16:41] Arevon Elorrenthi: 1
+[03:17:00] Arevon Elorrenthi (rzut): Eye of the Galactic Dragon (d8) 2 1d8 2 2 | rzuty: = 2, 1d8
+[03:17:19] Arevon Elorrenthi (rzut): Constitution Save (+8) Effects: Warcaster 17 1d20 + 8 9 9 10 1d20 + 8 2 2 | rzuty: 1d20 + 8, 1d20 + 8
+[03:18:52] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 11 1d20 + 8 1d20 3 | rzuty: = 11, 1d20 + 8, 1d20
+[03:20:18] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+[03:22:25] Arevon Elorrenthi: 20
+[03:22:44] Lutheria: DC 10 Concentration Concentration
+[03:23:28] Felicjan Janus Twardowski (rzut): Draconic Transformation 7th Level Transmutation Casting Time 1 bonus action Duration up to 1 minute Components V, S, M(a statuette of a dragon, worth at least 500 gp) Range Self Area of Effect 60ft. … | rzuty: = 33, 6d8, 6d8
+[03:24:23] Lutheria: DC 16 Concentration Concentration
+[03:25:02] Felicjan Janus Twardowski: 18
+[03:25:39] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+[03:27:24] Lutheria: Finger of Death Necromancy You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw. It takes 7d8 + 30 necrotic damage on a failed save, or half as much damage on a successful one. A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your comma…
+[03:27:36] Orestes (rzut): Constitution Save (+8) 11 1d20 + 8 1d20 3 | rzuty: = 11, 1d20 + 8, 1d20
+[03:30:32] Orestes: Applied conditions: &Reference[incapacitated] &Reference[prone]
+[03:36:28] Zombie: Undead Fortitude Feature If damage reduces the zombie to 0 Hit Points , it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a Critical Hit . On a successful save, the zombie drops to 1 Hit Point instead.
+[03:38:23] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 18 1d20 + 12 1d20 6 Piercing Damage: 9 1d8 + 7 1d8 2 | rzuty: 1d20 + 12, 1d20 = 9, 1d8 + 7, 1d8
+[03:39:25] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 30 1d20 + 12 1d20 18 Piercing Damage: 14 1d8 + 7 1d8 7 | rzuty: 1d20 + 12, 1d20 = 14, 1d8 + 7, 1d8
+[03:39:42] Lutheria: DC 10 Concentration Concentration
+[03:42:20] Arevon Elorrenthi (rzut): Wisdom Save (+11) 13 1d20 + 11 2 2 | rzuty: = 13, 1d20 + 11
+[03:42:22] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 25, 1d20 + 11
+[03:42:37] Arevon Elorrenthi: 3
+[03:42:52] Lutheria: Madness Feature Lutheria targets one creature within 180 ft. The target must make a DC 23 Widsom saving throw against this magic or fall under the effect of the confusion spell. At the end of each of its turns, an affected target can make a DC 23 Wisdom saving throw. If it succeeds, this effect ends for that target. DC 23 Wisdom Saving Throw Wisdom Saving Throw Consume Resource Refund Resource 2 …
+[03:42:59] Versir (rzut): Shining Smite 2nd Level Transmutation (Cast at 4th Level) Casting Time 1 bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike Duration up to 1 mi… | rzuty: = 6, 4d6
+[03:44:06] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 18 7 + 11
+[03:44:19] Lutheria: DC 10 Concentration Concentration
+[03:44:25] Lutheria: DC 10 Concentration Concentration
+[03:44:37] Arevon Elorrenthi: 1
+[03:44:43] Arevon Elorrenthi: 8
+[03:45:09] Arevon Elorrenthi (rzut): Wisdom Save (+11) 29 1d20 + 11 18 18 | rzuty: = 29, 1d20 + 11
+[03:45:55] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+[03:46:04] Arevon Elorrenthi (rzut): Constitution Save (+8) 10 1d20 + 8 2 2 | rzuty: = 10, 1d20 + 8
+[03:46:23] Arevon Elorrenthi: DC 17 Concentration Concentration
+[03:47:20] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 17, 1d20 + 12, 1d20
+[03:47:23] Orion Xul: 1
+[03:47:32] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+[03:47:36] Orion Xul: 1
+[03:47:43] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 30, 1d20 + 12, 1d20
+[03:47:51] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 24 13 + 11
+[03:48:22] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 19, 1d20 + 12, 1d20
+[03:48:25] Lutheria: DC 12 Concentration Concentration
+[03:48:34] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9
+[03:48:38] Orion Xul: 9
+[03:55:10] Sybolkorax: 71
+[03:56:21] Felicjan Janus Twardowski: Heart of the Gale Wondrous item, Rare (requires attunement) This polished bronze sphere is about the size of a human heart. Intricate, swirling patterns are etched into its surface, and it feels pleasantly warm to the touch. The sphere contains the bound essence of a powerful air elemental. The Heart of the Gale has 3 charges. It regains 1d3 1d3 expended charges daily at dawn. You can use an acti…
+[03:57:04] Felicjan Janus Twardowski (rzut): Draconic Transformation 7th Level Transmutation Casting Time 1 bonus action Duration up to 1 minute Components V, S, M(a statuette of a dragon, worth at least 500 gp) Range Self Area of Effect 60ft. … | rzuty: = 25, 6d8, 6d8
+[03:57:15] Felicjan Janus Twardowski: 19
+[04:03:05] Versir (rzut): Wisdom Save (+10) 11 1d20 + 10 1 1 | rzuty: = 11, 1d20 + 10
+[04:03:33] Lutheria: Otto's Irresistible Dance Enchantment Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be Charmed are immune to this spell. A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. Whil…
+[04:04:05] Versir (rzut): Wisdom Save (+10) 11 1d20 + 10 1 1 | rzuty: = 11, 1d20 + 10
+[04:06:39] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 22 1d20 + 12 1d20 10 22 1d20 + 12 1d20 10 Piercing Damage: 11 1d8 + 7 1d8 4 | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20 = 11, 1d8 + 7, 1d8
+[04:07:11] Orestes: 4
+[04:07:17] Lutheria: DC 10 Concentration Concentration
+[04:07:42] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 30 1d20 + 12 1d20 18 19 1d20 + 12 1d20 7 Piercing Damage: 9 1d8 + 7 1d8 2 | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20 = 9, 1d8 + 7, 1d8
+[04:07:50] Lutheria: DC 10 Concentration Concentration
+[04:09:15] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+[04:09:17] Arevon Elorrenthi (rzut): Constitution Save (+8) 26 1d20 + 8 18 18 | rzuty: = 26, 1d20 + 8
+[04:10:43] Lamia: Corrupting Touch Feature Wisdom Saving Throw: DC 13 , one creature the lamia can see within 5 feet. Failure: 13 ( 3d8 Psychic ) damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions. DC 13 Wisdom Saving Throw Wisdom Saving Throw Damage Action Instantaneous Self 1 creature
+[04:10:52] Orion Xul (rzut): Wisdom Save (+2) 4 1d20 + 2 1d20 2 14 1d20 + 2 1d20 12 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+[04:11:00] Lamia (rzut): Claw Natural Melee Attack Roll: +5 , reach 5 ft. Hit: 7 ( 1d8 + 3 Slashing ) damage plus 7 ( 2d6 Psychic ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+[04:13:22] Versir (rzut): Wisdom Save (+10) 25 1d20 + 10 15 15 | rzuty: = 25, 1d20 + 10
+[04:13:45] Arevon Elorrenthi (rzut): Spell Attack Casting Time undefined Duration undefined Components Range undefined Spell Attack 23 1d20 + 13 10 10 | rzuty: = 23, 1d20 + 13
+[04:14:05] Arevon Elorrenthi (rzut): Spell Attack Casting Time undefined Duration undefined Components Range undefined Spell Attack 18 1d20 + 13 5 5 | rzuty: = 18, 1d20 + 13
+[04:14:19] Grasping Vine: 27
+[04:14:55] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 2nd Level Components: : V, S Roll Damages
+[04:15:06] Grasping Vine: 19
+[04:15:10] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 17, 4d8 + 6
+[04:16:34] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+[04:16:39] Orion Xul: 3
+[04:16:54] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+[04:16:56] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 16 10 + 6
+[04:17:00] Orion Xul: 7
+[04:17:10] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 29, 1d20 + 12, 1d20
+[04:17:13] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 24 16 + 8
+[04:17:25] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 27, 1d20 + 12, 1d20
+[04:17:27] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 12, 1d4 + 9
+[04:17:30] Orion Xul: 12
+[04:18:56] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[04:21:08] karpiq: 1
+[04:22:38] Felicjan Janus Twardowski (rzut): Draconic Transformation 7th Level Transmutation Casting Time 1 bonus action Duration up to 1 minute Components V, S, M(a statuette of a dragon, worth at least 500 gp) Range Self Area of Effect 60ft. … | rzuty: = 24, 6d8, 6d8
+[04:22:59] Lutheria: Magic Resistance Feature Magic Resistance. Lutheria has advantage on saving throws against spells and other magical effects.
+[04:24:13] Felicjan Janus Twardowski: Chromatic Orb 1st Level • Evocation You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder for the type of orb you create, and then make a ranged spell attack against the target. On a hit, the target takes 3d8 damage of the chosen type. If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice with…
+[04:24:23] Felicjan Janus Twardowski: 4
+[04:24:40] Felicjan Janus Twardowski: 31
+[04:25:31] Felicjan Janus Twardowski: 18
+[04:27:05] Lutheria: Disrupt Life Feature Each non-undead creature within 30 feet of Lutheria must make a DC 23 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much on a successful one. DC 23 Constitution Saving Throw Constitution Saving Throw Damage Consume Resource Refund Resource 2 legendary actions Instantaneous 30 ft
+[04:27:15] Versir (rzut): Constitution Save (+14) 34 1d20 + 14 20 20 | rzuty: = 34, 1d20 + 14
+[04:27:27] Arevon Elorrenthi (rzut): Constitution Save (+8) 17 1d20 + 8 9 9 | rzuty: = 17, 1d20 + 8
+[04:27:47] Orion Xul (rzut): Constitution Save (+9) 19 1d20 + 9 1d20 10 22 1d20 + 9 1d20 13 | rzuty: 1d20 + 9, 1d20, 1d20 + 9, 1d20
+[04:27:54] Orion Xul: 3
+[04:28:10] Versir: DC 10 Concentration Concentration
