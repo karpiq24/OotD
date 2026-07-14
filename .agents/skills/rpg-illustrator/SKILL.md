@@ -80,7 +80,7 @@ Use this mode to generate and save all image prompts without rendering any image
 2.  **Scan for Entities**: Identify `[[wikilinks]]` in the text to find relevant entity files for descriptions.
 3.  **Generate Prompts**:
     -   **Main Header**: Create 3 distinct prompts representing the overall session themes/events.
-    -   **Section Headers**: For *each* `### Header` in the body, create 2 distinct prompts representing that specific section.
+    -   **Section Headers**: For *each* `### Header` in the body, create 1 prompt representing that specific section.
 4.  **Save Prompts**:
     -   Save each **Full Refined Prompt** to a text file: `content/assets/sessions/{000}/{filename}.txt`.
 5.  **Update File**:

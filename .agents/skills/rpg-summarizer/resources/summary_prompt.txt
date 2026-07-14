@@ -51,8 +51,8 @@ Sesje RPG mieszają **akcję w świecie** z **rozmowami przy stole o zasadach**.
 
 Każda sekcja powinna:
 - Mieć chwytliwy, opisowy nagłówek `###` (np. `### Kurs ku Otchłani i Problem Szpiega`)
-- Zawierać 1-3 akapity szczegółowo opisujące wydarzenia tej części sesji
-- Być logicznie oddzielona od innych sekcji (nowy wątek, nowa lokacja, nowe wydarzenie)
+- Zawierać 2-4 akapity szczegółowo opisujące wydarzenia tej części sesji (wyjątkowo 1 akapit — tylko jeśli sekcja opisuje jedno naprawdę istotne, wyraźnie odrębne wydarzenie)
+- Grupować powiązane wątki pod jednym nagłówkiem — łącz sąsiadujące, powiązane sceny zamiast dzielić je na osobne, drobne sekcje. Nowy nagłówek zakładaj dopiero przy realnej zmianie (nowy wątek, nowa lokacja, przełomowe wydarzenie)
 
 **Przykład struktury:**
 
@@ -66,10 +66,12 @@ Drugi akapit kontynuujący wątek. Rozwijaj narrację, opisuj emocje i reakcje b
 ### Tytuł Drugiej Sekcji
 
 Kolejny akapit z nowym wątkiem lub wydarzeniem. Pamiętaj o szczegółach i plastycznym języku.
+
+Drugi akapit tej sekcji, rozwijający wątek. Grupuj powiązane sceny razem, zamiast zakładać nowy nagłówek dla każdej z nich.
 ```
 
 **Wymagania:**
-- Stwórz 4-8 sekcji w zależności od długości i złożoności sesji
+- Stwórz 3-6 sekcji w zależności od długości i złożoności sesji — celuj w mniejszą liczbę gęstszych sekcji, nie w wiele krótkich (do każdej sekcji generowany jest później osobny obrazek, więc nadmiar nagłówków = nadmiar obrazków)
 - Każda sekcja powinna mieć unikalny, opisowy nagłówek `###`
 - Akapity powinny być bogate w szczegóły i opisy
 - Utrzymuj spójność narracyjną między sekcjami
