@@ -1,6 +1,6 @@
 ### Stabilizacja Mytros i Oczekiwanie Lutherii
 
-Bohaterowie, wciąż odczuwając skutki starcia z Sydonem, musieli przejąć dowodzenie nad ocalałymi siłami obrońców. Koordynując ruchy sojuszników — Amazonek, krasnoludów z Estorii i Centurionów z Mytros — zdołali odeprzeć ataki automatonów oraz potworów w kluczowych punktach miasta: Akademii, Pałacu i Teatrze. Choć nie obyło się bez strat w cywilach i rozbicia niektórych legionów, sytuacja w Mytros powoli się stabilizowała. 
+Bohaterowie, wciąż odczuwając skutki starcia z Sydonem, musieli przejąć dowodzenie nad ocalałymi siłami obrońców. Koordynując ruchy sojuszników — Amazonek, krasnoludów z Estorii i Centurionów z Mytros — zdołali odeprzeć ataki automatonów oraz potworów w kluczowych punktach miasta: Akademii, Pałacu i Teatrze. Choć nie obyło się bez strat w cywilach, sytuacja w Mytros powoli się stabilizowała. 
 
 Tymczasem Lutheria, Pani Snów, kontynuowała upiorny pochód przez zrujnowane ulice. Zatrzymała się w okolicach Targu Minotaurów, spowijając okolicę gęstą, mroczną mgłą. Z oparów dobiegały obłąkane śmiechy, śpiewy i odgłosy bestialskich orgii. Bogini śmierci rozsiadła się tam, cierpliwie czekając na Bohaterów Przepowiedni. Drużyna wykorzystała ten czas na krótki odpoczynek i regenerację przed nieuniknioną konfrontacją.
 

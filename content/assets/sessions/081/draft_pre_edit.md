@@ -1,0 +1,125 @@
+---
+title: "Sesja 81: Koszmar na Targu Minotaurów"
+---
+**Data**: 13.07.2026
+
+## Podsumowanie
+
+### Pożoga nad Mytros i taktyczne roszady obrońców
+
+Śmierć władcy mórz, Sydona, nie przyniosła natychmiastowego pokoju, lecz wywołała szereg gwałtownych wstrząsów wtórnych, które zatrzęsły posadami trawionego wojną Mytros. Bohaterowie Przepowiedni musieli błyskawicznie przejąć ster i skoordynować rozpaczliwe wysihlki obrońców miasta, nim chaos ostatecznie pochłonie metropolię. Rozpoczęła się skomplikowana gra taktyczna, w której stawką było życie tysięcy mieszkańców. Zdecydowano o roszadach na stanowiskach dowódczych — między innymi Boreas został zastąpiony przez mężnego Braxa, a Apasia otrzymała nowe wytyczne. Wojska Amazonek, krasnoludów z Estorii oraz Centurionów z Mytros zostały rozdzielone na kluczowe odcinki frontu. Wyczerpany wcześniejszymi zmaganiami Orion Xul wykorzystał tę krótką chwilę wytchnienia, by udać się na odpoczynek i zregenerować nadwątlone siły.
+
+Bitwa rozgorzała w kilku punktach miasta z dramatyczną zmiennością szczęścia. W pobliżu Akademii Mytros doszło do katastrofy; legiony Egidy Mytros starły się z drugą falą brązowych automatonów i po krwawej walce zostały rozbite i zmuszone do bezładnego odwrotu. Klęska ta przyniosła tragiczną śmierć około stu dwudziestu pięciu cywilom, a najeźdźcy zniszczyli morale obrońców. Lepsze wieści nadeszły z okolic pałacu, gdzie pierwszy legion Centurionów z Mytros zdołał powstrzymać i rozgromić gigantów, minimalizując straty w ludziach do zaledwie kilku osób. Tymczasem w rejonie teatru krasnoludowie z Estorii ulegli przeważającym siłom brązowych automatonów, co kosztowało życie kolejnych siedemdziesięciu pięciu cywilów. Szczęśliwie, w pobliżu Wspólnego Paleniska drugi legion centurionów odparł natarcie krwiożerczych merrowów. Mimo ciężkich strat i zrujnowanych dzielnic, zorganizowana obrona pozwoliła w końcu ustabilizować chwiejną sytuację w mieście.
+
+### Mroczny korowód Lutherii na Targu Minotaurów
+
+Podczas gdy obrońcy liczyli rannych i zabezpieczali ulice, nad miastem zawisło nowe, jeszcze potworniejsze zagrożenie. Lutheria, okrutna Pani Snów, kroczyła bez pośpiechu przez zrujnowane dzielnice, aż zatrzymała się w rejonie Targu Minotaurów. Wokół niej zaczęła gwałtownie gęstnieć nienaturalna, czarna mgła, która odcięła targowisko od reszty miasta nieprzeniknionym całunem. Z mrocznych oparów zaczęły dobiegać niepokojące odgłosy — obłąkańcze śmiechy, makabryczne pieśni oraz odgłosy dzikich, bestialskich orgii, w których radosne okrzyki mieszały się z przerażającymi rykami potworów. Bogini śmierci, otoczona stosami pieczonego mięsa o wielce podejrzanym pochodzeniu, rozsiadła się wygodnie na gruzach, cierpliwie i z drwiącym uśmiechem czekając, aż Bohaterowie Przepowiedni sami przybędą stawić jej czoła. Drużyna zyskała cenną godzinę na przygotowania i naradę, wiedząc, że nadchodzące starcie rozstrzygnie losy całego świata Thylei.
+
+### Wskrzeszenie Nephele i powrót Despiny
+
+Zanim bohaterowie oddali się medytacji i przygotowaniom do ostatecznego starcia, ich wzrok przyciągnęło dryfujące na falach zatoki martwe cielsko srebrnej smoczycy Nephele. Ponieważ czas na uratowanie bestii nieubłaganie dobiegał końca, po krótkiej naradzie Arevon Elorrenthi postanowił zaryzykować. Wydobył cenne diamenty i rzucił zaklęcie Revivify, kierując uzdrawiający dotyk ku martwemu stworzeniu. W chwili, gdy klejnoty rozsypały się w proch, a zaklęcie zostało sfinalizowane, na piersi czarodzieja rozległ się ostry trzask – amulet Felicjana Janusa Twardowskiego, w którym spoczywała dusza jego prababki Despiny, pękł pod wpływem gwałtownego przepływu mocy. Dusza Despiny została uwolniona i z siłą huraganu wstąpiła w puste naczynie, jakim było ciało zmarłej smoczycy.
+
+Olbrzymia bestia zaczęła gwałtownie i ciężko oddychać, powoli unosząc powieki. Nephele – teraz będąca już naczyniem dla Despiny – zaczęła nieporadnie prostować potężne skrzydła i testować swą paszczę, podczas gdy roztropny Arevon odsunął się na bezpieczną odległość. Gdy smoczyca przemówiła, w jej głosie, choć brzmiącym inaczej niż dawniej, Felicjan bez trudu rozpoznał tonację swojej zmarłej prababki. Despina podziękowała czarodziejowi za ocalenie. Felicjan, poruszony i skruszony, przeprosił ją za swój wcześniejszy brak zaufania i chorobliwą ostrożność. Odzyskawszy siły, srebrna smoczyca rozpostarła potężne skrzydła, wzbiła się w powietrze i zataczając krąg, odleciała daleko poza granice miasta. Choć Arevon nie omieszkał zażartować, że wskrzeszona prababka jest mu winna trzysta sztuk złota za zużyte diamenty, drużyna nie miała czasu na świętowanie. Ich smoki pilnie potrzebowały odpoczynku: potężny Sybolkorax musiał poświęcić wiele sił, by zaleczyć odniesione rany, a Arkyrania, Tysophale oraz Pythor również nosili na sobie ciężkie ślady walki. Świadomi niebezpieczeństw gęstej zabudowy Mytros, wiszącej w powietrzu kolorowej, nienaturalnej mgły oraz czyhających pułapek, bohaterowie zdecydowali się ruszyć ku Targowi Minotaurów pieszo, pozostawiając olbrzymiego Kolosa Pythora sterowanego przez Klonicjana, by ten powoli torował sobie drogę wąskimi uliczkami, nieuchronnie krusząc ściany okolicznych budynków. Zanim jednak wkroczyli w mgłę, Versir uniósł swój magiczny miecz i rzucił na siebie czar True Seeing, chcąc przejrzeć wszelkie iluzje Pani Snów.
+
+### Makabryczna Uczta na Targu Minotaurów
+
+Gdy stopy bohaterów dotknęły bruku Targu Minotaurów, ich oczom ukazał się widok rodem z najgłębszych otchłani koszmaru. Mieszkańcy Mytros, pogrążeni w obłędzie, poruszali się szarpanymi, nienaturalnymi ruchami niczym zepsute marionetki w dłoniach pijanego lalkarza. Ich ciała były półnagie, pokryte głębokimi ranami i śladami ludzkich ugryzień, które najwyraźniej zadali sobie nawzajem w amoku. Niektórzy z nich zostali uwięzieni w połowie makabrycznej transformacji – ludzkie twarze krzywiły się na świńskich kadłubach, a delikatne kobiece dłonie wyrastały z baranich boków. W powietrzu unosił się słodki, mdlący zapach pieczonego mięsa skapującego z rożnów, a wokół pustych klatek, w których niegdyś więziono minotaury, biegały świnie przyodziane w resztki jedwabnych szat. Mimo tego koszmaru, obłąkani obywatele wiwatowali na cześć nadchodzących bohaterów, krzycząc, że Sydon nie żyje, a miasto zostało ocalone. Jeden z mieszkańców podbiegł do drużyny, wpychając im w dłonie gorący kawałek pieczeni i zachęcając do świętowania, gdyż sama królowa zaświatów, Lutheria, pragnie uczcić ich czyny wielką paradą, tańcem i śpiewem.
+
+### Złudne Powitanie i Zdradziecki Cios
+
+W samym sercu tego plugawego święta, pośród rzędów klatek, spoczywała Lutheria. Jej kryształowa kosa opierała się leniwie o ramię, a za podnóżek służył jej klęczący na czworakach Chondrus, który z wyrazem absolutnego zachwytu znosił ciężar obcasów swojej bogini na plecach. Na widok Bohaterów Przepowiedni twarz Lutherii rozbłysła dziecięcą radością. Rozłożyła ramiona, jakby witała dawno niewidzianą rodzinę, i zaczęła mamić ich słodkimi słowami o pokoju, twierdząc, że nigdy nie była ich wrogiem. Orestes postanowił wykorzystać tę chwilę. Ukrywając nienawiść pod maską uległości, zbliżył się do niej i zaczął prawić komplementy. Zaskoczona, lecz wyraźnie zadowolona bogini pochwyciła potężnego minotaura w swoje ramiona i posadziła go sobie na kolanach niczym małe dziecko, po czym z uśmiechem odgryzła kęs pieczeni, która – jak sama drwiąco zauważyła – była niegdyś poborcą podatkowym. Orestes czekał właśnie na ten moment bliskości. Będąc tuż przy jej piersi, zamierzał dobyć topora i uderzyć prosto w gardło bogini w akcie zemsty za swoich rodziców. Lutheria przejrzała jednak jego intencje i zanim Orestes zdołał zadać cios, pierwsza rzuciła się do ataku, co rozpoczęło brutalne starcie.
+
+### Kontratak Bogini i Magiczna Bariera
+
+Reagując błyskawicznie, Lutheria użyła magii, zmuszając Orestesa do upadku w niekontrolowanym, obezwładniającym napadzie śmiechu za pomocą zaklęcia Tasha's Hideous Laughter. Mimo że minotaur nosił na palcu legendarny Pierścień Orestesa, podarowany mu przez boga rzemiosła Volkana, jego umysł ugiął się pod mocą czaru. Orestes runął na ziemię, całkowicie obezwładniony i niezdolny do walki. Wykorzystując tę chwilę, Lutheria puściła go i teleportowała się dwadzieścia stóp w górę oraz lekko w tył, unosząc się nad polem bitwy. Widząc, że walka rozgorzała na dobre, Chondrus natychmiast ruszył z pomocą swojej pani. Skupiając swą mroczną wolę, rzucił zaklęcie Wall of Force, wznosząc niewidzialną, nieprzenikalną barierę, która odcięła drużynę od bogini i uniemożliwiła przenikanie czarów. Bohaterowie znaleźli się w pułapce – ich najsilniejszy wojownik leżał na ziemi, wijąc się ze śmiechu, a wrogie siły dyktowały warunki starcia.
+
+### Starcie na Targu i Słowa Bogini
+
+Wznoszący się nad placem bój szybko pogrążył się w krwawym chaosie, a gęste powietrze Targu Minotaurów zaczęło wibrować od wrogiej magii. Jedna z podległych bogini menad, porwana szałem walki, rozpoczęła zmysłowy, uwodzicielski taniec mający zniewolić umysły bohaterów. Jednakże Versir, Orion Xul oraz Arevon Elorrenthi wykazali się niezłomną siłą woli i oparli się temu podstępnemu urokowi. Chwile potem trójgłowy Cerber rzucił się z kłami na Oriona, lecz potężny wojownik zdołał przetrzymać bolesne ukąszenia bestii. Versir nie zamierzał stać bezczynnie – zacieśniając chwyt na legendarnym ostrzu Titansbane, wyprowadził dwa szybkie i potężne cięcia w stronę Chondrusa, starając się za wszelką cenę rozproszyć jego koncentrację i zniszczyć barierę dzielącą pole bitwy. Choć ciosy dosięgły celu, wierny sługa bogini zacisnął zęby i utrzymał zaklęcie.
+
+Arevon Elorrenthi natychmiast ruszył z odsieczą, ciskając w stronę wrogów świetlisty pocisk Guiding Bolt i aktywując swoją gwiezdną formę pod postacią łucznika, z której raz po raz słał jasne strzały. Orion Xul bez wytchnienia miotał swą włócznią, Odkupieniem Pythora, która posłusznie wracała do jego dłoni, po czym wzniósł magiczny mur tarcz dzięki zdolności Shield Wall, osłaniając swoich towarzyszy. Widząc to wszystko, wznosząca się nad placem Lutheria spojrzała na unieruchomionego Klonicjana oraz majaczącego w oddali Kolosa Pythora. Na jej ustach wykwitł kpiący, jadowity uśmiech, gdy ironicznie pogratulowała bohaterom potężnego wsparcia. W tym samym czasie Felicjan Janus Twardowski, czując narastające wycieńczenie walką, odepchnął nacierającą na niego menadę, po czym wypowiedział inkantację zaklęcia Blink i zniknął z materialnego planu, przenosząc się w bezpieczniejsze, eteryczne sfery.
+
+### Magiczna Ofensywa i Upadek Cerbera
+
+Tymczasem Orestes wciąż leżał bezwładnie na bruku, uwięziony w sidłach obezwładniającego czaru, który paraliżował jego mięśnie i torturował umysł. Chondrus cisnął ognistym pociskiem Fire Bolt w Versira, zadając mu bolesne oparzenia. W tym samym czasie przerażająca lamia oraz Cerber ponowili wściekły atak na Oriona. Chociaż lamia próbowała skazić umysł Oriona swoim jadowitym dotykiem, wojownik stawił czoła mrocznej magii, pomyślnie wykonując rzut obronny i unikając klątwy trucizny i zauroczenia, choć bestia zdołała drasnąć jego pancerz. Osłaniany przez wzniesiony wcześniej mur tarcz, heros utrzymał się na nogach.
+
+Arevon Elorrenthi zdecydował się na zmianę układu sił na placu boju. Druid przyzwał z Feywildu ducha pod postacią jaskrawej, tęczowej pixie dzierżącej wielką kosę — istoty będącej całkowitym przeciwieństwem mrocznej estetyki Lutherii. W tym samym czasie Versir uderzył w Chondrusa zaklęciem Toll the Dead, zadając mu bolesne rany i ostatecznie łamiąc jego koncentrację, przez co niewidzialna bariera Wall of Force runęła. Wolna od zapory tęczowa pixie natychmiast zaatakowała poplecznika bogini, Tassosa, raniąc jego umysł potężnym ładunkiem energii psychicznej i przerywając jego zaklęcie Spirit Guardians. Następnie Arevon przybrał gwiezdną formę, zasypując wrogów świetlistymi strzałami. Orion wykorzystał ten moment i wyprowadził morderczą serię ataków Odkupieniem Pythora, poważnie raniąc Cerbera. Dzieła zniszczenia dopełnił Arevon, wyzwalając potężną błyskawicę z gniewu smoczych bogów, która nie tylko uleczyła rany Oriona, ale też spopieliła okolicznych koźlaków, uśmierciła groźnego Cerbera i spaliła jedną z menad.
+
+### Ucieczka Lamii i Magiczny Impas
+
+Śmierć Cerbera i niszczycielska potęga drużyny zasiały panikę w szeregach wroga. Przerażona Lamia, uświadamiając sobie swoją beznadziejną sytuację, rzuciła się do desperackiej ucieczki, próbując oddalić się od bohaterów. Ten ruch okazał się jednak zgubny – czujny Orion Xul błyskawicznie wykorzystał odsłonięcie przeciwniczki i wyprowadził potężny atak okazyjny swoim legendarnym Odkupieniem Pythora, głęboko raniąc bestię w plecy za 22 punkty obrażeń. W tym samym czasie Felicjan Janus Twardowski, pragnąc oczyścić pole walki z wrogich uroków krępujących towarzyszy, powrócił z planu eterycznego i splótł dłonie w zaklęciu Dispel Magic. Niestety, skomplikowane sploty magii okazały się zbyt oporne i jego próba rozproszenia efektów spaliła na panewce. Orestes, wciąż przykuty do ziemi przez paraliżujący czar śmiechu, mógł jedynie bezradnie obserwować zmagania swoich sprzymierzeńców.
+
+Podczas gdy olbrzymi Klonicjan wciąż trwał nieruchomo, sparaliżowany bitewnym zgiełkiem, szala zwycięstwa zaczęła przechylać się na stronę Bohaterów Przepowiedni. Felicjan powrócił do walki, starając się rozproszyć wrogie zaklęcia. Widząc upadek swoich sług, wściekła Lutheria ponownie zaatakowała Versira niszczycielskim czarem Blight, lecz półtytan po raz kolejny wykazał się odpornością i przyjął na siebie tylko ułamek niszczycielskiej mocy. Przerażona lamia rzuciła się do panicznej ucieczki, próbując ujść z życiem z pogromu, jednak Orion Xul bacznie obserwował pole bitwy i gdy tylko bestia odsłoniła plecy, wojownik ugodził ją celnym ciosem Odkupienia Pythora. Tymczasem nieszczęsny Orestes, wciąż niezdolny do wykonania najmniejszego ruchu, mógł jedynie z wściekłością i bezradnością obserwować starcie ze swego miejsca na ziemi.
+
+### Tęczowy atak i natarcie włócznią
+
+Chwile później inicjatywę przejął elficki druid Arevon Elorrenthi. Nakazał on swojej przyzwanej fey – świetlistej pixie – teleportować się o piętnaście stóp w bezpośrednie sąsiedztwo Lutherii. Istota ta uderzyła w Panią Snów falą czystej energii psychicznej, zadając jej 35 punktów obrażeń i zmuszając boginię do walki o utrzymanie koncentracji. Arevon nie poprzestał na tym; sięgając po głębokie pokłady magii, rzucił Cure Wounds na czwartym kręgu, przelewając życiodajną energię w swoich towarzyszy – uzdrowił rannego Oriona Xula o 45 punktów życia, a leżącemu wciąż na ziemi Orestesowi przywrócił 16 punktów życia. Pchnięty tą nagłą falą wsparcia, Orion Xul ponowił swoje natarcie, trzykrotnie cisnąwszy Odkupieniem Pythora w stronę bogini. Dwa z tych rzutów dosięgły celu z chirurgiczną precyzją, przebijając mroczną aurę Lutherii i zadając jej łącznie 44 punkty obrażeń, podczas gdy trzeci rzut minął cel. Aby przygotować się na nadchodzący odwet, wojownik zaczerpnął głęboki oddech, aktywując Second Wind i odzyskując 14 punktów życia.
+
+### Ostrzał z niebios i smocze przeobrażenie
+
+Wściekła Lutheria nie pozostała dłużna. Wykorzystując swoje legendarne działania, skierowała w stronę Arevona morderczy promień uwiądu – zaklęcie Blight. Pomimo że druid desperacko próbował osłonić się swoją kosmiczną mocą oka galaktycznego smoka (Eye of the Galactic Dragon), ostateczny wynik rzutu obronnego na Kondycję wyniósł 21, co nie wystarczyło przeciwko potężnemu DC 23 bogini. Fala nekrotycznej energii wyssała z elfa siły witalne, zadając mu 38 punktów obrażeń i brutalnie przerywając jego koncentrację na aktywnym czarze. Nie dając się jednak złamać, w swojej turze Arevon wezwał na pomoc potęgę krążącej nad miastem Latającej Fortecy Smoczych Lordów. Na rozkaz druida z nieba runęło niszczycielskie bombardowanie, które uderzyło w Lutherię oraz kręcącego się w pobliżu koźlego sztukmistrza, zadając im po 20 punktów obrażeń i obracając centralną część placu w usiany gruzem, trudny do przebycia teren. Chwile potem Felicjan Janus Twardowski uwolnił tkane dotąd zaklęcie siódmego kręgu – Draconic Transformation. Przemieniając się w majestatyczną, smoczą postać, uniósł się nad polem bitwy i zionął w boginię niszczycielskim tchnieniem energii, zadając jej kolejne 33 punkty obrażeń.
+
+### Tragedia minotaura i szaleństwo w głowie elfa
+
+Wtedy jednak Lutheria skupiła morderczy wzrok na Orestesie. Wypowiedziała słowo absolutnej śmierci – Finger of Death. Ciało minotaura przeszył potworny ból, gdy jego siły życiowe zostały gwałtownie wyrwane, a on sam padł bez życia. Świadomość Orestesa osunęła się w mroczną, lodowatą pustkę, w której stanął przed spękanym lustrem. Ujrzał w nim swoje własne, zniekształcone, zombifikowane zwłoki podnoszące topór przeciwko Arevonowi, a z ciemności dobiegły go ciche, łagodne głosy zmarłych rodziców, wzywających go do przejścia na drugą stronę i zakończenia cierpień. Orestes jednak odrzucił tę wizję i z całą wściekłością uderzył w lustro, rozbijając je na kawałki i odrzucając kontrolę bogini. Choć w świecie fizycznym jego ciało powstało jako nieumarły sługa, minotaur zachował cząstkę własnej woli – zamiast zaatakować przyjaciół, napiął cięciwę swojego magicznego łuku i posłał dwie strzały w stronę Lutherii, z których druga ugodziła boginię za 14 punktów obrażeń. W odwecie rozwścieczona bogini zasiała w umyśle Arevona koszmarne szaleństwo (Confusion). Druid, mimo wsparcia błogosławieństw, uległ szałowi, osiągając zaledwie 22 w rzucie obronnym na Mądrość. Na szczęście Versir nie zamierzał bezczynnie patrzeć na cierpienie przyjaciół. Ruszył do przodu z legendarnym ostrzem Titansbane, z potężnym okrzykiem bojowym trafiając Lutherię i natychmiast nakładając na nią potężne porażenie Shining Smite czwartego kręgu.
+
+### Taniec z Panią Śmierci
+
+Walka na agorze w Mytros osiągnęła punkt wrzenia. Versir rozpoczął tę fazę starcia od zadania potężnego ciosu za pomocą Titansbane, który rozświetlił pole bitwy blaskiem świętej energii. Lutheria nie pozostała dłużna; rozwścieczona bogini natychmiast skierowała swój gniew na Arevona Elorrenthi, rzucając w jego stronę niszczycielskie zaklęcie Blight. Nekrotyczna fala energii z łatwością przełamała obronę elfa, drastycznie osłabiając jego siły życiowe i brutalnie przerywając jego koncentrację. W tym samym czasie Orion Xul, nie zważając na dzielący ich dystans, cisnął Odkupieniem Pythora w stronę bogini. Po dwóch nieudanych próbach, jego trzeci rzut okazał się celny, głęboko raniąc przeciwniczkę, po czym wojownik płynnym ruchem zaatakował Lamię drugim końcem swojej broni.
+
+Sytuację na polu bitwy zaogniło przybycie potężnego sojusznika. Brązowy smok Sybolkorax wzbił się w powietrze i zionął niszczycielskim oddechem prosto w Lutherię, zadając jej olbrzymie obrażenia. Bogini została zmuszona do zużycia jednej ze swoich legendarnych odporności (Legendary Resistance), by uniknąć najgorszego. Arevon, starając się odzyskać kontrolę nad sytuacją, płynnie zmienił swoją gwiezdną formę na konstelację Smoka. W odpowiedzi Lutheria podleciała bliżej i rzuciła na Versira zaklęcie Otto's Irresistible Dance. Półtytan uległ magii (wyrzucając krytyczną jedynkę na rzut obronny) i zaczął komicznie tańczyć w miejscu, niezdolny do wykonania jakiegokolwiek kontrolowanego ruchu. Mimo to, nieumarły Orestes nie przerywał ostrzału. Walcząc jako zombie, minotaur posłał z magicznego łuku dwie celne strzały, które boleśnie ugodziły boginię, zmuszając ją do desperackiej walki o utrzymanie koncentracji.
+
+### Niezłomny Orion i Ciosy Kolosa
+
+Lutheria ponownie spróbowała uderzyć w Arevona czarem Blight, lecz tym razem druid zdołał stawić czoła magii, pomyślnie wykonując rzut obronny i przyjmując tylko ułamek niszczycielskiej siły. Równolegle Lamia rzuciła się na Oriona Xula, próbując skazić go swoim dotykiem (Corrupting Touch), by zatruć i zauroczyć herosa. Wola półboga okazała się jednak niezłomna – Orion oparł się mrocznej klątwie, a choć potwór zdołał drasnąć go swoimi pazurami, wojownik pozostał niewzruszony. Wkrótce potem Versir zmobilizował wszystkie siły i ostatecznie przełamał narzucony mu przez boginię przymus tańca, odzyskując pełną swobodę ruchów. Arevon wykorzystał ten moment, by rzucić na siebie Cure Wounds na drugim kręgu, uleczając rany, po czym przemieścił się bliżej towarzyszy, szukając schronienia w zasięgu ich aur ochronnych.
+
+Wojna na wyniszczenie trwała w najlepsze. Orion Xul kontynuował swój morderczy taniec z Odkupieniem Pythora, trafiając Lutherię dwoma potężnymi ciosami i raniąc Lamię uderzeniem końcem włóczni. Bogini, osaczona i ciężko ranna, wykorzystała legendarną akcję, by teleportować się na bezpieczniejszą odległość. Nie uciekła jednak przed gniewem Kolosa Pythora. Gigantyczny konstrukt, sterowany przez Klonicjana, wzniósł swoją monumentalną włócznię (Giant Spear) i wyprowadził dwa potężne uderzenia, zadając bogini olbrzymie obrażenia. W tym samym czasie bohaterowie zostali wzmocnieni magiczną barierą, dającą Orionowi, Arevonowi i Versirowi tymczasowe punkty życia. Chwile później Felicjan Janus Twardowski posłał w kierunku bogini lodową kulę energii z czaru Chromatic Orb, która uderzyła w nią z pełnym impetem.
+
+### Ostrzeżenie i zapowiedź nadchodzącego koszmaru
+
+Rozwścieczona obrotem spraw Lutheria sięgnęła po swoją najbardziej przerażającą, obszarową moc – Disrupt Life. Fala czystej energii śmierci rozlała się po agorze, uderzając we wszystko, co żywe. Podczas gdy nieumarły Orestes pozostał całkowicie niewrażliwy na ten nekrotyczny wybuch, Versir, Arevon oraz Orion musieli walczyć o przetrwanie. Dzięki wsparciu magii i własnej odporności, wszystkim trzem bohaterom udało się pomyślnie wykonać rzuty obronne, choć niszczycielska siła całkowicie zniszczyła ich tymczasowe osłony i dotkliwie uszkodziła Kolosa Pythora.
+
+Gdy kurz bitewny zaczął opadać, Pani Śmierci przemówiła do Bohaterów Przepowiedni głosem pełnym jadu i mrocznej satysfakcji. Wyśmiała ich starania i oznajmiła, że zabijając Sydona, ściągnęli na siebie ostateczną zgubę. Ujawniła, że władca mórz był ukochanym synem sturękiego i pięćdziesięciogłowego tytana Kentimane'a. Śmierć syna rozbudziła niewyobrażalny gniew ojca, który teraz zmierza ku nim, by wymierzyć okrutną karę. Lutheria z drwiną przyznała, że choć bohaterom udało się nabić jej brata na włócznię i być może zdołają pokonać również ją samą, to w starciu z nadchodzącym sturękim koszmarem nie mają szans na zwycięstwo – ich jedyną nadzieją będzie próba przetrwania jego gniewu. Na tych złowieszczych słowach, w atmosferze narastającej grozy, starcie zostało zawieszone.
+
+## Kluczowe wydarzenia
+* Stabilizacja sytuacji w płonącym Mytros po śmierci tytana Sydona i koordynacja ruchów obronnych na kluczowych odcinkach frontu.
+* Uzdrowienie srebrnej smoczycy Nephele za pomocą zaklęcia Revivify rzuconego przez Arevona, do której ciała przeniosła się uwolniona z amuletu dusza Despiny.
+* Przemarsz drużyny na Targ Minotaurów, gdzie zastali zmutowanych, pogrążonych w obłędzie mieszkańców ucztujących na rozkaz bogini śmierci.
+* Próba zdradzieckiego ataku Orestesa na Lutherię, która przejrzała podstęp i obezwładniła go zaklęciem Tasha's Hideous Laughter.
+* Rozbicie bariery Wall of Force Chondrusa przez Versira za pomocą zaklęcia Toll the Dead.
+* Uśmiercenie trójgłowego Cerbera przez Arevona i Oriona.
+* Śmierć Orestesa od zaklęcia Finger of Death rzuconego przez Lutherię i jego powstanie jako nieumarłego zombie, który mimo wrogiego czaru wspomagał drużynę strzałami z łuku.
+* Wsparcie drużyny przez Kolosa Pythora i brązowego smoka Sybolkorax, co zadało bogini dotkliwe rany.
+* Ostrzeżenie rzucone przez zepchniętą do obrony Lutherię przed nadejściem sturękiego tytana Kentimane'a, pragnącego pomścić śmierć swojego syna Sydona.
+
+## Cytaty
+* Arevon: "A morale... Pozostało obcięte im na pewno? What the fuck, Koindai ma już 7? Jebierdbole."
+* Dungeon Master: "Słyszeć dźwięki, które słuchać trochę jakby orgie, tylko, że dużo jakichś zwierzętych dźwięków się przebija przez tę orgie."
+* Arevon: "Zwierzęce orki."
+* Orion: "Myślałem, że chce się podpalić, tylko że to barbarzyńca, a nie mnich."
+* Orestes: "Widać, że to osiemdziesiąta primer sesja są piękne, ale nie tak jak ty bez nich."
+* Arevon: "W ten moment się rzuca wielkie aue na całą mapę."
+* Arevon: "Jestem pod wrażeniem jak bardzo można sfejlować save'y mając plus miliard, jeszcze ja mogę mu dodać kurwa szóstkę do tego za free i jeszcze on miał d4."
+
+## Postacie
+* **Lutheria**
+* **Chondrus**
+* **Despina**
+* **Nephele**
+* **Tassos**
+* **Sybolkorax**
+* **Klonicjan**
+
+## Lokacje
+* **Mytros**
+* **Targ Minotaurów**
+* **Akademia Mytros**
+* **Teatr Bogów**
+
+## Przedmioty
+* **Titansbane**
+* **Odkupienie Pythora**
+* **Pierścień Orestesa**
+* **Kolos Pythora**
+
+## Filmy
