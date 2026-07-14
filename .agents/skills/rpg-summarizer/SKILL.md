@@ -89,7 +89,7 @@ Rules:
 Return exactly two labeled blocks and nothing else:
 
 ### NARRATIVE
-[1–4 narrative `###` sections in Polish covering this chunk's events, following the style rules above. Each section has a descriptive heading and 1–3 rich paragraphs.]
+[1–3 narrative `###` sections in Polish covering this chunk's events, following the style rules above. Group related events under one heading rather than splitting into many small sections — each heading gets 2–4 rich paragraphs (exceptionally 1, only for a genuinely important standalone event). Fewer, denser headings are the goal: one illustration is generated per section downstream, so avoid heading sprawl.]
 
 ### ROLLING_SUMMARY
 [3–5 bullet points in Polish: key events, decisions, revelations, and the party's location/situation at the end of this chunk. Be specific — this is the only context the next chunk will receive.]
@@ -181,7 +181,7 @@ This is an existing narrative draft for roughly this chunk's portion of the sess
 - **Remove or correct anything the Validation Report flags** for this slice (per the note above — only findings whose quote appears in this slice apply to you).
 - **Verify every remaining claim against the transcript excerpt below** — if a specific spell, item, NPC, number, or superlative in the draft isn't supported by the transcript, fix or remove it (same anti-hallucination bar as Step 4's `summary_prompt.txt`).
 - **Do not transcribe raw mechanics into the prose.** The "Narracja vs Mechanika" section of `summary_prompt.txt` applies here **exactly** as in from-scratch mode. Use `[CZAT]` lines to get the *fiction* right — which spell, who cast it on whom, hit vs. miss, and at most **one** damage figure narrated as a wound. But never write out save-vs-DC totals ("wynik 21 vs DC 23"), raw dice results ("krytyczna jedynka na rzut obronny"), attack-roll-vs-AC, spell-slot levels ("na czwartym kręgu"), grid distances in feet, or engine terms (Legendary Resistance, Second Wind, opportunity attack, temporary HP). draft-0 almost never contains these; if your refinement is *adding* numbers, DCs, and rules jargon that weren't in draft-0, you've overshot — narrate the outcome, not the roll.
-- Preserve the draft's section structure and headings where they're accurate; only reorganize where necessary.
+- Preserve the draft's section structure and headings where they're accurate, but **consolidate** — draft-0 tends to over-split. Merge adjacent, related headings so each resulting `###` section carries 2–4 paragraphs (exceptionally 1, only for a genuinely important standalone beat), matching the density target above. One illustration is generated per section downstream, so fewer, denser headings are the goal; only reorganize where necessary.
 - You may still add narrative color, but keep the existing prose as the starting point rather than regenerating it wholesale.
 ---
 
