@@ -1,16 +1,17 @@
 ---
+name: harvest-corrections
 description: Mines the user's manual draft edits (draft_pre_edit.md vs the final session file) and folds them back into the corrections files, prompt rules, and wiki. Invoked as /harvest-corrections, and automatically as Step 0 of finalize-session-recap.
 ---
 
-# Harvest Corrections Workflow
+# Harvest Corrections
 
-When the user hand-edits a recap draft, their fixes (corrected names, removed hallucinations, entity facts, style trims) normally evaporate. This workflow captures them: it diffs the pristine pre-edit draft against the user's edited file and folds each correction back into the pipeline so the same error class never needs manual fixing twice.
+When the user hand-edits a recap draft, their fixes (corrected names, removed hallucinations, entity facts, style trims) normally evaporate. This skill captures them: it diffs the pristine pre-edit draft against the user's edited file and folds each correction back into the pipeline so the same error class never needs manual fixing twice.
 
-All file writes in this workflow are **proposals** — nothing is written until the user confirms.
+All file writes in this skill are **proposals** — nothing is written until the user confirms.
 
 ## Step 0: Initialization
 
-1. Determine `session_number` (padded 3 digits → `{000}`): from the invocation argument, the calling workflow, or by asking the user.
+1. Determine `session_number` (padded 3 digits → `{000}`): from the invocation argument, the calling skill, or by asking the user.
 2. Locate the two files to diff:
    - **Pre-edit baseline**: `content/assets/sessions/{000}/draft_pre_edit.md` (saved by `generate-session-recap-draft` Step 4.5.5).
    - **User-edited final**: `content/01-Sessions/Sesja {number} - *.md` (the current session file). If multiple match, ask which one.
@@ -52,7 +53,7 @@ Build a set of proposed file updates. **Do not write anything yet.**
 ### 3c. Entity fact fixes → wiki entity file
 1. For each entity fact fix, locate the entity's file under `content/02-People/`, `content/03-Locations/`, `content/04-Items-and-Loot/`, or `content/05-Lore/` (search by the entity name).
 2. If the wiki file states the **old** fact (or lacks the corrected one), propose the same fix to that entity file so the wiki and the recap agree.
-3. If no entity file exists, note it as "no wiki file to update" — do not create one here (entity creation is `rpg-wiki-manager`'s job during `/finalize-session-recap`).
+3. If no entity file exists, note it as "no wiki file to update" — do not create one here (entity creation is `rpg-wiki-manager`'s job during `finalize-session-recap`).
 
 ### 3d. Pure style edits → style-rule amendment
 1. Collect style edits and look for a **consistent** pattern (e.g. the user always trims superlatives, always shortens multi-clause sentences, always cuts a stock phrase).

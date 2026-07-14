@@ -1,10 +1,11 @@
 ---
-description: Generates a session recap draft from a transcript (Part 1 of 2). Runs in refine mode when rpgnotes has already dropped a draft0.md into content/assets/sessions/{NNN}/.
+name: generate-session-recap-draft
+description: Generates a session recap draft from a transcript (Part 1 of 2). Runs in refine mode when rpgnotes has already dropped a draft0.md into content/assets/sessions/{NNN}/. Invoke on-demand as /generate-session-recap-draft when starting a new session's recap.
 ---
 
-# Generate Session Recap Draft Workflow
+# Generate Session Recap Draft
 
-This workflow processes a raw transcript into a markdown draft. It has two modes:
+This skill processes a raw transcript into a markdown draft. It has two modes:
 
 - **Refine mode** — rpgnotes has already run for this session and written `draft0.md` + `validation_report.md` straight into `content/assets/sessions/{NNN}/` (rpgnotes' `OUTPUT_DIR` points at this repo's `content/`, so there's no copy step — its output lands here directly). The chunk subagents correct/refine that draft instead of writing from scratch. Cheaper, faster, and the draft anchors chronology.
 - **From-scratch mode** — no `draft0.md` found for this session. Current behavior, unchanged.
@@ -89,13 +90,13 @@ Rules for the template:
 
 ### 4.5.5 Save a pristine pre-edit copy
 
-After Step 4.7 assembles the complete session file, copy it verbatim to `content/assets/sessions/{000}/draft_pre_edit.md`. This is the baseline the `/harvest-corrections` learning loop diffs against after the user hand-edits the draft — save it before the user touches the file, and do not modify it afterwards. (So the actual copy happens at the end of Step 4.7, not here.)
+After Step 4.7 assembles the complete session file, copy it verbatim to `content/assets/sessions/{000}/draft_pre_edit.md`. This is the baseline the `harvest-corrections` learning loop diffs against after the user hand-edits the draft — save it before the user touches the file, and do not modify it afterwards. (So the actual copy happens at the end of Step 4.7, not here.)
 
 If there were **no** candidate findings at all, skip 4.5.3 (ask nothing) and proceed to Step 4.7 — an empty Q&A round is silent.
 
 ## Step 4.7: Generate Session Details & Assemble the Final File
 
-rpgnotes no longer pre-renders any part of the session file — this workflow assembles it, here, after refinement and interactive verification.
+rpgnotes no longer pre-renders any part of the session file — this skill assembles it, here, after refinement and interactive verification.
 
 1. **Derive the details from the final refined draft** (not from the transcript), per `templates/Session.md`:
    - **Title** — concise and evocative; it names the file: `Sesja {N} - {Title}.md`. If it differs from the provisional title from Step 4.3, rename the file.
@@ -104,7 +105,7 @@ rpgnotes no longer pre-renders any part of the session file — this workflow as
    - `## Lokacje` — locations visited.
    - `## Przedmioty` — notable items gained, lost, or used.
 2. **Populate `## Cytaty`** from `content/assets/sessions/{000}/quotes.json` if present — quotes are verbatim; pick the good ones, never rephrase them. If the file is absent, leave the section empty.
-3. **Assemble the complete session file**: `templates/Session.md` frontmatter (just `title` — asset links are no longer written by hand; the `SessionAssets` transformer scans `content/assets/sessions/{000}/` at build time and lists every file under **Metadane** automatically) + `**Data**` + the narrative under `## Podsumowanie` + the sections above. Still **NO** wikilinks and **NO** images (that is `/finalize-session-recap`). Save to `content/01-Sessions/Sesja {number} - {Title}.md`.
+3. **Assemble the complete session file**: `templates/Session.md` frontmatter (just `title` — asset links are no longer written by hand; the `SessionAssets` transformer scans `content/assets/sessions/{000}/` at build time and lists every file under **Metadane** automatically) + `**Data**` + the narrative under `## Podsumowanie` + the sections above. Still **NO** wikilinks and **NO** images (that is skill `finalize-session-recap`). Save to `content/01-Sessions/Sesja {number} - {Title}.md`.
 4. **Save the pristine copy**: copy the assembled file verbatim to `content/assets/sessions/{000}/draft_pre_edit.md` (see 4.5.5).
 
 ## Step 5: Completion & Review Reminder
