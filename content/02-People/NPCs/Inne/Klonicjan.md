@@ -23,3 +23,6 @@ Podczas starć w Mytros walczył ramię w ramię z drużyną. W [[Sesja 77 - Bit
 
 W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] sterował [[Kolos Pythora|Kolosem Pythora]] i rzucił na niego czar przyspieszenia (*Haste*), by precyzyjnie zaatakować [[Sydon|Sydona]] włócznią.
 
+W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] kontynuował sterowanie [[Kolos Pythora|Kolosem Pythora]]. Został dotknięty obłędem (*Madness*) przez [[Lutheria|Lutherię]], lecz został pomyślnie uwolniony spod jego wpływu przez [[Felicjan Janus Twardowski|Felicjana]] za pomocą zaklęcia *Dispel Magic*, co pozwoliło Kolosowi zadać potężne ciosy bogini.
+
+

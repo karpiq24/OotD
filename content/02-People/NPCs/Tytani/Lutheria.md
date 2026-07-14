@@ -23,3 +23,6 @@ Jest Panią Snów (*The Lady of Dreams*), Królową Hypnos, Panią Śmierci, Bog
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] przybyła na stadion w [[Mytros]] przez wyrwę w rzeczywistości, przyprowadzając ze sobą nieumarłych czempionów i drwiąc z zasad króla [[Acastus|Acastusa]].
 
 W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] pojawiła się tuż po śmierci [[Sydon|Sydona]], zamieniając triumf bohaterów w koszmar. Na czele makabrycznego orszaku nieumarłych, spętanych duchów i rzeczy bez nazwy wkroczyła do [[Mytros]], dzierżąc kryształową kosę. Machnięciem dłoni zamieniała ocalałych mieszkańców w bydło, a sam jej widok doprowadzał pozostałych do obłędu i ludożerczego szału. Z daleka jej spojrzenie odnalazło bohaterów na wodzie, posyłając im nieme, mroczne zaproszenie — sesja zakończyła się cliffhangerem.
+
+W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] zorganizowała makabryczną ucztę na [[Targ Minotaurów|Targu Minotaurów]], zmuszając mieszkańców do ludożerstwa i obłędu. Przejrzała podstępny atak [[Orestes|Orestesa]] i po brutalnej walce zabiła go czarem *Finger of Death*. Ostatecznie, ranna w starciu z bohaterami, [[Kolos Pythora|Kolosem Pythora]] oraz smokiem [[Sybolkorax|Sybolkoraxem]], teleportowała się, ostrzegając ich przed nadchodzącym gniewem sturękiego tytana [[Kentimane|Kentimane'a]].
+
