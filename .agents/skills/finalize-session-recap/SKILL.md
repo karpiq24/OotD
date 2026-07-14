@@ -1,16 +1,17 @@
 ---
-description: Generates wikilinks, images, and timeline events for a session recap draft.
+name: finalize-session-recap
+description: Generates wikilinks, images, and timeline events for a session recap draft, after the user has reviewed and edited it. Invoke on-demand as /finalize-session-recap once a draft from generate-session-recap-draft has been hand-edited.
 ---
 
-# Finalize Session Recap Workflow
+# Finalize Session Recap
 
-This workflow processes a user-reviewed session recap draft, adding wikilinks, images, and other assets.
+This skill processes a user-reviewed session recap draft, adding wikilinks, images, and other assets.
 
 ## Step 0: Harvest Corrections (learning loop)
 
 Before finalizing, mine the edits the user just made to the draft so the same errors do not recur. This step is **non-blocking**: if there is nothing to harvest, continue silently to Step 1.
 
-1. Run the `/harvest-corrections` workflow (`.agents/workflows/harvest-corrections.md`) for this `session_number` — it diffs `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file and proposes corrections-file / wiki updates for the user to confirm.
+1. Activate skill `harvest-corrections` for this `session_number` — it diffs `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file and proposes corrections-file / wiki updates for the user to confirm.
 2. If `draft_pre_edit.md` is missing (e.g. an older draft), harvest-corrections skips gracefully — do not treat this as an error; proceed to Step 1.
 3. Do not block finalization on the harvest: apply whatever the user confirms (or nothing), then continue.
 

@@ -42,17 +42,16 @@ Then open `http://localhost:8080` in your browser.
 
 ## 🤖 AI-Assisted Wiki Management
 
-This project includes AI workflows and skills to automate session logging and wiki maintenance.
+This project includes AI skills to automate session logging and wiki maintenance. There is no separate "workflows" directory — Antigravity 2.0 treats Skills as the primary extension mechanism, and Claude Code's Skill tool resolves the same `/<skill-name>` slash commands directly from `.agents/skills`. Skills split into two roles: pipeline skills (multi-step, user-facing entry points) and capability skills (focused jobs invoked by the pipelines).
 
-### Workflows
-- **`/process-session`**: Process a single RPG session recap from `input/` to `content/01-Sessions/`. Handles asset relocation, entity linking, and wiki updates.
+### Pipeline skills
 - **`/generate-session-recap-draft`**: Generates a session recap draft from a transcript in `input/`. Runs in **refine mode** when an `rpgnotes` handoff bundle (`draft0.md` + `validation_report.md`) is found alongside the transcript — chunk subagents correct that draft instead of writing from scratch, and unresolved validation findings are surfaced to the user at the review gate. Falls back to from-scratch mode otherwise. When the bundle includes `transcript_enriched.txt` (transcript with inline `[VISUAL]`/`[CZAT]` ground-truth annotations), chunking and fact-checking run against it. Before the review gate it runs a short **interactive verification** step (≤10 yes/no / pick-one questions) to resolve claims only a human can decide, then a **details-generation** step that derives the structured sections (title, key events, NPCs, locations, items, verbatim quotes from `quotes.json`) from the refined draft and assembles the complete session file — rpgnotes only delivers draft-0 plus the bundle; the final session file is built here. A pristine `draft_pre_edit.md` snapshot is saved for the learning loop.
 - **`/finalize-session-recap`**: Adds wikilinks, image prompts, and timeline events to a user-reviewed draft. Starts by harvesting the user's edits (see `/harvest-corrections`).
 - **`/harvest-corrections`**: Learning loop — diffs the pristine `draft_pre_edit.md` against the user's edited recap and folds each correction back into the pipeline (name fixes → `phonetic_corrections.md`, deleted claims → anti-hallucination examples / ZAKAZY rules, entity facts → wiki files, style edits → style rules). All writes are confirmed by the user first. Runs automatically as Step 0 of `/finalize-session-recap`, or on-demand.
 - **`/iterate-recap`**: Targeted fix pass for an existing recap — give it a session number and a free-form complaint; it greps the transcript for the relevant names/keywords, re-reads only those slices, and rewrites only the affected sections, never the rest of the file. Tool-agnostic (usable from Antigravity too).
-- **`/generate-video-script`**: On-demand workflow that generates a paste-ready Google Flow video script for an existing session recap. Not part of finalization — invoke it explicitly only when a video is actually wanted.
+- **`/generate-video-script`**: On-demand skill that generates a paste-ready Google Flow video script for an existing session recap. Not part of finalization — invoke it explicitly only when a video is actually wanted.
 
-### Skills
+### Capability skills
 - **`rpg-wiki-manager`**: Extracts entities (NPCs, Locations, Items, Lore, Handouts) from RPG session recaps and input files, updating the wiki structure.
 - **`rpg-illustrator`**: Generates detailed image prompts and renders images using Nano Banana Pro.
 - **`rpg-summarizer`**: Generates a narrative session recap from a transcript, preferring the enriched transcript (`transcript_enriched.txt`, with inline `[VISUAL]`/`[CZAT]` ground-truth annotations) when the rpgnotes bundle provides it.
@@ -66,7 +65,7 @@ The agent follows specific rules for:
 - **Wikilink standards**: Simplified Obsidian-compatible wikilinks without paths or extensions.
 - **Transcript processing**: Always read the full transcript before summarizing.
 
-See `.agents/` directory for full workflow and skill definitions.
+See `.agents/` directory for full skill definitions.
 
 ## 📝 Available Scripts
 

@@ -30,7 +30,7 @@ The `input/` directory is a staging area (gitignored except `.gitkeep`). Drop ne
 
 ## The `.agents/` directory
 
-This is the AI automation layer, shared between Antigravity (native `.agents/rules`, `.agents/skills`, `.agents/workflows` support) and Claude Code. `.agents/` is the single source of truth; `.claude/skills` and `.claude/commands` are symlinks into it (`.claude/skills → ../.agents/skills`, `.claude/commands → ../.agents/workflows`), so Claude Code's native Skill tool and slash commands (e.g. `/finalize-session-recap`) pick up the exact same files Antigravity uses — nothing is duplicated. It contains three subdirectories:
+This is the AI automation layer, shared between Antigravity (native `.agents/rules`, `.agents/skills` support) and Claude Code. `.agents/` is the single source of truth; `.claude/skills` is a symlink into it (`.claude/skills → ../.agents/skills`), so Claude Code's native Skill tool (e.g. `/finalize-session-recap`) picks up the exact same files Antigravity uses — nothing is duplicated. There is no separate `workflows/` directory: Antigravity 2.0 treats Skills as the primary extension mechanism, and Claude Code's Skill tool already resolves `/<skill-name>` for any skill, so multi-step pipelines live in `skills/` too, distinguished only by role below. It contains two subdirectories:
 
 ### `rules/` — always-on constraints
 
@@ -41,9 +41,9 @@ Imported below so their full text is always in context for Claude Code too (mirr
 @.agents/rules/wikilinks.md
 @.agents/rules/use_venv.md
 
-### `skills/` — reusable capabilities
+### `skills/` — capabilities and pipelines
 
-Skills are invoked by workflows or directly, with an explicit mode parameter:
+Two kinds of skill live side by side here. **Capability skills** do one focused job and are invoked by pipeline skills (with an explicit mode parameter where noted) or directly:
 
 | Skill | Purpose |
 |---|---|
@@ -54,9 +54,7 @@ Skills are invoked by workflows or directly, with an explicit mode parameter:
 | `rpg-video-scripter` | Generates a paste-ready, per-clip Google Flow video script from a session recap. Invoked on-demand via `generate-video-script`, never automatically. |
 | `rpg-chatlog-analyst` | Answers precise mechanics questions (exact damage, who cast what, hit/miss) by grepping the session's `chat_events.txt` / `chat_log.json` (written by rpgnotes into `content/assets/sessions/{NNN}/`). All timeline sources share one clock: seconds since the Craig recording start. Never loads whole logs into context. |
 
-### `workflows/` — multi-step pipelines
-
-Two main workflows for processing a new session, plus one on-demand workflow:
+**Pipeline skills** are the multi-step, user-facing entry points — invoked explicitly as `/<skill-name>` (Claude Code) or from the Antigravity Skills panel. Two main ones for processing a new session, plus three on-demand:
 
 **`generate-session-recap-draft`** (Part 1):
 1. Ask for session number; check `content/assets/sessions/{000}/` for what rpgnotes has already written there (`OUTPUT_DIR` points straight at this repo's `content/`, so no copy/move step is needed). `draft0.md` present → **refine mode**; otherwise **from-scratch mode**.

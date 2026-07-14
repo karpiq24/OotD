@@ -1,10 +1,11 @@
 ---
-description: On-demand generation of a paste-ready Google Flow video script from an existing session recap.
+name: generate-video-script
+description: On-demand generation of a paste-ready Google Flow video script from an existing session recap. Invoke explicitly as /generate-video-script — never runs automatically as part of the recap pipeline.
 ---
 
-# Generate Video Script Workflow
+# Generate Video Script
 
-This workflow is invoked explicitly (`/generate-video-script`), never automatically. It owns the entire interaction with the user; no other workflow calls it.
+This skill is invoked explicitly (`/generate-video-script`), never automatically. It owns the entire interaction with the user; no other skill calls it.
 
 ## Step 1: Initialization
 1.  Ask the user for the `session_number`.

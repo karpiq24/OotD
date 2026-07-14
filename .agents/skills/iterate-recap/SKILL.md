@@ -1,12 +1,13 @@
 ---
+name: iterate-recap
 description: Targeted fix pass for an existing session recap. Given a session number and a free-form complaint, re-reads only the relevant transcript slices and rewrites only the affected sections. Tool-agnostic — usable from Claude Code or Antigravity.
 ---
 
-# Iterate Recap Workflow
+# Iterate Recap
 
 For "the draft is okay, but…" sessions. The user points at something wrong or missing in an already-generated recap; you fix **only that**, re-reading just the relevant transcript slice, and leave the rest of the file untouched.
 
-This workflow is deliberately **tool-agnostic**: it uses only *read*, *search/grep*, and *edit* operations, so it can be followed from Antigravity as well as Claude Code. Do not assume any specific agent's tooling.
+This skill is deliberately **tool-agnostic**: it uses only *read*, *search/grep*, and *edit* operations, so it can be followed from Antigravity as well as Claude Code. Do not assume any specific agent's tooling.
 
 ## Step 0: Inputs
 
