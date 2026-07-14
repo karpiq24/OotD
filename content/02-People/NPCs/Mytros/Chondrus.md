@@ -20,3 +20,6 @@ Później sprzymierzył się z [[Bohaterowie Przepowiedni|Bohaterami]] na [[Wysp
 W [[Sesja 54 - Wyznanie Chondrusa]] przyznał się do służby [[Lutheria|Lutherii]], twierdząc, że jej cele nie są sprzeczne z celami herosów. Został uwięziony w celi na [[Ultros|Ultrosie]].
 
 W [[Sesja 65 - Wyprawa w Otchłań]], w obawie przed jego zdradą po wpłynięciu na terytorium Tytanów, został zakuty w magiczne Kajdany Wymiarowe (Dimensional Shackles), uniemożliwiające mu teleportację.
+
+W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] wiernie służył [[Lutheria|Lutherii]] i podczas walki wzniósł barierę *Wall of Force*, odcinając bohaterów od bogini. Został zabity przez [[Versir|Versira]] za pomocą zaklęcia *Toll the Dead*, co doprowadziło do upadku bariery.
+

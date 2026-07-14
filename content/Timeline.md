@@ -489,4 +489,13 @@
 * **Przebudzenie Góry Volkana** — Śmierć boga wywołuje tąpnięcie i trzęsienie ziemi, a wygasły wulkan [[Kuźnia Volkana|Góra Volkana]] budzi się do życia, plując dymem i ogniem.
 * **Nadejście Lutherii (cliffhanger)** — Tuż po zwycięstwie przybywa [[Lutheria]] z koszmarną świtą nieumarłych, zamienia ocalałych mieszkańców w bydło i pogrąża miasto w obłędzie, posyłając bohaterom nieme, mroczne zaproszenie.
 
-
+## Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów (13.07.2026)
+* **Uzdrowienie smoczycy Nephele i nowe naczynie Despiny** — [[Arevon Elorrenthi|Arevon]] rzuca zaklęcie *Revivify* na martwą smoczycę [[Nephele (Smok)|Nephele]]; pęknięcie amuletu [[Felicjan Janus Twardowski|Felicjana]] uwalnia duszę prababki [[Despina|Despiny]], która zasiedla puste ciało smoka.
+* **Obrona miasta** — Stabilizacja chaosu w płonącym [[Mytros]] po śmierci tytana Sydona; reorganizacja dowództwa (mężny [[Brax|Brax]] zastępuje [[Boreas|Boreasa]]) i frontu obronnego.
+* **Odlot smoczycy** — Po krótkim odpoczynku na plaży, smoczyca [[Nephele (Smok)|Nephele]] (z duszą Despiny) odlatuje na południowy wschód, żegnając się z bohaterami.
+* **Makabryczny bankiet** — Dotarcie na [[Targ Minotaurów|Targ Minotaurów]], gdzie [[Lutheria]] więzi i mutuje mieszkańców w obłędzie.
+* **Zasadzka Orestesa i wybuch walki** — [[Orestes]] próbuje podstępnego ataku z zaskoczenia na boginię, lecz zostaje obezwładniony zaklęciem *Tasha's Hideous Laughter*.
+* **Likwidacja sług i upadek bariery** — [[Versir]] zabija [[Chondrus|Chondrusa]] czarem *Toll the Dead*, niszcząc barierę *Wall of Force*. [[Orion Xul|Orion]] i [[Arevon Elorrenthi|Arevon]] uśmiercają trójgłowego Cerbera i Lamię.
+* **Śmierć Orestesa i powstanie jako zombie** — [[Lutheria]] zabija [[Orestes|Orestesa]] zaklęciem *Finger of Death*. Minotaur powstaje jako zombie, lecz pokonuje jej wolę i wspomaga drużynę ostrzałem z łuku.
+* **Odparcie bogini i gniew Kolosa** — Ciężko ranna w starciu z bohaterami, [[Kolos Pythora|Kolosem Pythora]] oraz smokiem [[Sybolkorax]] bogini teleportuje się z pola walki.
+* **Ostrzeżenie przed Kentimanem** — Przed ucieczką [[Lutheria]] ostrzega przed nadejściem sturękiego tytana [[Kentimane|Kentimane'a]], pragnącego pomścić śmierć swojego syna Sydona, podczas gdy budzi się wulkan.

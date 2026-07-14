@@ -33,3 +33,6 @@ W [[Sesja 71 - Infiltracja Praxys]] próbował przypodobać się smokowi [[Parad
 W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] udaremnił cyklopowi [[Garzoon|Garzoonowi]] włączenie dzwonu alarmowego poprzez wbicie mu topora w potylicę. Następnie rozwiązał kamienną zagadkę ślepej uliczki malując węglem prymitywną rakietę na oku posągu. Zaplanował w kuchni chytry atak iście "konia trojańskiego": zaskoczył [[Sydon|Sydona]] wyskakując ze śniadaniowego, gigantycznego bochenka chleba. W starciu z [[Chalcia|Chalcią]] i konstruktami dokonał iście minotaurzego błędu - wzbił się i wrzucił ciężkiego z magmy Żelaznego Golema prosto w *Ścianę Ognia*, ku niefortunnej uciesze regenerującego się robota.
 
 W [[Sesja 74 - Matka Smoków]] poległ w starciu z [[Goloron|Goloronem]], jednak dzięki dawnej klątwie [[Lutheria|Lutherii]] zmartwychwstał o połowie ruchu i dokonał brutalnej, ostatecznej egzekucji tytana.
+
+W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] podjął próbę podstępnego ataku na [[Lutheria|Lutherię]], lecz bogini przejrzała jego zamiary i obezwładniła go zaklęciem *Tasha's Hideous Laughter*. Ostatecznie poniósł śmierć od jej czaru *Finger of Death*, wznosząc się jako nieumarły zombie pod jej kontrolą. Dzięki swej wściekłości minotaur zdołał jednak przełamać wolę bogini i wspomógł drużynę celnymi strzałami z magicznego łuku.
+
