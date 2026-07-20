@@ -1,0 +1,2162 @@
+[
+  {
+    "offset_secs": 154.60899996757507,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Metaphysical Principles Class Starting at 10th level, you gain new insights into the nature of causality. Whenever a creature casts a spell with a single target that you can see, you can use your reaction to choose a new target for the spell. The new target must be legal for that spell. Once you have used this feature, you may not use it again until you complete a short or long rest."
+  },
+  {
+    "offset_secs": 349.3659999370575,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Athletics (+11) 18 1d20 + 11 1d20 7 | rzuty: = 18, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 412.1909999847412,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 27 1d20 + 12 1d20 15 Piercing Damage: 12 1d8 + 7 1d8 5 | rzuty: 1d20 + 12, 1d20 = 12, 1d8 + 7, 1d8"
+  },
+  {
+    "offset_secs": 418.8880000114441,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 437.8580000400543,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 30 1d20 + 12 1d20 18 31 1d20 + 12 1d20 19 Piercing Damage: 14 1d8 + 7 1d8 7 | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20 = 14, 1d8 + 7, 1d8"
+  },
+  {
+    "offset_secs": 555.6770000457764,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 613.4079999923706,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 21 Concentration Concentration"
+  },
+  {
+    "offset_secs": 664.2160000801086,
+    "speaker": "Lamia",
+    "kind": "chat",
+    "text": "Corrupting Touch Feature Wisdom Saving Throw: DC 13 , one creature the lamia can see within 5 feet. Failure: 13 ( 3d8 Psychic ) damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions. DC 13 Wisdom Saving Throw Wisdom Saving Throw Damage Action Instantaneous Self 1 creature"
+  },
+  {
+    "offset_secs": 678.6600000858307,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Wisdom Save (+2) 15 1d20 + 2 1d20 13 9 1d20 + 2 1d20 7 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 685.5869998931885,
+    "speaker": "Lamia",
+    "kind": "roll",
+    "text": "Claw Natural Melee Attack Roll: +5 , reach 5 ft. Hit: 7 ( 1d8 + 3 Slashing ) damage plus 7 ( 2d6 Psychic ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 737.5789999961853,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d20 + 11, 1d20 + 11"
+  },
+  {
+    "offset_secs": 739.5499999523163,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d20 + 11, 1d20 + 11"
+  },
+  {
+    "offset_secs": 751.6670000553131,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 19 8 + 11"
+  },
+  {
+    "offset_secs": 796.1099998950958,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Wisdom Save (+10) 13 1d20 + 10 3 3 | rzuty: = 13, 1d20 + 10"
+  },
+  {
+    "offset_secs": 803.2850000858307,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 807.2190001010895,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Madness Feature Lutheria targets one creature within 180 ft. The target must make a DC 23 Widsom saving throw against this magic or fall under the effect of the confusion spell. At the end of each of its turns, an affected target can make a DC 23 Wisdom saving throw. If it succeeds, this effect ends for that target. DC 23 Wisdom Saving Throw Wisdom Saving Throw Consume Resource Refund Resource 2 …"
+  },
+  {
+    "offset_secs": 842.7300000190735,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 865.375,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 40, 8d8 + 6"
+  },
+  {
+    "offset_secs": 871.4430000782013,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "19"
+  },
+  {
+    "offset_secs": 873.5680000782013,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 909.625,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Spell Attack Casting Time undefined Duration undefined Components Range undefined Spell Attack 23 1d20 + 13 10 10 | rzuty: = 23, 1d20 + 13"
+  },
+  {
+    "offset_secs": 914.4809999465942,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Spell Attack Casting Time undefined Duration undefined Components Range undefined Spell Attack 18 1d20 + 13 5 5 | rzuty: = 18, 1d20 + 13"
+  },
+  {
+    "offset_secs": 935.7829999923706,
+    "speaker": "Grasping Vine",
+    "kind": "chat",
+    "text": "27"
+  },
+  {
+    "offset_secs": 987.1449999809265,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 1002.2119998931885,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 14 Concentration Concentration"
+  },
+  {
+    "offset_secs": 1035.5069999694824,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 1039.9820001125336,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 10 + 8"
+  },
+  {
+    "offset_secs": 1046.0220000743866,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 1065.5659999847412,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 1068.7760000228882,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 16 + 3"
+  },
+  {
+    "offset_secs": 1078.7960000038147,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 1082.9679999351501,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 12 + 7"
+  },
+  {
+    "offset_secs": 1111.545000076294,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 18, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 1122.3050000667572,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9"
+  },
+  {
+    "offset_secs": 1127.1510000228882,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 1155.763000011444,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 1168.1600000858307,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 15 Concentration Concentration"
+  },
+  {
+    "offset_secs": 1192.6930000782013,
+    "speaker": "Colossus of Pythor",
+    "kind": "chat",
+    "text": "Attack Feature The colossus makes one attack. Consume Resource Refund Resource 1 legendary action Instantaneous Self"
+  },
+  {
+    "offset_secs": 1201.194000005722,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 1365.2829999923706,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "27"
+  },
+  {
+    "offset_secs": 1371.6549999713898,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "18"
+  },
+  {
+    "offset_secs": 1387.9189999103546,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 1698.7750000953674,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Wand of Polymorph Legacy • Wand, Very Rare (requires attunement by a Spellcaster) This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the polymorph spell (save DC 15) from it. The wand regains 1d6 + 1 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20 d20 . On a 1, the wand crumbles into ashes and is destroyed."
+  },
+  {
+    "offset_secs": 2000.6549999713898,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 12 1d20 + 8 1d20 4 | rzuty: = 12, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 2009.7839999198914,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "15"
+  },
+  {
+    "offset_secs": 2026.9570000171661,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 2031.0490000247955,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Eye of the Galactic Dragon (d8) 1 1d8 1 1 | rzuty: = 1, 1d8"
+  },
+  {
+    "offset_secs": 2051.5329999923706,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Second Fiddle Wondrous item, Rare This seemingly ordinary wooden fiddle is surprisingly lightweight. Etched upon its back are swirling patterns that seem to shift and dance in the light. When you speak the command word, \"Capriccio\", the bow begins to move on its own accord, playing a lively tune as the fiddle floats gently in the air beside you. While active, the Second Fiddle floats in the air a…"
+  },
+  {
+    "offset_secs": 2058.2300000190735,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 2164.861999988556,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Otiluke's Resillent Sphere (1) Scroll, Uncommon A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the scroll crumb…"
+  },
+  {
+    "offset_secs": 2241.7309999465942,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 2354.1319999694824,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 24 18 + 6"
+  },
+  {
+    "offset_secs": 3504.359999895096,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 26 19 + 7"
+  },
+  {
+    "offset_secs": 3578.335000038147,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 3657.4489998817444,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 3688.305000066757,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Wisdom Save (+10) 17 1d20 + 10 7 7 | rzuty: = 17, 1d20 + 10"
+  },
+  {
+    "offset_secs": 3695.8740000724792,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 3748.1740000247955,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Dexterity Save (+3) 12 1d20 + 3 9 9 | rzuty: = 12, 1d20 + 3"
+  },
+  {
+    "offset_secs": 3762.2860000133514,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 3771.9489998817444,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "30"
+  },
+  {
+    "offset_secs": 3813.938999891281,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 15 Concentration Concentration"
+  },
+  {
+    "offset_secs": 3858.09299993515,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Starry Form: Archer Range 60ft. 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beas… | rzuty: = 18, 1d20 + 11"
+  },
+  {
+    "offset_secs": 3865.6440000534058,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 3893.289999961853,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 3895.4130001068115,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting a… | rzuty: = 14, 2d8 + 6"
+  },
+  {
+    "offset_secs": 3897.351000070572,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 3989.9249999523163,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …"
+  },
+  {
+    "offset_secs": 4013.446000099182,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 22 1d20 + 8 1d20 14 | rzuty: = 22, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 4050.085000038147,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 12 1d20 + 8 1d20 4 | rzuty: = 12, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 4124.829999923706,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Dexterity Save (+1) 21 1d20 + 1 1d20 20 7 1d20 + 1 1d20 6 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 4135.753000020981,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "20"
+  },
+  {
+    "offset_secs": 4159.726000070572,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 23, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4169.436000108719,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 14 + 8"
+  },
+  {
+    "offset_secs": 4229.068000078201,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4240.257999897003,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 4261.013000011444,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 16 + 5"
+  },
+  {
+    "offset_secs": 4358.243999958038,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4365.71799993515,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 4398.756000041962,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Constitution Save (+9) 25 1d20 + 9 1d20 16 15 1d20 + 9 1d20 6 | rzuty: 1d20 + 9, 1d20, 1d20 + 9, 1d20"
+  },
+  {
+    "offset_secs": 4401.513999938965,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …"
+  },
+  {
+    "offset_secs": 4455.102999925613,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Dexterity Save (+2) 5 1d20 + 2 1d20 3 10 1d20 + 2 1d20 8 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 4462.963999986649,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "18"
+  },
+  {
+    "offset_secs": 4482.72000002861,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 27 1d20 + 8 1d20 19 | rzuty: = 27, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 4513.296999931335,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4520.3150000572205,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 33, 6d8"
+  },
+  {
+    "offset_secs": 4532.819999933243,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 4561.5090000629425,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4568.24799990654,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 28, 6d8"
+  },
+  {
+    "offset_secs": 4571.476000070572,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 4595.880000114441,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4603.7009999752045,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 30, 6d8"
+  },
+  {
+    "offset_secs": 4605.993999958038,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 4631.930999994278,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4641.516000032425,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 4659.503000020981,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "42"
+  },
+  {
+    "offset_secs": 4678.677000045776,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 4686.755000114441,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 4695.522000074387,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "39"
+  },
+  {
+    "offset_secs": 4835.010999917984,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "15"
+  },
+  {
+    "offset_secs": 4997.803999900818,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intelligence Save (+4) 5 1d20 + 4 1 1 | rzuty: = 5, 1d20 + 4"
+  },
+  {
+    "offset_secs": 5006.017999887466,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Psychic Scream (M) Enchantment You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected. Each target must make an Intelligence saving throw. On a failed save, a target takes 14d6 psychic damage and is Stunned . On a successful save, a target takes half as mu…"
+  },
+  {
+    "offset_secs": 5007.293999910355,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Intelligence Save (-1) 16 1d20 - 1 1d20 17 | rzuty: = 16, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 5012.6449999809265,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Intelligence Save (+1) 19 1d20 + 1 1d20 18 19 1d20 + 1 1d20 18 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 5022.032999992371,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 5024.7409999370575,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 5056.733999967575,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Spellguard Shield Armor (Shield), Very Rare (requires attunement) While holding this Shield, you have Advantage on saving throws against spells and other magical effects, and spell attack rolls have Disadvantage against you."
+  },
+  {
+    "offset_secs": 5091.375999927521,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Lionheart’s Rebuke Armor (Plate), Very Rare This suit of heavy plate armor is crafted from burnished gold and reinforced with shoulder pauldrons sculpted in the likeness of roaring lions. Large ruby-colored gems are embedded into the chest and gauntlets, interspersed with jagged sapphire-blue crystals set deep into the gold filigree. You have a +1 1d20+1 bonus to Armor Class while wearing this ar…"
+  },
+  {
+    "offset_secs": 5171.03200006485,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[stunned]"
+  },
+  {
+    "offset_secs": 5211.27999997139,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 5254.243000030518,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Intelligence Save (-1) 2 1d20 - 1 1d20 3 | rzuty: = 2, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 5274.427999973297,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 5303.025000095367,
+    "speaker": "Lutheria, The Lady of Dreams",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 5350.891999959946,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 5376.078000068665,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Wisdom Save (+10) 25 1d20 + 10 15 15 | rzuty: = 25, 1d20 + 10"
+  },
+  {
+    "offset_secs": 5380.933000087738,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 5424.0759999752045,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[stunned]"
+  },
+  {
+    "offset_secs": 5508.22000002861,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Darkness (M) Evocation Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with Darkvision can't see through this darkness, and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from t…"
+  },
+  {
+    "offset_secs": 5567.289000034332,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intelligence Save (+4) 19 1d20 + 4 15 15 | rzuty: = 19, 1d20 + 4"
+  },
+  {
+    "offset_secs": 5574.516000032425,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 5611.520999908447,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[stunned]"
+  },
+  {
+    "offset_secs": 5640.963000059128,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Intelligence Save (+1) 10 1d20 + 1 1d20 9 9 1d20 + 1 1d20 8 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 5730.076999902725,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Wisdom Save (-1) 6 1d20 - 1 1d20 7 | rzuty: = 6, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 5733.496999979019,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom Save (+11) 17 1d20 + 11 6 6 | rzuty: = 17, 1d20 + 11"
+  },
+  {
+    "offset_secs": 5739.963999986649,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 5743.096999883652,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Wisdom Save (+2) 18 1d20 + 2 1d20 16 22 1d20 + 2 1d20 20 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 5759.457000017166,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 5773.798000097275,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 6131.47000002861,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Dispel Magic Legacy • 3rd Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range 120ft. Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On …"
+  },
+  {
+    "offset_secs": 6171.012000083923,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Intelligence (+5) 10 1d20 + 5 1d20 5 | rzuty: = 10, 1d20 + 5, 1d20"
+  },
+  {
+    "offset_secs": 6258.4509999752045,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Intelligence (+5) 25 1d20 + 5 1d20 20 | rzuty: = 25, 1d20 + 5, 1d20"
+  },
+  {
+    "offset_secs": 6289.898000001907,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "10"
+  },
+  {
+    "offset_secs": 6394.118999958038,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 6425.832000017166,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 21 1d20 + 8 1d20 13 | rzuty: = 21, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 6538.928999900818,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 16 13 + 3"
+  },
+  {
+    "offset_secs": 6556.996000051498,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 11 Concentration Concentration"
+  },
+  {
+    "offset_secs": 6566.724999904633,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 17 10 + 7"
+  },
+  {
+    "offset_secs": 6575.973999977112,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "10"
+  },
+  {
+    "offset_secs": 6590.960000038147,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 6617.3949999809265,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Athletics (+11) 19 1d20 + 11 1d20 8 | rzuty: = 19, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 6674.842000007629,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 6698.440999984741,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 27 1d20 + 8 1d20 19 | rzuty: = 27, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 6903.460000038147,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and Advantage on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition. Classes: Cler"
+  },
+  {
+    "offset_secs": 6920.016999959946,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[stunned]"
+  },
+  {
+    "offset_secs": 6929.535000085831,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intelligence Save (+4) 15 1d20 + 4 11 11 7 1d20 + 4 3 3 | rzuty: 1d20 + 4, 1d20 + 4"
+  },
+  {
+    "offset_secs": 6935.755000114441,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 6946.311000108719,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[stunned]"
+  },
+  {
+    "offset_secs": 6961.640000104904,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Intelligence Save (+1) 20 1d20 + 1 1d20 19 3 1d20 + 1 1d20 2 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 6994.517999887466,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Fear (M) Illusion You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become Frightened for the duration. While Frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If …"
+  },
+  {
+    "offset_secs": 7007.12700009346,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Wisdom Save (+10) 27 1d20 + 10 17 17 20 1d20 + 10 10 10 | rzuty: 1d20 + 10, 1d20 + 10"
+  },
+  {
+    "offset_secs": 7017.0090000629425,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom Save (+11) 19 1d20 + 11 8 8 16 1d20 + 11 5 5 | rzuty: 1d20 + 11, 1d20 + 11"
+  },
+  {
+    "offset_secs": 7027.979000091553,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Ring of Orestes Ring, Legendary (requires attunement by a Doomed One) This simple ring seems to be created from a dragon bone. On the inside the inscription says: \"DLA UKOCHANEGO ORESTESA\". You have advantage on saving throws you make to avoid being charmed or frightened or to end those conditions on you. Ring of Orestes was enhanced by God of Crafts, Volkan himself. You gain a +1 1d20+1 bonus to…"
+  },
+  {
+    "offset_secs": 7043.151000022888,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Wisdom Save (+2) 8 1d20 + 2 1d20 6 22 1d20 + 2 1d20 20 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 7172.168999910355,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Fireball Legacy • 3rd Level Evocation (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a tiny ball of bat guano and sulfur) Range 150ft. Area of Effect 20ft. AoE Sh… | rzuty: = 39, 8d6, 8d6"
+  },
+  {
+    "offset_secs": 7185.259999990463,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 7231.484999895096,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "12"
+  },
+  {
+    "offset_secs": 7243.828999996185,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 7253.151999950409,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom Save (+11) 20 1d20 + 11 9 9 22 1d20 + 11 11 11 | rzuty: 1d20 + 11, 1d20 + 11"
+  },
+  {
+    "offset_secs": 7254.22000002861,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Wisdom Save (+10) 15 1d20 + 10 5 5 27 1d20 + 10 17 17 | rzuty: 1d20 + 10, 1d20 + 10"
+  },
+  {
+    "offset_secs": 7267.47000002861,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Wisdom Save (+2) 14 1d20 + 2 1d20 12 11 1d20 + 2 1d20 9 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 7277.641999959946,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 7388.512000083923,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Maze (M) Conjuration You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze. The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a minotaur or goristro demon automatically succeeds). When the spell …"
+  },
+  {
+    "offset_secs": 7480.875,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 5 5, = Damage: 20 13 + 7"
+  },
+  {
+    "offset_secs": 7495.892999887466,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 7570.954999923706,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Axe of Xander Weapon (Greataxe), Legendary (requires attunement) This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathically by transmitting emotion to the creature carrying or using it. The axe’s primary purpose is to destroy giants and titans. When you attack one of tho…"
+  },
+  {
+    "offset_secs": 7645.1449999809265,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "39"
+  },
+  {
+    "offset_secs": 7676.479000091553,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 19 Concentration Concentration"
+  },
+  {
+    "offset_secs": 7746.378999948502,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Athletics (+11) 17 1d20 + 11 1d20 6 | rzuty: = 17, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 7799.089999914169,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so."
+  },
+  {
+    "offset_secs": 7839.900000095367,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 7909.036999940872,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Intelligence (-1) 13 1d20 - 1 14 14 | rzuty: = 13, 1d20 - 1"
+  },
+  {
+    "offset_secs": 7968.638000011444,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 8498.578999996185,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …"
+  },
+  {
+    "offset_secs": 8510.019999980927,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "15"
+  },
+  {
+    "offset_secs": 8513.036000013351,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 35, 5d8 + 6"
+  },
+  {
+    "offset_secs": 8615.348999977112,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …"
+  },
+  {
+    "offset_secs": 8616.237999916077,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 15 1d20 + 8 7 7 | rzuty: = 15, 1d20 + 8"
+  },
+  {
+    "offset_secs": 8649.068000078201,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Odkupienie Pythora Weapon (Longsword), Legendary (requires attunement by a Demi-God) This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your hand. Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 l…"
+  },
+  {
+    "offset_secs": 8687.766999959946,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "37"
+  },
+  {
+    "offset_secs": 8759.776999950409,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 8782.868000030518,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 8855.638999938965,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Fireball Legacy • 3rd Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a tiny ball of bat guano and sulfur) Range 150ft. Area of Effect 20ft. AoE Sh… | rzuty: = 28, 9d6, 9d6"
+  },
+  {
+    "offset_secs": 8871.644999980927,
+    "speaker": "Lutheria, The Lady of Dreams",
+    "kind": "chat",
+    "text": "52"
+  },
+  {
+    "offset_secs": 8910.936000108719,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 14 Concentration Concentration"
+  },
+  {
+    "offset_secs": 9005.063999891281,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 9063.578000068665,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 9105.987999916077,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 9127.319000005722,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[prone]"
+  },
+  {
+    "offset_secs": 9165.355999946594,
+    "speaker": "Lutheria",
+    "kind": "roll",
+    "text": "Synaptic Static (M) Enchantment You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence sa…"
+  },
+  {
+    "offset_secs": 9207.37299990654,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intelligence Save (+4) 21 1d20 + 4 17 17 | rzuty: = 21, 1d20 + 4"
+  },
+  {
+    "offset_secs": 9214.851000070572,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 9227.823999881744,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Intelligence Save (-1) 0 1d20 - 1 1d20 1 | rzuty: = 0, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 9231.460999965668,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Intelligence Save (+1) 12 1d20 + 1 1d20 11 21 1d20 + 1 1d20 20 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 9246.358999967575,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 9306.473999977112,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[diseased]"
+  },
+  {
+    "offset_secs": 9394.033999919891,
+    "speaker": "Dire Bullgoat",
+    "kind": "roll",
+    "text": "Charge Charge. If the bullgoat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 ( 2d8 2d8 ) piercing damage. If the tar… | rzuty: = 6, 2d8"
+  },
+  {
+    "offset_secs": 9437.049000024796,
+    "speaker": "Dire Bullgoat",
+    "kind": "roll",
+    "text": "Ram Ram. Melee Weapon Attack: +6 1d20+6 to hit, reach 5 ft., one target. Hit: 13 ( 2d8 + 4 2d8 + 4 ) bludgeoning damage. 8 1d20 + 6 2 2 Bludgeoning Damage: 15 2d8 + 4 5 6 11 | rzuty: 1d20 + 6 = 15, 2d8 + 4"
+  },
+  {
+    "offset_secs": 9474.642999887466,
+    "speaker": "Dire Bullgoat",
+    "kind": "roll",
+    "text": "Hooves Hooves. Melee Weapon Attack: +6 1d20+6 to hit, reach 5 ft., one target. Hit: 9 ( 2d4 + 4 2d4 + 4 ) bludgeoning damage. 16 1d20 + 6 10 10 Bludgeoning Damage: 12 2d4 + 4 4 4 8 | rzuty: 1d20 + 6 = 12, 2d4 + 4"
+  },
+  {
+    "offset_secs": 9553.569000005722,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 9672.799000024796,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "...Wiesz, czego w tobie nie znoszę najbardziej, siostrzeńcu? Że miałeś rację."
+  },
+  {
+    "offset_secs": 9723.688999891281,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Intimidation (+11) 17 1d20 + 11 6 6 | rzuty: = 17, 1d20 + 11"
+  },
+  {
+    "offset_secs": 9773.673000097275,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Distortion Feature Lutheria attempts to warp space within the World of Dreams. Every creature of her choice within 120 feet of her must make a Wisdom saving throw. On a failed save, a creature takes 10 (3d6) psychic damage and is transported to another location of her choice within 120 feet of her. DC 23 Wisdom Saving Throw Wisdom Saving Throw Consume Resource Refund Resource 2 mythic actions Ins…"
+  },
+  {
+    "offset_secs": 9786.756999969482,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom Save (+11) 27 1d20 + 11 16 16 | rzuty: = 27, 1d20 + 11"
+  },
+  {
+    "offset_secs": 9794.509000062943,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Wisdom Save (+6) 10 1d20 + 6 1d20 4 15 1d20 + 6 1d20 9 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20"
+  },
+  {
+    "offset_secs": 9794.720999956131,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Wisdom Save (-1) 2 1d20 - 1 1d20 3 | rzuty: = 2, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 9796.424000024796,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Wisdom Save (+2) 8 1d20 + 2 1d20 6 16 1d20 + 2 1d20 14 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 9829.53299999237,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 9837.642999887466,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cosmic Omen (d6) 1 1d6 1 1 | rzuty: = 1, 1d6"
+  },
+  {
+    "offset_secs": 10016.983999967575,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Wall of Force 5th Level Evocation Casting Time 1 action Duration up to 10 minutes Components V, S, M(a shard of glass) Range 120ft. Concentration Requires Concentration An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a soli…"
+  },
+  {
+    "offset_secs": 10115.644000053406,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "47"
+  },
+  {
+    "offset_secs": 10200.052000045776,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Potion of Healing (Greater) (1) Potion, Uncommon You regain 4d4 + 4 4d4 + 4 Hit Points when you drink this potion. Whatever its potency, the potion’s red liquid glimmers when agitated."
+  },
+  {
+    "offset_secs": 10202.829999923706,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Potion of Healing (Greater) (1) 12 4d4 + 4 1 3 1 3 8 | rzuty: = 12, 4d4 + 4"
+  },
+  {
+    "offset_secs": 10322.516999959946,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Blink Legacy • 3rd Level Transmutation (Cast at 3rd Level) Casting Time 1 action Duration 1 minute Components V, S Range Self Roll a d20 d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the …"
+  },
+  {
+    "offset_secs": 10328.213000059128,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 10335.769000053406,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[prone]"
+  },
+  {
+    "offset_secs": 10374.482000112534,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 10388.052999973297,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 10397.236000061035,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[diseased]"
+  },
+  {
+    "offset_secs": 10426.803999900818,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Potion of Healing (Greater) (2) Potion, Uncommon You regain 4d4 + 4 4d4 + 4 Hit Points when you drink this potion. Whatever its potency, the potion’s red liquid glimmers when agitated."
+  },
+  {
+    "offset_secs": 10437.476000070572,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "11"
+  },
+  {
+    "offset_secs": 10500.647000074387,
+    "speaker": "Lutheria, The Lady of Dreams",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 10534.946000099182,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "7"
+  },
+  {
+    "offset_secs": 10648.99799990654,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …"
+  },
+  {
+    "offset_secs": 10658.595999956131,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "19"
+  },
+  {
+    "offset_secs": 10668.243000030518,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 23, 5d8 + 6"
+  },
+  {
+    "offset_secs": 10684.973999977112,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 10732.37700009346,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Potion of Healing (2d4 + 2) 7 2d4 + 2 3 2 5 | rzuty: = 7, 2d4 + 2"
+  },
+  {
+    "offset_secs": 10763.552000045776,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 10769.813999891281,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 10776.740000009537,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 14 + 7"
+  },
+  {
+    "offset_secs": 10808.848999977112,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 10818.760999917984,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 15 1d20 + 12 1d20 3 Piercing Damage: 8 1d8 + 7 1d8 1 | rzuty: 1d20 + 12, 1d20 = 8, 1d8 + 7, 1d8"
+  },
+  {
+    "offset_secs": 10834.588000059128,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Fear (M) Illusion You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become Frightened for the duration. While Frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If …"
+  },
+  {
+    "offset_secs": 10847.632999897003,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom Save (+11) 13 1d20 + 11 2 2 28 1d20 + 11 17 17 | rzuty: 1d20 + 11, 1d20 + 11"
+  },
+  {
+    "offset_secs": 10849.90599989891,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Wisdom Save (+10) 30 1d20 + 10 20 20 25 1d20 + 10 15 15 | rzuty: 1d20 + 10, 1d20 + 10"
+  },
+  {
+    "offset_secs": 10856.023999929428,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Wisdom Save (+2) 14 1d20 + 2 1d20 12 16 1d20 + 2 1d20 14 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20"
+  },
+  {
+    "offset_secs": 10861.556999921799,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 10863.138999938965,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Wisdom Save (+6) 15 1d20 + 6 1d20 9 | rzuty: = 15, 1d20 + 6, 1d20"
+  },
+  {
+    "offset_secs": 10875.404000043869,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Wisdom Save (+6) 26 1d20 + 6 1d20 20 | rzuty: = 26, 1d20 + 6, 1d20"
+  },
+  {
+    "offset_secs": 10902.451999902725,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 10906.803999900818,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 24 16 + 8"
+  },
+  {
+    "offset_secs": 10968.772000074387,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 28, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 10971.460999965668,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 10 + 8"
+  },
+  {
+    "offset_secs": 10976.970999956131,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 11046.302999973297,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 25, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 11048.890000104904,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 11 + 7"
+  },
+  {
+    "offset_secs": 11072.578000068665,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 32, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 11075.630000114441,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9, 1d4"
+  },
+  {
+    "offset_secs": 11100.711999893188,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "10"
+  },
+  {
+    "offset_secs": 11115.765000104904,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11142.111999988556,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …"
+  },
+  {
+    "offset_secs": 11150.815999984741,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Constitution Save (+8) 20 1d20 + 8 1d20 12 12 1d20 + 8 1d20 4 | rzuty: 1d20 + 8, 1d20, 1d20 + 8, 1d20"
+  },
+  {
+    "offset_secs": 11160.923000097275,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 11216.433000087738,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Dawn 5th Level Evocation Casting Time 1 action Duration up to 1 minute Components V, S, M(a sunburst pendant worth at least 100 gp) Range 60ft. Area of Effect 30ft. AoE Shape Cylinder Concentration R… | rzuty: = 23, 4d10, 4d10"
+  },
+  {
+    "offset_secs": 11286.71900010109,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "76"
+  },
+  {
+    "offset_secs": 11313.387000083923,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11323.338000059128,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11351.066999912262,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11363.21900010109,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11407.980000019073,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "14"
+  },
+  {
+    "offset_secs": 11457.599999904633,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 17, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 11462.503999948502,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 11488.861000061035,
+    "speaker": "Lutheria",
+    "kind": "roll",
+    "text": "Synaptic Static (M) Enchantment You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence sa…"
+  },
+  {
+    "offset_secs": 11492.395999908447,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Intelligence Save (+5) 11 1d20 + 5 6 6 | rzuty: = 11, 1d20 + 5"
+  },
+  {
+    "offset_secs": 11505.980000019073,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Intelligence Save (-1) 7 1d20 - 1 1d20 8 | rzuty: = 7, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 11506.273000001907,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Intelligence Save (+1) 9 1d20 + 1 1d20 8 13 1d20 + 1 1d20 12 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 11506.723000049591,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intelligence Save (+4) 9 1d20 + 4 5 5 | rzuty: = 9, 1d20 + 4"
+  },
+  {
+    "offset_secs": 11525.25300002098,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 11562.424999952316,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[diseased]"
+  },
+  {
+    "offset_secs": 11596.151999950409,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 28 20 + 8"
+  },
+  {
+    "offset_secs": 11603.46700000763,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "11"
+  },
+  {
+    "offset_secs": 11641.805999994278,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 11662.681999921799,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 11669.299999952316,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 15 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11685.684000015259,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 21 15 + 6"
+  },
+  {
+    "offset_secs": 11700.87700009346,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "-2"
+  },
+  {
+    "offset_secs": 11724.063999891281,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Athletics (+11) 25 1d20 + 11 1d20 14 | rzuty: = 25, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 11728.046999931335,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 11742.96499991417,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Intelligence Save (-1) 7 1d20 - 1 1d20 8 | rzuty: = 7, 1d20 - 1, 1d20"
+  },
+  {
+    "offset_secs": 11783.667999982834,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[prone] &Reference[cursed]"
+  },
+  {
+    "offset_secs": 11793.341000080109,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 11877.184000015259,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[prone] &Reference[cursed]"
+  },
+  {
+    "offset_secs": 11885.293999910355,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Strength Save (+9) 27 1d20 + 9 18 18 | rzuty: = 27, 1d20 + 9"
+  },
+  {
+    "offset_secs": 11938.345999956131,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 14, 1d20 + 11"
+  },
+  {
+    "offset_secs": 11940.37400007248,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 26, 1d20 + 11"
+  },
+  {
+    "offset_secs": 11945.0,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 11947.743999958038,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 11964.852999925613,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 22 9 + 13"
+  },
+  {
+    "offset_secs": 11982.098000049591,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11984.28500008583,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Intelligence Save (+5) 14 1d20 + 5 9 9 | rzuty: = 14, 1d20 + 5"
+  },
+  {
+    "offset_secs": 11990.09299993515,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Constitution Save (+14) 30 1d20 + 14 16 16 | rzuty: = 30, 1d20 + 14"
+  },
+  {
+    "offset_secs": 12002.114000082016,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Dawn (4d10) 26 4d10 4d10 9 9 1 7 | rzuty: = 26, 4d10, 4d10"
+  },
+  {
+    "offset_secs": 12018.114000082016,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[diseased]"
+  },
+  {
+    "offset_secs": 12028.174999952316,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Strength Save (-1) 7 1d20 - 1 8 8 | rzuty: = 7, 1d20 - 1"
+  },
+  {
+    "offset_secs": 12045.164999961853,
+    "speaker": "?",
+    "kind": "chat",
+    "text": "7"
+  },
+  {
+    "offset_secs": 12115.946000099182,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…"
+  },
+  {
+    "offset_secs": 12121.828999996185,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 12123.694999933243,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 29, 8d4 + 6"
+  },
+  {
+    "offset_secs": 12134.68700003624,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 12185.805999994278,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 20, 1d20 + 13"
+  },
+  {
+    "offset_secs": 12196.575999975204,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 12263.62299990654,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom Save (+11) 26 1d20 + 11 15 15 | rzuty: = 26, 1d20 + 11"
+  },
+  {
+    "offset_secs": 12270.009000062943,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Phantasmal Killer (M) Illusion You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes Frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom s…"
+  },
+  {
+    "offset_secs": 12300.413000106812,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Strength Save (+11) 27 1d20 + 11 1d20 16 | rzuty: = 27, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 12337.956000089645,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 26, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12340.726000070572,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 12 + 10"
+  },
+  {
+    "offset_secs": 12349.819999933243,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 11 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12353.40799999237,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intelligence Save (+4) 8 1d20 + 4 4 4 | rzuty: = 8, 1d20 + 4"
+  },
+  {
+    "offset_secs": 12355.022000074387,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12359.977999925613,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 12374.056999921799,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 23, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12378.06500005722,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 13 + 6"
+  },
+  {
+    "offset_secs": 12384.540999889374,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12400.517999887466,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 12407.632999897003,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Constitution Save (+9) 14 1d20 + 9 1d20 5 | rzuty: = 14, 1d20 + 9, 1d20"
+  },
+  {
+    "offset_secs": 12418.53299999237,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Dawn (4d10) 21 4d10 4d10 5 4 9 3 | rzuty: = 21, 4d10, 4d10"
+  },
+  {
+    "offset_secs": 12513.898000001907,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within range. Choose Acid, … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 12515.384000062943,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 12520.49699997902,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb 1st Level Evocation Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within range. Choose Acid, … | rzuty: = 10, 3d8"
+  },
+  {
+    "offset_secs": 12544.438999891281,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "16"
+  },
+  {
+    "offset_secs": 12609.625,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Hunger of Hadar (M) Conjuration You open a gateway to the dark between the stars, a region infested with unknown horrors. A 20-foot-radius sphere of blackness and bitter cold appears, centered on a point within range and lasting for the duration. This void is filled with a cacophony of soft whispers and slurping noises that can be heard up to 30 feet away. No light, magical or otherwise, can illu…"
+  },
+  {
+    "offset_secs": 12672.822999954224,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[diseased]"
+  },
+  {
+    "offset_secs": 12710.891000032425,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 18 14 + 4"
+  },
+  {
+    "offset_secs": 12728.588000059128,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12733.706000089645,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 23 20 + 3"
+  },
+  {
+    "offset_secs": 12761.40799999237,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 11 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12772.887000083923,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 12795.473000049591,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Athletics (+11) 23 1d20 + 11 1d20 12 | rzuty: = 23, 1d20 + 11, 1d20"
+  },
+  {
+    "offset_secs": 12845.756000041962,
+    "speaker": "Lutheria, The Lady of Dreams",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 12867.914000034332,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[cursed]"
+  },
+  {
+    "offset_secs": 12948.697999954224,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 28, 1d20 + 11"
+  },
+  {
+    "offset_secs": 12950.851000070572,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 12, 1d20 + 11"
+  },
+  {
+    "offset_secs": 12977.43499994278,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 24 10 + 14"
+  },
+  {
+    "offset_secs": 12986.036000013351,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12994.101000070572,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[diseased]"
+  },
+  {
+    "offset_secs": 13020.53500008583,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …"
+  },
+  {
+    "offset_secs": 13026.512000083923,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 13033.311000108719,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 33, 5d8 + 6"
+  },
+  {
+    "offset_secs": 13042.661999940872,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "12"
+  },
+  {
+    "offset_secs": 13129.680999994278,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 13178.605999946594,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self"
+  },
+  {
+    "offset_secs": 13209.052000045776,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 13223.391000032425,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 23, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 13227.415999889374,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 17 + 5"
+  },
+  {
+    "offset_secs": 13246.026000022888,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 22, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 13258.888000011444,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 14 12 + 2"
+  },
+  {
+    "offset_secs": 13265.947000026703,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Intelligence Save (+5) 19 1d20 + 5 14 14 | rzuty: = 19, 1d20 + 5"
+  },
+  {
+    "offset_secs": 13274.243000030518,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 31, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 13274.644000053406,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 13277.388000011444,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 29 17 + 12"
+  },
+  {
+    "offset_secs": 13278.293999910355,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intelligence Save (+4) 7 1d20 + 4 3 3 | rzuty: = 7, 1d20 + 4"
+  },
+  {
+    "offset_secs": 13289.03099989891,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 14 Concentration Concentration"
+  },
+  {
+    "offset_secs": 13302.029000043869,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 31, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 13304.976999998093,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 11, 1d4 + 9"
+  },
+  {
+    "offset_secs": 13312.644999980927,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 13477.37199997902,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Ray of Frost Legacy • Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. A frigid beam of blue-white light streaks toward a creature within range. Make a range… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 13535.25300002098,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[diseased]"
+  },
+  {
+    "offset_secs": 13549.611999988556,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 21 16 + 5"
+  },
+  {
+    "offset_secs": 13565.571000099182,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 25 19 + 6"
+  },
+  {
+    "offset_secs": 13573.674000024796,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "12"
+  },
+  {
+    "offset_secs": 13752.301000118256,
+    "speaker": "Lutheria",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  }
+]

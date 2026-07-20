@@ -1,0 +1,3535 @@
+
+
+[VISUAL 00:00:00] Mapa przedstawia oblężenie miasta Mytros, z widocznymi numerowanymi dzielnicami oraz licznymi tokenami postaci rozmieszczonymi w różnych punktach miasta i jego okolicach. Na ekranie widać aktywny interfejs sesji z listą graczy, w tym Orionem Xulem, Arevonem Elorrenthi, Versirem, Felicjanem Janusem Twardowskim oraz Orestesem. W panelu bocznym odtwarzana jest ścieżka dźwiękowa „Lutheria Theme”, a na mapie zaznaczone są kluczowe lokacje, takie jak Kuźnia Volkana czy Kolos Pythora.
+
+
+[VISUAL 00:00:00] Na mapie przedstawiającej deszczową lokację znajdują się tokeny Arevona Elorrenthi oraz srebrnego smoka. Po prawej stronie widoczne jest otwarte okno z opisem zaklęcia „Revivify”. W górnej części ekranu widnieje nazwa lokacji: „The God of Storms”.
+
+
+[VISUAL 00:00:00] Na zrzucie ekranu widoczna jest scena „The Battle of Mytros”, przedstawiająca mapę morską z widocznymi w wodzie stworzeniami. Główne okno interfejsu wyświetla kartę statystyk potwora o imieniu Sybolkorax, potężnego smoka. W prawym panelu widoczna jest lista dostępnych scen, w tym m.in. „The God of Storms” oraz „The Great Feast”.
+
+
+[VISUAL 00:00:00] Mapa przedstawia gęsto zabudowaną lokację miejską wypełnioną licznymi straganami i namiotami. Na ekranie widocznych jest wiele tokenów postaci, w tym Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski oraz Versir, rozlokowanych między budynkami. Niektóre tokeny otoczone są świecącymi efektami aury, co sugeruje aktywny udział w starciu lub użycie magii.
+
+
+[VISUAL 00:00:00] Na mapie przedstawiającej scenerię „The Great Feast” widoczni są Orestes oraz Orion Xul, znajdujący się w otoczeniu tajemniczych postaci, w tym wizerunku Lutherii. Na planszy dominują okrągłe tokeny przedstawiające postacie oraz bestie, w tym groźną trójgłową istotę. W prawym panelu czatu widoczne są wyniki rzutów kośćmi oraz krótka informacja o odpoczynku.
+
+
+[VISUAL 00:00:00] Scena przedstawia starcie w lokacji oznaczonej jako The Great Feast. Na mapie widoczne są liczne tokeny postaci, w tym Lutheria, Orestes, Orion Xul, Arevon Elorrenthi, Felicjan Janus Twardowski oraz Versir. Na środku ekranu wyświetlony jest napis: „MNISI-WOJOWNICY Z ARESII SIEJĄ STRACH NA POLACH BITEW THYLEI”.
+
+
+[VISUAL 00:00:00] Na ekranie widoczna jest scena przedstawiająca starcie w mieście Arezja. W centrum walki znajduje się Lutheria (Pani Snów), otoczona przez wielu przeciwników, w tym Orestesa, Versira, Arevona Elorrenthi, Oriona Xula oraz Felicjana Janusa Twardowskiego. Środek mapy zajmuje duży napis: "MNISI-WOJOWNICY Z ARESII SIEJĄ STRACH NA POLACH BITEW THYLEI".
+
+
+[VISUAL 00:00:00] Mapa przedstawia pole bitwy w lokacji przypominającej obozowisko z namiotami, gdzie na środku znajduje się postać Lutherii. Wokół niej rozmieszczone są tokeny postaci, w tym Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Na ekranie widoczne jest otwarte okno z opisem zaklęcia „Tasha’s Hideous Laughter” oraz panel z informacjami o magicznym przedmiocie o nazwie „Ring of Orestes”.
+
+
+[VISUAL 00:00:00] Na ekranie widoczna jest mapa przedstawiająca zatłoczone miasto z licznymi namiotami. Wśród postaci na planszy można zidentyfikować tokeny Versira oraz Arevona Elorrenthiego, a po prawej stronie znajduje się moduł śledzenia inicjatywy oraz okno z obliczeniami ataku typu „Bite” wykonanego przez Versira. W dolnej części ekranu widoczne są awatary graczy, w tym Felicjana Janusa Twardowskiego oraz Orestesa.
+
+
+[VISUAL 00:00:00] Na mapie przedstawiającej "The Great Feast" widać postać Commonera, której towarzyszy duża ilustracja przedstawiająca posąg. W trackerze inicjatywy widoczni są między innymi Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski, biorący udział w starciu. Po prawej stronie ekranu wyświetlają się wyniki użycia Odkupienia Pythora oraz opis zdolności "Shield Wall".
+
+
+[VISUAL 00:00:00] Mapa przedstawia walkę toczącą się w scenerii przypominającej miasto lub plac targowy, co sugeruje nazwa sceny „The Great Feast”. Na planszy widoczne są tokeny postaci, w tym Arevon Elorrenthi, Versir, Orion Xul oraz Felicjan Janus Twardowski, które toczą starcie z przeciwnikami. Po prawej stronie ekranu znajduje się moduł „Encounter Tracker” z listą uczestników walki oraz szczegółami dotyczącymi ataków poszczególnych jednostek.
+
+
+[VISUAL 00:00:00] Na ekranie widoczna jest tura walki z Lutherią wewnątrz rozbudowanego interfejsu VTT. Na mapie przedstawiającej pole bitwy znajduje się token Lutherii otoczony magicznym efektem oraz postacie graczy i przeciwników, w tym Versir, Arevon Elorrenthi, Orion Xul i Felicjan Janus Twardowski. Panel po prawej stronie prezentuje mechaniczne szczegóły czaru Finger of Death rzucanego przez Lutherię na Versira, wraz z aktywnym licznikiem rund.
+
+
+[VISUAL 00:00:00] Scena przedstawia starcie w mieście, prawdopodobnie w Mytros, gdzie postacie biorą udział w wydarzeniu zatytułowanym „The Great Feast”. Na mapie widoczne są tokeny postaci, w tym Orestes, Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski oraz Versir. Z panelu śledzenia walki wynika, że w starciu uczestniczy również Lutheria, Pani Snów, a także różnorodne stworzenia, takie jak Cerberus i maenady.
+
+
+[VISUAL 00:00:00] Na zrzucie ekranu widoczna jest sesja RPG prowadzona w Foundry VTT, gdzie trwa starcie z bossami: Lutherią, Orestesem oraz innymi przeciwnikami. Główna część interfejsu zajęta jest przez kartę statystyk Lutherii, podczas gdy mapa przedstawia arenę walki z aktywnymi efektami czarów wokół postaci graczy, w tym Versira i Arevona Elorrenthi. Prawy panel wyświetla listę inicjatyw „Encounter Tracker” oraz historię rzutów kośćmi z wynikami zadań i obrażeń.
+
+
+[VISUAL 00:00:00] Mapa przedstawia scenę walki w lokacji zwanej „The Great Feast”, gdzie wśród zabudowań widoczne są liczne efekty magiczne i portale. Na planszy znajdują się tokeny postaci, w tym Lutheria, Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Panel „Encounter Tracker” po prawej stronie wskazuje, że trwa druga runda starcia, a w wydarzeniach biorą udział również inne istoty, takie jak Lamia czy Cerberus.
+
+
+[VISUAL 00:00:00] Scena rozgrywa się na mapie o nazwie „The Great Feast”, przedstawiającej miejską lokację z namiotami i brukowanymi ścieżkami. Na ekranie widać walkę, w której biorą udział m.in. Lutheria, Orestes, Versir, Arevon Elorrenthi oraz Orion Xul. Panel „Encounter Tracker” wskazuje trwającą 3. rundę starcia oraz podsumowuje ostatnie akcje, w tym użycie przedmiotu Odkupienie Pythora.
+
+
+[VISUAL 00:00:00] Ekran przedstawia walkę w wirtualnym stole, w której uczestniczy Lutheria wraz z innymi postaciami, w tym Arevonem Elorrenthi, Versirem, Orionem Xul i Felicjanem Janusem Twardowskim. Na mapie widoczne są tokeny postaci oraz handout opisujący działanie umiejętności „Crystal Scythe”. Po prawej stronie widoczny jest licznik inicjatywy (Encounter Tracker) oraz panel z wynikami rzutów na obrażenia i testy odporności.
+
+
+[VISUAL 00:00:00] Na zrzucie ekranu widoczny jest interfejs walki w programie Foundry VTT, w której uczestniczą postacie: Lutheria, Versir, Orestes, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. W centralnej części ekranu otwarta jest karta statystyk Lutherii z widocznymi zdolnościami magicznymi, natomiast na mapie przedstawiającej wnętrze pomieszczenia widać rozmieszczenie tokenów biorących udział w starciu. Po prawej stronie znajduje się lista inicjatywy potwierdzająca obecność tych postaci w czwartej rundzie starcia.
+
+
+[VISUAL 00:00:00] Na zrzucie ekranu widoczna jest walka toczona przez postacie z Lutherią, Panią Snów, której karta statystyk zajmuje znaczną część ekranu. Na mapie przedstawiającej wnętrze budowli znajdują się tokeny, w tym Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Panel śledzenia starcia potwierdza, że trwa czwarta runda, w której Orestes znajduje się w stanie unieruchomienia i powalenia.
+
+
+[VISUAL 00:00:00] Na mapie zatytułowanej „The Great Feast” toczy się walka w lokacji miejskiej. Wśród obecnych postaci widoczni są Orestes, Arevon Elorrenthi, Versir oraz Felicjan Janus Twardowski, a w prawym górnym rogu ekranu wyświetla się portret Lutherii. Tracker inicjatywy wskazuje na czwartą rundę starcia, w którym bierze udział także Orion Xul korzystający z broni Odkupienie Pythora.
+
+
+[VISUAL 00:00:00] Na zrzucie ekranu widoczna jest walka na mapie przedstawiającej wnętrze nieokreślonej lokacji, gdzie kluczową postacią jest Lutheria. Na planszy znajdują się tokeny przedstawiające m.in. Orestesa, Versira, Arevona Elorrenthi, Oriona Xula oraz Felicjana Janusa Twardowskiego. Po prawej stronie widoczny jest „Encounter Tracker” z inicjatywą uczestników oraz otwarty handout przedmiotu „Heart of the Gale”. W oknie czatu wyświetlają się wyniki rzutów na obronę Lutherii oraz informacja o użyciu zdolności „Draconic Transformation”.
+
+
+[VISUAL 00:00:00] Na mapie przedstawiającej wnętrze pomieszczenia z magicznymi kręgami widoczne są tokeny postaci, w tym Orestesa oraz Versira. Po lewej stronie otwarte jest okno statystyk Lutherii, natomiast po prawej stronie widoczny jest licznik rund (runda 5) oraz okno czatu z opisem zaklęcia Blight. Wśród postaci biorących udział w walce wymienieni są również Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski oraz inne jednostki.
+
+
+[VISUAL 00:00:00] Na zrzucie ekranu widoczna jest walka toczona przy Kolosie Pythora, gdzie postacie graczy – w tym Versir, Arevon Elorrenthi, Orion Xul i Felicjan Janus Twardowski – mierzą się z Lutherią. Otwarta karta postaci Lutherii oraz okno śledzenia starcia (Encounter Tracker) potwierdzają prowadzenie konfrontacji z wykorzystaniem mechanik VTT, w której biorą udział również Orestes oraz postać oznaczona jako Lamia. Całość rozgrywa się na mapie przedstawiającej arenę, wokół której znajdują się wizerunki bóstw.
+
+
+[VISUAL 00:00:00] Mapa przedstawia fragment miasta, w którym toczy się starcie z Lutherią. Na polu walki widoczne są liczne tokeny postaci, w tym Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Na środku ekranu wyświetlony jest tekst: „Bestie Thylei nie przypominają bestii z innych krain. Dziś straciliśmy 20 ludzi z powodu wielk dzika. Mówił nam o śmierci i sprawiedliwości, jednocześnie pożerając naszych towarzyszy.” — i Phobas, Smoczy Lord.
+
+
+[VISUAL 00:00:00] Zrzut ekranu przedstawia sesję w lokacji Mytros, gdzie toczy się walka o nazwie "The Great Feast". Na mapie widoczne są liczne tokeny postaci, w tym Lutheria, Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski, otoczone efektami magicznych kręgów. W panelu "Encounter Tracker" znajduje się lista uczestników starcia, a interfejs wskazuje na trwającą 6. rundę walki.
+
+
+[Arevon]
+Czemu DisruptLife jest ostatni? Disrupt Life? 
+
+[Dungeon Master]
+Co? Bo to jest Legendary aksyon bodajże albo ler aksyon. Chyba legendary. Nie, ona nie mia Ler aksyon. 
+
+[Arevon]
+Ach, okej. 
+
+[Dungeon Master]
+Okej, więc kontynuujemy od Rundy Luterii. Nice. A, to od razu też, dobra, Maciek jeszcze chyba nie słyszał, gramy dzisiaj trochę krócej, więc celujemy do 22 z hakiem. Miłość liczy na niedużego haka, ale zobaczymy. 
+
+[Felicjan]
+Okej? Okej. 
+
+[Dungeon Master]
+I ja też od razu mówię, że za tydzień na pewno nie gramy. Ale może dzisiaj wszyscy umrzecie, to będzie mi się zastanawiać. 
+
+[Arevon]
+Tak trzeba. Który to jest Spol? 
+
+[Dungeon Master]
+Dokładnie, Luteria ma swoją rundę, więc rzuci jakiś czar jeszcze fajnego, zużyła, o, może znowu sprawić, żeby ktoś potańcował. Sure, teraz zaczyna rzucać czar. To jest single target. To masz tego użycie w końcu, bo ostatnie były wątpliwości. A, no to tak, to na pewno. No, narzuca czar single target, tak. A ten czar leci w klońciana. Zjeść sojuszników? Jeszcze jest lamia. Sure, to było bez żadnego sejwa chyba, tak? 
+
+[CZAT 00:02:34] Felicjan Janus Twardowski: Metaphysical Principles Class Starting at 10th level, you gain new insights into the nature of causality. Whenever a creature casts a spell with a single target that you can see, you can use your reaction to choose a new target for the spell. The new target must be legal for that spell. Once you have used this feature, you may not use it again until you complete a short or long rest.
+
+
+[Arevon]
+A, Który Spol to był? 
+
+[Dungeon Master]
+Legal for the spell. Czy legal to znaczy, że in-range? To lamia nie jest in-range, brakuje dwóch fitów, ten czar ma 30 zasięgu. Sure. Świnia nie jest w stanie tego save'ować, świnia tutaj zaczyna tańczyć. Czekaj, to był Oto's Irresistible Dance. 
+
+[Arevon]
+Irresistible, okej. 
+
+[Dungeon Master]
+Rytmicznie? Czekaj, gdzieś to sobie dzwonię. Open Magic. Oh. Dance. Niech będzie. Sure. 
+
+[Orestes]
+Ja jestem w stanie jakoś do niej wyskoczyć i ją zgrablować, czy ona jest asz tak większa ode mnie? Okej. 
+
+[Arevon]
+Zdecydowanie nie możesz zgraplować. A, no zQooch! Qooch to możesz zgraplować. 
+
+[Orestes]
+O kurde. To mogę wyskoczyć i ją zgrablować na glebę? To robię to! Tak. 
+
+[Arevon]
+Tak, on może o dwa rozmiary większe od siebie graplować. 
+
+[Orestes]
+No, no to lecę. Biegnę, rozpęd, skok, łapie zagirę, dwadzieścia dwa siły. No ona jest na... 
+
+[Dungeon Master]
+Masz w swój ręcz. No okej. 
+
+[Orestes]
+No to... 
+
+[Dungeon Master]
+Sure. Łapiesz ją za... 
+
+[Orestes]
+Eee... 
+
+[Dungeon Master]
+lubkę. 
+
+[Orestes]
+God damn it. 
+
+[Dungeon Master]
+Zastępujesz Gondry Czendrusa. Nie masz. 
+
+[CZAT 00:05:49] Orestes (rzut): Athletics (+11) 18 1d20 + 11 1d20 7 | rzuty: = 18, 1d20 + 11, 1d20
+
+
+[Dungeon Master]
+Uch. Czyli ona nie ma proficjencji w żadnym takim skillu, który by tutaj jej pomógł, więc to będzie po prostu plus 10 tylko. No ale jest to 29. No nie zapalisz. Właśnie. Mógłbyś mieć Disa 2, czy to będzie zadowoliwe? 
+
+[Orestes]
+pośpiewałem się tego po Czondrusie. Dobra, no to nie no, jestem pod nią i nie wiem, strzelam jej pod kiece z łuku. 
+
+[Dungeon Master]
+Sure. Miałeś... A, bo ten czar był jakiś, co daje adwantyczny... 
+
+[Orestes]
+A, sorry. A, dobra, to jeszcze D20 rzucę. 
+
+[CZAT 00:06:52] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 27 1d20 + 12 1d20 15 Piercing Damage: 12 1d8 + 7 1d8 5 | rzuty: 1d20 + 12, 1d20 = 12, 1d8 + 7, 1d8
+
+
+[Dungeon Master]
+Siur? 
+
+[Orestes]
+No dobra, rzucam D20, zobaczymy, może coś. 
+
+[CZAT 00:06:58] Orestes: 2
+
+
+[Orestes]
+Nie, nieważne z tym drugim rzutem. 
+
+[Dungeon Master]
+No tak, 27 trafiałam, a demie rzuciły teraz 12. Okej. 
+
+[Orestes]
+Tak, to jeszcze drugi rzut. Drugi strzał. 
+
+[CZAT 00:07:17] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 30 1d20 + 12 1d20 18 31 1d20 + 12 1d20 19 Piercing Damage: 14 1d8 + 7 1d8 7 | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20 = 14, 1d8 + 7, 1d8
+
+
+[Orestes]
+Czemu ja takich rzutów nie miałem w poprzedniej sesji? Bym nie był zombie. No dobra, i koniec mojej rundy. 
+
+[Dungeon Master]
+Okej, to ona po twojej rundzie... Eee... Właśnie chciałem o to pytać w tym momencie. Czy ty Titan's Bane'em walnąłeś? Runda piąta, wisdom save, czekaj... Cheddar, Longbow... Pewny jesteś, że ją walnąłeś? W tej piątej, a nie w czwartej? Bo tak scrolluję sobie chat i... nie widzę twojego żadnego ataku. W czwartej widzę, rundzie... Ale to była chyba czwarta runda, jak smite'a włączyłeś. Czekaj... Tak, no w czwartej rundzie jest... na chacie, Runt 4. I tam w Runt 4 jest Titan's Bane i potem Shining Smite. W rundzie piątej nie widzę żadnego twojego ataku. 
+
+[Arevon]
+Wełmnie, ja w ogóle na Foundry nie jestem, więc mam na monitorze co innego. 
+
+[CZAT 00:09:15] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Arevon]
+Czy możesz mi pokazać, czy ja mam koncentrację sporadną w sobie? Na czym ja się koncentruję? A, to jest koncentracja. 
+
+[VISUAL 00:09:54] Na ekranie widoczna jest sesja RPG rozgrywana na wirtualnym stole, przedstawiająca starcie z Lutherią, której karta postaci z opisem umiejętności zajmuje lewą stronę okna. Na mapie, obok wizerunku Lutherii, znajdują się tokeny Orestesa, Versira, Arevona Elorrenthiego, Oriona Xula oraz Felicjana Janusa Twardowskiego. Panel "Encounter Tracker" po prawej stronie wskazuje, że trwa 6. runda walki, w której uczestniczy również Lamia.
+
+
+[Arevon]
+Ale ja stoję koło Vercera, nie? Więc... 
+
+[CZAT 00:10:13] Arevon Elorrenthi: DC 21 Concentration Concentration
+
+
+[Arevon]
+Czekaj, eee... Wait, wait, wait. Czy ja mogłem? Wait, wait, ja muszę coś sprawdzić. Daj mi sekundę. Jak chcesz? Nie, nie, nie, ja chcę czytować. Dobra, już nic nie mówiłem. 
+
+[CZAT 00:11:04] Lamia: Corrupting Touch Feature Wisdom Saving Throw: DC 13 , one creature the lamia can see within 5 feet. Failure: 13 ( 3d8 Psychic ) damage, and the target is cursed for 1 hour. Until the curse ends, the target has the Charmed and Poisoned conditions. DC 13 Wisdom Saving Throw Wisdom Saving Throw Damage Action Instantaneous Self 1 creature
+
+
+[Orion]
+I to byl adwantajcz tak hmm chyba okej tak bo to bylo DC13 a jeszcze pytanie mam mam jeszcze dobra próbujmy podejść tak okej wciąż jestem w jej zasięgu i w luteryę tak pięknie rzucam jedynkę był tylko na pierwszy atak ten adwantajcz jezus pięknie 
+
+[CZAT 00:11:18] Orion Xul (rzut): Wisdom Save (+2) 15 1d20 + 2 1d20 13 9 1d20 + 2 1d20 7 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[CZAT 00:11:25] Lamia (rzut): Claw Natural Melee Attack Roll: +5 , reach 5 ft. Hit: 7 ( 1d8 + 3 Slashing ) damage plus 7 ( 2d6 Psychic ) damage. Attack Damage Action Instantaneous 5 ft reach 5 ft Equipped Proficient
+
+
+[Versir]
+Mam 10 widów reacha, więc atakuję ją dwa razy. 
+
+[CZAT 00:12:17] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d20 + 11, 1d20 + 11
+
+
+[CZAT 00:12:19] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d20 + 11, 1d20 + 11
+
+
+[CZAT 00:12:31] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 19 8 + 11
+
+
+[Versir]
+Jest w stanie 15 str save'a sfejlować? Okej, to nie chcę do końca swojej runy. Moje życie się zdecydowanie nie poprawiło. 
+
+[CZAT 00:13:16] Versir (rzut): Wisdom Save (+10) 13 1d20 + 10 3 3 | rzuty: = 13, 1d20 + 10
+
+
+[Versir]
+Masz advantage? 
+
+[CZAT 00:13:23] Versir: 3
+
+
+[Arevon]
+I ja też 16? 
+
+[CZAT 00:13:27] Lutheria: Madness Feature Lutheria targets one creature within 180 ft. The target must make a DC 23 Widsom saving throw against this magic or fall under the effect of the confusion spell. At the end of each of its turns, an affected target can make a DC 23 Wisdom saving throw. If it succeeds, this effect ends for that target. DC 23 Wisdom Saving Throw Wisdom Saving Throw Consume Resource Refund Resource 2 …
+
+
+[Arevon]
+No to nie ma chuja, że bym ja ci pomógł, więc... No, to ja kastuję z polą. Killing z polą, na siebie. Właśnie siedziłem HP-ka, teraz domowa HP-ka, więc... Chyba jest tego czegoś... 
+
+[CZAT 00:14:02] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages
+
+
+[Arevon]
+2d8 plus 6. Ja wycastowałem spell slot'a, 
+
+[CZAT 00:14:25] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 40, 8d8 + 6
+
+
+[CZAT 00:14:31] Arevon Elorrenthi: 19
+
+
+[CZAT 00:14:33] Arevon Elorrenthi: 2
+
+
+[Arevon]
+kastują spell, w sensie wycastowałem spell'a z spell slot'a, więc ja teleportuję 15 feedów. Okej. I teraz użyłem bonus akcji, żeby teleportować mojego moba, Żeby jej uczasnąć. To był super atak. A mam advantage na to? 
+
+[CZAT 00:15:09] Arevon Elorrenthi (rzut): Spell Attack Casting Time undefined Duration undefined Components Range undefined Spell Attack 23 1d20 + 13 10 10 | rzuty: = 23, 1d20 + 13
+
+
+[CZAT 00:15:14] Arevon Elorrenthi (rzut): Spell Attack Casting Time undefined Duration undefined Components Range undefined Spell Attack 18 1d20 + 13 5 5 | rzuty: = 18, 1d20 + 13
+
+
+[Arevon]
+No to 23. Okej, jak ten spacer, ten spacer robi? 3d12 to 6. 
+
+[CZAT 00:15:35] Grasping Vine: 27
+
+
+[Arevon]
+27 seki. 
+
+[Dungeon Master]
+Dwaście siedem Psychic. Ona Psychic nie miała tego? Połowa tak. Okej. Okej, po twojej rundzie ona używa legendarnej akcji, żeby chlastnąć kosą Vercira. Nie leczy się, ale damage tak robi. 
+
+[Arevon]
+Dostaję połowę. Jeszcze nie koniec. Trzeba mógł bądź połowę. 
+
+[CZAT 00:16:27] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Dungeon Master]
+Dwadzieścia trzy slashing jedenaście necrotic, czyli dla ciebie dwadzieścia osiem. To Orion teraz. 
+
+[Arevon]
+8. 
+
+[CZAT 00:16:42] Versir: DC 14 Concentration Concentration
+
+
+[Dungeon Master]
+Zabiegasz łuchapka, odpisałeś? 
+
+[Arevon]
+No i możesz wyciekać. 
+
+[Versir]
+Tak. 
+
+[Arevon]
+Masz advantage i mili atak. 
+
+[CZAT 00:17:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 00:17:19] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 10 + 8
+
+
+[Dungeon Master]
+Dobra, dobrze. 
+
+[Versir]
+Nie, na wszystkie. 
+
+[Dungeon Master]
+Pewnie. 
+
+[CZAT 00:17:26] Orion Xul: 5
+
+
+[Dungeon Master]
+Dużo. Czyli plus 4, tak jakby. Czyli 22. Wszystkie ataki z advantage. 
+
+[Orion]
+To były trzy ataki, a może Spearmaster spróbuje dobić lamię. 
+
+[Versir]
+Wszystkie melee i range ataki. 
+
+[CZAT 00:17:45] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Versir]
+Tak. 
+
+[CZAT 00:17:48] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 16 + 3
+
+
+[Dungeon Master]
+Okej, 19. Też trafia. 
+
+[CZAT 00:17:58] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Versir]
+Ty po shortreście używałeś action sworda, czy jeszcze nie? 
+
+[CZAT 00:18:02] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 12 + 7
+
+
+[Dungeon Master]
+Kolejne 19. Okej, masz szansę. 
+
+[Orion]
+Używałem. I 2d6. Dobra. 
+
+[Dungeon Master]
+Nie ma dużo już. Trafia. 
+
+[CZAT 00:18:31] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 18, 1d20 + 12, 1d20
+
+
+[Dungeon Master]
+Lightning dorzuć. 
+
+[Versir]
+Użyłem. No. 
+
+[CZAT 00:18:42] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9
+
+
+[CZAT 00:18:47] Orion Xul: 8
+
+
+[Dungeon Master]
+Okej, to Lamia nie żyje. Dużo trupów. Tak, tak. 
+
+[Orion]
+I zostanę tą. Shield World chyba wciąż działa, bo dopiero szósta rundę. 
+
+[Dungeon Master]
+Okej. Po rundzie 
+
+[Orion]
+Mhm. Jestem. Tak jestem. 
+
+[Dungeon Master]
+Oriona ona użyje ostatniej legendarnej akcji, żeby chlasknąć wersję Reichstrasse Kossy. Tym razem 
+
+[CZAT 00:19:15] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Dungeon Master]
+23 slashing i 15 nekrotik, czyli 30. 
+
+[CZAT 00:19:28] Versir: DC 15 Concentration Concentration
+
+
+[Dungeon Master]
+I teraz Kleonicjan. 
+
+[Felicjan]
+Ojej, idą, a ja nie dam, 15 featów, to dziabie, dziabie, dziabie z advantage'em, czemu mi nie rzuciło z advantage'em, no bo to nie to mi, to jest pierwszy atak i damage, oni krytuje na 19 i 47, centaury chyba były, bo mówiłeś o tym płocie, że nie dostarczyłeś na nim, 
+
+[Dungeon Master]
+Jabaj. Aby kryt tego 
+
+[CZAT 00:19:52] Colossus of Pythor: Attack Feature The colossus makes one attack. Consume Resource Refund Resource 1 legendary action Instantaneous Self
+
+
+[VISUAL 00:19:59] Scena rozgrywa się wewnątrz lokacji Kolos Pythora, gdzie toczy się walka z Lutherią, Panią Snów. Na mapie widoczne są tokeny postaci, w tym Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Panel po prawej stronie wyświetla śledzenie inicjatywy oraz szczegóły akcji ataku wykonanego przez Lutherię za pomocą umiejętności „Crystal Scythe”.
+
+
+[CZAT 00:20:01] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Dungeon Master]
+zapalał. Dobrze, że nie ma kryta. 47, okej. Kolejne 47. Okej. Mythros action jakieś. Jeśli jakieś zostało sensowne. 
+
+[Versir]
+Wydaje mi się, że tak. 
+
+[Orestes]
+Były chyba przy Sejdonie. 
+
+[Versir]
+Amazonki też. Oni też mają Advantage, nie? Nie rzuciło się za... 
+
+[CZAT 00:22:45] Versir: 27
+
+
+[CZAT 00:22:51] Versir: 18
+
+
+[Versir]
+Advantage miał. Chce budować 4d8 pistol? Nice. 
+
+[CZAT 00:23:07] Versir: 17
+
+
+[Versir]
+Może to Yala na tych gryfach wątpię, żeby wersja doszła 
+
+[Dungeon Master]
+i ona opada z sił. Wygląda jakby miała paść martwa. Ale jednak finalny cios najwyraźniej musi zostać zadany odpowiednią bronią. Bulteria trzyma się na nogach. Lepitując. Felicjan. Teraz się uśmiecha. Już niedługo. 
+
+[Arevon]
+Wydaje mi się, że to ma sens, bo Wersir może nie dorobić swojej rundy. Ewentualnie może... 
+
+[Versir]
+w swojej rundy. 
+
+[Arevon]
+Znaczy, ona nie ma legendarnych akcji i tak, więc... Dopiero po sobie. Gdybym miał rundę, to ja bym miał dużo rzeczy, ale niestety ja jestem po Wersirze, więc... To jest pewien problem. 
+
+[Versir]
+To ci koncentracja jest, ja nie wiem na czym się koncentrujesz obecnie. A... aczkolwiek Oreset też ma 
+
+[Arevon]
+Znaczy, wiesz, no... 
+
+[Versir]
+broń godną. 
+
+[Arevon]
+Tak, ale ty nie będziesz żył w trakcie rundy resursa. No, albo banishment, albo cube, tak? 
+
+[Versir]
+Będzie minus, minus dwoje tytanów. Stalea będzie lepsza. 
+
+[Arevon]
+Ale cube to może nie pomóc. No ale wiesz, zrobiłem mikro cube'a, w sensie wall of hearts, też mógłby pomóc teoretycznie. No tak, zgadzam się. Dużo, 60. Blink jest też self-target, więc tego i tak bym chciał wrzucić. Aaa, pass to self-target. Nice. Tak, możesz. 
+
+[CZAT 00:28:18] Felicjan Janus Twardowski: Wand of Polymorph Legacy • Wand, Very Rare (requires attunement by a Spellcaster) This wand has 7 charges. While holding it, you can use an action to expend 1 of its charges to cast the polymorph spell (save DC 15) from it. The wand regains 1d6 + 1 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20 d20 . On a 1, the wand crumbles into ashes and is destroyed.
+
+
+[Versir]
+Tak. Wystawanie z mojego ciała, możesz to zrobić. O ile nie będę w kosie. A, to prawda. No to prawda. Są dziesięć fitów nad ziemią. 
+
+[VISUAL 00:30:04] Mapa przedstawia scenę „The Great Feast” rozgrywającą się na zewnątrz budynku. Wśród widocznych postaci znajdują się między innymi Lutheria, Orestes, Versir, Arevon Elorrenthi oraz Orion Xul. Po prawej stronie widoczny jest handout opisujący działanie przedmiotu „Wand of Polymorph”.
+
+
+[Arevon]
+To jest jak rules question, czy on będzie rzucać save'a, czy on może u Yngwie zdecydować, że nie chce rzucać save'a. 
+
+[Versir]
+Oj, Charisma save jest prawdopodobnie podobny do jej albo większy. 
+
+[Arevon]
+Najpierw go może przyciągnąć chyba, nie? Tak bydło. Cały bonus akcja. Więc to jest pytanie, czy on może u Yngwie failować, bo to jest pewien problem, bo on jest confused. 
+
+[Dungeon Master]
+zanim ty rzucisz tego 
+
+[Arevon]
+No, confused. No, fuj herzu. 
+
+[Dungeon Master]
+rozpatrzymy czy Confuse mu pozwoli w Save Willing być to rzuciłeś już to tak więc on rzuca Counterspell komplikowane 
+
+[Arevon]
+Jest plus 20. Plus 20, kurde. Co chcesz wrzucić do Dexpola? Na to on nie musi chyba wrzucać swojego. No tak, ale on dalej wie, że ty jesteś jego chyba friendem, nie? Więc kurwa nie wiem co. Komplikowanie. 
+
+[Dungeon Master]
+dobra, najpierw cokolwiek próbujesz 
+
+[Arevon]
+No tak, to jest con save. 
+
+[Dungeon Master]
+on i tak rzuci tego Counterspell'a więc najpierw rzuć tego Con Save'a 
+
+[Arevon]
+Tak zdecydowanie się dzieje. 
+
+[Dungeon Master]
+na IDC tak na Counterspell 
+
+[Arevon]
+To Dexpol? Pomoże, pomoże. 
+
+[Dungeon Master]
+ale to jest 
+
+[Versir]
+O? Masz advantage, czy masz bless? 
+
+[Dungeon Master]
+make an ability check 
+
+[CZAT 00:33:20] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 12 1d20 + 8 1d20 4 | rzuty: = 12, 1d20 + 8, 1d20
+
+
+[CZAT 00:33:29] Felicjan Janus Twardowski: 15
+
+
+[Arevon]
+Ja mam reakcję, mam reakcję. 
+
+[Versir]
+Ken ma reakcję? Ma reakcję. 
+
+[Arevon]
+Ja pierdolę. 
+
+[CZAT 00:33:46] Felicjan Janus Twardowski: 4
+
+
+[Versir]
+O, o. Ile piątki potrzebowałeś? Czwórkę? Czwórkę? Piątkę? 
+
+[CZAT 00:33:51] Arevon Elorrenthi (rzut): Eye of the Galactic Dragon (d8) 1 1d8 1 1 | rzuty: = 1, 1d8
+
+
+[Arevon]
+Krzypce? Masz krzypce jeszcze? 
+
+[Versir]
+Ostatnia melodia, skrzypiec. 
+
+[Arevon]
+Saving throw, tak. 
+
+[Versir]
+Ile potrzebujesz? Trzy? Trzy na skrzypcach? 
+
+[CZAT 00:34:11] Felicjan Janus Twardowski: Second Fiddle Wondrous item, Rare This seemingly ordinary wooden fiddle is surprisingly lightweight. Etched upon its back are swirling patterns that seem to shift and dance in the light. When you speak the command word, "Capriccio", the bow begins to move on its own accord, playing a lively tune as the fiddle floats gently in the air beside you. While active, the Second Fiddle floats in the air a…
+
+
+[CZAT 00:34:18] Felicjan Janus Twardowski: 4
+
+
+[Arevon]
+Resilience fear. 
+
+[Versir]
+A to też się wiąże z saving throwem ode mnie chyba. 
+
+[Arevon]
+Chyba. Chodzi o to, że Resilience fear teoretycznie to jest dość non-hard w multsphere, w przeciwieństwie do banishmenta, więc banishment to zdecydowanie ja bym się opierał, jakbym był confused, a resilience fear to już jest trochę bardziej dyskusyjny, no bo jest saving throwem, tak. 
+
+[Versir]
+Najlepsze będzie to, jak ona w swojej rundzie dispela rzuci. 
+
+[Arevon]
+A ty nie możesz po prostu... Czekaj, bo gdzie ty już byłeś w ogóle? I zaczynają ślądy. Właśnie, stań sobie tam gdzie byłeś i powiedz jaki masz zasięg do niego. Bez kolosa może chyba. No to możesz, no to nie ma problemu. To easy. Podlatujesz 60 i jesteś 27. Chwila go rozdziała. No więc to jest fajnie easy, nie? Po prostu nie musisz się na to myśleć. Szczególnie, że jego dex jest tragiczny, więc to jest druga sprawa. 
+
+[Dungeon Master]
+Argument między banishment harmful, a sfera nie-harmful mnie troszkę przekonuje. 
+
+[Arevon]
+Owszem, ale wtedy Orestes ma szansę go zajebać zanim będzie następna jej akcja. 
+
+[CZAT 00:36:04] Felicjan Janus Twardowski: Otiluke's Resillent Sphere (1) Scroll, Uncommon A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell’s normal casting time. Once the spell is cast, the scroll crumb…
+
+
+[Dungeon Master]
+No kurwa. 
+
+[Versir]
+To od ciebie zależy. 
+
+[Dungeon Master]
+Dobra, eee... 
+
+[Arevon]
+Protective Sphere. 
+
+[Dungeon Master]
+Czy Wersir się opiera jakiejś sferze, która się koło niego pojawia? Czy się nie opiera? Pytam o Wersir. 
+
+[Versir]
+Ja mam compulsion effect na sobie. 
+
+[Dungeon Master]
+Nie, nie, nie, ja pytam o Wersir. 
+
+[Versir]
+Chyba nie widziałem tego spela jeszcze, żeby Felicjan kiedykolwiek rzucił. 
+
+[Dungeon Master]
+Masz, ale eee... Sure. Protective sphere. No to się... Dobra, nie, to... Jaki byłby instynkt Wersira? W tym momencie. Ciebie pytam. Bez wpływu czarów, powiedzmy. 
+
+[Versir]
+A, okej. To jak widziałem i kojarzę, no to bym się nie bronił przed tym. 
+
+[Dungeon Master]
+A to... Sior. 
+
+[Versir]
+Masz to dwa. 
+
+[Dungeon Master]
+Wersir czuje potrzeby, żeby coś go ochroniło tutaj przed loterią, która źle na niego patrzy. Sior, zgodzę się. Nie musisz rzucać save'a. Sfera się... 
+
+[CZAT 00:37:21] Felicjan Janus Twardowski: 5
+
+
+[Dungeon Master]
+Sfera się pojawia wokół Wersira. W tym momencie ta sfera zaczyna się chyba trochę... Turl z tego dachu, nie? 
+
+[Versir]
+14d6 necro damage'ów wszystkim obstawię. 
+
+[CZAT 00:39:14] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 24 18 + 6
+
+
+[VISUAL 00:40:08] Mapa przedstawia wnętrze z kamiennymi posadzkami i elementami dekoracyjnymi, na której toczy się starcie. Wśród widocznych postaci znajdują się Lutheria, Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Po prawej stronie panel śledzenia starcia pokazuje trwającą siódmą rundę walki, a w czacie widoczny jest wpis dotyczący użycia Topora Xandera.
+
+
+[Versir]
+Wow. Ogólnie nie wiem, czy to cokolwiek zmieni, ale tylko przypomnę ci, że mam True Sighta na sobie. 
+
+[Dungeon Master]
+krwisto-czerwone, zielone jak zaraza. Pod stopami nie ma podłogi, a mimo to nie spadacie. To świat snów. Jej dom. Jej zasady. Jest ich siedem. Siedem luterii, identycznych, unoszących się w kręgu, każda z kryształową kosą, każda uśmiechnięta z tym samym uśmiechem. Mówią naraz jednym głosem, rozszczepionym na siedem. Myśleliście, że pójdzie tak łatwo? To jeszcze nie koniec, moi mili. I zanim wejdziemy tutaj w całą konkretną sytuację, to możemy teraz już zrobić przerwę. Trochę wcześnie, ale będzie tak, żeby grubo po przerwie zacząć. Kronicyna tu nie ma. Tak, wersja jest w sferze dalej. Psychiczne pierdololo. A, siur, nie? Ale to zróbmy tą przerwę. Wnioskuję o nie za długą, jakbyście mogli, ale siur, jak potrzebujecie, to trudno, bo przypominam, że kończymy w miarę szybko dzisiaj. 
+
+[Versir]
+Nie musiałem rzucać na żaden damage. 
+
+[VISUAL 00:50:13] Mapa przedstawia scenę o nazwie "World of Dreams", na której widać tokeny postaci, w tym Lutherię (jako Panią Snów), Orestesa, Versira, Arevona Elorrenthi oraz Oriona Xula. W panelu śledzenia starcia widoczny jest przebieg 7. rundy walki, a w oknie czatu wyświetlają się wyniki testów oraz informacje o użyciu Topora Xandera. Całość dopełniają ilustracje przedstawiające Lutherię, które są rozmieszczone w różnych punktach mapy.
+
+
+[Orion]
+Normalnego? To nie jest jakiś magical effect, to po prostu ogień, tak? 
+
+[Versir]
+No to ja mam plus 14. Przezajeb... właśnie na koniec swojej rundy save'a rzucam, tak? 
+
+[Arevon]
+Więc to chyba twój spoiler też się skończył, tak jak mój, więc... Okej, to koniec pytań. No to był na tamtą postać, która nic nie je, tak no... What the fuck is this? Masz reklesa, panie. What the fuck? 
+
+[CZAT 00:58:24] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 26 19 + 7
+
+
+[Dungeon Master]
+bo to się wszystko sumuje 
+
+[Arevon]
+Mam 30. 
+
+[Dungeon Master]
+tak, 30 30, a nie 30? 
+
+[Arevon]
+Do trafienia czy do damage'u? Nie ma rage'a, no to jest 28. 
+
+[Dungeon Master]
+to damage a, bo ja patrzyłem na ten drugi 
+
+[Arevon]
+Czemu masz dwa role? Wait. Ten poprzedni role to 30 damage'u, ale to miałeś reklesa używać. 
+
+[Dungeon Master]
+nie, pierwszy był, tak pierwszy był w poprzedniej rundzie w sensie w tamtym świecie jeszcze w normalnym, więc jest 30 damage'a no 
+
+[Arevon]
+Czy Versier jest dalej Confused? 
+
+[CZAT 00:59:38] Orestes: 3
+
+
+[Dungeon Master]
+widzisz, że ta bateria znika rozpływa się pod zamachnięciem twoim toporem inicjatywie 20 
+
+[VISUAL 01:00:17] Ekran przedstawia walkę z Lutherią w wymiarze World of Dreams. Na mapie widoczne są tokeny postaci: Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski, Orestes oraz Versir. Okno po prawej stronie śledzi rundy starcia i ostatnie ataki wykonane za pomocą Topora Xandera.
+
+
+[Arevon]
+To Versier 6 do 10. Ryba ci strasznie. 
+
+[CZAT 01:00:57] Versir: 8
+
+
+[Versir]
+Save'a... 
+
+[CZAT 01:01:28] Versir (rzut): Wisdom Save (+10) 17 1d20 + 10 7 7 | rzuty: = 17, 1d20 + 10
+
+
+[CZAT 01:01:35] Versir: 1
+
+
+[Versir]
+Na save'y... Dalej confused. 
+
+[Arevon]
+Czy to znowu umie? Tak, tak, widzę. 
+
+[Felicjan]
+magia nie przechodzi 
+
+[Versir]
+Te teksty są zajebiste. 
+
+[Arevon]
+Czy ogień pali? Czy aura Versiera działa? To nie jest magia, to jest jego życie. 
+
+[Felicjan]
+ale o kurwa 
+
+[Arevon]
+Nie wiem. Nie musimy się zastanawiać. 
+
+[CZAT 01:02:28] Arevon Elorrenthi (rzut): Dexterity Save (+3) 12 1d20 + 3 9 9 | rzuty: = 12, 1d20 + 3
+
+
+[Arevon]
+W sensie, DC jest ponad 20, też nie musimy się zastanawiać. To musimy się zastanawiać. 
+
+[CZAT 01:02:42] Arevon Elorrenthi: 3
+
+
+[Arevon]
+Bo ja już mam 15, a w wersji wydaje plus 6. Okej, no wyszło. Więcej mama nie miała. 
+
+[CZAT 01:02:51] karpiq: 30
+
+
+[Felicjan]
+jeżeli ktoś latał to tutaj nie lata znaczy z ziemi ok 
+
+[Arevon]
+Czołg dostałem, 37 marzył. 
+
+[CZAT 01:03:33] Arevon Elorrenthi: DC 15 Concentration Concentration
+
+
+[Arevon]
+37 marzył. Tak widzę. Nie mam spelli za dobrych. Jebne serie bonus action. Tą? Tą co? Nie wiem czy widziałeś, którą spingowałem. To najpierw rzucę atak, a potem ci powiem. Plus do 3. 
+
+[CZAT 01:04:18] Arevon Elorrenthi (rzut): Starry Form: Archer Range 60ft. 2nd-level Circle of the Stars feature As a bonus action, you can expend a use of your Wild Shape feature to take on a starry form, rather than transforming into a beas… | rzuty: = 18, 1d20 + 11
+
+
+[Arevon]
+19. 
+
+[CZAT 01:04:25] Arevon Elorrenthi: 1
+
+
+[Arevon]
+W trakcie rzucam pierwszolewlowego heal'a na siebie. Aaaa... siebie? Albo na siebie, bo Orianna ma dobra HP cash'a. Na Versyra bym heal'ał, nie mogę więc. Sure. 
+
+[CZAT 01:04:53] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Components: : V, S Roll Damages
+
+
+[CZAT 01:04:55] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting a… | rzuty: = 14, 2d8 + 6
+
+
+[CZAT 01:04:57] Arevon Elorrenthi: 2
+
+
+[Arevon]
+Chciałem oszczędzić spell slot'a na Absorbie i się heal'ałem za jeden więcej niż Absorbing. Whatever. Okej, i to mi pozwala stepić 15 feat'ów. Daj 7 feat'ów i 10. Bo ja nie chcę też wygnać. To mi się podoba. To mi się zdecydowanie podoba w tym miejscu. A bo jeszcze jedna kartka, możesz mi to przetłumaczyć? Dzięki. Team z plus lotów nie ma. 
+
+[Felicjan]
+przeciwko czarom 
+
+[CZAT 01:06:29] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+
+
+[Felicjan]
+czemu nie rzuca mi z advantage jak klikam z advantage 
+
+[Arevon]
+Nie ma jak 8d8 mniej damage'u niż ja dostanę 4d10. 
+
+[Felicjan]
+no tak wyrzuciłem 16 tam ale rzucę jeszcze raz bo mi się nie załapało komputer resetowałem 22 
+
+[Arevon]
+Co to jest? 
+
+[CZAT 01:06:53] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 22 1d20 + 8 1d20 14 | rzuty: = 22, 1d20 + 8, 1d20
+
+
+[Felicjan]
+plus bless ewentualny 
+
+[Arevon]
+Co? Mówię, że twój blight roll był tragiczny. Nekrotyk, jeśli ci to robi różnicę. Zatestowanie. Ale teraz jest ronda Orionowych. 
+
+[CZAT 01:07:30] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 12 1d20 + 8 1d20 4 | rzuty: = 12, 1d20 + 8, 1d20
+
+
+[Arevon]
+Orion? Nie, Orion. Wait! Kurwa, mi wyszedł dek-save przecież, tak? To ja sobie odpisałem full HP, a mi wyszedł dek-save. Z tym retardem. Odpisałem 30. Pierdolę. 
+
+[CZAT 01:08:44] Orion Xul (rzut): Dexterity Save (+1) 21 1d20 + 1 1d20 20 7 1d20 + 1 1d20 6 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+
+
+[CZAT 01:08:55] Felicjan Janus Twardowski: 20
+
+
+[CZAT 01:09:19] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 23, 1d20 + 12, 1d20
+
+
+[CZAT 01:09:29] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 14 + 8
+
+
+[VISUAL 01:10:21] Na mapie przedstawiającej lokację „World of Dreams” trwa starcie z Lutherią. W walce biorą udział postacie: Lutheria, Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Po prawej stronie widać moduł śledzenia inicjatywy oraz historię rzutów, w tym użycie przedmiotu Odkupienie Pythora przez Felicjana Janusa Twardowskiego.
+
+
+[Dungeon Master]
+To dorzuć blesę, tak? 
+
+[CZAT 01:10:29] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+
+
+[CZAT 01:10:40] Orion Xul: 3
+
+
+[Dungeon Master]
+Już nie, to jest dwadzieścia Jeden, to jest mistrz Czekaj, tak, to pewnie się Wait, czekaj To jest klon, klon ma mniejszego AC-ka troszkę Trafiło, tak Brakuje ci jeden 
+
+[CZAT 01:11:01] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 16 + 5
+
+
+[Dungeon Master]
+Tak I teraz dwadzieścia jeden Tego klona nie ma już I czekaj, czekaj, to nie koniec 
+
+[Orion]
+No to z Disadvantage ją rzucę, to co berwałaby, przyjąłem więcej ruchu. 25 jestem do niej. Okej, okej. No tak. Nie no, tu jest 25. Dobra. 
+
+[Versir]
+Chromatic Orb for the win. 
+
+[Arevon]
+Czy on jest wyręczył, czy nie jest? No ale... 
+
+[CZAT 01:12:38] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 01:12:45] Orion Xul: 2
+
+
+[Orion]
+Tyle. Nie mam bonusu, żadnego ciekawego. Okej, okej. 
+
+[CZAT 01:13:18] Orion Xul (rzut): Constitution Save (+9) 25 1d20 + 9 1d20 16 15 1d20 + 9 1d20 6 | rzuty: 1d20 + 9, 1d20, 1d20 + 9, 1d20
+
+
+[CZAT 01:13:21] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+
+
+[Orion]
+Dla mnie. Nice. 
+
+[Arevon]
+No szanowny też. Chyba? Nie? To Magic Effect? Czy to nie jest Magic Effect? To brzmi jak Magic Fire, jak dla mnie, ale... 
+
+[CZAT 01:14:15] Felicjan Janus Twardowski (rzut): Dexterity Save (+2) 5 1d20 + 2 1d20 3 10 1d20 + 2 1d20 8 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[Arevon]
+To nie brzmi jak Success... 
+
+[CZAT 01:14:22] karpiq: 18
+
+
+[Arevon]
+...18. Tak zgadza się, dalej skąd się to chyba trafia. 
+
+[CZAT 01:14:42] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 27 1d20 + 8 1d20 19 | rzuty: = 27, 1d20 + 8, 1d20
+
+
+[CZAT 01:15:13] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Arevon]
+15 metrów przechodzi na realną. 
+
+[CZAT 01:15:20] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 33, 6d8
+
+
+[CZAT 01:15:32] Felicjan Janus Twardowski: 2
+
+
+[Arevon]
+Czopu, czopu. 
+
+[CZAT 01:16:01] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Arevon]
+Nowe hity jest najpierw. 
+
+[CZAT 01:16:08] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 28, 6d8
+
+
+[CZAT 01:16:11] Felicjan Janus Twardowski: 8
+
+
+[Arevon]
+Ponad 30! Trójki się powtórzyły. Nice. 
+
+[Dungeon Master]
+What the fuck 
+
+[Versir]
+Uuuu! 
+
+[CZAT 01:16:35] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Arevon]
+Nie ma kryta niestety. 
+
+[Dungeon Master]
+Za 30 hapeków 
+
+[Versir]
+Mooo! 
+
+[Dungeon Master]
+Miałoby wystarczyć, żeby 
+
+[Arevon]
+Jednak nie. 
+
+[Dungeon Master]
+Jednym czarem się nie dało 
+
+[CZAT 01:16:43] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: = 30, 6d8
+
+
+[Dungeon Master]
+Wszystkich zniszczyć I na tym momencie 38 
+
+[CZAT 01:16:45] Felicjan Janus Twardowski: 8
+
+
+[Arevon]
+What? Jeszcze raz? Ile razy możesz bązować? 
+
+[Dungeon Master]
+To dalej nie była główna 
+
+[Orion]
+Za wyżej? Potrzebowaliśmy tego bardziej niż kiedykolwiek. 
+
+[Dungeon Master]
+Plus bless 
+
+[Arevon]
+Czyli ty możesz 5 targetów zabić? WTF? 
+
+[Versir]
+Super. 
+
+[Arevon]
+22? Masz? 
+
+[CZAT 01:17:11] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Arevon]
+Plus deszery, czyli 23 co najmniej. 
+
+[Dungeon Master]
+Kurwa 
+
+[Arevon]
+23. 
+
+[Dungeon Master]
+No to trafia tak 
+
+[CZAT 01:17:21] Felicjan Janus Twardowski: 1
+
+
+[Dungeon Master]
+I tym razem tu Nie znika nawet jak będzie 30 Powinienem pisać Orion teraz 
+
+[Arevon]
+Trafiłeś realnie. Nie. 
+
+[Dungeon Master]
+42, okej 
+
+[CZAT 01:17:39] Felicjan Janus Twardowski: 42
+
+
+[Arevon]
+No pierdolę, ten spray jest głupi. No teraz na pewno nie trafisz. 
+
+[Dungeon Master]
+Jezu głupi 
+
+[CZAT 01:17:58] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Arevon]
+A, to D4 rzucasz? Może zrobisz, 20 ck ma. Nie palny. 
+
+[CZAT 01:18:06] Felicjan Janus Twardowski: 4
+
+
+[Arevon]
+Wizard broken. 
+
+[CZAT 01:18:15] Felicjan Janus Twardowski: 39
+
+
+[Arevon]
+Wizard broken as fuck. Policja dostanie każdego spell'a. 
+
+[Orion]
+Nie, nie mam. Ale zastanawiam się czy tutaj ten Disantage będzie działać, jeżeli ono wrzucać? 
+
+[Versir]
+Ja się wam dobrze mogę słuchać i czytać. 
+
+[Arevon]
+Czy tu jest ethereal plane? Bo on ma blinka na sobie cały czas. Result reaction. No w astralnym nie ma tego, tak. Znaczy twój blink cały czas jest włączony, ale tak nie działa, tak wygląda. By the way, on a roll of 11 or higher you vanish from your current plane of existence and appear in the aetherial plane. Spell fails and the casting is wasted if you are already on aetherial plane. Nie jest napisane materia, jest napisane current plane. Nie wiem, to jest, wiesz, twoja decyzja to jest twój magiczny świat, więc blink. 
+
+[VISUAL 01:20:25] Zrzut ekranu przedstawia otwartą stronę nowej karty przeglądarki internetowej Firefox. Nie zawiera on żadnych elementów związanych z sesją RPG ani wirtualnym stołem.
+
+
+[Arevon]
+Może wrócić do 10, o czym musimy się zastanawiać w ogóle. Może wrócić do 5 i nie ma sensu myśleć z czasem. 
+
+[CZAT 01:20:35] Felicjan Janus Twardowski: 15
+
+
+[Arevon]
+Wrócić do 15. Mistakes were made. Tak. Co dwa nie miało nic. 90 to dużo. 
+
+[Dungeon Master]
+Zobaczmy. Ręcz 90 feet. 
+
+[Arevon]
+Tak. 
+
+[Dungeon Master]
+To jest całkiem niezły czar. Wersja jest dalej w sferze. 
+
+[Arevon]
+Jest multi target, w sensie zintegracja. 
+
+[Dungeon Master]
+Siar. 
+
+[Versir]
+Nice. 
+
+[Dungeon Master]
+Siar targetuje w tym momencie Orestesa, Oriona i Arewona. I rzuca czar. 
+
+[Arevon]
+Intelligence. 
+
+[Dungeon Master]
+To nie jest integracja. To dziewiąto-leblowy czar. 
+
+[Felicjan]
+O, kto rzucił jeden? Bo rzucajcie blessy, bo jest za mało. 
+
+[Dungeon Master]
+Intelligence saving throw Orestes, Arewon i Orion. 
+
+[CZAT 01:23:17] Arevon Elorrenthi (rzut): Intelligence Save (+4) 5 1d20 + 4 1 1 | rzuty: = 5, 1d20 + 4
+
+
+[Arevon]
+Oczywiście żyję. Życie to troszkę. 
+
+[CZAT 01:23:26] Lutheria: Psychic Scream (M) Enchantment You unleash the power of your mind to blast the intellect of up to ten creatures of your choice that you can see within range. Creatures that have an Intelligence score of 2 or lower are unaffected. Each target must make an Intelligence saving throw. On a failed save, a target takes 14d6 psychic damage and is Stunned . On a successful save, a target takes half as mu…
+
+
+[CZAT 01:23:27] Orestes (rzut): Intelligence Save (-1) 16 1d20 - 1 1d20 17 | rzuty: = 16, 1d20 - 1, 1d20
+
+
+[CZAT 01:23:32] Orion Xul (rzut): Intelligence Save (+1) 19 1d20 + 1 1d20 18 19 1d20 + 1 1d20 18 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+
+
+[Felicjan]
+Dispel Magic działa na to? Nie? 
+
+[Arevon]
+Ja permanentnie nie żyję. 
+
+[CZAT 01:23:42] Orion Xul: 3
+
+
+[Arevon]
+Prawdopodobnie w tym momencie. 
+
+[CZAT 01:23:44] Orestes: 1
+
+
+[Arevon]
+Ty masz fulla, więc... 
+
+[Dungeon Master]
+To masz fulla. Jesteś niebezpieczny. 
+
+[Arevon]
+Tak. 
+
+[Dungeon Master]
+A to głowy wybuchają od tego. Jasne. 
+
+[Arevon]
+Godzys? 
+
+[Dungeon Master]
+Trochę się boję to rzucić teraz. 
+
+[Arevon]
+No, żyje. Great success. Jeszcze. Tak jest. Dobrze, że wycięłaś. 
+
+[Dungeon Master]
+48 demagia. 
+
+[CZAT 01:24:16] Orion Xul: Spellguard Shield Armor (Shield), Very Rare (requires attunement) While holding this Shield, you have Advantage on saving throws against spells and other magical effects, and spell attack rolls have Disadvantage against you.
+
+
+[Dungeon Master]
+Sfejlowali wszyscy. Nawet Orion. 22 to jest za mało. Chyba, że masz coś, żeby jeszcze dorzucić. 
+
+[Orion]
+Nie, bo to jest przecież na atak, a nie na damage. 
+
+[Dungeon Master]
+Dzięki temu masz adwantycz, więc. 48 demagia 
+
+[Orion]
+Okej, mam niby coś jeszcze. 
+
+[Dungeon Master]
+i macie stan obu, wszyscy trzej. 
+
+[CZAT 01:24:51] Orion Xul: Lionheart’s Rebuke Armor (Plate), Very Rare This suit of heavy plate armor is crafted from burnished gold and reinforced with shoulder pauldrons sculpted in the likeness of roaring lions. Large ruby-colored gems are embedded into the chest and gauntlets, interspersed with jagged sapphire-blue crystals set deep into the gold filigree. You have a +1 1d20+1 bonus to Armor Class while wearing this ar…
+
+
+[Dungeon Master]
+Masz z fightera jakieś przerzucanie. 
+
+[Arevon]
+No to... 
+
+[Dungeon Master]
+Ale wróciłeś 19, tylko 20 byś musiał mieć. Żeby to ci wyszło. 
+
+[Arevon]
+Nie zroń swój latak. 
+
+[Orion]
+Może da się użyć tego Crystalline Interception. Mam w zbroi taką rzecz. 
+
+[Arevon]
+Raczej nie. Chuj. Raczej nie. Czy możemy użyć micro-saction? 
+
+[Felicjan]
+Czy tego nigdy nie rzucicie? 
+
+[CZAT 01:26:11] Orestes: Applied conditions: &Reference[stunned]
+
+
+[Versir]
+10. 
+
+[Arevon]
+Co? Grater? Nie, cztery. Cztery plus cztery. Cztery. 
+
+[CZAT 01:26:51] Orion Xul: 9
+
+
+[Arevon]
+The fuck? Za mało. 
+
+[Versir]
+Nice, nice. 
+
+[Arevon]
+Za mało. 
+
+[Felicjan]
+Odsknij się. Błagam, odsknij się. 
+
+[CZAT 01:27:34] Orestes (rzut): Intelligence Save (-1) 2 1d20 - 1 1d20 3 | rzuty: = 2, 1d20 - 1, 1d20
+
+
+[Arevon]
+To za mało. Musisz żyć kryta i cztery na costa. Na blessa. To jest niewykonalne. Masz jeden dwadzieścia pięć procenta na success. 
+
+[CZAT 01:27:54] Versir: 3
+
+
+[Arevon]
+Powinieneś. To i tak nie 
+
+[CZAT 01:28:23] Lutheria, The Lady of Dreams: 17
+
+
+[Arevon]
+robi różnicy w tym momencie. Bo i tak już nie żyjemy. 
+
+[Versir]
+Nice. 
+
+[Arevon]
+Więc... Wszyscy jesteśmy w stanie bez możliwości save'a. 
+
+[Versir]
+Ok. 
+
+[Arevon]
+Wisdom save'a rzucasz. 
+
+[CZAT 01:29:10] Versir: 5
+
+
+[Felicjan]
+Czy jakkolwiek mogę pomóc wam w zdjęciu tego stana? 
+
+[CZAT 01:29:36] Versir (rzut): Wisdom Save (+10) 25 1d20 + 10 15 15 | rzuty: = 25, 1d20 + 10
+
+
+[Arevon]
+Uuu, wyszło. Dziewiąto levelowy więc. 
+
+[CZAT 01:29:40] Versir: 2
+
+
+[Versir]
+To jest, co się dzieje na koniec mojej rundy, więc zapytam po prostu na koniec mojej rundy, czy mój True Sight widzę, która jest prawdziwa mozo. Działo się na koniec mojej rundy, więc nic więcej nie zrobimy. 
+
+[CZAT 01:30:24] Arevon Elorrenthi: Applied conditions: &Reference[stunned]
+
+
+[Versir]
+Dyspela rzucić chyba? 
+
+[VISUAL 01:30:28] Na zrzucie ekranu widać otwarte okno karty postaci Lutherii, znanej jako Pani Snów. Na mapie przedstawiającej oniryczną przestrzeń o nazwie World of Dreams znajdują się tokeny postaci, w tym Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. W panelu śledzenia walki widoczne są tury oraz rzuty kośćmi, a stan Arevona Elorrenthi został oznaczony jako ogłuszony.
+
+
+[Felicjan]
+Bo to jest nie do rzucenia. 
+
+[Versir]
+To jest spell effect? 
+
+[Felicjan]
+To jest PLF jak dziewiątopoziomowy, tak. 
+
+[Arevon]
+No. 
+
+[Versir]
+To 14 na klatce, potem będziesz potrzebował... 
+
+[Felicjan]
+Ja mam jeszcze szóstopoziomowe spelsy od 1. 
+
+[Versir]
+Chyba, że skrzypce dodają do ability checków i do save'ów. 
+
+[Arevon]
+Krzypce są zużyte. 
+
+[Versir]
+A... Tak, to... 
+
+[Arevon]
+Nie robię różnic między trzecim a... 
+
+[Dungeon Master]
+I dzisiaj to, legendarną akcję. 
+
+[Arevon]
+...a... ósmą. 
+
+[Versir]
+Tak. 
+
+[Arevon]
+No ósmą byś rzucił, byś rzucał dalej, decyzyjność. 
+
+[Versir]
+Dalej byś 
+
+[Arevon]
+Co się dzieje? 
+
+[Versir]
+potrzebował rzucić 19 dc. Po prostu musisz 14 na kaster wrzucić. 
+
+[Arevon]
+Blest nie działa. 
+
+[Versir]
+Blest na ability, że taki nie działa. 
+
+[Dungeon Master]
+Ale już kurwa, nie da się tylko tak zamknąć, żeby się stypił. 
+
+[Versir]
+Ja jestem... te piosenki 
+
+[CZAT 01:31:48] Lutheria: Darkness (M) Evocation Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with Darkvision can't see through this darkness, and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from t…
+
+
+[Versir]
+i ten tekst jest tak zajebisty, że ja jestem za Luterion. Jako gracz, ja jestem team Luterion. Wydaje mi się... 
+
+[Dungeon Master]
+Zawsze będzie w jasności jak się pojawi. Eee, a sure. Nie chcę wersji siedzieć w ciemności. A ty masz Trussite'a. Dobra, sure, whatever, rzuca to w Darkness'a. Sure, przebije... 
+
+[Arevon]
+Ja świecę Magical Darkness. Magical Light ja świecę. Mój spell nie jest second on level. Mój nie jest spelem. 
+
+[Dungeon Master]
+Sure. Przebije z tego Darkness'a. Sure. 
+
+[Arevon]
+Nie jestem przekonany. Muszę sprawdzić w necie, więc to nie jest istotne w tym momencie, więc... 
+
+[Dungeon Master]
+Dobra. 
+
+[Arevon]
+W każdym bądź razie ja failuję in save'a, więc idźmy dalej. 
+
+[Versir]
+Aaa... 
+
+[CZAT 01:32:47] Arevon Elorrenthi (rzut): Intelligence Save (+4) 19 1d20 + 4 15 15 | rzuty: = 19, 1d20 + 4
+
+
+[Versir]
+Twój robi daylight? 
+
+[Arevon]
+Ooo, fajnie! O kurwa. O kurwa. 
+
+[Versir]
+Jednego zabrakło? 
+
+[CZAT 01:32:54] Arevon Elorrenthi: 3
+
+
+[Arevon]
+Pierdole, kurwa! 
+
+[Dungeon Master]
+Jeden. 
+
+[Arevon]
+Ja wiem! Zdaję sobie sprawę, że jednak to brakło. Ja nie mogę użyć reakcji. 
+
+[Versir]
+A ty twój cosmic omen masz event czy odd? Bo to do strechów 
+
+[Arevon]
+To nie jest istotne, nie mogę użyć reakcji, bo mam stun'a. 
+
+[Versir]
+dodaje. Okej. 
+
+[Arevon]
+I nie mogę użyć tego na siebie, więc to podwójnie nie ma znaczenia. 
+
+[Versir]
+Tak, na siebie nie ma. 
+
+[Arevon]
+Mam... 
+
+[CZAT 01:33:31] Orion Xul: Applied conditions: &Reference[stunned]
+
+
+[CZAT 01:34:00] Orion Xul (rzut): Intelligence Save (+1) 10 1d20 + 1 1d20 9 9 1d20 + 1 1d20 8 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+
+
+[Versir]
+Taka ósemka, prawie dwudziestka była. Maciek? A ty masz jakąś zdolność, która pozwoli ci zamienić jeden Nauczony spell w tym momencie na inny? A metros... A metros akcje działają tutaj czy nie? Miracle pointy Bo jest spell, który daje advantage na wisdom save'y dla grupy Intellect fortress się nazywa Znaczy na intuizm charisma save'y, na mental save'y Aaa To musi być znane Tak, tak, musi być z powodu Ja w kuli też? Muszę powiedzieć, że pięknie to wygląda. Siedzę sobie w kuli schowany, patrzę jak moi kompani umierają. Bardzo ładnie. Teraz wszystkich aurą powstięgnę. 
+
+[CZAT 01:35:30] Orestes (rzut): Wisdom Save (-1) 6 1d20 - 1 1d20 7 | rzuty: = 6, 1d20 - 1, 1d20
+
+
+[CZAT 01:35:33] Arevon Elorrenthi (rzut): Wisdom Save (+11) 17 1d20 + 11 6 6 | rzuty: = 17, 1d20 + 11
+
+
+[CZAT 01:35:39] Arevon Elorrenthi: 3
+
+
+[CZAT 01:35:43] Orion Xul (rzut): Wisdom Save (+2) 18 1d20 + 2 1d20 16 22 1d20 + 2 1d20 20 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[CZAT 01:35:59] Orion Xul: 2
+
+
+[CZAT 01:36:13] karpiq: 8
+
+
+[Dungeon Master]
+No właśnie, to ja nie wiem czy chcę... Eee, może chcę was ładnie sobie umieścić w... O, zrobi sobie tutaj galerię sztuki. 
+
+[Versir]
+Do swojej rundy chcę być w kuli. To nie jest reakcja, dropienie koncentracji to jest free akcja. Chyba, że to jest jakiś impact full spell. Ja i tak jestem na jednego shota. 
+
+[Dungeon Master]
+Eee... Felicjon. Cze-he-he. 
+
+[Versir]
+A ty w swojej rundzie nie robiłeś long resta, Ken? 
+
+[Felicjan]
+Mieliśmy reakcję chyba robić, tak? 
+
+[Versir]
+Trzeba być w stanie. 
+
+[Felicjan]
+Bo mogę albo przywołać trzy szkielety minotaury, 
+
+[Dungeon Master]
+W swojej rundzie free action. Ale tak, trzeba być w stanie. 
+
+[Versir]
+Możesz to rzucić w Wall of Force na ich trójkę. 
+
+[Arevon]
+Chyba, że dożyje następnej rundy w jakimś sposób, więc to nic nie zrobi raczej. 
+
+[Felicjan]
+będą atakować. Mogę kogoś innego zbaniszmentować, ale wtedy ciebie odsłonię. Mogę po prostu napierdalać tę luterię, albo mogę rzucić mirror image, żebym ja przeżył dłużej. Którego nie mam przygotowanego. 
+
+[Versir]
+Myślę, że to jest... 
+
+[Felicjan]
+Nie mam World of Wars, 
+
+[Arevon]
+Ja mam, ale ja w tym nie żyję. 
+
+[Versir]
+Ale teraz nie stoją na chromatic orbach. Już się nauczyły. A mamy na short resta i long resta miracle pointów? Short rest dwa kasztują. 
+
+[Dungeon Master]
+Cztery chyba miracle pointy, albo jeden long rest, albo dwa short rests. 
+
+[Versir]
+Zresztą spróbujecie skounterspellować na pewno. 
+
+[Arevon]
+Mamy cztery, no. Dwie C23, więc... 
+
+[Versir]
+A to by było piękne. 
+
+[Arevon]
+I ogólnie sytuacja jest też taka, że walka jest mocno przejebana. W każdej grze zawsze dużo, ale walka jeszcze nigdy nie była aż tak przejebana jak teraz. 
+
+[Dungeon Master]
+Ile razy już w tej kampanii mówili, że walka jest przejebana? 
+
+[Versir]
+Ile razy w każdej grze on mówi, że walka jest wygubana? 
+
+[Dungeon Master]
+Hyhy. 
+
+[Arevon]
+Bądźmy szczerzy. Ja nie dożyję swojej rundy. 
+
+[VISUAL 01:40:32] Na ekranie widoczna jest walka w lokacji nazwanej World of Dreams. W starciu biorą udział postacie: Lutheria, Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Centralną część mapy zajmuje grafika przedstawiająca Lutherię, a po prawej stronie znajduje się panel śledzenia tury, w którym widoczne są wyniki rzutów obronnych na mądrość poszczególnych bohaterów.
+
+
+[Versir]
+Ciężko wybrać. 
+
+[Arevon]
+No 19 muszę rzucić. 
+
+[Dungeon Master]
+To... 
+
+[Versir]
+Tak, musisz 14-kę wygrać, chyba, że masz więcej niż 20-ta inta. 
+
+[Dungeon Master]
+Dispel Magicium. Stala zdjęć. Psychic Screamer. To jest co... 
+
+[Arevon]
+I nie dostać counter spala. W sensie 19 wynik na interolu. W sensie ona traci spal w slot, ale ty nie. 
+
+[Versir]
+Ale jak counterspell nie... 
+
+[Dungeon Master]
+Jej czary nie działają na zasadzie spell slotów. Nie, w tym nowym counterspelle nie marnuje się spell slot w tejże. 
+
+[Versir]
+Ale jak counterspell nie wyjdzie, to on zjada cel slot? 
+
+[Dungeon Master]
+Chyba. No ona tak. Na kogo w końcu? 
+
+[Arevon]
+Ty nie tracisz. Wyszło. 
+
+[Versir]
+Wyszło ci wtedy. Znaczy, jeśli chodzi o target, to Arevon ma... 
+
+[CZAT 01:42:11] Felicjan Janus Twardowski: Dispel Magic Legacy • 3rd Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range 120ft. Choose one creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On …
+
+
+[Dungeon Master]
+Chyba jak na ubliżałeś litery dostaniesz. 
+
+[Versir]
+Jak Arevon przeżyje, to heal nie resztę, nie? 
+
+[Arevon]
+Ale Argon nie dożyje swojej rundy, więc nie ma znaczenia. 
+
+[Versir]
+Ale oni wszyscy są na podobnym... 
+
+[Arevon]
+Więc nie rzuca na mnie. To jest waste. 
+
+[Versir]
+Znaczy, Orestes ma więcej apk. Orestes może przez dwie. 
+
+[Arevon]
+Oraz to jest moja największość zdecydowanie. 
+
+[Versir]
+I Orestes ma rundę zaraz. 
+
+[Arevon]
+No. 
+
+[Versir]
+Naprawdę. 
+
+[Arevon]
+Ale heal nam nie pomoże. 
+
+[CZAT 01:42:51] Felicjan Janus Twardowski (rzut): Intelligence (+5) 10 1d20 + 5 1d20 5 | rzuty: = 10, 1d20 + 5, 1d20
+
+
+[Versir]
+Ja mam pytanie, Karpik. Czy ja mogę swoje Heroic Inspiration użyć na kogoś z nich? To nie jest normalne użycie Heroic Inspiration, oczywiście. Dostałem od Demma za jakiś roleplay kiedyś. Tak, zgadza się. 
+
+[Dungeon Master]
+Znaczy mi się zawsze idea, że to jest przed rolem bardzo nie podobała. 
+
+[Versir]
+Znaczy, tak to jest też traktowane w nowej wersji datat, ale... 
+
+[Dungeon Master]
+Nie wiem czy kiedyś mówiłem, ale ja bym bardziej traktował to jako takiego lucky pointa. O, to nawet nie wiedziałem. 
+
+[Versir]
+To go... 
+
+[Dungeon Master]
+Chciałbyś użyć to... 
+
+[Versir]
+To go again? Tak. Oh yes. 
+
+[CZAT 01:44:18] Felicjan Janus Twardowski (rzut): Intelligence (+5) 25 1d20 + 5 1d20 20 | rzuty: = 25, 1d20 + 5, 1d20
+
+
+[Versir]
+Mi się wydaje, że ten feature nie powinien działać. 
+
+[CZAT 01:44:49] Felicjan Janus Twardowski: 10
+
+
+[Arevon]
+What the fuck? Ach, ty pierdol. By the way, wedle internetu mój magical light nie dispeluje darknessa, ale oświetla go. Czyli tam, gdzie ja jestem, to ten kawałek się świeci, ale jak wyjdę, to się przestaje świecić. Jest dalej darkness. To jest dziwny interaction, ale tak internet twierdzi. Ja nie wiem, czy to jest prawda, bo nie mam pojęcia. Ja się chyba nie świecę, by the way, z jakiegoś powodu. O, ja pierdolę to, bo może... To jest magical light, a magical light świeci w darknessie. 
+
+[CZAT 01:46:34] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Versir]
+Zerknę się osobiście. Tylko to musi być musical light konkretnego poziomu. C16. 
+
+[Arevon]
+Nie, nie, nie. To nie działa w ten sposób. Chodzi o to, że non-magical light can't illuminate it. 
+
+[Versir]
+No to 25% szansy masz, że będziesz bił. 
+
+[CZAT 01:47:05] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 21 1d20 + 8 1d20 13 | rzuty: = 21, 1d20 + 8, 1d20
+
+
+[Arevon]
+A to jest magical light, więc magical light can illuminate it. Jest też napisane, że spell that overlaps with light created by spell of second or lower is dispelled. Ale to nie jest spell. Więc to nie dispeluje i iluminuje. 
+
+[Versir]
+Odpowiednio. Potem dwa krety i będzie dobrze. Nie no, ma, bo my nie robiliśmy żadnych shotrestów. Tylko Orion robił shotresta. Tylko Orion robił szarżę. Night? 
+
+[CZAT 01:48:58] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 16 13 + 3
+
+
+[CZAT 01:49:16] Lutheria: DC 11 Concentration Concentration
+
+
+[Versir]
+Kryt. 
+
+[CZAT 01:49:26] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 17 10 + 7
+
+
+[Versir]
+To nie jest kryt. O, jeszcze druga kontra. Gra puh. 
+
+[CZAT 01:49:35] Orestes: 10
+
+
+[CZAT 01:49:50] Lutheria: DC 10 Concentration Concentration
+
+
+[CZAT 01:50:17] Orestes (rzut): Athletics (+11) 19 1d20 + 11 1d20 8 | rzuty: = 19, 1d20 + 11, 1d20
+
+
+[VISUAL 01:50:36] Zrzut ekranu przedstawia walkę toczącą się wewnątrz lokacji „World of Dreams”, gdzie centralnym punktem jest token Lutherii. Na mapie widoczne są również tokeny postaci graczy: Orestesa, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Po lewej stronie otwarte jest okno z kartą statystyk Lutherii, a po prawej widoczny jest licznik rund (9. runda) wraz z historią rzutów kośćmi i aktualnymi efektami obrażeń.
+
+
+[Versir]
+Na tę nicję zacząć rolę wychodzi. 
+
+[CZAT 01:51:14] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[CZAT 01:51:38] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 27 1d20 + 8 1d20 19 | rzuty: = 27, 1d20 + 8, 1d20
+
+
+[Versir]
+To chyba, zanim moja runda zacznie, to chyba Felicia koncentrację drapi na kul dach. W bąbelku. Okej, okej. To jest hard teren, tak? Dwadzieścia pięć. tutaj podchodzę 25 a jeszcze nie jestem koło was a to chyba muszę dashować zobaczę co mogę zrobić mam jeszcze jakieś spellsloty no dobra to robimy to tak zjadam te spellsloty, żeby shardspointy zrobić używam shardspointów, żeby quicken wycastować no i ostatni spell w tej grze i w tym życiu chyba Aura of purity Wszyscy w randzu Zaraz ci powiem jaki 
+
+[CZAT 01:55:03] Versir: An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Poison damage and Advantage on saving throws to avoid or end effects that include the Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned condition. Classes: Cler
+
+
+[CZAT 01:55:20] Arevon Elorrenthi: Applied conditions: &Reference[stunned]
+
+
+[Versir]
+W końcu mają rundę Masz advantage? No 6 O to jest dobry roll, bardzo dobry 
+
+[CZAT 01:55:29] Arevon Elorrenthi (rzut): Intelligence Save (+4) 15 1d20 + 4 11 11 7 1d20 + 4 3 3 | rzuty: 1d20 + 4, 1d20 + 4
+
+
+[CZAT 01:55:35] Arevon Elorrenthi: 4
+
+
+[CZAT 01:55:46] Orion Xul: Applied conditions: &Reference[stunned]
+
+
+[CZAT 01:56:01] Orion Xul (rzut): Intelligence Save (+1) 20 1d20 + 1 1d20 19 3 1d20 + 1 1d20 2 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+
+
+[CZAT 01:56:34] Lutheria: Fear (M) Illusion You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become Frightened for the duration. While Frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If …
+
+
+[CZAT 01:56:47] Versir (rzut): Wisdom Save (+10) 27 1d20 + 10 17 17 20 1d20 + 10 10 10 | rzuty: 1d20 + 10, 1d20 + 10
+
+
+[CZAT 01:56:57] Arevon Elorrenthi (rzut): Wisdom Save (+11) 19 1d20 + 11 8 8 16 1d20 + 11 5 5 | rzuty: 1d20 + 11, 1d20 + 11
+
+
+[CZAT 01:57:07] Orestes: Ring of Orestes Ring, Legendary (requires attunement by a Doomed One) This simple ring seems to be created from a dragon bone. On the inside the inscription says: "DLA UKOCHANEGO ORESTESA". You have advantage on saving throws you make to avoid being charmed or frightened or to end those conditions on you. Ring of Orestes was enhanced by God of Crafts, Volkan himself. You gain a +1 1d20+1 bonus to…
+
+
+[CZAT 01:57:23] Orion Xul (rzut): Wisdom Save (+2) 8 1d20 + 2 1d20 6 22 1d20 + 2 1d20 20 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[CZAT 01:59:32] Felicjan Janus Twardowski (rzut): Fireball Legacy • 3rd Level Evocation (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a tiny ball of bat guano and sulfur) Range 150ft. Area of Effect 20ft. AoE Sh… | rzuty: = 39, 8d6, 8d6
+
+
+[Versir]
+To jest 17 
+
+[CZAT 01:59:45] Lutheria: DC 10 Concentration Concentration
+
+
+[Versir]
+O reses jak ją macałeś to tam same mózgowe trochę 
+
+[CZAT 02:00:31] Felicjan Janus Twardowski: 12
+
+
+[Versir]
+Tak 
+
+[VISUAL 02:00:40] Na mapie przedstawiającej oniryczną lokację World of Dreams toczy się starcie z Lutherią, której karta postaci z zestawem czarów jest widoczna w oknie po lewej stronie. Na planszy rozmieszczone są tokeny postaci, w tym Lutherii, Orestesa, Versira, Arevona Elorrenthi, Oriona Xula oraz Felicjana Janusa Twardowskiego. Panel śledzenia starcia po prawej stronie wskazuje, że trwa dziewiąta runda walki, podczas której wykorzystano m.in. czar Fireball przeciwko Lutherii.
+
+
+[CZAT 02:00:43] Lutheria: Applied conditions: &Reference[grappled]
+
+
+[CZAT 02:00:53] Arevon Elorrenthi (rzut): Wisdom Save (+11) 20 1d20 + 11 9 9 22 1d20 + 11 11 11 | rzuty: 1d20 + 11, 1d20 + 11
+
+
+[CZAT 02:00:54] Versir (rzut): Wisdom Save (+10) 15 1d20 + 10 5 5 27 1d20 + 10 17 17 | rzuty: 1d20 + 10, 1d20 + 10
+
+
+[CZAT 02:01:07] Orion Xul (rzut): Wisdom Save (+2) 14 1d20 + 2 1d20 12 11 1d20 + 2 1d20 9 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[Versir]
+Jeszcze blood Akurat jak wrócę z maze'a to trupy zobaczę 
+
+[CZAT 02:01:17] Orion Xul: 4
+
+
+[CZAT 02:03:08] Lutheria: Maze (M) Conjuration You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze. The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a minotaur or goristro demon automatically succeeds). When the spell …
+
+
+[Versir]
+Ten spell jest jeszcze lepszy versus wersji rynis Ja robię checka a nie save'a Nie mam szans tego, nie mam szans Utknąłem na kolejne 500 lat w tym samym labiryncie. 
+
+[CZAT 02:04:40] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 5 5, = Damage: 20 13 + 7
+
+
+[Versir]
+A tak, to jest czysta przyjemność umrzeć, ten fight jest genialny, trzeba powiedzieć. 
+
+[CZAT 02:04:55] Lutheria: DC 12 Concentration Concentration
+
+
+[Versir]
+Cała oprawa jest mła, mła po prostu. 
+
+[Orestes]
+Nie chciałem tego, bo chciałem nacisnąć sobie na czar, a Foundry mi rzuciło. Bo mi się pojawiła kostka z opóźnieniem, jak już klikałem. Animacja z JSA. Chcę zużyć 9 charge na niej. Tak. I teraz jak to będzie wyglądało, jak zużyję 9 charge? Tak, no właśnie dlatego. Powinno być 12d6, obrażeń 22dc, oby. 
+
+[CZAT 02:06:10] Orestes: Axe of Xander Weapon (Greataxe), Legendary (requires attunement) This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathically by transmitting emotion to the creature carrying or using it. The axe’s primary purpose is to destroy giants and titans. When you attack one of tho…
+
+
+[Versir]
+Ile mamy proficjency? 4 czy 5? 5. 22 DC. To był DC 22. DC 22. Teraz musisz być tylko mistrzem rzucania szóstkami Jaki to ma zasięg? 
+
+[Orestes]
+To najpierw ja rzucam, tak? 
+
+[Versir]
+Możesz dwie naraz tracić? A nie, to jedno 
+
+[Orestes]
+Nie, nie mam jak tutaj złapać kilku. Dobra, 12d6, enter. 
+
+[CZAT 02:07:25] Orestes: 39
+
+
+[Versir]
+To nie jest dobry rol To jest poniżej średniej 
+
+[CZAT 02:07:56] Lutheria: DC 19 Concentration Concentration
+
+
+[Versir]
+Ty dalej ją graplujesz? Może no A to ona klęcz przed sobą teraz 
+
+[CZAT 02:09:06] Orestes (rzut): Athletics (+11) 17 1d20 + 11 1d20 6 | rzuty: = 17, 1d20 + 11, 1d20
+
+
+[Arevon]
+Teoretycznie Maciek, ty tego nie widzisz, bo ty jesteś na Ethereal Plane'ie, który... który... No. Nie widzisz. Ty widzisz materialne. What? Really? Ja pierdolę. Haha, zbawił on. Are you sure? 
+
+[CZAT 02:09:59] Felicjan Janus Twardowski: While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so.
+
+
+[Arevon]
+World of Dreams teraz. Kill us, please. Faster. Daj mu resesor i pójść spać. Chyba, że Legendary Axe chce mnie zabić zanim będę mieć kolejkę. 
+
+[CZAT 02:10:39] karpiq: 6
+
+
+[Dungeon Master]
+czemu wszystkie mi kurwa tam spawnły 
+
+[VISUAL 02:10:44] Mapa przedstawia abstrakcyjną lokację World of Dreams, na której toczy się walka z Lutherią, Panią Snów. Na ekranie widoczne są tokeny graczy, w tym Versira, Arevona Elorrenthi, Oriona Xula, Felicjana Janusa Twardowskiego oraz Orestesa. Interfejs gry pokazuje otwartą kartę statystyk Lutherii oraz panel śledzenia spotkania (Encounter Tracker), w którym odnotowano 10. rundę walki. W czacie po prawej stronie widnieje wpis opisujący zasady przebywania na planie eterycznym.
+
+
+[Dungeon Master]
+masz te chromaty korba będą ustawione były za duże i żeby nie były niestety liczba taków się nie skaluje z liczbą ich ale nie wiecie która jest prawdziwa znowu bo taką Orestesa która była prone też tam coś tam się zaświetliło i ten chyba klon który tam leży teraz ale chuj wie może robimy mind games i to dalej jest ona dalej jest prone a ona jest gdzieś 
+
+[CZAT 02:11:49] Versir (rzut): Intelligence (-1) 13 1d20 - 1 14 14 | rzuty: = 13, 1d20 - 1
+
+
+[Arevon]
+Pytanie, czy Aravel ma zrobić long resta w tym momencie. 
+
+[CZAT 02:12:48] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Versir]
+To jest prawdziwa sadystka, bawi się z jedzeniem. Możesz long resta zrobić. Healuj wszystkich. 
+
+[Arevon]
+Aravel może zrobić long resta. 
+
+[Versir]
+A masz jeszcze jakieś świadcoty przed long restem? Bo to chyba w każdym momencie możesz long resta zrobić, tak? 
+
+[Arevon]
+Tylko trzeciolewelowy. 
+
+[Versir]
+A, to garbo. 
+
+[Arevon]
+No ale co mi heal'a, więc chodzi o to, że sure mogę heal'nąć, zrobić long resta, heal'nąć Oriona albo Orestesa. Albo nawet ich obu, jak rzucę high level spawn'em. To jest to coś. Okej. Ale nie mogę heal'nąć ani Felicjana, ani Vercira, bo są na innych światach. Więc, chodzi o to, że mogę to tylko przedłużyć, żeby po prostu dostać 4 razy kosą po longrescie i umrzeć i tak dalej. Nie wiem, co mam zrobić. Nie, bo ona nie chce mnie zabić, więc... Mogła mnie zabić 4 razy. Ciebie też. Ciebie 2 razy, mnie 4 albo 5, więc... Nie, mogła cię walnąć kosą i byś nie żył. Sure. Fejtima feature. Naprawdę, fejtima feature. 
+
+[Versir]
+Musiałby się planeshifta chyba nauczyć. Klinicjantom wygrywa bitwę o metros. 
+
+[Arevon]
+Rewon robi longres to. Rewon nie ma nic innego do roboty. 
+
+[Dungeon Master]
+Wszystkie Miracle Pointy poszły. 3 minuty! 
+
+[Arevon]
+Mam, kurwa, dwadzieścia speli przygotowanych. 
+
+[Dungeon Master]
+Jezus. Ciekawe co teraz. 
+
+[Arevon]
+I co ja wam poradzę? No sorry, it happens. No właśnie, więc... I nas wszystkich. 
+
+[Versir]
+Firestormem dużo, firestormem dużo looterii zabijesz. Jest coś? 
+
+[Dungeon Master]
+O, nie ma Pitcherów jak w Felicjan. Te! 
+
+[Arevon]
+Jest lepszy siedmoboziomowy spel niż Firestorm w tym momencie. Jest, tylko, kurwa, ciebie nie ma. 
+
+[Versir]
+Nawet nie patrzyłem. 
+
+[Arevon]
+I Felicjana. 
+
+[Versir]
+Spisz Vercira na stratach. Ja już wiem, ale nie będę spojlował. 
+
+[Arevon]
+Nie będę spoilował całą za siedmolewlanego spela. Jeśli się dowie, ja go wrzucę. 
+
+[Dungeon Master]
+Te czarów 7 lvl druida? Jeśli się domyślę, że ty w końcu to zagrasz. Klasa Druid. Spell lvl 7. 
+
+[Arevon]
+Co? 
+
+[Versir]
+Oczywiście wymagam. 
+
+[Dungeon Master]
+Nie jest aż tak dużo tych czarów. 
+
+[Arevon]
+Nie, jest bardzo mało. Mówisz? Na inundation? Może. 
+
+[Dungeon Master]
+Tego Planeshifta chciałbym wziąć. To byłby najnudniejszy wybór. Ale nie, Planeshift wymaga ten, żeby mieć ten. 
+
+[Arevon]
+Nie wiem, co wziąłem. W ogóle większość z tych spojrzeć jest bezwzględna. Maga itema. 
+
+[Dungeon Master]
+Itema. 
+
+[Versir]
+To z tego spela nie działa na sejwy. 
+
+[Arevon]
+Nie, nuga. Nie, to musi być z... Nie, nie, nie. To musi być do materialnego zatrenowania. Nie, nie. Nie było takiej rzeczy, niestety. Większość z tych spojrzeć jest bezwzględna. OK. Klikam long rest. Mam przygotowaną się zespoł. Niestety nie ma żadnego spojla, który może uratować nocne Ale spierdolę. MaxHP mi został chyba, nie? Jeszcze nie. Został mi MaxHP. To nie znikam. MaxHP modifier. 
+
+[VISUAL 02:20:49] Na zrzucie ekranu widoczna jest scena wewnątrz "World of Dreams", gdzie trwa starcie z Lutherią. Na mapie znajduje się wiele tokenów przedstawiających Lutherię otoczoną aurą, a w panelu śledzenia walki wymienieni są m.in. Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Po prawej stronie widoczny jest szczegółowy opis ataku "Crystal Scythe" wraz z przeliczeniem zadanych obrażeń.
+
+
+[Arevon]
+Dobra. To ja. Ja żyję. No to już w końcu. No nic innego lepszego do zrobienia niż cure'a, no. Rzucam mask i rund z napiętem Orion dostaje 
+
+[CZAT 02:21:38] Arevon Elorrenthi: Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …
+
+
+[CZAT 02:21:50] Arevon Elorrenthi: 15
+
+
+[CZAT 02:21:53] Arevon Elorrenthi (rzut): Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 35, 5d8 + 6
+
+
+[Arevon]
+50 Oraz to jest 35 Dużo ich kurwa to jest Nie podoba mi się to Czy one wszystkie mają okazyjny? A wiem Zdaję sobie sprawę z tego Nie, nie tepie się to Wróć Tepie się to Na środku Wiem Zdaję sobie sprawę z tego Zeswój się? Ja bym chciał. 
+
+[CZAT 02:23:35] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+
+
+[CZAT 02:23:36] Arevon Elorrenthi (rzut): Constitution Save (+8) 15 1d20 + 8 7 7 | rzuty: = 15, 1d20 + 8
+
+
+[Arevon]
+Ja chyba bym się nie nauczył, żeby zrobić konsajwów. The fuck is this? Bardzo smutny damage. Oryl, masz kolejkę! 
+
+[Orion]
+fitowego, którego mam z broni i chyba zaliczę przyluterię tym, jak tak sobie 
+
+[CZAT 02:24:09] Orion Xul: Odkupienie Pythora Weapon (Longsword), Legendary (requires attunement by a Demi-God) This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your hand. Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 l…
+
+
+[Orion]
+wyczułem. To się z rogu kratki robi, czy? No to coś takiego powinno być git. 
+
+[Arevon]
+Ty się na pewno możesz jebnąć, tylko wybierz, który trzeba. Tak, tak zrobię. Moja rola jest żałosna, więc... 
+
+[Orion]
+O, dobra I co, pusto wchodzi? 
+
+[CZAT 02:24:47] Orion Xul: 37
+
+
+[Arevon]
+C16? Wszystkim wyszło. Na razie robimy taki damage, że HP rośnie o nie maleje. 
+
+[Orion]
+Czy tłusto wchodzi? 
+
+[Dungeon Master]
+wydaje ci się, że nie ma tu prawdziwej w tych trzech po rundzie Oriona 
+
+[Orion]
+Okej, dobra I jeszcze mam 
+
+[Dungeon Master]
+jedna z literii zamachnie się kosą w Oriona 36 damage'a 
+
+[CZAT 02:25:59] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Dungeon Master]
+trzy sobie odejmujesz, czyli 63 się leczy 15 Felician 
+
+[Arevon]
+O, nice, nice rob. 
+
+[Orion]
+Ostatnią reakcję Z tego contingency benda Spróbuję coś podnieść 
+
+[CZAT 02:26:22] Orion Xul: 17
+
+
+[Orion]
+17, już lepiej 
+
+[Arevon]
+Ty tak latasz, nie? A, nie, bo to się nie da latać. 
+
+[Orion]
+Okej Jaki save? 
+
+[Dungeon Master]
+a takie damage'e dostawała, tak w ogóle 
+
+[Arevon]
+Nie, nic nie dostanę. 
+
+[Dungeon Master]
+nie przebijało się nic teraz, koncentracji nie rzucała Fireball tutaj przesunę to jak pardole Jak ktoś będzie przechodził dalej, to będzie porządny damage. Pytanie, czy przechodzący damage to jest osobna każda instancja damage'u, czy to jest jeden wspólny damage? 
+
+[CZAT 02:27:35] Felicjan Janus Twardowski (rzut): Fireball Legacy • 3rd Level Evocation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a tiny ball of bat guano and sulfur) Range 150ft. Area of Effect 20ft. AoE Sh… | rzuty: = 28, 9d6, 9d6
+
+
+[Dungeon Master]
+Do koncentracji. Tak ja rzucam... Raz, dwa, trzy, cztery, pięć, sześć, siedem... Dobra, raz, dwa, trzy, siedem, dwadzieścia. Tak, clockwise od... 
+
+[CZAT 02:27:51] Lutheria, The Lady of Dreams: 52
+
+
+[Dungeon Master]
+Tutaj na północny wschód powiedzmy od Oriona. Dwóm ostatnim. Powiedzmy, że... 
+
+[CZAT 02:28:30] Lutheria: DC 14 Concentration Concentration
+
+
+[Dungeon Master]
+A, fuck, damage'y przyszły. Tak, tak, tak. 46... 16? Tak, to teraz go garnę. 
+
+[Arevon]
+Więc szesnaście powinno przejść na doderę. No tak wyszło. Z tych dwóch pierwszych, ale nie wiem czy dostaję double czy pojedynczo, więc... 
+
+[Dungeon Master]
+Pomencik, bo ta jeszcze obrywa 28... Nie, ta obrywa po połowie. Dobra. 
+
+[Arevon]
+To wyrywa czternaście. A ta za... 
+
+[Dungeon Master]
+Miskli. Dobra. I teraz... Pomencik, gdzie mój kalkulator? 
+
+[Arevon]
+Dwa więcej. To wszystkie były sztuczne? 
+
+[Dungeon Master]
+Może tam jedna koncentracja, bez przesady. Chyba. 
+
+[Arevon]
+Ja pierdolę. 
+
+[CZAT 02:30:05] Lutheria: DC 12 Concentration Concentration
+
+
+[Arevon]
+Ile instancji damage'u dostała, no? Trzy znikły, więc teoretycznie... Trzy? Nie wiem, to jest ten sam fireball, więc... To jest ten sam fireball. Okej, jeśli jest milisekundowe opóźnienie, to 20-10. 
+
+[VISUAL 02:30:53] Na ekranie widać sesję prowadzoną w Foundry VTT, gdzie trwa walka z Lutherią, Panią Snów. Na mapie widoczne są liczne tokeny postaci, w tym Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski. Obok panelu z statystykami Lutherii znajduje się moduł „Encounter Tracker”, który pokazuje aktualną rundę starcia oraz listę uczestników.
+
+
+[Arevon]
+To nie ma sensu rzucać. W końcu ktoś umrze! 
+
+[CZAT 02:31:03] Felicjan Janus Twardowski: 9
+
+
+[Arevon]
+15 fitów reach'em. Tak? Nie. To chyba nie ma. To nie ma, tyle na 20. Dwie mają 20. Obie mają 20. Bo kosa wyrwą. 
+
+[CZAT 02:31:45] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Arevon]
+Rzucam shielda. Może się mogę stepić 15 fitów, proszę przesunąć. Wait. 
+
+[CZAT 02:32:07] Lutheria: Applied conditions: &Reference[prone]
+
+
+[Arevon]
+Ja zapomniałem o czymś. Jestem retardą. Feature. A, okej. Nie ma feature. To jest magical, zakładam. To jest magical slashing na pewno, więc nic nie mówiłem. Przepraszam. Kontynuuję. 
+
+[CZAT 02:32:45] Lutheria (rzut): Synaptic Static (M) Enchantment You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence sa…
+
+
+[Arevon]
+To nie jest concentration? Specialist of psych broken? Ja pierdolę, ale to nie jest psych broken. To jest specjalist końców. O, jebany. O kurwa. 
+
+[CZAT 02:33:27] Arevon Elorrenthi (rzut): Intelligence Save (+4) 21 1d20 + 4 17 17 | rzuty: = 21, 1d20 + 4
+
+
+[Arevon]
+One fucking time. 
+
+[CZAT 02:33:34] Arevon Elorrenthi: 2
+
+
+[Arevon]
+Yes! Great fucking success. 
+
+[CZAT 02:33:47] Orestes (rzut): Intelligence Save (-1) 0 1d20 - 1 1d20 1 | rzuty: = 0, 1d20 - 1, 1d20
+
+
+[CZAT 02:33:51] Orion Xul (rzut): Intelligence Save (+1) 12 1d20 + 1 1d20 11 21 1d20 + 1 1d20 20 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+
+
+[CZAT 02:34:06] Orion Xul: 4
+
+
+[Dungeon Master]
+Damage, to będzie połowa damage'a? Tak, połowa damage'a. 30 psychic damage'u, jak wyszło to połowa, czyli Orion i Arevon połowa. A Orestes 30 cały. I Orestes, przez najbliższą minutę twoje myśli są takie zamglone. I dorzucasz D6 do swoich ataków i ability checków. I koncentrację ty nie robisz. I odejmujesz D6 od wyniku. 
+
+[CZAT 02:35:06] Orestes: Applied conditions: &Reference[diseased]
+
+
+[Arevon]
+Chciałeś najpierw czepnąć akcent? 
+
+[Orestes]
+ale na razie zróbmy swoją rundę ja chciałem nią zszarżować 
+
+[Arevon]
+O, sure. Rozumiem. 
+
+[Orestes]
+no jest tutaj chyba wystarczająco w odległości więc lecimy z szarżowankiem 20 fitów to się zgadza bo to jest minimum i to będzie to i jeszcze D6 
+
+[CZAT 02:36:34] Dire Bullgoat (rzut): Charge Charge. If the bullgoat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 9 ( 2d8 2d8 ) piercing damage. If the tar… | rzuty: = 6, 2d8
+
+
+[Orestes]
+nie dobrze rzuciłem bo i tak 
+
+[Arevon]
+Musisz iść private, bo to jest creature. Musisz wejść w ustawienia i dać, żeby never private. A tak z adblocka, no. 
+
+[CZAT 02:37:17] Dire Bullgoat (rzut): Ram Ram. Melee Weapon Attack: +6 1d20+6 to hit, reach 5 ft., one target. Hit: 13 ( 2d8 + 4 2d8 + 4 ) bludgeoning damage. 8 1d20 + 6 2 2 Bludgeoning Damage: 15 2d8 + 4 5 6 11 | rzuty: 1d20 + 6 = 15, 2d8 + 4
+
+
+[Arevon]
+Tak, zapytania. Teraz się nie mogę filmować. 
+
+[CZAT 02:37:54] Dire Bullgoat (rzut): Hooves Hooves. Melee Weapon Attack: +6 1d20+6 to hit, reach 5 ft., one target. Hit: 9 ( 2d4 + 4 2d4 + 4 ) bludgeoning damage. 16 1d20 + 6 10 10 Bludgeoning Damage: 12 2d4 + 4 4 4 8 | rzuty: 1d20 + 6 = 12, 2d4 + 4
+
+
+[Arevon]
+Opcja jest na twojej własnej karcie postaci. Wydaje mi się. No. Ale nie wiem, gdzie to jest. A, jest! Tak. Klikniesz Beyond Pointed Butt na swojej karcie postaci, masz more options potem. Klikasz more options i tam jest druga opcja. Mówiłem ci, to już czwartą rundę tak robię. No bez przesady, Fireballa dostała trochę. 
+
+[CZAT 02:39:13] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Arevon]
+To walka z żołądźmi. Ja pierdolę. To nie Whisper Rolls to the DM, Whisper Monster Rolls to the DM. I use general Whisper setting, to jest najlepsza opcja. A planami co wejścia na Short Resto już zaczynam. 
+
+[Dungeon Master]
+Wersir. Wersir chodzi w labiryncie. 
+
+[Versir]
+Vercir chodzi po labiryncie i zdaje sobie sprawę, że tej zagadki nie rozwiąże. 
+
+[Dungeon Master]
+Nie. 
+
+[VISUAL 02:40:57] Na mapie zatytułowanej „World of Dreams” trwa walka, w której bierze udział Lutheria, Pani Snów, wraz z kilkoma postaciami, w tym Orestesem, Versirem, Arevonem Elorrenthi, Orionem Xul i Felicjanem Janusem Twardowskim. Po prawej stronie panelu widoczne są szczegóły mechaniczne ataku „Crystal Scythe”, wykonanego przez Lutherię. Pole bitwy to kosmicznie wyglądająca przestrzeń z fioletową siatką pod postaciami.
+
+
+[Versir]
+Ja uznaję, że Wersi słyszy cały czas tą swoją piosenkę na repeat'cie, będąc na wirięcie, więc po tym fragmencie piosenki, ona jest na samym końcu piosenki Wersira, to jest. 
+
+[Dungeon Master]
+No. 
+
+[CZAT 02:41:12] Versir: ...Wiesz, czego w tobie nie znoszę najbardziej, siostrzeńcu? Że miałeś rację.
+
+
+[Versir]
+Wersira mówi, wiesz, w powietrze, mając nadzieję, że Luteria tutaj też słyszy i odpowiada na ten fragment piosenki. To nie dlatego mnie nienawidzisz. Nienawidzisz mnie, bo wypowiedziałem na głos to, przed czym uciekałaś przez całą wieczność. I potem na koniec piosenki, na kolejny akapit piosenki. Nie boję się spotkać z matką. Tata, ty od tysięcy lat boisz się samotności. I kończę swoją rundę w tym momencie. 
+
+[Arevon]
+Co to jest? 
+
+[Versir]
+To da wam teoretycznie czas, żeby przechillować. 
+
+[Dungeon Master]
+Różna Intimidation. 
+
+[CZAT 02:42:03] Versir (rzut): Intimidation (+11) 17 1d20 + 11 6 6 | rzuty: = 17, 1d20 + 11
+
+
+[Dungeon Master]
+Ona rzuca na koncentrację z DC-17. Easy. Nie rozproszyłeś. Teraz się za dobrze bawi, żeby się dać rozproszyć. Czekaj, nie. Użyła jedną dawno akcję dopiero. Eee... 
+
+[Arevon]
+Jak jest DC? Milion tak jak zawsze? 
+
+[CZAT 02:42:53] Lutheria: Distortion Feature Lutheria attempts to warp space within the World of Dreams. Every creature of her choice within 120 feet of her must make a Wisdom saving throw. On a failed save, a creature takes 10 (3d6) psychic damage and is transported to another location of her choice within 120 feet of her. DC 23 Wisdom Saving Throw Wisdom Saving Throw Consume Resource Refund Resource 2 mythic actions Ins…
+
+
+[CZAT 02:43:06] Arevon Elorrenthi (rzut): Wisdom Save (+11) 27 1d20 + 11 16 16 | rzuty: = 27, 1d20 + 11
+
+
+[CZAT 02:43:14] Felicjan Janus Twardowski (rzut): Wisdom Save (+6) 10 1d20 + 6 1d20 4 15 1d20 + 6 1d20 9 | rzuty: 1d20 + 6, 1d20, 1d20 + 6, 1d20
+
+
+[CZAT 02:43:14] Orestes (rzut): Wisdom Save (-1) 2 1d20 - 1 1d20 3 | rzuty: = 2, 1d20 - 1, 1d20
+
+
+[CZAT 02:43:16] Orion Xul (rzut): Wisdom Save (+2) 8 1d20 + 2 1d20 6 16 1d20 + 2 1d20 14 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[Arevon]
+Nie mówię, bo przecież basta chyba. Czekaj, to jest tuż przed moją rundą! To ja na pewno 
+
+[Orion]
+I ten bless nic nie da do szesnastki 
+
+[Arevon]
+użyłbym, żeby dać Orionowi bonus? Eee, ten nie jest. Ma 120 featów. Nie, bez nic innego. 
+
+[Orion]
+no zastanówmy się 
+
+[Arevon]
+Nie wiem. Chociaż czekaj, ten feature 
+
+[CZAT 02:43:49] Felicjan Janus Twardowski: 6
+
+
+[Arevon]
+jest useless, to ja go nie będę użył. 
+
+[Dungeon Master]
+Fjord, tak zaznaczonego 
+
+[Arevon]
+Czekaj, czekaj, czekaj. Ja bym lubił ten feature, bo on jest useless, więc... Jeden. 
+
+[CZAT 02:43:57] Arevon Elorrenthi (rzut): Cosmic Omen (d6) 1 1d6 1 1 | rzuty: = 1, 1d6
+
+
+[Dungeon Master]
+Cię miałem. 
+
+[Arevon]
+Ci nie pomoże ten feature. 2. Czemu 2? No nie 5. Ale teraz jest 6, nie? No to łącznie 5 jest, a nie 2. 
+
+[Dungeon Master]
+Tak. Restore. Pięć, bo jeden dostał bólkot i pięć przeszło. I potem ona 
+
+[Arevon]
+A ty rzuciłeś save'a w ogóle? 2, no to tak... no to zdecydowanie przestresujesz. 
+
+[Orestes]
+Tak, tak, tak. Już sobie dałem poprawnie. 
+
+[Arevon]
+Czemu nie mam tego jebanego Tuning Forka? Jakbym miał Tuning Forka, to by nas tu nie było, ale nie wiem. Niestety nie mam. 
+
+[Dungeon Master]
+was teleportuje też w zasięgu ile? 
+
+[Orestes]
+Jeśli ją zabijesz, przy tym wyciągam potka. 
+
+[Dungeon Master]
+Co właśnie, gdziekolwiek chce. Arawant, teraz ty. I będzie po wszystkim. 
+
+[Arevon]
+Ale zresztą się zbólowali. Mogę nas wszystkich zabić jednym spolem. Z pewnością. Rzucić wall of force na nas? Czy do tego doszło, żebym rzucił wall of force na nas? No bo... 
+
+[Versir]
+Znajdziesz pasywnik. 
+
+[Arevon]
+Ona nie może się wtepić do mojego wall of force, jak zrobię takie malutkie, ona się nie zmieści. 
+
+[Versir]
+Ona zmieniała formę jak rękawiczki. 
+
+[Arevon]
+No, dezintegracja musi mieć. Nie wiem. 
+
+[Versir]
+Tak. 
+
+[Arevon]
+Ale teleporty działają, że... Unoccupied space frequency chyba, nie? Okej. 
+
+[Versir]
+Ja wiem co... 
+
+[Arevon]
+Robię wall of force takie. 
+
+[Dungeon Master]
+What the fuck? Przytylacie się? 
+
+[Arevon]
+Przytulamy się. Nie no, trochę większy, przesadzam. To jest troszeczkę większy. Taki w połowie między, czekaj, siedź. O. O. O taki. Taki, żeby nie było Anu kupać space'a z nim. Nie jestem z polu. 
+
+[Dungeon Master]
+Fjord? One of force. Kip? 
+
+[Arevon]
+Pięć czerżych. 
+
+[CZAT 02:46:56] Arevon Elorrenthi: Wall of Force 5th Level Evocation Casting Time 1 action Duration up to 10 minutes Components V, S, M(a shard of glass) Range 120ft. Concentration Requires Concentration An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a soli…
+
+
+[Arevon]
+To kończy moją rundę. 
+
+[Versir]
+Ja wiem co Ola powinna zrobić. Powinna... powinna zrobić koncentrację i zająć perfira na bazy kodów. 
+
+[Arevon]
+Co? Zabić wersjerę. By the way, to podłoga też jest więc. Jak ona rzuci swój ogień, to nas nie spali. 
+
+[Orion]
+ta po prawej to duszek tak potion of 
+
+[Arevon]
+Ty nie możesz bić. 
+
+[Versir]
+Możesz tylko pod jony być. 
+
+[Arevon]
+To jest moment na żłopanie po tyłach. To jest dobry po tyłach. 
+
+[Orion]
+healing suprema nie mam zaznaczonego charge'a więc wydaje mi się że go nie piję ok no to napiję się tego potka 
+
+[CZAT 02:48:35] Orion Xul: 47
+
+
+[Versir]
+To jest dobry roll. 
+
+[Arevon]
+No, abrycz. Bardzo abrycz. 250 jest średnio. 
+
+[Orion]
+i tyle tak, bo akcją nic nie mogę zrobić tak zrobię 
+
+[Arevon]
+Możesz zrobić ready action, 
+
+[Orion]
+ta to jeszcze tylko 
+
+[CZAT 02:50:00] Felicjan Janus Twardowski: Potion of Healing (Greater) (1) Potion, Uncommon You regain 4d4 + 4 4d4 + 4 Hit Points when you drink this potion. Whatever its potency, the potion’s red liquid glimmers when agitated.
+
+
+[CZAT 02:50:02] Felicjan Janus Twardowski (rzut): Potion of Healing (Greater) (1) 12 4d4 + 4 1 3 1 3 8 | rzuty: = 12, 4d4 + 4
+
+
+[VISUAL 02:51:02] Mapa przedstawia surrealistyczną lokację o nazwie World of Dreams, w której trwa walka z Lutherią. Na polu bitwy widoczne są tokeny postaci: Arevon Elorrenthi, Versir, Orestes, Orion Xul oraz Felicjan Janus Twardowski, które otaczają Lutherię pośród fioletowych wyładowań energii. W oknie po prawej stronie widoczny jest szczegółowy opis czaru (Wall of Force), który jest aktualnie aktywny w sesji.
+
+
+[Versir]
+A ty dostajesz połowę killa. 
+
+[CZAT 02:52:02] Felicjan Janus Twardowski: Blink Legacy • 3rd Level Transmutation (Cast at 3rd Level) Casting Time 1 action Duration 1 minute Components V, S Range Self Roll a d20 d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the …
+
+
+[CZAT 02:52:08] Felicjan Janus Twardowski: 9
+
+
+[CZAT 02:52:15] Lutheria: Applied conditions: &Reference[prone]
+
+
+[Versir]
+To nice. To nice. 
+
+[CZAT 02:52:54] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[CZAT 02:53:08] Versir: DC 12 Concentration Concentration
+
+
+[Arevon]
+Zgadza się. 
+
+[CZAT 02:53:17] Orestes: Applied conditions: &Reference[diseased]
+
+
+[Orestes]
+Walę shotka. A, chwilę, zrobimy display. 4d4 plus 4, tak. 
+
+[CZAT 02:53:46] Orestes: Potion of Healing (Greater) (2) Potion, Uncommon You regain 4d4 + 4 4d4 + 4 Hit Points when you drink this potion. Whatever its potency, the potion’s red liquid glimmers when agitated.
+
+
+[Orestes]
+4d4 plus 4 i sobie zmniejszam ile? Jeszcze jeden? 
+
+[CZAT 02:53:57] Orestes: 11
+
+
+[Arevon]
+Kurwa! 
+
+[Orestes]
+Nie wiem. 11 się leczy. 
+
+[Arevon]
+Dalej znaki zapytania są. Nie? Nie? Nie są? What? Dufek? Na kostkach mam znaki zapytania, ale na czasie jest dobrze. What the fuck. MyFoundry jest jebany. Nie, myFoundry jest jebany. 
+
+[Orestes]
+No i robię ready action. A tak. Kończę. 
+
+[Arevon]
+Więcej klonów. Dwanaście klonów, wszystko. 
+
+[CZAT 02:55:00] Lutheria, The Lady of Dreams: 4
+
+
+[Dungeon Master]
+Niech to pozabija Felicjan po tym, jak się... 
+
+[Arevon]
+Ja pierdolu. 
+
+[Dungeon Master]
+Gdzie on? Te ma full HPK jeszcze. Wszystkie się tam pojawiają. Chromaty, karpacz się prosi chyba. I nie ma tego obszaru pod spodem. 
+
+[Arevon]
+Kto jakoś się prosi. Chyba w wersji rzucę do sejwa. 
+
+[Dungeon Master]
+Wersja Redef Saving Throw. 
+
+[CZAT 02:55:34] Versir: 7
+
+
+[Dungeon Master]
+Pierwszy fail. 
+
+[Arevon]
+Znak zapytania będzie, więc... 
+
+[Dungeon Master]
+Teraz jest tak, teraz cash wyrzuca. 
+
+[Versir]
+To było tylko do ciebie. 
+
+[Dungeon Master]
+A! To sprzedałem cię. 
+
+[Arevon]
+Znaczy ja i tak dropię i healuję, więc to była 100% odpoczynka taka opcja, więc... 
+
+[Dungeon Master]
+Ale jeszcze ma legendarną akcję, luteria najpierw. 
+
+[Versir]
+Dobie. 
+
+[Dungeon Master]
+Nie należy, bo... Bo ona nie można skrytować. 
+
+[Arevon]
+I kostuje maski rund na wszystkich tym razem. W końcu nikt nie zniknął. I to jest szósta levelowa maski rund. 
+
+[CZAT 02:57:28] Arevon Elorrenthi: Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …
+
+
+[CZAT 02:57:38] Arevon Elorrenthi: 19
+
+
+[Arevon]
+To jest wersja R? Nie, D4 z każdego, przepraszam. Eee, przepraszam. Ja pierdolę, nie wolę. 
+
+[CZAT 02:57:48] Arevon Elorrenthi (rzut): Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 23, 5d8 + 6
+
+
+[Arevon]
+A, bo to rzuciło... Ile kostek rzuciło? Bo to miało być... Szósta levelowa. Przecież... no to... To jest za mało. Więc wszyscy dostają heal'a za 33, a wersji Rieszy za 17. 
+
+[CZAT 02:58:04] Arevon Elorrenthi: 8
+
+
+[Arevon]
+A bonus akcja? Kto robi bonus akcja? Banić nie robi bonus akcja? Sure, wyżłoby hitpotem. Like a boss. 
+
+[CZAT 02:58:52] Arevon Elorrenthi (rzut): Potion of Healing (2d4 + 2) 7 2d4 + 2 3 2 5 | rzuty: = 7, 2d4 + 2
+
+
+[Arevon]
+I Orion masz by the way atak w tej swojej rundzie, bo przed swoją rundą jeszcze masz reakcję, żeby jebnąć. Orion najpierw wali. Orion wali dopiero potem jak gloob zniknął. 
+
+[CZAT 02:59:23] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 21, 1d20 + 12, 1d20
+
+
+[CZAT 02:59:29] Orion Xul: 4
+
+
+[Orestes]
+Shadow wall of force? A tutaj też miałem ready action. Z łuku. 
+
+[CZAT 02:59:36] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 14 + 7
+
+
+[Orestes]
+Która jest teraz najbliższa? Ta. No dobra. No to lecę. 
+
+[CZAT 03:00:08] Lutheria: DC 10 Concentration Concentration
+
+
+[Orestes]
+Tutaj już Rekklesa nie mogę przy ready action użyć. Nie, dobra. No to straight roll. No tak. Racja, racja. 
+
+[CZAT 03:00:18] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 15 1d20 + 12 1d20 3 Piercing Damage: 8 1d8 + 7 1d8 1 | rzuty: 1d20 + 12, 1d20 = 8, 1d8 + 7, 1d8
+
+
+[CZAT 03:00:34] Lutheria: Fear (M) Illusion You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become Frightened for the duration. While Frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If …
+
+
+[CZAT 03:00:47] Arevon Elorrenthi (rzut): Wisdom Save (+11) 13 1d20 + 11 2 2 28 1d20 + 11 17 17 | rzuty: 1d20 + 11, 1d20 + 11
+
+
+[CZAT 03:00:49] Versir (rzut): Wisdom Save (+10) 30 1d20 + 10 20 20 25 1d20 + 10 15 15 | rzuty: 1d20 + 10, 1d20 + 10
+
+
+[CZAT 03:00:56] Orion Xul (rzut): Wisdom Save (+2) 14 1d20 + 2 1d20 12 16 1d20 + 2 1d20 14 | rzuty: 1d20 + 2, 1d20, 1d20 + 2, 1d20
+
+
+[CZAT 03:01:01] Orion Xul: 4
+
+
+[CZAT 03:01:03] Felicjan Janus Twardowski (rzut): Wisdom Save (+6) 15 1d20 + 6 1d20 9 | rzuty: = 15, 1d20 + 6, 1d20
+
+
+[VISUAL 03:01:06] Na ekranie widać walkę z Lutherią, której karta postaci z zestawem zaklęć jest otwarta w lewej części interfejsu. Na mapie widoczne są cztery portrety/tokeny Lutherii, w tym jeden oznaczony jako „kentos”. Po prawej stronie panel śledzenia starcia potwierdza obecność Lutherii, Orestesa, Versira, Arevona Elorrenthiego, Oriona Xula oraz Felicjana Janusa Twardowskiego w 12. rundzie walki.
+
+
+[CZAT 03:01:15] Felicjan Janus Twardowski (rzut): Wisdom Save (+6) 26 1d20 + 6 1d20 20 | rzuty: = 26, 1d20 + 6, 1d20
+
+
+[Arevon]
+Eee... Wszyscy syroli. Wszyscy dostałem. 
+
+[Orion]
+i zatańczuję 
+
+[CZAT 03:01:42] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20
+
+
+[CZAT 03:01:46] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 24 16 + 8
+
+
+[Orion]
+ducha czy nie ducha a no a myślałem, że to ta właśnie którą strzelałem tutaj koło versira dostawała 5 dmg 
+
+[Arevon]
+Nie, nie traktuję. 
+
+[Orion]
+czyli tylko mają patrzące 
+
+[CZAT 03:02:48] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 28, 1d20 + 12, 1d20
+
+
+[CZAT 03:02:51] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 10 + 8
+
+
+[Orion]
+przerzucam tą kciankę 
+
+[CZAT 03:02:56] Orion Xul: 2
+
+
+[Arevon]
+Znaczy, oryginalna dostała połowę. Połowę. Poprzednia dostała połowę. Ona nie chce nas zabić z jakiegoś powodu. 
+
+[Orion]
+ile zrobiłem tutaj ruchu na razie kurde nie widzę tego a z 15 zrobiłem 
+
+[Arevon]
+Mogła nas zabić dawno. 
+
+[Orion]
+i ona ma 15 reacha tak? a faktycznie oczywiście 
+
+[Arevon]
+Ale takie już obejrzone, się nie mogą chytnąć, no. 
+
+[Orion]
+zachowałbym 
+
+[Arevon]
+Te pozostałe się mogą. Pierdolę sobie. 
+
+[Orion]
+40 
+
+[CZAT 03:04:06] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 25, 1d20 + 12, 1d20
+
+
+[CZAT 03:04:08] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 11 + 7
+
+
+[Arevon]
+Zamyklony. Ale to w którego? 
+
+[CZAT 03:04:32] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 32, 1d20 + 12, 1d20
+
+
+[CZAT 03:04:35] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 10, 1d4 + 9, 1d4
+
+
+[Arevon]
+W którego? W siebie. I 4d6 jeszcze, no? To jak długo przejdzie? 
+
+[CZAT 03:05:00] Orion Xul: 10
+
+
+[Arevon]
+Dwunastu. Siedemnaście. 
+
+[CZAT 03:05:15] Lutheria: DC 10 Concentration Concentration
+
+
+[Arevon]
+Który? Concentration. 
+
+[CZAT 03:05:42] Lutheria: Blight Necromancy Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs. If you target a plant creature or a magical plant, it …
+
+
+[Arevon]
+Nie, to jest Concentration. Con... Concentration. Serio nie umiecie blight'a wrzucać. Jeszcze nie rzuciła ani razu powieści średniej. 
+
+[CZAT 03:05:50] Felicjan Janus Twardowski (rzut): Constitution Save (+8) 20 1d20 + 8 1d20 12 12 1d20 + 8 1d20 4 | rzuty: 1d20 + 8, 1d20, 1d20 + 8, 1d20
+
+
+[Arevon]
+No, do twóreczka, do czwóreczka. 
+
+[CZAT 03:06:00] Felicjan Janus Twardowski: 4
+
+
+[Arevon]
+Ła! Jebany. W sensie? Nie wiem, pojdzie ten sworek lubię. Wszystkie załapiasz? 
+
+[CZAT 03:06:56] Felicjan Janus Twardowski (rzut): Dawn 5th Level Evocation Casting Time 1 action Duration up to 1 minute Components V, S, M(a sunburst pendant worth at least 100 gp) Range 60ft. Area of Effect 30ft. AoE Shape Cylinder Concentration R… | rzuty: = 23, 4d10, 4d10
+
+
+[Arevon]
+Nie no, Concentration ma plus dziesięć tego. Jak sam plus pięć. Skąd to nie w samym rynku będzie? Tak, tak, może na skończ. Dwa? Czemu tu się coś pojawiało? 
+
+[CZAT 03:08:06] karpiq: 76
+
+
+[Arevon]
+Po dziesięciu. 
+
+[CZAT 03:08:33] Lutheria: DC 10 Concentration Concentration
+
+
+[Arevon]
+Po jedenaście przechodził. 
+
+[CZAT 03:08:43] Lutheria: DC 10 Concentration Concentration
+
+
+[Arevon]
+Ten znikł, bo wyszło. Ta, co ma dziewiętnaście, zniknęła, bo miała dziewiętnaście, więc... No tak, ta też zniknęła. Może zrobić doradę. 
+
+[CZAT 03:09:11] Lutheria: DC 10 Concentration Concentration
+
+
+[CZAT 03:09:23] Lutheria: DC 10 Concentration Concentration
+
+
+[Dungeon Master]
+nie jest na skrzyżowaniu kwiatek 
+
+[Arevon]
+Nie chcę jeszcze, ale... 
+
+[Dungeon Master]
+w tym momencie, więc zgaduję, że to byłoby tak pewnie albo tak zgaduję, że tak, żeby łatwiej uciec i on się koncentruje 
+
+[Arevon]
+Tak, tak, naprawdę tak. 
+
+[Dungeon Master]
+na czymś teraz? Nie nie wszedł 
+
+[Arevon]
+I... 
+
+[CZAT 03:10:07] Felicjan Janus Twardowski: 14
+
+
+[Arevon]
+Felicjen zniknęł. 
+
+[Dungeon Master]
+no okej i też se wyjdzie z tego w sumie, bo to jest kiedy na końcu runy tak dostaje, jeśli zostanie 
+
+[Arevon]
+Wygadza się? 
+
+[Dungeon Master]
+to też wyjdzie po prostu arenor pokazyjny 
+
+[Arevon]
+Wygadza się. 
+
+[CZAT 03:10:57] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 17, 1d20 + 12, 1d20
+
+
+[CZAT 03:11:02] Orion Xul: 2
+
+
+[VISUAL 03:11:10] Zrzut ekranu przedstawia otwarte okno karty postaci Lutherii w wirtualnym stole, nakładające się na mapę starcia. Na mapie widoczne są tokeny postaci, w tym Orestesa oraz Versira, umieszczone w przestrzeni z oznaczonymi polami walki. Po prawej stronie panelu wyświetlany jest tracker spotkania, wskazujący 13. rundę walki oraz ostatnie akcje, w tym użycie przedmiotu Odkupienie Pythora.
+
+
+[CZAT 03:11:28] Lutheria (rzut): Synaptic Static (M) Enchantment You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence sa…
+
+
+[CZAT 03:11:32] Versir (rzut): Intelligence Save (+5) 11 1d20 + 5 6 6 | rzuty: = 11, 1d20 + 5
+
+
+[CZAT 03:11:45] Orestes (rzut): Intelligence Save (-1) 7 1d20 - 1 1d20 8 | rzuty: = 7, 1d20 - 1, 1d20
+
+
+[CZAT 03:11:46] Orion Xul (rzut): Intelligence Save (+1) 9 1d20 + 1 1d20 8 13 1d20 + 1 1d20 12 | rzuty: 1d20 + 1, 1d20, 1d20 + 1, 1d20
+
+
+[CZAT 03:11:46] Arevon Elorrenthi (rzut): Intelligence Save (+4) 9 1d20 + 4 5 5 | rzuty: = 9, 1d20 + 4
+
+
+[Arevon]
+Adamowi może wyjść. Już sześć. 
+
+[CZAT 03:12:05] Orion Xul: 4
+
+
+[Arevon]
+A, wyszło. A na niego to jest najważniejsze, bo to mu zjada atak rola. Już miałeś minutę. Nie, repeat save na końcu tury. Tak, 
+
+[CZAT 03:12:42] Orestes: Applied conditions: &Reference[diseased]
+
+
+[Arevon]
+że to jest prawdziwe. Wyjść. Wyjść z gówna i oczopować. Zabiło kurwa. Rekkles? 
+
+[CZAT 03:13:16] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 28 20 + 8
+
+
+[Arevon]
+Ja nie mam. Oni też. 
+
+[CZAT 03:13:23] Orestes: 11
+
+
+[Arevon]
+Plus 13 to jest 24, odejmij sobie D6. Pytanie czy on ma blessa, bo on umarł. Nie ma statusu teoretycznego sobie. Na pewno D6 odejmujesz. Jak wrzucisz 1 to nie ma znaczenia. Wrzuciliście 2, więc tak chyba trafisz. 22 cegla chyba i tak trafią. 
+
+[CZAT 03:14:01] Orestes: 2
+
+
+[Arevon]
+Rony. D23. To pytanie czy ma blessa czy nie teraz. Horn of Balmetria więc. Jak ma blessa to trafia. Jakowska dalej jest znakiem zapytania, what the fuck. 
+
+[CZAT 03:14:22] Orestes: 3
+
+
+[CZAT 03:14:29] Lutheria: DC 15 Concentration Concentration
+
+
+[CZAT 03:14:45] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 21 15 + 6
+
+
+[CZAT 03:15:00] Orestes: -2
+
+
+[CZAT 03:15:24] Orestes (rzut): Athletics (+11) 25 1d20 + 11 1d20 14 | rzuty: = 25, 1d20 + 11, 1d20
+
+
+[CZAT 03:15:28] Orestes: 1
+
+
+[CZAT 03:15:42] Orestes (rzut): Intelligence Save (-1) 7 1d20 - 1 1d20 8 | rzuty: = 7, 1d20 - 1, 1d20
+
+
+[Versir]
+Lair action. Albo, albo ten, lair akcja. 
+
+[Arevon]
+Dla Raxxon. Zgadłeś. 
+
+[Versir]
+Jaki damage. 
+
+[CZAT 03:16:23] Versir: Applied conditions: &Reference[prone] &Reference[cursed]
+
+
+[Arevon]
+Skippowałeś. 
+
+[CZAT 03:16:33] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Arevon]
+Au. 43. 
+
+[Versir]
+33. Tu się 21. 
+
+[Dungeon Master]
+Wersjer musiał Titan's Bane'em w końcu bić 
+
+[Versir]
+Tu się nie umiera, tu się tylko śni. 
+
+[Dungeon Master]
+i się przestała heal'ować. Tego jeszcze nie robiła. 
+
+[Arevon]
+Ja sobie spell'a przygotuję. 
+
+[Versir]
+O, więcej. Tylko spiked growtha brakuje. 
+
+[Arevon]
+Mówię skill'y, tak? No muszę go chwilę mieć. 
+
+[Dungeon Master]
+Czekaj, tego to już tu nie ma chyba. Nie wiem, z tego? 
+
+[Arevon]
+Ja nic nie robię w tej chwili, tylko chwilę je zrobię. Wyżywam z posadą, a ona z posadą, a ona z posadzie. 
+
+[Dungeon Master]
+A, to było światło, czekaj. Co ona robiła? O, ostatnio robiła te. Sumony, nie? W sensie klony swoje. 
+
+[Arevon]
+One robię ostatnio. 
+
+[Dungeon Master]
+Dobra, to czas na strefę może. Czego to jeszcze? Tego nie było jeszcze. Pojawia się więcej obszarówek. 
+
+[CZAT 03:17:57] Versir: Applied conditions: &Reference[prone] &Reference[cursed]
+
+
+[Arevon]
+Matwa, co jest? 
+
+[CZAT 03:18:05] Versir (rzut): Strength Save (+9) 27 1d20 + 9 18 18 | rzuty: = 27, 1d20 + 9
+
+
+[Versir]
+Ja wstaję. I mam 15 litów momenta. Więc nie wyjdę z tego. 
+
+[Arevon]
+Wyjdziesz. 
+
+[Versir]
+Nie? 
+
+[Arevon]
+Chyba? 
+
+[Versir]
+Nie wyjdę. 
+
+[Arevon]
+Yyy. 
+
+[Versir]
+Nie, możesz to przesunąć potem. 
+
+[Arevon]
+Kurwa. Rzeczywiście. Nie wyjdziesz. Masz czopnąć klona. Jeszcze musisz trafić, gdy mi jest do szóstą. 
+
+[Versir]
+Ja mam resista na raid and damage. Mam nadzieję, że trample damage wchodzi w oryginał i blokuje heal'a. Ten drugi atak jest 21. 
+
+[CZAT 03:18:58] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 14, 1d20 + 11
+
+
+[Arevon]
+Hmm... 
+
+[CZAT 03:19:00] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 26, 1d20 + 11
+
+
+[CZAT 03:19:05] Versir: 2
+
+
+[CZAT 03:19:07] Versir: 5
+
+
+[Arevon]
+To finish. Klon ma 20 ACK. 
+
+[Versir]
+To damage jakiś. 
+
+[Arevon]
+Klon ma 20 ACK i to masz w lesu. Nie. Dwa ACK. 
+
+[Versir]
+Potem robił int save'a i con save'a na down'a? 
+
+[CZAT 03:19:24] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 22 9 + 13
+
+
+[Arevon]
+Tak jak konserwuj. 
+
+[CZAT 03:19:42] Lutheria: DC 10 Concentration Concentration
+
+
+[CZAT 03:19:44] Versir (rzut): Intelligence Save (+5) 14 1d20 + 5 9 9 | rzuty: = 14, 1d20 + 5
+
+
+[Versir]
+Na dawno? Na dawno? Nie na dawno. Dostaję nawet ćwiartkę. 
+
+[Arevon]
+26D, nie jest takie tragiczne. 
+
+[CZAT 03:19:50] Versir (rzut): Constitution Save (+14) 30 1d20 + 14 16 16 | rzuty: = 30, 1d20 + 14
+
+
+[Versir]
+A teraz porządny rol, bardzo ładnie. 
+
+[CZAT 03:20:02] Felicjan Janus Twardowski (rzut): Dawn (4d10) 26 4d10 4d10 9 9 1 7 | rzuty: = 26, 4d10, 4d10
+
+
+[Versir]
+26-13, czyli ja dostaję 6 demensji. 
+
+[Arevon]
+26D masz w lesie. 
+
+[Versir]
+Ja mam 15, czy więcej? 
+
+[CZAT 03:20:18] Arevon Elorrenthi: Applied conditions: &Reference[diseased]
+
+
+[Arevon]
+Kierdolę, musiałeś ulgać się z tą stroną. 
+
+[CZAT 03:20:28] Arevon Elorrenthi (rzut): Strength Save (-1) 7 1d20 - 1 8 8 | rzuty: = 7, 1d20 - 1
+
+
+[Arevon]
+Mi nie może wyjść chyba, więc... Było dobrze. Nie mogę chylnąć i ciebie i Orestesa, bo żeście kurwa aktualnie doszli za daleko ciebie. 
+
+[CZAT 03:20:45] ?: 7
+
+
+[Versir]
+Tak. 
+
+[VISUAL 03:21:14] Na mapie przedstawiającej lokację World of Dreams trwa walka z Lutherią. W starciu biorą udział postacie graczy, w tym Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski, Versir oraz Orestes. Po lewej stronie widoczne jest szczegółowe okno statystyk Lutherii, natomiast po prawej stronie ekranu znajduje się tracker spotkania z listą inicjatywy oraz dziennik ostatnich rzutów kośćmi.
+
+
+[Arevon]
+Ja upajsow tragicznie, więc... 
+
+[Versir]
+Ale czarę stresa. Ale tak. 
+
+[Arevon]
+Wy po prostu robicie wszystko co się da, żeby was nie wychylować w tym fecie. Orestes zostaje 30. 
+
+[CZAT 03:21:55] Arevon Elorrenthi: Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…
+
+
+[Versir]
+Ten zielony. 
+
+[CZAT 03:22:01] Arevon Elorrenthi: 1
+
+
+[CZAT 03:22:03] Arevon Elorrenthi (rzut): Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 29, 8d4 + 6
+
+
+[Orestes]
+Wow, dziękuję. 
+
+[CZAT 03:22:14] Arevon Elorrenthi: 9
+
+
+[Arevon]
+Wersja zostaje 9. No 9 kurwa. Ja wygryzowałem spas z wyslotem, więc czekaj, kurwa... Który boli? Zielony boli. 
+
+[Versir]
+O, to jest dobry swal. 
+
+[Arevon]
+To ja się tepnę 15 fitów i sobie wyjdę stąd. 
+
+[CZAT 03:23:05] Arevon Elorrenthi (rzut): Starry Wisp Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. You launch a mote of light at one creature or object within range. Make a ranged spell attack ag… | rzuty: = 20, 1d20 + 13
+
+
+[CZAT 03:23:16] Arevon Elorrenthi: 5
+
+
+[CZAT 03:24:23] Arevon Elorrenthi (rzut): Wisdom Save (+11) 26 1d20 + 11 15 15 | rzuty: = 26, 1d20 + 11
+
+
+[CZAT 03:24:30] Lutheria: Phantasmal Killer (M) Illusion You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes Frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom s…
+
+
+[CZAT 03:25:00] Orion Xul (rzut): Strength Save (+11) 27 1d20 + 11 1d20 16 | rzuty: = 27, 1d20 + 11, 1d20
+
+
+[Versir]
+Ja rzucałem. 
+
+[CZAT 03:25:37] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 26, 1d20 + 12, 1d20
+
+
+[CZAT 03:25:40] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 12 + 10
+
+
+[CZAT 03:25:49] Lutheria: DC 11 Concentration Concentration
+
+
+[Versir]
+Nice. 
+
+[Orestes]
+Ja rzucałem i nie wyszło. 
+
+[CZAT 03:25:53] Arevon Elorrenthi (rzut): Intelligence Save (+4) 8 1d20 + 4 4 4 | rzuty: = 8, 1d20 + 4
+
+
+[CZAT 03:25:55] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 19, 1d20 + 12, 1d20
+
+
+[CZAT 03:25:59] Orion Xul: 3
+
+
+[CZAT 03:26:14] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 23, 1d20 + 12, 1d20
+
+
+[CZAT 03:26:18] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 19 13 + 6
+
+
+[Dungeon Master]
+Dziewiętnaście. No Orion zrobił jakiś damage. Okej, po rundzie Oriona ona walnie kosą u Oriona. 
+
+[CZAT 03:26:24] Lutheria: DC 10 Concentration Concentration
+
+
+[Dungeon Master]
+Ehh, Orion odrywa czterdzieści cztery damage'a. 
+
+[CZAT 03:26:40] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[CZAT 03:26:47] Orion Xul (rzut): Constitution Save (+9) 14 1d20 + 9 1d20 5 | rzuty: = 14, 1d20 + 9, 1d20
+
+
+[Dungeon Master]
+A ona się nie healuje, bo przez klona przeszła Twitcher. Czterdzieści cztery adulterii i dwadzieścia jeden. 
+
+[Versir]
+Znaczy okazyjne, jakby jak postawisz na nią, to jak ona będzie z tego uciekać, to okazyjne od dwóch dostanę. 
+
+[CZAT 03:26:58] Felicjan Janus Twardowski (rzut): Dawn (4d10) 21 4d10 4d10 5 4 9 3 | rzuty: = 21, 4d10, 4d10
+
+
+[Dungeon Master]
+To bez. Tak, to pełne. I Felicjan. Kto był w tą konkretną, tak? 
+
+[Versir]
+Kurde. 
+
+[CZAT 03:28:33] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within range. Choose Acid, … | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 03:28:35] Felicjan Janus Twardowski: 5
+
+
+[CZAT 03:28:40] Felicjan Janus Twardowski (rzut): Chromatic Orb 1st Level Evocation Casting Time 1 action Duration Instantaneous Components V, S, M(a diamond worth 50+ GP) Range 90ft. You hurl an orb of energy at a target within range. Choose Acid, … | rzuty: = 10, 3d8
+
+
+[Dungeon Master]
+Kto był w klona? 
+
+[Versir]
+Bossy zajebiste. Ona może teraz uciec, bo oni nie widzą targetu. Jak nie widzą, to nie ma okazyjnych. 
+
+[CZAT 03:29:04] Felicjan Janus Twardowski: 16
+
+
+[Felicjan]
+Przez... aaa... najnudniejsze? 
+
+[Orestes]
+Nie, my jeszcze jedną rundę możemy. Nie zasypiam, więc... 
+
+[Felicjan]
+Był super... Znaczy, teraz... Ooo, Hangar Hogar. 
+
+[CZAT 03:30:09] Lutheria: Hunger of Hadar (M) Conjuration You open a gateway to the dark between the stars, a region infested with unknown horrors. A 20-foot-radius sphere of blackness and bitter cold appears, centered on a point within range and lasting for the duration. This void is filled with a cacophony of soft whispers and slurping noises that can be heard up to 30 feet away. No light, magical or otherwise, can illu…
+
+
+[Versir]
+Chciałem powiedzieć, że twoja ewaluacja spelli jest prosto normalnie trzeci level. Bazowo jest trzeci level. 
+
+[Orestes]
+One i tak nie mogą uśmieć teleportując się? Tak, co to jest? 
+
+[Felicjan]
+Super jest. No i Ania. 
+
+[Versir]
+Próbujmy czegoś OUTSIDE THE BOX 
+
+[CZAT 03:31:12] Orestes: Applied conditions: &Reference[diseased]
+
+
+[Orestes]
+Czy ja mogę po prostu z tego wyjść? 
+
+[VISUAL 03:31:19] Na mapie przedstawiającej oniryczną przestrzeń "World of Dreams" widoczne są tokeny postaci: Lutheria, Versir, Arevon Elorrenthi, Orion Xul, Felicjan Janus Twardowski oraz Orestes. Po prawej stronie panelu widoczny jest opis zaklęcia "Hunger of Hadar" oraz tracker rundy 14. Aktywna sesja w systemie VTT zawiera liczne efekty wizualne w formie różowo-fioletowych obszarów na heksagonalnej siatce.
+
+
+[Orestes]
+To proszę, zażyć mi, ile obrywam. Oj, jak boli, oj, jak boli, oj, jak boli. I co teraz robię? Mogę wyjść stąd. Mogę za nią piec. Biegdę za nią. i walę ją toporem z Reklesem 
+
+[CZAT 03:31:50] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 18 14 + 4
+
+
+[Orestes]
+i druga runda czy drugi ten 
+
+[CZAT 03:32:08] Lutheria: DC 10 Concentration Concentration
+
+
+[Orestes]
+o, a nie 
+
+[CZAT 03:32:13] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 2 2, = Damage: 23 20 + 3
+
+
+[Orestes]
+to na damage, dobra nie wiem, ale na pewno od ciebie śmierdzi a ja rzuciłem dwa ataki już 
+
+[CZAT 03:32:41] Lutheria: DC 11 Concentration Concentration
+
+
+[Orestes]
+te sześć i dwa razy to okej, dobra 
+
+[CZAT 03:32:52] Orestes: 1
+
+
+[Orestes]
+dalej próbuję ją zgraplować o, no 
+
+[CZAT 03:33:15] Orestes (rzut): Athletics (+11) 23 1d20 + 11 1d20 12 | rzuty: = 23, 1d20 + 11, 1d20
+
+
+[Orestes]
+w końcu Zostajesz tu ze mną, suko Eee, no cóż Człowiek próbował, kończę I trzymając za jedną, jakbym trzymał za sześć 
+
+[CZAT 03:34:05] Lutheria, The Lady of Dreams: 3
+
+
+[Arevon]
+Zakładam, że jak pierwszy nie wejdzie, to byś drugim się powstrzymał. 
+
+[Orestes]
+Jak to zostaje trzydzieści pięć? 
+
+[CZAT 03:34:27] Versir: Applied conditions: &Reference[cursed]
+
+
+[Versir]
+Asirak patrzy na nią I wpada na genialny pomysł Żeby uderzyć W sen I próbuje uderzyć w Strukturę tego snu Pod sobą Titan's Bade'em 
+
+[CZAT 03:35:48] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 28, 1d20 + 11
+
+
+[CZAT 03:35:50] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 12, 1d20 + 11
+
+
+[Versir]
+Żeby zakończyć sen 
+
+[Arevon]
+Rewan zasypie. 
+
+[Versir]
+I wrócić do Metros Kończ moją rundę 
+
+[CZAT 03:36:17] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 24 10 + 14
+
+
+[CZAT 03:36:26] Lutheria: DC 12 Concentration Concentration
+
+
+[CZAT 03:36:34] Arevon Elorrenthi: Applied conditions: &Reference[diseased]
+
+
+[Arevon]
+Od wszystkich łapie. Rewan co wyłączy kostuje healing z pola. 
+
+[CZAT 03:37:00] Arevon Elorrenthi: Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a …
+
+
+[Versir]
+Nie wiem czy ten efekt w ogóle dalej działał 
+
+[CZAT 03:37:06] Arevon Elorrenthi: 2
+
+
+[Versir]
+Ten co pushował nas Reses zabił oboje bliźniaków. Bardzo ładnie. 
+
+[Dungeon Master]
+Orysier, zamachnąłeś się powiedzmy w strukturę tego snu i zauważyłeś, że jakby wszystkie lutery jednocześnie skrzywiłeś trochę na ten atak, więc Orion tego nie widział, bo jest w ciemności. 
+
+[CZAT 03:37:13] Arevon Elorrenthi (rzut): Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point y… | rzuty: = 33, 5d8 + 6
+
+
+[Arevon]
+40 zostaje 35. A 4 zostaje więcej. 
+
+[CZAT 03:37:22] Arevon Elorrenthi: 12
+
+
+[Arevon]
+Wszyscy... 
+
+[Orestes]
+Okej, to mam 
+
+[Arevon]
+W sensie Maciek nie bo jest blink. 12 pójdzie we mnie, bo spać mi się chce. 5. Ja kostuję z pola. I co, ja się tp'iu tu? Tp'ę z zespołu, z kosotu. 
+
+[Dungeon Master]
+I bonusową czy to był? Nie, bo... Co, bonusową? 
+
+[Arevon]
+Nie wiem, bądź sobie. Co się stało? 
+
+[Dungeon Master]
+Nie, masz w bonusowej. 
+
+[Arevon]
+Chyr, wychodzę z range'a tej. Co się stało? Tutaj grapple wyszedłem range'a. Co się stało? Myślałem, że chyba mnie nie jebnie. 
+
+[Dungeon Master]
+Co to jest ręcza? Przywołanie ciekawego snu. Czemu nie? 
+
+[CZAT 03:38:49] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Dungeon Master]
+Co sam się prosiłeś? 
+
+[Arevon]
+Chyr, źle reakcja, teraz wychodzę z range'a drugiej. 
+
+[Dungeon Master]
+No to... 
+
+[Arevon]
+Jak mnie jebnie jeszcze raz, to wychodzę. 
+
+[Dungeon Master]
+Druga Cię nie wali. 
+
+[Arevon]
+Co stać? 
+
+[Dungeon Master]
+Co, znowu Orestes? Co? Czy or Orestes? 
+
+[CZAT 03:39:38] Lutheria: Crystal Scythe Feature Reach 15 ft. Lutheria sweeps her crystal scythe through one creature, dealing 23 (3d8 + 10) slashing damage plus 13 (3d8) necrotic damage. Lutheria heals herself with the amount of necrotic damage dealt. Damage Action Instantaneous Self
+
+
+[Dungeon Master]
+Trzydzieści pięć! I dawaj Orion. 
+
+[Orestes]
+Zabij 
+
+[Arevon]
+2d6 do mażu. 
+
+[Dungeon Master]
+Ona koncentracji powinna była w sumie rzucić. Crazy. 
+
+[CZAT 03:40:09] Orestes: 8
+
+
+[Dungeon Master]
+Obrywasz, Adam. Osiem damage'a i rób rzecz. 
+
+[CZAT 03:40:23] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 23, 1d20 + 12, 1d20
+
+
+[CZAT 03:40:27] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 17 + 5
+
+
+[Dungeon Master]
+Dwadzieścia dwa. Klon! 
+
+[Orion]
+O, to akurat zbiera ładny damage. Dwa zielone. 
+
+[Dungeon Master]
+Ta jest trzymana przez Orestesa w tym momencie. Ta przed przyzwaniem była prawdziwa, nie wiadomo, czy jest teraz. 
+
+[CZAT 03:40:46] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 22, 1d20 + 12, 1d20
+
+
+[CZAT 03:40:58] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 14 12 + 2
+
+
+[CZAT 03:41:05] Versir (rzut): Intelligence Save (+5) 19 1d20 + 5 14 14 | rzuty: = 19, 1d20 + 5
+
+
+[CZAT 03:41:14] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 31, 1d20 + 12, 1d20
+
+
+[CZAT 03:41:14] Versir: 3
+
+
+[CZAT 03:41:17] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 29 17 + 12
+
+
+[CZAT 03:41:18] Arevon Elorrenthi (rzut): Intelligence Save (+4) 7 1d20 + 4 3 3 | rzuty: = 7, 1d20 + 4
+
+
+[VISUAL 03:41:24] Na zrzucie ekranu widać starcie z Lutherią w scenerii nazwanej „World of Dreams”. Po lewej stronie otwarte jest okno z kartą postaci Lutherii, natomiast w centrum mapy widoczne są liczne projekcje tej przeciwniczki otoczone fioletową aurą. W panelu śledzenia walki po prawej stronie widoczni są uczestnicy sesji, w tym Orestes, Versir, Arevon Elorrenthi, Orion Xul oraz Felicjan Janus Twardowski.
+
+
+[Orion]
+I jestem jeszcze chyba... 
+
+[CZAT 03:41:29] Lutheria: DC 14 Concentration Concentration
+
+
+[Orion]
+O, na czemu nie to? 
+
+[CZAT 03:41:42] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 31, 1d20 + 12, 1d20
+
+
+[CZAT 03:41:44] Orion Xul (rzut): Spear Mastery* When you make an attack with spear, trident or javelin, you may use a bonus action to make a melee attack with the opposite end of the weapon. This attack uses the same ability modifie… | rzuty: = 11, 1d4 + 9
+
+
+[CZAT 03:41:52] Orion Xul: 4
+
+
+[Felicjan]
+Wymyślałem, co mam robić. Chromatica na wszystkich. Na wszystkich zajebali. 
+
+[Orion]
+I wraca do walki. Tak. Tęknie tak. 
+
+[Felicjan]
+Rozumiem, że się na tym Dawnie już nie koncentruję. Chyba, że będę świetlał dalej jej. Czy ona chce gadać, kurwa, teraz? Za późno na roleplay. 
+
+[Orestes]
+Nie no, Orestes ma tylko jeden cel 
+
+[CZAT 03:44:37] Felicjan Janus Twardowski (rzut): Ray of Frost Legacy • Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. A frigid beam of blue-white light streaks toward a creature within range. Make a range… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[Dungeon Master]
+Lekko się uśmiecha. No to była dobra partia. Na pewno was wszystkich zapamiętam. Przysiada sobie tutaj na podejście. Nogi spuszczone w dół. 
+
+[CZAT 03:45:35] Orestes: Applied conditions: &Reference[diseased]
+
+
+[Dungeon Master]
+I czeka. Bo to co zrobi Orestes? 
+
+[Orestes]
+On widzi jej śmierć w oczach i bardzo chce to zrobić Ale 
+
+[CZAT 03:45:49] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 21 16 + 5
+
+
+[Dungeon Master]
+Orestes smisował siedząc w luterię, 
+
+[Orestes]
+Jeszcze drugi mam, jeszcze drugi mam 
+
+[Dungeon Master]
+która nie próbuje unikać ataku. 
+
+[Orestes]
+Co jest z tym 
+
+[Dungeon Master]
+Luteria 
+
+[CZAT 03:46:05] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 25 19 + 6
+
+
+[Dungeon Master]
+unikająca walki wybija Orestesa z rytmu, ale za drugim razem 
+
+[Orestes]
+Czemu, że mnie chce zaskoczyć ten reklet Gdybym jeszcze płynęła we mnie krew 
+
+[CZAT 03:46:13] Orestes: 12
+
+
+[Orestes]
+Odcinam jej łeb Jedno czyste cięcie. Eee, tak. Zamach brałem, zrobiłem taki kołowrotek. Przyzalował. 
+
+[Dungeon Master]
+wziął głęboki oddech pewne szybkie cięcie w kierunku Luteri i głowa Luteri odlatuje uderza na piasek z impetem po chwili jej ciało zaczyna się rozpadać świecić złotym światłem złoty pył zaczyna się rozsypywać po okolicy. 
+
+[Orestes]
+Ojej, tańcz, świnio, tańcz. Tańcz jak pojebana. 
+
+[Versir]
+Agra czekała. 
+
+[Dungeon Master]
+Pozostała po niej kosa. Luteria odeszła. W tym momencie 
+
+[Orestes]
+Ej, jeśli nikt nic nie robi, to Ores chce rozjebać tą kosę. Doporem. 
+
+[Dungeon Master]
+też w okolicy widzicie jak rozpływa się magia rzucona przez Luterię. Ludzie zaczynają, że zwierzęta się zaczynają zmieniać w ludzi. Ci oszalali zaczynają normalnieć. Tam mgła się rozwiewa. I w tym momencie z pierdolnięciem wybucha wulkan. I na dzisiaj skończymy. 
+
+[Orestes]
+Powiedziałeś co jednemu graczowi, którego postać, znaczy jednemu z dwóch graczy, którego postać bardzo chciała... A, okej. Dobra. Ale no Ores się nie chciał z nią dogadać. Wersji też nie. Ale co? 
+
+[Versir]
+Tak. 
+
+[CZAT 03:49:12] Lutheria: DC 10 Concentration Concentration
+
+
+[Versir]
+To ona czy... Czy Goloron opowiadali nam o... Trochę o roli Luterii? Skądś tą informację mieliśmy. Jeszcze nie pamiętam skąd. Ona nam opowiadała? 
+
+[Orestes]
+A, że z innego świata te granice sprawdzam? 
+
+[Versir]
+O innych światach. 
+
+[Arevon]
+No i tam żyć teleporta kurwa gdzieś na jakieś lepsze miejsce, na jakąś rajską wyspę. 
+
+[Versir]
+Też wspominała, że ten wybuch wulkanu, to zwiastuje z Turynkiego. Ostatni członek rodziny Persina. Właśnie, kurwa. Wspierdalać w Anglii, co zrobił. Arezja wygląda teraz dobrze. 
+
+[Arevon]
+Tak, a ryzy wygląda zajebiście. Albo nawet wiesz na Temis, o dawaj nas na Temis. Ale w czwartek będzie już za tydzień? 
+
+[Felicjan]
+To jest ten wulkan, w którym była kuźnia walkowa? 
+
+[Arevon]
+Czwartek dalej aktualny przecież. Nie. 
+
+[Dungeon Master]
+nie, czy 3 sierpnia wszyscy są tak wstępnie okej, to jest 
+
+[Arevon]
+No niełatwo przyciągać tego TPK w nieskończoność. 
+
+[VISUAL 03:51:27] Na mapie przedstawiającej wnętrze świątyni widoczne są tokeny postaci, w tym Lutherii oraz Orestesa, przy którym znajduje się ilustracja przedstawiająca muskularną postać. Na środku ekranu wyświetlony jest tekst: „Pięciu bogów pojawiło się w Thylei 10 lat przed podpisaniem Przysięgi Pokoju”. Obok znajduje się otwarte okno kalendarza oraz panel boczny z wynikami rzutów na obrażenia zadawane przez Topór Xandera.
+
+
+[Versir]
+Ja też tak. 
+
+[Orion]
+Tak. 
+
+[Orestes]
+Tak. Ona już miała, jak wyplanowała 
+
+[Dungeon Master]
+duże prawdopodobieństwo, że 3 sierpnia będzie to powiedzmy taka finalna sesja tej rzęśli kampanii a potem 
+
+[Arevon]
+To jak bardzo Luteria nas nie chciała zabić to było śmieszne w tej walce. 
+
+[Dungeon Master]
+zrobimy jakąś tam przerwę nie będzie była jakaś strasznie długa, ale nie wiem ile, zobaczymy Luteria was lubiła być może 
+
+[Arevon]
+Bo mogła zabić każdego co najmniej dwa albo trzy razy. I wszystkich nas dwukrotnie. Jedno z Polin. Rozumiem, że ona się chciała bawić ze swoim jedzeniem, ale w pewnym momencie przestajesz się chcieć bawić ze swoim jedzeniem. Pewno nie ja. 
+
+[Dungeon Master]
+to zrozumie Luterię 
+
+[Orestes]
+wrócić. Przy odrobinie szczęścia już nie ma czego... 
