@@ -83,3 +83,4 @@ title: Sesje
 - [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz|Sesja 79: Bitwa o Mytros: Gniew Pana Burz]]
 - [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|Sesja 80: Bitwa o Mytros: Śmierć Pana Burz]]
 - [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów|Sesja 81: Bitwa o Mytros: Koszmar na Targu Minotaurów]]
+- [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów|Sesja 82: Bitwa o Mytros: Śmierć Pani Snów]]

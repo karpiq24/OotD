@@ -14,3 +14,5 @@ Wymaga dostrojenia. Po naprawieniu odzyskuje swoje magiczne właściwości. Jest
 
 ## Historia
 Należał do [[Xander|Xandera Huoratha]]. Został skradziony z jego grobowca przez [[Graxis Rzeźnik|Graxisa Rzeźnika]].
+
+W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] [[Orestes]] użył go, by **zabić [[Lutheria|Lutherię]]** — jako jedna z niewielu broni godnych Tytanki zdołał przełamać jej odporność na zwykły oręż. Minotaur uwolnił w walce pełnię uśpionej w toporze furii, a ostatecznie jednym czystym cięciem odciął bogini głowę.

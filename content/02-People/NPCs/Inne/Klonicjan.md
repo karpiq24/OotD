@@ -26,3 +26,4 @@ W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] sterował [[Kolos Pythora|Kolos
 W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] kontynuował sterowanie [[Kolos Pythora|Kolosem Pythora]]. Został dotknięty obłędem (*Madness*) przez [[Lutheria|Lutherię]], lecz został pomyślnie uwolniony spod jego wpływu przez [[Felicjan Janus Twardowski|Felicjana]] za pomocą zaklęcia *Dispel Magic*, co pozwoliło Kolosowi zadać potężne ciosy bogini.
 
 
+W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] sterując [[Kolos Pythora|Kolosem Pythora]] przebił [[Lutheria|Lutherię]] na wylot dwoma uderzeniami gigantycznej włóczni mecha-boga — ciosem, jakiego nikt inny na placu nie mógł jej zadać. Gdy bogini wciągnęła drużynę do [[Świat Snów|Świata Snów]], Klonicjan wraz z Kolosem pozostał po drugiej stronie i nie przeszedł do onirycznej domeny.
