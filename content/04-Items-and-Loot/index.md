@@ -40,3 +40,5 @@ title: Przedmioty i Łupy
 - [[Złota Moneta Hergerona]]
 - [[Glewia Sydona]]
 - [[Odkupienie Pythora]]
+- [[Kryształowa Kosa Lutherii]]
+- [[Pierścień Orestesa]]

@@ -26,3 +26,6 @@ W [[Sesja 64 - Pieśń dla Smoczycy]], **[[Felicjan Janus Twardowski|Felicjan]]*
 *   Zrozumieli, dlaczego Hexia ukryła miecz – stał się dla niej nagrobkiem i symbolem niespełnionej obietnicy. Przez wieki strzegła go, wierząc, że "nie dotknie go żaden inny śmiertelnik, by nie zawiódł tak jak on".
 
 Smoczyca przekazała miecz bohaterom dopiero gdy [[Orestes]] odtworzył pieśń jej ukochanego, a herosi obiecali dokończyć dzieło. Miecz został wysłany do **[[Mithralowa Kuźnia|Mithralowej Kuźni]]**, by bóg kowali [[Volkan]] mógł ostatecznie przebudzić jego potencjał.
+
+### Śmierć Pani Snów (Sesja 82)
+W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] [[Versir]] uderzeniem miecza **zdławił zdolność [[Lutheria|Lutherii]] do leczenia się cudzymi ranami**, wypalając w bogini to, co dotąd zamykało każdą zadaną jej ranę. Później zaatakował tym samym ostrzem strukturę [[Świat Snów|Świata Snów]], próbując rozbić domenę Tytanki od środka — wszystkie jej odbicia wykrzywiły się naraz, jakby świat stracił równowagę.
