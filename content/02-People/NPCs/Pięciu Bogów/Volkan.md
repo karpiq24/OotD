@@ -21,3 +21,12 @@ Wygląda na niepozornego, siwobrodego starego krasnoluda w fartuchu kowalskim. J
 Kowal Estorii, twórca magicznych przedmiotów. Chociaż rzadko dzieli się swoimi darami, niektóre z jego dzieł są rozproszone po Thylei.
 
 W [[Sesja 1 - Wielki Dzik]] otrzymał od bohaterów ofiarę w postaci [[Wielki Dzik|Wielkiego Dzika]], którego ci upolowali na zlecenie [[Kyrah]].
+
+## Prawdziwa tożsamość: Sybolkorax
+W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Volkan jest w rzeczywistości **[[Sybolkorax|Sybolkoraxem]]** — brązowym smokiem [[Rizon Phobas|Rizona Phobasa]], mężem srebrnej smoczycy **[[Balmytria|Balmytrii]]** i ojcem [[Kyrah]] oraz [[Pythor|Pythora]]. Jego wieloletnie zamknięcie w warsztacie, oddalenie od dzieci i sięganie po alkohol były żałobą po niej, a nie kaprysem zdziwaczałego kowala.
+
+Tajemnicę utrzymywała klauzula wpisana w [[Przysięga Pokoju|Przysięgę Pokoju]]: smocze pochodzenie Nowych Bogów oraz źródło ich boskich domen miały pozostać w ukryciu, a wraz z wygaśnięciem Przysięgi bogowie mieli zwrócić skradzione portfolio. Domeny nigdy nie należały do nich — wykradła je Tytanom [[Balmytria]] fortelem podczas Królewskiej Gry, przegrywając celowo siódmą partię i płacąc stawkę własnym życiem ([[09 Gra Bogów|Gra Bogów]]).
+
+Gdy [[Felicjan Janus Twardowski|Felicjan]] wypowiedział treść klauzuli na głos, Przysięga pękła, a domeny wróciły do [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Volkan przeobraził się w smoka na pokładzie [[Ultros|Ultrosa]] i wszedł w Bitwę o [[Mytros]] jako [[Sybolkorax]] — pozbawiony boskiej mocy. W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] leżał na arenie [[Stadion Mytros|kolosseum]] o krok od śmierci.
+
+**Drużyna postanowiła nie ujawniać tego publicznie.** Dla mieszkańców Thylei Volkan pozostaje Bogiem Kuźni.

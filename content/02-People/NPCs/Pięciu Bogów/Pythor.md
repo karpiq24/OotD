@@ -27,3 +27,14 @@ W [[Sesja 11 - Mithralowa Kuźnia]] przybył do [[Jaskinie Troglodytów|jaskiń]
 
 W [[Sesja 64 - Pieśń dla Smoczycy]], w drodze na Wyspę Smoka, odbył ciężką rozmowę ze swoim synem, [[Orion Xul|Orionem]]. Pythor przyznał, że wciąż darzy Hexię uczuciem i "technicznie" nadal są małżeństwem. Wyraził nadzieję, że uda się uniknąć jej śmierci, co, jak się okazało, udało się osiągnąć.
 
+## Prawdziwa tożsamość: Raspytrion
+W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Pythor jest w rzeczywistości **[[Raspytrion|Raspytrionem]]** — brązowym smokiem, niegdyś zaprzysiężonym [[Adonis Neurdagon|Adonisowi Neurdagonowi]], synem [[Sybolkorax|Sybolkoraxa]] (czyli [[Volkan|Volkana]]) i srebrnej smoczycy [[Balmytria|Balmytrii]]. Stawia to w nowym świetle jego małżeństwo z zieloną smoczycą [[Hexia|Hexią]]: nigdy nie było to mezalians boga ze smokiem, lecz związek dwojga smoków.
+
+Tajemnicę utrzymywała klauzula wpisana w [[Przysięga Pokoju|Przysięgę Pokoju]]: smocze pochodzenie Nowych Bogów oraz źródło ich boskich domen miały pozostać w ukryciu, a wraz z wygaśnięciem Przysięgi bogowie mieli zwrócić skradzione portfolio. Domeny nigdy nie należały do nich — wykradła je Tytanom [[Balmytria]] fortelem podczas Królewskiej Gry, przegrywając celowo siódmą partię i płacąc stawkę własnym życiem ([[09 Gra Bogów|Gra Bogów]]).
+
+Gdy [[Felicjan Janus Twardowski|Felicjan]] wypowiedział treść klauzuli na głos, Przysięga pękła, a domeny wróciły do [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Pythor przeobraził się w smoka na pokładzie [[Ultros|Ultrosa]] i walczył w Bitwie o [[Mytros]] jako [[Raspytrion]] — bez boskiej mocy, ale wreszcie **bez ograniczeń Przysięgi**, która przez wieki zabraniała mu stanąć naprzeciw Tytanów. W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] został ciężko raniony glewią [[Sydon|Sydona]].
+
+Ma to bezpośrednie znaczenie dla [[Orion Xul|Oriona]]: jego ojciec nigdy nie był bogiem, a on sam nie jest półbogiem w takim sensie, w jakim wierzył przez całe życie. Sprawa nigdy nie została między nimi przepracowana.
+
+**Drużyna postanowiła nie ujawniać tego publicznie.** Dla mieszkańców Thylei Pythor pozostaje Bogiem Bitwy i królem [[Estoria|Estorii]].
+

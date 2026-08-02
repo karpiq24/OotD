@@ -38,3 +38,12 @@ Jako **Notos**, Kyrah była sercem i inicjatorką [[Cztery Wiatry|Czterech Wiatr
 W [[Sesja 23 - Nowe Przymierze]] opowiedziała drużynie historię o przybyciu bogów do Thylei ("Wezwanie nowych bogów"), wyjaśniając genezę Pięciu Bogów i ich konflikt z Tytanami.
 
 W [[Sesja 24 - Ultros]] skonfrontowała się ze swoją przeszłością na pokładzie widmowego statku [[Ultros]]. Okazało się, że łączyła ją zła historia z [[Estor Arkelander|Estorem Arkelanderem]] (nazywał ją "Kiki" i wspominał, że ją "ujeżdżał"). Kyrah czuła się winna jego upadku, wierząc, że gdyby go nie opuściła, nie uległby [[Lutheria|Lutherii]]. Ostatecznie jednak odrzuciła poczucie winy. Gdy Estor masakrował drużynę, wkroczyła do akcji, używając swojej boskiej mocy, by uleczyć bohaterów i obedrzeć Estora z jego iluzji, ukazując go jako żałosnego szkieletora. Zadeklarowała, że nie pozwoli mu już nikogo skrzywdzić.
+
+## Prawdziwa tożsamość: Arkyrania
+W [[Sesja 75 - Koniec Przysięgi]] wyszła na jaw tajemnica, którą [[Pięciu Bogów|Piątka]] nosiła od zakończenia Pierwszej Wojny: **bogowie Thylei są smokami**. Kyrah jest w rzeczywistości **[[Arkyrania|Arkyranią]]** — brązową smoczycą, niegdyś wierzchowcem [[Estor Arkelander|Estora Arkelandera]], która porzuciła swojego Smoczego Lorda po jego rzeziach [[Gyganie|Gyganów]]. Wyjaśnia to w pełni zarówno jej dawną zażyłość z Estorem, jak i ciężar winy, który po nim nosiła.
+
+Sekretu strzegła klauzula wpisana wprost w [[Przysięga Pokoju|Przysięgę Pokoju]]: smocze pochodzenie Nowych Bogów oraz źródło ich boskich domen miały pozostać w ukryciu, a wraz z wygaśnięciem Przysięgi bogowie mieli zwrócić skradzione portfolio. Domeny nigdy bowiem nie były ich własne — wykradła je Tytanom **[[Balmytria]]**, srebrna smoczyca, przegrywając celowo siódmą partię Królewskiej Gry i wbijając sobie sztylet w pierś, by własną krwią związać boskie moce ukryte w kościach i przekazać je swojej rodzinie ([[09 Gra Bogów|Gra Bogów]]).
+
+Gdy [[Felicjan Janus Twardowski|Felicjan]] wypowiedział treść klauzuli na głos, Przysięga pękła. Kyrah na oczach załogi [[Ultros|Ultrosa]] przeobraziła się w smoczycę, a boskie domeny wróciły do [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Od tej chwili walczyła w Bitwie o [[Mytros]] jako [[Arkyrania]] — bez boskiej mocy, wyłącznie kłem, pazurem i oddechem.
+
+**Drużyna postanowiła nie ujawniać tego publicznie.** Dla mieszkańców Thylei Kyrah pozostaje Boginią Muzyki.

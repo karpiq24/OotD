@@ -448,6 +448,7 @@
 * [[Apasia]] na miedzianym smoku ratuje spadającego [[Acastus|Akastusa]] w ostatniej chwili.
 * Smoki-bogowie podejmują walkę z oszalałym [[Icarus|Icarusem]], prosząc drużynę o skupienie się na obronie ulic.
 * Pierwsza runda Bitwy o [[Mytros]]: zwycięstwa Krasnoludów z [[Estoria|Estorii]], Amazonek przy Dokach; przegrane Magów z [[Akademia Mytros|Akademii]] i [[Centurioni z Mytros|Mytros Centurions]]; tragiczna śmierć [[Steros|Sterosa]].
+* Śmierć królowej [[Darien]] – władczyni Amazonek poległa w obronie [[Mytros]], dowodząc obroną Doków wraz z [[Hippolyta|Hippolytą]]; uwolniona przez drużynę po 13 latach w celi i osadzona na tronie w [[Sesja 36 - Królowa, Dziedzic i Generał|sesji 36]], oddała życie za cudze miasto, pozostawiając otwartą kwestię sukcesji na [[Themis]].
 * [[Felicjan Janus Twardowski|Felicjan]] ujawnia stworzone wcześniej Simulacrum, wprowadzając do walki klona jako drugiego maga w drużynie.
 * [[Hergeron]] rzuca Steel Wind Strike na całą drużynę, zadając potężne obrażenia m.in. [[Orion Xul|Orionowi]] i klonowi [[Felicjan Janus Twardowski|Felicjana]].
 * [[Orestes]] wznosi się w powietrze i zadaje [[Hergeron|Hergeronowi]] krytyczny cios z połączeniem Rage, Reckless Attack i Great Weapon Master.
