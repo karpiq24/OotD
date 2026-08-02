@@ -79,7 +79,7 @@ Nowi bogowie, którzy przybyli (lub powstali), by chronić osadników. Byli kied
     *   **[[Arezja]]:** Miasto wojowników na wschodzie, rywal Mytros.
 
 *   **[[Zatoka Cerulańska]] (Cerulean Gulf):** Wody wewnętrzne, bezpośrednio przylegające do kontynentu. Znajdują się tu liczne wyspy:
-    *   **[[Themis]]:** Wyspa pod Konstelacją Bliźniąt, ojczyzna Amazonek. Potęga morska, obecnie rządzona przez królową Darien (lub Yala).
+    *   **[[Themis]]:** Wyspa pod Konstelacją Bliźniąt, ojczyzna Amazonek. Potęga morska. Po rewolucji rządzona przez królową [[Darien]], która zniosła niewolnictwo mężczyzn — poległa jednak w obronie [[Mytros]] podczas Bitwy o Mytros. Kwestia sukcesji pozostaje otwarta: naturalną kandydatką jest [[Hippolyta]], w tle pozostaje niezdecydowana [[Yala]].
     *   **[[Wyspa Forlorn]] (Wyspa Chimery):** Przeklęta wyspa z ruinami miasteczka i świątynią Narsusa. Dawne legowisko Chimery i wiedźmy Althai.
     *   **[[Wyspa Indygo]]:** Wyspa pod Konstelacją Królowej, zamieszkana przez cztery plemiona: Węgorza (gnomy/niziołki), Delfina (elfy), Rekina (ludzie) i Wieloryba (krasnoludy strzegące kopalni żelaza).
     *   **[[Wyspa Mojr]]:** Ponura, skalista wyspa spowita wiecznym deszczem. Siedziba trzech Mojr tkających los przy swym Krośnie.
@@ -101,7 +101,7 @@ Nowi bogowie, którzy przybyli (lub powstali), by chronić osadników. Byli kied
 ### Inne Wymiary i Lokacje Specjalne
 *   **[[Morze Otchłani]] (Nether Sea):** Wymiar podziemny, domena Lutherii. Mroczne odwzorowanie powierzchni. Można się tam dostać przez wir Charybdy.
     *   *Miejsca:* **Lustrzane Więzienie** (siedziba Estora), **Sześcian Więzienny** (więzienie Tytanów, Tarrasque'a), **Wyspa Krzywoprzysięstwa** (domena Lutherii).
-*   **[[Ultros]]:** Legendarny okręt widmo, zdolny żeglować po morzach, niebie i między wymiarami. Obecnie baza operacyjna drużyny.
+*   **[[Ultros]]:** Legendarny okręt widmo, zdolny żeglować po morzach, niebie i między wymiarami. Przez większość kampanii baza operacyjna drużyny — **zatopiony w porcie [[Mytros]] wraz z całym skarbem drużyny** przez węże morskie Sydona podczas Bitwy o Mytros.
     *   *Kapitan:* Orestes (po pokonaniu Estora Arkelandera).
 
 ## Frakcje i Grupy
@@ -165,7 +165,7 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 *   **[[Estor Arkelander]] (Duch):** Przeklęty kapitan Ultrosa. Chce zniszczenia i ostatecznej śmierci. Jego dusza została zniszczona przez Orestesa (wchłonięta przez miecz).
 *   **[[Hexia]] (Zielona Smoczyca):** Dawny wierzchowiec Ochosa. Obsesyjnie kocha Pythora. Oddała miecz Titansbane Orionowi po usłyszeniu pieśni.
 *   **[[Talieus]] (Tytan):** Jeden z Tytanów, władca iluzji i kłamstwa (?). Zgładzony przez Oriona w Fortecy Smoczych Lordów.
-*   **[[Hergeron]] i [[Goloron]]:** Bliźniaczy Tytani, potężni wojownicy służący Sydonowi.
+*   **[[Hergeron]] i [[Goloron]]:** Empyreanowie, dzieci [[Sydon|Sydona]] — potężni wojownicy służący ojcu. **Nie są Bliźniaczymi Tytanami** (tym mianem określa się wyłącznie [[Sydon|Sydona]] i [[Lutheria|Lutherię]]); noszą jedynie imiona Zaginionych Tytanów, co bywa mylące — por. [[Hergeron Pierwszy]] i [[Goloron Pierwszy]]. Matką Hergerona jest [[Vallus]]. Goloron zginął z ręki [[Orestes|Orestesa]], Hergeron z ręki [[Arevon Elorrenthi|Arevona]].
 *   **[[Helios]] (Wygnany Bóg):** Złoty Smok, uzurpator podający się za boga słońca. Wygnany z Ogrodu Heliosa za naruszenie praw gościnności.
 *   **[[Thessilea]]:** Uzurpatorka tronu Themis, meduza sprzymierzona z Sydonem.
 *   **[[Wiedźma Lotosu]]:** Potężna czarodziejka z Wyspy Skorpiona, tworząca narkotyki dla Sydona.

@@ -26,3 +26,12 @@ W [[Sesja 22 - Taniec z Meduzą]] przyjęła pod swoją opiekę [[Nera|Nerę]] i
 W [[Sesja 23 - Nowe Przymierze]] została poinformowana przez drużynę o zażegnaniu zagrożenia ze strony Moxeny. Zgodziła się zlokalizować [[Varkon|Varkona]], który mógł posiadać [[Antikythera|Antikytherę]].
 
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] wygłosiła mowę otwierającą Igrzyska i wyraziła obawy o los [[Kyrah]].
+
+## Prawdziwa tożsamość: Tysophale
+W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Vallus jest w rzeczywistości **[[Tysophale]]** — brązową smoczycą, niegdyś wierzchowcem [[Telamok Arkelander|Telamoka Arkelandera]], uznaną po Pierwszej Wojnie za zaginioną. Nie zaginęła: przez cały ten czas siedziała na tronie [[Mytros]].
+
+Tajemnicę utrzymywała klauzula wpisana w [[Przysięga Pokoju|Przysięgę Pokoju]]: smocze pochodzenie Nowych Bogów oraz źródło ich boskich domen miały pozostać w ukryciu, a wraz z wygaśnięciem Przysięgi bogowie mieli zwrócić skradzione portfolio. Domeny nigdy nie należały do nich — wykradła je Tytanom srebrna smoczyca [[Balmytria]], przegrywając celowo siódmą partię Królewskiej Gry i płacąc stawkę własnym życiem ([[09 Gra Bogów|Gra Bogów]]).
+
+Gdy [[Felicjan Janus Twardowski|Felicjan]] wypowiedział treść klauzuli na głos, Przysięga pękła, a domeny wróciły do [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Od tej pory Vallus prowadziła obronę stolicy jako [[Tysophale]] — w [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] wylądowała na pokładzie [[Ultros|Ultrosa]] w smoczej postaci, by zdać drużynie raport z płonącego miasta, a w [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] nurkowała na zmutowanego [[Icarus|Icarusa]] wraz z [[Raspytrion|Raspytrionem]].
+
+**Drużyna postanowiła nie ujawniać tego publicznie.** Dla mieszkańców Thylei Vallus pozostaje Boginią Mądrości i królową [[Mytros]].
