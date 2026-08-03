@@ -1,0 +1,1574 @@
+[
+  {
+    "offset_secs": -9633.539999961853,
+    "speaker": "?",
+    "kind": "chat",
+    "text": "🎉Welcome to Gambit's FXMaster V8.3.4! **8.3.4: Added Orbit mode to the Clouds particle effect, and added a Token Disposition selector to Token Avoidance effects!** Super exciting update! This release brings new Backgrounds and Token Interactions to many effects along with many other nice quality of life updates. Please check out the Release Notes for more detail. If you are a NEW FXMaster user: C…"
+  },
+  {
+    "offset_secs": 331.31500005722046,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 344.58200001716614,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "16"
+  },
+  {
+    "offset_secs": 345.7850000858307,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 33, 6d8 + 6"
+  },
+  {
+    "offset_secs": 350.3440001010895,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 376.8840000629425,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 379.4830000400543,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 380.6860001087189,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 382.6730000972748,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 32, 6d8 + 6"
+  },
+  {
+    "offset_secs": 401.7060000896454,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "31"
+  },
+  {
+    "offset_secs": 501.4630000591278,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Potion of Healing (2d4 + 2) 6 2d4 + 2 3 1 4 | rzuty: = 6, 2d4 + 2"
+  },
+  {
+    "offset_secs": 555.9860000610352,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Potion of Healing (2d4 + 2) 6 2d4 + 2 2d4 2 2 | rzuty: = 6, 2d4 + 2, 2d4"
+  },
+  {
+    "offset_secs": 563.6240000724792,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Potion of Healing (2d4 + 2) 8 2d4 + 2 2d4 3 3 | rzuty: = 8, 2d4 + 2, 2d4"
+  },
+  {
+    "offset_secs": 574.539999961853,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "13"
+  },
+  {
+    "offset_secs": 579.1300001144409,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "19"
+  },
+  {
+    "offset_secs": 598.6259999275208,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "zostało 14 potion of healing"
+  },
+  {
+    "offset_secs": 1968.848000049591,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Persuasion (+0) 3 1d20 + 0 1d20 3 19 1d20 + 0 1d20 19 | rzuty: 1d20 + 0, 1d20, 1d20 + 0, 1d20"
+  },
+  {
+    "offset_secs": 2121.523999929428,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Hit Dice 5 1d6 + 3 1d6 2 | rzuty: = 5, 1d6 + 3, 1d6"
+  },
+  {
+    "offset_secs": 2174.4619998931885,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "81"
+  },
+  {
+    "offset_secs": 2182.09299993515,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "67"
+  },
+  {
+    "offset_secs": 2198.3259999752045,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 2531.5179998874664,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "Armor of the Colossus Armor (Half Plate), Rare (requires attunement) You may use an action to speak the armor’s command word to take on the form of a colossus, doubling your size in all dimensions and multiplying your weight by eight for ten minutes, until you become unconscious, or until you use your action to speak the command word again. This growth increases your size by one category such as …"
+  },
+  {
+    "offset_secs": 3087.7430000305176,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "79"
+  },
+  {
+    "offset_secs": 3100.6979999542236,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "15"
+  },
+  {
+    "offset_secs": 3109.117000102997,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 3110.611000061035,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting a… | rzuty: = 15, 2d8 + 6"
+  },
+  {
+    "offset_secs": 3118.619999885559,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 3169.2890000343323,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "15.08"
+  },
+  {
+    "offset_secs": 3170.459000110626,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "16.16"
+  },
+  {
+    "offset_secs": 3173.1710000038147,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "10.1"
+  },
+  {
+    "offset_secs": 3177.2290000915527,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "9.14"
+  },
+  {
+    "offset_secs": 3180.1289999485016,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "18.11"
+  },
+  {
+    "offset_secs": 3198.2990000247955,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "22.14"
+  },
+  {
+    "offset_secs": 3204.358999967575,
+    "speaker": "Helios",
+    "kind": "chat",
+    "text": "20.14"
+  },
+  {
+    "offset_secs": 3204.359999895096,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "17.24"
+  },
+  {
+    "offset_secs": 3204.361999988556,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "22.16"
+  },
+  {
+    "offset_secs": 3336.414999961853,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 18 1d20 + 12 1d20 6 Piercing Damage: 13 1d8 + 7 1d8 6 | rzuty: 1d20 + 12, 1d20 = 13, 1d8 + 7, 1d8"
+  },
+  {
+    "offset_secs": 3357.2799999713898,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 3478.4769999980927,
+    "speaker": "Klonicjan",
+    "kind": "chat",
+    "text": "18.1"
+  },
+  {
+    "offset_secs": 3764.1470000743866,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 20 1d20 + 9 11 11 27 1d20 + 9 18 18 Roll Damages | rzuty: 1d20 + 9, 1d20 + 9"
+  },
+  {
+    "offset_secs": 3777.364000082016,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 3782.680999994278,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. Piercing Damage: 10 1d8 + 4 6 6 | rzuty: = 10, 1d8 + 4"
+  },
+  {
+    "offset_secs": 3850.8580000400543,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Sorcerous Burst Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 120ft. You cast sorcerous energy at one creature or object within range. Make a ranged spell attac… | rzuty: = 16, 1d20 + 11"
+  },
+  {
+    "offset_secs": 3903.0179998874664,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "81"
+  },
+  {
+    "offset_secs": 4022.609999895096,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 4163.977999925613,
+    "speaker": "Sybolkorax",
+    "kind": "chat",
+    "text": "65"
+  },
+  {
+    "offset_secs": 4219.8099999427795,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 4256.513999938965,
+    "speaker": "Helios",
+    "kind": "chat",
+    "text": "Fire Breath Feature Dexterity Saving Throw: DC 24 , each creature in a 90-foot Cone . Failure: 71 ( 13d10 Fire ) damage. Success: Half damage. DC 24 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft cone"
+  },
+  {
+    "offset_secs": 4352.479000091553,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "90"
+  },
+  {
+    "offset_secs": 4477.417000055313,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20"
+  },
+  {
+    "offset_secs": 4487.828999996185,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20"
+  },
+  {
+    "offset_secs": 4508.177000045776,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Javelin of Lightning (4d6) 19 4d6 4d6 6 5 2 6 | rzuty: = 19, 4d6, 4d6"
+  },
+  {
+    "offset_secs": 4513.664999961853,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d6 + 7, 4d6 = Damage: 24 11 + 13"
+  },
+  {
+    "offset_secs": 4539.118999958038,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20"
+  },
+  {
+    "offset_secs": 4555.079999923706,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Javelin of Lightning (4d6) 15 4d6 4d6 4 6 2 3 | rzuty: = 15, 4d6, 4d6"
+  },
+  {
+    "offset_secs": 4556.207000017166,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d6 + 7, 4d6 = Damage: 33 12 + 21"
+  },
+  {
+    "offset_secs": 4656.970999956131,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 4687.151999950409,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 4758.31299996376,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 4796.546999931335,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "Tattooed Strike Simple Melee Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage and 13 (3d8) force damage. Firestorm Tattoo (Recharge 5-6). Yala unleashes flame from the tattoo across her back, filling 20 foot radius sphere centered on her. Each other creature in that area must make a DC 20 Dexterity Saving Throw. On a failed save, the creature takes 22…"
+  },
+  {
+    "offset_secs": 4832.026999950409,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "23"
+  },
+  {
+    "offset_secs": 4999.831000089645,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Draconic Transformation 7th Level Transmutation Casting Time 1 bonus action Duration up to 1 minute Components V, S, M(a statuette of a dragon, worth at least 500 gp) Range Self Area of Effect 60ft. AoE Shape Cone Concentration Requires Concentration With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell en…"
+  },
+  {
+    "offset_secs": 5007.660000085831,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 22 6d8 8 2 7 1 1 3 22 | rzuty: = 22, 6d8"
+  },
+  {
+    "offset_secs": 5064.765000104904,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5119.7119998931885,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 17, 1d20 + 11"
+  },
+  {
+    "offset_secs": 5121.427999973297,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 29, 1d20 + 11"
+  },
+  {
+    "offset_secs": 5129.569999933243,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 20 11 + 9"
+  },
+  {
+    "offset_secs": 5151.305000066757,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Shining Smite 2nd Level Transmutation Casting Time 1 bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike Duration up to 1 minute Components V Ra… | rzuty: = 9, 2d6"
+  },
+  {
+    "offset_secs": 5225.0490000247955,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5251.137000083923,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "102"
+  },
+  {
+    "offset_secs": 5263.944999933243,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 5300.75200009346,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "Lightning Breath Feature Dexterity Saving Throw: DC 15 , each creature in a 60-foot-long, 5-foot-wide Line . Failure: 49 ( 9d10 Lightning ) damage. Success: Half damage. DC 15 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft line"
+  },
+  {
+    "offset_secs": 5340.045000076294,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "61"
+  },
+  {
+    "offset_secs": 5384.608000040054,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5414.111999988556,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 5476.5650000572205,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5619.381999969482,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 21 14 + 7, = Critical Damage: 28 6 + 6 + 16, = Conditional: 5 5, = Combined: 49 14 + 7 + 6 + 6 + 16"
+  },
+  {
+    "offset_secs": 5640.453999996185,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 5756.903000116348,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 22 17 + 5"
+  },
+  {
+    "offset_secs": 5784.993999958038,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 21 16 + 5"
+  },
+  {
+    "offset_secs": 5806.947999954224,
+    "speaker": "Helios",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 5824.487999916077,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5873.901999950409,
+    "speaker": "Helios",
+    "kind": "roll",
+    "text": "Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5875.790999889374,
+    "speaker": "Helios",
+    "kind": "roll",
+    "text": "Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5877.802000045776,
+    "speaker": "Helios",
+    "kind": "roll",
+    "text": "Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 5944.743000030518,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 6016.352999925613,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "80"
+  },
+  {
+    "offset_secs": 6056.124000072479,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "7"
+  },
+  {
+    "offset_secs": 6084.680999994278,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 6089.063999891281,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 13 + 5"
+  },
+  {
+    "offset_secs": 6101.892999887466,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 6122.516999959946,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 6125.533999919891,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 14 + 7"
+  },
+  {
+    "offset_secs": 6137.611000061035,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 6142.216000080109,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 28 17 + 11"
+  },
+  {
+    "offset_secs": 6171.753000020981,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 6174.707000017166,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 14 + 8"
+  },
+  {
+    "offset_secs": 6184.380000114441,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 6188.0380001068115,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 11 + 10"
+  },
+  {
+    "offset_secs": 6204.176000118256,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 6207.378000020981,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 10 + 8"
+  },
+  {
+    "offset_secs": 6215.822000026703,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 6299.960000038147,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 6344.190999984741,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 6445.910000085831,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "Tattooed Strike Simple Melee Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage and 13 (3d8) force damage. Firestorm Tattoo (Recharge 5-6). Yala unleashes flame from the tattoo across her back, filling 20 foot radius sphere centered on her. Each other creature in that area must make a DC 20 Dexterity Saving Throw. On a failed save, the creature takes 22…"
+  },
+  {
+    "offset_secs": 6458.188999891281,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "28"
+  },
+  {
+    "offset_secs": 6478.503999948502,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 6511.194999933243,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 6515.920000076294,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 6518.927999973297,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 6519.959000110626,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 28, 6d8 + 6"
+  },
+  {
+    "offset_secs": 6525.891999959946,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Gift of the Chromatic Dragon: Reactive Resistance action When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+  },
+  {
+    "offset_secs": 6547.941999912262,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 26 6d8 8 3 3 1 5 6 26 | rzuty: = 26, 6d8"
+  },
+  {
+    "offset_secs": 6567.963999986649,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 6576.203999996185,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 6609.328000068665,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "20"
+  },
+  {
+    "offset_secs": 6627.869999885559,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 6668.441999912262,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "26"
+  },
+  {
+    "offset_secs": 6703.943000078201,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "14"
+  },
+  {
+    "offset_secs": 6734.874000072479,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 30, 1d20 + 11"
+  },
+  {
+    "offset_secs": 6736.400000095367,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 20, 1d20 + 11"
+  },
+  {
+    "offset_secs": 6747.861999988556,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 6751.757999897003,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 25 10 + 15"
+  },
+  {
+    "offset_secs": 6754.267999887466,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 15 7 + 8"
+  },
+  {
+    "offset_secs": 6806.898000001907,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 6836.3949999809265,
+    "speaker": "Colossus of Pythor",
+    "kind": "chat",
+    "text": "96"
+  },
+  {
+    "offset_secs": 6861.305000066757,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 6927.128000020981,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Mirror Image Legacy • 2nd Level Illusion (Cast at 2nd Level) Casting Time 1 action Duration 1 minute Components V, S Range Self Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates. Each time…"
+  },
+  {
+    "offset_secs": 6967.361000061035,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 8608.845999956131,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 8687.596999883652,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "23"
+  },
+  {
+    "offset_secs": 8703.790999889374,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "18"
+  },
+  {
+    "offset_secs": 8711.226000070572,
+    "speaker": "Trąba",
+    "kind": "chat",
+    "text": "10"
+  },
+  {
+    "offset_secs": 8748.016000032425,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 21 17 + 4"
+  },
+  {
+    "offset_secs": 8779.171999931335,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 23 15 + 8"
+  },
+  {
+    "offset_secs": 8810.951999902725,
+    "speaker": "Helios",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 8816.795000076294,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 8863.525000095367,
+    "speaker": "Helios",
+    "kind": "roll",
+    "text": "Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 8928.795000076294,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 8949.194999933243,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 8958.938999891281,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Death Saving Throw 5 1d20 + 1 1d20 4 | rzuty: = 5, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 9008.457999944687,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "10"
+  },
+  {
+    "offset_secs": 9043.630000114441,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 9097.882999897003,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "14"
+  },
+  {
+    "offset_secs": 9130.24799990654,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 9175.50300002098,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line"
+  },
+  {
+    "offset_secs": 9234.392999887466,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…"
+  },
+  {
+    "offset_secs": 9238.680999994278,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 9240.05999994278,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 22, 8d4 + 6"
+  },
+  {
+    "offset_secs": 9246.358000040054,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "13"
+  },
+  {
+    "offset_secs": 9290.424999952316,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 9304.194000005722,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 9329.825999975204,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "21"
+  },
+  {
+    "offset_secs": 9347.861999988556,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 9361.438999891281,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 24, 1d20 + 11"
+  },
+  {
+    "offset_secs": 9363.168999910355,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 12, 1d20 + 11"
+  },
+  {
+    "offset_secs": 9371.911000013351,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 20 11 + 9"
+  },
+  {
+    "offset_secs": 9391.052999973297,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 9408.786000013351,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "10"
+  },
+  {
+    "offset_secs": 9481.726999998093,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "105"
+  },
+  {
+    "offset_secs": 9546.174000024796,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 9628.321000099182,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "custom (4d4 + 4) 16 4d4 + 4 4d4 4 4 3 1 | rzuty: = 16, 4d4 + 4, 4d4"
+  },
+  {
+    "offset_secs": 9663.47000002861,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Sword of Fate 5th Level Illusion Casting Time 1 action Duration 1 hour Components V Range 60ft. Choose a creature that you can see. You create an illusionary sword that hangs above that creature's head. Everyone with line of sight can see the sword except for the affected creature. When you cast the spell you must shout out one of the following conditions: You cannot harm us. The target creature …"
+  },
+  {
+    "offset_secs": 9704.539000034332,
+    "speaker": "Colossus of Pythor",
+    "kind": "chat",
+    "text": "38"
+  },
+  {
+    "offset_secs": 9752.884000062943,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 9875.108999967575,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 21 13 + 8, = Critical Damage: 22 12 + 7 + 3, = Conditional: 2 2, = Combined: 43 13 + 8 + 12 + 7 + 3"
+  },
+  {
+    "offset_secs": 9894.236000061035,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "5"
+  },
+  {
+    "offset_secs": 9916.762000083923,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 27 18 + 9"
+  },
+  {
+    "offset_secs": 9993.144000053406,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Intimidation (+4) 23 1d20 + 4 1d20 19 | rzuty: = 23, 1d20 + 4, 1d20"
+  },
+  {
+    "offset_secs": 10027.200999975204,
+    "speaker": "Helios",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 10062.091000080109,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "8"
+  },
+  {
+    "offset_secs": 10130.857000112534,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10151.346999883652,
+    "speaker": "Helios",
+    "kind": "roll",
+    "text": "Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10199.142999887466,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10252.37700009346,
+    "speaker": "Helios",
+    "kind": "chat",
+    "text": "24"
+  },
+  {
+    "offset_secs": 10276.348000049591,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled] &Reference[unconscious] &Reference[prone]"
+  },
+  {
+    "offset_secs": 10297.65499997139,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Death Saving Throw 15 1d20 + 1 1d20 14 | rzuty: = 15, 1d20 + 1, 1d20"
+  },
+  {
+    "offset_secs": 10327.536000013351,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10349.358999967575,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 10352.993999958038,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10358.512000083923,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10408.588000059128,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10486.891999959946,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 10509.335999965668,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 10530.184000015259,
+    "speaker": "Yala",
+    "kind": "chat",
+    "text": "yala 1 -1 pythor 2 - 0"
+  },
+  {
+    "offset_secs": 10547.522000074387,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 2nd Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 10552.265000104904,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 21, 4d8 + 6"
+  },
+  {
+    "offset_secs": 10558.880000114441,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "11"
+  },
+  {
+    "offset_secs": 10560.584000110626,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 10630.983000040054,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 31 6d8 8 5 7 2 8 1 31 | rzuty: = 31, 6d8"
+  },
+  {
+    "offset_secs": 10647.33999991417,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 10649.290999889374,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 10704.755000114441,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10716.029000043869,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Silvery Barbs 1st Level Enchantment Casting Time 1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw Duration Instantaneous Components V Range 60ft. You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must rero…"
+  },
+  {
+    "offset_secs": 10739.584000110626,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 12 Concentration Concentration"
+  },
+  {
+    "offset_secs": 10747.658999919891,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "22"
+  },
+  {
+    "offset_secs": 10759.365000009537,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 10874.084000110626,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "16"
+  },
+  {
+    "offset_secs": 10914.772000074387,
+    "speaker": "Colossus of Pythor",
+    "kind": "chat",
+    "text": "110"
+  },
+  {
+    "offset_secs": 10965.973000049591,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 10980.266999959946,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 14 Concentration Concentration"
+  },
+  {
+    "offset_secs": 11109.341000080109,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Banishment Legacy • 4th Level Abjuration (Cast at 6th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(an item distasteful to the target) Range 60ft. Concentration Requires Concentration You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished. If the target is native to t…"
+  },
+  {
+    "offset_secs": 11207.961999893188,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 11209.538000106812,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 11266.266999959946,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 11352.858999967575,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 11352.993000030518,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 27 19 + 8, = Critical Damage: 20 2 + 3 + 15, = Conditional: 4 4, = Combined: 47 19 + 8 + 2 + 3 + 15"
+  },
+  {
+    "offset_secs": 11406.394999980927,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 18 9 + 9"
+  },
+  {
+    "offset_secs": 11457.819999933243,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Intimidation (+4) 9 1d20 + 4 1d20 5 | rzuty: = 9, 1d20 + 4, 1d20"
+  },
+  {
+    "offset_secs": 11485.24699997902,
+    "speaker": "Helios",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 11499.65499997139,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 11516.470999956131,
+    "speaker": "Helios",
+    "kind": "roll",
+    "text": "Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 11618.357000112534,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 11627.743000030518,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled] &Reference[prone]"
+  },
+  {
+    "offset_secs": 11667.323999881744,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "38"
+  },
+  {
+    "offset_secs": 11675.696000099182,
+    "speaker": "Tysophale",
+    "kind": "chat",
+    "text": "26"
+  },
+  {
+    "offset_secs": 11696.846999883652,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled] &Reference[prone]"
+  },
+  {
+    "offset_secs": 11708.875,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 11802.555000066757,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 17, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 11818.358000040054,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 11826.821000099182,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 11835.177999973297,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 28, 1d20 + 12, 1d20"
+  },
+  {
+    "offset_secs": 11839.596999883652,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 13 + 9"
+  },
+  {
+    "offset_secs": 11869.703000068665,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Second Wind (1d10+13) 23 1d10 + 13 1d10 10 | rzuty: = 23, 1d10 + 13, 1d10"
+  },
+  {
+    "offset_secs": 11925.417999982834,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "10"
+  },
+  {
+    "offset_secs": 11930.792999982834,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "7"
+  },
+  {
+    "offset_secs": 11971.581000089645,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 11972.697999954224,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 12007.049999952316,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 12009.948999881744,
+    "speaker": "Colossus of Pythor",
+    "kind": "roll",
+    "text": "Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 12024.888999938965,
+    "speaker": "?",
+    "kind": "chat",
+    "text": "yala 1 -1 pythor 3 - 0 kyrah 0 - 2"
+  },
+  {
+    "offset_secs": 12062.473999977112,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "18"
+  },
+  {
+    "offset_secs": 12069.798000097275,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "yala 2 -1 pythor 3 - 0 kyrah 0 - 2"
+  },
+  {
+    "offset_secs": 12077.743999958038,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "20"
+  },
+  {
+    "offset_secs": 12087.526999950409,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "4"
+  },
+  {
+    "offset_secs": 12132.980999946594,
+    "speaker": "Arkyrania",
+    "kind": "chat",
+    "text": "18"
+  },
+  {
+    "offset_secs": 12145.737999916077,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12164.391999959946,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Draconic Transformation (6d8) 32 6d8 6 5 5 8 5 3 32 | rzuty: = 32, 6d8"
+  },
+  {
+    "offset_secs": 12290.585000038147,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Intimidation (-1) 3 1d20 - 1 4 4 12 1d20 - 1 13 13 | rzuty: 1d20 - 1, 1d20 - 1"
+  },
+  {
+    "offset_secs": 12301.134000062943,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 12366.259999990463,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "17"
+  },
+  {
+    "offset_secs": 12380.134000062943,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12396.341000080109,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 12412.944000005722,
+    "speaker": "Kentimane",
+    "kind": "chat",
+    "text": "Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient"
+  },
+  {
+    "offset_secs": 12427.542000055313,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 13 Concentration Concentration"
+  },
+  {
+    "offset_secs": 12463.286999940872,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Dimension Door Legacy • 4th Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V Range 500ft. You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as \"200 feet straight d…"
+  },
+  {
+    "offset_secs": 12591.322999954224,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Intimidation (+11) 14 1d20 + 11 3 3 | rzuty: = 14, 1d20 + 11"
+  },
+  {
+    "offset_secs": 12610.519000053406,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Intimidation (+11) 29 1d20 + 11 18 18 | rzuty: = 29, 1d20 + 11"
+  },
+  {
+    "offset_secs": 12716.525000095367,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "88"
+  },
+  {
+    "offset_secs": 13261.056999921799,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "i wtedy... DWA LEVELE! xD"
+  },
+  {
+    "offset_secs": 13736.341000080109,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "straciliśmy też Hooooooberta!"
+  },
+  {
+    "offset_secs": 14377.898999929428,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "dla jaj Melania rzucała by Turn Undead przy Orestesie"
+  },
+  {
+    "offset_secs": 15381.345999956131,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 15385.832999944687,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "1"
+  },
+  {
+    "offset_secs": 15391.838000059128,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 15396.65599989891,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "3"
+  },
+  {
+    "offset_secs": 15406.230999946594,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 38 Concentration Concentration"
+  },
+  {
+    "offset_secs": 15414.158999919891,
+    "speaker": "Orion Xul",
+    "kind": "chat",
+    "text": "6"
+  },
+  {
+    "offset_secs": 15419.982000112534,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "9"
+  },
+  {
+    "offset_secs": 15421.108000040054,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "DC 54 Concentration Concentration"
+  },
+  {
+    "offset_secs": 15424.928999900818,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 10 Concentration Concentration"
+  },
+  {
+    "offset_secs": 15427.003999948502,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "DC 33 Concentration Concentration"
+  }
+]

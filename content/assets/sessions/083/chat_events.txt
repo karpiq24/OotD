@@ -1,0 +1,262 @@
+[PRZED NAGRANIEM] ?: 🎉Welcome to Gambit's FXMaster V8.3.4! **8.3.4: Added Orbit mode to the Clouds particle effect, and added a Token Disposition selector to Token Avoidance effects!** Super exciting update! This release brings new Backgrounds and Token Interactions to many effects along with many other nice quality of life updates. Please check out the Release Notes for more detail. If you are a NEW FXMaster user: C…
+[00:05:31] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages
+[00:05:44] Arevon Elorrenthi: 16
+[00:05:45] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 33, 6d8 + 6
+[00:05:50] Arevon Elorrenthi: 2
+[00:06:16] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages
+[00:06:19] Arevon Elorrenthi: 2
+[00:06:20] Arevon Elorrenthi: 9
+[00:06:22] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 32, 6d8 + 6
+[00:06:41] Arevon Elorrenthi: 31
+[00:08:21] Arevon Elorrenthi (rzut): Potion of Healing (2d4 + 2) 6 2d4 + 2 3 1 4 | rzuty: = 6, 2d4 + 2
+[00:09:15] Orion Xul (rzut): Potion of Healing (2d4 + 2) 6 2d4 + 2 2d4 2 2 | rzuty: = 6, 2d4 + 2, 2d4
+[00:09:23] Orion Xul (rzut): Potion of Healing (2d4 + 2) 8 2d4 + 2 2d4 3 3 | rzuty: = 8, 2d4 + 2, 2d4
+[00:09:34] Versir: 13
+[00:09:39] Versir: 19
+[00:09:58] Orion Xul: zostało 14 potion of healing
+[00:32:48] Felicjan Janus Twardowski (rzut): Persuasion (+0) 3 1d20 + 0 1d20 3 19 1d20 + 0 1d20 19 | rzuty: 1d20 + 0, 1d20, 1d20 + 0, 1d20
+[00:35:21] Felicjan Janus Twardowski (rzut): Hit Dice 5 1d6 + 3 1d6 2 | rzuty: = 5, 1d6 + 3, 1d6
+[00:36:14] Felicjan Janus Twardowski: 81
+[00:36:22] Orestes: 67
+[00:36:38] Felicjan Janus Twardowski: 9
+[00:42:11] Orestes: Armor of the Colossus Armor (Half Plate), Rare (requires attunement) You may use an action to speak the armor’s command word to take on the form of a colossus, doubling your size in all dimensions and multiplying your weight by eight for ten minutes, until you become unconscious, or until you use your action to speak the command word again. This growth increases your size by one category such as …
+[00:51:27] Felicjan Janus Twardowski: 79
+[00:51:40] Arevon Elorrenthi: 15
+[00:51:49] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Components: : V, S Roll Damages
+[00:51:50] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting a… | rzuty: = 15, 2d8 + 6
+[00:51:58] Arevon Elorrenthi: 3
+[00:52:49] Versir: 15.08
+[00:52:50] Arevon Elorrenthi: 16.16
+[00:52:53] Sybolkorax: 10.1
+[00:52:57] Felicjan Janus Twardowski: 9.14
+[00:53:00] Orion Xul: 18.11
+[00:53:18] Orestes: 22.14
+[00:53:24] Helios: 20.14
+[00:53:24] Yala: 17.24
+[00:53:24] Kentimane: 22.16
+[00:55:36] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 18 1d20 + 12 1d20 6 Piercing Damage: 13 1d8 + 7 1d8 6 | rzuty: 1d20 + 12, 1d20 = 13, 1d8 + 7, 1d8
+[00:55:57] Sybolkorax: 1
+[00:57:58] Klonicjan: 18.1
+[01:02:44] Arevon Elorrenthi (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 20 1d20 + 9 11 11 27 1d20 + 9 18 18 Roll Damages | rzuty: 1d20 + 9, 1d20 + 9
+[01:02:57] Arkyrania: 2
+[01:03:02] Arevon Elorrenthi (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. Piercing Damage: 10 1d8 + 4 6 6 | rzuty: = 10, 1d8 + 4
+[01:04:10] Versir (rzut): Sorcerous Burst Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 120ft. You cast sorcerous energy at one creature or object within range. Make a ranged spell attac… | rzuty: = 16, 1d20 + 11
+[01:05:03] Tysophale: 81
+[01:07:02] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:09:23] Sybolkorax: 65
+[01:10:19] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:10:56] Helios: Fire Breath Feature Dexterity Saving Throw: DC 24 , each creature in a 90-foot Cone . Failure: 71 ( 13d10 Fire ) damage. Success: Half damage. DC 24 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft cone
+[01:12:32] Arkyrania: 90
+[01:14:37] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20
+[01:14:47] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20
+[01:15:08] Orion Xul (rzut): Javelin of Lightning (4d6) 19 4d6 4d6 6 5 2 6 | rzuty: = 19, 4d6, 4d6
+[01:15:13] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d6 + 7, 4d6 = Damage: 24 11 + 13
+[01:15:39] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20
+[01:15:55] Orion Xul (rzut): Javelin of Lightning (4d6) 15 4d6 4d6 4 6 2 3 | rzuty: = 15, 4d6, 4d6
+[01:15:56] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d6 + 7, 4d6 = Damage: 33 12 + 21
+[01:17:36] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:18:07] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[01:19:18] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:19:56] Yala: Tattooed Strike Simple Melee Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage and 13 (3d8) force damage. Firestorm Tattoo (Recharge 5-6). Yala unleashes flame from the tattoo across her back, filling 20 foot radius sphere centered on her. Each other creature in that area must make a DC 20 Dexterity Saving Throw. On a failed save, the creature takes 22…
+[01:20:32] Yala: 23
+[01:23:19] Arevon Elorrenthi: Draconic Transformation 7th Level Transmutation Casting Time 1 bonus action Duration up to 1 minute Components V, S, M(a statuette of a dragon, worth at least 500 gp) Range Self Area of Effect 60ft. AoE Shape Cone Concentration Requires Concentration With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell en…
+[01:23:27] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 22 6d8 8 2 7 1 1 3 22 | rzuty: = 22, 6d8
+[01:24:24] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[01:25:19] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 17, 1d20 + 11
+[01:25:21] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 29, 1d20 + 11
+[01:25:29] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 20 11 + 9
+[01:25:51] Versir (rzut): Shining Smite 2nd Level Transmutation Casting Time 1 bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike Duration up to 1 minute Components V Ra… | rzuty: = 9, 2d6
+[01:27:05] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:27:31] Tysophale: 102
+[01:27:43] Versir: DC 12 Concentration Concentration
+[01:28:20] Tysophale: Lightning Breath Feature Dexterity Saving Throw: DC 15 , each creature in a 60-foot-long, 5-foot-wide Line . Failure: 49 ( 9d10 Lightning ) damage. Success: Half damage. DC 15 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft line
+[01:29:00] Tysophale: 61
+[01:29:44] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[01:30:14] Versir: DC 12 Concentration Concentration
+[01:31:16] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:33:39] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 21 14 + 7, = Critical Damage: 28 6 + 6 + 16, = Conditional: 5 5, = Combined: 49 14 + 7 + 6 + 6 + 16
+[01:34:00] Orestes: 4
+[01:35:56] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 22 17 + 5
+[01:36:24] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 21 16 + 5
+[01:36:46] Helios: Applied conditions: &Reference[grappled]
+[01:37:04] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:37:53] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+[01:37:55] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+[01:37:57] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+[01:39:04] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[01:40:16] Yala: 80
+[01:40:56] Orion Xul: 7
+[01:41:24] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20
+[01:41:29] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 13 + 5
+[01:41:41] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20
+[01:42:02] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+[01:42:05] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 14 + 7
+[01:42:17] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+[01:42:22] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 28 17 + 11
+[01:42:51] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+[01:42:54] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 14 + 8
+[01:43:04] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+[01:43:08] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 11 + 10
+[01:43:24] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+[01:43:27] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 10 + 8
+[01:43:35] Orion Xul: 5
+[01:44:59] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+[01:45:44] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[01:47:25] Yala: Tattooed Strike Simple Melee Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage and 13 (3d8) force damage. Firestorm Tattoo (Recharge 5-6). Yala unleashes flame from the tattoo across her back, filling 20 foot radius sphere centered on her. Each other creature in that area must make a DC 20 Dexterity Saving Throw. On a failed save, the creature takes 22…
+[01:47:38] Yala: 28
+[01:47:58] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+[01:48:31] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages
+[01:48:35] Arkyrania: 4
+[01:48:38] Arkyrania: 9
+[01:48:39] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 28, 6d8 + 6
+[01:48:45] Orion Xul: Gift of the Chromatic Dragon: Reactive Resistance action When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+[01:49:07] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 26 6d8 8 3 3 1 5 6 26 | rzuty: = 26, 6d8
+[01:49:27] Versir: Applied conditions: &Reference[grappled]
+[01:49:36] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+[01:50:09] Kentimane: 20
+[01:50:27] Versir: DC 10 Concentration Concentration
+[01:51:08] Versir: 26
+[01:51:43] Versir: 14
+[01:52:14] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 30, 1d20 + 11
+[01:52:16] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 20, 1d20 + 11
+[01:52:27] Versir: 2
+[01:52:31] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 25 10 + 15
+[01:52:34] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 15 7 + 8
+[01:53:26] Versir: 4
+[01:53:56] Colossus of Pythor: 96
+[01:54:21] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+[01:55:27] Felicjan Janus Twardowski: Mirror Image Legacy • 2nd Level Illusion (Cast at 2nd Level) Casting Time 1 action Duration 1 minute Components V, S Range Self Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates. Each time…
+[01:56:07] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+[02:23:28] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[02:24:47] Trąba: 23
+[02:25:03] Trąba: 18
+[02:25:11] Trąba: 10
+[02:25:48] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 21 17 + 4
+[02:26:19] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 23 15 + 8
+[02:26:50] Helios: Applied conditions: &Reference[grappled]
+[02:26:56] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[02:27:43] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+[02:28:48] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[02:29:09] Orion Xul: Applied conditions: &Reference[grappled]
+[02:29:18] Orion Xul (rzut): Death Saving Throw 5 1d20 + 1 1d20 4 | rzuty: = 5, 1d20 + 1, 1d20
+[02:30:08] Tysophale: 10
+[02:30:43] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[02:31:37] Arevon Elorrenthi: 14
+[02:32:10] Yala: 9
+[02:32:55] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+[02:33:54] Arevon Elorrenthi: Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…
+[02:33:58] Arevon Elorrenthi: 4
+[02:34:00] Arevon Elorrenthi (rzut): Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 22, 8d4 + 6
+[02:34:06] Arevon Elorrenthi: 13
+[02:34:50] Versir: Applied conditions: &Reference[grappled]
+[02:35:04] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[02:35:29] karpiq: 21
+[02:35:47] Versir: DC 10 Concentration Concentration
+[02:36:01] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 24, 1d20 + 11
+[02:36:03] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 12, 1d20 + 11
+[02:36:11] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 20 11 + 9
+[02:36:31] Versir: 6
+[02:36:48] Versir: 10
+[02:38:01] Tysophale: 105
+[02:39:06] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[02:40:28] Orion Xul (rzut): custom (4d4 + 4) 16 4d4 + 4 4d4 4 4 3 1 | rzuty: = 16, 4d4 + 4, 4d4
+[02:41:03] Felicjan Janus Twardowski: Sword of Fate 5th Level Illusion Casting Time 1 action Duration 1 hour Components V Range 60ft. Choose a creature that you can see. You create an illusionary sword that hangs above that creature's head. Everyone with line of sight can see the sword except for the affected creature. When you cast the spell you must shout out one of the following conditions: You cannot harm us. The target creature …
+[02:41:44] Colossus of Pythor: 38
+[02:42:32] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[02:44:35] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 21 13 + 8, = Critical Damage: 22 12 + 7 + 3, = Conditional: 2 2, = Combined: 43 13 + 8 + 12 + 7 + 3
+[02:44:54] Orestes: 5
+[02:45:16] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 27 18 + 9
+[02:46:33] Orestes (rzut): Intimidation (+4) 23 1d20 + 4 1d20 19 | rzuty: = 23, 1d20 + 4, 1d20
+[02:47:07] Helios: Applied conditions: &Reference[grappled]
+[02:47:42] Orestes: 8
+[02:48:50] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[02:49:11] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+[02:49:59] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[02:50:52] Helios: 24
+[02:51:16] Orion Xul: Applied conditions: &Reference[grappled] &Reference[unconscious] &Reference[prone]
+[02:51:37] Orion Xul (rzut): Death Saving Throw 15 1d20 + 1 1d20 14 | rzuty: = 15, 1d20 + 1, 1d20
+[02:52:07] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[02:52:29] karpiq: 17
+[02:52:32] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[02:52:38] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[02:53:28] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[02:54:46] Arkyrania: 9
+[02:55:09] Yala: 17
+[02:55:30] Yala: yala 1 -1 pythor 2 - 0
+[02:55:47] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 2nd Level Components: : V, S Roll Damages
+[02:55:52] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 21, 4d8 + 6
+[02:55:58] Arevon Elorrenthi: 11
+[02:56:00] Arevon Elorrenthi: 1
+[02:57:10] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 31 6d8 8 5 7 2 8 1 31 | rzuty: = 31, 6d8
+[02:57:27] Versir: Applied conditions: &Reference[grappled]
+[02:57:29] Versir: DC 10 Concentration Concentration
+[02:58:24] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[02:58:36] Arevon Elorrenthi: Silvery Barbs 1st Level Enchantment Casting Time 1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw Duration Instantaneous Components V Range 60ft. You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must rero…
+[02:58:59] Arevon Elorrenthi: DC 12 Concentration Concentration
+[02:59:07] Kentimane: 22
+[02:59:19] Versir: DC 10 Concentration Concentration
+[03:01:14] Versir: 16
+[03:01:54] Colossus of Pythor: 110
+[03:02:45] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[03:03:00] Arevon Elorrenthi: DC 14 Concentration Concentration
+[03:05:09] Felicjan Janus Twardowski: Banishment Legacy • 4th Level Abjuration (Cast at 6th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(an item distasteful to the target) Range 60ft. Concentration Requires Concentration You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished. If the target is native to t…
+[03:06:47] Tysophale: 3
+[03:06:49] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+[03:07:46] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[03:09:12] Orestes: 6
+[03:09:12] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 27 19 + 8, = Critical Damage: 20 2 + 3 + 15, = Conditional: 4 4, = Combined: 47 19 + 8 + 2 + 3 + 15
+[03:10:06] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 18 9 + 9
+[03:10:57] Orestes (rzut): Intimidation (+4) 9 1d20 + 4 1d20 5 | rzuty: = 9, 1d20 + 4, 1d20
+[03:11:25] Helios: Applied conditions: &Reference[grappled]
+[03:11:39] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[03:11:56] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+[03:13:38] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+[03:13:47] Orion Xul: Applied conditions: &Reference[grappled] &Reference[prone]
+[03:14:27] Tysophale: 38
+[03:14:35] Tysophale: 26
+[03:14:56] Orion Xul: Applied conditions: &Reference[grappled] &Reference[prone]
+[03:15:08] Orion Xul: 17
+[03:16:42] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 17, 1d20 + 12, 1d20
+[03:16:58] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+[03:17:06] Orion Xul: 3
+[03:17:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 28, 1d20 + 12, 1d20
+[03:17:19] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 13 + 9
+[03:17:49] Orion Xul (rzut): Second Wind (1d10+13) 23 1d10 + 13 1d10 10 | rzuty: = 23, 1d10 + 13, 1d10
+[03:18:45] Kentimane: 10
+[03:18:50] Kentimane: 7
+[03:19:31] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+[03:19:32] Felicjan Janus Twardowski: 2
+[03:20:07] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[03:20:09] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+[03:20:24] ?: yala 1 -1 pythor 3 - 0 kyrah 0 - 2
+[03:21:02] Arevon Elorrenthi: 18
+[03:21:09] Arevon Elorrenthi: yala 2 -1 pythor 3 - 0 kyrah 0 - 2
+[03:21:17] Arevon Elorrenthi: 20
+[03:21:27] Arkyrania: 4
+[03:22:12] Arkyrania: 18
+[03:22:25] Arevon Elorrenthi: DC 10 Concentration Concentration
+[03:22:44] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 32 6d8 6 5 5 8 5 3 32 | rzuty: = 32, 6d8
+[03:24:50] Arevon Elorrenthi (rzut): Intimidation (-1) 3 1d20 - 1 4 4 12 1d20 - 1 13 13 | rzuty: 1d20 - 1, 1d20 - 1
+[03:25:01] Versir: Applied conditions: &Reference[grappled]
+[03:26:06] Arevon Elorrenthi: 17
+[03:26:20] Versir: DC 10 Concentration Concentration
+[03:26:36] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[03:26:52] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+[03:27:07] Arevon Elorrenthi: DC 13 Concentration Concentration
+[03:27:43] Versir: Dimension Door Legacy • 4th Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V Range 500ft. You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight d…
+[03:29:51] Versir (rzut): Intimidation (+11) 14 1d20 + 11 3 3 | rzuty: = 14, 1d20 + 11
+[03:30:10] Versir (rzut): Intimidation (+11) 29 1d20 + 11 18 18 | rzuty: = 29, 1d20 + 11
+[03:31:56] Felicjan Janus Twardowski: 88
+[03:41:01] Arevon Elorrenthi: i wtedy... DWA LEVELE! xD
+[03:48:56] Felicjan Janus Twardowski: straciliśmy też Hooooooberta!
+[03:59:37] Felicjan Janus Twardowski: dla jaj Melania rzucała by Turn Undead przy Orestesie
+[04:16:21] Felicjan Janus Twardowski: 2
+[04:16:25] Arevon Elorrenthi: 1
+[04:16:31] Arevon Elorrenthi: 6
+[04:16:36] Versir: 3
+[04:16:46] Versir: DC 38 Concentration Concentration
+[04:16:54] Orion Xul: 6
+[04:16:59] Orestes: 9
+[04:17:01] Arevon Elorrenthi: DC 54 Concentration Concentration
+[04:17:04] Versir: DC 10 Concentration Concentration
+[04:17:07] Versir: DC 33 Concentration Concentration
