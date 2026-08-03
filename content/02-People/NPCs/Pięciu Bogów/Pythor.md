@@ -34,7 +34,9 @@ Tajemnicę utrzymywała klauzula wpisana w [[Przysięga Pokoju|Przysięgę Pokoj
 
 Gdy [[Felicjan Janus Twardowski|Felicjan]] wypowiedział treść klauzuli na głos, Przysięga pękła, a domeny wróciły do [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Pythor przeobraził się w smoka na pokładzie [[Ultros|Ultrosa]] i walczył w Bitwie o [[Mytros]] jako [[Raspytrion]] — bez boskiej mocy, ale wreszcie **bez ograniczeń Przysięgi**, która przez wieki zabraniała mu stanąć naprzeciw Tytanów. W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] został ciężko raniony glewią [[Sydon|Sydona]].
 
-Ma to bezpośrednie znaczenie dla [[Orion Xul|Oriona]]: jego ojciec nigdy nie był bogiem, a on sam nie jest półbogiem w takim sensie, w jakim wierzył przez całe życie. Sprawa nigdy nie została między nimi przepracowana.
+**Uwaga: to nie znaczy, że Pythor nigdy nie był bogiem.** Domena bitwy była w jego posiadaniu realnie i nieprzerwanie przez cztery wieki — kradzione portfolio nie przestaje działać dlatego, że zostało ukradzione. Pythor **był** bogiem i **przestał** nim być w [[Sesja 75 - Koniec Przysięgi|sesji 75]]; to detronizacja, nie demaskacja. Tym samym [[Orion Xul|Orion]] jest półbogiem w pełnym tego słowa znaczeniu: został spłodzony przez dzierżyciela domeny, a [[Sesja 12 - Furia Boga Bitwy|w sesji 12]] Pythor spalił część tej samej boskiej mocy, żeby go wskrzesić — i nigdy jej nie odzyskał.
+
+Sprawa nigdy nie została między nimi przepracowana. Po śmierci [[Sydon|Sydona]] i [[Lutheria|Lutherii]] odzyskane przez nich domeny są **nieobsadzone** i nikt — łącznie z byłymi bogami — nie wie, jak się po nie sięga.
 
 **Drużyna postanowiła nie ujawniać tego publicznie.** Dla mieszkańców Thylei Pythor pozostaje Bogiem Bitwy i królem [[Estoria|Estorii]].
 

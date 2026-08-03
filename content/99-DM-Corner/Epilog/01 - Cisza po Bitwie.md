@@ -84,7 +84,7 @@ title: "Epilog — Cisza po Bitwie"
 >
 > *Śmieje się z własnego żartu sam. Za głośno i o sekundę za długo. Potem przestaje.*
 >
-> **Brax** *(patrząc gdzieś obok)*: „Orestes. Wracasz do domu, prawda? Bo ja mam beczkę. Trzymałem ją cały ten rok, tę z dwudziestego drugiego, i wszyscy mi mówili, żeby otworzyć, bo i tak wszyscy zginiemy, a ja mówiłem nie, bo mój kuzyn wróci. Więc ona stoi. Stoi i czeka. Powiedz, że przyjdziesz."
+> **Brax** *(patrząc gdzieś obok)*: „Orestes. Wracasz do domu, prawda? Bo ja mam beczkę. Trzymałem ją całą tę wojnę, tę z dwudziestego drugiego, i wszyscy mi mówili, żeby otworzyć, bo i tak wszyscy zginiemy, a ja mówiłem nie, bo mój kuzyn wróci. Więc ona stoi. Stoi i czeka. Powiedz, że przyjdziesz."
 
 *Cue: **nie odpowiadaj za gracza i nie ratuj sceny.** Jeśli [[Orestes]] milczy, Brax zacznie mówić o czymś innym — o [[Nessa|Nessie]], o tym, co dowódca powinien robić z flanką, o urwanym rogu — byle nie usłyszeć odpowiedzi. To ma boleć właśnie dlatego, że jest zabawne.*
 
@@ -138,7 +138,7 @@ title: "Epilog — Cisza po Bitwie"
 >
 > Ciała nie odebrał nikt. Leżało w kostnicy między nierozpoznanymi, z kartką „nieznany", i tak też je pochowano — bez imienia.
 
-> **[[Chondrus]]** — niebieskoskóry tiefling, doradca króla [[Acastus|Acastusa]], w tajemnicy kapłan [[Lutheria|Lutherii]]. Szesnaście sesji przesiedział w waszej celi, arogancki i pedantyczny do końca, i przez cały ten czas próbował wam sprzedać sojusz z boginią, która wcale go nie chciała. Sama się przyznała: było jej przy nim niewygodnie, spychała go na [[Gaius|Gaiusa]].
+> **[[Chondrus]]** — niebieskoskóry tiefling, doradca króla [[Acastus|Acastusa]], w tajemnicy kapłan [[Lutheria|Lutherii]]. Przesiedział w waszej celi pół wojny, arogancki i pedantyczny do końca, i przez cały ten czas próbował wam sprzedać sojusz z boginią, która wcale go nie chciała. Sama się przyznała: było jej przy nim niewygodnie, spychała go na [[Gaius|Gaiusa]].
 >
 > Oddaliście go jej w prezencie. Odnaleźliście go jako jej podnóżek — z wyrazem absolutnego zachwytu na twarzy. Zdążył jeszcze osłonić ją ścianą siły. Potem zabiło go jedno słowo [[Versir|Versira]] — dzwon pogrzebowy, który zabrzmiał mu w czaszce. Nie wiadomo, czy to najsmutniejsza, czy najgłupsza śmierć tej wojny.
 
@@ -148,7 +148,7 @@ title: "Epilog — Cisza po Bitwie"
 >
 > Wyciągnęliście ją z celi zaklętej ciszą, w której przesiedziała trzynaście lat, nie mogąc wydać z siebie głosu. Posadziliście ją na tronie jej zamordowanej matki. Pierwszą mowę, jaką w życiu publicznie wygłosiła, wykorzystała, żeby znieść niewolnictwo mężczyzn na [[Themis]] — bo tak zrozumiała, po co ją uwolniono.
 >
-> Przypłynęła z Lwicami bronić cudzego miasta. Zginęła na płonącym nabrzeżu Doków, prowadząc łuczniczki, jeszcze zanim zapadł zmierzch pierwszego i jedynego dnia tej wojny. Panowała cztery lata.
+> Przypłynęła z Lwicami bronić cudzego miasta. Zginęła na płonącym nabrzeżu Doków, prowadząc łuczniczki, jeszcze zanim zapadł zmierzch pierwszego i jedynego dnia tej wojny. Panowała kilka miesięcy.
 >
 > Ktoś musi teraz zawieźć jej ciało na [[Themis]] i stanąć przed [[Hippolyta|Hippolytą]]. I przed [[Moxena|Moxeną]].
 
@@ -194,7 +194,7 @@ title: "Epilog — Cisza po Bitwie"
 
 ## 7. Sprawy do domknięcia przy stole
 
-*Cue: sekcja dla ciebie, nie do czytania ciągiem. To sześć rzeczy, które **leżą** — konkretnych, materialnych, a w jednej z nich stoi żywy człowiek. Wrzucaj je pojedynczo, kiedy rozmowa przy stole zwolni. Każda ma być pytaniem, nie informacją.*
+*Cue: sekcja dla ciebie, nie do czytania ciągiem. To siedem rzeczy, które **leżą** — konkretnych i materialnych, a w jednej z nich stoi żywy człowiek. Wyjątkiem jest abdykacja [[Acastus|Acastusa]]: ona jedna ma własną scenę i przychodzi na własnych nogach. Resztę wrzucaj pojedynczo, kiedy rozmowa przy stole zwolni. Każda ma być pytaniem, nie informacją.*
 
 ### Księga z Praxys — dług, który naprawdę istnieje
 
@@ -240,9 +240,37 @@ Leży na płyciźnie w porcie, przechylony na burtę, kilka metrów pod powierzc
 
 [[Kolos Pythora]] stoi na [[Targ Minotaurów|Targu Minotaurów]], okopcony, z rozdartym bokiem, nadal na nogach. Nikt nie potrafi go ruszyć i nikt nie wie, co z nim zrobić.
 
-Kto trzyma [[Rod of Rulership|Berło Władzy]], **dowodzi mecha-bogiem**. Berło jest w tej chwili w rękach [[Acastus|Acastusa]], który oddał je raz pod naciskiem matki i dostał z powrotem, bo formalnie jest królem.
+Kto trzyma [[Rod of Rulership|Berło Władzy]], **dowodzi mecha-bogiem**. Berło zostawił [[Acastus|Acastus]] na stole w sali tronowej w dniu abdykacji (patrz niżej) — nie wręczył go nikomu, bo nie miał komu. Leży teraz w gabinecie [[Vallus]], w szufladzie, i od tamtego dnia nikt go nie podniósł.
 
-*Cue: to jest polityczna bomba i wszyscy w pałacu o tym wiedzą. [[Idylla]] wie o tym najlepiej.*
+*Cue: to jest polityczna bomba i wszyscy w pałacu o tym wiedzą. [[Idylla]] wie o tym najlepiej. Kto sięgnie po tron, sięga i po to.*
+
+### Abdykacja Acastusa i pusty tron
+
+*Cue: to jedyny punkt tej sekcji, który ma własną scenę i własny głos. Nie zapowiadaj go — [[Acastus]] przychodzi sam, bez posłańca i bez świty, i mówi krótko. Nie graj go na skruchę ani na teatr. Graj kogoś, kto podjął decyzję dawno i przyszedł ją tylko ogłosić.*
+
+> *Przychodzi pieszo, w podróżnym płaszczu, bez straży. Widać po nim, że przygotował sobie te zdania i że powtarzał je po drodze.*
+
+> **[[Acastus]]**: „Ustępuję. Nie dlatego, że ktoś mnie zmusił — nikt mnie nie zmusił, i to jest właśnie kłopot. Byłem królem, którego zabrakło w każdym dniu, w którym byłem potrzebny. To się nie da naprawić dekretem, więc nie będę próbował."
+>
+> **[[Acastus]]**: „Odchodzę z miasta. Sam, dobrowolnie, dziś. Nie chcę pensji, tytułu ani domu na wsi. Berło zostawiam na stole — nie wręczam go nikomu, bo nie mam już prawa niczego nikomu wręczać."
+
+*Cue: pauza. Niech przy stole wybrzmi, że **nikt tego nie wymusił** — nie ma tu wygranej do odtrąbienia.*
+
+> *Zatrzymuje się w drzwiach i odwraca. To jedyna rzecz, o którą prosi.*
+
+> **[[Acastus]]**: „O jedno tylko proszę i proszę was, nie radę. Ci ludzie, którzy stali po stronie [[Sydon|Sydona]] — niech ich nie wieszają. Niech nikogo za to nie ścinają. Sądy, grzywny, roboty przy odbudowie, wygnanie, co chcecie. Ale nie kara śmierci."
+>
+> **[[Acastus]]**: „Dość już nakarmiliśmy Hades."
+
+*Cue: nie każ mu tego uzasadniać. Jeśli któryś z graczy naciśnie — wzrusza ramionami i mówi: „Bo ja też stałem po tamtej stronie i nikt mnie nie powiesił." Potem wychodzi i **nie wraca w tej sesji**.*
+
+**Co z tego wynika przy stole — podaj wprost, jako fakt świata:**
+
+- **Domyślnie władzę przejmuje [[Vallus]].** Bez koronacji i bez przemów; robi to i tak od miesięcy. Miasto przyjmuje to jako coś oczywistego.
+- **Tron jest jednak naprawdę wolny — i każdy z bohaterów mógłby go zająć bez najmniejszego oporu.** Nie ma kontrkandydata, nie trzeba niczyjej zgody, a lud, który stawia im kapliczki w każdej dzielnicy, przyjąłby **każde** z nich z radością. Vallus w takim wypadku nie walczy: ustępuje w jednym zdaniu i zostaje przy biurku.
+- **Prośba Acastusa jest do rozstrzygnięcia przez graczy.** Nikt nie wykona wyroków na jeńcach [[Zakon Sydona|Zakonu]] bez ich zdania, bo w tym mieście nie ma dziś nikogo z większym prawem do wyrokowania niż oni.
+
+*Cue: **nie prowadź ich do żadnej odpowiedzi.** Kwestia amnestii wraca w `03 - Apel: Losy Thylei` (sekcja o [[Zakon Sydona|Zakonie]]), a korona — w `02 - Epilogi Bohaterów`, w sekcji „Oferta otwarta dla wszystkich pięciu". Tutaj tylko kładziesz to na stole.*
 
 ### Klonicjan
 
@@ -284,5 +312,5 @@ Nikt go nie wyprowadził. Nie wyszedł sam. Simulacrum [[Felicjan Janus Twardows
 - **Rachunek:** 4 118 zabitych z 50 000 → **osiem procent** → 45 882 żyje i to oni będą was szukać. Pauza między krokami.
 - **Lista poległych:** 2–4 linijki, inny rejestr za każdym razem. [[Steros]] (**[[Bront]] wciąż nie wie**), [[Icarus]] (wina [[Acastus|Acastusa]] i jego świetlistej włóczni), [[Tarchon]] (ciała nie odebrał nikt), [[Chondrus]] (fanatyk, którego bogini nie chciała — umarł szczęśliwy u jej stóp), **[[Darien]]** (uwolniona, koronowana i pochowana przez was — ktoś musi stanąć przed [[Moxena|Moxeną]]), **bezimienni z całego miasta** (jedna tablica, zero nazwisk).
 - **Żałoba:** uczty, igrzyska, pieśni [[Kyrah]], pomniki z błędami. **Kapliczki: co najmniej trzy na każdego, z kapłanem i bardem.** Kluczowe zdanie: *„czy przyjmiecie ten kult, czy nie — on już istnieje"*.
-- **Sześć spraw:** **księga z [[Praxys]]** ([[Traktat o Prawach i Zobowiązaniach Krwi|Traktat]] zapłacony z góry przez [[Mistrz Cieni|Mistrza Cieni]] — jedyny dług, który da się spłacić), kosa (przysięga [[Orestes|Orestesa]] vs oferta rytuału, dusze rodziców w ostrzu), [[Glewia Sydona|glewia]] (niczyja), wrak [[Ultros|Ultrosa]] (**najpierw [[Delphia]], potem skarb**), [[Kolos Pythora]] + [[Rod of Rulership|Berło]] u [[Acastus|Acastusa]], **[[Klonicjan]] wciąż stoi w kabinie**.
+- **Siedem spraw:** **księga z [[Praxys]]** ([[Traktat o Prawach i Zobowiązaniach Krwi|Traktat]] zapłacony z góry przez [[Mistrz Cieni|Mistrza Cieni]] — jedyny dług, który da się spłacić), kosa (przysięga [[Orestes|Orestesa]] vs oferta rytuału, dusze rodziców w ostrzu), [[Glewia Sydona|glewia]] (niczyja), wrak [[Ultros|Ultrosa]] (**najpierw [[Delphia]], potem skarb**), [[Kolos Pythora]] + [[Rod of Rulership|Berło]] (leży w szufladzie [[Vallus]], nikt go nie podniósł), **abdykacja [[Acastus|Acastusa]]** (odchodzi sam, prosi tylko o brak kary śmierci dla ludzi [[Sydon|Sydona]]: *„Dość już nakarmiliśmy Hades"* — tron przejmuje domyślnie [[Vallus]], ale wziąłby go bez oporu każdy z bohaterów), **[[Klonicjan]] wciąż stoi w kabinie**.
 - **Zamknięcie:** księga [[Kyrah]] z pustymi stronami → „co się stało i co się stanie" → `02 - Epilogi Bohaterów`.

@@ -14,7 +14,7 @@ title: "Epilog — Apel: Losy Thylei"
 >
 > *Nic z tego nie jest opowiadane przez bezimienny świat. To jest historia spisywana na waszych oczach.*
 >
-> *[[Kyrah]] zebrała was w [[Kwaśny Rocznik|Kwaśnym Roczniku]] pierwszego dnia, żeby napisać o was pieśń. Po osiemdziesięciu kilku sesjach ta pieśń ma sześćset stron, opisuje obalenie dwóch Tytanów i nosi tytuł, którego wam jeszcze nie zdradziła.*
+> *[[Kyrah]] zebrała was w [[Kwaśny Rocznik|Kwaśnym Roczniku]] pierwszego dnia, żeby napisać o was pieśń. Dziś ta pieśń ma sześćset stron, opisuje obalenie dwóch Tytanów i nosi tytuł, którego wam jeszcze nie zdradziła.*
 >
 > *To, co teraz usłyszycie, to jej ostatni rozdział — wielki apel. Kyrah chodzi po Thylei od tygodni i spisuje dom po domu, wyspa po wyspie, co po was zostało.*
 >
@@ -26,15 +26,17 @@ title: "Epilog — Apel: Losy Thylei"
 
 ## 1. Bogowie, którzy okazali się smokami
 
-> *Pięcioro bogów okazało się pięciorgiem smoków. Dziś to już powszechna wiedza w całej Thylei — nikt tego nie ukrywa, a same smoki powoli odsuwają się od boskości i porzucają swoje dawne, przybrane role patronów:*
+> *Pięcioro bogów okazało się pięciorgiem smoków — i cała [[Thylea]] już to wie. Oto, co każde z nich robi dzisiaj:*
 
 ### [[Vallus]] / [[Tysophale]]
 
-> *Do rządzenia wróciła następnego ranka bez zbędnych przemów czy ponownej koronacji — po prostu usiadła przy biurku i zaczęła podpisywać przydziały zboża. Berło oficjalnie wróciło do [[Acastus|Acastusa]], bo tak wypadało, ale miasto nawet tego nie zauważyło. Dokumenty i tak idą przez nią: pieczęć króla figuruje na dole, ale każda decyzja zapada piętro wyżej, przy jej biurku.*
+> *Do rządzenia wróciła następnego ranka bez zbędnych przemów czy ponownej koronacji — po prostu usiadła przy biurku i zaczęła podpisywać przydziały zboża. Kiedy [[Acastus]] abdykował i wyszedł z miasta, nie zmieniło się właściwie nic: dokumenty i tak od miesięcy szły przez nią. Ubyła tylko pieczęć u dołu. Nie ogłosiła się królową, nie kazała się tak tytułować i nie tknęła berła, które zostało po nim w szufladzie.*
 >
 > *Jako Bogini Mądrości wie o wszystkim — wie też dobrze, że znacie jej prawdziwą naturę. Nigdy jednak o tym nie wspomniała, ani słowem prośby, ani groźby. Traktuje was dokładnie tak samo jak wcześniej. I nie sposób rozstrzygnąć, czy wynika to z pełnego zaufania, czy z tego, że po prostu radzi sobie z tajemnicami lepiej niż wy wszyscy razem wzięci.*
 
 *Cue: nie rozwiązuj tego. Jeśli gracz zapyta wprost „czy ona wie, że my wiemy?", odpowiedz „wie" i milcz. Nie dopowiadaj emocji.*
+
+*Cue: **jeśli któryś z bohaterów wziął tron**, ten wpis brzmi inaczej i krócej: Vallus ustąpiła w jednym zdaniu, została przy biurku i pracuje dla niego dokładnie tak samo, jak pracowała dla Acastusa. Ani razu nie skomentowała tej zmiany.*
 
 ### [[Volkan]] / [[Sybolkorax]]
 
@@ -60,15 +62,17 @@ title: "Epilog — Apel: Losy Thylei"
 >
 > *Wciąż formalnie pozostaje mężem [[Hexia|Hexii]] i nadal ją kocha, choć nie wysłał do niej ani jednego listu. Do [[Anora|Anory]] przyznawał się zawsze, a [[Orion Xul|Orion]] okazał się drugim synem, choć zaakceptowanie tego wymagało trzydziestu lat i wojny. Pozostałych kilkunastu potomków doskonale wie, kim jest ich ojciec.*
 
+*Cue: **nie pozwól, żeby przy stole utrwaliło się, że Pythor „nigdy nie był bogiem".** Domena bitwy była w jego rękach realnie i nieprzerwanie przez cztery wieki — kradzione portfolio działa tak samo jak każde inne. On był bogiem i przestał nim być w jedno popołudnie [[Sesja 75 - Koniec Przysięgi|sesji 75]]. Tym samym [[Orion Xul|Orion]] jest półbogiem naprawdę, a nie „w takim sensie, w jakim wierzył". To ma znaczenie dla całej jego sekcji epilogu.*
+
 ### [[Helios]]
 
 > *Helios po prostu zniknął. [[Furie]] wygnały go z [[Ogród Heliosa|Ogrodu]] za złamanie praw gościnności i zostawiły w łańcuchach na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]], gdy był związany pakiem z [[Sydon|Sydonem]].*
 >
-> *Umówiliście się, że uwolnicie go, kiedy [[Przysięga Pokoju|Przysięga]] wygaśnie. Przysięga wygasła, Sydon zginął, a pakt jest dziś bezwartościowym świstkiem. Mimo to nikt nie widział złotego smoka nad Mytros — ani jednego dnia oblężenia. Nie przyszedł, nie przysłał cyklopów, nie przysłał słowa.*
+> *Umówiliście się, że uwolnicie go, kiedy [[Przysięga Pokoju|Przysięga]] wygaśnie. Przysięga wygasła, [[Sydon]] zginął, a pakt jest dziś bezwartościowym świstkiem — i przez cały dzień bitwy nikt nie widział nad [[Mytros]] złotego smoka. Nie przyszedł, nie przysłał cyklopów, nie przysłał słowa. Aż do ostatniej godziny, kiedy z resztek burzy wyszedł płonąc jak druga gwiazda i bił się z wami do końca, krzycząc do wszystkich naraz, żeby uderzali w jedno miejsce.*
 >
-> *Nikt nie wie, czy nadal wisi w tych łańcuchach, czy uwolnił się sam i po prostu postanowił nie wracać.*
+> *A potem znowu zniknął — nie pożegnał się, nie przyjął podziękowań i nie wytłumaczył się nikomu ani jednym zdaniem. Nikt nie wie, kto zdjął z niego łańcuchy, gdzie był przez cały ten czas i dlaczego przyleciał dopiero wtedy.*
 
-*Cue: **to jest zawieszona strzelba, nie zamknięty wątek.** Helios wraca dopiero w starciu z [[Kentimane|Kentimanem]] — do tego czasu odpowiedź na każde pytanie o niego brzmi „nie wiadomo". Nie zdradzaj, że się jeszcze pojawi.*
+*Cue: **to jest zawieszona strzelba, nie zamknięty wątek.** Sam fakt, że przyszedł na koniec, wolno potwierdzić — widziało go pół miasta. Na wszystko inne (kto go uwolnił, gdzie był wcześniej, gdzie jest teraz) odpowiedź brzmi „nie wiadomo" i tak ma zostać.*
 
 ### [[Hexia]]
 
@@ -76,7 +80,7 @@ title: "Epilog — Apel: Losy Thylei"
 >
 > *Wie o bliznach Pythora i o tym, że przeżył. Nie zapytała o niego ani razu — pytała za to trzy razy o pogodę nad [[Estoria|Estorią]].*
 
-*Cue: ten dług jest wymagalny i to gracze mają się o nim przypomnieć. Nie wywołuj go sam.*
+*Cue: ten dług jest wymagalny, ale [[Hexia]] nie zrobi ani jednego ruchu, żeby go ściągnąć. Jeśli gracze sami się o nim nie przypomną, wraca w epilogu [[Versir|Versira]] — nie ustami smoczycy, tylko przez sam miecz (`02 - Epilogi Bohaterów`, sekcja 4).*
 
 ### [[Kairos]] i [[Paradoks]]
 
@@ -104,21 +108,37 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### [[Acastus]]
 
-> *Acastus żyje — nikt go nie osądził, ale też nikt nie ułaskawił. Przebił własnego smoka, jego zakon smoczych jeźdźców wydał zdrajcę, jego doradca okazał się kapłanem [[Lutheria|Lutherii]], a sam Sydon nazwał go publicznie zwykłym narzędziem. Berło oddał dopiero wtedy, gdy matka kazała mu zrobić raz w życiu coś słusznego.*
+> *Acastus żyje — nikt go nie osądził i nikt nie ułaskawił. Przebił własnego smoka, jego zakon smoczych jeźdźców wydał zdrajcę, jego doradca okazał się kapłanem [[Lutheria|Lutherii]], a sam Sydon nazwał go publicznie zwykłym narzędziem. Przez pierwsze tygodnie po bitwie miał tytuł, pałac i pieczęć, której nikt już nie sprawdzał.*
 >
-> *W mieście nie ma na niego złości; jest coś gorszego — brak jakiegokolwiek zainteresowania. Ma tytuł, pałac i pieczęć, której nikt już nie sprawdza. Podpisuje dokumenty, które i tak przechodzą przez biurko [[Vallus]]. Chciał być królem, którego nie potrzebują bohaterowie — został królem, którego nie potrzebuje nikt.*
+> *Potem zrobił jedyną rzecz, której nikt się po nim nie spodziewał: ustąpił sam. Bez procesu, bez nacisku, bez targu — przyszedł pieszo, powiedział, że był królem, którego zabrakło w każdym potrzebnym dniu, zostawił berło na stole i wyszedł z miasta na dobrowolne wygnanie. Nie wziął pensji, tytułu ani domu na wsi.*
+>
+> *Poprosił dokładnie o jedno, i to nie radę, tylko was: żeby ludzi, którzy stali po stronie [[Sydon|Sydona]], nie spotkała kara śmierci. Grzywny, roboty przy odbudowie, wygnanie — cokolwiek, byle nie stryczek i nie topór. „Dość już nakarmiliśmy Hades", powiedział i nie tłumaczył się z tego dłużej.*
+>
+> *Widziano go potem na trakcie na północ. Idzie sam, płaci za nocleg jak każdy i nie prostuje ludziom, gdy biorą go za kogoś innego. Chciał być królem, którego nie potrzebują bohaterowie — wyszedł jako jedyny człowiek w tej historii, który odłożył władzę, zanim mu ją odebrano.*
 
-*Cue: nie graj go ani jako skruszonego, ani jako złoczyńcy. Graj kogoś, kto ma dużo czasu i nikt go nie zaprasza.*
+*Cue: nie graj go ani jako skruszonego, ani jako złoczyńcy, ani — zwłaszcza — jako odkupionego. Graj kogoś, kto policzył sobie wszystko na zimno i wyszedł. Jeśli gracze zechcą go zatrzymać, dać mu urząd albo odprowadzić za bramę, pozwól — ale on i tak pójdzie.*
+
+### Tron
+
+> *Formalnie [[Mytros]] nie ma dziś władcy. Praktycznie ma [[Vallus]], która nie pozwala się tak nazywać, i berło leżące w szufladzie, którego nikt nie podniósł.*
+>
+> *Rada odbyła w tej sprawie trzy posiedzenia i na wszystkich trzech doszła do tego samego wniosku, którego nikt nie zapisał do protokołu: miasto poszłoby dziś za którymkolwiek z was. Nie za waszym rodem, nie za waszym prawem do korony — za wami. W każdej dzielnicy stoją wam kapliczki, a ludzie, którzy przy nich zostawiają monety, nie zapytaliby o żadne dokumenty.*
+>
+> *Nikt was o to nie poprosi wprost, bo nikt nie ma odwagi. Ale nie ma też nikogo, kto by się temu sprzeciwił.*
+
+*Cue: jeżeli któryś z graczy sięga po tron — **nie stawiaj ani jednej przeszkody**. Nie ma frakcji przeciwnej, nie ma pretendenta, nie ma ceny politycznej. Lud się cieszy, rada przyklepuje, Vallus ustępuje w jednym zdaniu i zostaje przy biurku. Jedyny koszt tej decyzji jest osobisty i mieści się w jego własnym epilogu.*
 
 ### [[Idylla]]
 
 > *Niegdyś wygnano ją z Mytros za zbyt duży wpływ na syna, lecz to wy sprowadziliście ją z powrotem. To ona w sali tronowej złamała Acastusa jednym zdaniem i wyjęła mu z rąk berło — bez was nie byłoby jej tam tamtego dnia.*
 >
-> *Dzisiaj siedzi po lewej ręce tronu i zabiera głos tylko wtedy, kiedy trzeba. Ministrowie zaczęli chodzić do niej zamiast do króla, bo tak jest po prostu szybciej. Wróciła taka sama, jaka była — wygnanie niczego jej nie odebrało i niczego nie nauczyło. Władza za tronem powróciła do Mytros z waszą pomocą, a zrobiliście to świadomie i ze słusznego powodu.*
+> *O abdykacji dowiedziała się od służby, po fakcie. Nie zdążyła nawet z nim porozmawiać — a to jest, jak twierdzą wszyscy w pałacu, pierwsza rzecz, którą jej syn zrobił bez niej. Nie pojechała za nim.*
+>
+> *Została w mieście i siedzi tam, gdzie siedziała: po lewej stronie pustego tronu, zabierając głos wtedy, kiedy trzeba. Ministrowie chodzą teraz do niej albo do [[Vallus]], zależnie od sprawy, i doskonale wiedzą, którą sprawę do kogo zanieść. Wróciła taka sama, jaka była — wygnanie niczego jej nie odebrało i niczego nie nauczyło. Władza za tronem powróciła do Mytros z waszą pomocą, a zrobiliście to świadomie i ze słusznego powodu. Tyle że tron, za którym stoi, jest teraz pusty i ktoś w końcu na nim usiądzie.*
 
 ### [[Corinna]]
 
-> *Poznaliście ją w czwartej sesji jako cywilkę, którą trzeba było uratować. W waszych notatkach przez pierwsze dziesięć minut nie miała nawet imienia — teraz dowodzi [[Egida Mytros|Egidą]].*
+> *Poznaliście ją na samym początku jako cywilkę, którą trzeba było uratować. Przez pierwsze dziesięć minut nie miała nawet imienia — teraz dowodzi [[Egida Mytros|Egidą]].*
 >
 > *Przejęła legion po [[Steros|Sterosie]] w samym środku bitwy. Wyznaczył ją [[Versir]] wbrew sztabowi, bo jako jedyna wiedziała, gdzie kto stoi. Nadal mówi do automatonów „proszę" — a one po prostu wykonują rozkazy.*
 
@@ -126,7 +146,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 > *Najbogatszy człowiek w Mytros finansuje odbudowę trzech dzielnic i doczeka się po sobie pamiątkowych tablic. Handlował minotaurami i zbudował fortunę na targu, na którym zginęła [[Lutheria]]. [[Althaia|Althaię]] kazał ściąć za to, że go odrzuciła, a klątwę robiącą z niej potwora ściągnął na nią prawdopodobnie on sam, choć tego nie da się już udowodnić.*
 >
-> *Ścięcie udowodnić można — [[Versir]] w czterdziestej dziewiątej sesji wyjął z kieszeni jego człowieka list z własnoręcznymi instrukcjami Tarana. Nosiliście ten dowód przez trzydzieści sesji i nigdy go nie użyliście, bo zawsze było coś pilniejszego. List wciąż istnieje, Taran o nim nie wie, a jego córka [[Ismene Neurdagon|Ismene]] właśnie przejmuje księgi rachunkowe ojca.*
+> *Ścięcie udowodnić można — [[Versir]] wyjął kiedyś z kieszeni jego człowieka list z własnoręcznymi instrukcjami Tarana. Nosiliście ten dowód od tamtej pory i nigdy go nie użyliście, bo zawsze było coś pilniejszego. List wciąż istnieje, Taran o nim nie wie, a jego córka [[Ismene Neurdagon|Ismene]] właśnie przejmuje księgi rachunkowe ojca.*
 
 *Cue: to jest wyrzut i ma zaboleć. Powiedz i przejdź dalej — nie czekaj, aż się wytłumaczą. Jeśli sami wrócą do tematu, świetnie: masz gotową scenę.*
 
@@ -158,9 +178,9 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### Odbudowa
 
-> *Z pięćdziesięciu tysięcy mieszkańców Mytros żyje czterdzieści sześć. Odgruzowali ulice, zaczynając od targu warzywnego przy [[Brama Handlowa|Bramie Handlowej]], bo ludzie muszą jeść.*
+> *Z pięćdziesięciu tysięcy mieszkańców Mytros żyje czterdzieści pięć tysięcy osiemset osiemdziesiąt dwoje. Odgruzowali ulice, zaczynając od targu warzywnego przy [[Brama Handlowa|Bramie Handlowej]], bo ludzie muszą jeść.*
 >
-> *Na jednej trzeciej domów wciąż brakuje dachów iszsz zima będzie ciężka, ale wieczorami na placach jest gwarniej niż przed wojną — nikomu nie chce się siedzieć w domu.*
+> *Na jednej trzeciej domów wciąż brakuje dachów i zima będzie ciężka, ale wieczorami na placach jest gwarniej niż przed wojną — nikomu nie chce się siedzieć w domu.*
 
 ---
 
@@ -172,7 +192,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 > *Trzynaście lat w celi zaklętej ciszą nauczyło ją wartości wolności. Wy ją stamtąd wyjęliście, obaliliście uzurpatorkę i posadziliście na tronie, z którego jednym dekretem zniosła niewolnictwo mężczyzn.*
 >
-> *Panowała cztery lata. Zginęła w [[Mytros]] — w obcym mieście, którego nie musiala bronić, ale przypłynęła, bo wy poprosiliście. Ciało wróciło na Themis własnym okrętem pod pełnymi żaglami. Amazonki nie palą królowych; leży w kamieniu, twarzą do morza.*
+> *Panowała kilka miesięcy. Zginęła w [[Mytros]] — w obcym mieście, którego nie musiała bronić, ale przypłynęła, bo wy poprosiliście. Ciało wróciło na Themis własnym okrętem pod pełnymi żaglami. Amazonki nie palą królowych; leży w kamieniu, twarzą do morza.*
 
 *Cue: pauza. Długa. Policz do pięciu, nie do dwóch. Następny wpis jest krótki i to jest zamierzone.*
 
@@ -184,7 +204,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 > *Meduza, jedna z sióstr, które zamordowały [[Thessilea|Thessileę]], po trzynastu latach postanowiła naprawić błędy. Przyszła do was z planem posadzenia Darien na tronie i obaliła własną siostrę, która podszywała się pod zmarłą królową.*
 >
-> *Gdy nadeszła wieść z Mytros o śmierci Darien, Moxena nie sięgnęła po władzę. Spisała wszystkie długi, szantaże i nazwiska radnych, po czym położyła je na stole regentki, zrzekając się wszelkiej przewagi. Wybrała dla siebie surową karę: została na wyspie, gdzie wszyscy znają jej przeszłość, i uczy łucznictwa dziewczynki z wschodnich okręgów. Raz w miesiącu idzie w samotności do kamienia nad cieśniną i siedzi tam do zmroku.*
+> *Gdy nadeszła wieść z Mytros o śmierci Darien, Moxena nie sięgnęła po władzę. Spisała wszystkie długi, szantaże i nazwiska radnych, po czym położyła je na stole regentki, zrzekając się wszelkiej przewagi. Wybrała dla siebie surową karę: została na wyspie, gdzie wszyscy znają jej przeszłość, i uczy łucznictwa dziewczynki ze wschodnich okręgów. Raz w miesiącu idzie w samotności do kamienia nad cieśniną i siedzi tam do zmroku.*
 
 *Cue: żadnych wariantów, żadnej bomby. Ta sprawa jest zamknięta i ma zostać zamknięta — Moxena spłaciła, ile się dało spłacić, i wszyscy na wyspie o tym wiedzą. Jeśli gracz spyta, czy Amazonki jej ufają, odpowiedz szczerze: nie. Ufają Hippolycie, że ma na nią oko, i to wystarcza. Jeśli gracz spyta, czy Darien jej wybaczyła — to jedno pytanie zostaw bez odpowiedzi.*
 
@@ -198,7 +218,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 > *Dekret o zniesieniu niewolnictwa mężczyzn przetrwał śmierć autorki i nikt nie poważył się go cofnąć. Gdy rada spróbowała zaniechać jego egzekwowania na wschodzie, Hippolyta pojechała tam z dwudziestoma Lwicami i przeczytała go na głos, egzekwując posłuch.*
 >
-> *Cztery roczniki chłopców dorosły na Themis jako wolni ludzie, a dwaj synowie Amazonek pływają na okrętach pod własnym imieniem. Reformy żyją tak długo, jak długo pamięta się ich cel — a na Themis pamiętają zaskakująco dobrze.*
+> *Pierwszy rocznik chłopców dorasta na Themis jako wolni ludzie, a dwaj synowie Amazonek pływają już na okrętach pod własnym imieniem. Reformy żyją tak długo, jak długo pamięta się ich cel — a na Themis pamiętają zaskakująco dobrze.*
 
 ---
 
@@ -236,7 +256,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 > *[[Grimhilda]] przyprowadziła pod Mytros krasnoludy z [[Estoria|Estorii]] i odprowadziła z powrotem zaledwie połowę z nich. Pierwszą rzeczą, jaką zrobiła po powrocie, było przeliczenie zapasów rudy. Zaraz potem ogłosiła, że kontrakt na dostawy dla Mytros będzie kosztował półtora raza więcej niż przed wojną, skwitowawszy to krótko: „bo teraz dokładnie wiadomo, jak bardzo nas potrzebują".*
 >
-> *W międzyczasie [[Mithralowa Kuźnia]] w [[Jaskinie Troglodytów|Jaskiniach Troglodytów]] płonie bez przerwy — rozpaliliście ją w jedenastej sesji i nikt jej od tamtej pory nie wygasił. Przychodzą do niej płatnerze z trzech miast i kłócą się o kolejność dostaw rozpisaną na cztery lata naprzód. Nikt już nie pamięta, że jej uruchomienie było Wielką Pracą — uważają po prostu, że ta kuźnia od zawsze tam stoi.*
+> *W międzyczasie [[Mithralowa Kuźnia]] w [[Jaskinie Troglodytów|Jaskiniach Troglodytów]] płonie bez przerwy — rozpaliliście ją wy i nikt jej od tamtej pory nie wygasił. Przychodzą do niej płatnerze z trzech miast i kłócą się o kolejność dostaw rozpisaną na cztery lata naprzód. Nikt już nie pamięta, że jej uruchomienie było Wielką Pracą — uważają po prostu, że ta kuźnia od zawsze tam stoi.*
 
 ---
 
@@ -254,6 +274,8 @@ title: "Epilog — Apel: Losy Thylei"
 
 **Patron.** [[Sydon]] — martwy. Potwierdzone. Zwłok nie ma, jest popiół.
 
+**Jeńcy.** Kilkuset ludzi z bronią złożoną pod bramą i w celach pod pałacem. Rada przygotowała listę do egzekucji jeszcze przed abdykacją [[Acastus|Acastusa]] i schowała ją do szuflady tego samego dnia, w którym on o to poprosił. **Nikt jej nie wyjął ani nie podarł** — czeka na decyzję bohaterów, bo w tym mieście nie ma dziś nikogo z większym prawem do wyrokowania niż oni.
+
 **Wnioski analityka.** Fanatyk bez celu nie przestaje być fanatykiem. Przestaje być tylko zorganizowany.
 
 > *Rozpadli się na trzy grupy naraz: jedni złożyli broń i wrócili do wiosek, gdzie nikt się z nimi nie wita — ci są niegroźni i najbardziej nieszczęśliwi. Drudzy zaciągnęli się na okręty i sprzedają swój miecz każdemu, kto płaci — ci stanowią problem handlowy.*
@@ -261,6 +283,8 @@ title: "Epilog — Apel: Losy Thylei"
 > *Trzeci to prawdziwe zagrożenie: kilkuset ludzi uznało, że skoro bóg zginął, to nie od rąk śmiertelników, lecz musiał sam się poświęcić i jeszcze powróci. Zbierają się na wyblakłym wybrzeżu, nie napadają na wsie, lecz modlą się i czekają. Za każdym razem, gdy nad zatoką przejdzie porządna burza, rano jest ich więcej.*
 
 *Cue: to nie jest przygoda na dziś. To jest cień na horyzoncie i tak go zagraj — jednym akapitem, bez wołania o interwencję.*
+
+*Cue — prośba [[Acastus|Acastusa]]. Jeśli gracze zdecydowali, że **nie ma kary śmierci**: pierwsza grupa wraca do wiosek szybciej i ciszej, a trzecia — ta modląca się na wybrzeżu — rośnie wolniej, bo nie ma świeżych męczenników do opowiadania. Nikt im za to nie podziękuje; ludzie, którzy stracili rodziny, uznają to za zdradę i powiedzą to głośno. Jeśli gracze zdecydowali inaczej albo w ogóle nie zajęli stanowiska: wyroki zapadają, wykonuje się je szybko, a nad wybrzeżem po każdej egzekucji przybywa modlących. Podaj skutek jednym zdaniem, bez morału — i nie sugeruj, że któraś z tych dróg była słuszna.*
 
 ### [[Kult Lutherii]]
 
@@ -274,13 +298,13 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### [[Wyspa Indygo]] i [[Plemię Rekina]]
 
-> *Trzy plemiona przypłynęły do bitwy: [[Plemię Węgorza|Węgorz]], [[Plemię Delfina|Delfin]] i [[Plemię Wieloryba|Wieloryb]]. Biły się dzielnie i wróciły z połową stanu ludzkiego. [[Plemię Rekina]] nie przypłynęło wcale — wódz [[Gorac]] pokonał [[Orestes|Orestesa]] w honorowym pojedynku i uznał, że to zamyka kwestię sojuszu, do czego miał prawo według własnego obyczaju.*
+> *Trzy plemiona przypłynęły do bitwy: [[Plemię Węgorza|Węgorz]], [[Plemię Delfina|Delfin]] i [[Plemię Wieloryba|Wieloryb]]. Biły się dzielnie i wróciły w połowie stanu. [[Plemię Rekina]] nie przypłynęło wcale — wódz [[Gorac]] pokonał [[Orestes|Orestesa]] w honorowym pojedynku i uznał, że to zamyka kwestię sojuszu, do czego miał prawo według własnego obyczaju.*
 >
 > *Po bitwie nikt do niego nie pojechał — ani z pretensją, ani z propozycją. Gorac czeka; a wojownik, który wygrał i został sam ze swoją wygraną, z czasem robi się bardzo nieprzyjemny.*
 
 ### [[Wyspa Ognia]]
 
-> *[[Chodzący w Ogniu]] i [[Łamacze Fal]] przestali się zabijać jakieś trzy zimy przed końcem wojny i sami nie potrafią wskazać dnia, w którym to nastąpiło. Wulkan zahuczał w chwili śmierci Sydona, po czym przycichł i nic z niego nie wypłynęło. Jaszczuroludzie uznali to za znak i wznieśli nad kalderą kapliczkę — nie wiedzą jeszcze czyją, więc zostawili puste miejsce na imię.*
+> *[[Chodzący w Ogniu]] i [[Łamacze Fal]] przestali się zabijać jeszcze przed końcem wojny i sami nie potrafią wskazać dnia, w którym to nastąpiło. Wulkan zahuczał w chwili śmierci Sydona, po czym przycichł i nic z niego nie wypłynęło. Jaszczuroludzie uznali to za znak i wznieśli nad kalderą kapliczkę — nie wiedzą jeszcze czyją, więc zostawili puste miejsce na imię.*
 
 ### [[Wyspa Wygnańców]] i [[Stavros]]
 
@@ -292,7 +316,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### [[Wyspa Mojr]]
 
-> *[[Mojry]] wyszły z wojny nietknięte i bogatsze niż do niej weszły. Trzymają w rękach szybkość [[Arevon Elorrenthi|Arevona]], zdrowie [[Felicjan Janus Twardowski|Felicjana]], kostur [[Sydon|Sydona]], różdżkę oraz nienarodzone dziecko. Choć [[Furie]] ujawniły ich zdradę w sesji siedemdziesiątej piątej, nikt tego z nimi nie rozliczył.*
+> *[[Mojry]] wyszły z wojny nietknięte i bogatsze niż do niej weszły. Trzymają w rękach szybkość [[Arevon Elorrenthi|Arevona]], zdrowie [[Felicjan Janus Twardowski|Felicjana]], kostur [[Sydon|Sydona]], różdżkę oraz nienarodzone dziecko. Choć [[Furie]] ujawniły ich zdradę w dniu, w którym pękła [[Przysięga Pokoju|Przysięga]], nikt tego z nimi nie rozliczył.*
 >
 > *Na wyspie pada tak samo jak zawsze, krosno pracuje, a nici przybywa. [[Nona]] obiecała [[Orestes|Orestesowi]], że odwiedzą go jeszcze w snach — i jest to jedyna rzecz z tej listy, która wydarzy się na pewno.*
 
@@ -328,7 +352,9 @@ title: "Epilog — Apel: Losy Thylei"
 
 ---
 
-*Cue: tu robi się cicho. Trzy wpisy i wychodzisz — nie graj całej sekcji jak żałoby.*
+## 7. Zaświaty i miejsca bez pana
+
+*Cue: tu robi się cicho. Bierz dwa, może trzy wpisy i wychodzisz — nie graj całej sekcji jak żałoby.*
 
 ### [[Morze Otchłani]]
 
@@ -338,9 +364,9 @@ title: "Epilog — Apel: Losy Thylei"
 
 > *Barka [[Lutheria|Lutherii]] dryfuje bez sternika. Nikt na nią nie wszedł ani nikt jej nie zatopił, a menady wciąż na niej tańczą, bo nikt im nie powiedział, żeby przestały. Sam tron stoi pusty i wydaje się znacznie mniejszy, niż go zapamiętaliście.*
 
-### Orestia
+### [[Orestia]]
 
-> *Orestia nadal przebywa na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]]. Satyrzyca i magini z [[Akademia Mytros|Akademii]] odsiaduje sto lat kary za drobne kłamstwo z czasów Igrzysk. Poczęstowaliście ją piwem i obiecaliście powrót, lecz negocjacje z [[The Warden|Zarządcą]] w sześćdziesiątej dziewiątej sesji spełzły na niczym — żądał legendarnego przedmiotu lub Przysięgi Służby, a wy nie byliście gotowi zapłacić.*
+> *Orestia nadal przebywa na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]]. Satyrzyca i magini z [[Akademia Mytros|Akademii]] odsiaduje sto lat kary za drobne kłamstwo z czasów Igrzysk. Poczęstowaliście ją piwem i obiecaliście powrót, lecz negocjacje z [[The Warden|Zarządcą]] spełzły wtedy na niczym — żądał legendarnego przedmiotu lub Przysięgi Służby, a wy nie byliście gotowi zapłacić.*
 >
 > *Choć [[Lutheria]] nie żyje, Zarządca trwa na swoim miejscu i nudzi się jak dawniej. Jego cena nie zniknęła wraz z panią — po prostu nie ma już nikogo, kto zabroniłby mu jej obniżyć. To nie są wyrzuty sumienia, lecz konkretny adres i cennik.*
 
@@ -360,7 +386,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### [[Nekropolia w Telamok]]
 
-> *Grobowce [[Smoczy Lordowie|Smoczych Lordów]] stoją nienaruszone od czasu, gdy zabraliście z nich co cenniejsze przedmioty w dziesiątej sesji. Do Mytros powróciła propozycja przeniesienia szczątków poległych dokerów z portu do nekropolii, między bohaterów, ale rodziny stanowczo odmówiły. Chcą mieć bliskich na miejskim cmentarzu, mówiąc: „To byli dokerzy, a nie Smoczy Lordowie. Niech leżą tam, gdzie pracowali".*
+> *Grobowce [[Smoczy Lordowie|Smoczych Lordów]] stoją nienaruszone od czasu, gdy zabraliście z nich co cenniejsze przedmioty. Do Mytros powróciła propozycja przeniesienia szczątków poległych dokerów z portu do nekropolii, między bohaterów, ale rodziny stanowczo odmówiły. Chcą mieć bliskich na miejskim cmentarzu, mówiąc: „To byli dokerzy, a nie Smoczy Lordowie. Niech leżą tam, gdzie pracowali".*
 
 ### [[Charybda]]
 
@@ -384,7 +410,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### [[Kwaśny Rocznik]]
 
-> *Karczma, w której zaczęła się wasza przygoda, straciła połowę dachu, ale otwarto ją zaledwie tydzień po bitwie. Karczmarz wciąż nosi przy sobie rachunek za rozbite krzesła z pierwszej sesji, a wasz dawny stolik jest stale zajęty — nie z sentymentu, po prostu to najlepsze miejsce w lokalu.*
+> *Karczma, w której zaczęła się wasza przygoda, straciła połowę dachu, ale otwarto ją zaledwie tydzień po bitwie. Karczmarz wciąż nosi przy sobie rachunek za krzesła rozbite pierwszego wieczoru, a wasz dawny stolik jest stale zajęty — nie z sentymentu, po prostu to najlepsze miejsce w lokalu.*
 
 ### [[Super Bar]] i [[Brax]]
 
@@ -408,7 +434,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### [[Strażniczka Kuźni]]
 
-> *Uzgodniony w jedenastej sesji rok służby minął dawno temu. Nikt jej nie zwolnił, bo nikt nie prowadził rachuby, a ona sama z natury nie pyta. Stoi więc i pilnuje kuźni, której nikt nie atakuje, dla ludzi, którzy o niej zapomnieli — a wystarczyłoby jedno zdanie, by zdjąć z niej ten obowiązek.*
+> *Umówiliście się z nią na rok służby, a wojna skończyła się grubo przed terminem. Nikt jej nie zwolnił, bo nikt nie prowadził rachuby, a ona sama z natury nie pyta. Stoi więc i pilnuje kuźni, której nikt nie atakuje, dla ludzi, którzy o niej zapomnieli — a wystarczyłoby jedno zdanie, by zdjąć z niej ten obowiązek.*
 
 ### [[Klonicjan]]
 
@@ -424,7 +450,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 ### [[Versi]] (Wyrocznia) — pytanie, które padnie na pewno
 
-> *To ona rozpoczęła wszystko w drugiej sesji w [[Świątynia Wyroczni|Świątyni Wyroczni]], stawiając przed wami Wielkie Prace i wygłaszając przepowiednię, która wyznaczyła bieg całej kampanii. Jako córka [[Sydon|Sydona]] sprzeciwiła się ojcu i wywróżyła mu upadek, traktując was niekiedy zaborczo, jak ulubione stworzenia. Zniknęła po sesji sześćdziesiątej pierwszej — jej ojciec nie żyje, przepowiednia się spełniła, ale na finale jej zabrakło.*
+> *To ona rozpoczęła wszystko w [[Świątynia Wyroczni|Świątyni Wyroczni]], stawiając przed wami Wielkie Prace i wygłaszając przepowiednię, która wyznaczyła bieg wszystkiego, co potem nastąpiło. Jako córka [[Sydon|Sydona]] sprzeciwiła się ojcu i wywróżyła mu upadek, traktując was niekiedy zaborczo, jak ulubione stworzenia. Zniknęła jeszcze przed finałem — jej ojciec nie żyje, przepowiednia się spełniła, ale na finale jej zabrakło.*
 
 **Trzy warianty odpowiedzi — wybierz jeden i trzymaj się go.**
 
@@ -440,7 +466,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 **[[Ophea]]** — uwolniona z niewoli [[Hexia|Hexii]], żyje w Estorii. Nie chce mieszkać w pałacu. Prowadzi mały warsztat tkacki i mówi, że po dwudziestu latach w jaskini potrzebuje pracy, którą widać w rękach. [[Orion Xul|Orion]] odwiedza ją częściej, niż by się przyznał.
 
-**[[Astra]]** — żyje. Zniknęła [[Versir|Versirowi]] z pola widzenia po dwudziestej czwartej sesji i to on ją zgubił, nie odwrotnie. Nie jest już w [[Kult Węża|Kulcie Węża]]. Wiadomo o niej tyle, że była widziana w Arezji. Nie szukała go.
+**[[Astra]]** — żyje i **nigdzie się nie ruszyła**. Umarła za [[Versir|Versira]] na [[Ultros|Ultrosie]] z ręki [[Estor Arkelander|Estora]], wróciła dzięki [[Kyrah]] i została przy nim: przez całą wojnę pilnowała jego spraw w [[Mytros]], zbierała wiadomości i wiedziała o mieście więcej niż rada. Jej brat został złożony w ofierze [[Sydon|Sydonowi]] i [[Lutheria|Lutherii]] — więc ta wojna była też jej wojną i ona też ją właśnie wygrała. *Cue: nie graj jej jako zaginionej ani jako wyrzutu sumienia. Ona ma własną scenę w `02 - Epilogi Bohaterów` i jest w niej najspokojniejszą osobą w pokoju.*
 
 **[[Boreas]]** — **żyje.** Zdjęty z dowodzenia, nie zabity. Zastąpił go [[Brax]]; Boreas przyjął to z godnością i bez sceny. Służy dalej, o szczebel niżej, i jest w tym lepszy, niż był na górze.
 
@@ -460,7 +486,7 @@ title: "Epilog — Apel: Losy Thylei"
 
 **[[Sulla]]** — syn [[Taran Neurdagon|Tarana]], wciąż zapatrzony w [[Vallus]]. Zaciągnął się do straży miejskiej wyłącznie po to, żeby pełnić warty przy pałacu. Nikt nie ma serca mu tego uświadomić.
 
-**[[Garrick Vanalan]], [[Ivello Ostren]], [[Lia Amakiir]], [[Baltia]]** — załoga [[Tranquility]] z [[Eberron]]. Wszyscy odnalezieni, wszyscy żywi. Baltia czeka na [[Themis]] i nie zamierza stamtąd wyjeżdżać. Kapitan **Tars d’Lyrandar** trzyma okręt w gotowości do żeglugi, do której nie ma kursu.
+**[[Garrick Vanalan]], [[Ivello Ostren]], [[Lia Amakiir]], [[Baltia]]** — załoga [[Tranquility]] z [[Eberron]]. Wszyscy odnalezieni, wszyscy żywi. Baltia czeka na [[Themis]] i nie zamierza stamtąd wyjeżdżać. Kapitan **[[Tars d’Lyrandar]]** trzyma okręt w gotowości do żeglugi, do której nie ma kursu.
 
 **[[Zenek]]** — gygan. Zniknął przez szczelinę w ruinach [[Praxys]]. Nie wrócił. Szczelina jest otwarta.
 
@@ -482,6 +508,7 @@ title: "Epilog — Apel: Losy Thylei"
 - **3–8 linijek na wpis, jeden obraz na oddech.** Nie czytaj wszystkiego — czytaj to, co ich dotyczy.
 - **Zmieniaj rejestry.** Po pomniku żart, po żarcie okrucieństwo, po okrucieństwie coś zwyczajnego. **Nigdy trzy wzruszenia z rzędu.**
 - **Sekcja 5 (Zakon) czytaj płasko**, jak raport. Sekcja 8 (drobiazgi) to zawór bezpieczeństwa — nie tnij jej, gdy braknie czasu.
+- **[[Acastus]] abdykował sam** i poszedł na dobrowolne wygnanie, prosząc o jedno: żadnej kary śmierci dla ludzi [[Sydon|Sydona]] (*„Dość już nakarmiliśmy Hades"*). **Tron jest naprawdę pusty** — domyślnie rządzi [[Vallus]], ale każdy z bohaterów zająłby go bez oporu i przy powszechnej radości. Nie utrudniaj i nie dokładaj ceny. Wyroki na jeńcach zostają do rozstrzygnięcia przez graczy — pokaż skutek, nie oceniaj.
 - **Wybierz przed sesją:** jeden z trzech wariantów [[Versi]]. Sprawa [[Moxena|Moxeny]] wariantów nie ma — jest domknięta i ma zostać domknięta.
 - **NIE rozstrzygaj boskich domen.** Wolno pokazywać skutki próżni — kolejka u [[Charon|Charona]], modlitwy bez adresata, chorzy, którzy czasem nie zdrowieją. **Nigdy nie mów, kto je przejął.**
 - **NIE domykaj:** [[Yala|Yali]], [[Versi]], zdrady [[Mojry|Mojr]], szczeliny w [[Praxys]], statusu [[Thylea|Thylei]] jako planu kieszonkowego, gwiezdnego metalu.

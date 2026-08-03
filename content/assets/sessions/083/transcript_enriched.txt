@@ -1,0 +1,2347 @@
+
+
+[CZAT PRZED NAGRANIEM] ?: 🎉Welcome to Gambit's FXMaster V8.3.4! **8.3.4: Added Orbit mode to the Clouds particle effect, and added a Token Disposition selector to Token Avoidance effects!** Super exciting update! This release brings new Backgrounds and Token Interactions to many effects along with many other nice quality of life updates. Please check out the Release Notes for more detail. If you are a NEW FXMaster user: C…
+
+
+[Dungeon Master]
+Idzie po was, Cant i main. Eee, przynajmie literia wam to zapowidziała. 
+
+[Arevon]
+Człowiek, Zotaria powiedziała, że to nie ona było lubieńcem, tylko Salidon, więc to czemu jebno dopiero jak ono małe. No bo, kiedy gówno jeszcze nie skończyło? 
+
+[Felicjan]
+Abyśmy musieli walczyć z Luthariem i Cantimainem naraz, to się nie zgrywało. A, czy Cantimaina na horyzoncie widać, czy na razie tylko, że wulkan nie będą? 
+
+[Dungeon Master]
+On jest duży, ale nie jest szybki. Eee, no dobra, w każdym razie, eee, macie nowe, eee, miracle pointy, nowe. Łaska mytros na was spłynęła, eee, bitwy jako takie już nie będziemy przeprowadzać, bo większość 
+
+[Arevon]
+Osiem. 
+
+[Dungeon Master]
+macie dużą przewagę liczebną, eee, legionów, eee, wrogie legiony W końcu dodarło do nich, że Seidon w sumie nie ma tu Seidona, więc zaczęły się rozpieszczać. Jakieś tam jeszcze małe potyczki może się w mieście toczą, ale to już nie na taką skalę, żeby to rozpatrywać w ten skomplikowany sposób. Macie 8 nowych miracle pointów, co się przelicza na 2 longresty albo 4 shortresty. 
+
+[Arevon]
+Jak osiem, to... 
+
+[Felicjan]
+To chyba labyrynt był? 
+
+[Arevon]
+Ja tu widzę różne opcje. Wersil, co ty masz za status? A co ja mam za status? 
+
+[Felicjan]
+No, Leonhands. 
+
+[Versir]
+Labyrinth is here. 
+
+[Arevon]
+Pamiętam, że dostałem jakieś gówno. Nie, nie. A, to to. Okej, to chyba trwa minutę? Nie, nie wiem, ona umarła, więc to Orestes też, no doszło. 
+
+[Versir]
+Minutes trwa i tu Resave'a chyba masz taką stronę. 
+
+[Arevon]
+Tim, bo coś dużego się zbliża, słyszymy chyba, nie wiem, tak, jak wulkan, że tak powiem, wulkan jest tu, no to nic dziwnego, że wpływa, chyba że ten pyroclastic flow, to on szybko leci, bardzo szybko. 
+
+[Orestes]
+Okej, czy ja to ja? 
+
+[Versir]
+Resave podejdzie do RSS-a. Dla pewności użyję DivineSense'a. Tak. 
+
+[Orestes]
+No tak dziwnie bym powiedział, tak dziwnie. 
+
+[Versir]
+Się dobrze czujesz RSS? 
+
+[Orestes]
+Nabiegłbym się piwa, ale jednocześnie nie naupiłbym się piwa. Na mnie nie patrzcie, ja już jestem martwy. 
+
+[Versir]
+Może się wylać z ciebie teraz. Dwa pierwsze levelowe spostacymo. 
+
+[Felicjan]
+A to widzimy, czy nie widzimy? No, już miasto wpływa, to ten, ale lava szybko nie płynie, to jak wiesz. Hehe, tak mniej niż połowę, raczej jedną trzecią. 
+
+[Orestes]
+Ale też racja. 
+
+[Arevon]
+Ja nie mam 5 i 6 lvl, jak mam resztę, więc ja jestem okej. Zdecydowanie mogę heal'nąć kogoś, tylko się zastanawiam, kogo mam heal'ować w tym momencie, a kto będzie Longresta robił. 
+
+[Versir]
+Jeśli Cantimane chce się zemścić do swojej dzieci, to myślę, że powinniśmy puścić Mytros. 
+
+[Arevon]
+Zaczniemy od, póki mam włączoną Aurę, bo jeszcze nie minęło 10 minut na pewno tamtej walki, więc ja heal'nę Oriona, bo Orion nie będzie robił Longresta na pewno. 
+
+[CZAT 00:05:31] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages
+
+
+[Arevon]
+Dobra, Orion dostajesz 35, a dostajesz 16. 
+
+[Orion]
+No na pewno nie będę robił. 
+
+[CZAT 00:05:44] Arevon Elorrenthi: 16
+
+
+[CZAT 00:05:45] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 33, 6d8 + 6
+
+
+[CZAT 00:05:50] Arevon Elorrenthi: 2
+
+
+[Orestes]
+Jakby chciało się wsić za swoje dzieci, to powinni się wsić na swoich dzieci jak sam, a nie zostawić to nam. W sumie mam wrażenie, że niezależnie gdzie pójdziemy, to na tej wyspie, to mamy przerąbane. 
+
+[Arevon]
+On trochę chodzi po marzu, więc... 
+
+[CZAT 00:06:16] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages
+
+
+[CZAT 00:06:19] Arevon Elorrenthi: 2
+
+
+[Orestes]
+No właśnie. 
+
+[CZAT 00:06:20] Arevon Elorrenthi: 9
+
+
+[CZAT 00:06:22] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 32, 6d8 + 6
+
+
+[Orestes]
+Raczej kwestia tego świata. 
+
+[Arevon]
+Wait, to jest mistake, ja rzuciłem na drugim levelu. Mi się źle rzuciło. To jest 4 do 8, proszę. 
+
+[CZAT 00:06:41] Arevon Elorrenthi: 31
+
+
+[Arevon]
+Dobra, okej. Wtf, jaki roll. Okej, to... To było... 9 jest w Orionu. Bo ta dwójka musi iść we mnie, czyli 33 w levelu. Nie spodziewałem się, że to będzie tak dużo. 
+
+[Orion]
+Jeszcze coś mam dodać? Bo dodałem go ze sobą. Okej, super. Ja mam jeszcze osiem... Mam jeszcze osiemnaście potion of healing. Nie wiem, czy to się komuś przyda. No, dwa zużyłem, tak, i w takim razie dwa... Bo mam jeszcze dwa greater potion of healing, to je włożę w ten ring. I już. Dobra, dobra. Okej, mam osiemnaście, także powiedz ile bierzesz, to sobie odejmę. Dobra. Zwykłe. Tak. Ja też sobie zrobię, jeżeli mogę. Nawet sobie coś odnowię. 
+
+[CZAT 00:08:21] Arevon Elorrenthi (rzut): Potion of Healing (2d4 + 2) 6 2d4 + 2 3 1 4 | rzuty: = 6, 2d4 + 2
+
+
+[Arevon]
+Załóżmy, że ta dyskusja to nie jest dyskusja na 10 minut, więc tylko byśmy to zrobili szybko. Felicia, robisz long resta czy Oreses robi long resta? To jest chyba tylko pytanie. Czy na razie nie robicie? Nie, nie wiem. No nie wiem, to bez sensu, żebyś robił long resta w tym momencie. 
+
+[CZAT 00:09:15] Orion Xul (rzut): Potion of Healing (2d4 + 2) 6 2d4 + 2 2d4 2 2 | rzuty: = 6, 2d4 + 2, 2d4
+
+
+[Arevon]
+To moim zdaniem... Tak, wersja moim zdaniem Hymnie Felicjana oraz... Ale wersja robi long resta na pewno, bo on nie ma nic. 
+
+[CZAT 00:09:23] Orion Xul (rzut): Potion of Healing (2d4 + 2) 8 2d4 + 2 2d4 3 3 | rzuty: = 8, 2d4 + 2, 2d4
+
+
+[Arevon]
+Dobra. Możemy kontynuować. 
+
+[CZAT 00:09:34] Versir: 13
+
+
+[Arevon]
+Pokazuj na Vulkan. Chyba jeszcze nie. 
+
+[CZAT 00:09:39] Versir: 19
+
+
+[Dungeon Master]
+coś dużego zbliża się ze wschodu 
+
+[CZAT 00:09:58] Orion Xul: zostało 14 potion of healing
+
+
+[Dungeon Master]
+tak mi się wydawało, że 
+
+[Arevon]
+Deuteria mówiła, że to jest Cantymane. 
+
+[Dungeon Master]
+z daleka widzę dość niepokojącą liczbę głów więcej niż jedna, ale 
+
+[Arevon]
+Jeśli to jest Cantymane, to chyba wszyscy nie żyjemy? 
+
+[Dungeon Master]
+tam dużo, dużo rąk w tym tempie będzie tu pewnie w ciągu 
+
+[Arevon]
+Pytanie 9 plus 6... 
+
+[Dungeon Master]
+godziny nie jest szybki, on jest duży 
+
+[Arevon]
+To Felicen w ciągu godziny. To już w testach można było zrobić. Zobacz, ja się chylowałem. Chylnę Ciebie w takim wypadku, jak wyjdziesz podczas godziny. Kolej to. Czyli przez dwa. Czyli 15. 15 muszę. 
+
+[Orion]
+Dobra. To ja sobie usiądę na ziemi i odpocznę. Ciśnieje dzień, kiedy umieramy, czy coś takiego. 
+
+[Dungeon Master]
+kręci głową nie wiem, można by stawić mu czoła jest nas więcej niż on ma rąk 
+
+[Orestes]
+że będziemy walić infantry versus tytan? Czyli wschód i północ nam się ewakuuje. To gdzie chcemy przyjąć tytana? Ja bym sugerował pola winorośli, bo to nie są na nic niepotrzebne. No tak, tu jest wschód. Są pola winorośli. No, sumy. 
+
+[Arevon]
+Okej, no to róbcie shertresta wszyscy. 
+
+[Orestes]
+Już sprawdzam. Mam jeszcze raz, 
+
+[Arevon]
+Oprócz mnie i wersji Rahiba, bo wersję ronglesta dostaję. Ja nie potrzebuję, bo mi shertrest nic nie da. Co wersjer idziemy, nie wiem, szykować ludzi, ewakuować? W trakcie, ale to 10 minut zajmie, więc nie umiem rzucić tego z rady. 11. Nie mam przygotowanego tego. Więc i tak zajmie 11 minut, ale zdecydowanie ktoś to u lewej powinien tę kosę popatrzeć na nią. No to w trakcie shertresta go możesz. Nie wiem. No nie wiem, to ja idę na północ pomagać ewakuować ludzi albo patrzę czy da się coś z sobą zrobić, no co mam robić. Klonicjan identyfikuje Felicjan, Orestes i Orion robią short resta. Jeszcze nie było, że short rest się udał, więc... 
+
+[Felicjan]
+do kogoś też pójdzie to ja to ja będę już 
+
+[Arevon]
+Nie, nie, to klońce ja mogę pójść kolosem i się potem zamienię, bo ja nie robię szlutesty, więc to ja mogę kolosa przetransportować tam gdzie trzeba. 
+
+[Felicjan]
+to wspomniał możemy też spróbować 
+
+[Arevon]
+Jala. Przecież Jali brakowało tutaj. To co, Jala na razie ma split'a 50-50 z Cantymane'em na domeny. Zauważyliśmy. Ja mam pytanie, którego nie będziesz lubił. Nie do ciebie. Rozmierowo Cantymane vs Fortec'a. Jeszcze tak, ale... 
+
+[Felicjan]
+a czy dwójka i trójka 
+
+[Dungeon Master]
+Ale jest głupi Możecie mu się poddać Ale to przejdźmy od razu do drugiego On jest wielki Jest niczym góra Ale górę też się da zniszczyć Drążąc powoli Ale tak patrzę na was Nie wiem czy macie na to siły jeszcze Być może jeśli Zebralibyście jeszcze wszystkich sojuszników Ale jeszcze trzecia droga Musicie okazać mu Swoją siłę stanąć przed nim dumnie stawić mu opór potem rozkazać mu odejść jeśli wykażecie się prawdziwą determinacją myślę, że że okaże wam szacunek i odejdzie i wiem, że to brzmi dość abstrakcyjnie jakiś śmiertelnik rozkazujący 
+
+[Felicjan]
+dwójka i trójka to nie trochę to samo 
+
+[Dungeon Master]
+sturenkiemu podobne 
+
+[Felicjan]
+tylko, że druga połówka 
+
+[Dungeon Master]
+Koniecznie. Żeby wykazać mu opór, trzeba będzie postawić na niego ciężkie siły. 
+
+[Felicjan]
+czy końcówka inna teoretycznie 
+
+[Arevon]
+po drodze sam jest rozprzestanie istnieć i pójść dla mnie trójeczka wygląda jak jedyneczka w sensie tylko z dłuższym wstępem ale czemu mam nadzieję, że ktoś umie Pani Świąt rzucić w ostatnim momencie niech się reszta wypoży i tylko Pani Świąt do głowy przychodzi 
+
+[Dungeon Master]
+Dobra, to teraz taki metakomentarz. 
+
+[Arevon]
+ale to wam nie pomoże ej no mój oryginalny quest jest wiesz teoretycznie skończony no 
+
+[Dungeon Master]
+Można, według tego co Jala wam mówi, można mu zniszczyć HP do zera teoretycznie, 
+
+[Felicjan]
+ma blok Stata to da się zabić, tak? zaczyna się na tysiącu jeżeli miasto jest bezpieczne no to najlepsze jednostki 
+
+[Orestes]
+niech kieruje ich do tam jak to się nazywało? zapomniałem jak się nazywało do browaru, tam są bunkry no do Rosos, dziękuję wiem nawet nie pamiętam dlaczego ale tak, tak, tak, już, już ja bym to zrobił, ale nie wiem czy ja jako zombie powinienem dopóki mu nie odwaliło a, ok w sumie Nie no jak nikt nie będzie 
+
+[Dungeon Master]
+czyli robić jakąś chopankę ochotników, ale bez jakiejś dużej pompy sure 
+
+[Orestes]
+Robił mowy no to Reses wyjdzie Więc tam niech się ktoś zastanowi 
+
+[Dungeon Master]
+no to dawaj 
+
+[Orestes]
+Minus jeden Nice 
+
+[Dungeon Master]
+możesz rzucić persuasion po prostu z advantage, a możesz powiedzieć jeszcze coś inspirującego roleplayowo, to może jakiś bonus będzie tak szybko, Gemini tak, sure 
+
+[Orion]
+Nie, nie, nie chcę. Nic nie wyleczył się teraz przez ten czas? 
+
+[Dungeon Master]
+dobra, okej 
+
+[CZAT 00:32:48] Felicjan Janus Twardowski (rzut): Persuasion (+0) 3 1d20 + 0 1d20 3 19 1d20 + 0 1d20 19 | rzuty: 1d20 + 0, 1d20, 1d20 + 0, 1d20
+
+
+[Orestes]
+A to już można rzucić hit daje 
+
+[Dungeon Master]
+na wezwanie Feliciana 
+
+[Orestes]
+I wszystkie 
+
+[CZAT 00:35:21] Felicjan Janus Twardowski (rzut): Hit Dice 5 1d6 + 3 1d6 2 | rzuty: = 5, 1d6 + 3, 1d6
+
+
+[Arevon]
+A! Rzym! Identify. Please give stats. Plus 21, plus 8? Okej. 
+
+[CZAT 00:36:14] Felicjan Janus Twardowski: 81
+
+
+[CZAT 00:36:22] Orestes: 67
+
+
+[Orestes]
+Moje hit daje 21 to jest ten 
+
+[Arevon]
+No, tego wygląda. 
+
+[Orestes]
+Bonus a plus 8 jest Vigor of the hill giant Nice 
+
+[CZAT 00:36:38] Felicjan Janus Twardowski: 9
+
+
+[Arevon]
+Po zabiciu boga burz to chyba zasłużyli. Oczywiście, nie spodziewałem się. O ja pierdolę. Dokładam, że to jest glaive, czy jest heavy. Nie, bo to... bonusy do speara. 
+
+[Orestes]
+Czy to jest nowa broń Oriona? 
+
+[Arevon]
+To nie jest spear niestety. 
+
+[Orestes]
+A, no tak. No, na jej ojca nie zadziała chyba. 
+
+[Dungeon Master]
+No i ma trochę negatywne efekty długotrwałe używanie tej kosy. Bóg już zabił. 
+
+[Orestes]
+No, nie wygląda źle, ale znałem, że mój topór nie jest lepszy. Nie będzie realna. A lorowa? Właśnie, dlatego ten topór zabił dwóch tytanów. 
+
+[Dungeon Master]
+Ale czy jest... Nie jest też topor dużo gorszy od tej lewii. Szczególnie przeciwko tytanowi. Eee... chociaż wiesz. Toporę ma też zwiększa... Patrzyłeś tak w ogóle czy ty czasem bijąc tytanów nie rzucałeś dziewiętnastki? Bo wtedy masz kryty na niej. Okej. Okej. Dobra, decyzja. 
+
+[Felicjan]
+Nie usunąłem, żeby nam się ilość nie zgubiła w razie czego, ale w pamięci ci oddałem dwa jabłka, czy chcesz to zapisać. Czy mamy jeszcze jakiś nieużywany magiczny item, do którego mógłbym się zetimentować, bo mam zużyty Heart of the Gale, no nic więcej. Chyba nie mam, byłby epic. 
+
+[CZAT 00:42:11] Orestes: Armor of the Colossus Armor (Half Plate), Rare (requires attunement) You may use an action to speak the armor’s command word to take on the form of a colossus, doubling your size in all dimensions and multiplying your weight by eight for ten minutes, until you become unconscious, or until you use your action to speak the command word again. This growth increases your size by one category such as …
+
+
+[Versir]
+Masz to w księdze? Tak, ale to... To martwy pomysł. Byłby ślub wtedy. A on jest... Gargantuan. To jest... 
+
+[Felicjan]
+Czekaj, a jaki ma deck save, jak on jest taki wielki. Weź kurwa, nie traf w górę. 
+
+[Versir]
+O, TET! Myślę, że T można targetować! Myślę, że to jest dobry save do targetowania. Ale nie, to już jest 
+
+[Felicjan]
+Nie traf w górę, kurwa, Fireboltem czy Chromatic Orbem czy czymkolwiek, nie? 
+
+[Versir]
+atek. Tak, odbije się od skóry. 
+
+[Felicjan]
+Mhm? Znaczy dobra, może się odbić od pancerza albo tam nie trafić, czy... 
+
+[Versir]
+Ale ładne zdjęcie. 
+
+[Felicjan]
+Ło! No możesz dać mapkę miasta, bo nie przeszkadza to. 
+
+[Versir]
+Ze mną. Moje inicjatywie, proszę. 
+
+[Felicjan]
+Mort nie żyje, nie żyje. 
+
+[Dungeon Master]
+Więc pytanie, jak wy chcecie rozstawić na tą konfrontację. A Tromba jeszcze żyje. A Hubert nie żyje chyba. 
+
+[Felicjan]
+Dałbym radę go przywołać? Długość urzucenia. 
+
+[Dungeon Master]
+Jak robiłeś 
+
+[Felicjan]
+Ale... 
+
+[Dungeon Master]
+i zajęty byłeś chyba trochę. Żeby jeszcze przyzywać tego. 
+
+[Felicjan]
+Nie, to ja robiłem tylko long resta. Short resta. Kolejny sam identyfikował. 
+
+[Dungeon Master]
+Dobra, powiedzmy, że niezbyt 
+
+[Orion]
+Tak, mam odnowiony. 70. I tak zrobię. 
+
+[Dungeon Master]
+zasuwali, nie odpoczywali. Ciaro, ciaro. Dobra. Jakieś w ostatnim momencie prepy? Stoicie tam, gdzie chcecie oraz to jest na froncie, na ziemi, czyli idziesz na Cyborg Raxa. No tak, mówi wstakuj. 
+
+[Felicjan]
+Którym się mountowało? 
+
+[Dungeon Master]
+Literką M chyba nie, a niby M, ale, a bo ja ustawiałem wtedy tokeny. To month on enter. Teraz jak przesuniesz się na swojego macie, to powinno działać? 
+
+[CZAT 00:51:27] Felicjan Janus Twardowski: 79
+
+
+[CZAT 00:51:40] Arevon Elorrenthi: 15
+
+
+[CZAT 00:51:49] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Components: : V, S Roll Damages
+
+
+[CZAT 00:51:50] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting a… | rzuty: = 15, 2d8 + 6
+
+
+[CZAT 00:51:58] Arevon Elorrenthi: 3
+
+
+[Versir]
+Jesus Christ. 
+
+[Orestes]
+a ja rzuciłem jako 
+
+[CZAT 00:52:49] Versir: 15.08
+
+
+[CZAT 00:52:50] Arevon Elorrenthi: 16.16
+
+
+[CZAT 00:52:53] Sybolkorax: 10.1
+
+
+[CZAT 00:52:57] Felicjan Janus Twardowski: 9.14
+
+
+[CZAT 00:53:00] Orion Xul: 18.11
+
+
+[Orestes]
+Korax chyba sorry ok, teraz powinno zadziałać 
+
+[CZAT 00:53:18] Orestes: 22.14
+
+
+[Orestes]
+tak sorry czy nam Wardrooma gra do tego? 
+
+[CZAT 00:53:24] Helios: 20.14
+
+
+[CZAT 00:53:24] Yala: 17.24
+
+
+[CZAT 00:53:24] Kentimane: 22.16
+
+
+[Orestes]
+tak, ale u nich, a dobra a czy mi się wydaje, że do Sanui była Wardrooma kurde i lecimy do niego nie wiem, wzbijamy się i się zbliżamy My mamy ruchu, patrzę na te staty, 40 fitów, ok, a fly 80, przelecieliśmy już, jesteśmy w walce? Nie widzę ile się poruszyłem, ok, poruszyłem się 50, 80, a nie, mi już policzyło jako mnie 90, więc się muszę cofnąć trochę i wzbić w górę, no w sumie. no dobra, ustawię sobie te 30 na wysokość przynajmniej będzie na wysokości kostki w sumie jesteśmy jesteśmy na tyle kurka, to ja w niego strzelam jeszcze z łuku w tej odległości już jestem za mały niestety 
+
+[CZAT 00:55:36] Orestes (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 18 1d20 + 12 1d20 6 Piercing Damage: 13 1d8 + 7 1d8 6 | rzuty: 1d20 + 12, 1d20 = 13, 1d8 + 7, 1d8
+
+
+[Orestes]
+ale w sumie ja mogę się ja się okej a w sumie nie pomoże okej 
+
+[CZAT 00:55:57] Sybolkorax: 1
+
+
+[Orestes]
+next jeden long rest jeszcze mamy na kogo? na co? 
+
+[CZAT 00:57:58] Klonicjan: 18.1
+
+
+[Orion]
+chociaż trochę bym się zniósł powietrza ok myślę, że takie 30, które było jak był Orestes, to jest rozsądne no daszowałem 
+
+[Arevon]
+O kurwa, koloso, 65 dobra na czapę dostaniesz 
+
+[Orestes]
+nice nie no to ja bym podleciał jeszcze 
+
+[Arevon]
+154 Co ja zrobię? Ej, ale ze 154 to jest jakbym był na par... one znowu będą wyższe niż 30 filów Więc jakbym sobie ustawił na 0 Ile bym był? 165? 
+
+[Dungeon Master]
+Więc... A, nie wiem. What? Też nie rozumiem, nie wnikajmy. 
+
+[CZAT 01:02:44] Arevon Elorrenthi (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. 20 1d20 + 9 11 11 27 1d20 + 9 18 18 Roll Damages | rzuty: 1d20 + 9, 1d20 + 9
+
+
+[Dungeon Master]
+To jest... Sure. To jest... Wrzuć. 
+
+[CZAT 01:02:57] Arkyrania: 2
+
+
+[Dungeon Master]
+Zafijać. 
+
+[CZAT 01:03:02] Arevon Elorrenthi (rzut): Longbow, +1 Range 150ft./600ft. You have a +1 1d20+1 bonus to attack and damage rolls made with this magic weapon. Piercing Damage: 10 1d8 + 4 6 6 | rzuty: = 10, 1d8 + 4
+
+
+[Dungeon Master]
+10 piercing damage'u. Sure, wchodzi. Sure, sure. Fuj, twoja strzała trafia w kenty main'a i... Nic. Za to 50 głów obraca się ku tobie na raz. 100 oczu mierzy cię w ciszy. 
+
+[CZAT 01:04:10] Versir (rzut): Sorcerous Burst Evocation Cantrip Casting Time 1 action Duration Instantaneous Components V, S Range 120ft. You cast sorcerous energy at one creature or object within range. Make a ranged spell attac… | rzuty: = 16, 1d20 + 11
+
+
+[CZAT 01:05:03] Tysophale: 81
+
+
+[Orion]
+jaki on ma zasięg? 
+
+[CZAT 01:07:02] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Felicjan]
+Nigdzie nie ma żadnych ataków, ja atakuję z advantage, z 2 normalne ataki, to nie jest nic. 
+
+[Orestes]
+80 dobra to powinno być wystarczająco blisko i ja bym nie gozionoł jeśli ok ja też patrzę szukam nie ja mam ancient on się liczy jako ancient chyba 15 a na atak? 
+
+[CZAT 01:09:23] Sybolkorax: 65
+
+
+[CZAT 01:10:19] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 01:10:56] Helios: Fire Breath Feature Dexterity Saving Throw: DC 24 , each creature in a 90-foot Cone . Failure: 71 ( 13d10 Fire ) damage. Success: Half damage. DC 24 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft cone
+
+
+[Arevon]
+To jest 26. Czy to wyglądało jakby to miało jakieś ograniczenia w range'u, czy to jakbym było 200 feet'ów na ziemię też by mnie jebło? 
+
+[CZAT 01:12:32] Arkyrania: 90
+
+
+[Arevon]
+What? Ile? Co to kurwe nędzy? Czyli traci 49,5 HP. Round down zapewne. 30 chyba. 
+
+[Orion]
+15? bo chwycił 30 
+
+[Arevon]
+Zostaje 11 plus 19. Bez save'a. 
+
+[Orion]
+80 Jest na odległości 67? Okej, a ode mnie 73, ale on też jest wysoki, prawda? 30 feetów ma, no to trochę mniej pewnie, nie? Pewnie tyle, ile jest po prostu poproste. Firma 60 zasięgów, kurwa mać. Javelin ma 30 łamane na 120. To może Javelin of Lightning z Disadvantage'em, 5 ich mam, nie, ok, a to 22? Nie, no i trzecią wykorzystam, bo mam ich 5, to? Aha, ok, tak, głupio zrobiłem, sorry. 
+
+[CZAT 01:14:37] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20
+
+
+[CZAT 01:14:47] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20
+
+
+[CZAT 01:15:08] Orion Xul (rzut): Javelin of Lightning (4d6) 19 4d6 4d6 6 5 2 6 | rzuty: = 19, 4d6, 4d6
+
+
+[CZAT 01:15:13] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d6 + 7, 4d6 = Damage: 24 11 + 13
+
+
+[Arevon]
+Chyba, że ma jakieś redukcje na różne rodzaje, a jak nie to dostaje 30. 
+
+[CZAT 01:15:39] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d20 + 10, 1d20, 1d20 + 10, 1d20
+
+
+[CZAT 01:15:55] Orion Xul (rzut): Javelin of Lightning (4d6) 15 4d6 4d6 4 6 2 3 | rzuty: = 15, 4d6, 4d6
+
+
+[CZAT 01:15:56] Orion Xul (rzut): Javelin of Lightning This javelin is a magic weapon. When you hurl it and speak its command word, it transforms into a bolt of lightning, forming a line 5 feet wide that extends out from you to a tar… | rzuty: 1d6 + 7, 4d6 = Damage: 33 12 + 21
+
+
+[Orion]
+Może dwa razy kliknęło. Usunę to. No i tyle. Tak, 50 twarzy. Trzeba to wrzucić, bo przecież byłam na 30 fitach. 
+
+[CZAT 01:17:36] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 01:18:07] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[CZAT 01:19:18] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 01:19:56] Yala: Tattooed Strike Simple Melee Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage and 13 (3d8) force damage. Firestorm Tattoo (Recharge 5-6). Yala unleashes flame from the tattoo across her back, filling 20 foot radius sphere centered on her. Each other creature in that area must make a DC 20 Dexterity Saving Throw. On a failed save, the creature takes 22…
+
+
+[CZAT 01:20:32] Yala: 23
+
+
+[Arevon]
+Tak, tak, to ja podłatuję wyżej, podłatuję gdzieś tam, że, okej, jak to ma, 90, ale tak kolosalnym jedno. 
+
+[Felicjan]
+Ataków nie ominęło? Jeszcze jakieś dexy, znaczy save'y rzucę? 
+
+[CZAT 01:23:19] Arevon Elorrenthi: Draconic Transformation 7th Level Transmutation Casting Time 1 bonus action Duration up to 1 minute Components V, S, M(a statuette of a dragon, worth at least 500 gp) Range Self Area of Effect 60ft. AoE Shape Cone Concentration Requires Concentration With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell en…
+
+
+[CZAT 01:23:27] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 22 6d8 8 2 7 1 1 3 22 | rzuty: = 22, 6d8
+
+
+[Felicjan]
+Jeszcze raz tak trochę z doskaku jestem przez chwilę. No, trafia. 
+
+[CZAT 01:24:24] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[Versir]
+Użyjemy bonus akcji, żeby wycastować smite. 
+
+[CZAT 01:25:19] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 17, 1d20 + 11
+
+
+[CZAT 01:25:21] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 29, 1d20 + 11
+
+
+[CZAT 01:25:29] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 20 11 + 9
+
+
+[Versir]
+Tak, wszystkie takie mają adwentyczne. 
+
+[CZAT 01:25:51] Versir (rzut): Shining Smite 2nd Level Transmutation Casting Time 1 bonus action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike Duration up to 1 minute Components V Ra… | rzuty: = 9, 2d6
+
+
+[Versir]
+Invertir mówi do niego w Sylvan, w tym starym Sylvan, co pytani posługiwali się. Oni zasłużyli na wszystko, co ich spotkało. I kończę swoją rundę. A, jeszcze dużo efektów jest. On rzuca str save'a. Jeżeli może być, to jest przesunięty 10 fitów, ale zgadzuje się, że nie może być przesunięty. To rzuć SR save, a tak szczegółowo się nie zobaczyć. Rzuciłeś coś? Kurde, spodziewałem się więcej. 
+
+[CZAT 01:27:05] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Versir]
+Hit. 
+
+[Arevon]
+Restraint. Tak, damage'y nie rzuciłeś w wersji R. 
+
+[Versir]
+Damage'u nie rzuciłeś. Hit. 
+
+[CZAT 01:27:31] Tysophale: 102
+
+
+[Arevon]
+O, ja pierdolę. 
+
+[CZAT 01:27:43] Versir: DC 12 Concentration Concentration
+
+
+[Arevon]
+Czas w pixarze liczyć. Jest 10d10. 
+
+[CZAT 01:28:20] Tysophale: Lightning Breath Feature Dexterity Saving Throw: DC 15 , each creature in a 60-foot-long, 5-foot-wide Line . Failure: 49 ( 9d10 Lightning ) damage. Success: Half damage. DC 15 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 60 ft line
+
+
+[Arevon]
+10d10dc19. Tak. dc19. Chuj pan. No tak byś rzucił legendarię z systemu. Zjedz wersję R'a w całości. 
+
+[CZAT 01:29:00] Tysophale: 61
+
+
+[Arevon]
+O! On ma już chyba doświadczenie w połykaniu z R'a, no? 
+
+[CZAT 01:29:44] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[Versir]
+Dużo miejsca SRS, znieścimy się wszyscy. 
+
+[Dungeon Master]
+Odgryziencia. To jest 24. And is swallowed. 
+
+[CZAT 01:30:14] Versir: DC 12 Concentration Concentration
+
+
+[Dungeon Master]
+And the grapple ends. Czy to działa jak normalne połykanie? Powiedzmy. Wersjer został połknięty. I Kenty main ma swoją kolejkę. On ciągle bądź wszystkich zgrapelowanych przesuwa się 50 feetów. 
+
+[CZAT 01:31:16] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Arevon]
+Ale ty możesz bić jak sam. Zesmokasz, wiesz? A no tak, możesz. To prawda, to prawda. 
+
+[Orestes]
+mogłeś mi tego nie mówić, bo mam Inta 8, ale ok, załóżmy, że to wiem to jednak ok, dobra, to jednak walę toporem z Reklesem może się uda tak, tak z Great Weapon Master jeeej 
+
+[CZAT 01:33:39] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 21 14 + 7, = Critical Damage: 28 6 + 6 + 16, = Conditional: 5 5, = Combined: 49 14 + 7 + 6 + 6 + 16
+
+
+[Versir]
+Masz advantage, więcej musisz Arklasa wyrzucać. A Ary to ładne. 
+
+[Orestes]
+tak, dodaję właśnie a no tak, jeszcze i jak był Great Weapon 
+
+[CZAT 01:34:00] Orestes: 4
+
+
+[Orestes]
+Master, to co się jeszcze działo? ja jeszcze pogubiłem? 
+
+[Versir]
+Jeszcze 10 damage'u to liczę, żeby go wszystkich wyrzucić. 
+
+[Orestes]
+iiii 
+
+[CZAT 01:35:56] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 22 17 + 5
+
+
+[Orestes]
+nie ma no ale zawsze za drugim już gorzej 
+
+[Versir]
+A musisz Blessa dorzucić. 
+
+[Orestes]
+tak 
+
+[Versir]
+A nie, 25. Zaraz się przekonam. 
+
+[Orestes]
+dobra to jeszcze jeden atak leci toporkiem 
+
+[CZAT 01:36:24] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 21 16 + 5
+
+
+[Orestes]
+miss miss nawet nie ma ee mogę to rzucić to jeszcze mam szanse a no tak dobra no to ten to kończę dziękuję 
+
+[CZAT 01:36:46] Helios: Applied conditions: &Reference[grappled]
+
+
+[CZAT 01:37:04] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 01:37:53] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+
+
+[CZAT 01:37:55] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+
+
+[CZAT 01:37:57] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+
+
+[CZAT 01:39:04] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 01:40:16] Yala: 80
+
+
+[Dungeon Master]
+Orion. Zbroja trochę ci tam neguje tego damage'a, więc cztery sobie odpisz, powiedzmy z upadku. 
+
+[Orion]
+Dobra, jestem 20 fitów od niego. 
+
+[Versir]
+Jakby Felicjan tak swoim featurem, jakby go kiedyś stargetował, odbił w Cantymane'a. 
+
+[CZAT 01:40:56] Orion Xul: 7
+
+
+[Versir]
+Masz advantage, po pierwsze latać. 
+
+[Dungeon Master]
+Wstrząsnęło, ale normalnie kolejkę raz Pelletrion jest nieprzytomny. 
+
+[Orion]
+Pada! No tak, to dorzuciłem 
+
+[CZAT 01:41:24] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 27, 1d20 + 12, 1d20
+
+
+[CZAT 01:41:29] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 13 + 5
+
+
+[CZAT 01:41:41] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 16, 1d20 + 12, 1d20
+
+
+[Orion]
+to... 
+
+[Dungeon Master]
+Do pierwszego, okej, cztery, to jest 18 damage'a. 
+
+[Versir]
+Gdzie jestem, kryty? 
+
+[Dungeon Master]
+Drugi atak. 
+
+[CZAT 01:42:02] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 01:42:05] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 14 + 7
+
+
+[Dungeon Master]
+Bązi. 
+
+[Orion]
+Niestety nie ma co poprawić, ale zrobię action search, skoro jest advantage, to to jest dobry czas. 
+
+[Dungeon Master]
+Rzucasz w niego tą włócznią. Te głowy się jedno z drugim ciągle odwracają w twoją stronę. 
+
+[CZAT 01:42:17] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 01:42:22] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 28 17 + 11
+
+
+[Dungeon Master]
+Ładny damage. I to były trzy ataki. 
+
+[Orion]
+O i teraz przerzucona ósemka i teraz żeby zrobić bonusowy atak musiałbym podejść, ale może lepiej byłoby z pierwszą, ale zaatakowałem go. 
+
+[CZAT 01:42:51] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 01:42:54] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 14 + 8
+
+
+[CZAT 01:43:04] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 01:43:08] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 21 11 + 10
+
+
+[CZAT 01:43:24] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d20 + 12, 1d20, 1d20 + 12, 1d20
+
+
+[CZAT 01:43:27] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 18 10 + 8
+
+
+[Versir]
+Możesz w sumie użyć swojej haste akcji, żeby zaatakować, a swojej normalnej akcji, żeby wycastować spela. 
+
+[CZAT 01:43:35] Orion Xul: 5
+
+
+[Orion]
+To tyle. Chyba, że po prostu rzucę szyld. Nie, dobra, szyld jest na long list. No to tyle. 
+
+[CZAT 01:44:59] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+
+
+[Orion]
+Dobra. Wykorzystam 
+
+[Arevon]
+Można też rzucić w kryto, tak poważnie pojebać. 
+
+[Orion]
+Reactive Resistance i zbiję to do połowy. 
+
+[CZAT 01:45:44] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Versir]
+Nie jest to tak dobre jak spell. 
+
+[Arevon]
+Wiesz, że nie. 
+
+[Orion]
+Czy to czas, kiedy mówisz, żeby sobie poszedł, czy jeszcze nie? Chyba nic teraz nie kosztuje to. Nie, to jest tylko reakcja. 
+
+[Dungeon Master]
+Jala podchodzi bliżej. To miałem jeszcze. Dobra, atakuje po prostu. Atak. Nie rzuciło. 
+
+[CZAT 01:47:25] Yala: Tattooed Strike Simple Melee Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage and 13 (3d8) force damage. Firestorm Tattoo (Recharge 5-6). Yala unleashes flame from the tattoo across her back, filling 20 foot radius sphere centered on her. Each other creature in that area must make a DC 20 Dexterity Saving Throw. On a failed save, the creature takes 22…
+
+
+[Dungeon Master]
+Raz trafi. 
+
+[CZAT 01:47:38] Yala: 28
+
+
+[Dungeon Master]
+Oruń dziejali. On użyje legendarnej akcji, żeby strzelić kwasem w Oriona. Spodobało mu się. 
+
+[CZAT 01:47:58] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+
+
+[Dungeon Master]
+To co Orion zrobił. Orion 16, ale twoja rezystencja chyba działa tak dłużej? Czy to był na jedyny atak? No to 16. 
+
+[Orion]
+By the way, to jest resistance to that instance of damage. 
+
+[Dungeon Master]
+Arawon. 
+
+[CZAT 01:48:31] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 3rd Level Components: : V, S Roll Damages
+
+
+[CZAT 01:48:35] Arkyrania: 4
+
+
+[CZAT 01:48:38] Arkyrania: 9
+
+
+[CZAT 01:48:39] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 28, 6d8 + 6
+
+
+[CZAT 01:48:45] Orion Xul: Gift of the Chromatic Dragon: Reactive Resistance action When you take acid, cold, fire, lightning, or poison damage, you can use your reaction to give yourself resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+
+[CZAT 01:49:07] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 26 6d8 8 3 3 1 5 6 26 | rzuty: = 26, 6d8
+
+
+[CZAT 01:49:27] Versir: Applied conditions: &Reference[grappled]
+
+
+[CZAT 01:49:36] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+
+
+[Orion]
+I co się wyleczy reakcją? 
+
+[Versir]
+Na fighterze nic lepszego nie będziesz miał. Użyję reakcję, żeby społowić to. 
+
+[CZAT 01:50:09] Kentimane: 20
+
+
+[Versir]
+To jest ile? 10. 
+
+[CZAT 01:50:27] Versir: DC 10 Concentration Concentration
+
+
+[Dungeon Master]
+Grapla nie ma w tym momencie Żeby w środku rzucić 
+
+[CZAT 01:51:08] Versir: 26
+
+
+[Dungeon Master]
+To jest skomplikowane Ten żołądek jest dość spory, więc zapewne by się zmieściły 
+
+[CZAT 01:51:43] Versir: 14
+
+
+[Dungeon Master]
+Kilka razy wall of fire nawet By się zagotowało troszkę z środka Jesus Christ Przejdziemy do tego jak się połknie Trafio 
+
+[CZAT 01:52:14] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 30, 1d20 + 11
+
+
+[CZAT 01:52:16] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 20, 1d20 + 11
+
+
+[Versir]
+Tak, jak Wersir sieka go od środka, to do siebie mówi, bo nie wierzę, że on usłyszy, mówi do siebie 
+
+[CZAT 01:52:27] Versir: 2
+
+
+[Dungeon Master]
+25, 40 łącznie 
+
+[CZAT 01:52:31] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 25 10 + 15
+
+
+[CZAT 01:52:34] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 15 7 + 8
+
+
+[Dungeon Master]
+On rzuca 
+
+[Versir]
+Czego nie rozumiesz, ty skończony, uparty głupcze! To ta Ilea nam pokazała, że bliźniacy są zagrożeniem, ty skończony idioto! Chlast, chlast, chlast, chlast Ale jeszcze, czekaj, jeszcze jest 1d6 z Acid, bo już nie ma absorb elements z Acid 
+
+[Dungeon Master]
+DC 20 con save'a 
+
+[Orestes]
+to nie było deception 
+
+[CZAT 01:53:26] Versir: 4
+
+
+[Versir]
+Forteca robi roboty. Za to odsunięcie się dostaniesz kurwa z 200 do metru. 
+
+[CZAT 01:53:56] Colossus of Pythor: 96
+
+
+[CZAT 01:54:21] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+
+
+[Versir]
+Advantage to wszystko, nic co mi zrobiło damage nie zmusiło mnie do rzucenia save'a. Ręcz ataki i melee ataki. I spell ataki. Wszystko. Nie ma nikogo. W jedynkę, w dwójkę też gram. Jest nowa liga w subskrypcji. Dlaczego? 
+
+[CZAT 01:55:27] Felicjan Janus Twardowski: Mirror Image Legacy • 2nd Level Illusion (Cast at 2nd Level) Casting Time 1 action Duration 1 minute Components V, S Range Self Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates. Each time…
+
+
+[CZAT 01:56:07] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+
+
+[Orestes]
+Disney Plus 
+
+[Versir]
+Okej. No. 
+
+[Orestes]
+też się zdziwiłem jest haczyk, to jest tylko dla nowych lub powracających subskrybentów nie wiem, mogę ci podrzucić kartę te dropu Disney.pdf nawet nie jestem pewien, czy to jest do tej promocji bo żona mi tylko kod wysłała wow, faktycznie 
+
+[Versir]
+Ma okazję w sumie, no. 
+
+[Orestes]
+tak, no liczba nagród ograniczona do pół miliona no mnie nie złapał jeszcze 
+
+[Dungeon Master]
+Kemptymain w swojej rundzie musi się ruszyć trochę, tylko on zgraplował prawie wszystkich. Jalę nie złapał, ciebie też nie, ale smoka na którym siedzisz złapał. Shorton łapie Jalę najpierw. 
+
+[CZAT 02:23:28] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Dungeon Master]
+Uhuhu, porządny rzut. Jala jest nieprzytomna, ale on ciągnie ją dalej mimo, że jest nieprzytomna. Nie przeszkadza mu to. I on przechodzi nad... 
+
+[Versir]
+Potrafię. Mój speleotek. 
+
+[CZAT 02:24:47] Trąba: 23
+
+
+[CZAT 02:25:03] Trąba: 18
+
+
+[Versir]
+Dziś się nie domęczę, Trumpa, 
+
+[CZAT 02:25:11] Trąba: 10
+
+
+[Versir]
+zrobię. Nie, nie, to wszystko. 
+
+[Dungeon Master]
+10 dymy już, tak? 
+
+[Versir]
+Nie musisz reklasować. 
+
+[Dungeon Master]
+32. 
+
+[Versir]
+Tch. 
+
+[CZAT 02:25:48] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 1 1, = Damage: 21 17 + 4
+
+
+[Dungeon Master]
+Okej. Kentimane za mało HP-ka dostał. 
+
+[Orestes]
+Wszyscy skończymy w jego środku? 
+
+[CZAT 02:26:19] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 6 6, = Damage: 23 15 + 8
+
+
+[Dungeon Master]
+Szybko mu spadło. Ale zaraz zje Oriona przynajmniej. A ten drugi to jest... 
+
+[Versir]
+Stoswenty wszystkie. 
+
+[Dungeon Master]
+A to mis będzie, tak? Okej. 
+
+[Orestes]
+Tak, miss. 
+
+[Dungeon Master]
+Koniec? 
+
+[Orestes]
+Tak, koniec, koniec. 
+
+[CZAT 02:26:50] Helios: Applied conditions: &Reference[grappled]
+
+
+[Dungeon Master]
+To po twojej rundzie on Oriona próbuje złapać. Nie ma uciekania od Kentimane'a. 
+
+[CZAT 02:26:56] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Dungeon Master]
+37. Oriona łapie. I... 
+
+[CZAT 02:27:43] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+
+
+[CZAT 02:28:48] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 02:29:09] Orion Xul: Applied conditions: &Reference[grappled]
+
+
+[CZAT 02:29:18] Orion Xul (rzut): Death Saving Throw 5 1d20 + 1 1d20 4 | rzuty: = 5, 1d20 + 1, 1d20
+
+
+[CZAT 02:30:08] Tysophale: 10
+
+
+[CZAT 02:30:43] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[CZAT 02:31:37] Arevon Elorrenthi: 14
+
+
+[Dungeon Master]
+Easy save. Jak ja mogę mu zapisać, żeby pamiętał? Sorry, nie wiem gdzie zaznaczonego. 
+
+[Arevon]
+Ciekawe czemu? 
+
+[Dungeon Master]
+Bo jest twoja inicjatywa? 
+
+[Arevon]
+Coś... To prawda. 
+
+[Dungeon Master]
+To był jeden sukces. Dobra, dajmy mu coś. 
+
+[Arevon]
+Przecież... 
+
+[Dungeon Master]
+Pamiętaj, dobra, total cover, niech będzie, whatever. To jest dla mnie sukces. 
+
+[Arevon]
+Będziemy pamiętać. Ja leżę, życzę. 
+
+[Dungeon Master]
+I jeszcze Yala. 
+
+[CZAT 02:32:10] Yala: 9
+
+
+[Dungeon Master]
+Yala ma fejla. I damy falling. Arwen. 
+
+[Arevon]
+Ehe, Revan. Revan jako akcja, zioniew. 
+
+[Dungeon Master]
+Ja jestem prawie pewny, wiem co będzie, ale dawaj. 
+
+[Arevon]
+Co będzie? Nie mam sposobu. Ale! 
+
+[CZAT 02:32:55] Arkyrania: Lightning Breath Feature Dexterity Saving Throw: DC 19 , each creature in a 90-foot-long, 5-foot-wide Line . Failure: 55 ( 10d10 Lightning ) damage. Success: Half damage. DC 19 Dexterity Saving Throw Dexterity Saving Throw Damage Place Measured Template Consume Resource Refund Resource Action Instantaneous Self 90 ft line
+
+
+[CZAT 02:33:54] Arevon Elorrenthi: Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 4th Level Com…
+
+
+[CZAT 02:33:58] Arevon Elorrenthi: 4
+
+
+[CZAT 02:34:00] Arevon Elorrenthi (rzut): Healing Word 1st Level Abjuration (Cast at 4th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit P… | rzuty: = 22, 8d4 + 6
+
+
+[CZAT 02:34:06] Arevon Elorrenthi: 13
+
+
+[Arevon]
+Żeby mnie nie próbował churwa łapać chujet jeden. Nie wiem, ale Orion, dalej jesteś prone, Wojtowie. I dalej cię trzyma. I nie masz już devsave'ów w sejlu. Ale nic więcej. I to był bonus, i to był movement, i to była auction, i to kończymy rundę. Nas złapano. 
+
+[CZAT 02:34:50] Versir: Applied conditions: &Reference[grappled]
+
+
+[Arevon]
+Może u wiesierka, nie wiem co. Nie, za dużo, nie wiem, że pół. To trafiło. 
+
+[CZAT 02:35:04] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[CZAT 02:35:29] karpiq: 21
+
+
+[Versir]
+No to ja znowu użyję pierwszodzwonek osu. Absorba. To jest bezpieczniej niż 
+
+[CZAT 02:35:47] Versir: DC 10 Concentration Concentration
+
+
+[Versir]
+na zewnątrz. Ej, kontynuuję. Weźmiemy 
+
+[CZAT 02:36:01] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 24, 1d20 + 11
+
+
+[CZAT 02:36:03] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: = 12, 1d20 + 11
+
+
+[CZAT 02:36:11] Versir (rzut): Titansbane, Blade of Talieus You have a +3 1d20+3 bonus to attack and damage rolls made with this magic weapon. When a giant or celestial is hit by this weapon, the creature takes an extra 3d6 3d6 fo… | rzuty: 1d8 + 6, 3d6 = Damage: 20 11 + 9
+
+
+[Versir]
+jakiegoś smite'a. Sprawdźmy w sumie jakiego ma wisdom save'a. 
+
+[CZAT 02:36:31] Versir: 6
+
+
+[Versir]
+Nie mu przeszkadza. Rafał Smite'a już zje. 
+
+[CZAT 02:36:48] Versir: 10
+
+
+[Versir]
+To nie! Nie mogę robić 30 damage'ów. Jak to z powrotem? Nie. Spelta jest epicki finisor. 
+
+[CZAT 02:38:01] Tysophale: 105
+
+
+[CZAT 02:39:06] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Arevon]
+Bo on leży, jest dalej już 5 litrów, ale leży, ma disadvantage. Bo on leży. Leży. No dobrze, dobrze. I tak pierwsza kostka wyszła, więc to i tak nie ma znaczenia, i tak go trafia na dwójcę. 
+
+[Orion]
+Tak, użyję contingency benda, żeby... 
+
+[CZAT 02:40:28] Orion Xul (rzut): custom (4d4 + 4) 16 4d4 + 4 4d4 4 4 3 1 | rzuty: = 16, 4d4 + 4, 4d4
+
+
+[Orion]
+Tak, ja użyłem reakcji, ale okej, fajne, fajne. 
+
+[CZAT 02:41:03] Felicjan Janus Twardowski: Sword of Fate 5th Level Illusion Casting Time 1 action Duration 1 hour Components V Range 60ft. Choose a creature that you can see. You create an illusionary sword that hangs above that creature's head. Everyone with line of sight can see the sword except for the affected creature. When you cast the spell you must shout out one of the following conditions: You cannot harm us. The target creature …
+
+
+[Versir]
+Ty i Kento z dziesiątkami to nie idziesz rzucać. 
+
+[CZAT 02:41:44] Colossus of Pythor: 38
+
+
+[Versir]
+A to już jestem. Świetne pytanie. 
+
+[CZAT 02:42:32] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[Dungeon Master]
+Coraz mniej was na polu bitwy, Orestes. Pozwolę ci zamienić jeden z ataków na gadanie, jeśli chcesz. 
+
+[Orestes]
+Czy mogę wykonać atak, a później do niego gadać? 
+
+[Dungeon Master]
+W sensie, jeśli to gadanie uwzględnia intimidation, który byś chciał użyć. To pozwolę ci zamienić jeden z ataków. 
+
+[Orestes]
+Tak. 
+
+[Dungeon Master]
+Przed DC? O, podejrzeć się nie. 
+
+[Orestes]
+To drugi. Liczę na podbicie mojej wypowiedzi. Atakiem. 
+
+[Dungeon Master]
+Jesus. 
+
+[Orestes]
+Masz rację, powinienem zmienić tą wypowiedź na to zamienię mój ostatni atak. 
+
+[CZAT 02:44:35] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 21 13 + 8, = Critical Damage: 22 12 + 7 + 3, = Conditional: 2 2, = Combined: 43 13 + 8 + 12 + 7 + 3
+
+
+[Versir]
+Nice. 
+
+[Dungeon Master]
+Czekaj, bo nie odjąłem tego pierwszego jeszcze. Ile było z tego pierwszego? 
+
+[Versir]
+Restless to jest chosen one. Lesson działa do Abilitczyków. 
+
+[Orestes]
+Zajebie wszystkich! Zajebałem twoje dzieci, zajebili ciebie. 
+
+[Arevon]
+aczkolwiek swój brutal krytyka jest amazing, 2d12-3 
+
+[CZAT 02:44:54] Orestes: 5
+
+
+[Arevon]
+360 
+
+[CZAT 02:45:16] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 4 4, = Damage: 27 18 + 9
+
+
+[Arevon]
+to jest hit to jest 41 60 i 41 
+
+[Dungeon Master]
+60 i 40, czyli 101. Ja pierdolę. 
+
+[Arevon]
+tak 
+
+[Dungeon Master]
+Okej. Czekaj, tak sobie ogarnę, jakie DC już jest. Okej, DC nie jest równe HP-kom, to nie brzmi jak Intimidation, o, to już dalszej. 
+
+[Arevon]
+już spadłeś tylko do 1980, wiesz co? całkiem dużo 
+
+[Dungeon Master]
+Sure it's Intimidation, o kurde, plus ile? Plus 4, 20, 3, to jest fail. 
+
+[CZAT 02:46:33] Orestes (rzut): Intimidation (+4) 23 1d20 + 4 1d20 19 | rzuty: = 23, 1d20 + 4, 1d20
+
+
+[Arevon]
+plus Blesniedziel nie, nie możesz nie możesz Blesniedziela 
+
+[Versir]
+Karp, do Karpik wrzucę. 
+
+[Arevon]
+w helios nie umyrzucać, kurwa, te szóstą, no tak, bo to jest smoke kropika 
+
+[Dungeon Master]
+Patrzy na ciebie, a odwrócił gębę w twoją stronę, więc zareagował jakoś. 
+
+[Orestes]
+fajnie było kurde 
+
+[CZAT 02:47:07] Helios: Applied conditions: &Reference[grappled]
+
+
+[Arevon]
+Ej, ale Nefelle rzuciła kurwa każdą szóstkę. 
+
+[Versir]
+Nie, coś mam mało. 
+
+[Dungeon Master]
+4d6, na piątce chyba jest, tak? Sukces. 
+
+[Orestes]
+ja zapomniałem od czterech 
+
+[Arevon]
+To 6d6. 
+
+[Orestes]
+tur rzucić Volkanowi na odnowienie tego brefu, ile wszystkie cztery a to będzie pięć 
+
+[Arevon]
+Znaczy, nie szedłaś w pierwszej rundzie, z niej było 4. Będzie 3d6. 
+
+[Orestes]
+te sześć trzy do sześć, dobra 
+
+[Arevon]
+No tak się wyszło, więc... 
+
+[Orestes]
+okej, dobra, dzięki 
+
+[CZAT 02:47:42] Orestes: 8
+
+
+[Arevon]
+Tak, to jest 5d6. No, zgadza się. 
+
+[Orestes]
+próbowałem 
+
+[Arevon]
+Jak Heliesa się nie jeb, no. 
+
+[Orestes]
+usłyszałem się 
+
+[Arevon]
+Helis go drapie za kurwa 100 dmg z rungu. Zgryzłem. 
+
+[Dungeon Master]
+Kogo on targetuje, to musi to być... To jest pewien schemat, kogo on atakuje. 
+
+[Arevon]
+Wywalny jest hentz. 
+
+[Dungeon Master]
+Bija Revan'a. Nie konieczek, on może połknąć. Nie, gryźby. O nie, nie gryźby. 
+
+[Arevon]
+Nie jestem dmg dealerem. 
+
+[Dungeon Master]
+Arcranie może gryźć, tak. 
+
+[CZAT 02:48:50] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[Dungeon Master]
+Roki, mały rzut. Tylko 9 na kost. Damage. 
+
+[Arevon]
+Ja pierdolę. 
+
+[Dungeon Master]
+30 damage Arcrani. I teraz jest Helios, który ma dużo ataku. 
+
+[CZAT 02:49:11] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+
+
+[Arevon]
+Musi jeszcze kurwa trafić. 
+
+[Dungeon Master]
+Tamte odjąłeś wcześniejsze? 
+
+[CZAT 02:49:59] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[Dungeon Master]
+No dobrze, arki rania. Eee, smutny damage. 18. Iler action. Te action walnie w Heliosa. Żeby temu za dobrze nie było. Anusz. Tak. Ale Helios ma plus 9 save'a. Eee, sure. 
+
+[CZAT 02:50:52] Helios: 24
+
+
+[Dungeon Master]
+Eee. Mało. 4 razy 0,24. 
+
+[CZAT 02:51:16] Orion Xul: Applied conditions: &Reference[grappled] &Reference[unconscious] &Reference[prone]
+
+
+[CZAT 02:51:37] Orion Xul (rzut): Death Saving Throw 15 1d20 + 1 1d20 14 | rzuty: = 15, 1d20 + 1, 1d20
+
+
+[CZAT 02:52:07] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[CZAT 02:52:29] karpiq: 17
+
+
+[CZAT 02:52:32] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[CZAT 02:52:38] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Dungeon Master]
+To był plugin, który to robił Nie wiem, tego plugina Przestał działać Klonizjan miał chyba Co? Tak, 43 Czwart Po rundzie Klonizjana Kolejny raz w Arkiranie Tym razem już tego nie przetrwa raczej A ty jesteś 60 tytułów w powietrzu 
+
+[CZAT 02:53:28] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[Dungeon Master]
+A ty latasz Czarta Arkirania To prawda jest, że ona w powietrzu nie spada 
+
+[CZAT 02:54:46] Arkyrania: 9
+
+
+[CZAT 02:55:09] Yala: 17
+
+
+[CZAT 02:55:30] Yala: yala 1 -1 pythor 2 - 0
+
+
+[CZAT 02:55:47] Arevon Elorrenthi: Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 2nd Level Components: : V, S Roll Damages
+
+
+[CZAT 02:55:52] Arevon Elorrenthi (rzut): Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus… | rzuty: = 21, 4d8 + 6
+
+
+[CZAT 02:55:58] Arevon Elorrenthi: 11
+
+
+[CZAT 02:56:00] Arevon Elorrenthi: 1
+
+
+[Arevon]
+Ile jestem od Orestesa? Fakt, za daleko. Cała chwila już wszystko jadę. Ona jest prone, bo ona spadła. Zdejmij folię, gdy... A ja mogę wyjąć folię. Mogę lecieć po nią. Ona jest very prone, bo spadła na dole. Okej, a jako bonus akcja, ja podlecę sobie... Nie, ja nie jestem mounted, kurwa. Pierdolony. Aha, bo ja nie mogę się ruszyć, bo jestem od razu mounted. 
+
+[CZAT 02:57:10] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 31 6d8 8 5 7 2 8 1 31 | rzuty: = 31, 6d8
+
+
+[CZAT 02:57:27] Versir: Applied conditions: &Reference[grappled]
+
+
+[CZAT 02:57:29] Versir: DC 10 Concentration Concentration
+
+
+[CZAT 02:58:24] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 02:58:36] Arevon Elorrenthi: Silvery Barbs 1st Level Enchantment Casting Time 1 reaction, which you take when a creature you can see within 60 feet of yourself succeeds on an attack roll, an ability check, or a saving throw Duration Instantaneous Components V Range 60ft. You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must rero…
+
+
+[CZAT 02:58:59] Arevon Elorrenthi: DC 12 Concentration Concentration
+
+
+[CZAT 02:59:07] Kentimane: 22
+
+
+[Versir]
+Znowu absorbał, że... 
+
+[CZAT 02:59:19] Versir: DC 10 Concentration Concentration
+
+
+[Versir]
+10 featów ode mnie? No to ja w takim razie... Też miną rundę przygotowałem. Ale jak Orion się tu pojawił... Coś innego. Bonus akcją się teleportuje do Oriona. Misty zap. Akcją... To go heal na potion. To go heal na potion. Ale ja offend, to jest bonus zawsze. Nie mam healing orb. W tej rundzie nie uderzyłem handymanem, więc region będzie miał option. 
+
+[CZAT 03:01:14] Versir: 16
+
+
+[Versir]
+Zrobiłbym to, gdyby Orion się nie pojawił. To nie jest tak, że jestem zamknięty tam w środku i nie mam możliwości ucieczki. Mam. Połowę tego oreset zruka. Wystarczy jedna ta akcja za procent demedżu i nie ma tych. 
+
+[CZAT 03:01:54] Colossus of Pythor: 110
+
+
+[Orion]
+Jak atakuje 19 do 10, ja pierdole, a mam, mam, mam, bo akurat mam 16 do 10. 
+
+[Orestes]
+co chodzi Chcę zrobić więcej W sumie to ma sens, bo 
+
+[CZAT 03:02:45] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[CZAT 03:03:00] Arevon Elorrenthi: DC 14 Concentration Concentration
+
+
+[Dungeon Master]
+nieprzytomni, niestabilni. W środku trzy osoby. 
+
+[Versir]
+Minutę czasu kupisz jak to wyjdzie. Minutę czasu kupisz. 
+
+[Dungeon Master]
+Kogo? Banishment na CantyMaine'a. 
+
+[Orestes]
+Cantyman przeszedł z innego świata i oni stworzyli tutaj swój własny świat, więc to raczej jest gdzie go wysuwać To atakować? 
+
+[Dungeon Master]
+Jak rzucasz banishment, to zjedzona kolacja zostaje na zewnątrz. 
+
+[Versir]
+No cóż, ofiary. Akceptowalne ofiary. 
+
+[CZAT 03:05:09] Felicjan Janus Twardowski: Banishment Legacy • 4th Level Abjuration (Cast at 6th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(an item distasteful to the target) Range 60ft. Concentration Requires Concentration You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished. If the target is native to t…
+
+
+[Dungeon Master]
+Maciek zawsze robi jakieś rzeczy, 
+
+[Versir]
+Pamiętacie, że on co rundę ma większy rage bonus? 
+
+[Dungeon Master]
+które proszę googlować. Ktoś o to pytał sześć lat temu na reddicie. To prawda. Jaki to jest save? Masz szansę to sfejlować Trafiłeś Dobra, nie muszę sprawdzać No dobra, Pani Szklęt nie wszedł Po Twojej rundzie legendarna akcja jeszcze oczywiście Pomyślmy Dzieli nie bili Pewnie jakieś Tchórowskie rzeczy robi od tyłu Ploja w Calicjana Żeś tam tego Mirrymicz No tak 
+
+[CZAT 03:06:47] Tysophale: 3
+
+
+[CZAT 03:06:49] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+
+
+[CZAT 03:07:46] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Arevon]
+Więc on ma advantage zdecydowanie, bo spieńczy w hitach i ona jest prone. Więc on... czy... trafia. 
+
+[Dungeon Master]
+Będziemy mieli zgrupować dwa metry tak potrzebne. 26. Okej, i teraz się nie będzie chyba wiercił. Dużo przestawienia by było. 
+
+[Arevon]
+I ona grapły, grapły. 
+
+[Dungeon Master]
+Tak, raczej to Orestes. 
+
+[Arevon]
+To nic nie da, bo on zgrapuluje się z powrotem. Wydawanie się z grappla w tej walce jest bezcelowe. Zdecydowanie nie masz pewności. 
+
+[Dungeon Master]
+Albo gadać. 
+
+[Orestes]
+Zacznę od walnięcia go toporem, ewentualnie rozważę gadanie później 
+
+[Dungeon Master]
+Wiesz, nie masz pewności, że tam w wersji Refreshatku jeszcze żyje. 
+
+[Orestes]
+Tak, ale i tak, skoro mam co najmniej 
+
+[Arevon]
+What the fuck? 
+
+[Orestes]
+dwa ataki, to próbuję atakować w raz pierwszy Dorzuciłem już 
+
+[Dungeon Master]
+Orestes się zabił i dwóch tytonów i jeszcze mu mało. 
+
+[CZAT 03:09:12] Orestes: 6
+
+
+[CZAT 03:09:12] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6, 1d12, 1d12, 2d6, 2d6, 2d12, 2d12 = Damage: 27 19 + 8, = Critical Damage: 20 2 + 3 + 15, = Conditional: 4 4, = Combined: 47 19 + 8 + 2 + 3 + 15
+
+
+[Dungeon Master]
+67. 
+
+[Arevon]
+Rzuci d4... d6. 
+
+[Orestes]
+Tak, tak, tak 
+
+[Arevon]
+A, rzuci sprzeczkę. 
+
+[Orestes]
+Jak już widziałem rzuty 
+
+[Arevon]
+To jest ile? Pięćdziesiąt sześćdziesiąt siedem. On nie ma rage'a. 
+
+[Versir]
+Pamiętacie o tym? Ty jesteś bez rage'a? O kurwa, nie wiedziałem. Prawie kret. 
+
+[CZAT 03:10:06] Orestes (rzut): Axe of Xander This is a sentient, lawful neutral +2 1d20+2 greataxe (Intelligence 14, Wisdom 10, Charisma 10). It has hearing and normal vision out to a range of 120 feet. It communicates empathicall… | rzuty: 1d20 + 13, 1d20, 1d20 + 13, 1d20, 1d12 + 8, 1d12, 2d6, 2d6, 1d6, 1d6 = Conditional: 3 3, = Damage: 18 9 + 9
+
+
+[Versir]
+Czy ktoś się odkończył? 
+
+[Arevon]
+To jest trzydzieści jeden. Tak. Rzuci kreda trzy razy, no. Trzydzieści jeden damage'a. Trzydzieści jeden. 
+
+[Orestes]
+jak swój barszczyny syn i jeszcze ta kurewska córka. Intimidate, tak? 
+
+[Arevon]
+Paryżska córka. 
+
+[Orestes]
+No i tu dupa. 
+
+[CZAT 03:10:57] Orestes (rzut): Intimidation (+4) 9 1d20 + 4 1d20 5 | rzuty: = 9, 1d20 + 4, 1d20
+
+
+[Arevon]
+Nope. Very nope. 
+
+[Versir]
+No ten smok powinien inicjatywę własną dostać wtedy chyba, teoretycznie. 
+
+[Arevon]
+Yep. 
+
+[Orestes]
+Obrażenie mi lepiej wychodzi niż ten, psychic damage. 
+
+[Arevon]
+Jak ktoś free... tego? Jak to się nazywa? Inspiration, żeby mu dać w następnym rzędzie? Hades nie umie żyć do szósty. 
+
+[Orestes]
+No, kończę rundę. 
+
+[CZAT 03:11:25] Helios: Applied conditions: &Reference[grappled]
+
+
+[Arevon]
+Mhm, to jak poprawi to nazywanie mu zero. 
+
+[CZAT 03:11:39] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[Arevon]
+Bo on nie jest w tym conscious. By the way... Raz Petriona jeszcze nie miał krójki? Nie miał. 
+
+[CZAT 03:11:56] Helios (rzut): Rend Natural Melee Attack Roll: +17 to hit, reach 15 ft. Hit: 19 ( 2d8 + 10 Slashing ) damage plus 9 ( 2d8 Fire ) damage. Attack Damage Action Instantaneous 15 ft Equipped Proficient
+
+
+[Arevon]
+Nice. I trzy hity. To zaboli go kiedyś. Okej, nawet Petriona nie walnął ani raz od początku, to ona nie żyje, nie wiem, no ale następne nie wiem, nie dożyje swojej rundy nawet Plus sześć, plus sześć, może reakcję jeszcze użyć? Nie masz jeszcze reakcji? Moment, ktoś jeszcze wpadł tam, zdecydowanie powiedział kurwa wpadając 
+
+[CZAT 03:13:38] Kentimane: Bite Simple Melee Melee Weapon Attack. +19 to hit, reach 5 ft., one target. Hit 28 (4d8 +10) piercing damage. Attack Damage Action Instantaneous reach 5 ft Equipped Proficient
+
+
+[CZAT 03:13:47] Orion Xul: Applied conditions: &Reference[grappled] &Reference[prone]
+
+
+[CZAT 03:14:27] Tysophale: 38
+
+
+[CZAT 03:14:35] Tysophale: 26
+
+
+[CZAT 03:14:56] Orion Xul: Applied conditions: &Reference[grappled] &Reference[prone]
+
+
+[Dungeon Master]
+to 8 damage 
+
+[CZAT 03:15:08] Orion Xul: 17
+
+
+[Orion]
+Okej, mam jeszcze dwie Gift of Chromat Y Reactive Resistance, okej, użyję, no. 
+
+[Dungeon Master]
+zamiast 17 Orion 
+
+[Versir]
+Jesus. 
+
+[Dungeon Master]
+jest ciemno koło ciebie się wersja rusza 
+
+[Orion]
+Mogę go dźgać od środka? 
+
+[Dungeon Master]
+ale w sumie to nic nie widzisz wszystko już się zrobił jak chlup pewnie powiedział o kurwach zajął serwona i jest to 
+
+[Orion]
+To jest bless, tak? 
+
+[Dungeon Master]
+utrudnione trochę, ale możesz ale 
+
+[Arevon]
+Masz straight roll, magic, nope, nope, nope, nope 
+
+[Dungeon Master]
+bo się 
+
+[CZAT 03:16:42] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 17, 1d20 + 12, 1d20
+
+
+[Orion]
+A, serio. Jeszcze jeden. 
+
+[CZAT 03:16:58] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 18, 1d20 + 12, 1d20
+
+
+[Versir]
+A tutaj Bless może pomóc. 
+
+[Arevon]
+Żyć w blesie. 
+
+[Versir]
+A, dodałeś temu Candyman HP-ka z regen? Czy zapomniałeś? 
+
+[Arevon]
+Co za rola po prostu. 
+
+[CZAT 03:17:06] Orion Xul: 3
+
+
+[Arevon]
+Loop? Nice. 
+
+[Orion]
+No, dobra. 
+
+[CZAT 03:17:15] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: = 28, 1d20 + 12, 1d20
+
+
+[CZAT 03:17:19] Orion Xul (rzut): Odkupienie Pythora This mighty weapon was crafted by Orion Xul and Volkan, God of Forges in legendary Mithral Forge. Immediately after you make a ranged attack with this weapon, it flies back to your… | rzuty: 1d8 + 9, 2d6 = Damage: 22 13 + 9
+
+
+[Versir]
+Mnie burczyło w rzuchu. 
+
+[Orion]
+Co jeszcze? Ponosową akcją atakować, czy się leczyć? Może second wind. 
+
+[CZAT 03:17:49] Orion Xul (rzut): Second Wind (1d10+13) 23 1d10 + 13 1d10 10 | rzuty: = 23, 1d10 + 13, 1d10
+
+
+[Arevon]
+No chyba już nie masz akcji na to. 
+
+[Orion]
+I mówię do niego. Odejdź. Zostaw nas w spokoju. Wracaj do twojego leża. A, dwa mać. Może... To jest magiczny świat, magiczny gościu, jestem w magicznym dwóchu, ale tego mogłoby być lepiej, bo by słyszał jakiś dźwięk w środku siebie, nie? Może by pomyślał, że to jedna z jego głów. 
+
+[CZAT 03:18:45] Kentimane: 10
+
+
+[Arevon]
+On ma advantage, on ma advantage, on ma advantage. Ale dalej nieprzytomny. 
+
+[CZAT 03:18:50] Kentimane: 7
+
+
+[Orion]
+Tak, tak. No dobra. 
+
+[Arevon]
+Krasan. Prostownie. 
+
+[CZAT 03:19:31] Kentimane: Spit Simple Ranged Ranged Attack: +19 to hit, range 200 ft., one target. Hit: 24 (7d6) acid damage. Attack Damage Action Instantaneous 200 ft Equipped Proficient
+
+
+[CZAT 03:19:32] Felicjan Janus Twardowski: 2
+
+
+[Arevon]
+Nie. Mało. Nie wierzę, że Wersir się dalej koncentruje na tym gównie ze środka. 
+
+[Versir]
+Jest. 
+
+[CZAT 03:20:07] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[CZAT 03:20:09] Colossus of Pythor (rzut): Giant Spear Natural Melee Weapon Attack: 1d20+22 (+22) to hit, reach 20 ft., one target. Hit: 41 ( 8d6 + 13 ) piercing damage. Attack Damage Action Instantaneous 20 ft reach 5 ft Equipped Proficient
+
+
+[Versir]
+Mogę pływać w kwasie, koncentracji i zdrowiu. A w lawie z nieba. 
+
+[Arevon]
+Naprawdę. Chyba w lawie byś już nie mógł, ale... Nie. 
+
+[CZAT 03:20:24] ?: yala 1 -1 pythor 3 - 0 kyrah 0 - 2
+
+
+[Orestes]
+On ma szansę nie dożyć do mojej rundy, dobrze rozumiem. 
+
+[Arevon]
+Na pewno wyżyje, zdecydowanie. Mamy jeszcze co najmniej 500? To jest sukses. 
+
+[Orestes]
+Czy strawienie członka drużyny leczy mu rany? 
+
+[CZAT 03:21:02] Arevon Elorrenthi: 18
+
+
+[Arevon]
+Znowu ja, znowu ja rzucę. 
+
+[CZAT 03:21:09] Arevon Elorrenthi: yala 2 -1 pythor 3 - 0 kyrah 0 - 2
+
+
+[Arevon]
+To Kira rzuca teraz. 3, 2, 1, Kira dead. A ciała to nie. 
+
+[CZAT 03:21:17] Arevon Elorrenthi: 20
+
+
+[Versir]
+Kira też jest chosen one. 
+
+[Arevon]
+Kira rzuca D6. 
+
+[Orestes]
+Aha. 
+
+[CZAT 03:21:27] Arkyrania: 4
+
+
+[Arevon]
+Ue, fail. 
+
+[Versir]
+Kurde. 
+
+[Arevon]
+Kira 2, 1, AP. 
+
+[Orestes]
+Kira wstając powinna zaśpiewać Gascus back, back again. 
+
+[CZAT 03:22:12] Arkyrania: 18
+
+
+[CZAT 03:22:25] Arevon Elorrenthi: DC 10 Concentration Concentration
+
+
+[Versir]
+To prawda. Zależy gdzie stoisz względem mnie, ale tak. 
+
+[CZAT 03:22:44] Arevon Elorrenthi (rzut): Draconic Transformation (6d8) 32 6d8 6 5 5 8 5 3 32 | rzuty: = 32, 6d8
+
+
+[Orestes]
+Zakładasz, że będzie miał zgagę? 
+
+[Arevon]
+Teoretycznie dc10 kona mogę sfejlować? Ty mogę sfejlować teoretycznie jak rzucę dwie dymkie, przepraszam. Przepraszam? Advantage. Nieistotne! 
+
+[Versir]
+Chcę wjedzyć wakety. 
+
+[Arevon]
+Jakbym rzucił dwie dymki to bym się zastanowił, ale... On rzuca dek save'a, dc21. To jest jeden! 32 false damage'u. Żołądek się gotuje. To był moja bonus akcja. Nie, to zdecydowanie nie kończy mojej kolejki. Akcje. 
+
+[CZAT 03:24:50] Arevon Elorrenthi (rzut): Intimidation (-1) 3 1d20 - 1 4 4 12 1d20 - 1 13 13 | rzuty: 1d20 - 1, 1d20 - 1
+
+
+[Dungeon Master]
+Straszenie kogoś będąc w jego żołądku jest, wiesz, nieskuteczne, jak się wydaje. 
+
+[CZAT 03:25:01] Versir: Applied conditions: &Reference[grappled]
+
+
+[Dungeon Master]
+To kończąc tę kolejkę, to jest szansa, że będzie rzygał. Zrobił 32 damage'a. DC 20. On robi... I on rzyga. I co prawda teraz, gdy tak czytam ten opis, to by sugerowało, że jednak ten żołądki może sobie jest kilka, bo on rzyga tylko tę osobę, która zadała ten damage. 
+
+[Versir]
+Versil. 
+
+[CZAT 03:26:06] Arevon Elorrenthi: 17
+
+
+[CZAT 03:26:20] Versir: DC 10 Concentration Concentration
+
+
+[CZAT 03:26:36] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[Orestes]
+No i to tak jakbym muchę w locie próbował złapać. 
+
+[CZAT 03:26:52] Kentimane: Grab Simple Melee Melee Weapon Attack: +19 to hit, reach 25 ft., one target. Hit: 24 (4d6+10) bludgeoning damage. The target is grappled (escape DC 20). If the target is large or smaller, it is also restrained until the grapple ends. While grappling the target, Kentimane has advantage on the attack rolls against the target. Attack Damage Action Instantaneous reach 25 ft Equipped Proficient
+
+
+[CZAT 03:27:07] Arevon Elorrenthi: DC 13 Concentration Concentration
+
+
+[Versir]
+Versil w żołądku. Mam, mam tego dość. Orionie, zmiatajmy stąd. We can Dimension Door. 
+
+[CZAT 03:27:43] Versir: Dimension Door Legacy • 4th Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V Range 500ft. You teleport yourself from your current location to any other spot within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight d…
+
+
+[Versir]
+Teleportuję się w ostatnie miejsce, które pamiętam i wierzę, że trąba czeka na mnie, bo nie wiem co się dzieje na zewnątrz, nie wiem gdzie kto stoi, co się dzieje. Teleportuję się na ostatnie miejsce, gdzie trąbę pamiętam. Razem z Orionem. To była bonus akcja, więc możesz nas przesunąć na trąbę. Albo na trąbę. Używam dash action plus teleport, żeby się teleportować prosto przed oblicze Cantymane. 
+
+[Orion]
+To jest wygodne. 
+
+[Versir]
+Nie jestem w stanie Oriona zostawić, nie krzywdąc go. Wyjmuję ten złoty owoc, swojego kermana. Spełniamy wolę Tailei, głupcze. Ona nam pokazała jakim zagrożeniem są bliźniacy. Zrobiliśmy to, żeby chronić kontynent. Zrozum to. A jeśli tego nie zrozumiesz, to zginiesz tu dzisiaj. Obejrzę jeszcze jedną osobę z mojej rodziny owładniętą szaleństwem. Jeszcze jedną śmierć. Fail. 
+
+[CZAT 03:29:51] Versir (rzut): Intimidation (+11) 14 1d20 + 11 3 3 | rzuty: = 14, 1d20 + 11
+
+
+[Versir]
+Ja mam feature, który się Medical Guidance nazywa. Mogę użyć source pointa, żeby przerolewać. No domyślam się, że to może być. 
+
+[Dungeon Master]
+to co już nie jest nie jest już bardzo duże 
+
+[Versir]
+Zakończmy rondo. 
+
+[Dungeon Master]
+ale nie aż tak o kurwa 
+
+[CZAT 03:30:10] Versir (rzut): Intimidation (+11) 29 1d20 + 11 18 18 | rzuty: = 29, 1d20 + 11
+
+
+[Dungeon Master]
+to jest dużo eee no powiem ci że to co wyrzuciłeś to by wystarczyło 1000 HP wcześniej okej kenty main unosi 5 wielkości okrętu cios który mógłby zmiażdżyć każdego z was i w połowie ciosu zatrzymuje się. Pięść zawisa o włos nad tobą, Wersir, drąc. Pięćdziesiąt głów obraca się jednocześnie. Sto pradawnych oczu mierzy ciebie w ciszy, która jest straszniejsza od każdego ryku. Przez chwilę, która trwa... Kurwa. Duża muzyka na to. Przez chwilę, która trwa wieczność kenty main. Strażnik Tajlei Rozważa Strażnik Tajlei Rozumuje Bo wy też jesteście dziećmi Tajlei Krwioł tej ziemi I właśnie Zrobiliście coś Co Sturenki potrafi zrozumieć Nie ugięliście się Coś tak małego 
+
+[CZAT 03:31:56] Felicjan Janus Twardowski: 88
+
+
+[Dungeon Master]
+Stanęło przed czymś tak wielkim Kazało mu się Wytrzymać Odejść Nie cofając się o krok Pięść opada Powoli Do ręki prostuje się Odwraca pięćdziesiąt twarzy Ku wschodowi Skąd przyszedł I bez jednego słowa Rusza z powrotem W tamtym kierunku No trochę powiedzmy morza Okrężną drogą 
+
+[Versir]
+Wersja podlatuje i Pertir pod lat... a, to to jeszcze inicjatywa, tak? 
+
+[Orestes]
+Tak, to to robię. 
+
+[Dungeon Master]
+zadaliście mu 
+
+[Orestes]
+Nie, nie. Nie no. Trochę liczyłem, że go zabiję. Będę miał trzech tytanów pod toporem. 
+
+[Versir]
+Chyba hat-tricka, behat-trick by był, nie? 
+
+[Orestes]
+No. To topór nie usta tak stacjonowany w mojej ręce. 
+
+[Versir]
+Bomba, bomba pro widorkę To jest... a nie, bo delay fireball też jest concentration, tak? Nie da się z banishmentem skombować A, no tak 
+
+[Dungeon Master]
+dwa tysiące 
+
+[Versir]
+Czego jeden widort nie zrobi, to dwóch zrobi 
+
+[Dungeon Master]
+siedem miesiąc trzy demagia dwa tysiące czterysta 
+
+[Orestes]
+Nice. 
+
+[Dungeon Master]
+więc trochę przeszacował Alicjan był bliżej no a bo jeszcze jest item ten zjebany gotowi na wszystko za dużo itemów macie no nic pora zbijać 
+
+[Versir]
+Przecież... widocz się proste wydawała Ta uprawa była genialna 
+
+[Orestes]
+Czesna względnie. 
+
+[Versir]
+A co tą mapkę miałeś, no? 
+
+[Orestes]
+Jeszcze bardziej doki byśmy rozwalili. 
+
+[Versir]
+Jakby walka była mięśna Kolos 
+
+[Dungeon Master]
+Ale ten... Tak, to jest ten zrujnowany kolos tu jest. 
+
+[Versir]
+Teraz chwila prawdy, czy smak będzie 
+
+[Dungeon Master]
+To jest fajne, bo tak jeden do jednej pasuje do mapki tej, wiesz, z góry. To jest fajne. Dobra mapka na Countrymane. No to jest tutaj. No dobrze. Po raz pierwszy od wielu godzin nad Mytros zapada prawdziwa cisza. Nie cisza grozy, lecz cisza poburzy. I to wy go zakończyliście. Miasto leży w gruzach. Wielu zginęło. Ale ono wciąż tu jest. A wraz z nim ci, których ocaliliście. Gdzieś z dymu dochodzi pierwszy od dawna dźwięk, którego być może nie spodziewaliście się usłyszeć. Chociaż był już ten dźwięk w sumie. Ktoś się śmieje. Tym razem nie jest to dziki śmiech wywołany magii ulterii. Tak szczerze. Po prostu po ludzku z ulgi. Część ludzi wypatruje kolejnego zagrożenia, ale kolejne zagrożenia nie odchodzą. Ten wulkan lava udało się opanować bez waszej pomocy. Większość lawy wypłynęła na północną część, tam pewnie jakieś zabudowania, jakieś pola pewnie są spalone, ale miasto się nie zjarało. 
+
+[CZAT 03:41:01] Arevon Elorrenthi: i wtedy... DWA LEVELE! xD
+
+
+[Orestes]
+Tutaj małem też jej brata jebańca. Ha ha ha ha. Tak było, nie zmyślam Jej brat też pod moim toporem Kwiczał jak wieprzek Próbuję go wypić Tak, czuję smak 
+
+[Versir]
+Ostatni, ostatni śmiech loterii, ha ha ha 
+
+[Orestes]
+Moirom się nie udało 
+
+[Versir]
+Zabrałem ci największą przyjemność życia Boże, my jeszcze tego smaka zabiliśmy 
+
+[Orestes]
+Ona to zrobiła God damn it Widzisz Brax, problem jest taki Że suka mnie zabiła, ale nie do końca A ja ją zrobiłem tak do końca Więc no niestety Mam dobry problem ze smakiem 
+
+[Dungeon Master]
+jeszcze w tym konkretnym momencie osiągnąć. A jak nie, to ja mam tutaj listę rzeczy do ogarnięcia. Tak, to do tego możemy dalej. Przez następne godziny, dni trwa porządkowanie, poszukiwania zaginionych, liczenie zmarłych. Mytros przed wojną liczyło jakieś 50 tysięcy, jest to prawdopodobnie najlepszy wynik bitwy przeciwko tytanom w historii Tylei ale i tak każdy z tych ponad 3000 ludzi miał imię i na każdego z nich ktoś czekał ocalali kolejnego dnia wstaną, zaczną odgryzywać ulicę przed własnym domem, bo od czegoś trzeba zacząć pochowają swoich nie swojego miasta. Zginęła na płonącym nabrzeżu doków. Prowadząc łuczniczki jeszcze w połowie dnia tej bitwy panowała ledwie kilka miesięcy. Żałoba w Bytros wygląda inaczej niż można by się było spodziewać. Miasto nie ma dość drewna na stosy i dość kapłanów na obręby. 
+
+[CZAT 03:48:56] Felicjan Janus Twardowski: straciliśmy też Hooooooberta!
+
+
+[Dungeon Master]
+Kapłani Bytros się dobrze Igrzyska pogrzebowe trwają 20 dni, są jakieś zawody organizowane, biegi, zapasy, wyścigi wozów po odgruzowanej jakiejś tam głównej drodze. Kiera w ludzkiej postaci śpiewa, nie tak pięknie jak kiedyś, ale dalej ma dobry głos. Śpiewa o waszych czynach, o bohaterstwie obrońców Mytros. Pieśń o Odysei rośnie z tygodnia na tydzień, za każdym razem jest odrobina inna. Nikt nie, faktów jakichś nie poprawia, legenda rośnie. Zaczynają się pojawiać pomniki w Mytros, w Estorii, w okolicach, przedstawiające Was. A gdzieś w jakimś tak cztery tygodnie od bitwy pojawia się pierwsza kapliczka na Targu Minotaurów, przedstawiająca Orestesa. Jest co prawda w jakimś tam bocznym załomku, nie wygląda zbyt imponująco, zbita z desek. jakaś figurka z toporem z jakiejś tam kawałka metalu ktoś położył przed nią kufel a tydzień później w mieście kilka więcej takich się znajdzie w każdym razie tak się znajdą tak z trzy kapliczki ostatecznie na każdego z Was zaczynają Was tam mocno wychwalać zostawiają Wam jakieś monety wino, kosmyki włosów, prośby zapisane na pergaminach. Proszą o rzeczy, których nikt z Was nie obiecał. Jakiś powrót męża spod boków, o dziecko, zdjęcie klątwy, o to, żeby brat przestał pić. Pior. I to jest... Tak. Do Was to już zależy, czy przyjmiecie ten kult, czy nie. Waszy ludzie będą Was wyznawać. 
+
+[Versir]
+Ho ho ho To może, może wina teraz zawsze smakuje Orestes 
+
+[Orestes]
+niektóre modlitwy nie są wysłuchiwane. 
+
+[Versir]
+Na ten martwy język 
+
+[Orestes]
+Eee, wątpię. Ja już miałem piosenkę gotową na wypadek zabicia Cantymane'a. Rozjebać, wypuścić rodziców. I inne plagi. Jestem w stanie to rozważyć, jeśli te rozmowy potrwają niedłużej niż 15 minut. No nie, ale tam na pewno... Dobra, dajmy ten tydzień na to ogarnięcie miasta i później jeszcze tydzień na dogadanie się z kim byście chcieli tego nie skonsultować, bo Reset bardzo chce rozwalić tą kosę i ja na pewno bym chciał się dowiedzieć 
+
+[Dungeon Master]
+To... chyba tutaj mam coś, momencik... 
+
+[Orestes]
+jak wrócić do żywej formy przywrócę mi ludzką formę 
+
+[Dungeon Master]
+Tak trochę nie są pewni, jak to zrobić. Walus... w chwale z taką niechęcią mówi, że... pewnie Moiry mogłyby pomóc. 
+
+[Orestes]
+czy minotałużą formę i powiedzą, że dalej nie będę smakował piwa to po chuj oczywiście, bym grał na dudach 
+
+[Dungeon Master]
+Okej. Dobra, to zróbmy to. Orestes. Tam Brax pewnie z Folonem zorganizowali gdzieś tutaj w Mytros jakiś taki prowizoryczny superbar w Mytros. Więc mimo, że Orestesowi niezbyt to smakuje, ale zgaduję, że i tak by często tam wieczorami zaglądał. W każdym razie pewnego wieczoru w tym barze pojawia się ktoś w ciemnym kapturze. 
+
+[Orestes]
+bo nie muszę brać przerwy na oddechy, żeby śpiewać i mówić w sumie nie ja ok, czy on mi coś sugeruje tym granatem? czy jak go zjem to stanę się z człowiekiem znaczy Minotaurem z powrotem tak witaj wielkim mistrzem 
+
+[Dungeon Master]
+Witaj, Orestes iż przybyłem odebrać dług, ale 
+
+[Orestes]
+cieni dług niestety to ja nie mam 
+
+[Dungeon Master]
+jednocześnie mogę też złożyć ofertę tak, tak, tak, wiem 
+
+[Orestes]
+tego czego poszukujesz to do kolegów a jako masz kartę 
+
+[Dungeon Master]
+zdaję sobie sprawę doszły mnie słuchy o twojej 
+
+[Orestes]
+jak 
+
+[Dungeon Master]
+nieszczęsnej przypadłości 
+
+[CZAT 03:59:37] Felicjan Janus Twardowski: dla jaj Melania rzucała by Turn Undead przy Orestesie
+
+
+[Dungeon Master]
+mógłbym pomóc no z tego co wiem 
+
+[Orestes]
+i co byś chciał w zamian możliwe 
+
+[Dungeon Master]
+to kryształowa kosa nadal jest w waszych rękach. 
+
+[Orestes]
+a musi być w jednym kawałku 
+
+[Dungeon Master]
+To jest cena. Za twój powrót do żywych. 
+
+[Orestes]
+a czy byłoby akceptowane żeby była 
+
+[Dungeon Master]
+Zastanawia się chwilę. Hmm. Byłoby to preferowane. 
+
+[Orestes]
+w kilku no postaram się nic nie upuścić 
+
+[Dungeon Master]
+Chwilę zastanawia. Ech. Niech ci będzie, mam dobry humor. Jest to tak. Odłamki też się nadadzą. Ale kompletne. 
+
+[Orestes]
+to jestem w stanie obiecać a mogę zabrać ze sobą 
+
+[Dungeon Master]
+Będziesz musiał przybyć do Arezji, 
+
+[Orestes]
+jakąś osobę towarzyszącą albo kilka no spoko, tak w razie czego żeby mnie odebrali, jakbym tam nie wiem później od razu poszedł na piwo i trzeba było mnie podnosić z ziemi no okej, okej, dobra to ja tam się z nimi dogadam, z chłopakami jak rozwalimy kosę, jak już mi pozwolą może być 
+
+[Arevon]
+To jest ten moment, gdzie szukamy high-level kleryka, który daje kontakt Mithros z wódzą. 
+
+[Orestes]
+ona mówiła, że tam chowała najpoteczniejszych wrogów świata, których złapała na obrzeżach i tak dalej. W tym moich rodziców. Nie, powiedziałem, że to z wami skonsultuję. Tak. Okej. Dlatego chciałbym poznać alternatywy. Ale wyrocznie, jak rozumiem, nie jest za nimi za bardzo pomóc, bo... Nie, wyrocznie nie straciła swoich mocy, bo ona cały czas miała swoje moce. 
+
+[Arevon]
+Pewnie nie wiem, czy istnieje high-level kleryk jeszcze żywy. 
+
+[Orestes]
+Właśnie. 
+
+[Arevon]
+Nie, zdecydowanie jest dobrą wolą z gadaniem. To u was pytanie ustalone? Prawda? To się jemu daje, ale się pytam, czy chciałby nam powiedzieć, co jest specjalnego w tej księdze, bo my nie znaleźliśmy w niej nic wystarczająco ważnego i specjalnego, żeby była warta takiej ceny. Ale jest twoja. Złożyliśmy, dobiliśmy targu, jest twoja. Byłbym szczęśliwy, jak będziesz mi odpowiedział, chociaż przyjmij się, a jak nie, to nie. Nie mogę czy zmusić do odpowiedzi. Detect what? Tylko, że nie jestem mizardem. Nie jestem mizardem. Nie jestem mizardem. Nie mogę. Pisać. Co mogę możeść? Skraje. Auto-fail. Na pewno mam non-detection na sobie, więc skraje nie pomożą. 
+
+[Orestes]
+Znaczy, możemy w mięso się polecić do Moir, tylko żeby polecieć do Moir, potrzebujemy Ultrosa, Czyli trzeba go wyłowić i załatać. I będziemy mogli popłynąć do nich. To zajmie tak dwa miesiące pewnie. 
+
+[Arevon]
+Ja bym się ze swojej nie śpieszył z niesieniem mukosu. 
+
+[Orestes]
+Ja bym się tak pośpieszył, zanim zgniję i zostaną ze mnie same kości. 
+
+[Arevon]
+Ja nie wiem, czy zombie jest lepszy niż szkielet, więc... 
+
+[Orestes]
+No tak, szkielet mnie śmierdzi. 
+
+[Arevon]
+Naprawda? 
+
+[Orestes]
+A, jest. 
+
+[Arevon]
+Naprawda. 
+
+[Orestes]
+Znaczy, w sumie ja muszę się zastanowić, 
+
+[Arevon]
+No nic, ale... 
+
+[Orestes]
+czy ja nie chcę zostać undeadem do końca, bo w sumie wy umrzecie, wasz kur... przeminie, a ja dalej będę miał wyznawców, bo będę nie umarły. 
+
+[Arevon]
+Jak zostać liczem, ale zombiakiem? Ja se wypraszam. No tak. Nie będę mówić o wersji, w której żył, ile 800 plus... Nie wiem ile. Dużo. Okej. Nie wiem ile, mówię dużo. Mhm, tak. Ja 
+
+[Orestes]
+Trzy momenty. Tak. No tak. 
+
+[Dungeon Master]
+to jeszcze zdążymy dzisiaj chyba to mniej więcej tyle mam też przygotowane takie trochę krótkie losy większości ważniejszych NPCów i jakiejś wyspy i tak dalej ale to też na to dzisiaj już czasu nie starczy nie będzie takie strasznie długie ale nie przyciągajmy tego do północy dzisiaj i ogólnie zbliżamy się do momentu gdzie trzeba będzie zrobić taki timeskip, żeby przejść do dalszej części kampanii. Wiem, że Wersir się na pewno pali, żeby nowe Moirę zainstalować, ale trzeba najpierw znaleźć te nowe Moiry. Ale nie tak łatwo znaleźć ochotników na takie coś. Jednego mać. Wersir chce załukatrupić Moirę od dawna. A gdzieś tam Wersir jest na ścieżce zemsty. 
+
+[Orestes]
+Mojry też. wiem, że sprzedajne suki, ale to sprzedajne każdemu, a no w sumie 
+
+[Dungeon Master]
+Natychmiastowym jest pewnie Morze Odchłanny i Talius. okej okej, o tak, to zeszłam na liście dobra to dzisiaj się na tym 
+
+[Versir]
+To jest najbardziej zasłużony level od początku kampanii. 
+
+[Dungeon Master]
+zatrzymajmy, już nie przeciągajmy to ja mam też do was prośbę na kolejną sesję, która będzie taką powiedzmy ostatnią, przed przerwą trochę, znaczy nie jakoś strasznie długo z miesiąc powinienem zrobić przerwy żeby trochę odpocząć, zebrać sił na nowe wątki żebyście 
+
+[Orestes]
+to takie mam bardzo ważne pytanie level czyli można będzie śmiesznie, będę mógł robić trzęsienie ziemi 
+
+[Versir]
+Ale w sumie ja też rzucę taki. 
+
+[CZAT 04:16:21] Felicjan Janus Twardowski: 2
+
+
+[Versir]
+Zaraz, Sorc ma szóstka? 
+
+[CZAT 04:16:25] Arevon Elorrenthi: 1
+
+
+[Versir]
+Sorc ma szóstka. 
+
+[CZAT 04:16:31] Arevon Elorrenthi: 6
+
+
+[Versir]
+Ja Fita muszę wybrać. 
+
+[CZAT 04:16:36] Versir: 3
+
+
+[CZAT 04:16:46] Versir: DC 38 Concentration Concentration
+
+
+[Orestes]
+to jest druga kampania, gdzie 
+
+[CZAT 04:16:54] Orion Xul: 6
+
+
+[CZAT 04:16:59] Orestes: 9
+
+
+[CZAT 04:17:01] Arevon Elorrenthi: DC 54 Concentration Concentration
+
+
+[CZAT 04:17:04] Versir: DC 10 Concentration Concentration
+
+
+[CZAT 04:17:07] Versir: DC 33 Concentration Concentration
+
+
+[Orestes]
+dostaję możliwość wprowadzenia trzęsienia ziemi 
+
+[Dungeon Master]
+Czekaj, co? Jak masz teraz trzęsienie ziemi? 
+
+[Orestes]
+Na czternastym levelu. 
+
+[Dungeon Master]
+A, okej, masz jakieś feature'a. 
+
+[Orestes]
+Tak. 
+
+[Dungeon Master]
+Okej. 
+
+[Orestes]
+Nazywa się Earthshaker. Na piętnastym mam Persistent Rage. Hmm. No ciekawe rzecz. No dobra. To trzeba sobie podbić level. 
+
+[Dungeon Master]
+Z levelowaniem się nie musicie śpieszyć, bo to nie będzie istotne. No, ale dla tych, co mają bardziej trudniejszy level do zlevelowania. Czyli pewnie w sumie tylko Paciek. Chyba, że cash'u też. 
+
+[Versir]
+Jego wizja była, że to Melania umierała i Wersir cię zawiodł, tak? 
+
+[Dungeon Master]
+No, ciekawe, co bohaterowie Tylai będą musieli załatwić za te jakieś plus minus 10 lat. 
+
+[Orestes]
+Co? Czy kogo? Nie no, w takim... W sumie to, żeby wizja przyszłości spełniła się, bo w którymś momencie chyba była jakaś wizja Orestesa w przyszłości, który ma bar i sprzedaje piwo, no to chyba nie był tam zgniły, więc ja chyba muszę wrócić do podstawowego ciała. Czemu policjant będzie smutny? O, to mogę sobie też long resta 
+
+[Versir]
+Bo liście w Wersiro jego nie było, jakoś tak? To była moja wizja, jeszcze nie pamiętam. 
+
+[Felicjan]
+Z tego co mi się wydaje, to chyba tylko ja byłem i Kira, czyli pełno trupów dookoła, jak ostatnio ginęliśmy. Moja postać jak traci koncentrację, to nie traci koncentracji. Pięć razy. 
+
+[Orestes]
+rzucić. 

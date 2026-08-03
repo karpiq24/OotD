@@ -2,13 +2,13 @@
 title: "Bitwa o Mytros — Akt III: Nadejście Kentimane"
 ---
 
-> **Materiał DM.** Read-aloud, opis pola bitwy, wielkie wejście sojuszników, „shit-talk bez słów" (narracja + okrzyki sprzymierzeńców), dwa finały. [[Kentimane]] **nie wypowiada ani jednego słowa** — cały ciężar niesie narracja. Bez statystyk.
+> **Materiał DM.** Read-aloud, opis pola bitwy, wielkie wejście sojuszników, „shit-talk bez słów" (narracja + okrzyki sprzymierzeńców), dwa finały. [[Kentimane]] **nie wypowiada ani jednego słowa** — cały ciężar niesie narracja. Jedyne liczby: 2400 HP, DC Zastraszania i 20d10 miasta (sekcje 2 i 4).
 
 ## Scena
 
 Zrujnowane [[Mytros]]. Po śmierci [[Sydon|Sydona]] i Uczcie [[Lutheria|Lutherii]] z budzącego się wulkanu góry [[Volkan|Volkana]] wstaje **[[Kentimane]]** — Sturęki, pradawny ojciec Tytanów, mąż i obrońca [[Thylea|Thylei]]. Przybył pomścić ulubionego syna. To nie jest przeciwnik, którego się przekonuje ani z którym się rozmawia — to żywioł. Uosobienie gniewu: huragan, trzęsienie ziemi i wulkan w jednym ciele o stu rękach i pięćdziesięciu głowach.
 
-**Dwa możliwe finały:** Kentimane można **pokonać** albo **udobruchać imponującą siłą** (zatrzyma cios, uzna ich za godnych, odejdzie). Decyduje przebieg walki — patrz sekcja 5.
+**Dwa możliwe finały:** Kentimane można **pokonać** (zbić 2400 HP do zera) albo **złamać pokazem siły** — udanym testem Zastraszania, którego DC spada z każdą setką zadanych obrażeń. Zasady w sekcji 2, read-aloudy w sekcji 6.
 
 ---
 
@@ -26,7 +26,42 @@ Zrujnowane [[Mytros]]. Po śmierci [[Sydon|Sydona]] i Uczcie [[Lutheria|Lutherii
 
 ---
 
-## 2. Pole bitwy i zagrożenia
+## 2. Yala — jedyny język, jaki rozumie Sturęki (read-aloud + mechanika)
+
+*Cue: odpal **na samym początku**, zaraz po przebudzeniu, zanim padnie pierwszy cios. [[Yala]] — ta, która w [[Sesja 35 - W Wężowym Uścisku|sesji 35]] była dłużniczką bohaterów za amazonki, a przy Uczcie stanęła przeciw własnej matce — w końcu dociera do miasta. Nie przyszła walczyć. Przyszła powiedzieć im, jak to się rozgrywa. To ona daje graczom drugą ścieżkę zwycięstwa — bez niej będą myśleć, że jedyne wyjście to zbicie 2400 HP.*
+
+> *Coś ląduje pośród gruzów za waszymi plecami — ciężko, bez gracji, jakby leciała bez przerwy od chwili, gdy pękła góra. [[Yala]]. Ma popiół we włosach i spękaną zbroję, i po raz pierwszy, odkąd ją znacie, w jej twarzy nie ma spokoju. Nie patrzy na was. Patrzy w górę, na to, co idzie ku miastu, i mówi szybko, jak ktoś, komu kończy się czas.*
+>
+> **Yala:** „Słuchajcie mnie uważnie, bo powiem to raz. To nie jest mój ojciec ani moja matka. Z nimi dało się rozmawiać — jeden chciał być czczony, druga chciała rozrywki. Dziadek nie chce **niczego**. Nie usłyszy waszych imion, nie zrozumie waszej litości, nie przyjmie żadnej oferty. On rozumie jeden jedyny język. **Siłę.**"
+>
+> **Yala:** „Więc macie dwie drogi i obie prowadzą przez ból. Albo go **zniszczycie** — a to jest góra, w której nie ma dna. Albo go **zmusicie**, żeby przestał. Bijcie w niego tak, żeby poczuł. Bijcie, aż pięćdziesiąt głów obróci się w waszą stronę naraz. A kiedy poczujecie, że przestał was widzieć jak owady — **stańcie przed nim i każcie mu odejść.** Nie proście. Nie tłumaczcie. Rozkażcie."
+>
+> **Yala** *(wreszcie patrzy na nich)*: „Wiem, jak to brzmi. Śmiertelnik rozkazujący Sturękiemu. Ale on ma pamięć starszą od świata i tylko jedno w tej pamięci robi na nim wrażenie: coś, co się nie ugięło. Ochroniliście mój lud, kiedy nie musieliście. Teraz idźcie i bądźcie tym, przed czym cofa się nawet Gniew Thylei."
+
+*Cue: Yala **nie dołącza do walki** (albo daj jej tylko wsparcie z dystansu — leczenie, wyciąganie połkniętego bohatera). To ma być ich walka. Jej rola: przekazać zasadę i zejść ze sceny.*
+
+### Mechanika: zniszczyć albo zastraszyć
+
+**Kentimane: 2400 HP.** Nie ma tu triku ani słabego punktu — jest tylko masa, którą trzeba przebić, albo wola, którą trzeba złamać.
+
+**Test Zastraszania (Intimidation).** Akcja. Bohater staje naprzeciw Tytana i **żąda**, by odszedł. Wymaga fikcji: krzyk, gest, uniesiona broń, stanie na miejscu, gdy spada pięść. DC startowe jest absurdalne i **spada o 1 za każde 100 obrażeń** zadanych Kentimane w tej walce (licz łącznie — bohaterowie, sojusznicy, miasto, wszystko).
+
+| Zadane łącznie obrażenia | DC Zastraszania |
+|---|---|
+| 0 | 35 |
+| 500 | 30 |
+| 1000 | 25 |
+| 1500 | 20 |
+| 2000 | 15 |
+| 2400 (max) | 11 |
+
+- **Sukces** → wariant A finału (sekcja 6): pięść zatrzymuje się, Sturęki odchodzi.
+- **Porażka** → nic się nie psuje mechanicznie, ale opisz to bezlitośnie: głowy obracają się, mierzą bohatera i **wracają do niszczenia miasta**. Można próbować znowu — ale każda próba to stracona akcja, więc odbija się na tempie zbijania HP.
+- *Cue: jawnie podaj graczom aktualne DC (albo „mniej więcej, ile jeszcze trzeba"). To ma być wyścig, który widzą — pasek postępu, nie zgadywanka. Pomoc (Help), przewaga z dobrego opisu, bardowska inspiracja, magia typu *guidance* — wszystko wchodzi; nagradzaj kreatywność.*
+
+---
+
+## 3. Pole bitwy i zagrożenia
 
 Opis zagrożeń do odmalowania w trakcie:
 
@@ -37,7 +72,7 @@ Opis zagrożeń do odmalowania w trakcie:
 
 ---
 
-## 3. Zjednoczeni sojusznicy (read-aloud)
+## 4. Zjednoczeni sojusznicy (read-aloud)
 
 *Cue: odpal wcześnie — to ma być moment „wszyscy razem", katharsis po całej kampanii. Wszystkie siły, jakie zebrali bohaterowie, stają w jednej linii.*
 
@@ -49,9 +84,18 @@ Opis zagrożeń do odmalowania w trakcie:
 >
 > *Sturęki patrzy na to wszystko pięćdziesięcioma parami oczu. I po raz pierwszy... się zatrzymuje. Na jeden krok. Jakby liczył.*
 
+### Mechanika: całe miasto w inicjatywie
+
+**Inicjatywa 10 — „Mytros".** Jedna zbiorcza tura dla wszystkich sojuszników naraz: smoki, [[Kolos Pythora|Kolos]], [[Helios]], amazonki na gryfach, automatony [[Egida Mytros|Egidy]], barbarzyńcy [[Wyspa Indygo|Indygo]], magowie [[Akademia Mytros|Akademii]], zwykli mieszkańcy z tym, co mieli pod ręką.
+
+- **Obrażenia: 20d10** (średnio ~110) w Kentimane, automatycznie, co rundę. Bez rzutu na trafienie — to nie jest atak, to jest miasto.
+- **Wliczaj to do licznika obrażeń** dla DC Zastraszania (sekcja 2). Samo miasto zbija DC o mniej więcej 1 na rundę.
+- **Rzucaj te kości na stole, na oczach graczy.** Garść dwudziestu k10 spadająca na blat to najtańszy sposób, żeby poczuli, że nie stoją sami.
+- *Cue: co rundę opisz, **kto** akurat dowiózł najwięcej — wysoki rzut = Kolos wbija włócznię między żebra, niski = trzech kupców i kowal rzucają, czym mają. Jeśli walka się przeciąga, możesz opisowo „przerzedzać" miasto (obrona pada, ludzie giną), ale nie zmniejszaj kości — utrata nadziei ma iść z narracji, nie z arkusza.*
+
 ---
 
-## 4. „Shit-talk" bez słów
+## 5. „Shit-talk" bez słów
 
 Kentimane **milczy.** Nie ma kwestii. Zamiast tego rolę „zaczepek" pełnią **reakcje jego ciała** (narracja DM) i **okrzyki sojuszników** (bojowy chór). Rzucaj je, by utrzymać tempo i napięcie.
 
@@ -75,35 +119,33 @@ Kentimane **milczy.** Nie ma kwestii. Zamiast tego rolę „zaczepek" pełnią *
 
 ---
 
-## 5. Finał — udobruchanie lub pokonanie (read-aloud)
+## 6. Finał — złamany albo pokonany (read-aloud)
 
-*Cue: wybierz finał wedle tego, jak poszła walka. Jeśli gracze zadali ogromne, imponujące ciosy i wykazali się odwagą/jednością — **udobruchanie** (Strażnik uznaje ich za godnych). Jeśli grają na pełne zniszczenie i doprowadzą go do zera — **pokonanie**.*
+*Cue: finał wybiera się sam. **Udany test Zastraszania** (sekcja 2) → wariant A. **2400 HP zbite do zera** → wariant B. Co przyjdzie pierwsze.*
 
-### Wariant A — udobruchany siłą
+### Wariant A — złamany pokazem siły
 > *Sturęki unosi pięść wielkości okrętu — cios, który zmiażdżyłby pół dzielnicy — i zamierza się, by zetrzeć was z powierzchni świata.*
 >
 > *I zatrzymuje się.*
 >
 > *Pięść zawisa o włos nad wami, drżąc. Pięćdziesiąt głów obraca się jednocześnie — sto pradawnych oczu mierzy was w ciszy, która jest straszniejsza od każdego ryku. Przez chwilę, która trwa wieczność, [[Kentimane]] — strażnik [[Thylea|Thylei]], który walczył z całym światem zewnętrznym, by chronić jej dzieci — **rozważa**.*
 >
-> *Bo wy jesteście jej dziećmi. Krwią z tej ziemi. I właśnie udowodniliście mu, że potraficie ją obronić tak, jak on nigdy by nie zdołał — nie niszcząc wszystkiego dokoła, lecz stając w jej obronie razem.*
+> *Bo wy jesteście jej dziećmi. Krwią z tej ziemi. I właśnie zrobiliście jedyną rzecz, którą Sturęki potrafi zrozumieć: nie ugięliście się. Coś tak małego stanęło przed czymś tak wielkim, kazało mu odejść — i nie cofnęło się ani o krok. [[Yala]] miała rację. To jest jedyny język, jaki zna.*
 >
 > *Pięść opada. Powoli. Bez ciosu. Sturęki prostuje się, odwraca pięćdziesiąt twarzy ku północy i bez jednego słowa rusza z powrotem ku morzu. Tam, gdzie stąpa, ziemia drży coraz ciszej. Ocean rozstępuje się, by go przyjąć. A potem fale zamykają się nad ostatnią z jego głów, i Gniew Thylei znów zasypia — usatysfakcjonowany, że jej przyszłość jest w dobrych rękach.*
 >
 > *Nie powiedział ani słowa. Nie musiał. Żyjecie. To była jego odpowiedź.*
 
 ### Wariant B — pokonany
-> *Ostatni cios trafia w samo serce góry. [[Kentimane]] — Sturęki, ojciec Tytanów, gniew, który nie znał granic — zastyga w pół kroku. Sto rąk nieruchomieje w powietrzu. Pięćdziesiąt głów milknie jednocześnie, po raz pierwszy od przebudzenia, i ta cisza jest ogłuszająca.*
+> *Ostatni cios trafia — i coś w tej górze wreszcie ustępuje. [[Kentimane]] — Sturęki, ojciec Tytanów, gniew, który nie znał granic — zastyga w pół kroku. Sto rąk nieruchomieje w powietrzu. Pięćdziesiąt głów milknie jednocześnie, po raz pierwszy od przebudzenia, i ta cisza jest ogłuszająca.*
 >
 > *A potem zaczyna się od stóp: jego ciało **kamienieje**, warstwa po warstwie, jak lawa stygnąca w czarną skałę. Tytan kruszy się i opada na zrujnowane miasto nie jak trup, lecz jak walący się klif — sto kamiennych dłoni rozsypuje się po ziemi i zastyga, wyciągniętych ku niebu, tworząc pole martwych rąk, które będzie tu sterczeć przez wieki jako pomnik tego dnia.*
->
-> *Pośród rumowiska, tam gdzie biło jego serce, żarzy się jedna rzecz, która nie skamieniała: bryła **gwiezdnego metalu**, pulsująca jak ostatnie uderzenie pulsu świata. Serce Sturękiego. Coś, z czego pewnego dnia wykuje się legenda.*
 >
 > *Zabiliście Gniew. Zostaje cisza — i wy, którzy w niej staliście.*
 
 ---
 
-## 6. Świt nowej ery (read-aloud — epilog-pomost)
+## 7. Świt nowej ery (read-aloud — epilog-pomost)
 
 *Cue: krótkie zamknięcie Bitwy o Mytros. Niezależnie od finału.*
 
@@ -121,9 +163,12 @@ Kentimane **milczy.** Nie ma kwestii. Zamiast tego rolę „zaczepek" pełnią *
 
 ## Szybka ściąga DM
 
-- Kentimane: **żywioł, nie postać.** Ani jednego słowa — narracja niesie wszystko.
+- Kentimane: **żywioł, nie postać.** Ani jednego słowa — narracja niesie wszystko. **2400 HP.**
+- **[[Yala]] na starcie** — mówi, że Sturęki rozumie tylko siłę: zniszczyć albo zmusić do odejścia. Sama nie walczy.
+- **Zastraszanie: DC 35, −1 za każde 100 zadanych obrażeń** (0 → 35, 1000 → 25, 2000 → 15, 2400 → 11). Podawaj graczom aktualne DC.
+- **Miasto w inicjatywie 10: 20d10 obrażeń co rundę**, automatycznie, wliczane do licznika. Rzucaj kośćmi na stole.
 - Skala **przytłaczająca** — walka o przetrwanie. Zagrożenia: **lawina pięści, gardziele jadu, pożeranie** (połknięty = wchłonięty na zawsze).
 - **Wszyscy sojusznicy** w jednej linii — moment katharsis. Smoki, Helios, Kolos, amazonki, Egida, Kyrah.
 - „Shit-talk" = **reakcje ciała Kentimane** (narracja) + **okrzyki sojuszników** (chór). Jego cisza vs. ich wrzawa.
-- Dwa finały: **udobruchany** (zatrzymany cios, odejście w morze — uznał ich za godnych) lub **pokonany** (kamienieje w pole rąk, zostaje serce z gwiezdnego metalu).
+- Dwa finały: **złamany** (udane Zastraszanie — zatrzymany cios, odejście w morze) lub **pokonany** (0 HP — kamienieje w pole rąk).
 - Epilog: **świt nowej ery**, koniec wieku Tytanów.

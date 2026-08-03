@@ -126,7 +126,7 @@ Padną nazwiska, o których nie pomyślałeś — knajpiarz z drugiej sesji, kto
 
 Poniższe zostają otwarte. Możesz o nich mówić, wolno ci je nazwać — **nie wolno ci ich rozstrzygnąć**:
 
-- **Boskie domeny** — Śmierć, Burze, Oceany, Sny, Muzyka, Płodność, Wino, Natura. Ich właściciele nie żyją. **Nikt nie wie, co się z nimi stało ani czy ktoś je przejął.** Jeśli gracze zapytają wprost: nikt w Thylei nie potrafi odpowiedzieć, a smoki — dawniej czczone jako bogowie — same odsuwają się od boskości i nie znają odpowiedzi. **Gracze ich na pewno nie przejmują.** To jest materiał na ewentualną kontynuację i najcenniejsza rzecz, jaką masz.
+- **Boskie domeny** — Śmierć, Burze, Oceany, Sny, Muzyka, Płodność, Wino, Natura. Ich właściciele nie żyją. **Nikt nie wie, co się z nimi stało ani czy ktoś je przejął.** Jeśli gracze zapytają wprost: nikt w Thylei nie potrafi odpowiedzieć, a smoki — dawniej czczone jako bogowie — same odsuwają się od boskości i nie znają odpowiedzi. **Gracze ich na pewno nie przejmują.** To jest materiał na ewentualną kontynuację i najcenniejsza rzecz, jaką masz. Jedyny wyjątek jest **deklaratywny i niczego nie rozstrzyga**: [[Orion Xul|Orion]] może powiedzieć, że **chce iść tą drogą** (jego ścieżka epicka mówiła o dołączeniu do panteonu od pierwszej sesji). Po takiej deklaracji **nie dzieje się absolutnie nic**: żadnego znaku, żadnej mocy, żadnego potwierdzenia, żadnych skutków do opisania. Orion ustala tylko, czym zamierza się zająć — samo powiedzenie „tak" nie przybliża go do boskości ani o krok. Szczegóły w `02 - Epilogi Bohaterów`, sekcja 5.
 - **[[Kryształowa Kosa Lutherii]]** — przysięga [[Orestes|Orestesa]], żeby ją rozbić, kontra oferta [[Mistrz Cieni|Mistrza Cieni]]: rytuał zwracający życie w zamian za narzędzie. W ostrzu są dusze jego rodziców. **To wybór gracza, nie twój.**
 - **Szczelina do Morza Astralnego** w ruinach [[Praxys]] — otwarta, nikt jej nie zamknął, zniknął tamtędy gygan Zenek.
 - **Czy [[Thylea]] wciąż jest planem kieszonkowym** — jej strażnik zasnął albo legł. Nikt nie sprawdził, czy ściany świata dalej stoją. To pytanie [[Arevon Elorrenthi|Arevona]] i musi zostać pytaniem.
@@ -137,6 +137,12 @@ Poniższe zostają otwarte. Możesz o nich mówić, wolno ci je nazwać — **ni
 - **[[Talieus Pierwszy]]** — wciąż w Otchłani.
 
 *Cue: jeśli gracz naciska, odpowiedz szczerze jako DM, nie kręć w fikcji: „to zostaje otwarte, i to jest celowe". Uczciwość przy stole jest lepsza niż wykręt w narracji.*
+
+**Co za to WOLNO domknąć — i to bez oporu:**
+
+- **Pusty tron [[Mytros]].** [[Acastus]] abdykuje z własnej woli i odchodzi na dobrowolne wygnanie (`01 - Cisza po Bitwie`, sekcja 7). Domyślnie rządy przejmuje [[Vallus]], ale tron jest realnie wolny i **każdy z bohaterów mógłby go zająć bez żadnego oporu, przy powszechnej radości ludu**. Żadnej ceny politycznej, żadnego kontrkandydata, żadnego haczyka. Jedyny koszt jest osobisty i mieści się w epilogu tego bohatera.
+- **Wyroki na jeńcach [[Zakon Sydona|Zakonu Sydona]].** Odchodząc, Acastus prosi o jedno: żadnej kary śmierci dla ludzi, którzy stali po stronie [[Sydon|Sydona]] — *„Dość już nakarmiliśmy Hades"*. Decyzja należy do graczy i wolno ci pokazać jej skutek jednym zdaniem. Nie wolno ci ocenić, czy była słuszna.
+- **Wizja [[Felicjan Janus Twardowski|Felicjana]] z sesji 41.** Rozbrojona, i tylko rozbrojona: [[Behemot]] nigdy się nie pojawił, [[Melania Twardowska|Melania]] żyje. Ten jeden wątek zamykasz do końca.
 
 ---
 
@@ -170,3 +176,4 @@ Jednostronicowy plan przebiegu. Trzymaj się go; jeśli sesja pójdzie długo, t
 - **Apel w jednostkach oddechu:** 3–8 linijek, jeden obraz, zmiana rejestru co kilka wpisów, nigdy trzy wzruszenia z rzędu.
 - **„Kogo pominąłem?"** — i cisza.
 - **NIE domykaj:** boskich domen (na pewno nie dla graczy), szczeliny w [[Praxys]], statusu [[Thylea|Thylei]] jako planu, zdrady [[Mojry|Mojr]], [[Yala|Yali]], [[Versi]].
+- **DOMKNIJ za to bez oporu:** pusty tron [[Mytros]] po dobrowolnej abdykacji [[Acastus|Acastusa]] (domyślnie [[Vallus]], ale każdy bohater weźmie go bez przeszkód), prośbę o brak kary śmierci dla ludzi [[Sydon|Sydona]] i rozbrojoną wizję [[Felicjan Janus Twardowski|Felicjana]].
