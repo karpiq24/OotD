@@ -30,15 +30,15 @@ Kiedy padnie ostatni wpis z `03 - Apel: Losy Thylei` i wybrzmi „Kogo pominął
 >
 > *[[Sydon]], Władca Burz, jest popiołem na dnie zatoki. Woda nad nim jest gładka jak stół.*
 >
-> *[[Lutheria]], Pani Snów, odeszła w złotym pyle i zabrała ze sobą swój śmiech. Nikt się już z niej nie śmieje. Nikt się już nie boi, że ona się śmieje.*
+> *[[Lutheria]], Pani Snów, odeszła w złotym pyle i zabrała ze sobą swój śmiech. Nikt go już nie słyszy. Nikt się już nie boi, że go usłyszy.*
 >
 > *[[Kentimane]], Gniew [[Thylea|Thylei]], wrócił pod fale — albo leży polem stu kamiennych rąk, wyciągniętych ku niebu, którego już nie dosięgnie.*
 >
 > *Wiek Tytanów trwał, odkąd świat był młody. Skończył się wczoraj. Skończyło go pięcioro śmiertelnych.*
 >
-> *Miasto leży w gruzach. Tylu zginęło. Ale ono wciąż tu jest — i to jest cała różnica, jaką udało się wywalczyć.*
+> *Miasto leży w gruzach. Tylu ludzi zginęło. Ale ono wciąż tu jest — i to jest cała różnica, jaką udało się wywalczyć.*
 >
-> *Amazonki wypływają dziś do domu. [[Darien]] nie wypływa. Trzynaście lat przesiedziała w celi, w której zaklęto ciszę. Królową była krócej. Zginęła, broniąc miasta, które nigdy nie było jej miastem, i ktoś na [[Themis]] będzie musiał powiedzieć to na głos, komuś, kto na nią czeka.*
+> *Amazonki wypływają dziś do domu. [[Darien]] nie wypływa. Trzynaście lat przesiedziała w celi, w której zaklęto ciszę. Królową była krócej. Zginęła, broniąc miasta, które nigdy nie było jej miastem. Ktoś na [[Themis]] będzie musiał powiedzieć to na głos komuś, kto na nią czeka.*
 >
 > *A potem, jak co dzień, wschodzi słońce.*
 >
@@ -74,7 +74,7 @@ Kiedy padnie ostatni wpis z `03 - Apel: Losy Thylei` i wybrzmi „Kogo pominął
 >
 > *I to jest dokładnie to, o co szło.*
 
-*Cue: „będzie miało was za bajkę" ma zabrzmieć jak wygrana, nie jak żal. Jeśli któryś z graczy odbierze to jako zniewagę — nie prostuj. To jest dobra rozmowa i niech się przy stole odbędzie.*
+*Cue: „uzna wasze imiona za bajkę" ma zabrzmieć jak wygrana, nie jak żal. Jeśli któryś z graczy odbierze to jako zniewagę — nie prostuj. To jest dobra rozmowa i niech się przy stole odbędzie.*
 
 ---
 
@@ -100,7 +100,7 @@ Scena: bohaterowie siedzą gdziekolwiek — na gruzach, w knajpie, na pokładzie
 
 > **Kyrah** *(wstając, już od progu)*: „Ostatnią stronę zostawiam pustą. Nie z lenistwa. Wpiszcie sobie sami, jak już będziecie wiedzieli."
 
-*Cue: ona przeżyje ich wszystkich i oboje o tym wiecie — ona jest [[Arkyrania|Arkyranią]], oni nie. Nie mów tego. Wystarczy, że „nikt mi nie uwierzy" zawiśnie w powietrzu. Jeśli któryś z graczy zechce dopisać coś na tej pustej stronie **przy stole** — pozwól i zapisz to dosłownie. To najlepsza możliwa ostatnia kwestia sesji i lepsza niż cokolwiek, co tu napisałem.*
+*Cue: ona przeżyje ich wszystkich i wiesz o tym tylko ty — ona jest [[Arkyrania|Arkyranią]], oni nie. Nie mów tego. Wystarczy, że „nikt mi nie uwierzy" zawiśnie w powietrzu. Jeśli któryś z graczy zechce dopisać coś na tej pustej stronie **przy stole** — pozwól i zapisz to dosłownie. To najlepsza możliwa ostatnia kwestia sesji i lepsza niż cokolwiek, co tu napisałem.*
 
 ---
 
@@ -109,7 +109,7 @@ Scena: bohaterowie siedzą gdziekolwiek — na gruzach, w knajpie, na pokładzie
 **Sekcja krytyczna. Niczego z tej listy nie wolno domknąć.** To nie jest lenistwo scenarzysty, tylko cały zapas paliwa na ewentualną kontynuację. Wolno ci każdy z tych wątków **musnąć** — nazwać, pokazać skutek, dać poczuć ciężar. Nie wolno ci powiedzieć, jak się kończy.
 
 - **Boskie domeny** — Śmierć, Burze, Oceany, Sny, Muzyka, Płodność, Wino, Natura. **Nikt nie wie, co się z nimi stało ani czy ktoś je przejął. NA PEWNO NIE GRACZE.** *Jak musnąć:* wyłącznie skutkami próżni. Rybak, po którego nikt nie przyszedł (sekcja 2). Kapłani, którzy odprawiają obrzędy poprawnie i czują, że mówią w pustkę. Morze zbyt spokojne przez zbyt wiele dni. Sady, które kwitną nie w porę. *Nigdy:* kto je wziął, gdzie są, czy wrócą.
-- **[[Tarrasque]]** — przebudzony w [[Sześcian Więzienny|Sześcianie Więziennym]] i wciąż tam. Jego strażnik [[The Keeper|Zarządca]] stracił zleceniodawczynię i ma **niewyegzekwowany kontrakt na [[Kryształowa Kosa Lutherii|kosę]]** — w bezpośredniej kolizji z przysięgą [[Orestes|Orestesa]], że kosę rozbije. *Jak musnąć:* jedno zdanie w apelu albo jeden gość, który przychodzi, patrzy i wychodzi bez słowa. Kontrakt nie wygasł. *Nigdy:* nie rozstrzygaj kolizji przy stole.
+- **[[Kryształowa Kosa Lutherii]]** — [[Orestes]] przysiągł ją rozbić, a [[Mistrz Cieni]] złożył za nią ofertę, która zwraca mu życie. Oferta stoi rok i nie jest kontraktem — nikt nikogo nie zmusza. *Jak musnąć:* jedno zdanie w apelu albo jeden gość, który przychodzi, patrzy i wychodzi bez słowa. *Nigdy:* nie rozstrzygaj kolizji za gracza.
 - **Szczelina do [[Morze Astralne|Morza Astralnego]]** w ruinach [[Praxys]] — otwarta, niepilnowana, nikt jej nie zamknął. Tamtędy zniknął gygan [[Zenek]]. *Jak musnąć:* ktoś wraca z ekspedycji do Praxys i mówi, że stamtąd **wieje**. *Nigdy:* co jest po drugiej stronie.
 - **Czy [[Thylea]] wciąż jest planem kieszonkowym** — jej strażnik zasnął albo legł, a nikt nie sprawdził, czy ściany świata dalej stoją. To jednocześnie osobisty wątek [[Arevon Elorrenthi|Arevona]] (droga do [[Eberron|Eberronu]], załoga [[Tranquility]], kapitan Tars) i największa zmiana kosmologiczna od pięciuset lat. *Jak musnąć:* pozwól Arevonowi wypłynąć na zachód i wrócić z niczym — albo nie wrócić w epilogu wcale. Horyzont ma być pytaniem. *Nigdy:* nie mów, czy da się wypłynąć.
 - **Zdrada [[Mojry|Mojr]]** — ujawniona przez [[Furie]] w sesji 75 i nigdy nierozliczona. Mojry wyszły z wojny nietknięte i bogatsze. Wciąż trzymają **szybkość [[Arevon Elorrenthi|Arevona]]**, **zdrowie [[Felicjan Janus Twardowski|Felicjana]]** i **nienarodzone dziecko [[Orion Xul|Oriona]]**. [[Nona]] obiecała [[Orestes|Orestesowi]] wizytę w snach. *Jak musnąć:* jedna z nich pojawia się w epilogu **uprzejma i przyjazna**, gratuluje szczerze i nie żąda niczego. To ma zabrzmieć gorzej niż groźba. *Nigdy:* nie karz ich, nie demaskuj, nie pokazuj dziecka.
@@ -138,7 +138,7 @@ Wybierz jeden wariant. Nie czytaj dwóch.
 **C — na Kyrah** *(jeśli scena z księgą wyszła)*
 > *A pieśń została napisana. Bez ostatniej strony.*
 
-*Cue końcowy — **tu kończy się świat, a zaczyna sesja.** Odłóż wszystko, spójrz na nich i powiedz jako DM, własnymi słowami: ile to trwało, ile było sesji, i dziękuję. Wymień graczy po imieniu — nie postacie. Jeśli masz jedną rzecz do powiedzenia każdemu z nich, powiedz ją teraz i niech to będzie coś, co zrobił **przy stole**, nie w fikcji. Zamknięcie świata ma uwierać; zamknięcie wieczoru ma być ciepłe. Nie odwrotnie.*
+*Cue końcowy — **tu kończy się świat, a zaczyna się wieczór.** Odłóż wszystko, spójrz na nich i powiedz jako DM, własnymi słowami: ile to trwało, ile było sesji, i dziękuję. Wymień graczy po imieniu — nie postacie. Jeśli masz jedną rzecz do powiedzenia każdemu z nich, powiedz ją teraz i niech to będzie coś, co zrobił **przy stole**, nie w fikcji. Zamknięcie świata ma uwierać; zamknięcie wieczoru ma być ciepłe. Nie odwrotnie.*
 
 ---
 
@@ -153,7 +153,7 @@ Wybierz jeden wariant. Nie czytaj dwóch.
 
 **Co WOLNO zdradzić:**
 - że domeny są puste i że to widać — po skutkach (śmierć, morze, plony, niespokojni kapłani);
-- że [[Tarrasque]] nie śpi, a kontrakt [[The Keeper|Zarządcy]] jest wciąż ważny;
+- że [[Mistrz Cieni]] czeka na swoją księgę i że jego oferta za [[Kryształowa Kosa Lutherii|kosę]] wygasa za rok;
 - że szczelina w [[Praxys]] jest otwarta i nikt jej nie pilnuje;
 - że nikt nie sprawdził, czy [[Thylea]] dalej jest zamknięta;
 - że [[Mojry]] zdradziły, wyszły z tego bez szwanku i wciąż trzymają swoje zastawy;
@@ -165,7 +165,7 @@ Wybierz jeden wariant. Nie czytaj dwóch.
 - **kto przejął boskie domeny** — a już na pewno nie to, że mieliby je przejąć gracze;
 - co jest za szczeliną do [[Morze Astralne|Morza Astralnego]];
 - czy z [[Thylea|Thylei]] da się wypłynąć;
-- jak rozstrzyga się kolizja **kosa dla Zarządcy vs. przysięga [[Orestes|Orestesa]]**;
+- jak rozstrzyga się kolizja **kosa za życie vs. przysięga [[Orestes|Orestesa]]**;
 - co Mojry zrobią z dzieckiem [[Orion Xul|Oriona]] i kiedy przyjdą po zastawy;
 - co wybierze [[Yala]];
 - gdzie jest [[Versi]] i czy [[Talieus Pierwszy]] wyjdzie z Otchłani;

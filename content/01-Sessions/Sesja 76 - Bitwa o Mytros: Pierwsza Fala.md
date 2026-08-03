@@ -108,7 +108,7 @@ Sesja zakończyła się w środku tej epickiej walki. [[Hergeron]] wciąż stał
 * **[[Acastus|Akastus]]** – Król [[Mytros]], dosiada [[Icarus|Icarusa]], wbija zdradziecką włócznię w swojego smoka.
 * **[[Icarus]]** – srebrny smok, wierzchowiec [[Acastus|Akastusa]], mutowany przez włócznię.
 * **[[Apasia]]** – ratuje spadającego [[Acastus|Akastusa]] na miedzianym smoku.
-* **[[Hergeron]]** – empyrejski syn [[Sydon|Sydona]] i [[Vallus]], niestabilny półbóg z dwiema boskimi iskrami.
+* **[[Hergeron]]** – empyrejski syn [[Sydon|Sydona]] i [[Lutheria|Lutherii]], niestabilny półbóg z dwiema boskimi iskrami.
 * **[[Kyrah]] (Arkyrania)** – pokutująca smoczyca, dawniej towarzyszka [[Estor Arkelander|Estora]].
 * **[[Sybolkorax]] ([[Volkan]])** – brązowy smok-kowal, walczy z [[Icarus|Icarusem]] w powietrzu.
 * **[[Steros]]** – cyklop jancan, ginie w pierwszej rundzie bitwy.

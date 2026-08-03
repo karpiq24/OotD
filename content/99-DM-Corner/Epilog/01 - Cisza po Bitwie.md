@@ -4,6 +4,8 @@ title: "Epilog — Cisza po Bitwie"
 
 > **Materiał DM.** Bezpośrednie następstwa finału: dwa krótkie mostki startowe (wariant A i B z `03 - Nadejście Kentimane`), pierwsza prawdziwa cisza nad [[Mytros]], ciepły beat z [[Brax|Braxem]] przed żałobą, rachunek poległych z liczbami, imienna lista, miesiące żałoby i kultu, oraz pięć spraw, które trzeba położyć na stole, zanim ruszy `02 - Epilogi Bohaterów`. Wszystko po mostkach jest wspólne dla obu wariantów.
 
+> **Ramy czasowe — zapamiętaj i nie improwizuj wbrew nim.** Bitwa o [[Mytros]] to **jeden dzień**. Jedna doba, od pierwszego pioruna [[Sydon|Sydona]] o świcie po ostatnią rękę [[Kentimane|Kentimanego]] nad ranem następnego dnia: pierwsze fale i śmierć [[Steros|Sterosa]], [[Icarus]] na arenie, zdrada [[Tarchon|Tarchona]] i przebudzenie [[Kolos Pythora|Kolosa]], śmierć [[Sydon|Sydona]], Uczta na [[Targ Minotaurów|Targu Minotaurów]], śmierć [[Lutheria|Lutherii]], wybuch wulkanu i Sturęki. **Nie mów o „oblężeniu", „tygodniach walk" ani „kolejnych dniach obrony".** Siedem sesji przy stole to jedna doba w świecie — i to jest właśnie ta rzecz, która czyni liczbę poległych straszną.
+
 ---
 
 ## 1. Dwa mostki startowe
@@ -12,11 +14,11 @@ title: "Epilog — Cisza po Bitwie"
 
 ### Wariant A — Kentimane odszedł w morze
 
-> *Fale zamykają się nad ostatnią z pięćdziesięciu głów, i zatoka wygładza się tak, jakby nigdy nic w niej nie stało.*
+> *Fale zamykają się nad ostatnią z pięćdziesięciu głów i zatoka wygładza się tak, jakby nigdy nic w niej nie stało.*
 >
-> *Zostaje po nim tylko ślad: pas zapadniętej ziemi od stóp góry [[Volkan|Volkana]] aż do brzegu, szeroki na trzy ulice, wypełniający się wodą w oczach. Za sto lat nazwą go kanałem i będą nim pływać barki.*
+> *Zostaje po nim tylko ślad: pas zapadniętej ziemi od stóp góry [[Volkan|Volkana]] aż do brzegu, szeroki na trzy ulice, wypełniający się wodą na waszych oczach. Za sto lat nazwą go kanałem i będą nim pływać barki.*
 >
-> *Nikt nie krzyczy. Nikt nie wznosi okrzyku. Cztery tysiące ludzi stoi na gruzach i patrzy na wodę, czekając, aż coś się z niej podniesie.*
+> *Nikt nie krzyczy. Nikt nie wiwatuje. Cztery tysiące ludzi stoi na gruzach i patrzy na wodę, czekając, aż coś się z niej podniesie.*
 >
 > *Nic się nie podnosi.*
 
@@ -36,11 +38,11 @@ title: "Epilog — Cisza po Bitwie"
 
 *Cue: czytaj wolno. To nie jest opis, to jest oddech. Nie dodawaj muzyki — jeśli grała, wyłącz ją teraz.*
 
-> *Po raz pierwszy od dwunastu dni nad [[Mytros]] zapada cisza.*
+> *Po raz pierwszy od wczorajszego świtu nad [[Mytros]] zapada cisza.*
 >
-> *Nie cisza grozy. Nie ta, w której czeka się na następne uderzenie. To cisza po burzy — taka, w której słychać rzeczy, których się nie słyszało od tygodni. Kapiącą wodę. Osypujący się gdzieś tynk. Mewę.*
+> *Nie cisza grozy. Nie ta, w której czeka się na następne uderzenie. To cisza po burzy — taka, w której słychać rzeczy, których nie było słychać przez cały ten dzień i całą tę noc. Kapiącą wodę. Osypujący się gdzieś tynk. Mewę.*
 >
-> *Popiół idzie z góry powoli, jak śnieg, i osiada wszystkim na ramionach. Kurz stoi w powietrzu tak gęsto, że słońce jest pomarańczowe i można na nie patrzeć.*
+> *Popiół idzie z góry powoli, jak śnieg, i osiada wszystkim na ramionach. Kurz stoi w powietrzu tak gęsty, że słońce jest pomarańczowe i można na nie patrzeć.*
 >
 > *Ktoś gdzieś kaszle. Długo, mokro, uparcie. Potem przestaje. Potem znów.*
 >
@@ -54,19 +56,23 @@ title: "Epilog — Cisza po Bitwie"
 
 ## 3. Brax (ciepły beat przed żałobą)
 
-*Cue: **ZANIM przyjdzie żałoba, daj śmiech.** To jest bufor. Stół po dwunastu sesjach bitwy nie uniesie od razu listy poległych — najpierw musi się roześmiać, bo dopiero wtedy będzie miał z czego spaść. Zagraj Braxa szybko, głośno i bez oddechu. On mówi zdaniami, które się nie kończą.*
+*Cue: **ZANIM przyjdzie żałoba, daj śmiech.** To jest bufor. Stół po siedmiu sesjach bitwy nie uniesie od razu listy poległych — najpierw musi się roześmiać, bo dopiero wtedy będzie miał z czego spaść. Zagraj Braxa szybko, głośno i bez oddechu. On mówi zdaniami, które się nie kończą.*
 
-[[Brax]] — satyr, kuzyn [[Orestes|Orestesa]], właściciel [[Super Bar|Super Baru]], od dwóch dni dowódca oddziału, o czym wciąż nie może przestać mówić — przedziera się przez gruz z kuflem w każdej ręce i jednym rogiem urwanym u nasady.
+[[Brax]] — satyr, kuzyn [[Orestes|Orestesa]], właściciel [[Super Bar|Super Baru]], od wczoraj dowódca oddziału, o czym wciąż nie może przestać mówić — przedziera się przez gruz z kuflem w każdej ręce i jednym rogiem urwanym u nasady.
 
 > *Widzicie go z daleka. Biegnie po rumowisku, przeskakując z płyty na płytę, i macha rękami tak, że rozlewa oba kufle. Nie zwalnia. Nie zwalnia nawet wtedy, gdy się przewraca.*
 
-> **Brax** *(bez tchu, jeszcze zanim dobiegnie)*: „ORESTES! Orestes, ja to widziałem! Widziałem wszystko! Byłem na dachu młyna, tam gdzie mnie postawili, bo teraz jestem dowódcą — mówiłem ci, że jestem dowódcą? Mam oddział. Dwunastu ludzi. Jeden to nie człowiek, to jest coś Ismene, ale liczy się. Więc siedzę na tym dachu i patrzę, i widzę ciebie!"
+> **Brax** *(bez tchu, jeszcze zanim dobiegnie)*: „ORESTES! Orestes, wszyscy mówią! Całe miasto mówi! Ja siedziałem na dachu młyna, tam gdzie mnie postawili, bo teraz jestem dowódcą — mówiłem ci, że jestem dowódcą? Mam oddział. Dwunastu ludzi. Jeden to nawet nie człowiek, tylko jakiś automat Ismene, ale liczy się. Więc siedzę na tym dachu całą noc i nic nie widzę, bo od Targu dzieli mnie pół miasta i dym jak ściana. A nad ranem przychodzi chłopak z wodą i opowiada mi, co ty zrobiłeś!"
 >
-> **Brax** *(pokazując kuflem, chlapiąc)*: „Ty stoisz na tej babie. NA NIEJ. Ona leży, a ty stoisz na niej jedną nogą, jak myśliwy na jeleniu, i podnosisz topór, i mówisz coś — ja nie słyszałem co, bo było za daleko, ale wiesz co? Wszyscy na tym dachu słyszeli. Każdy słyszał coś innego, ale każdy słyszał. I potem ciach. Głowa poleciała o tu, na dwadzieścia metrów, i turlała się, i wciąż się śmiała!"
+> **Brax** *(pokazując kuflem, chlapiąc)*: „Ty stoisz na tej babie. NA NIEJ. Ona leży, a ty stoisz na niej jedną nogą, jak myśliwy na jeleniu, i podnosisz topór, i mówisz coś — nikt nie wie co, bo za daleko, ale wiesz co? Wszyscy tam słyszeli. Każdy słyszał coś innego, ale każdy słyszał. I potem ciach. Głowa poleciała o, tam, ze dwadzieścia metrów, turlała się i wciąż się śmiała!"
+>
+> **Brax** *(wyprzedzając pytanie)*: „Trzech mi to opowiedziało. Trzech, osobno, i każdy tak samo. Więc to musi być prawda, nie? Trzech ludzi nie kłamie tak samo."
 
-*Cue: nic z tego się nie wydarzyło. [[Orestes]] chybił pierwszym ciosem, [[Lutheria]] sama przerwała walkę i usiadła, głowa nie turlała się nigdzie. **Legenda już rośnie i już jest fałszywa** — i to jest pierwszy prawdziwy fakt tej nowej ery. Nie prostuj tego jako DM. Niech gracz sam zdecyduje, czy prostować.*
+*Cue: nic z tego się nie wydarzyło — i **Braxa tam nie było**. Nie widział walki na [[Targ Minotaurów|Targu]] ani przez chwilę; siedział ze swoim oddziałem po drugiej stronie miasta i całą tę historię usłyszał rano, z drugiej ręki. [[Orestes]] chybił pierwszym zamachem, bo [[Lutheria]] sama przerwała walkę — usiadła na podeście i czekała. Nikt na niej nie stał. Drugie cięcie poszło pełnym kołem i było czyste, a głowa spadła na bruk tuż obok. Nie turlała się nigdzie i nie śmiała się. **Legenda już rośnie, już jest fałszywa i już ją ktoś rozpowiada dalej** — i to jest pierwszy prawdziwy fakt tej nowej ery. Nie prostuj tego jako DM. Niech gracz sam zdecyduje, czy prostować.*
 
-> **Brax:** „W Estorii już o tym śpiewają. Wczoraj. Wczoraj już śpiewali, a ty jeszcze wtedy stałeś na targu! Nie wiem, jak oni to robią."
+> **Brax** *(z dumą, jakby to była jego zasługa)*: „Opowiedziałem to już swoim ludziom. Dwa razy. Za drugim razem wyszło lepiej."
+>
+> **Brax:** „A w Estorii już o tym śpiewają. Dziś rano śpiewali! Kurz jeszcze nie opadł, a oni już mają zwrotkę i refren. Nie wiem, jak oni to robią."
 >
 > *Podaje mu kufel. Orestes go bierze. Brax patrzy, jak pije, i po raz pierwszy od początku milknie.*
 >
@@ -94,17 +100,17 @@ title: "Epilog — Cisza po Bitwie"
 >
 > *[[Mytros]] przed wojną liczyło pięćdziesiąt tysięcy dusz.*
 >
-> *Zginęły cztery tysiące sto osiemnaście osób. Z tego tysiąc dwustu żołnierzy i Egidy. Reszta to mieszczanie.*
+> *Zginęły cztery tysiące sto osiemnaście osób. Z tego tysiąc czterystu to żołnierze i ludzie [[Egida Mytros|Egidy]]. Reszta to mieszczanie.*
 >
-> *Trzysta czterdzieści osób nie odnaleziono wcale — to ci, których pochłonął Sturęki, ci, których zabrała woda, i ci, którzy w czasie Uczty przestali być ludźmi, zanim ktokolwiek zdążył ich policzyć.*
+> *Trzystu czterdziestu nie odnaleziono wcale — to ci, których pochłonął Sturęki, ci, których zabrała woda, i ci, którzy w czasie Uczty przestali być ludźmi, zanim ktokolwiek zdążył ich policzyć.*
 
 *(pauza)*
 
 > *Osiem procent.*
 >
-> *Powiedzcie to sobie na głos, bo za chwilę powie to wam każdy urzędnik w tym mieście: osiem procent to niewiele. Kiedy przychodzi [[Sydon]], nie zostaje osiem procent — nie zostaje nic. Kiedy [[Lutheria]] wydaje ucztę w twoim mieście, miasta się potem nie liczy, bo nie ma czego. To jest najlepszy wynik, jaki ktokolwiek w dziejach [[Thylea|Thylei]] osiągnął przeciw Tytanom, i nie jest nawet bliski drugiemu miejscu.*
+> *Powiedzcie to sobie na głos, bo za chwilę powie to wam każdy urzędnik w tym mieście: osiem procent to niewiele. Kiedy przychodzi [[Sydon]], nie zostaje osiem procent — nie zostaje nic. Kiedy [[Lutheria]] wydaje ucztę w twoim mieście, miasta się potem nie liczy, bo nie ma czego. To jest najlepszy wynik, jaki ktokolwiek w dziejach [[Thylea|Thylei]] osiągnął przeciw Tytanom, i nic innego nawet się do niego nie zbliża.*
 >
-> *A i tak każdy z tych czterech tysięcy stu osiemnastu miał imię, i ktoś na niego czeka.*
+> *A i tak każdy z tych czterech tysięcy stu osiemnastu miał imię i na każdego ktoś czeka.*
 
 *(pauza)*
 
@@ -112,7 +118,7 @@ title: "Epilog — Cisza po Bitwie"
 >
 > *Jutro wstaną. Odgruzują ulicę przed własnym domem, bo od czegoś trzeba zacząć. Pochowają swoich. A potem podniosą głowy i zaczną szukać kogoś, kto im powie, co dalej.*
 >
-> *I będą szukać was. Nie bogów — was. Bogowie byli tu przez cały czas i to nie oni to skończyli.*
+> *I będą szukać was. Nie bogów — was. Bogowie byli tu przez cały czas i to nie oni skończyli tę wojnę.*
 
 ---
 
@@ -120,45 +126,37 @@ title: "Epilog — Cisza po Bitwie"
 
 *Cue: 2–4 linijki na wpis, jeden obraz, i **za każdym razem inny rejestr**. Nie czytaj tego jednym tonem. Po żałobie pogarda, po pogardzie okrucieństwo, po okrucieństwie ironia. Rób pauzę po każdym imieniu, ale krótką.*
 
-> **[[Steros]]** — jancan, syn kowala. Zginął w pierwszej rundzie, pierwszego dnia, dowodząc [[Egida Mytros|Egidą]]. Całe życie budował mechaniczne zwierzęta i zginął rozbity przez cudze konstrukty. Dowództwo przejęła po nim [[Corinna]] i legion przetrwał całą resztę oblężenia — więc on nawet o tym nie wie.
+> **[[Steros]]** — cyklop jancan, syn cyklopa-kowala [[Bront|Bronta]]. Zginął w pierwszej rundzie bitwy, dowodząc [[Egida Mytros|Egidą]]. Całe życie budował mechaniczne zwierzęta i zginął rozbity przez cudze konstrukty. Dowództwo przejęła po nim [[Corinna]] i legion wytrwał do samego końca — więc on nawet o tym nie wie.
 >
-> Jego ojciec [[Bront]] wciąż nie wie. Minęły miesiące. Nikt mu nie zaniósł wiadomości, bo każdy był pewien, że zaniósł ją ktoś inny.
+> [[Bront]] wciąż nie wie. Minęły miesiące. Nikt mu nie zaniósł wiadomości, bo każdy był pewien, że zaniósł ją ktoś inny.
 
-> **[[Icarus]]** — srebrny smok. Nie zabił go [[Sydon]] ani żaden Tytan. Zabiła go [[Glewia Sydona|glewia]] w rękach jego własnego pana: [[Acastus]] przebił nią swojego wierzchowca i zmienił go w coś, co trzeba było dobić. Zrobił to [[Arevon Elorrenthi|Arevon]], bo ktoś musiał, i zrobił to szybko.
+> **[[Icarus]]** — srebrny smok. Nie zabił go [[Sydon]] ani żaden Tytan. Zabiła go ręka jego własnego pana: [[Acastus]] wbił mu w szyję świetlistą włócznię o obcej magii, pulsującą sinym światłem, i zmienił własnego wierzchowca w coś, co trzeba było dobić. Zrobił to [[Arevon Elorrenthi|Arevon]], bo ktoś musiał, i zrobił to szybko.
 >
 > W oficjalnej kronice miasta figuruje jako „poległy w obronie stolicy". Nikt tego nie prostuje. Wszyscy wiedzą.
 
-> **[[Tarchon]]** — zdrajca. Nosił barwy „zakonu smoczych jeźdźców" [[Acastus|Acastusa]] przez cały czas, kiedy Zakon Sydona planował szturm, i krzyknął „Chwała Sydonowi!", żeby wszyscy zdążyli usłyszeć, zanim [[Orion Xul|Orion]] go położył.
+> **[[Tarchon]]** — zdrajca. Nosił barwy „zakonu smoczych jeźdźców" [[Acastus|Acastusa]] przez cały czas, kiedy [[Zakon Sydona]] planował szturm, i krzyknął „Chwała Sydonowi!", żeby wszyscy zdążyli usłyszeć, zanim [[Orion Xul|Orion]] go położył.
 >
-> Ciała nie odebrał nikt. Leżało w kostnicy jedenaście dni z kartką „nieznany".
+> Ciała nie odebrał nikt. Leżało w kostnicy między nierozpoznanymi, z kartką „nieznany", i tak też je pochowano — bez imienia.
 
-> **[[Leopardas]]** — dowódca jeźdźców [[Zakon Sydona|Zakonu Sydona]]. Wpadł przez rozbite sklepienie sali tronowej na czele elitarnej zasadzki, z trzema młodymi smokami, po parę królewską i [[Rod of Rulership|Berło]]. Wykonał swoje zadanie tak dobrze, jak można je było wykonać. To nie wystarczyło.
+> **[[Chondrus]]** — niebieskoskóry tiefling, doradca króla [[Acastus|Acastusa]], w tajemnicy kapłan [[Lutheria|Lutherii]]. Szesnaście sesji przesiedział w waszej celi, arogancki i pedantyczny do końca, i przez cały ten czas próbował wam sprzedać sojusz z boginią, która wcale go nie chciała. Sama się przyznała: było jej przy nim niewygodnie, spychała go na [[Gaius|Gaiusa]].
 >
-> Zginął, wierząc, że jego bóg patrzy. Jego bóg był wtedy popiołem na dnie zatoki od czterech dni.
+> Oddaliście go jej w prezencie. Odnaleźliście go jako jej podnóżek — z wyrazem absolutnego zachwytu na twarzy. Zdążył jeszcze osłonić ją ścianą siły. Potem zabiło go jedno słowo [[Versir|Versira]] — dzwon pogrzebowy, który zabrzmiał mu w czaszce. Nie wiadomo, czy to najsmutniejsza, czy najgłupsza śmierć tej wojny.
 
-> **[[Chondrus]]** — spędził u was w niewoli dwadzieścia siedem sesji. Narzekał, marudził, wyśmiewał wasze plany, dawał się wyciągać z każdej katastrofy i gdzieś po drodze zaczął was lubić. To było widać.
->
-> Zostawiliście go [[Lutheria|Lutherii]] w prezencie. Odnaleźliście go jako jej podnóżek — zachwyconego zaszczytem. Zginął od *Toll the Dead* [[Versir|Versira]], służąc bogini, która używała go jako mebla, i był jej wierny do końca. Nie wiadomo, czy to najsmutniejsza, czy najgłupsza śmierć tej wojny.
+*Cue: tym słowem było zaklęcie Toll the Dead. Nie podawaj nazwy przy stole — po prostu miej ją pod ręką, gdyby ktoś zapytał.*
 
 > **[[Darien]]** — królowa Amazonek.
 >
-> Wyciągnęliście ją z celi zaklętej *Silence*, w której przesiedziała trzynaście lat, nie mogąc wydać z siebie głosu. Posadziliście ją na tronie jej zamordowanej matki. Pierwszą mowę, jaką w życiu publicznie wygłosiła, wykorzystała, żeby znieść niewolnictwo mężczyzn na [[Themis]] — bo tak zrozumiała, po co ją uwolniono.
+> Wyciągnęliście ją z celi zaklętej ciszą, w której przesiedziała trzynaście lat, nie mogąc wydać z siebie głosu. Posadziliście ją na tronie jej zamordowanej matki. Pierwszą mowę, jaką w życiu publicznie wygłosiła, wykorzystała, żeby znieść niewolnictwo mężczyzn na [[Themis]] — bo tak zrozumiała, po co ją uwolniono.
 >
-> Przypłynęła z Lwicami bronić cudzego miasta. Zginęła na murze, w drugim dniu oblężenia. Panowała cztery lata.
+> Przypłynęła z Lwicami bronić cudzego miasta. Zginęła na płonącym nabrzeżu Doków, prowadząc łuczniczki, jeszcze zanim zapadł zmierzch pierwszego i jedynego dnia tej wojny. Panowała cztery lata.
 >
 > Ktoś musi teraz zawieźć jej ciało na [[Themis]] i stanąć przed [[Hippolyta|Hippolytą]]. I przed [[Moxena|Moxeną]].
 
-> **Obrońcy Doków** — stu pięćdziesięciu jeden. Rybacy, tragarze, dokerzy i czterdziestu ludzi [[Egida Mytros|Egidy]]. Trzymali nabrzeże przez całą noc, przeciwko wężom morskim, żeby ewakuacja ze [[Stygian Row]] zdążyła przejść mostem.
+> **Bezimienni z [[Mytros]]** — cała reszta tej listy. Prawie cztery tysiące ludzi, którzy ginęli w całym mieście naraz: rybacy i tragarze na nabrzeżu, dokerzy przy zerwanych cumach, ludzie [[Egida Mytros|Egidy]] na ulicach, mieszczanie z każdej dzielnicy — na dachach, w bramach, na własnych schodach, z widłami albo z niczym.
 >
-> Zdążyła. Ośmiu tysięcy ludzi, których wtedy przepuścili, nikt nigdy nie policzy jako ocalonych, bo oni sami nie wiedzą, że byli w niebezpieczeństwie.
+> Doki były tylko jednym z tych odcinków. Stu pięćdziesięciu jeden trzymało tam nabrzeże przeciwko wężom morskim, aż nie zostało kogo zmieniać. Tam zginęła też [[Darien]].
 >
 > Nie ma z nich ani jednego nazwiska w kronice. Jest jedna tablica.
-
-> **[[Trąba]]** — skrzydlaty słoń [[Versir|Versira]], przyzwany pierwotnie po to, żeby drużyna ładniej wpłynęła do [[Arezja|Arezji]].
->
-> Zginął cztery razy. Rozpuszczony kwasem żywiołaka. Trafiony piorunem. Potem znowu. [[Versir]] przyzywał go za każdym razem od nowa — w mroźnej postaci, w niebiańskiej, w promiennej — i za każdym razem Trąba leciał prosto na [[Sydon|Sydona]], bo nikt mu nigdy nie wytłumaczył, że można inaczej.
->
-> W [[Mytros]] dzieci rysują go na murach. Zawsze ze skrzydłami i zawsze uśmiechniętego. Nikt z nich nie wie, że to był ten sam słoń.
 
 *Cue: jeśli któryś z graczy chce coś dopowiedzieć po którymkolwiek wpisie — przerwij czytanie i pozwól mu. To ważniejsze niż lista.*
 
@@ -168,9 +166,9 @@ title: "Epilog — Cisza po Bitwie"
 
 *Cue: to jest time-skip. Mów w czasie teraźniejszym i w liczbie mnogiej, jak o zwyczaju, nie o wydarzeniu. Trzy do czterech miesięcy w kilku akapitach.*
 
-> *Żałoba w [[Mytros]] wygląda inaczej, niż ktokolwiek się spodziewał, bo miasto nie ma dość drewna na stosy i dość kapłanów na obrzędy. Więc robi to, co Thylea robiła zawsze: je, pije, ściga się i śpiewa.*
+> *Żałoba w [[Mytros]] wygląda inaczej, niż ktokolwiek się spodziewał, bo miasto nie ma dość drewna na stosy i dość kapłanów na obrzędy. Więc robi to, co [[Thylea]] robiła zawsze: je, pije, ściga się i śpiewa.*
 >
-> *Uczty są co siódmy dzień, na gruzach, przy stołach zbitych z tego, co zostało z dachów. Nikt nie siedzi u siebie. Igrzyska pogrzebowe trwają dwie pełne dekady — biegi, zapasy, wyścigi wozów po odgruzowanej Drodze Procesyjnej — i wygrywają je głównie ci, którzy nie walczyli, bo ci, którzy walczyli, nie mogą jeszcze biegać.*
+> *Uczty są co siódmy dzień, na gruzach, przy stołach zbitych z tego, co zostało z dachów. Nikt nie siedzi u siebie. Igrzyska pogrzebowe trwają dwadzieścia dni — biegi, zapasy, wyścigi wozów po odgruzowanej Drodze Procesyjnej — i wygrywają je głównie ci, którzy nie walczyli, bo ci, którzy walczyli, nie mogą jeszcze biegać.*
 >
 > *[[Kyrah]] śpiewa. Codziennie, przez cały ten czas, w innym miejscu miasta, i nie bierze za to nic. Pieśń o Odysei rośnie z tygodnia na tydzień i za każdym razem jest odrobinę inna. Nikt jej nie poprawia. Ona pisze to na bieżąco i wszyscy o tym wiedzą.*
 >
@@ -180,7 +178,7 @@ title: "Epilog — Cisza po Bitwie"
 
 > *A gdzieś w czwartym tygodniu ktoś zauważa pierwszą kapliczkę.*
 >
-> *Jest w bocznym zaułku przy [[Targ Minotaurów|Targu]], zbita z desek, i stoi w niej rogata figurka wysokości przedramienia, z toporem z gwoździa. Ktoś położył przed nią kufel. Tydzień później są trzy takie. Miesiąc później są w każdej dzielnicy.*
+> *Jest w bocznym zaułku przy [[Targ Minotaurów|Targu]], zbita z desek, a stoi w niej rogata figurka wysokości przedramienia, z toporem z gwoździa. Ktoś położył przed nią kufel. Tydzień później są trzy takie. Miesiąc później są w każdej dzielnicy.*
 >
 > *Jest ich co najmniej trzy na każdego z was. Przy większych stoi już kapłan — nikt go nie wyświęcił, po prostu przyszedł i został — a obok niego bard, który za darmo opowiada ludziom, co zrobiliście, i za każdym razem opowiada to inaczej. Ludzie zostawiają tam monety, wino, kosmyki włosów i prośby zapisane na skorupach.*
 >
@@ -196,23 +194,34 @@ title: "Epilog — Cisza po Bitwie"
 
 ## 7. Sprawy do domknięcia przy stole
 
-*Cue: sekcja dla ciebie, nie do czytania ciągiem. To pięć rzeczy, które **leżą** — konkretnych, materialnych, w jednym z nich stoi żywy człowiek. Wrzucaj je pojedynczo, kiedy rozmowa przy stole zwolni. Każda ma być pytaniem, nie informacją.*
+*Cue: sekcja dla ciebie, nie do czytania ciągiem. To sześć rzeczy, które **leżą** — konkretnych, materialnych, a w jednej z nich stoi żywy człowiek. Wrzucaj je pojedynczo, kiedy rozmowa przy stole zwolni. Każda ma być pytaniem, nie informacją.*
+
+### Księga z Praxys — dług, który naprawdę istnieje
+
+Jedyna niespłacona umowa, pod którą stoi czyjś podpis.
+
+- W sesji 63 **[[Mistrz Cieni]]** — Wielki Mistrz z Rady Pięciu, szef siatki szpiegowskiej [[Arezja|Arezji]] i [[Świątynia Cieni|Świątyni Cieni]] — dał im [[Słoneczny Granat]] **z góry**, za obietnicę wykradzenia jednej księgi z [[Praxys]], bez pytań.
+- Wykradli ją w sesji 73 ze skarbca [[Sydon|Sydona]]: **[[Traktat o Prawach i Zobowiązaniach Krwi]]**, tom owinięty cierniami. Wieża potem legła w gruzach, ale księga wyjechała stamtąd razem z nimi.
+- **Nikt jej nie oddał.** Minęły miesiące. Zapłacono z góry, towar leży w ich bagażu, a wierzyciel nie napisał ani słowa.
+- [[Arezja]] w tym czasie utrzymała front północno-wschodni i straciła tysiąc dwustu ludzi. Ma czym dołożyć do rachunku, gdyby chciała.
+
+*Cue: to jest jedyny dług tego epilogu, który da się po prostu **spłacić**, i dlatego jest tak niewygodny. Nikt nie musi się z nim mocować — wystarczy oddać księgę. Pytanie brzmi, czy ktokolwiek przy tym stole zdążył ją przeczytać i czy odda ją bez pytań, jak obiecał.*
 
 ### Kryształowa Kosa Lutherii
 
-Największa kolizja w tym epilogu. **Dwie obietnice, których nie da się dotrzymać naraz.**
+Największa kolizja w tym epilogu. **Obietnica przeciwko ofercie, której nie da się odrzucić lekko.**
 
 - [[Orestes]] przysiągł nad ciałem [[Lutheria|Lutherii]], że **rozbije kosę**.
-- [[The Keeper|Zarządca]] ma na nią **kontrakt** — to była zapłata za pomoc z [[Tarrasque|Tarrasquem]], zawarta w sesji 66 i wykonana przez niego co do joty. On już swoje zrobił.
 - W ostrzu są **uwięzione dusze**. Wśród nich — **rodzice [[Orestes|Orestesa]]**.
+- [[Mistrz Cieni]] chce kosę i **zapłaci za nią rytuałem** — takim, który zwróci Orestesowi życie. [[Świątynia Cieni]] robi takie rzeczy i nikt w [[Arezja|Arezji]] nie pyta jak. To nie jest kontrakt. To oferta, którą można odrzucić — i właśnie dlatego jest gorsza.
 
-Rozbicie kosy uwalnia dusze i łamie kontrakt z bytem, który zna adres każdego z nich. Oddanie kosy honoruje umowę i zostawia rodziców Orestesa w środku, na zawsze, w rękach kogoś, kto zbiera takie rzeczy zawodowo.
+Rozbicie kosy uwalnia dusze, dotrzymuje słowa i zamyka Orestesowi jedyną drogę powrotu do żywych. Oddanie kosy kupuje mu oddech, smak piwa i starość — kosztem rodziców, którzy zostaną w środku, i kosztem przysięgi złożonej przy świadkach.
 
-*Cue: **nie podpowiadaj trzeciej drogi.** Jeśli gracze ją znajdą sami, jest ich. Jeśli nie — niech to boli. Zarządca jest cierpliwy i uprzejmy, i nie grozi. Po prostu przypomina, i przypomni jeszcze raz za rok.*
+*Cue: **nie podpowiadaj trzeciej drogi.** Jeśli gracze ją znajdą sami, jest ich. Jeśli nie — niech to boli. Mistrz Cieni nie grozi i nie nalega. Składa ofertę raz, uprzejmie, i mówi, że wraca za rok.*
 
 ### Glewia Sydona
 
-Leży w skarbcu pałacowym, owinięta w płótno, i **nikt jej nie chce**. Zabiła [[Icarus|Icarusa]], omal nie zabiła [[Pythor|Pythora]], a należała do boga, którego czciło pół kontynentu.
+Leży w skarbcu pałacowym, owinięta w płótno, i **nikt jej nie chce**. [[Sydon]] władał nią do samego końca i przez całą bitwę ciął nią smoki i bogów; to ona rozorała bok [[Pythor|Pythora]], który do dziś nosi po niej bliznę. Kiedy jej pana już nie było, została na pobojowisku nietknięta.
 
 Jest to najpotężniejsze trofeum tej wojny i najgorszy możliwy przedmiot do noszenia przy pasie. Ten, kto ją weźmie, będzie odtąd tym, który nosi włócznię [[Sydon|Sydona]] — w oczach [[Zakon Sydona|Zakonu]], w oczach Amazonek, w oczach każdego rybaka.
 
@@ -220,7 +229,7 @@ Jest to najpotężniejsze trofeum tej wojny i najgorszy możliwy przedmiot do no
 
 ### Wrak Ultrosa
 
-Leży na dnie portu, na burcie, dziesięć metrów pod powierzchnią. Maszty sterczą nad wodą i wieszają na nich lampy, żeby barki na nie nie wpadały.
+Leży na płyciźnie w porcie, przechylony na burtę, kilka metrów pod powierzchnią. Maszty sterczą nad wodą; wieszają na nich lampy, żeby barki na nie nie wpadały.
 
 - W ładowni jest **cały skarb drużyny** z osiemdziesięciu sesji.
 - W maszcie wciąż tkwi **[[Delphia]]** — driada przywiązana do drzewa, z którego wycięto ten maszt. Nie utonęła. Nie może utonąć. Jest tam od sesji 78.
@@ -239,7 +248,7 @@ Kto trzyma [[Rod of Rulership|Berło Władzy]], **dowodzi mecha-bogiem**. Berło
 
 **Wciąż stoi w kabinie.**
 
-Nikt go nie wyprowadził. Nie wyszedł sam. Simulacrum [[Felicjan Janus Twardowski|Felicjana]] — duplikat człowieka z pamięcią maga, ze wspomnieniem żony, z pamięcią o tym, jak przebił [[Lutheria|Lutherię]] włócznią wielkości wieży — stoi w środku mecha-boga, w ciemności, i czeka na polecenie, bo nikt nie powiedział mu, że wojna się skończyła.
+Nikt go nie wyprowadził. Nie wyszedł sam. Simulacrum [[Felicjan Janus Twardowski|Felicjana]] — duplikat człowieka z pamięcią maga, ze wspomnieniem żony, z obrazem tego, jak przebija [[Lutheria|Lutherię]] włócznią wielkości wieży — stoi w środku mecha-boga, w ciemności, i czeka na polecenie, bo nikt nie powiedział mu, że wojna się skończyła.
 
 *Cue: podaj to na końcu sekcji, jednym zdaniem, i zamilcz. To najlepszy cliffhanger, jaki masz przed `02 - Epilogi Bohaterów`, i nie potrzebuje ani jednego słowa więcej.*
 
@@ -271,9 +280,9 @@ Nikt go nie wyprowadził. Nie wyszedł sam. Simulacrum [[Felicjan Janus Twardows
 
 - **Mostek A albo B**, trzy zdania, potem wszystko wspólne.
 - **Pierwsza cisza:** cisza po burzy, nie cisza grozy. Popiół jak śnieg, ktoś kaszle. Prawdziwa pauza po tekście.
-- **[[Brax]] PRZED żałobą, nigdy po.** Śmiech jest buforem. Jego wersja śmierci [[Lutheria|Lutherii]] jest w całości fałszywa — legenda już rośnie i już kłamie. „...ty nie oddychasz."
-- **Rachunek:** 4 118 zabitych z 50 000 → **osiem procent** → 45 882 żyje i będą szukać was. Pauza między krokami.
-- **Lista poległych:** 2–4 linijki, inny rejestr za każdym razem. [[Steros]] (**[[Bront]] wciąż nie wie**), [[Icarus]] (wina [[Acastus|Acastusa]]), [[Tarchon]] (ciała nie odebrał nikt), [[Leopardas]] (bóg już nie żył), [[Chondrus]] (wierny do końca), **[[Darien]]** (uwolniona, koronowana i pochowana przez was — ktoś musi stanąć przed [[Moxena|Moxeną]]), 151 obrońców Doków, [[Trąba]] (zginął cztery razy).
+- **[[Brax]] PRZED żałobą, nigdy po.** Śmiech jest buforem. **Nie widział walki z [[Lutheria|Lutherią]]** — usłyszał o niej rano, z trzeciej ręki, i już rozpowiada dalej. Jego wersja jest w całości fałszywa. „...ty nie oddychasz."
+- **Rachunek:** 4 118 zabitych z 50 000 → **osiem procent** → 45 882 żyje i to oni będą was szukać. Pauza między krokami.
+- **Lista poległych:** 2–4 linijki, inny rejestr za każdym razem. [[Steros]] (**[[Bront]] wciąż nie wie**), [[Icarus]] (wina [[Acastus|Acastusa]] i jego świetlistej włóczni), [[Tarchon]] (ciała nie odebrał nikt), [[Chondrus]] (fanatyk, którego bogini nie chciała — umarł szczęśliwy u jej stóp), **[[Darien]]** (uwolniona, koronowana i pochowana przez was — ktoś musi stanąć przed [[Moxena|Moxeną]]), **bezimienni z całego miasta** (jedna tablica, zero nazwisk).
 - **Żałoba:** uczty, igrzyska, pieśni [[Kyrah]], pomniki z błędami. **Kapliczki: co najmniej trzy na każdego, z kapłanem i bardem.** Kluczowe zdanie: *„czy przyjmiecie ten kult, czy nie — on już istnieje"*.
-- **Pięć spraw:** kosa (Orestes vs [[The Keeper|Zarządca]], dusze rodziców w ostrzu), [[Glewia Sydona|glewia]] (niczyja), wrak [[Ultros|Ultrosa]] (**najpierw [[Delphia]], potem skarb**), [[Kolos Pythora]] + [[Rod of Rulership|Berło]] u [[Acastus|Acastusa]], **[[Klonicjan]] wciąż stoi w kabinie**.
+- **Sześć spraw:** **księga z [[Praxys]]** ([[Traktat o Prawach i Zobowiązaniach Krwi|Traktat]] zapłacony z góry przez [[Mistrz Cieni|Mistrza Cieni]] — jedyny dług, który da się spłacić), kosa (przysięga [[Orestes|Orestesa]] vs oferta rytuału, dusze rodziców w ostrzu), [[Glewia Sydona|glewia]] (niczyja), wrak [[Ultros|Ultrosa]] (**najpierw [[Delphia]], potem skarb**), [[Kolos Pythora]] + [[Rod of Rulership|Berło]] u [[Acastus|Acastusa]], **[[Klonicjan]] wciąż stoi w kabinie**.
 - **Zamknięcie:** księga [[Kyrah]] z pustymi stronami → „co się stało i co się stanie" → `02 - Epilogi Bohaterów`.

@@ -35,7 +35,7 @@ Drugi punkt jest ważniejszy, niż wygląda. Gracz, który raz napisał własny 
 
 **Nigdy nie rób epilogu na rozgrzanym stole.** Kolejność jest sztywna:
 
-1. **Cios ostateczny.** Przeczytaj wariant A albo B z `03 - Nadejście Kentimane`. Nic więcej. Nie dodawaj morału.
+1. **Cios ostateczny.** Przeczytaj wariant A albo B z `03 - Nadejście Kentimane`, sekcja 5. Nic więcej. Nie dodawaj morału.
 2. **Przerwa. Prawdziwa, dwadzieścia minut.** Wstańcie od stołu. Niech ktoś zrobi herbatę.
 3. **Krótki debrief mechaniczny.** Wróćcie i pogadajcie jak gracze, nie jak postacie: co było groźne, kto był o włos, jak zadziałał ten jeden rzut. Pozwól im się nachwalić. To rozładowuje adrenalinę, która inaczej zabije każdą cichą scenę.
 4. **Dopiero teraz emocje.** Przygaś światło, otwórz `01 - Cisza po Bitwie`.
@@ -48,9 +48,11 @@ Bez tej przerwy pierwszy read-aloud epilogu wejdzie w stół, który wciąż lic
 
 Rachunek strat podajesz zawsze w trzech krokach. Nigdy w jednym.
 
+**Pamiętaj, ile to trwało: cała bitwa to jedna doba** — i właśnie to czyni tę liczbę straszną.
+
 **Liczby.** Konkretna cyfra, bez przymiotników. „Cztery tysiące sto osiemnaście z pięćdziesięciu tysięcy."
 
-**Przeramowanie.** Powiedz na głos to, co gracze i tak pomyślą — że to mało. Odbierz im tę myśl, zanim poczują się źle, że ją mają. „Osiem procent. Miasto najechał Tytan, drugi Tytan zamienił połowę mieszkańców w bydło, a zginęło osiem procent. To niewiele. Kiedy przychodzi Sydon, nie powinno zostać nikogo."
+**Przeramowanie.** Powiedz na głos to, co gracze i tak pomyślą — że to mało. Odbierz im tę myśl, zanim poczują się źle, że ją mają. „Osiem procent. Miasto najechał Tytan, drugi Tytan urządził na targu ucztę z żywych ludzi, a zginęło osiem procent. To niewiele. Kiedy przychodzi Sydon, nie powinno zostać nikogo."
 
 **Zobowiązanie.** Przekuj żałobę w ciężar, który zostaje na stole. „Czterdzieści pięć tysięcy osiemset osiemdziesiąt dwie osoby żyją. Wstaną jutro, odgruzują ulice i będą szukać kogoś, kto im powie, co dalej. I będą szukać was."
 
@@ -114,7 +116,7 @@ Po ostatnim wpisie apelu, zanim przejdziesz do `04 - Świt Nowej Ery`, zadaj jed
 
 I zamilcz. Nawet na długo.
 
-Padną nazwiska, o których nie pomyślałeś — knajpiarz z drugiej sesji, ktoś, komu obiecali wrócić, zwierzę. **Nie improwizuj wielkich losów.** Jedno zdanie, konkretne i zwykłe. Jeśli naprawdę nie wiesz — powiedz „nie wiem, i to jest dobre pytanie", i zapisz. Bank szybkich odpowiedzi na najczęstsze pytania jest na końcu `03 - Apel: Losy Thylei`.
+Padną nazwiska, o których nie pomyślałeś — knajpiarz z drugiej sesji, ktoś, komu obiecali wrócić, zwierzę. **Nie improwizuj wielkich losów.** Jedno zdanie, konkretne i zwykłe. Jeśli naprawdę nie wiesz — powiedz „nie wiem, i to jest dobre pytanie", i zapisz. Bank szybkich odpowiedzi na najczęstsze pytania jest w `03 - Apel: Losy Thylei`, sekcja 9.
 
 ---
 
@@ -124,8 +126,8 @@ Padną nazwiska, o których nie pomyślałeś — knajpiarz z drugiej sesji, kto
 
 Poniższe zostają otwarte. Możesz o nich mówić, wolno ci je nazwać — **nie wolno ci ich rozstrzygnąć**:
 
-- **Boskie domeny** — Śmierć, Burze, Oceany, Sny, Muzyka, Płodność, Wino, Natura. Ich właściciele nie żyją. **Nikt nie wie, co się z nimi stało ani czy ktoś je przejął.** Jeśli gracze zapytają wprost: nikt w Thylei nie potrafi odpowiedzieć, a ci, którzy powinni wiedzieć — bogowie-smoki — sami są wyraźnie zaniepokojeni. **Gracze ich na pewno nie przejmują.** To jest materiał na ewentualną kontynuację i najcenniejsza rzecz, jaką masz.
-- **[[Tarrasque]]** — przebudzony w [[Sześcian Więzienny|Sześcianie Więziennym]]. [[The Keeper|Zarządca]] stracił zleceniodawczynię i wciąż go pilnuje. Wciąż.
+- **Boskie domeny** — Śmierć, Burze, Oceany, Sny, Muzyka, Płodność, Wino, Natura. Ich właściciele nie żyją. **Nikt nie wie, co się z nimi stało ani czy ktoś je przejął.** Jeśli gracze zapytają wprost: nikt w Thylei nie potrafi odpowiedzieć, a smoki — dawniej czczone jako bogowie — same odsuwają się od boskości i nie znają odpowiedzi. **Gracze ich na pewno nie przejmują.** To jest materiał na ewentualną kontynuację i najcenniejsza rzecz, jaką masz.
+- **[[Kryształowa Kosa Lutherii]]** — przysięga [[Orestes|Orestesa]], żeby ją rozbić, kontra oferta [[Mistrz Cieni|Mistrza Cieni]]: rytuał zwracający życie w zamian za narzędzie. W ostrzu są dusze jego rodziców. **To wybór gracza, nie twój.**
 - **Szczelina do Morza Astralnego** w ruinach [[Praxys]] — otwarta, nikt jej nie zamknął, zniknął tamtędy gygan Zenek.
 - **Czy [[Thylea]] wciąż jest planem kieszonkowym** — jej strażnik zasnął albo legł. Nikt nie sprawdził, czy ściany świata dalej stoją. To pytanie [[Arevon Elorrenthi|Arevona]] i musi zostać pytaniem.
 - **Zdrada [[Mojry|Mojr]]** — ujawniona przez [[Furie]] w sesji 75 i nigdy nierozliczona. Mojry wyszły z tej wojny nietknięte i bogatsze. Trzymają szybkość, zdrowie, kostur i dziecko. Nie karz ich w epilogu.
@@ -151,8 +153,8 @@ Jednostronicowy plan przebiegu. Trzymaj się go; jeśli sesja pójdzie długo, t
 | 5 | Miesiące żałoby, kapliczki, sprawy do domknięcia | `01 - Cisza po Bitwie`, sekcje 6–8 | 20 min |
 | 6 | **Inicjatywa na uczucia** — runda pierwsza, sceny graczy + wyzwolone wydarzenia | `02 - Epilogi Bohaterów` | 60–80 min |
 | 7 | Apel: Losy Thylei, przeplatany wejściami tych, którzy przetrzymali | `03 - Apel: Losy Thylei` | 25 min |
-| 8 | „Kogo pominąłem?" | `03`, sekcja 9 | 10 min |
-| 9 | Ostatnie sceny przetrzymujących | `02` | 15 min |
+| 8 | „Kogo pominąłem?" | `03 - Apel: Losy Thylei`, sekcja 9 | 10 min |
+| 9 | Ostatnie sceny przetrzymujących | `02 - Epilogi Bohaterów` | 15 min |
 | 10 | Świt nowej ery, zamknięcie sesji i podziękowanie | `04 - Świt Nowej Ery` | 15 min |
 
 ---
@@ -167,4 +169,4 @@ Jednostronicowy plan przebiegu. Trzymaj się go; jeśli sesja pójdzie długo, t
 - **Jedno wyzwolone wydarzenie na gracza.** W środku sceny. Bez negocjacji po odpowiedzi.
 - **Apel w jednostkach oddechu:** 3–8 linijek, jeden obraz, zmiana rejestru co kilka wpisów, nigdy trzy wzruszenia z rzędu.
 - **„Kogo pominąłem?"** — i cisza.
-- **NIE domykaj:** boskich domen (na pewno nie dla graczy), [[Tarrasque|Tarrasque'a]], szczeliny w [[Praxys]], statusu [[Thylea|Thylei]] jako planu, zdrady [[Mojry|Mojr]], [[Yala|Yali]], [[Versi]].
+- **NIE domykaj:** boskich domen (na pewno nie dla graczy), szczeliny w [[Praxys]], statusu [[Thylea|Thylei]] jako planu, zdrady [[Mojry|Mojr]], [[Yala|Yali]], [[Versi]].

@@ -6,9 +6,9 @@ title: "Epilog — Epilogi Bohaterów"
 
 ## Jak z tego korzystać
 
-Epilog toczy się na **inicjatywie na uczucia** — zasady w `[[00 - Jak prowadzić epilog]]`. W skrócie: pytasz po kolei, a gracz albo opowiada teraz, albo **przetrzymuje akcję** i wchodzi później, gdy usłyszy coś, co go zaczepi. Nikt nie musi być gotowy na zawołanie.
+Epilog toczy się na **inicjatywie na uczucia** — zasady w `00 - Jak prowadzić epilog`. W skrócie: pytasz po kolei, a gracz albo opowiada teraz, albo **przetrzymuje akcję** i wchodzi później, gdy usłyszy coś, co go zaczepi. Nikt nie musi być gotowy na zawołanie.
 
-Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie raz — w środku opowieści gracza, nie na początku. Gracz mówi, jak wyobraża sobie resztę życia, a ty przerywasz mu ofertą, której nie da się zbyć wzruszeniem ramion. Potem oddajesz mu głos i już nie przerywasz.
+Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie raz — w środku opowieści gracza, nie na początku. Gracz mówi, jak wyobraża sobie resztę życia swojego bohatera, a ty przerywasz mu ofertą, której nie da się zbyć wzruszeniem ramion. Potem oddajesz mu głos i już nie przerywasz.
 
 **Bank konsekwencji** to gotowe domknięcia. Wybierasz to, które pasuje do odpowiedzi, i czytasz. Nie improwizuj, jeśli nie musisz — te akapity są napisane pod głos.
 
@@ -30,37 +30,47 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 *Cue: odpal, gdy Orestes już się rozgada o browarze, o [[Bullbug]] i wolnych minotaurach, o tym, że wszystko wróci do normy. Wtedy przerwij.*
 
-> *W barze robi się cicho nie dlatego, że ktoś krzyknął, tylko dlatego, że wszyscy naraz przestali. Przy stoliku w rogu — tym, przy którym przed chwilą nikogo nie było — siedzi chudy jegomość w czystym płaszczu i przegląda plik papierów. Ma przed sobą pełny kufel, którego nie tknął.*
+> *W barze robi się cicho nie dlatego, że ktoś krzyknął, tylko dlatego, że wszyscy naraz przestali. Przy stoliku w rogu — tym, przy którym przed chwilą nikogo nie było — siedzi ktoś w kapturze i w masce, z pełnym kuflem, którego nie tknął. Nikt nie widział, jak wchodził. [[Brax]] przysięgnie potem, że przez cały wieczór stał do tego stolika plecami.*
 >
-> *Podnosi wzrok. Uśmiecha się jak ktoś, kto przyszedł odebrać należność.*
+> *Postać toczy po blacie granat. Zwykły, targowy — nie ten. Ale wszyscy przy tym stole wiedzą, po co ten gest.*
 
-> **[[The Keeper|Zarządca]]** *(bez emocji, jak urzędnik)*: „Umowa opiewała na [[Kryształowa Kosa Lutherii|kosę]]. Pomogłem wam z [[Tarrasque|Tarrasquem]], wy mieliście oddać narzędzie. Przyszedłem po nie."
+> **[[Mistrz Cieni]]** *(spokojnie, jakby wracał do rozmowy sprzed pół roku)*: „Płaciłem z góry. Przed bramą [[Wiszące Ogrody|Wiszących Ogrodów]], w [[Arezja|Arezji]]. Umowa opiewała na jedną księgę z [[Praxys]] i na zero pytań. Wieża padła. Księga nie. Macie ją w bagażu od siedemdziesiątej trzeciej sesji tej wojny."
 >
-> **[[The Keeper|Zarządca]]** *(przekłada kartkę)*: „I przy okazji — twoja sprawa. Twoje ciało chodzi bez podstawy prawnej. Klątwa, która cię podniosła, była jej. Ona nie żyje. Nikt tego nie prowadzi. Rozumiesz? Ty nie jesteś nieumarły z czyjejś woli. Ty jesteś nieumarły przez **pomyłkę w papierach**."
+> **[[Mistrz Cieni]]**: „Nie przyszedłem się o nią kłócić. Przyszedłem powiedzieć, że pamiętam — i przy okazji porozmawiać o czymś zupełnie innym. Nie mieszam długów z ofertami. Od mieszania robi się bałagan."
+
+*Cue: pauza. Niech przy stole zdąży wybrzmieć, że **to jest jedyny dług tej drużyny, który naprawdę istnieje** — i że on właśnie odłożył go na bok. Dopiero potem drugie zdanie.*
+
+> *Wstaje i podchodzi do baru. Nie siada. Kładzie dwa palce na blacie obok [[Kryształowa Kosa Lutherii|kosy]].*
+
+> **[[Mistrz Cieni]]**: „[[Świątynia Cieni]] istnieje po to, żeby ludzie oddawali rzeczy, których nie chcą, i dostawali rzeczy, których nie da się kupić. Ty chodzisz, gadasz i pijesz, a nie żyjesz. Wiem, że nic nie czujesz. Widać to po tym, jak trzymasz kufel."
 >
-> **[[The Keeper|Zarządca]]**: „Oddaj kosę, a ja wpiszę cię z powrotem na listę żywych. Jednym pociągnięciem. Będziesz oddychał, będziesz czuł smak piwa, będziesz się starzał jak wszyscy. To uczciwa cena."
+> **[[Mistrz Cieni]]**: „Oddaj mi to narzędzie, a odprawię nad tobą obrzęd, którego w tym mieście nikt nie umie i nikt ci go nie zaproponuje drugi raz. Wrócisz na tę stronę. Będziesz oddychał, będziesz czuł smak piwa, będziesz się starzał jak wszyscy. Nie pytaj, po co mi kosa. Umawialiśmy się kiedyś na zero pytań i to mi się w tobie podobało."
 
-*Cue: zrób pauzę. Niech Orestes zdąży się ucieszyć. Dopiero potem dorzuć drugie zdanie.*
+*Cue: zrób pauzę. Niech Orestes zdąży się ucieszyć. Dopiero potem dorzuć resztę.*
 
-> *Zarządca stuka palcem w kosę, jakby dopiero teraz coś sobie przypomniał.*
+> *Stuka palcem w kryształ. Dźwięk jest za długi, jakby wracał z bardzo daleka.*
 
-> **[[The Keeper|Zarządca]]** *(uprzejmie)*: „Aha. I jeszcze jedno, dla porządku. To narzędzie zbierało dusze przez tysiąclecia. Kilka z nich jest… podpisanych. Dwa nazwiska mogą ci coś mówić. Nie pytam, czy je znasz. Pytam, czy to zmienia twoją odpowiedź."
+> **[[Mistrz Cieni]]** *(bez litości, ale i bez satysfakcji)*: „I jeszcze jedno, bo nie lubię, kiedy klient dowiaduje się później. To narzędzie zbierało dusze przez tysiąclecia i one wciąż tam są. Kilka jest podpisanych. Dwa nazwiska mogą ci coś mówić. Nie pytam, czy je znasz. Pytam, czy to zmienia twoją odpowiedź."
 
 > *Zanim zdążysz cokolwiek powiedzieć, świeca na barze przygasa i twój własny cień na ścianie robi coś, czego cienie nie robią — przechyla głowę.*
 
-> **[[Nona]]** *(z cienia, głosem, który znasz ze snów)*: „Nie słuchaj go, wołku. On chce papieru. Ja chcę tylko ciebie takiego, jaki jesteś. Zostań martwy, a przędę ci nić bez końca. Żadnej starości. Żadnego ostatniego kufla. Obiecywałam, że cię odwiedzę."
+> **[[Nona]]** *(z cienia, głosem, który znasz ze snów)*: „Nie słuchaj go, byczku. On chce narzędzia. Ja chcę tylko ciebie takiego, jaki jesteś. Zostań martwy, a uprzędę ci nić bez końca. Żadnej starości. Żadnego ostatniego kufla. Obiecywałam, że cię odwiedzę."
 
-*Cue: dwie oferty, jedna kosa, jedno ciało. Orestes przysiągł, że kosę **rozbije**. Nie przypominaj mu o tym — niech sam sobie przypomni. Jeśli nie przypomni, przypomni mu [[Brax]] jednym zdaniem: „Mówiłeś, że ją roztrzaskasz."*
+*Cue: dwie oferty, jedna kosa, jedno ciało. **Żadna z nich nie jest kontraktem** — nikt nie ma na Orestesa papieru i nikt mu nie grozi. Może odmówić obu i nie stanie się absolutnie nic. To jest właśnie ta rzecz, która czyni tę scenę nie do zbycia wzruszeniem ramion.*
+
+*Cue: Orestes przysiągł, że kosę **rozbije**. Nie przypominaj mu o tym — niech sam sobie przypomni. Jeśli nie przypomni, przypomni mu [[Brax]] jednym zdaniem: „Mówiłeś, że ją roztrzaskasz."*
 
 ### Bank konsekwencji
 
 #### A. Wraca do życia
 
-> *Podpisujesz. Nie krwią, nie duszą — zwykłym atramentem, jak kwit na dostawę chmielu. Zarządca zwija kosę w płótno, kłania się bez ironii i wychodzi tylnymi drzwiami, których w Super Barze nigdy nie było.*
+> *Zgadzasz się. Nie ma papieru do podpisania — jest podanie ręki i cudzy głos, który mówi „dobrze", i to wystarcza obu stronom.*
 >
-> *A ty bierzesz oddech. Pierwszy od tygodni. Boli. Wszystko boli — bark, kolano, stary bark, którego nie czułeś, odkąd umarłeś. Serce rusza z takim łomotem, że musisz usiąść.*
+> *Obrzęd odbywa się w [[Arezja|Arezji]], w [[Świątynia Cieni|Świątyni Cieni]], w nocy, przy zamkniętych bramach. Trwa dziewięć godzin i przez większość z nich nic się nie dzieje. Nie pytasz, co śpiewają, bo umawialiście się na zero pytań, a ty dotrzymujesz umów. Kosę zabierają, zanim wstanie słońce, i nigdy więcej jej nie zobaczysz.*
 >
-> *[[Brax]] nalewa ci nowy kufel. Pijesz. I to jest piwo. Zwyczajne, kwaśne, ciepłe od słońca browarne piwo — najlepsze, jakie ktokolwiek warzył pod tym niebem.*
+> *A ty bierzesz oddech. Pierwszy od miesięcy. Boli. Wszystko boli — kolano, żebra, stary bark, którego nie czułeś, odkąd umarłeś. Serce rusza z takim łomotem, że musisz usiąść.*
+>
+> *[[Brax]] nalewa ci nowy kufel. Pijesz. I to jest piwo. Zwyczajne, kwaśne, ciepłe od słońca piwo z browaru — najlepsze, jakie ktokolwiek warzył pod tym niebem.*
 >
 > *Płaczesz przy tym jak dziecko, a cała knajpa udaje, że tego nie widzi. Klątwa pecha została. Umrzesz kiedyś, prawdopodobnie idiotycznie. Ale umrzesz **stary**, i to jest więcej, niż obiecywano ci przy urodzeniu.*
 >
@@ -68,15 +78,15 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 #### B. Zostaje nieumarły z wyboru
 
-> *Nie podpisujesz. Bierzesz kosę i kładziesz ją na barze, między kuflami, tak żeby wszyscy widzieli.*
+> *Nie zgadzasz się. Bierzesz kosę i kładziesz ją na barze, między kuflami, tak żeby wszyscy widzieli.*
 >
-> *Zarządca patrzy na ciebie długo. Potem chowa papiery do teczki, bez złości — ludzie zwlekają z płatnościami, on to zna. „Umowa pozostaje otwarta", mówi. „Ja nie mam terminów. Mam czas." I go nie ma.*
+> *[[Mistrz Cieni|Mistrz Cieni]] patrzy na ciebie długo zza maski. Potem wzrusza ramionami, bez złości — ludzie odmawiają, on to zna. „Oferta stoi rok", mówi. „Potem przestanie, bo znajdę inne narzędzie. Księgę przyślij, kiedy uznasz." I go nie ma.*
 >
 > *[[Nona]] też odchodzi, rozczarowana, bo nie wybrałeś jej — wybrałeś **siebie**.*
 >
 > *Zostajesz taki, jaki jesteś: chodzący, gadający, pijący i nieczujący. Trup, który prowadzi browar. Minotaury z [[Targ Minotaurów|Targu]] przychodzą do ciebie po rozsądzenie sporów, bo trupa trudno przekupić i trudno przestraszyć. [[Bullbug]] mówi na ciebie „Stary", a ty nie protestujesz, bo to nawet prawda.*
 >
-> *Warzysz piwo, którego nie umiesz spróbować. Ludzie mówią, że najlepsze w [[Mytros]]. Musisz im wierzyć na słowo. To jest cena i płacisz ją codziennie, dobrowolnie, po jednym kuflu naraz.*
+> *Warzysz piwo, którego nie możesz spróbować. Ludzie mówią, że najlepsze w [[Mytros]]. Musisz im wierzyć na słowo. To jest cena i płacisz ją codziennie, dobrowolnie, po jednym kuflu naraz.*
 
 #### C. Szuka trzeciej drogi — rozbija kosę
 
@@ -84,17 +94,20 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > *Kosa nie pęka jak szkło. Pęka jak lód na wiosnę — z hukiem, który słychać w całej dzielnicy, i z westchnieniem tysięcy głosów naraz. Z rozbitego trzonu wychodzi światło i rozchodzi się po sali, przez ściany, w noc. Dwa z tych świateł zatrzymują się przy tobie na moment. Nie mówią nic. Nie muszą. Ktoś, kto cię znał, kładzie ci na chwilę rękę na karku, tak jak się kładzie dziecku — a potem już go nie ma.*
 >
-> *Zarządca patrzy na rumowisko na barze. Po raz pierwszy, odkąd go znasz, nie ma dla ciebie zdania z papieru. „No dobrze", mówi w końcu. „To był mój towar. Więc teraz **ty** jesteś moim towarem. Nie dziś. Kiedyś." I znika, a długu nie ma jak spłacić, bo nie ma już czym.*
+> *[[Mistrz Cieni]] patrzy na rumowisko kryształu na barze. Nie próbuje cię powstrzymać — nie zdążyłby, a poza tym nie po to tu przyszedł. Nikt nikomu niczego nie złamał: on złożył ofertę, ty jej nie przyjąłeś, i tyle.*
 >
-> *Zostajesz martwy. Zostajesz sam z tym. Ale twoi rodzice są wolni, a twoje słowo jest dotrzymane — i to jest jedyna waluta, jaką ci kiedykolwiek dano.*
+> *„Szkoda", mówi w końcu. „Za to dałbym więcej niż za księgę." Chwilę stoi. Potem dorzuca coś, czego nikt się po nim nie spodziewał: „Ale teraz wiem o tobie rzecz, której nie wiedziałem rano. Że dotrzymujesz. To jest w moim fachu warte więcej niż każde narzędzie, jakie kiedykolwiek trzymałeś w rękach." I wychodzi bocznymi drzwiami, których w [[Super Bar|Super Barze]] nigdy nie było.*
+>
+> *Zostajesz martwy. Na zawsze i z własnej ręki — bo drugiej takiej oferty nikt ci nie złoży. Ale twoi rodzice są wolni, a twoje słowo jest dotrzymane, i to jest jedyna waluta, jaką ci kiedykolwiek dano.*
 
-*Cue: wariant C jest najmocniejszy, ale zostawia [[Orestes|Orestesa]] w zawieszeniu. To dobrze. Nie domykaj — nikt nie wie, jak długo trzyma się trup bez właściciela.*
+*Cue: wariant C jest najmocniejszy, ale zostawia [[Orestes|Orestesa]] w zawieszeniu. To dobrze. Nie domykaj — nikt nie wie, jak długo trzyma się trup, którego nikt już nie prowadzi.*
 
 ### Nitki w odwodzie
 
 - **[[Ultros]] leży na dnie portu** z całym skarbem drużyny, a driada [[Delphia]] wciąż jest przywiązana do masztu. Orestes jest kapitanem zatopionego statku. Czy go wyciąga? Czy Delphia oferuje mu wiązanie takie, jakie ma sama — nieśmiertelność przywiązaną do drewna?
+- **Oferta [[Mistrz Cieni|Mistrza Cieni]] stoi rok** i nie zostanie powtórzona. Jeśli Orestes nie odpowie w tej scenie, odpowie w ciągu roku — a to jest rok przeżyty z tą myślą przy każdym kuflu.
 - **Klątwa pecha** nigdy nie została zdjęta. Nikt jej nawet nie tknął.
-- **[[Pholon]]** go odrzucił i musi znaleźć jeźdźca przed pełnią, bo zmieni się w skorpiona. Orestes może wrócić z drugą ofertą.
+- **[[Pholon]]** go odrzucił, a sam musi znaleźć jeźdźca przed pełnią, bo inaczej zmieni się w skorpiona. Orestes może wrócić z drugą ofertą.
 - **[[Paradoks]]** wyśmiał jego przysięgę smoczego jeźdźca — „brak ambicji w warzeniu piwa". Smok żyje. Można mu przywieźć beczkę i patrzeć, jak się dławi.
 - **[[Bullbug]] i wolne minotaury** z [[Targ Minotaurów|Targu]] nie mają przywódcy ani ziemi.
 - **[[Brax]]** awansował na dowódcę i podrywa centaurzycę [[Nessa|Nessę]]. Ktoś musi to skomentować.
@@ -120,13 +133,13 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > *Nie jest duża.*
 >
-> *Wiesz też, czym się to steruje. Wrak [[Tranquility|Tranquility]] leży tam, gdzie was wyrzuciło. Nie da się go doprowadzić do stanu używalności — ale jego rdzeń nawigacyjny nigdy nie był statkiem. Był kluczem. Klucz przetrwał.*
+> *Wiesz też, czym się to steruje. Wrak [[Tranquility|Tranquility]] leży tam, gdzie was wyrzuciło. Nie da się go naprawić — ale jego rdzeń nawigacyjny nigdy nie był statkiem. Był kluczem. Klucz przetrwał.*
 
 *Cue: dopiero teraz podnieś stawkę. Dwa głosy, oba prawdziwe, oba nieprzyjemne.*
 
-> *Zapamiętałeś, co powiedziała ci [[Megara]] w [[Sesja 75 - Koniec Przysięgi|dniu, w którym wygasła Przysięga]]. Nie ostrzegała cię przed drogą. Ostrzegała cię przed **tym, co pójdzie nią z powrotem**: że gdyby władcy twojego świata poznali bezpieczne przejście do [[Thylea|Thylei]], złupiliby ją bez namysłu i bez wojny.*
+> *Pamiętasz, co powiedziała ci [[Megara]] w [[Sesja 75 - Koniec Przysięgi|dniu, w którym wygasła Przysięga]]. Nie ostrzegała cię przed drogą. Ostrzegała cię przed **tym, co pójdzie nią z powrotem**: że gdyby władcy twojego świata poznali bezpieczne przejście do [[Thylea|Thylei]], złupiliby ją bez namysłu i bez wojny.*
 >
-> *A druga rzecz jest gorsza, bo nikt ci jej nie mówi — sam ją policzyłeś. [[Thylea]] jest planem kieszonkowym. Kieszeń miała strażnika. Strażnik właśnie odszedł w morze albo skamieniał w pole stu rąk. Nikt nie wie, co się dzieje z kieszenią, kiedy nie ma kto jej trzymać.*
+> *A druga rzecz jest gorsza, bo nikt ci jej nie mówi — sam ją policzyłeś. [[Thylea]] jest planem kieszonkowym. Kieszeń miała strażnika. Strażnik właśnie odszedł w morze albo legł polem stu kamiennych rąk. Nikt nie wie, co się dzieje z kieszenią, kiedy nie ma kto jej trzymać.*
 >
 > *Może to okno jest ostatnie. Może to pierwsze z wielu. Twoja astronomia mówi jedno, twoje przeczucie drugie, i po raz pierwszy w życiu **nie umiesz sprawdzić, które ma rację**.*
 
@@ -162,7 +175,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > *Odczytujesz kurs z [[Antikythera|Antikythery]], sprawdzasz go trzy razy i zapisujesz raz — na jednym arkuszu, własną ręką, w szyfrze domu Phiarlan, którego w tym świecie nie zna nikt oprócz ciebie. Potem oddajesz arkusz [[Baltia|Baltii]] i mówisz jej, że decyzja należy do niej.*
 >
-> *Ona płynie. Kilkoro innych z nią. Machają wam z pokładu i rozpuszczają się w świetle, i to jest ostatni raz, kiedy ich widzisz.*
+> *Ona płynie. Kilkoro innych z nią. Machają ci z pokładu i rozpuszczają się w świetle, i to jest ostatni raz, kiedy ich widzisz.*
 >
 > *Zostajesz z tym, co zrobiłeś: droga do [[Thylea|Thylei]] istnieje teraz w cudzej głowie, po drugiej stronie, poza twoją kontrolą. [[Megara]] ostrzegała cię dokładnie przed tym. Uznałeś, że nie masz prawa więzić ludzi w świecie, do którego ich nie zaproszono — i możliwe, że miałeś rację.*
 >
@@ -174,7 +187,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 - **Szybkość oddana [[Mojry|Mojrom]]** — nigdy nieodzyskana i nigdy nierozliczona. Mojry są nietknięte i bogatsze niż przed wojną.
 - **Gwiezdne wizje** i to, co widział w [[Morze Astralne|Morzu Astralnym]]. Jest jedynym w drużynie, który myśli o niebie jak o mapie, a nie jak o dekoracji.
 - **[[Yala]]** siedzi sama na klifie i nie wie, czy chce dziedziczyć. Arevon jako jedyny widział ją w tamtej chwili. Może wrócić.
-- **Lasy [[Stary Las|Starego Lasu]] i Gyganie** — [[Kyrah]] nigdy nie odkupiła spalonych. Druid mógłby.
+- **Lasy [[Stary Las|Starego Lasu]] i Gyganie** — [[Kyrah]] spaliła [[Gyganie|Gyganów]] i nigdy tego nie odkupiła. Druid mógłby.
 
 ---
 
@@ -188,9 +201,9 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 #### Wariant A — wizja rozbrojona
 
-> *Świątynna dzielnica stoi w jednej trzeciej. Idziesz przez nią z listą w głowie i z odpowiedzią, którą przygotowywałeś sobie od czterdziestu sesji, bo wiedziałeś, że będziesz musiał ją komuś dać.*
+> *Świątynna dzielnica stoi w jednej trzeciej. Idziesz przez nią z listą w głowie i z odpowiedzią, którą przygotowywałeś sobie od tamtej wizji, bo wiedziałeś, że będziesz musiał ją komuś dać.*
 >
-> *Znajdujesz ją w podwórcu przy zawalonym skrzydle świątyni. Ma rozdarty rękaw, popiół we włosach i w rękach cudzą, obcą kobietę, której właśnie zmienia opatrunek. Nie zauważa cię przez dobre pół minuty, bo jest zajęta.*
+> *Znajdujesz ją w podwórcu przy zawalonym skrzydle świątyni. Ma rozdarty rękaw, popiół we włosach i na rękach obcą kobietę, której właśnie zmienia opatrunek. Nie zauważa cię przez dobre pół minuty, bo jest zajęta.*
 >
 > *Potem podnosi głowę.*
 
@@ -212,11 +225,11 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 > *W wizji było płonące [[Mytros]] i Behemot, i ty przy niej. Nie było cię przy niej. To jedyna część, która się nie zgodziła — i to twoja część.*
 >
-> *Siadasz na tym gruzie i siedzisz bardzo długo. Ludzie przechodzą obok i nie zaczepiają cię, bo w mieście po oblężeniu wszyscy wiedzą, jak wygląda człowiek, którego nie należy w tej chwili dotykać.*
+> *Siadasz na tym gruzie i siedzisz bardzo długo. Ludzie przechodzą obok i nie zaczepiają cię, bo w mieście po takiej nocy wszyscy wiedzą, jak wygląda człowiek, którego nie należy w tej chwili dotykać.*
 >
 > *Wygrałeś wojnę. Zamieniłeś ją na cztery lata i na tę jedną osobę, i nikt ci nie powiedział, że taki był kurs wymiany.*
 
-*Cue w wariancie B: nie pozwól graczowi „naprawić" tego magią. Wskrzeszenie nie działa — jest po prostu za późno, ciało zostało pod sklepieniem przez dwa tygodnie, a jego własne zdrowie jest oddane [[Mojry|Mojrom]] i leczenie ledwo mu się klei. Jeśli gracz zapyta, odpowiedz krótko i wróć do sceny.*
+*Cue w wariancie B: nie pozwól graczowi „naprawić" tego magią. Wskrzeszenie nie działa — jest po prostu za późno, ciało zostało pod sklepieniem przez dwa tygodnie, a jego własne zdrowie jest oddane [[Mojry|Mojrom]] i leczenie ledwo mu wychodzi. Jeśli gracz zapyta, odpowiedz krótko i wróć do sceny.*
 
 ---
 
@@ -230,7 +243,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 > *[[Akademia Mytros|Akademia]] nie ma dachu, więc obradują na dziedzińcu. Jest ich mniej niż dwadzieścioro. To wszystko, co zostało z magicznej tradycji [[Mytros]], i połowa z nich jest młodsza od twojego wyjazdu.*
 >
-> *A za murem, na wypalonym stadionie, siedzą smoki. Nie bogowie w smoczej skórze — **młode**. Te, które wyklułyście z jaj, które nikomu nie przysięgały i które nie mają pojęcia, czym powinny być. [[Kairos]] siedzi najbliżej muru i patrzy na ciebie tak, jak patrzył, gdy się wykluł.*
+> *A za murem, na wypalonym stadionie, siedzą smoki. Nie bogowie w smoczej skórze — **młode**. Te, które wykluliście z jaj, które nikomu nie przysięgały i które nie mają pojęcia, czym powinny być. [[Kairos]] siedzi najbliżej muru i patrzy na ciebie tak, jak patrzył, gdy się wykluł.*
 >
 > *Delegacja podchodzi razem. Mag, smok i cywil — nikt nie chciał iść sam.*
 
@@ -248,7 +261,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 > *Zgadzasz się i od razu ustawiasz warunki, bo nauczyłeś się, że instytucje psują się w pierwszym roku, nie w setnym.*
 >
-> *Żadnych przysiąg na krew. Żadnego dziedziczenia. Smok i jeździec wybierają się nawzajem, obaj mogą odejść, i obaj odpowiadają przed radą, nie przed królem. [[Acastus]] próbuje wpisać do statutu koronę; wykreślasz to przy nim, bez dyskusji, i to jest ostatni raz, kiedy próbuje.*
+> *Żadnych przysiąg na krew. Żadnego dziedziczenia. Smok i jeździec wybierają się nawzajem, obaj mogą odejść i obaj odpowiadają przed radą, nie przed królem. [[Acastus]] próbuje wpisać do statutu koronę; wykreślasz to przy nim, bez dyskusji, i to jest ostatni raz, kiedy próbuje.*
 >
 > *Pierwszy rocznik liczy jedenaście osób i sześć smoków. Uczysz ich sam, źle sypiasz i wykłócasz się o pieniądze — a to jest, jak się okazuje, dokładnie ta praca, przed którą uciekłeś dziesięć lat temu.*
 >
@@ -274,16 +287,16 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > *Zamiast tego robisz rzecz mniejszą i trudniejszą: otwierasz [[Akademia Mytros|Akademię]] na nowo, bez smoków, dla dzieci, które nie mają czym zapłacić. Pierwszy rocznik siedzi pod plandeką.*
 >
-> *Smoki zostają bez opiekuna. Rosną dziko, wybierają sobie ludzi same albo nie wybierają nikogo, i przez następne dekady kilka razy robi się przez to bardzo niebezpiecznie.*
+> *Smoki zostają bez opiekuna. Rosną dziko, wybierają sobie ludzi same albo nie wybierają nikogo, i przez następne dekady kilka razy kończy się to bardzo źle.*
 >
 > *Nie wiesz, czy podjąłeś dobrą decyzję. Wiesz tylko, że tym razem podjąłeś ją sam i na trzeźwo, a nie ze strachu — i po dziesięciu latach ucieczki to jest różnica, która ci wystarcza.*
 
 ### Nitki w odwodzie
 
-- **[[Despina]] żyje w ciele smoczycy [[Nephele (Smok)|Nephele]]** i odleciała na południowy wschód. Jego prababka, zdrajczyni [[Smoczy Lordowie|Smoczych Lordów]], jest teraz smokiem i nikt nie wie, czego chce. To jedyny żyjący świadek pierwszego upadku Zakonu.
+- **[[Despina]] żyje w ciele smoczycy [[Nephele (Smok)|Nephele]]** i odleciała na południowy wschód. Jego prababka, zdrajczyni [[Smoczy Lordowie|Smoczych Lordów]], jest teraz smoczycą i nikt nie wie, czego chce. To jedyny żyjący świadek pierwszego upadku Zakonu.
 - **[[Klonicjan]]** wciąż stoi w kabinie [[Kolos Pythora|Kolosa]] na [[Targ Minotaurów|Targu Minotaurów]]. Ma jego pamięć, jego twarz i żadnej przyszłości. Nikt go o nic nie zapytał.
-- **[[Kairos]]** — jego własny smok, wyklęty z jaja odklętego cudzym kosztem.
-- **[[Taran Neurdagon]]** — krewny, handlarz niewolnikami, człowiek, który kazał ściąć [[Althaia|Althaię]] za odmowę. Drużyna ma na niego list z dowodem **od sesji 49 i nigdy go nie użyła**. Taran przeżył oblężenie i jest teraz jednym z niewielu ludzi w mieście z gotówką na odbudowę.
+- **[[Kairos]]** — jego własny smok, wykluty z jaja, z którego klątwę zdjęto cudzym kosztem.
+- **[[Taran Neurdagon]]** — krewny, handlarz niewolnikami, człowiek, który kazał ściąć [[Althaia|Althaię]] za odmowę. Drużyna ma na niego list z dowodem **od sesji 49 i nigdy go nie użyła**. Taran przeżył bitwę i jest teraz jednym z niewielu ludzi w mieście z gotówką na odbudowę.
 - **Zdrowie oddane [[Mojry|Mojrom]]** — na stałe. Będzie się starzał gorzej niż powinien.
 - **[[Ismene Neurdagon|Ismene]]** i [[Egida Mytros|Egida]]: legion bio-automatów istnieje dalej i potrzebuje maga, który rozumie, jak działa.
 
@@ -299,7 +312,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 ### Wyzwolone wydarzenie — ostatnia wizja ma adres
 
-*Cue: przez całą kampanię matka przysyłała mu wizje bez lokalizacji. Ta jedna ma współrzędne. Jeśli graliście wariant B [[Kentimane|Kentimane'a]], to serce z **gwiezdnego metalu** w polu stu rąk; jeśli wariant A — odłamek, który sfinksi z **Wyspy Czasu** trzymali dla niego od stuleci i przysyłają teraz bez komentarza. W obu wypadkach materiał jest ten sam.*
+*Cue: przez całą kampanię matka przysyłała mu wizje bez lokalizacji. Ta jedna ma współrzędne. Jeśli graliście wariant B [[Kentimane|Kentimanego]], to serce z **gwiezdnego metalu** w polu stu rąk; jeśli wariant A — odłamek, który sfinksi z **Wyspy Czasu** trzymali dla niego od stuleci i przysyłają teraz bez komentarza. W obu wypadkach materiał jest ten sam.*
 
 > *Nie śpisz, kiedy to przychodzi. To pierwsza różnica.*
 >
@@ -313,11 +326,11 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > *Teraz jeden z tych kawałków — największy, jaki istnieje — leży tam, gdzie ci pokazano. I on jest wystarczająco duży, żeby ją **zebrać**.*
 
-> **[[Versi Pierwsza]]**: „Możesz przyjść. Ale muszę ci powiedzieć uczciwie, jak działa jasnowidzenie: jeśli po mnie sięgniesz, dostaniesz mnie **całą**. Wszystko, co widziałam. Każdą przyszłość, którą policzyłam, zanim mnie strącili. Twój ojciec był śmiertelnikiem i to cię trzyma po tej stronie. Trzy esencje w twojej rękawicy już to naciągnęły. Czwarta nie będzie darem. Będzie **rozstrzygnięciem**."
+> **[[Versi Pierwsza]]**: „Możesz przyjść. Ale muszę ci powiedzieć uczciwie, jak działa jasnowidzenie: jeśli po mnie sięgniesz, dostaniesz mnie **całą**. Wszystko, co widziałam. Każdą przyszłość, którą policzyłam, zanim mnie strącili. Twój ojciec był śmiertelnikiem i to cię trzyma po tej stronie. Trzy esencje w twojej rękawicy już to nadwerężyły. Czwarta nie będzie darem. Będzie **rozstrzygnięciem**."
 >
 > **[[Versi Pierwsza]]** *(ciszej)*: „Nie wiem, kim będziesz potem. To jedyna rzecz, której nigdy nie zobaczyłam."
 
-*Cue: **żadnej boskości.** Nikt nie oferuje Versirowi domeny, tronu ani wstąpienia. Oferta brzmi: „przestaniesz być tym, czym jesteś, a ja nie wiem, czym zostaniesz". Jeśli gracz zapyta wprost o boskość, matka odpowiada: „Boskość jest teraz niczyja i nikt nie wie, co się z nią stało. Ja mówię o czymś mniejszym i gorszym: o tobie."*
+*Cue: **żadnej boskości.** Nikt nie oferuje Versirowi domeny, tronu ani apoteozy. Oferta brzmi: „przestaniesz być tym, czym jesteś, a ja nie wiem, czym zostaniesz". Jeśli gracz zapyta wprost o boskość, matka odpowiada: „Boskość jest teraz niczyja i nikt nie wie, co się z nią stało. Ja mówię o czymś mniejszym i gorszym: o tobie."*
 
 ### Bank konsekwencji
 
@@ -327,7 +340,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > *Kładziesz na metalu tę rękę, której nie masz. **Rękawica** przyjmuje ją tak, jak przyjęła trzy poprzednie — bez oporu, jakby czekała od początku. [[Yala Pierwsza|Yala]] milknie. [[Chalcia Pierwsza|Chalcia]] milknie. Siła [[Hergeron Pierwszy|Hergerona]] milknie. Po raz pierwszy od lat masz w głowie ciszę.*
 >
-> *A potem cisza się wypełnia i **widzisz**. Nie przyszłość — wszystkie przyszłości naraz, tak jak widziała je ona, i rozumiesz w tej samej chwili, dlaczego nikt tego nie przeżył z rozumem. Trwa ułamek sekundy i ledwo wracasz.*
+> *A potem cisza się wypełnia i **widzisz**. Nie przyszłość — wszystkie przyszłości naraz, tak jak widziała je ona, i rozumiesz w tej samej chwili, dlaczego nikt tego nie przeżył przy zdrowych zmysłach. Trwa ułamek sekundy i ledwo wracasz.*
 >
 > *Nie zostajesz bogiem. Nie zostajesz Tytanem. Zostajesz czymś, na co nikt jeszcze nie wymyślił słowa — kimś, kto wie za dużo i musi z tym mieszkać. Ludzie zaczynają cię unikać, bo odpowiadasz na pytania, zanim padną. Dłoń nigdy nie odrasta.*
 >
@@ -343,15 +356,15 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > *Nie dlatego, że jej nie chcesz — dlatego, że nosisz już trzy głosy, których nikt cię nie pytał, czy chcesz nosić, i po raz pierwszy w życiu **wybierasz sam**. Ona to rozumie natychmiast, bo widziała i tę wersję. „Dobrze", mówi. To wszystko. „Dobrze."*
 >
-> *Zostawiasz metal tam, gdzie leży. Ktoś kiedyś go znajdzie i wykuje z niego legendę, nie wiedząc, że rozmawia z Tytanką.*
+> *Zostawiasz metal tam, gdzie leży. Ktoś kiedyś go znajdzie i wykuje z niego legendę, nie wiedząc, że kuje Tytankę.*
 >
-> *Wracasz i przez resztę życia jesteś dokładnie tym, kim byłeś: pół-tytanem z jedną ręką, trzema martwymi w rękawicy i bardzo dobrym mieczem. Rzadko o tym mówisz. Raz, po latach, ktoś pyta cię, czy spotkałeś matkę. Mówisz: „Tak. Krótko."*
+> *Wracasz i przez resztę życia jesteś dokładnie tym, kim byłeś: półtytanem z jedną ręką, trzema martwymi w rękawicy i bardzo dobrym mieczem. Rzadko o tym mówisz. Raz, po latach, ktoś pyta cię, czy spotkałeś matkę. Mówisz: „Tak. Krótko."*
 
 #### C. Ona jest bliżej, niż sądził
 
 > *Idziesz po nią — i po drodze zaczyna ci coś nie pasować.*
 >
-> *Bo skoro jej dusza rozsypała się z odłamkami gwiezdnego metalu po całej krainie, to znaczy, że była też **w tej gwieździe w [[Praxys]]**, którą uwolniłeś. I w tym błysku, po którym z nieba spadła wdzięczność i **przewidywanie przyszłości**, którego nikt ci nie tłumaczył.*
+> *Bo skoro jej dusza rozsypała się z odłamkami gwiezdnego metalu po całej krainie, to znaczy, że była też **w tej gwieździe w [[Praxys]]**, którą uwolniłeś. I w tym błysku, po którym spadły na ciebie wdzięczność i **przewidywanie przyszłości**, którego nikt ci nigdy nie wytłumaczył.*
 >
 > *Ona nigdy nie przysyłała ci wizji z daleka. Ona **była** wizjami. Całe czterdzieści lat.*
 >
@@ -359,7 +372,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 > **[[Versi Pierwsza]]**: „Byłam przy każdej z nich, Versir. Przy pojedynku ze [[Sydon|Sydonem]]. Przy sferze, która zabrała ci dłoń. Przy tym, co powiedziałeś jej w labiryncie — to było najlepsze zdanie, jakie ktokolwiek z mojej krwi wypowiedział."
 >
-> **[[Versi Pierwsza]]**: „Nie musisz mnie zbierać. Musisz tylko przestać uważać, że cię nie było przy kim wychować."
+> **[[Versi Pierwsza]]**: „Nie musisz mnie zbierać. Musisz tylko przestać uważać, że nie było komu cię wychować."
 
 > *Nie sięgasz po metal. Nie musisz. Siadasz obok niego i siedzicie tak do rana — pierwszy i ostatni raz — a rano wstajesz i idziesz z powrotem do żywych, po raz pierwszy w życiu bez tej dziury w środku, którą brałeś za charakter.*
 
@@ -370,7 +383,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 - **Rękawica** mieści już trzy tytaniczne esencje: [[Yala Pierwsza]], [[Chalcia Pierwsza]] i siła [[Hergeron Pierwszy|Hergerona Pierwszego]]. Nikt nigdy nie pytał, co to z nim robi ani gdzie jest granica. Głosy nie zawsze się zgadzają.
 - **Dłoń nie odrosła.** Nie odrośnie. Żadna magia w [[Thylea|Thylei]] tego nie ruszyła.
 - **[[Zguba Tytanów]] musi wrócić do [[Hexia|Hexii]]** — to był jej warunek z [[Sesja 64 - Pieśń dla Smoczycy|sesji 64]]. [[Sydon]] padł. Dług jest wymagalny **teraz**, a smoczyca wie o tym lepiej niż oni. Miecz to zarazem jedyna rzecz, która zdławiła regenerację [[Lutheria|Lutherii]].
-- **[[Mistrz Cieni]]** zapłacił z góry za księgę z [[Praxys]]. [[Praxys]] nie istnieje. [[Arezja]] uratowała front północno-wschodni i ma to komu wystawić.
+- **[[Mistrz Cieni]]** zapłacił z góry za księgę z [[Praxys]] — i księga **jest u nich**: [[Traktat o Prawach i Zobowiązaniach Krwi]], wyniesiony ze skarbca [[Sydon|Sydona]]. Wieża padła, dług nie. [[Arezja]] uratowała przy okazji front północno-wschodni i ma komu wystawić rachunek. To Versir prowadził tamte rozmowy w [[Arezja|Arezji]] — jeśli ktoś ma tę księgę odwieźć, wszyscy popatrzą na niego.
 - **[[Astra]]** zniknęła z narracji po sesji 24. Jedyna przyjaciółka, jaką miał, zanim poznał drużynę. Nikt jej nie szukał.
 - **[[Mojry]] maczały palce w śmierci jego matki** — ujawniły to [[Furie]] w [[Sesja 75 - Koniec Przysięgi|sesji 75]] i nikt tego nigdy nie rozliczył. One wciąż mają Kostur [[Sydon|Sydona]].
 - **Sfinksi z [[Wyspa Czasu|Wyspy Czasu]]** wychowali go i nadal są winni przeprosiny [[Wiedźma Lotosu|Wiedźmie Lotosu]] — od tego zależy klątwa centaurów i życie [[Pholon|Pholona]].
@@ -397,7 +410,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 >
 > **[[Pythor]]** *(dopiero teraz podnosi wzrok)*: „Więc nie jesteś półbogiem. Nie ma czegoś takiego. Jesteś synem smoka i [[Ophea|Ophei]], a Ophea była najodważniejszą osobą, jaką w życiu spotkałem, i to od niej masz wszystko, co w tobie dobre."
 >
-> **[[Pythor]]**: „Wskrzesiłem cię i to mnie kosztowało tyle mocy, że już nigdy nie wróciłem do formy. Nie mówię tego, żebyś czuł się winny. Mówię, bo to jedyna rzecz, którą kiedykolwiek zrobiłem jako **ojciec**, a nie jako bóg — i chcę, żeby ci ją zaliczono właściwie."
+> **[[Pythor]]**: „Wskrzesiłem cię i to mnie kosztowało tyle mocy, że już nigdy nie wróciłem do formy. Nie mówię tego, żebyś czuł się winny. Mówię, bo to jedyna rzecz, którą kiedykolwiek zrobiłem jako **ojciec**, a nie jako bóg — i chcę, żeby zostało to policzone właściwie."
 
 *Cue: zostaw ciszę. Jeśli gracz nie odzywa się przez chwilę, dorzuć to:*
 
@@ -469,9 +482,9 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 > *Nie bierzesz go i nie oddajesz. Zamiast tego robisz coś, czego [[Mojry]] nie robią nigdy: **negocjujesz drugi raz na tej samej umowie**.*
 >
-> *Dziecko zostaje u nich, bo tylko one ogarną tę przędzę. Ale: widujesz je. Ustalacie kiedy, jak często i na jak długo, i to zostaje **wypowiedziane na głos przy świadku** — a ty już wiesz, ile w tym świecie waży wypowiedziane słowo.*
+> *Dziecko zostaje u nich, bo tylko one poradzą sobie z tą przędzą. Ale: widujesz je. Ustalacie kiedy, jak często i na jak długo, i to zostaje **wypowiedziane na głos przy świadku** — a ty już wiesz, ile w tym świecie waży wypowiedziane słowo.*
 >
-> *[[Nona]] mruży swoje jedno oko. Przez chwilę nie jesteś pewien, czy cię nie zabije. Potem mówi: „Ty jesteś pierwszy, który poprosił o więcej, zamiast prosić o mniej. Twój ojciec by tak nie umiał."*
+> *[[Nona]] mruży swoje jedyne oko. Przez chwilę nie jesteś pewien, czy cię nie zabije. Potem mówi: „Ty jesteś pierwszy, który poprosił o więcej, zamiast prosić o mniej. Twój ojciec by tak nie umiał."*
 >
 > *I zgadza się.*
 >
@@ -480,8 +493,8 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 ### Nitki w odwodzie
 
 - **[[Ophea]] jest wolna** po dekadach niewoli — a [[Hexia]] nakazała trzymać ją z dala od [[Pythor|Pythora]]. Smoczyca żyje, wciąż jest formalnie żoną Pythora i wciąż go kocha. To nie jest groźba na papierze.
-- **[[Anora]]** — przyrodnia siostra. Wszyscy w [[Estoria|Estorii]] wiedzą, że byłaby lepszą władczynią niż jej ojciec, i wszyscy udają, że tego nie mówią. Orion jest jedynym, kto może to powiedzieć głośno bez konsekwencji.
-- **[[Odkupienie Pythora]]** — włócznia wykuta razem z [[Volkan|Volkanem]], ulepszona za cenę dziecka, którym właśnie się zajmujesz. Nazwa robi się niewygodna, kiedy wiadomo, że Pythor to [[Raspytrion]]. Może wymaga nowego imienia.
+- **[[Anora]]** — przyrodnia siostra. Rządzi Estorią pewną ręką od czasu abdykacji [[Pythor|Pythora]] jeszcze przed wypłynięciem [[Ultros|Ultrosa]]. Wszyscy w mieście wiedzą, że jest znakomitą i odpowiedzialną władczynią.
+- **[[Odkupienie Pythora]]** — włócznia wykuta razem z [[Volkan|Volkanem]], ulepszona za cenę dziecka, którym Orion właśnie się zajmuje. Nazwa robi się niewygodna, kiedy wiadomo, że Pythor to [[Raspytrion]]. Może wymaga nowego imienia.
 - **Nieuznane rodzeństwo.** [[Pythor]] ma mnóstwo dzieci, których nigdy nie uznał. Orion był tym jednym, po którego wrócił. Reszta o tym wie.
 - **[[Zakon Sydona]]** — tysiąc rycerzy bez boga to największy problem powojennej [[Thylea|Thylei]]. Orion zabił ich zdrajcę [[Tarchon|Tarchona]] i jest jedynym, którego usłuchają albo znienawidzą.
 - **[[Hukar]]** czcił [[Sydon|Sydona]] i mimo to walczył za [[Mytros]]. Jego bóg nie żyje. Ktoś powinien mu za to podziękować.
@@ -492,7 +505,7 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 
 | Bohater | Wyzwolone wydarzenie | Pytanie, na które musi odpowiedzieć |
 |---|---|---|
-| [[Orestes]] | [[The Keeper|Zarządca]] i [[Nona]] licytują jego trupa; w kosie są dusze rodziców | Życie, nieśmiertelność czy dotrzymane słowo? |
+| [[Orestes]] | [[Mistrz Cieni]] i [[Nona]] licytują jego trupa — rytuał za kosę vs nić bez końca; w kosie są dusze rodziców | Życie, nieśmiertelność czy dotrzymane słowo? |
 | [[Arevon Elorrenthi\|Arevon]] | [[Antikythera]] pokazuje kurs do [[Eberron\|Eberronu]] i termin ważności | Dom czy odpowiedzialność za świat, którego nie wybrał? |
 | [[Felicjan Janus Twardowski\|Felicjan]] | Ocalali proszą o odrodzenie [[Smoczy Lordowie\|Zakonu]] — **po** scenie z [[Melania Twardowska\|Melanią]] | Czy potrafi zbudować instytucję, która się nie zepsuje? |
 | [[Versir]] | [[Versi Pierwsza\|Matka]] przysyła wizję z adresem — gwiezdny metal | Czwarty głos w rękawicy: kim wtedy zostaje? |
@@ -502,4 +515,4 @@ Każda sekcja poniżej ma **jedno wyzwolone wydarzenie**. Odpalasz je dokładnie
 - **Dwie sceny są obowiązkowe i poprzedzają wyzwolone wydarzenie**: [[Melania Twardowska|Melania]] u [[Felicjan Janus Twardowski|Felicjana]] (wybierz wariant A lub B **przed** sesją) i [[Raspytrion]] u [[Orion Xul|Oriona]].
 - **Różne rejestry**: knajpa (Orestes) → chłodna samotność (Arevon) → popiół i sala wykładowa (Felicjan) → kosmos szeptem (Versir) → niezręczna komedia (Orion). Nie zlewaj ich w jedno.
 - **Żadnych domen, żadnej apoteozy.** Boskie domeny są nieobsadzone i nikt nie wie, co się z nimi stało. Wolno zasugerować, że coś wisi w powietrzu. Nie wolno złożyć oferty.
-- **Nierozwiązane zostaje nierozwiązane**: [[Tarrasque]], szczelina do [[Morze Astralne|Morza Astralnego]], zdrada [[Mojry|Mojr]], niezdecydowana [[Yala]], [[Orestia]] na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]], zaginiona [[Versi]].
+- **Nierozwiązane zostaje nierozwiązane**: szczelina do [[Morze Astralne|Morza Astralnego]], zdrada [[Mojry|Mojr]], niezdecydowana [[Yala]], [[Orestia]] na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]], zaginiona [[Versi]].
