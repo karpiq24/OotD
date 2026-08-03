@@ -5,10 +5,10 @@ image_prompt: adult male, mythological god, imposing muscular build, tan skin, s
 
 ![Placeholder](../../../../assets/placeholder.webp)
 
-_Empyrejski syn Sydona i Vallus, niestabilny półbóg._
+_Empyrejski syn Sydona i Lutherii, niestabilny półbóg._
 
 ## Opis
-Hergeron to potężny półbóg (empyrean), syn Sydona i Vallus. Podczas wcześniejszego spotkania na Górze Volkana obserwował bohaterów w milczeniu, jednak po wchłonięciu iskier rodzeństwa stał się potężny, agresywny i niestabilny, emanując oślepiającym, złotym światłem z oczu.
+Hergeron to potężny półbóg (empyrean), syn [[Sydon|Sydona]] i [[Lutheria|Lutherii]] — dziecko Bliźniaczych Tytanów, nie [[Vallus]]. Podczas wcześniejszego spotkania na Górze Volkana obserwował bohaterów w milczeniu, jednak po wchłonięciu iskier rodzeństwa stał się potężny, agresywny i niestabilny, emanując oślepiającym, złotym światłem z oczu.
 
 ## Historia
 Nazwany po wuju, [[Hergeron Pierwszy|Hergeronie Pierwszym]]. Był jednym z pięciorga dzieci Sydona (wtedy uznawanych za dzieci Bliźniaczych Tytanów), które pojawiły się podczas rytuału na Górze Volkana.
