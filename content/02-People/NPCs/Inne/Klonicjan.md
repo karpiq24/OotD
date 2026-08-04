@@ -27,3 +27,5 @@ W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] kontynuował stero
 
 
 W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] sterując [[Kolos Pythora|Kolosem Pythora]] przebił [[Lutheria|Lutherię]] na wylot dwoma uderzeniami gigantycznej włóczni mecha-boga — ciosem, jakiego nikt inny na placu nie mógł jej zadać. Gdy bogini wciągnęła drużynę do [[Świat Snów|Świata Snów]], Klonicjan wraz z Kolosem pozostał po drugiej stronie i nie przeszedł do onirycznej domeny.
+
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] zidentyfikował [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]], odczytując z niej, że broń jest potężna, ale jej długotrwałe używanie niesie mroczne, wyniszczające skutki — przez co [[Orestes]] odłożył ją bez żalu. W bitwie z [[Kentimane|Kentimane'em]] ponownie zasiadł w sercu [[Kolos Pythora|Kolosa Pythora]] i poprowadził stalowego olbrzyma na front, dwukrotnie wbijając jego gigantyczną włócznię w bok [[Tytani|Tytana]].

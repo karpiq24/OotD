@@ -79,7 +79,7 @@
 * Podjęcie wyzwania uciszenia burzy nękającej miasto.
 
 ## Sesja 14 - Burza nad Mytros (20.05.2024)
-* Odnalezienie [[Boreas|Boreasa]] (Północnego Wiatru) i odprawienie rytuału na szczycie [[Góra Volkana|Góry Volkana]].
+* Odnalezienie [[Boreas|Boreasa]] (Północnego Wiatru) i odprawienie rytuału na szczycie [[Kuźnia Volkana|Góry Volkana]].
 * Odparcie ataku pięciu tytanów ([[Chalcia]], [[Goloron]], [[Hergeron]], [[Talieus]], [[Yala]]) i uciszenie sztormu.
 * Otrzymanie od króla mapy do legendarnego statku [[Ultros]].
 * Dowiedzenie się o starożytnej bibliotece na wyspie [[Wyspa Yonder|Yonder]].
@@ -161,7 +161,7 @@
 
 ## Sesja 29 - Rydwany i Jeden z Dziesięciu (04.11.2024)
 * Kontrowersyjne zwycięstwo [[Felicjan Janus Twardowski|Felicjana]] w wyścigu rydwanów po użyciu telekinezy przeciwko [[Democedes|Democedesowi]].
-* [[Felicjan]] wygrywa konkurs wiedzy „Enas apo Deka” prowadzony przez [[Thadeus Sznukides|Thadeusa Sznukidesa]].
+* [[Felicjan Janus Twardowski|Felicjan]] wygrywa konkurs wiedzy „Enas apo Deka” prowadzony przez [[Thadeus Sznukides|Thadeusa Sznukidesa]].
 
 ## Sesja 30 - Zakończenie Igrzysk (12.11.2024)
 * „Wielki Młyn” – brutalna finałowa walka wszystkich uczestników na arenie, zwyciężona przez [[Arevon Elorrenthi|Arevona]].
@@ -218,7 +218,7 @@
 ## Sesja 39 - Tajemnice Wyspy Złotego Serca (27.01.2025)
 * Przetrwanie niszczycielskiego sztormu wywołanego przez [[Sydon|Sydona]] dzięki mistrzowskiej nawigacji [[Arevon Elorrenthi|Arevona]].
 * Odnalezienie tajemniczego starca [[Aegis|Aegisa]] w truchle wieloryba.
-* Rejs na [[Wyspa Złotego Serca]] i zdobycie [[Złote Owoce|Złotych Owoców]] z [[Drzewo Serca]].
+* Rejs na [[Wyspa Złotego Serca]] i zdobycie [[Zlote Owoce|Złotych Owoców]] z [[Drzewo Serca]].
 * Doświadczenie kosmologicznej wizji o powstaniu Thylei, uwięzieniu tytanów przez [[Sydon|Sydona]] i [[Lutheria|Lutherię]] oraz rozbiciu duszy [[Versi]].
 * [[Orestes]] oswaja pegaza.
 
@@ -329,7 +329,7 @@
 * Przełamanie pętli czasu, demaskacja zdrajcy [[Noland|Nolanda]] i ocalenie sfinksa [[Kartos|Kartosa]].
 * Zwycięska bitwa w [[Latająca Forteca Smoczych Lordów|Latającej Fortecy Smoczych Lordów]].
 * **Śmierć tytana [[Talieus|Talieusa]]** zgładzonego przez [[Orion Xul|Oriona]].
-* Znalezienie jaja smoka [[Paradox|Paradoxa]].
+* Znalezienie jaja smoka [[Paradoks|Paradoxa]].
 
 ## Sesja 60 - Typhon: Brama do Hadesu (27.10.2025)
 * Przejęcie kontroli nad latającą fortecą.
@@ -517,3 +517,22 @@
 * **Śmierć Lutherii** — Bogini dobrowolnie przerywa walkę, siada na podeście i żegna bohaterów („No to była dobra partia. Na pewno was wszystkich zapamiętam"). [[Orestes]] chybia pierwszym ciosem, po czym drugim cięciem [[Topór Xandera|Topora Xandera]] **odcina jej głowę**. Ciało rozsypuje się w złoty pył, zostawiając jedynie [[Kryształowa Kosa Lutherii|kryształową kosę]].
 * **Rozwianie klątwy** — Magia bogini rozpływa się nad [[Mytros]]: zwierzęta odzyskują ludzkie kształty, szaleńcy zmysły, a mgła znika.
 * **Erupcja wulkanu (cliffhanger)** — Nim triumf zdąży wybrzmieć, horyzont rozdziera potężny huk erupcji — zapowiedź nadejścia sturękiego [[Kentimane|Kentimane'a]].
+
+## Sesja 83 - Bitwa o Mytros: Odejście Sturękiego (03.08.2026)
+* **Łaska Mytros i godzina oddechu** — Po śmierci [[Lutheria|Lutherii]] na [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] spływa łaska bogini [[Mytros (Bogini)|Mytros]]. [[Arkyrania]] pierwsza wypatruje nadchodzącego od wschodu [[Kentimane|Kentimane'a]] i ocenia, że mimo ogromu jest powolny — zostaje im może godzina.
+* **Identyfikacja kosy** — [[Klonicjan]] odczytuje z [[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]], że broń jest potężna, ale jej długotrwałe używanie niesie wyniszczające skutki; [[Orestes]] odkłada ją bez żalu i zostaje przy [[Topór Xandera|Toporze Xandera]].
+* **Trzy drogi Yali** — [[Yala]] przylatuje do [[Mytros]] i staje po stronie miasta przeciw własnemu ojcu, wskazując trzy wyjścia: poddać się, kruszyć [[Kentimane|Sturękiego]] siłą wszystkich sojuszników, albo okazać mu potęgę i godnie rozkazać mu odejść.
+* **Mowa Felicjana** — [[Felicjan Janus Twardowski|Felicjan]] przemawia do garstki ocalałych; zamiast uciekać, mieszkańcy zostają, schodzą się ochotnicy, a rozproszone oddziały zbierają się w [[Latająca Forteca Smoczych Lordów|Latającej Fortecy Smoczych Lordów]].
+* **Nadejście Sturękiego** — Bitwa rozgrywa się nad polami na wschód od [[Mytros]]. Drużyna walczy ze smoczych grzbietów, wspierana przez [[Kolos Pythora|Kolosa Pythora]] pilotowanego przez [[Klonicjan|Klonicjana]], złotego smoka [[Helios|Heliosa]] i [[Yala|Yalę]].
+* **Trzech w trzewiach Tytana** — [[Kentimane]] połyka kolejno [[Versir|Versira]], [[Orion Xul|Oriona]] i [[Arevon Elorrenthi|Arevona]]. [[Versir]] tnie wnętrzności [[Zguba Tytanów|Zgubą Tytanów]] i teleportuje się do nieprzytomnego [[Orion Xul|Oriona]], by wlać mu miksturę leczącą, zamiast uciekać samemu.
+* **Żniwo stu ramion** — Sto kamiennych ramion pustoszy pole bitwy: [[Yala]] traci przytomność w miażdżącym uścisku i zostaje wleczona za [[Kentimane|Tytanem]], [[Helios]] zostaje przygwożdżony, a [[Arkyrania]] ledwo utrzymuje się w powietrzu.
+* **Miecz losu i nieudane wygnanie** — [[Felicjan Janus Twardowski|Felicjan]] zawiesza nad [[Kentimane|Kentimane'em]] widmowy miecz losu z wykrzyczanym warunkiem, a następnie próbuje wygnać [[Tytani|Tytana]] z tego świata — magia rozpływa się po nim jak fala na skale.
+* **Amok minotaura** — [[Orestes]] wykrzykuje [[Kentimane|Kentimane'owi]] w twarz, że to on zabił [[Sydon|Sydona]] i [[Lutheria|Lutherię]]; groźba nie robi wrażenia, ale jedna z pięćdziesięciu głów odwraca się ku niemu.
+* **Wymiotujący Tytan** — [[Arevon Elorrenthi|Arevon]] uwalnia z wnętrza [[Tytani|Tytana]] falę czystej siły; [[Kentimane]] zwymiotował i wyrzucił druida z powrotem na pola.
+* **Pięść, która się zatrzymała** — [[Versir]] wyrywa siebie i [[Orion Xul|Oriona]] z trzewi, staje przed obliczem [[Kentimane|Kentimane'a]] ze [[Zlote Owoce|złotym owocem]] i w imię woli [[Thylea|Thylei]] rozkazuje mu odejść. Pięść wielkości okrętu zatrzymuje się o włos nad jego głową. **Tytan uznaje w bohaterach dzieci [[Thylea|Thylei]], które się nie ugięły, i bez słowa odchodzi na wschód ku morzu** — bitwa o [[Mytros]] dobiega końca.
+* **Bilans wojny** — [[Mytros]] ocalało: z około pięćdziesięciu tysięcy mieszkańców zginęło ponad trzy tysiące, prawdopodobnie najlepszy wynik bitwy przeciwko [[Tytani|Tytanom]] w dziejach [[Kontynent Thylea|Thylei]]. Wśród poległych [[Darien]], królowa Amazonek. Wylew lawy poszedł na północ i oszczędził miasto.
+* **Narodziny legendy** — [[Brax]] na grzbiecie [[Nessa|Nessy]] dopada [[Orestes|Orestesa]] z już podkoloryzowaną opowieścią o śmierci [[Lutheria|Lutherii]]; minotaur jej nie prostuje, tylko dorzuca własne przechwałki.
+* **Igrzyska pogrzebowe** — Wobec braku drewna na stosy i kapłanów przez dwadzieścia dni trwają igrzyska pogrzebowe, a [[Kyrah]] w ludzkiej postaci śpiewa rosnącą z tygodnia na tydzień pieśń o odysei bohaterów.
+* **Kult Bohaterów Przepowiedni** — W [[Mytros]], [[Estoria|Estorii]] i okolicznych osadach wyrastają pomniki i kapliczki; pierwsza, poświęcona [[Orestes|Orestesowi]], staje na [[Targ Minotaurów|Targu Minotaurów]] cztery tygodnie po bitwie.
+* **Spłacony dług** — [[Mistrz Cieni]] zjawia się w prowizorycznym [[Super Bar|Super Barze]] i odbiera [[Traktat o Prawach i Zobowiązaniach Krwi]] ze skarbca [[Praxys]], nie wyjaśniając, co czyni księgę tak cenną.
+* **Oferta za powrót do życia** — [[Mistrz Cieni]] proponuje [[Orestes|Orestesowi]] powrót do świata żywych w zamian za [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]] dostarczoną do [[Arezja|Arezji]] (wystarczą odłamki, byle komplet); oferta ważna przez rok. [[Vallus]] przyznaje, że poza tym pomóc mogłyby chyba tylko [[Mojry]].

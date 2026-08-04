@@ -20,3 +20,5 @@ W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] leżał w stanie *near-death* na
 W [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa]], po wyleczeniu ran potężną magią Arevona i Versira, Sybolkorax wraz z pozostałymi sprzymierzonymi smokami przetransportował bohaterów drogą powietrzną nad zrujnowanym miastem do portu w Mytros, umożliwiając im szybkie dotarcie na szczyt monumentu Pythora w celu jego aktywacji.
 
 W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] służył jako wierzchowiec [[Orestes|Orestesa]]. Został unieruchomiony przez olbrzymiego [[Gyganie|Gygana]], który pochwycił jego ogon w miażdżący uścisk.
+
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] wraz z [[Arkyrania|Arkyranią]], [[Tysophale]] i [[Raspytrion|Raspytrionem]] rozpostarł skrzydła nad ruinami [[Mytros]], niosąc bohaterów do ostatniego starcia z [[Kentimane|Kentimane'em]].

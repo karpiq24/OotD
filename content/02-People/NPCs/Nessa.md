@@ -17,3 +17,5 @@ Wydaje się być świadoma swojego uroku i próbuje go wykorzystać, by znaleź�
 
 ## Historia
 W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] spotkała bohaterów na [[Wyspa Skorpiona]]. Pomogła im w walce z fioletowym robakiem. Szuka partnera, gdyż wkrótce osiągnie pełnoletność, a jeśli do tego czasu nie znajdzie "jeźdźca", grozi jej przemiana w wielkiego skorpiona (klątwa lub natura centaurów z tej wyspy). Zainteresował się nią [[Brax]].
+
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] pojawiła się w [[Mytros]] tuż po odejściu [[Kentimane|Kentimane'a]], niosąc na grzbiecie [[Brax|Braxa]] przez zawalone ulice miasta — obnażona, z gołym torsem, sadząca przez rumowisko wielkimi skokami.

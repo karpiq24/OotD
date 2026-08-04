@@ -31,7 +31,7 @@ Ostatecznie [[Bilatro]], przeszukała [[Wielka Księga Zasad|Wielką Księgę Za
 
 ![Smocze jajo](../assets/sessions/059/059_egg.webp)
 
-Bohaterowie skierowali się z powrotem do Przejścia Przez Czas, gdzie zwykle napotykali smoka [[Paradox|Paradoxa]], tym razem jednak natknęli się na smocze jajo ([[Paradox]]). Zastanawiając się chwilę nad Konsekwencjami, [[Felicjan Janus Twardowski|Felicjan]] zdecydował się jednak zabrać jajo na [[Ultros]]. Rozległ się kolejny ryk, a bohaterowie znaleźli się ponownie na statku. Ostatnie wydarzenia były w ich umyśłach, ale widoczne jak przez mgłe, mimo to byli pewni, że osiągnęli swój cel i mogą wyruszyć w innym kierunku. Niedługo potem na statku pojawiła się przed nimi półmaterialna postać [[Wiedźma Lotosu|Wiedźmy Lotosu]], która podziękowała im za załatwienie przeprosin, i zgodnie z umową zdjęła klątwę z centaurów z [[Wyspa Skorpiona|Wyspy Skorpiona]].
+Bohaterowie skierowali się z powrotem do Przejścia Przez Czas, gdzie zwykle napotykali smoka [[Paradoks|Paradoxa]], tym razem jednak natknęli się na smocze jajo ([[Paradoks|Paradoxa]]). Zastanawiając się chwilę nad Konsekwencjami, [[Felicjan Janus Twardowski|Felicjan]] zdecydował się jednak zabrać jajo na [[Ultros]]. Rozległ się kolejny ryk, a bohaterowie znaleźli się ponownie na statku. Ostatnie wydarzenia były w ich umyśłach, ale widoczne jak przez mgłe, mimo to byli pewni, że osiągnęli swój cel i mogą wyruszyć w innym kierunku. Niedługo potem na statku pojawiła się przed nimi półmaterialna postać [[Wiedźma Lotosu|Wiedźmy Lotosu]], która podziękowała im za załatwienie przeprosin, i zgodnie z umową zdjęła klątwę z centaurów z [[Wyspa Skorpiona|Wyspy Skorpiona]].
 
 ![Kentimane](../assets/sessions/059/059_kentimane.webp)
 
@@ -90,7 +90,7 @@ Kiedy truchło ostatniego Blemysa z głuchym łoskotem uderzyło o podłogę, a 
 ## Przedmioty
 
 * [[Wielka Księga Zasad]]
-* Smocze jajo [[Paradox|Paradoxa]]
+* Smocze jajo [[Paradoks|Paradoxa]]
 
 ## Filmy
 ![Fortress](../assets/sessions/059/059_fortress.webm)

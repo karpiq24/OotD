@@ -28,3 +28,4 @@ title: Frakcje
 - [[Zakon Sydona]]
 - [[Łamacze Fal]]
 - [[Egida Mytros]]
+- [[Przeklęte Plemię]]

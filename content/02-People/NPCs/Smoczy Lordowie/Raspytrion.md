@@ -19,3 +19,4 @@ W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] wraz z [[Tysophale]] zanurkował
 
 W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] służył jako wierzchowiec [[Orion Xul|Oriona Xula]]. Został dotkliwie ranny uderzeniem glewii [[Sydon|Sydona]], lecz utrzymał się w powietrzu.
 
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] ponownie niósł [[Orion Xul|Oriona Xula]] do boju, tym razem przeciw [[Kentimane|Kentimane'owi]]. Jedno z uderzeń [[Tytani|Tytana]] strąciło go z nieba — zwiotczał w locie i runął nieprzytomny, a [[Orion Xul|Orion]] spadł razem z nim.

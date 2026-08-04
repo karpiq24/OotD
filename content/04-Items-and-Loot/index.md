@@ -42,3 +42,4 @@ title: Przedmioty i Łupy
 - [[Odkupienie Pythora]]
 - [[Kryształowa Kosa Lutherii]]
 - [[Pierścień Orestesa]]
+- [[Oszczepy Błyskawic]]

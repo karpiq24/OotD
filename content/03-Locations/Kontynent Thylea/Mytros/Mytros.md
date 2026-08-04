@@ -60,3 +60,5 @@ Prawa w Mytros są surowe. Długi spłaca się pracą (1 dzień za 1 sztukę zł
 
 ## Historia
 W [[Sesja 13 - Wezwani przez Króla]] miasto nawiedziła potężna burza. Została ona zażegnana w [[Sesja 14 - Burza nad Mytros]] dzięki pomocy [[Boreas|Boreasa]] i drużyny.
+
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] miasto przetrwało wojnę. [[Kentimane]] nadszedł od wschodu na pola pod miastem i został odesłany, a wylew lawy poszedł na północ, wypalając pola i zabudowania, lecz oszczędzając samo [[Mytros]]. Z około pięćdziesięciu tysięcy mieszkańców zginęło ponad trzy tysiące — prawdopodobnie najlepszy wynik bitwy przeciwko [[Tytani|Tytanom]] w dziejach [[Kontynent Thylea|Thylei]]. Zabrakło drewna na stosy i kapłanów do obrzędów, więc żałobę odprawiono inaczej: przez dwadzieścia dni trwały igrzyska pogrzebowe — biegi, zapasy i wyścigi rydwanów po odgruzowanym odcinku głównej drogi — a [[Kyrah]] w ludzkiej postaci śpiewała o czynach obrońców. Wkrótce potem w mieście zaczęły wyrastać pomniki i kapliczki [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].
