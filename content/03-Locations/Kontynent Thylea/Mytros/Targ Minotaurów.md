@@ -12,3 +12,5 @@ Targ Minotaurów (M21) to plac w dzielnicy [[Stygian Row]] wypełniony brązowym
 W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] [[Lutheria]] urządziła tu makabryczną ucztę, spowijając plac nienaturalną mgłą i doprowadzając mieszkańców do obłędu i ludożerstwa.
 
 W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] targ stał się miejscem **śmierci [[Lutheria|Lutherii]]**. To stąd bogini wciągnęła [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] do [[Świat Snów|Świata Snów]] i tu wszyscy wrócili, gdy jej domena się załamała. Na bruku targowiska [[Orestes]] odciął jej głowę [[Topór Xandera|Toporem Xandera]], a ciało bogini rozsypało się w złoty pył.
+
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] w bocznym załomie targu stanęła pierwsza kapliczka poświęcona [[Orestes|Orestesowi]] — zbita z desek, z figurką z kawałka metalu dzierżącą topór, z kuflem postawionym przed nią. Cztery tygodnie po bitwie był to zalążek kultu [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].

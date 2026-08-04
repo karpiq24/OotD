@@ -19,7 +19,7 @@ Z nowymi skarbami, bohaterowie obrali kurs na kolejną konstelację – Kowala. 
 
 ![Smok, Strażnik Przejścia](../assets/sessions/058/058_dragon.webp)
 
-Przybycie na wyspę było przeżyciem surrealistnym. Czas wokół statku zaczął płynąć w zawrotnym tempie, a niewidzialna siła wciągnęła [[Ultros|Ultrosa]] do przystani z lewitującego kamienia, gdzie woda w fontannie płynęła do góry. Na placu powitała ich Gynosphinx [[Kallisti]], dawna opiekunka [[Versir|Versira]]. Jej słowa były zagadką: „On nadchodzi. Trzy ryki ogłoszą jego sąd. Trzy i nie więcej. To jest czas, który wam przeznaczył. Wykorzystajcie go mądrze.” Przejście przez kolejne komnaty okazało się próbą; magia wyspy zakrzywiła czasoprzestrzeń – [[Orestes]] postarzał się o cztery lata. W końcu dotarli do rozdroża, którego strzegł dziwaczny smok [[Paradox]]. Strażnik, zanim pozwolił im przejść dalej, zażądał rozwiązania trzech zagadek. Dzięki połączonej inteligencji drużyny, zdołali odpowiedzieć poprawnie. Gdy tylko ostatnia odpowiedź padła, wyspą wstrząsnął potężny, nienaturalny ryk. Był to pierwszy z trzech zapowiedzianych przez Sfinksa.
+Przybycie na wyspę było przeżyciem surrealistnym. Czas wokół statku zaczął płynąć w zawrotnym tempie, a niewidzialna siła wciągnęła [[Ultros|Ultrosa]] do przystani z lewitującego kamienia, gdzie woda w fontannie płynęła do góry. Na placu powitała ich Gynosphinx [[Kallisti]], dawna opiekunka [[Versir|Versira]]. Jej słowa były zagadką: „On nadchodzi. Trzy ryki ogłoszą jego sąd. Trzy i nie więcej. To jest czas, który wam przeznaczył. Wykorzystajcie go mądrze.” Przejście przez kolejne komnaty okazało się próbą; magia wyspy zakrzywiła czasoprzestrzeń – [[Orestes]] postarzał się o cztery lata. W końcu dotarli do rozdroża, którego strzegł dziwaczny smok [[Paradoks|Paradoxa]]. Strażnik, zanim pozwolił im przejść dalej, zażądał rozwiązania trzech zagadek. Dzięki połączonej inteligencji drużyny, zdołali odpowiedzieć poprawnie. Gdy tylko ostatnia odpowiedź padła, wyspą wstrząsnął potężny, nienaturalny ryk. Był to pierwszy z trzech zapowiedzianych przez Sfinksa.
 
 ![Stone Tablet](../assets/sessions/058/058_tablet.webp)
 
@@ -59,7 +59,7 @@ Niepewni, co przyniesie im nowa pętla czasowa, bohaterowie udali się następni
 * [[Arges]] (dowódca cyklopów)
 * [[Tolyphemus]] (ślepy cyklop)
 * [[Kallisti]] (Gynosphinx, dawna opiekunka [[Versir|Versira]])
-* [[Paradox]] (strażnik zagadek)
+* [[Paradoks|Paradoxa]] (strażnik zagadek)
 * [[Kartos]] (oskarżony androsfinks)
 * [[Noland]] (oskarżyciel, kriosfinks)
 * [[Waywa]] (zakochana w [[Kartos|Kartosie]] gynosphinx)

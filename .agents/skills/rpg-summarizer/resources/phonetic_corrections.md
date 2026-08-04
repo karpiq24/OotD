@@ -34,6 +34,23 @@ Lista rośnie po każdej sesji — dopisuj nowe pomyłki, gdy je zauważysz.
 | "kosa" | Arevon nie ma kosy. Sprawdź czy to nie zaklęcie typu Spirit Guardians lub Spiritual Weapon. |
 | "stary las" | **Stary Las** (Oldwood) — kanoniczna nazwa lokacji |
 
+## Cytaty z `quotes.json` też są surowym ASR
+
+`quotes.json` jest wklejany do sekcji `Cytaty` "verbatim", ale to nadal
+transkrypcja głosowa — regularnie gubi końcówki i myli podobnie brzmiące słowa.
+**Przed wklejeniem sprawdź każdy cytat pod kątem polskiej gramatyki**: jeśli
+zdanie jest niegramatyczne albo bez sensu, popraw oczywistą pomyłkę ASR.
+Nigdy nie zmyślaj brzmienia cytatu — poprawiaj tylko to, co ewidentnie jest
+przesłyszeniem.
+
+Przykłady z sesji 83:
+
+| W `quotes.json` | Poprawnie |
+|-----------------|-----------|
+| "Nabiegłbym się piwa" | "Napiłbym się piwa" |
+| "Zajebałem twoje dzieci, zajebili ciebie" | "Zajebałem twoje dzieci, zajebie i ciebie" |
+| "ja ją zrobiłem tak do końca" | "ja ją zabiłem tak do końca" |
+
 ## Imiona graczy (IGNORUJ w narracji)
 
 Te imiona pojawiają się przy stole, ale **nie należą do świata gry**:

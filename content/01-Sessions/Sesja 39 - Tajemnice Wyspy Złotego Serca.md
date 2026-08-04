@@ -17,7 +17,7 @@ Gdy nastała głęboka noc, załoga [[Ultros|Ultrosa]] mogła wreszcie odetchną
 
 ![Laios](../assets/sessions/039/039_laios.webp)
 
-Bohaterowie kontynuowali podróż. Kolejnego dnia na horyzoncie pojawił się mały stateczek, a jego sternik poprosił o pomoc w zdobyciu owoców z [[Drzewo Serca|Drzewa Serca]], które miały uzdrowić jego chorą żonę. W końcu dotarli do [[Wyspa Złotego Serca|Wyspy Złotego Serca]], gdzie powitało ich stado jeleni i bujna roślinność. Podążając za złotym baranem, bohaterowie dotarli do polany, gdzie zostali otoczeni przez lwy, w tym jednego złotego. Po zaciętej walce, bohaterowie mogli kontynuować swoją podróż w kierunku [[Drzewo Serca|Drzewa Serca]]. W końcu dotarli do celu i ujrzeli ogromne drzewo, otoczone kamiennymi dłońmi i zwieńczone platformą, wokół której rosły [[Złote Owoce|złote owoce]].
+Bohaterowie kontynuowali podróż. Kolejnego dnia na horyzoncie pojawił się mały stateczek, a jego sternik poprosił o pomoc w zdobyciu owoców z [[Drzewo Serca|Drzewa Serca]], które miały uzdrowić jego chorą żonę. W końcu dotarli do [[Wyspa Złotego Serca|Wyspy Złotego Serca]], gdzie powitało ich stado jeleni i bujna roślinność. Podążając za złotym baranem, bohaterowie dotarli do polany, gdzie zostali otoczeni przez lwy, w tym jednego złotego. Po zaciętej walce, bohaterowie mogli kontynuować swoją podróż w kierunku [[Drzewo Serca|Drzewa Serca]]. W końcu dotarli do celu i ujrzeli ogromne drzewo, otoczone kamiennymi dłońmi i zwieńczone platformą, wokół której rosły [[Zlote Owoce|złote owoce]].
 
 ![Owoce Drzewa Serca](../assets/sessions/039/039_fruits.webp)
 
@@ -29,7 +29,7 @@ Początkowo [[Tytani]] żyli w harmonii, jednak z czasem samotność skłoniła 
 
 ![Orestes na Pegazie](../assets/sessions/039/039_orestes.webp)
 
-Po wizji, bohaterowie zerwali [[Złote Owoce|złote owoce]] i, ku ich zaskoczeniu, na pobliskiej gałęzi wylądował pegaz. [[Orestes]], z pomocą piwa i swojego uroku, zdołał przekonać do siebie latającego konia i dosiąść go. Po krótkim locie, pegaz odleciał, a bohaterowie, z pomocą magii [[Felicjan Janus Twardowski|Felicjana]], bezpiecznie wrócili na statek, gdzie rozpoczęli dyskusję nad dalszymi krokami. Ostatecznie, po naradzie, bohaterowie zdecydowali się obrać kurs na [[Wyspa Skorpiona|Wyspę Skorpiona]], gdzie, jak się dowiedzieli, mieszkała wiedźma, która mogła posiadać cenne informacje dla drużyny.
+Po wizji, bohaterowie zerwali [[Zlote Owoce|złote owoce]] i, ku ich zaskoczeniu, na pobliskiej gałęzi wylądował pegaz. [[Orestes]], z pomocą piwa i swojego uroku, zdołał przekonać do siebie latającego konia i dosiąść go. Po krótkim locie, pegaz odleciał, a bohaterowie, z pomocą magii [[Felicjan Janus Twardowski|Felicjana]], bezpiecznie wrócili na statek, gdzie rozpoczęli dyskusję nad dalszymi krokami. Ostatecznie, po naradzie, bohaterowie zdecydowali się obrać kurs na [[Wyspa Skorpiona|Wyspę Skorpiona]], gdzie, jak się dowiedzieli, mieszkała wiedźma, która mogła posiadać cenne informacje dla drużyny.
 
 ## Kluczowe wydarzenia / decyzje
 
@@ -51,5 +51,5 @@ Po wizji, bohaterowie zerwali [[Złote Owoce|złote owoce]] i, ku ich zaskoczeni
 ## Przedmioty
 
 * Zbroja znaleziona w ciele wieloryba
-* [[Złote Owoce|Złote owoce z Drzewa Serca]]
+* [[Zlote Owoce|Złote owoce z Drzewa Serca]]
 * [[Skora Zlotego Lwa|Skóra złotego lwa]]

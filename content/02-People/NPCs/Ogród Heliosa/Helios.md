@@ -16,3 +16,5 @@ Dla swoich wyznawców, takich jak [[Euria]], Helios ucieleśnia perfekcyjne pię
 Euria, Jesienny Wiatr, pod koniec swojej podróży odnalazła ukrytą świątynię Heliosa. Po spotkaniu ze złotym gryfem, który był jego wysłannikiem, doznała epifanii i uznała Heliosa za jedynego boga godnego jej oddania. Od tego czasu pozostaje w jego świątyni, odrzucając dawne powiązania z innymi bóstwami Thylei.
 
 W [[Sesja 57 - Ogród Heliosa]] przyjął [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] w swoim [[Ogród Heliosa|Ogrodzie]] na [[Zapomniane Morze|Zapomnianym Morzu]]. Wyznał, że zawarł pakt z [[Sydon|Sydonem]], obiecując mu armię cyklopów. Następnie przybrał postać potężnego złotego smoka i zaatakował gości. Został powstrzymany przez [[Megara|Megarę]] i Furie, które ukarały go za złamanie praw gościnności i zabrały na wygnanie.
+
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] walczył po stronie obrońców [[Mytros]], krążąc nad polem bitwy w postaci złotego smoka i wypuszczając z paszczy fale ognia na [[Kentimane|Kentimane'a]]. Ramiona [[Tytani|Tytana]] oplotły go i przygwoździły w uścisku, z którego nie zdołał się wyrwać do końca starcia.

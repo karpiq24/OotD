@@ -25,6 +25,8 @@ Te reguły są twarde. Lepiej napisać mniej i ogólniej, niż zmyślić konkret
 7. **Nie wymyślaj NPC.** Jeśli imię nie jest na liście kanonicznej ani nie pada wielokrotnie w jednoznacznym kontekście — to prawdopodobnie szum z czatu lub przejęzyczenie. Pomiń.
 8. **Sprawdzaj kierunek czarów i akcji.** Kto rzuca, kto jest celem? Czary typu "przekierowanie / counterspell / shield" zmieniają tę dyrekcję — śledź ją uważnie.
 9. **Nie używaj kwiecistych metafor, których nie rozumiesz.** "Struna katapulty" — katapulty nie mają strun. "Klątwa stoczyła się" — to nie była klątwa. Jeśli nie masz konkretnego obrazu w głowie, użyj prostszego sformułowania.
+10. **Nie wymyślaj miejsca akcji ani terenu.** Jeśli transkrypcja nie nazywa wprost lokacji walki, nie osadzaj jej w żadnej znanej lokacji z wiki tylko dlatego, że leży blisko. Pisz ogólnie ("pola pod miastem", "przedpole"). Nigdy nie buduj na zmyślonym terenie opisów sensorycznych ani nagłówków sekcji.
+11. **Nie dopisuj skali ani porównań, których nikt nie podał.** Rozmiar rany, zasięg ziejącego ognia, "broń wraca jak żywa" — jeśli nie padło przy stole, opisz efekt bez wymiarów i bez metafory.
 
 # Narracja vs Mechanika
 

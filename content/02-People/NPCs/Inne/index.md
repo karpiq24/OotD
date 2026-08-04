@@ -37,3 +37,4 @@ title: Inne
 - [[Boi]]
 - [[Klonicjan]]
 - [[Lewiatan]]
+- [[Bioautomaton Soldier]]

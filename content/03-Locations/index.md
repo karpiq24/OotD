@@ -14,3 +14,7 @@ title: Miejsca
 - [[Morze Astralne]]
 - [[Tranquility]]
 - [[Świat Snów]]
+- [[Styks]]
+- [[Wielki Żółw]]
+- [[Pola Elizejskie]]
+- [[Wędrowny Bazar Shazuma]]

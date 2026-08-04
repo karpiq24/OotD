@@ -30,3 +30,5 @@ Obecnie statkiem-bazą drużyny jest [[Ultros]].
 
 ## Historia
 Grupa zawiązała się w [[Mytros]] przed wyrocznią, która wskazała ich jako herosów przeznaczenia. Od tamtego czasu zdobyli [[Ultros]], ocalili [[Estoria|Estorię]] i przywrócili prawowitą władzę na [[Themis]].
+
+W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] zakończyli Bitwę o [[Mytros]], odsyłając [[Kentimane|Kentimane'a]] bez zabijania go. Po wojnie wdzięczność miasta przerodziła się w kult: w [[Mytros]], [[Estoria|Estorii]] i okolicznych osadach zaczęły wyrastać pomniki i kapliczki poświęcone całej piątce — po jakieś trzy na każdego z bohaterów. Ludzie zostawiali przed nimi monety, wino i prośby zapisane na pergaminach, prosząc o rzeczy, których żaden z bohaterów nigdy nie obiecał. [[Kyrah]] śpiewała podczas dwudziestodniowych igrzysk pogrzebowych pieśń o ich odysei, rosnącą z tygodnia na tydzień.
