@@ -1,5 +1,6 @@
 ---
 title: Kentimane
+image_prompt: colossal mythical Hecatoncheires titan, monstrous giant, hulking grotesque humanoid build, massive bulbous upper torso formed from fused heads, fifty gaping dark maws with sharp teeth, dozens of small glowing eyes embedded across the chest and visage, hundreds of intertwined muscular arms forming multi-limbed shoulders and massive limbs, clusters of reaching hands and elongated jointed fingers cascading down, pale ash-grey rubbery skin, weathered stony vascular texture, exposed muscle fibers, primordial eldritch titan aesthetic, dark fantasy creature design
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
