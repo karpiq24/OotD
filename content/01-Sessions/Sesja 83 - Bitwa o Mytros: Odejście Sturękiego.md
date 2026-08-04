@@ -5,14 +5,8 @@ title: "Sesja 83: Bitwa o Mytros: Odejście Sturękiego"
 
 ## Podsumowanie
 
-![Sturęki nadchodzi na Mytros](../assets/sessions/083/083_theme_hundred_handed.webp)
-[Prompt](../assets/sessions/083/083_theme_hundred_handed.txt)
-
 ![Pięść, która się zatrzymała](../assets/sessions/083/083_theme_fist_that_stopped.webp)
 [Prompt](../assets/sessions/083/083_theme_fist_that_stopped.txt)
-
-![Narodziny kultu Bohaterów](../assets/sessions/083/083_theme_birth_of_a_cult.webp)
-[Prompt](../assets/sessions/083/083_theme_birth_of_a_cult.txt)
 
 ### Łaska Mytros i Wezwanie Felicjana
 
@@ -97,6 +91,9 @@ Pięść wielkości okrętu, cios, który zmiażdżyłby każdego z bohaterów, 
 
 ![Igrzyska pogrzebowe i pieśń Kyrah](../assets/sessions/083/083_sec8_funeral_games.webp)
 [Prompt](../assets/sessions/083/083_sec8_funeral_games.txt)
+
+![Narodziny kultu Bohaterów](../assets/sessions/083/083_theme_birth_of_a_cult.webp)
+[Prompt](../assets/sessions/083/083_theme_birth_of_a_cult.txt)
 
 Po raz pierwszy od wielu godzin nad **[[Mytros]]** zapadła prawdziwa cisza — nie cisza grozy, lecz cisza po burzy. Gdzieś z dymu dobiegł dźwięk, którego nikt się już nie spodziewał: ktoś się roześmiał. Nie był to obłąkany chichot narzucony magią **[[Lutheria|Lutherii]]**, tylko zwyczajny, ludzki śmiech ulgi. Część ocalałych wciąż wypatrywała następnego zagrożenia, ale następne zagrożenie nie nadeszło. Wylew lawy udało się opanować bez udziału bohaterów — strumień poszedł na północ, wypalił pola i zabudowania, lecz samo miasto nie spłonęło. Przed wojną **[[Mytros]]** liczyło jakieś pięćdziesiąt tysięcy dusz; zginęło ponad trzy tysiące. Był to prawdopodobnie najlepszy wynik bitwy przeciwko **[[Tytani|Tytanom]]** w dziejach **[[Kontynent Thylea|Thylei]]** — a i tak każdy z tych trzech tysięcy miał imię i na każdego z nich ktoś czekał. Wśród nich była **[[Darien]]** — prawowita królowa [[Amazonki|Amazonek]], która przypłynęła ze swoimi Lwicami bronić cudzego miasta i poległa na płonącym nabrzeżu doków, prowadząc łuczniczki, jeszcze zanim zapadł zmierzch pierwszego i jedynego dnia tej wojny. Panowała ledwie kilka miesięcy.
 
