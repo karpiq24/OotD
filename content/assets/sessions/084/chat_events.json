@@ -1,0 +1,38 @@
+[
+  {
+    "offset_secs": -644.4609999656677,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Performance (+4) 19 1d20 + 4 1d20 15 | rzuty: = 19, 1d20 + 4, 1d20"
+  },
+  {
+    "offset_secs": 5753.213000059128,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Persuasion (-1) 1 1d20 - 1 2 2 11 1d20 - 1 12 12 | rzuty: 1d20 - 1, 1d20 - 1"
+  },
+  {
+    "offset_secs": 5791.753000020981,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Eye of the Galactic Dragon (d8) 6 1d8 6 6 | rzuty: = 6, 1d8"
+  },
+  {
+    "offset_secs": 10698.37299990654,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "2"
+  },
+  {
+    "offset_secs": 16167.411999940872,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "51"
+  },
+  {
+    "offset_secs": 16185.690999984741,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "5"
+  }
+]
