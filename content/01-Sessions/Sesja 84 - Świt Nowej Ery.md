@@ -5,13 +5,13 @@ title: "Sesja 84: Świt Nowej Ery"
 
 ## Podsumowanie
 
-![Rozbicie Kryształowej Kosy](../assets/sessions/084/084_theme_shattering_the_scythe.webp)
-[Prompt](../assets/sessions/084/084_theme_shattering_the_scythe.txt)
+![Toast Zwycięstwa w Porcie Mytros (Wszyscy Bohaterowie)](../assets/sessions/084/084_theme_option3_harbor_toast.webp)
+[Prompt](../assets/sessions/084/084_theme_option3_harbor_toast.txt)
 
 ### Smak Ciepłego Piwa
 
-![Ciepłe piwo pod Świątynią Cieni](../assets/sessions/084/084_sec1_taste_of_warm_beer.webp)
-[Prompt](../assets/sessions/084/084_sec1_taste_of_warm_beer.txt)
+![Rozbita Kosa Lutherii i Świt Odrodzenia](../assets/sessions/084/084_theme_option4_shattered_scythe_dawn.webp)
+[Prompt](../assets/sessions/084/084_theme_option4_shattered_scythe_dawn.txt)
 
 Pierwsze dni po zakończonej bitwie o **[[Mytros]]** nie przyniosły bohaterom spokoju, lecz naradę, która ciągnęła się z uporem godnym rady starszych. **[[Orestes]]** — wciąż zamknięty w martwym, powoli obumierającym ciele — podniósł kwestię, która paliła go najbardziej: rozbicie **[[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]]** i odzyskanie żywego cielska. Minotaur nie owijał w bawełnę, nazywając zmarłą Tytankę słowami znacznie mniej dwornymi niż jej tytuły, a jego argumentacja była równie prosta co skuteczna: skoro **[[Mistrz Cieni]]** potrafi przeprowadzić odpowiedni rytuał, to warto oddać mu odłamki, a gdyby kiedykolwiek okazał się zagrożeniem — są przecież **[[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]]** i poradzili sobie z gorszymi.
 
@@ -33,6 +33,9 @@ Skoro jednak nikt nie potrafił wskazać lepszego wyjścia, ustalono plan awaryj
 
 Zanim **[[Orestes]]** przekroczył próg **[[Świątynia Cieni|Świątyni Cieni]]**, wymógł jeszcze na gospodarzach przysięgę — twardą gwarancję, że rytuał zadziała aż do śmierci. Poszli mu na rękę. Drzwi otworzyły się wyłącznie przed nim; towarzyszy nie wpuszczono, więc **[[Arevon Elorrenthi|Arevon]]** usiadł na murze świątyni i postanowił czekać, aż minotaur wyjdzie.
 
+![Ciepłe piwo pod Świątynią Cieni](../assets/sessions/084/084_sec1_taste_of_warm_beer.webp)
+[Prompt](../assets/sessions/084/084_sec1_taste_of_warm_beer.txt)
+
 Sam rytuał okazał się rozczarowująco nudny. Wpuszczono minotaura dopiero po zmierzchu, posadzono na kamiennym taborecie pośrodku sali, wokół rozrysowano glify, zapalono świece — i tak minęło dziewięć godzin. Postacie w czerni pojawiały się w pozornie przypadkowych momentach, wznosząc pieśni w nieznanym języku; **[[Orestes]]**, nie mając nic lepszego do roboty, zapamiętywał melodię, bo wpadała w ucho. W końcu przysnął. A gdy otworzył oczy, poczuł, że musi wziąć oddech — czego nie robił od bardzo dawna. Zaraz potem rozbolało go wszystko: każdy mięsień, każda kość. Ból sprawiał mu satysfakcję.
 
 Na zewnątrz czekał **[[Arevon Elorrenthi|Arevon]]** — ze sztyletem w jednej ręce i kuflem w drugiej. Zamiast powitania dźgnął minotaura w dłoń, żeby sprawdzić, czy krwawi; krwawił, więc druid uleczył ranę magią i podał piwo. Było ciepłe i wygazowane, a mimo to okazało się jednym z najlepszych trunków, jakie **[[Orestes]]** pił w życiu, bo po raz pierwszy od dawna poczuł smak. Minotaur dziękował wylewnie wszystkim naokoło, zapewniał, że w świątyni nie widział ani jednego trupa, tylko stołek i długie nucenie, i zapowiadał, że z zapamiętanej melodii ułoży kiedyś piosenkę. Zdecydowanie szczęśliwszy — i zdecydowanie żywszy niż dziewięć godzin wcześniej — wrócił do **[[Mytros]]**.
@@ -45,9 +48,6 @@ Na zewnątrz czekał **[[Arevon Elorrenthi|Arevon]]** — ze sztyletem w jednej 
 Niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]] odnaleźli zacumowany **[[Hypnos]]**, barkę **[[Lutheria|Lutherii]]**. Do kadłuba wciąż przykuty był **[[Talieus Pierwszy]]** — Tytan Rzemiosła, wuj **[[Versir|Versira]]** — oślepiony, z zaszytymi ustami, zaprzęgnięty w łańcuchy dokładnie tam, gdzie go zostawiono. Barka nie miała innego napędu niż on: ogromny i wciąż potwornie silny, ciągnął **[[Hypnos|Hypnosa]]** za sobą jak zwierzę pociągowe. **[[Versir]]** zbił okowy i wyprzągł Tytana z łańcuchów, choć na rozmowę nie było już co liczyć; **[[Talieus Pierwszy]]** był w stanie wydobyć z siebie najwyżej pojedyncze słowa. Włożył mu w dłoń ostrze — ostatnie dzieło, jakie wyszło spod rąk Tytana Rzemiosła — i powiedział mu spokojnie, że jego oprawcy nie żyją, że wyrok dobiegł końca i że może wreszcie odpocząć. Na zniszczonej twarzy pojawiło się rozpoznanie. „Tak, już czas" — odparł Tytan. Wtedy **[[Versir]]** uruchomił swoją magiczną rękawicę i wchłonął jego esencję, kończąc mękę, która trwała stulecia.
 
 Przy okazji zadeklarował, że sam zaopiekuje się porzuconym okrętem i — jeśli nikt inny nie zgłosi pretensji — przygarnie także **[[Glewia Sydona|Glewię Sydona]]**. Skoro miał doglądać **[[Hypnos|Hypnosa]]**, obiecał też przez najbliższe miesiące, a może i lata, zaglądać do więziennych **[[Sześcian Więzienny|Sześcianów]]**; nic tam się nie zmieniało i nic nie zapowiadało zmiany.
-
-![Ultros zostaje barem](../assets/sessions/084/084_theme_ultros_becomes_a_bar.webp)
-[Prompt](../assets/sessions/084/084_theme_ultros_becomes_a_bar.txt)
 
 ### Ostatnia Warta Ultrosa i Browar Orestesa
 
@@ -199,13 +199,10 @@ Niebieskiej tiefling, której szukali przez pół kampanii, nie znaleźli i nigd
 
 **[[Arevon Elorrenthi|Arevon]]** postanowił poświęcić część swoich lat na spisanie wszystkich dziejów, których był świadkiem, zamykając tym własną, najdawniejszą obietnicę.
 
-![Antikythera wyznacza kurs](../assets/sessions/084/084_theme_new_course.webp)
-[Prompt](../assets/sessions/084/084_theme_new_course.txt)
-
 ### Kurs Antikythery
 
-![Odpłynięcie do Eberronu](../assets/sessions/084/084_sec13_course_to_eberron.webp)
-[Prompt](../assets/sessions/084/084_sec13_course_to_eberron.txt)
+![Antikythera wyznacza kurs](../assets/sessions/084/084_theme_new_course.webp)
+[Prompt](../assets/sessions/084/084_theme_new_course.txt)
 
 **[[Antikythera]]** zrobiła coś, czego dotąd nie robiła. Mechanizm zaczął klikać sam z siebie, ząb wchodził za ząb, pierścienie obracały się jeden po drugim jak w ożywającym zegarze. [[Arevon Elorrenthi|Arevon]], patrząc na to okiem nawigatora, zrozumiał, że kompas z jakiegoś powodu wyznaczył kurs. [[Arevon Elorrenthi|Arevon]] wiedział, że to kurs do [[Eberron|Eberronu]].
 
