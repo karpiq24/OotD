@@ -100,3 +100,9 @@ Miejsce przygotowywania "uczt".
 > **Opis:**
 > "Uderza was zapach pieczonego mięsa i wykwintnych przypraw, od którego aż cieknie ślinka. Wewnątrz krząta się kilka wychudzonych, psopodobnych istot, nadzorowanych przez potężną Lamię. Na stołach leżą wykwintne półmiski... oraz kawałki mięsa, które kształtem niepokojąco przypominają humanoidalne uda i ramiona."
 
+
+## Los okrętu
+
+W [[Sesja 84 - Świt Nowej Ery]] drużyna odnalazła Hypnosa zacumowanego niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]]. Okazało się, że barka nigdy nie miała innego napędu niż [[Talieus Pierwszy]] — oślepiony Tytan Rzemiosła, przykuty do kadłuba i zaprzęgnięty w łańcuchy, ciągnął ją za sobą jak zwierzę pociągowe. [[Versir]] zbił okowy, wyprzągł go i zakończył jego mękę, wchłaniając jego esencję magiczną rękawicą.
+
+Sam porzucony okręt [[Versir]] zadeklarował się przygarnąć — razem z [[Glewia Sydona|Glewią Sydona]], jeśli nikt inny nie zgłosi pretensji. Skoro miał doglądać Hypnosa, obiecał też przez najbliższe miesiące, a może i lata, zaglądać do więziennych [[Sześcian Więzienny|Sześcianów]]; nic tam się nie zmieniało i nic nie zapowiadało zmiany.

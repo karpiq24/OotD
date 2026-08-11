@@ -15,3 +15,5 @@ Kanały Mytros to cud inżynierii, łączący umiejętności planowania [[Vallus
 
 ## Historia
 W [[Sesja 15 - W kanałach Mytros]] i [[Sesja 16 - Świątynia Lutherii]] służyły jako droga do [[Gniazdo Zapomnianych|Gniazda Zapomnianych]] oraz do [[Świątynia Lutherii|Świątyni Lutherii]].
+
+W [[Sesja 84 - Świt Nowej Ery]] zamknięto (nie rozwiązując) jedną z najstarszych zagadek kampanii: niebieskiej tiefling, której bohaterowie szukali przez pół kampanii, nigdy nie znaleźli i nigdy już nie znajdą — a kryła się za kolejnymi drzwiami w Kanałach, tymi, przez które nie odważyli się kiedyś przejść.

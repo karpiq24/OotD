@@ -21,3 +21,5 @@ W Akademii można spotkać największe umysły Thylei:
 *   **Chalcodon** (Elf, szlachcic)
 *   **Kerodotos** (Gnom, kapłan)
 *   **Atreus** (Diabelstwo, kapitan)
+
+W [[Sesja 84 - Świt Nowej Ery]] podsumowano jej powojenny bilans: Akademia straciła sporo kadry — ci, którzy dzielnie bronili murów, w większości nie wrócili — a jednak pierwszy semestr po [[Sesja 83 - Zmierzch Ery Tytanów|Bitwie o Mytros]] przyniósł rekordową liczbę rekrutów. [[Felicjan Janus Twardowski|Felicjan]] wystarał się o warsztat dla [[Dedal|Dedala]], który w zamian uczy studentów artificerstwa, i zaplanował, by wysłannicy Akademii wyławiali magiczne talenty przy kapliczkach wyrastających wokół stolicy.

@@ -24,3 +24,5 @@ Steros poległ w **pierwszej rundzie Bitwy o [[Mytros]]**, w starciu legionu [[E
 Dowództwo nad [[Egida Mytros|Egidą]] przejęła po nim **[[Corinna]]** — ta sama cywilka, którą bohaterowie uratowali na samym początku swojej drogi. Legion pod jej ręką przetrwał całą resztę oblężenia.
 
 Najgorzki jest jednak fakt, o którym nikt nie pamiętał w ferworze bitwy: **[[Bront]] wciąż nie wie**. Cyklop-kowal, który w [[Sesja 37 - Próba Ognia]] dowiedział się wreszcie, co Sydon zrobił z jego synem, i który przez lata żył nadzieją, że go odzyska, do dziś nie usłyszał wiadomości o jego śmierci. Nikt mu jej nie zaniósł.
+
+W [[Sesja 84 - Świt Nowej Ery]] podsumowano powojenne losy [[Mithralowa Kuźnia|kuźni]]: obowiązki [[Volkan|Volkana]] przy kowadle przejął [[Bront]] i okazał się kowalem na tyle dobrym, że godnie zastąpił boga. Steros, lepszy rzemieślnik od ojca, tego czasu nie doczekał.

@@ -29,3 +29,5 @@ Znani mieszkańcy:
 [[Zephyrus]], Wiosenny Wiatr, spędził lata próbując przekonać tutejsze plemiona do porzucenia ścieżki wojny na rzecz pokoju. Jego starania zakończyły się jednak całkowitą porażką, gdyż wyspiarze uznali nadchodzące wojny za zbyt kuszące, by z nich zrezygnować.
 
 [[Hergeron Pierwszy|Hergeron]] uznał barbarzyńców z tej wyspy za zbyt nieprzewidywalnych, dlatego wysłał smoczycę [[Ventis]], aby zneutralizowała ich jako potencjalną siłę sojuszniczą [[Mytros]].
+
+W [[Sesja 84 - Świt Nowej Ery]] okazała się ulubioną wyspą [[Arevon Elorrenthi|Arevona]]. Mieszkało tam [[Plemię Delfina]] — niemal jedyne elfy w całej [[Kontynent Thylea|Thylei]], sympatyczne i wyluzowane, może nawet odrobinę zbyt wyluzowane — a druid postanowił się z nimi zakolegować. W górach w głębi wyspy siedziało z kolei krasnoludzkie [[Plemię Wieloryba]], wciąż trzymające straż nad jedyną [[Kopalnia Żelaza|Kopalnią Żelaza]] w Thylei.

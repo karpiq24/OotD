@@ -16,3 +16,5 @@ Zadaje potężne obrażenia od cięć i burzy. Trafienie tą bronią może nało
 Broń ta była dzierżona przez [[Sydon|Sydona]] od czasów przed Pierwszą Wojną.
 
 W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] Sydon użył jej, by dotkliwie ranić smoka [[Raspytrion|Raspytriona]] podczas ostatecznego starcia w [[Mytros]].
+
+W [[Sesja 84 - Świt Nowej Ery]] [[Versir]] zadeklarował, że — jeśli nikt inny nie zgłosi pretensji — przygarnie ją razem z porzuconym [[Hypnos|Hypnosem]], którym postanowił się zaopiekować.

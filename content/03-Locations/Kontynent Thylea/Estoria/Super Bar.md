@@ -15,4 +15,4 @@ Popularny lokal w [[Estoria|Estorii]], znany z wyśmienitego piwa i radosnej atm
 ## Historia
 Odwiedzony przez bohaterów w poszukiwaniu informacji. Jest to jedno z ulubionych miejsc spotkań lokalnych mieszkańców, którzy cenią sobie autentyczne smaki i gościnność Braxa.
 
-W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] [[Brax]] wraz z pomocnikami sklecił prowizoryczną wersję baru w ruinach [[Mytros]]. [[Orestes]] zaglądał tam niemal co wieczór, choć jako nieumarły nie czuł już smaku piwa, opowiadając kolejnym słuchaczom coraz bardziej rozrośniętą historię śmierci [[Lutheria|Lutherii]]. To tam odnalazł go [[Mistrz Cieni]], by upomnieć się o dług.
+W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Brax]] wraz z pomocnikami sklecił prowizoryczną wersję baru w ruinach [[Mytros]]. [[Orestes]] zaglądał tam niemal co wieczór, choć jako nieumarły nie czuł już smaku piwa, opowiadając kolejnym słuchaczom coraz bardziej rozrośniętą historię śmierci [[Lutheria|Lutherii]]. To tam odnalazł go [[Mistrz Cieni]], by upomnieć się o dług.

@@ -17,4 +17,6 @@ Euria, Jesienny Wiatr, pod koniec swojej podróży odnalazła ukrytą świątyni
 
 W [[Sesja 57 - Ogród Heliosa]] przyjął [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] w swoim [[Ogród Heliosa|Ogrodzie]] na [[Zapomniane Morze|Zapomnianym Morzu]]. Wyznał, że zawarł pakt z [[Sydon|Sydonem]], obiecując mu armię cyklopów. Następnie przybrał postać potężnego złotego smoka i zaatakował gości. Został powstrzymany przez [[Megara|Megarę]] i Furie, które ukarały go za złamanie praw gościnności i zabrały na wygnanie.
 
-W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] walczył po stronie obrońców [[Mytros]], krążąc nad polem bitwy w postaci złotego smoka i wypuszczając z paszczy fale ognia na [[Kentimane|Kentimane'a]]. Ramiona [[Tytani|Tytana]] oplotły go i przygwoździły w uścisku, z którego nie zdołał się wyrwać do końca starcia.
+W [[Sesja 83 - Zmierzch Ery Tytanów]] walczył po stronie obrońców [[Mytros]], krążąc nad polem bitwy w postaci złotego smoka i wypuszczając z paszczy fale ognia na [[Kentimane|Kentimane'a]]. Ramiona [[Tytani|Tytana]] oplotły go i przygwoździły w uścisku, z którego nie zdołał się wyrwać do końca starcia.
+
+W [[Sesja 84 - Świt Nowej Ery]] nie upominał się już o zwrot [[Chariot of Dawn|rydwanu]] do swojego skarbca, a [[Furie]] nie przyszły po niego ponownie. Na jego wyspie cyklopy rozwinęły ruch pacyfistyczny i hipisowski.

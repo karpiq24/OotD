@@ -21,3 +21,5 @@ Szanuje siłę i zręczność, ale stawia wysokie wymagania tym, którzy chcieli
 Bohaterowie spotkali go w [[Sesja 4 - Mroczne sekrety Świątyni]] w drodze powrotnej ze [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]]. Opowiedział im o klątwie ciążącej na jego ludzie i poprosił o pomoc w jej zdjęciu. Podczas spotkania w okolicach [[Estoria|Estorii]], [[Orestes]] wyzwał Pholona na pojedynek/zawody, by zostać jego jeźdźcem. Orestes przegrał te zawody, przez co Pholon (na razie) nie uznał go za godnego partnera.
 
 W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] przybył razem z bohaterami na [[Wyspa Skorpiona|Wyspę Skorpiona]]. Przedstawił im swoją kuzynkę, [[Nessa|Nessę]]. Brał udział w szalonej imprezie z bohaterami i Arezyjczykami.
+
+W [[Sesja 84 - Świt Nowej Ery]] został udziałowcem browaru [[Orestes|Orestesa]] w [[Orestessos Zythikē]] — przypadło mu jakieś dwanaście i pół procent, co [[Arevon Elorrenthi|Arevon]] skwitował uwagą, że oto rodzi się komunizm.

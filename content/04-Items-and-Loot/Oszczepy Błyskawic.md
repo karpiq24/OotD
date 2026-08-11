@@ -15,4 +15,4 @@ Rzucony oszczęp, przy którym wypowiedziano słowo rozkazu, zamienia się w loc
 ## Historia
 W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] drużyna odnalazła je w ukrytym skarbcu [[Praxys]], razem ze zdobionym kołczanem, trzema parami magicznych rękawic, białymi i czarnymi perłami oraz skrzynią uśpionych demonicznych insektów. Skarbiec otworzył [[Orestes]], „oślepiając" kamienne głowy cyklopów strzegące ślepej uliczki.
 
-W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] [[Orion Xul|Orion]] ciskał nimi w [[Kentimane|Kentimane'a]] z grzbietu [[Raspytrion|Raspytriona]], wykrzykując słowo rozkazu — grzmot przetoczył się nad [[Mytros]] dwukrotnie.
+W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Orion Xul|Orion]] ciskał nimi w [[Kentimane|Kentimane'a]] z grzbietu [[Raspytrion|Raspytriona]], wykrzykując słowo rozkazu — grzmot przetoczył się nad [[Mytros]] dwukrotnie.

@@ -16,3 +16,5 @@ Odważna, lojalna i gotowa do najwyższych poświęceń dla dobra swojego ludu. 
 Po utracie matki, która została uprowadzona przez smoczycę [[Hexia|Hexię]], Anora pozostała jedyną pociechą podupadającego na duchu ojca. Kiedy [[Zakon Sydona]] zażądał jej złożenia w ofierze na [[Skała Estora|Skale Estora]], by powstrzymać suszę i armię centaurów, Anora z pokorą zgodziła się na swój los, chcąc oszczędzić miastu zagłady. Została uratowana przez [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]], którzy zabili [[Skała Estora|bazyliszki]] zagrażające jej życiu (w [[Sesja 7 - Uratować Księżniczkę]]).
 
 Dodatkowo, [[Hergeron Pierwszy|Hergeron]] planuje wysłać centaury, aby oblężyły jej miasto i odciągnęły ją od pomocy dla [[Mytros]].
+
+W [[Sesja 84 - Świt Nowej Ery]] wyszło na jaw, że tron [[Estoria|Estorii]] [[Pythor]] zostawił jej jeszcze zanim [[Ultros]] wypłynął w Wielką Odyseję — po wojnie bóg bitwy nigdzie nie osiadł i nie miał już ani korony, ani wojny, ani pomysłu na siebie.

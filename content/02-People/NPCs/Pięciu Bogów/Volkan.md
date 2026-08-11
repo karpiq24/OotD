@@ -22,6 +22,8 @@ Kowal Estorii, twórca magicznych przedmiotów. Chociaż rzadko dzieli się swoi
 
 W [[Sesja 1 - Wielki Dzik]] otrzymał od bohaterów ofiarę w postaci [[Wielki Dzik|Wielkiego Dzika]], którego ci upolowali na zlecenie [[Kyrah]].
 
+W [[Sesja 84 - Świt Nowej Ery]] przez pierwsze powojenne lata kierował odbudową i naprawami, a potem poszukał miejsca dla siebie i znalazł je u boku [[Orestes|Orestesa]] w [[Orestessos Zythikē]] — dawnej osadzie Rosos, przemianowanej na cześć minotaura i jego browaru. Razem budują kadzie. Jego obowiązki przy kowadle w [[Kuźnia Volkana|kuźni]] przejął cyklop [[Bront]].
+
 ## Prawdziwa tożsamość: Sybolkorax
 W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Volkan jest w rzeczywistości **[[Sybolkorax|Sybolkoraxem]]** — brązowym smokiem [[Rizon Phobas|Rizona Phobasa]], mężem srebrnej smoczycy **[[Balmytria|Balmytrii]]** i ojcem [[Kyrah]] oraz [[Pythor|Pythora]]. Jego wieloletnie zamknięcie w warsztacie, oddalenie od dzieci i sięganie po alkohol były żałobą po niej, a nie kaprysem zdziwaczałego kowala.
 

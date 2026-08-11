@@ -13,3 +13,4 @@ Kobieta pochodząca z Wybrzeża Mieczy. Mistrz [[Chalcodon]] znał ją osobiści
 
 W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]], po pęknięciu amuletu [[Felicjan Janus Twardowski|Felicjana]] wskutek rzucenia zaklęcia *Revivify* na martwą smoczycę [[Nephele (Smok)|Nephele]], jej dusza zasiedliła puste naczynie. Odzyskawszy siły na plaży, odleciała na południowy wschód, przepraszając, że nie może walczyć z [[Lutheria|Lutherią]].
 
+W [[Sesja 84 - Świt Nowej Ery]] odleciała i przepadła gdzieś bez śladu, nie paląc się do powrotu.

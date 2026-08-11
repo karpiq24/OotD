@@ -18,3 +18,5 @@ Wiedźma Lotosu to wygnanka z [[Wyspa Czasu|Wyspy Czasu]]. Przybyła na Wyspę S
 W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] bohaterowie wyruszyli do jej wieży, przedzierając się przez magiczne pola lotosu, gdzie czas płynął nienaturalnie.
 
 W [[Sesja 41 - Wiedźma Lotosu]] poddała bohaterów próbom, zamieniając ich w dzieci i zmuszając do pracy. Ujawniła im sekrety dotyczące ich przeznaczenia, natury [[Thylea]] (jako kieszonkowego planu) oraz słabości ich wrogów. Zażądała przeprosin od sfinksów z [[Wyspa Czasu|Wyspy Czasu]] (swojego rodzeństwa) w zamian za zdjęcie klątwy z centaurów.
+
+W [[Sesja 84 - Świt Nowej Ery]] przypomniano, że [[Versir]] zapytał ją już dawno temu, czy nie zechciałaby zająć miejsca jednej z nowych [[Mojry|Mojr]] — i że wstępnie była chętna. Półtytan prowadził w kolejnych latach własną, długofalową grę o obsadzenie pustych krosien losu; jako drugą kandydatkę wskazywano [[Versi|Versi Wyrocznię]].

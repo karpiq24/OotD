@@ -27,6 +27,8 @@ W [[Sesja 23 - Nowe Przymierze]] została poinformowana przez drużynę o zażeg
 
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] wygłosiła mowę otwierającą Igrzyska i wyraziła obawy o los [[Kyrah]].
 
+W [[Sesja 84 - Świt Nowej Ery]] przejęła koronę [[Mytros]] po abdykacji [[Acastus|Acastusa]]. Rządziła przez kolejne piętnaście lat, stopniowo oddając coraz więcej obowiązków radzie, której znaczenie z każdym rokiem rosło — ale samego miasta nigdy nie opuściła. W drużynie żartowano nawet, kto z nich mógłby się z nią ożenić i rozwiązać problem sukcesji; nikt się nie zgłosił.
+
 ## Prawdziwa tożsamość: Tysophale
 W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Vallus jest w rzeczywistości **[[Tysophale]]** — brązową smoczycą, niegdyś wierzchowcem [[Telamok Arkelander|Telamoka Arkelandera]], uznaną po Pierwszej Wojnie za zaginioną. Nie zaginęła: przez cały ten czas siedziała na tronie [[Mytros]].
 
