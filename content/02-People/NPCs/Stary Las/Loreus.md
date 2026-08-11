@@ -17,3 +17,5 @@ Wrażliwy i uczuciowy. Żywi głębokie, choć nieodwzajemnione uczucie do [[Ori
 Pochodzi ze [[Stary Las|Starego Lasu]]. W [[Sesja 4 - Mroczne sekrety Świątyni]] (lub okolicach tego czasu) spotkał [[Corinna|Corinnę]] uwięzioną przez kultystów w Starym Lesie i ostrzegł ją, co pozwoliło jej uciec.
 
 Później, powodowany uczuciem do [[Orion Xul|Oriona]], zakradł się na jego statek ([[Ultros]]?) jako pasażer na gapę. Ukrywa się w cieniach i wśród lin, obserwując ukochanego z daleka i spisując pieśni o swoim nieszczęśliwym losie. Jego obecność została odkryta m.in. przez niebieskiego rogacza (prawdopodobnie tieflinga lub innego satyra), gdy Loreus niefortunnie kichnął.
+
+W [[Sesja 84 - Świt Nowej Ery]] wędrował od miasta do miasta i, jak można było przewidzieć, znów zakochał się nieszczęśliwie w kimś innym.

@@ -14,3 +14,5 @@ Wojowniczka o silnym poczuciu honoru i sprawiedliwości. Początkowo nieufna wob
 
 ## Historia
 Wzmiankowana w [[Sesja 31 - Wyprawa na Themis]].
+
+W [[Sesja 84 - Świt Nowej Ery]] zarządzała jako regentka największą częścią [[Themis]] — choć sama nie paliła się do zasiadania na tronie, który pozostał pusty na długie lata. Wyspa podzieliła się na dwie frakcje: większą, wierną regentce, i mniejszą, tęskniącą za dawnymi czasami i kwestionującą reformy [[Darien]]. Ta druga nigdy nie zdobyła znaczącej przewagi — Hippolyta twardo stała na straży dziedzictwa poprzedniczki.

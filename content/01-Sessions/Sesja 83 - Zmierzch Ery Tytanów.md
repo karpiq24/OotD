@@ -1,5 +1,5 @@
 ---
-title: "Sesja 83: Bitwa o Mytros: Odejście Sturękiego"
+title: "Sesja 83: Zmierzch Ery Tytanów"
 ---
 **Data**: 03.08.2026
 

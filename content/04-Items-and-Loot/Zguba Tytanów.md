@@ -30,4 +30,4 @@ Smoczyca przekazała miecz bohaterom dopiero gdy [[Orestes]] odtworzył pieśń 
 ### Śmierć Pani Snów (Sesja 82)
 W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] [[Versir]] uderzeniem miecza **zdławił zdolność [[Lutheria|Lutherii]] do leczenia się cudzymi ranami**, wypalając w bogini to, co dotąd zamykało każdą zadaną jej ranę. Później zaatakował tym samym ostrzem strukturę [[Świat Snów|Świata Snów]], próbując rozbić domenę Tytanki od środka — wszystkie jej odbicia wykrzywiły się naraz, jakby świat stracił równowagę.
 
-W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] [[Versir]] ciął nią [[Kentimane|Kentimane'a]] z zewnątrz, a po połknięciu — jego trzewia od środka, raz za razem wgryzając się klingą w żywe ściany żołądka [[Tytani|Tytana]].
+W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Versir]] ciął nią [[Kentimane|Kentimane'a]] z zewnątrz, a po połknięciu — jego trzewia od środka, raz za razem wgryzając się klingą w żywe ściany żołądka [[Tytani|Tytana]].

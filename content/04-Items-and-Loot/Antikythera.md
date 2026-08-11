@@ -21,3 +21,5 @@ Została podarowana drużynie przez królową [[Vallus]] w Mytros. Jest kluczem 
 Mechanizmowi brakowało kluczowej zębatki, niezbędnej do nawigacji po [[Zapomniane Morze|Zapomnianym Morzu]]. Plany jej naprawy (lub sama zębatka) zostały odnalezione w Wielkiej Bibliotece na [[Wyspa Yonder|Wyspie Yonder]] w [[Sesja 53 - Koniec Yonder]].
 
 W [[Sesja 55 - Egida Mytros]] bóg kowalstwa [[Volkan]] ostatecznie naprawił ją i ulepszył, wręczając ją [[Arevon Elorrenthi|Arevonowi]]. Teraz jest w pełni funkcjonalna.
+
+W [[Sesja 84 - Świt Nowej Ery]], po piętnastu latach pokoju, zrobiła coś, czego dotąd nie robiła. Mechanizm zaczął klikać sam z siebie, ząb wchodził za ząb, pierścienie obracały się jeden po drugim jak w ożywającym zegarze. [[Arevon Elorrenthi|Arevon]], patrząc na to okiem nawigatora, zrozumiał, że kompas z jakiegoś powodu wyznaczył kurs — kurs do [[Eberron|Eberronu]].

@@ -23,4 +23,4 @@ Znalezienie jeźdźców dla kolejnych pokoleń plemienia i uniknięcie przemiany
 Bohaterowie poznali plemię w [[Sesja 40 - Uciechy na Wyspie Skorpiona]].
 
 ## Historia
-W [[Sesja 83 - Bitwa o Mytros: Odejście Sturękiego]] [[Nessa]] pojawiła się w [[Mytros]] tuż po bitwie, niosąc na grzbiecie [[Brax|Braxa]] przez ruiny miasta.
+W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Nessa]] pojawiła się w [[Mytros]] tuż po bitwie, niosąc na grzbiecie [[Brax|Braxa]] przez ruiny miasta.

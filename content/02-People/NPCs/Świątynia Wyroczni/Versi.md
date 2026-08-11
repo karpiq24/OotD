@@ -28,3 +28,5 @@ W [[Sesja 2 - Przepowiednia]] została uwolniona przez bohaterów z rąk wiedźm
 
 ## Lokacja
 - [[Świątynia Wyroczni]]
+
+W [[Sesja 84 - Świt Nowej Ery]] padła propozycja, by została jedną z nowych [[Mojry|Mojr]] — obok [[Wiedźma Lotosu|Wiedźmy Lotosu]]. Argument był poetycki i trudny do podważenia: to ona rozpoczęła całą tę historię, stawiając przed bohaterami przepowiednię, i to ona jako córka [[Sydon|Sydona]] sprzeciwiła się ojcu, wywróżywszy mu upadek.

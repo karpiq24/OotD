@@ -16,3 +16,5 @@ Duży budynek o wzmocnionych kamiennych ścianach i gontowym dachu, położony b
 
 ## Historia
 Główny warsztat rzemieślniczy w [[Estoria|Estorii]]. Volkan oferuje tu usługi kowalskie dla całego miasta i okolicznych farm. To tutaj można nabyć bardziej zaawansowany ekwipunek, którego nie ma na [[Agora w Estorii|Agorze]].
+
+W [[Sesja 84 - Świt Nowej Ery]], gdy [[Volkan]] osiadł u boku [[Orestes|Orestesa]] w [[Orestessos Zythikē]], jego obowiązki przy kowadle przejął cyklop [[Bront]] — i okazał się kowalem na tyle dobrym, że godnie zastąpił boga.

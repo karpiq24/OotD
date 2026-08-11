@@ -20,3 +20,5 @@ Wykluł się w roku 499 CE na pokładzie statku [[Ultros]], w trakcie podróży 
 Po wykluciu, szybko nawiązał kontakt z [[Felicjan Janus Twardowski|Felicjanem]] i mosiężnym smokiem [[Chh'Krtak|Chh'Krtakiem]], dołączając do drużyny jako nowy towarzysz broni.
 
 W [[Sesja 71 - Infiltracja Praxys]] [[Orestes]] próbował związać się z nim Przysięgą Smoczych Lordów obiecując ciepłego miejsca przy browarze. Oburzony Paradoks zapytał retorycznie, czy dla idealnego piwa wojownik zagiąłby też czasoprzestrzeń. Po radosnym przyznaniu się Orestesa do takiego pomysłu, zniesmaczony i zawiedziony brakiem ambicji smok, stanowczo odrzucił umowę.
+
+W [[Sesja 84 - Świt Nowej Ery]], mimo swojego osobliwego pochodzenia i imienia, rósł zupełnie standardowo i był już niewiele mniejszy od [[Kairos|Kairosa]] — teoretycznie ktoś mógłby na nim zasiąść. Teoretycznie, bo jedyny, który kiedyś go sobie wybrał, spotkał się z odmową: [[Orestes]] wskazał wtedy na Paradoksa, a Paradoks minotaura nie chciał. [[Felicjan Janus Twardowski|Felicjan]] złośliwie przypominał, że [[Orestes]] wybrał sobie najtrudniejszego z możliwych wierzchowców — smoka, który potrzebuje wyjątkowo mądrego jeźdźca.

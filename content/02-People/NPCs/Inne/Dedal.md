@@ -16,3 +16,5 @@ Genialny, ale ekscentryczny i nieco oderwany od rzeczywistości. Jego jedynym ce
 Rozbił się na samotnej skalistej wyspie na [[Zapomniane Morze|Zapomnianym Morzu]]. Przez lata budował maszynę latającą - [[Ikar V2]].
 W [[Sesja 56 - Dedal i Ikar]] spotkał [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]], którzy pomogli mu odzyskać serce jego maszyny ("Heart of the Gale") z gniazda Roków.
 Po chaotycznym dziewiczym locie, który zakończył się wodowaniem, został uratowany i dołączył do załogi [[Ultros|Ultrosa]].
+
+W [[Sesja 84 - Świt Nowej Ery]], wierny sobie, opracowywał kolejne wersje swojej latającej machiny — tej, która swego czasu utonęła — a każda następna radziła sobie w powietrzu, i zwłaszcza przy lądowaniu, coraz lepiej. [[Felicjan Janus Twardowski|Felicjan]] wystarał się dla niego o miejsce w [[Akademia Mytros|Akademii Mytros]], gdzie stary wynalazca dostał warsztat do dłubania w zamian za uczenie studentów artificerstwa.
