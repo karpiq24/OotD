@@ -19,11 +19,14 @@ npm run check
 npm run format
 
 # Regenerate all index.md files after adding/moving/deleting content
-python3 update_indexes.py
+uv run python scripts/update_indexes.py
 
-# Python deps (Pillow, tqdm) — use the local venv
-.venv/bin/pip install -r requirements.txt
-.venv/bin/python <script>.py   # always use venv, never bare python3
+# Python — uv only, never bare python3 / pip / venv
+uv venv && uv pip install -r requirements.txt   # create or repair .venv
+uv run python scripts/<script>.py               # run anything
+
+# Convert the source PDFs in input/ into a markdown vault
+uv run python scripts/pdf2md/convert.py <PDF> <OUTDIR>
 ```
 
 The `input/` directory is a staging area (gitignored except `.gitkeep`). Drop new session files there before processing.
@@ -108,8 +111,35 @@ Templates for new entity files: `templates/Session.md`, `NPC.md`, `Location.md`,
 
 Entity files may have an `image_prompt` frontmatter field — `rpg-illustrator` uses this verbatim (never paraphrase it) when the entity appears in a scene.
 
-## Python utility scripts (root-level)
+## Python utility scripts
+
+Everything lives under `scripts/` (run via `uv run python scripts/...`):
 
 - `update_indexes.py` — regenerates all `index.md` files under `content/`
+- `extract_glossary.py` — canonical-names list for a session transcript
 - `fix_image_paths.py` — repairs broken image paths in Markdown
-- `convert_assets.py`, `get_prompts.py`, `replace_script.py` — one-off maintenance utilities
+- `convert_assets.py`, `get_prompts.py`, `find_and_zip.py` — one-off maintenance utilities
+- `pdf2md/` — PDF → markdown-vault pipeline (see below)
+
+`generate_prompts.py` and `replace_script.py` are still at the repo root.
+
+## `scripts/pdf2md/` — sourcebook PDF → markdown vault
+
+Converts the *Odyssey of the Dragonlords* / *The Great Labors* PDFs into a
+navigable markdown tree: one directory per chapter, one file per
+table-of-contents section, illustrations cropped into a per-chapter `images/`.
+
+```bash
+uv run python scripts/pdf2md/convert.py input/<book>.pdf input/vault/<Book>
+```
+
+- `pdfmd.py` — page → element stream: headings, paragraphs, statblocks, tables,
+  sidebars, multi-column reflow, hyphenation re-joining.
+- `images.py` — every page is one flattened raster with live text on top, so
+  illustrations are found by masking non-parchment regions and cropping them.
+- `split.py` — maps the PDF table of contents onto the element stream to decide
+  chapter directories and section files.
+- `convert.py` — the entry point tying the three together.
+
+Output currently lands in `input/vault/` (gitignored staging), with an
+`index.md` in every directory describing each file.

@@ -21,7 +21,7 @@ This skill is invoked explicitly (`/generate-video-script`), never automatically
 1.  Activate skill `rpg-video-scripter`.
 2.  Input: path to the session recap markdown file.
 3.  The skill interactively asks the user the two design questions (script focus mode, art style), then generates the script.
-4.  The skill saves the output to `content/assets/sessions/{NNN}/video_script.md` (surfaced automatically under **Metadane** by the `SessionAssets` transformer — no frontmatter link needed), runs `python3 scripts/update_indexes.py`, and echoes the clip prompts in chat.
+4.  The skill saves the output to `content/assets/sessions/{NNN}/video_script.md` (surfaced automatically under **Metadane** by the `SessionAssets` transformer — no frontmatter link needed), runs `uv run python scripts/update_indexes.py`, and echoes the clip prompts in chat.
 
 ## Step 4: Completion
 1.  **Notify User**: "Video script for Session {number} generated at `content/assets/sessions/{NNN}/video_script.md` (auto-listed under Metadane on the recap). Clips are echoed above — copy any block directly into Google Flow."

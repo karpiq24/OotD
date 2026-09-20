@@ -61,7 +61,7 @@ This project includes AI skills to automate session logging and wiki maintenance
 
 ### Rules
 The agent follows specific rules for:
-- **Auto-updating index files**: Run `python3 scripts/update_indexes.py` after content changes.
+- **Auto-updating index files**: Run `uv run python scripts/update_indexes.py` after content changes.
 - **Wikilink standards**: Simplified Obsidian-compatible wikilinks without paths or extensions.
 - **Transcript processing**: Always read the full transcript before summarizing.
 
@@ -80,5 +80,5 @@ npm run check
 npm run format
 
 # Update index files
-python3 scripts/update_indexes.py
+uv run python scripts/update_indexes.py
 ```

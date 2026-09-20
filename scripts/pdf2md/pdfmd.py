@@ -596,6 +596,17 @@ def table_element(title, lines, page):
         else:
             break
 
+    # a body cell that wrapped onto several lines arrives as extra rows whose
+    # key column is blank - fold each one back into the row it belongs to
+    folded = grid[:1]
+    for row in grid[1:]:
+        if folded and not row[0] and any(row):
+            prev = folded[-1]
+            folded[-1] = [(a + " " + b).strip() for a, b in zip(prev, row)]
+        else:
+            folded.append(row)
+    grid = folded
+
     md = []
     if title:
         md.append("**%s**" % title)
@@ -640,7 +651,7 @@ def build_elements(blocks, page):
             txt = render_runs(join_runs(grp))
             if not txt:
                 continue
-            if dropcap and style == "body":
+            if dropcap and style == "body" and txt[:1].islower():
                 txt = dropcap + txt
                 dropcap = None
             els.append({"type": "p", "style": style, "page": page, "text": txt})
@@ -674,7 +685,18 @@ def build_elements(blocks, page):
             i = j
             continue
         if k == "dropcap":
-            dropcap = l.text.strip()
+            # The initial is drawn as its own oversized glyph and usually lands
+            # AFTER the paragraph it belongs to in reading order, leaving that
+            # paragraph headless ("he very first ..."), so look back for it
+            # first and only fall through to the next paragraph if there is no
+            # headless one behind us.
+            cap = l.text.strip()
+            back = next((e for e in reversed(els)
+                         if e["type"] == "p" and e.get("style") == "body"), None)
+            if back is not None and back["text"][:1].islower():
+                back["text"] = cap + back["text"]
+            else:
+                dropcap = cap
             i += 1
             continue
         if k in ("h2", "h3", "h4"):
