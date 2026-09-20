@@ -69,5 +69,5 @@ Build a set of proposed file updates. **Do not write anything yet.**
 ## Step 5: Apply approved writes
 
 1. Write each approved change to its target file, preserving that file's existing format exactly (table layout, numbering, Polish wording).
-2. After writing, if any `content/` file was changed (an entity file in 3c), run `python3 scripts/update_indexes.py` per the indexes rule. Changes to `.agents/` resources do not need index regeneration.
+2. After writing, if any `content/` file was changed (an entity file in 3c), run `uv run python scripts/update_indexes.py` per the indexes rule. Changes to `.agents/` resources do not need index regeneration.
 3. **Report** what was written and what was skipped: "Harvested session {number}: {N} name corrections, {M} entity fixes applied; {K} deletion candidates recorded; {style/ZAKAZY proposals}." Keep it to a few lines.

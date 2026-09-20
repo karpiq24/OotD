@@ -16,7 +16,7 @@ Two modes, selected by the caller (`generate-session-recap-draft` Step 0):
 
 - **Run the glossary extractor:**
   ```bash
-  .venv/bin/python scripts/extract_glossary.py content/assets/sessions/{NNN}/transcript.txt
+  uv run python scripts/extract_glossary.py content/assets/sessions/{NNN}/transcript.txt
   ```
   Save the stdout — this is the **canonical-names glossary** for this session. It lists every NPC/location/item/lore entry from the wiki that appears (by phonetic prefix) in the transcript, plus aliases harvested from `[[Canonical|Alias]]` wikilinks. Embed this glossary into every chunk prompt verbatim.
 - **Read** `.agents/skills/rpg-summarizer/resources/phonetic_corrections.md` — a curated list of ASR misspellings (e.g. `Pytrion → Raspytrion`). Embed verbatim into every chunk prompt too.

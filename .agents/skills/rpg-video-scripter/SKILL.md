@@ -129,6 +129,6 @@ anatomy, rich dynamic brushstrokes.
    automatically — no frontmatter link is needed (and none should be added).
 3. Run the index auto-updater script to update the Obsidian-compatible navigation and links:
    ```bash
-   python3 scripts/update_indexes.py
+   uv run python scripts/update_indexes.py
    ```
 6. **Echo every clip block in chat**, in order, exactly as saved to the file, so the user can copy any single clip directly without opening the file.

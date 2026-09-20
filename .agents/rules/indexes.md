@@ -15,6 +15,6 @@ This rule applies whenever any content file (Markdown, etc.) is:
 ## Action
 Instead of manually updating `index.md` files, run the update script:
 ```bash
-python3 scripts/update_indexes.py
+uv run python scripts/update_indexes.py
 ```
 This script will recurse through the `content/` directory and update/regenerate all `index.md` files with correct links and titles, preserving existing descriptions and non-list content.
