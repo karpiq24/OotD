@@ -159,7 +159,7 @@ Główny cel: Odnalezienie Zatopionego Królestwa Syren, zgłębienie tragedii a
 #### Faza 4: Rytuał Theogenesis i Odkrycie Pęt Mojr (Sesje 101–102)
 - **Rytuał i Przebudzenie Boskiej Iskry (Divine Spark):**
   - Bohaterowie (poziom 15–16) otrzymują Boską Iskrę (odporności, nieśmiertelność ciała, aura domeny).
-  - Narsus odzyskuje pełną boską postać i blask.
+  - Narsus (Arystonar) odzyskuje boską moc i promienisty blask dawnego bóstwa.
 - **Wielki Zwrot Akcji — Klauzula Odroczona (*The Trap Revealed*):**
   - Na ciele Narsusa rozżarzają się eteryczne kajdany: *Oath of Service*.
   - Manifestacja Nony i Decimy: nowo narodzony bóg staje się wieczystym niewolnikiem Krosna.
@@ -255,7 +255,7 @@ Główny cel: Odparcie inwazji czterech Nether Tytanów, ocalenie cywilizacji Th
 | **Kurhany (Karpathos)** | Edykt Heleny + Portret Karpathosa kupiony w Galerii 15 lat wcześniej | Bez portretu wampir ma regenerację i postać gazową; bez edyktu mnisi Yosfora walczą na śmierć. |
 | **Zatopione Królestwo** | Mapa od Pyrrhy (z Arezji) + potrzeba 3. artefaktu do Theogenesis | Bez mapy nikt nie zna koordynatów Nowej Egei; bez Ognia Prometejskiego rytuał boskości spali duszę. |
 | **Pucz na Mojry** | Odkrycie pęt Narsusa (*The Trap*) + cierpienie Ione | Wcześniej drużyna nie ma powodu ryzykować kosmicznego puczu; dopiero widok niewolnictwa Narsusa daje mandat. |
-| **Apokalypsis** | Śmierć Mojr łamie pradawne pieczęcie Kentimane'a | Potwory nie budzą się z przypadku — to metafizyczna konsekwencja deicydu i ingerencji Kamienia Apokalipsy. |
+| **Apokalypsis** | Śmierć Mojr łamie pradawne pieczęcie Otchłani | Potwory nie budzą się z przypadku — to metafizyczna konsekwencja deicydu i ingerencji Kamienia Apokalipsy. |
 | **Pałac Hyperionów** | Hyperioni uciekli z dna morza w Akcie II | Złoczyńcy w finale to te same twarze, z którymi gracze rozmawiali na dnie oceanu — koło zdrady się domyka. |
 
 ---
@@ -313,19 +313,19 @@ classDiagram
 
 ## 1. Prawdziwa Sytuacja Narsusa
 
-[[Narsus]] nie jest więźniem [[Arezja|Arezji]] i nigdy nim nie był. Mieszka w [[Wiszące Ogrody|Wiszących Ogrodach]] dobrowolnie, od pięciuset lat, bo jest tam rozpieszczany i podziwiany, a [[Królowa Helena]] jest w nim zakochana. Mytrosańska wersja o „bogu trzymanym w niewoli" to imperialna propaganda, w którą Mytros samo uwierzyło.
+[[Narsus]] nie jest więźniem [[Arezja|Arezji]] i nigdy nim nie był. Mieszka w [[Wiszące Ogrody|Wiszących Ogrodach]] dobrowolnie od pięciuset lat, bo jest tam rozpieszczany i podziwiany, a [[Królowa Helena]] jest w nim zakochana. Mytrosańska wersja o „bogu trzymanym w niewoli" to imperialna propaganda, w którą Mytros samo uwierzyło.
 
-Bohaterowie znają go osobiście — w [[Sesja 61 - Arezja|Sesjach 61–63]] kupili jego głos w Radzie Pięciu Mistrzów **[[Słoneczny Granat|Słonecznym Granatem]]**. To jest wciąż ten sam człowiek: próżny, leniwy, zapatrzony w lustra, nie „geniusz zła", tylko po prostu głupi narcyz.
+Bohaterowie znają go osobiście — w [[Sesja 61 - Yala, Arezja i Żółw|Sesji 61]] oraz [[Sesja 63 - Werdykt Arezji|Sesji 63]] kupili jego głos w Radzie Pięciu Mistrzów **[[Słoneczny Granat|Słonecznym Granatem]]**. To jest wciąż ta sama próżna istota: leniwy, zapatrzony w lustra narcyz — w rzeczywistości starożytny brązowy smok **[[Arystonar]]**, rodzony brat [[Vallus]] (Tysophale), [[Pythor|Pythora]] (Raspytriona) i [[Kyrah]] (Arkyranii), syn [[Balmytria|Balmytrii]] i [[Volkan|Volkana]] (Sybolkoraxa).
 
-Chce jednego: **odzyskać boskość**, którą utracił, gdy odmówił pomocy śmiertelnym w Pierwszej Wojnie i został wydziedziczony przez matkę Mytros.
+Chce jednego: **odzyskać boskość**, którą utracił piętnaście lat temu w samo południe ([[Sesja 75 - Koniec Przysięgi|Sesja 75]]), gdy wygasła [[Przysięga Pokoju]], a skradzione portfolio Tytanów powróciło do [[Sydon|Sydona]] i [[Lutheria|Lutherii]], spychając go z powrotem do formy brązowego smoka. Narsus ukrywa swoje łuski przed dworem Arezji dzięki magii *Change Shape* i panicznie boi się demaskacji — nie potrafi znieść myśli, że miałby pozostać „zwykłym gadem” bez boskiej czci i uwielbienia.
 
 ---
 
 ## 2. Sekretna Umowa z Mojrami
 
-Kilkanaście lat temu [[Narsus]] zawarł sekretny układ z [[Mojry|Mojrami]]. Nie szukał ratunku z „niewoli", tylko powrotu na Olimp. W zamian za cenę dostał od wiedźm pełną wiedzę o rytuale **Theogenesis** oraz o położeniu trzech Boskich Artefaktów.
+Kilkanaście lat temu [[Narsus]] zawarł sekretny układ z [[Mojry|Mojrami]]. Nie szukał ratunku z „niewoli", tylko powrotu do panteonu bóstw Thylei. W zamian za cenę dostał od wiedźm pełną wiedzę o rytuale **Theogenesis** oraz o położeniu trzech Boskich Artefaktów.
 
-Narsus nikomu nie zdradza źródła tej wiedzy. Utrzymuje, że odkrył ją sam lub że drogę objawiła mu we śnie matka. Nikt w Thylei nie wie, skąd wziął się ten rytuał.
+Narsus nikomu nie zdradza źródła tej wiedzy. Utrzymuje, że odkrył ją sam lub że drogę objawiła mu we śnie matka [[Balmytria]] (czczona w niebiosach jako [[Mytros (Bogini)|Bogini Mytros]]). Nikt w Thylei nie wie, skąd wziął się ten rytuał.
 
 ### Cena: Oath of Service (Przysięga Służby)
 Ceną za wiedzę była **Przysięga Służby (*Oath of Service*)**, płatna **po** ponownym wstąpieniu do grona bogów:
@@ -348,7 +348,7 @@ To jest prawdziwy kształt nowej ery i najmocniejszy argument za planem [[Versir
 
 ## 4. Wyciek Theogenesis i Wezwanie Bohaterów (Rok 15)
 
-Przez kilkanaście lat [[Narsus]] trzymał wiedzę o rytuale w tajemnicy, pławiąc się w luksusach i czekając na dogodny moment. Dopiero w 15. roku dworskie przygotowania do rytuału w podziemnej *Chamber of Beauty* weszły w decydującą fazę. Niewyparzony język próżnego półboga, który zaczął rozpowiadać służbie i kapłankom o swoim rychłym powrocie na niebiosa, doprowadził do przecieku za mury miasta.
+Przez kilkanaście lat [[Narsus]] trzymał wiedzę o rytuale w tajemnicy, pławiąc się w luksusach i czekając na dogodny moment. Dopiero w 15. roku dworskie przygotowania do rytuału w podziemnej *Chamber of Beauty* weszły w decydującą fazę. Niewyparzony język próżnego smoka-boga, który zaczął rozpowiadać służbie i kapłankom o swoim rychłym powrocie na niebiosa, doprowadził do przecieku za mury miasta.
 
 Dla [[Mytros]] brzmi to jak wyrok: **Arezja jest o krok od stworzenia nowego boga.** Dotychczasowe, 3-letnie oblężenie pod wodzą Tarana — motywowane dotąd cłami, ambicjami i sporem granicznym — okazuje się całkowicie bezradne wobec groźby boskiej apoteozy. To ten wyciek w roku 15 zmienia lokalną wojnę polityków w kryzys kosmiczny i zmusza królową [[Vallus]] do natychmiastowego wezwania Bohaterów Przepowiedni.
 
@@ -364,7 +364,7 @@ Dla [[Mytros]] brzmi to jak wyrok: **Arezja jest o krok od stworzenia nowego bog
 
 ### Dlaczego Narsus nie sięgnął po Kaduceusz przez 15 lat?
 1. **Kategoryczny zakaz Heleny i brak klucza:** [[Królowa Helena]], pamiętając koszmar wampiryzmu Calliope, zabroniła naruszania pieczęci Kurhanów pod karą śmierci. Wejście bez zniszczenia [[Portret Karpathosa|Portretu]] groziłoby przebudzeniem wampirzego rodu — a Portret Karpathosa spoczywał bezpiecznie w prywatnej kajucie [[Orestes|Orestesa]] na pokładzie [[Ultros|Ultrosa]] w porcie [[Mytros]].
-2. **Tchórzostwo Narsusa:** Narsus kocha luksus i bezpieczeństwo. Zejście do grobowca pełnego wampirów uważał za barbarzyństwo — wolał czekać, aż ktoś inny (bohaterowie lub arezyjscy czempioni) zdobędzie artefakt dla niego.
+2. **Tchórzostwo i próżność Narsusa:** Mimo że jest potężnym brązowym smokiem, Narsus kocha luksus i panicznie boi się zranienia swoich łusek lub skazy na ciele. Zejście do grobowca pełnego wampirów uważał za barbarzyństwo — wolał czekać, aż ktoś inny (bohaterowie lub arezyjscy czempioni) zdobędzie artefakt dla niego.
 
 Mapę do Zatopionego Królestwa ma **[[Pyrrha]]**, syrena usługująca Narsusowi w Wiszących Ogrodach Arezji — pamiątkę rodową, którą strzegła przez lata. Rzecz, której [[Arevon Elorrenthi|Arevon]] szukał bezskutecznie przez piętnaście lat, leży w strzeżonych ogrodach w mieście obok!
 

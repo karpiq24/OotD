@@ -40,7 +40,7 @@ Materiał źródłowy: rozdziały REMASTERU *The New Pantheon*, *The Siege of Ar
 | Tor | Kto | Cel | Co wie / Jaki Pakt |
 |---|---|---|---|
 | **Krosno** | [[Mojry]] vs [[Versir]] | Mojry hodują zadłużonych bogów; Versir chce dokonać deicydu za śmierć matki ([[Versi Pierwsza\|Versi Pierwszej]]) i wspieranie Tytanów | Mojry widzą go na Krośnie, ale ignorują go z boską arogancją |
-| **Boskość** | [[Narsus]], [[Taran Neurdagon]], Rada [[Mytros]], [[Królowa Helena]] | Wyniesienie śmiertelnika do boskości; Narsus ma wiedzę o *Theogenesis* | Narsus kupił wiedzę od Mojr za *Oath of Service*, bagatelizuje ten dług z próżności |
+| **Boskość** | [[Narsus]], [[Taran Neurdagon]], Rada [[Mytros]], [[Królowa Helena]] | Odzyskanie boskości przez upadłego boga-smoka Narsusa (Arystonara); wiedza o *Theogenesis* | Narsus kupił wiedzę od Mojr za *Oath of Service*, bagatelizuje ten dług z próżności |
 | **Powrót Lutherii** | [[Mistrz Cieni]] | Odrodzenie [[Lutheria\|Lutherii]] z Otchłani poprzez żniwo wojny, odłamki kosy, rytuał i Kaduceusz | Kupił wojnę od Mojr za Traktat ze skarbca Sydona i zobowiązanie do zabicia Heleny |
 
 Wszystkie trzy tory zbiegają się w [[Arezja|Arezji]], bo tam leżą wszystkie potrzebne elementy: Narsus, Kaduceusz w grobowcu Karpathosa, wojna zasilająca uśpioną Lutherię i oblężenie paraliżujące całą krainę.
@@ -123,8 +123,8 @@ Każde wydarzenie ma **kompletne, naturalne wyjaśnienie polityczne lub material
 
 | Rok | Wydarzenie | Wyjaśnienie doczesne (oficjalne) | Niewidzialna Ingerencja Mojr (Mechanizm Fatum) |
 |---|---|---|---|
-| 1 | Mytros wypłaca odszkodowania rodzinom 1200 poległych Arezyjczyków z Bitwy o Mytros. Ceremonia, pomnik, dobre słowa. | Poczucie wspólnoty po ocaleniu świata przed Tytanami. | — |
-| 2 | Wspólna ekspedycja floty Mytros i Arezji przeciw piratom na [[Zatoka Cerulańska\|Zatoce Cerulańskiej]]. Sukces. Oficerowie obu miast piją razem. | Likwidacja wspólnego zagrożenia handlowego. | — |
+| 1 | Mytros wznosi monument ku czci 1200 poległych Arezyjczyków z Bitwy o Mytros. W Arezji narasta jednak głęboki żal i gniew społeczny po stracie elity wojskowej; dwór Heleny uważa, że Mytros nigdy nie spłaci tego długu krwi. | Pretensje po stracie wojska w obronie obcego miasta; tlący się spór o cła na żelazo z Wyspy Indygo. | — |
+| 2 | Kruche próby współpracy handlowej na [[Zatoka Cerulańska\|Zatoce Cerulańskiej]]. Napięcia rosną z powodu restrykcji na eksport narzędzi i rudy. | Narastający kryzys surowcowy po Tytanomachii. | — |
 | 3 | Cena żelaza z [[Wyspa Indygo\|Wyspy Indygo]] skacze o 50%. | Krasnoludy fedrowały głęboko poniżej dna morza w poszukiwaniu nowych żył. | **Decima napina nić tektoniczną:** Tąpnięcie podmorskiego uskoku zalewa trzy połączone sztolnie w jednym tygodniu, odcinając złoża. |
 | 4 | Arezja podnosi cła na przeprawie przez [[Rzeka Thrake\|Thrake]]. | Odwet handlowy na drożejące narzędzia z Mytros, w pełni legalny w prawie Thylei. | — |
 | 4 | Umiera stary poseł arezyjski w Mytros, jedyny dyplomata szanowany przez obie rady. | Wiek (miał ponad 80 lat). | **Morta przecina nić o 3 lata za wcześnie:** Nowym posłem zostaje bezkompromisowy jastrząb ze stronnictwa [[Taureus\|Taureusa]], gardzący republiką. |
@@ -177,7 +177,7 @@ Punkt zwrotny całej dekady następuje **dokładnie w 15. roku**. Do tej pory wo
 
 Wiadomość, która wycieka zza murów Arezji w roku 15 — że **dwór Heleny i Narsus posiedli rytuał Theogenesis i są gotowi stworzyć nowego boga** — wywraca szachownicę. Żadne państwo w Thylei nie może pozwolić rywalowi na monopol na boskość. Armia pod murami staje się bezużyteczna wobec bóstwa, a Rada Mytros wpada w panikę.
 
-Źródło przecieku: [[Narsus]] kupił wiedzę od Mojr kilkanaście lat temu, lecz dopiero w roku 15 dworskie przygotowania do rytuału w Wiszących Ogrodach stały się niemożliwe do ukrycia. Niewyparzony język półboga i czujność szpiegów doprowadziły do wycieku (patrz [[02 - Wielka Kampania i Główne Wątki#CZĘŚĆ II: Wątek Narsusa, Sekret Theogenesis i Trzy Boskie Artefakty|Wielka Kampania: Wątek Narsusa]]).
+Źródło przecieku: [[Narsus]] kupił wiedzę od Mojr kilkanaście lat temu, lecz dopiero w roku 15 dworskie przygotowania do rytuału w Wiszących Ogrodach stały się niemożliwe do ukrycia. Niewyparzony język smoka-boga i czujność szpiegów doprowadziły do wycieku (patrz [[02 - Wielka Kampania i Główne Wątki#CZĘŚĆ II: Wątek Narsusa, Sekret Theogenesis i Trzy Boskie Artefakty|Wielka Kampania: Wątek Narsusa]]).
 
 To właśnie ta wieść sprawia, że Królowa [[Vallus]] wysyła gońców do pięciu emerytowanych bohaterów.
 
@@ -246,11 +246,11 @@ Podręcznik zakłada, że w trakcie tego okresu bohaterowie prowadzą życie sta
 #### C. Kanon Kampanii
 - **Źródła:** `Timeline.md` (Sesja 84), `00 - Założenia Nowej Ery i Filary Świata.md` (Sekcja 1), `03 - Wojna Mytros-Arezja (Drabina Eskalacji).md` (Sekcje 1–4).
 - Kanoniczny przeskok wynosi **dokładnie 15 lat** od Bitwy o Mytros (Rok 0) do wyruszenia pod mury Arezji (Rok 15 / Sesja 85).
-- Bohaterowie w trakcie tych 15 lat **aktywnie rządzili i trzykrotnie doprowadzili do rozejmu**:
-  1. **Rok 6:** [[Orestes]] wynegocjował słynny traktat zbożowo-piwny, który całkowicie wygasił napięcia handlowe na dwa lata.
-  2. **Rok 8:** [[Felicjan Janus Twardowski|Felicjan]] i [[Smoczy Lordowie|Zakon Smoczych Lordów]] arbitrażem rozstrzygnęli spór o kopalnie żelaza na [[Wyspa Indygo|Wyspie Indygo]] — werdykt został oficjalnie zaprzysiężony przez obie stolice.
-  3. **Rok 12:** [[Arevon Elorrenthi|Arevon]] potajemnie zatopił trzy okręty pierwszej wyprawy wojennej Mytros, paraliżując militarystów i dając czas dyplomacji.
-- Każdy wypracowany przez graczy pokój trwał miesiącami i rozpadał się wyłącznie w wyniku drobnych, niewytłumaczalnych anomalii fatum tkanych przez [[Mojry]].
+- Bohaterowie po ocaleniu świata wycofali się z bieżącej imperialnej polityki do swoich powołań (Felicjan odbudowujący Zakon na Wyspie Yonder, Orestes warzący piwo z Volkanem, Arevon badający Zatopione Królestwo, Orion podróżujący z ojcem, Versir chroniący Astrę). Choć nie rządzili bezpośrednio miastami, ich autorytet moralny był fundamentem kruchego pokoju, a dyplomaci obu stolic trzykrotnie doprowadzili do rozejmów opartych na autorytecie herosów:
+  1. **Rok 6:** Traktat zbożowo-piwny pod patronatem browaru [[Orestes|Orestesa]] wygasił pierwsze napięcia handlowe na dwa lata.
+  2. **Rok 8:** Arbitraż [[Smoczy Lordowie|Zakonu Smoczych Lordów]] i [[Felicjan Janus Twardowski|Felicjana]] załagodził spór o kopalnie żelaza na [[Wyspa Indygo|Wyspie Indygo]].
+  3. **Rok 12:** Kruchy rozejm morski i mediacja na neutralnych wodach [[Zatoka Cerulańska|Zatoki Cerulańskiej]] powstrzymały pierwszą próbę zbrojnej ekspedycji.
+- Każdy wypracowany pokój trwał miesiącami i rozpadał się wyłącznie w wyniku drobnych, niewytłumaczalnych anomalii fatum tkanych przez [[Mojry]].
 
 #### D. Dlaczego Kanon Kampanii ma Pierwszeństwo?
 1. **Dramaturgia Starzenia się i Czasu:** Dokładne 15 lat jest niezbędne, by córka [[Orion Xul|Oriona]], [[Undecima|Undecima (Ione)]], osiągnęła wiek 15 lat (dojrzałość w realiach antycznych). Z kolei dla [[Versir|Versira]] 15 lat to okres, w którym jego śmiertelna ukochana [[Astra]] widocznie się postarzała, podczas gdy on — jako aasimar i istota dotknięta wiecznością — nie zmienił się ani o dzień, co buduje jego osobisty bunt przeciw prawom czasu.
@@ -367,7 +367,7 @@ W oficjalnym module w grobowcu ani w Galerii Sztuki w Arezji (A23) **nie ma żad
 
 #### D. Dlaczego Kanon Kampanii ma Pierwszeństwo?
 1. **Szacunek dla Ekonomii i Zasobów Graczy:** Wydanie 50 000 gp w Sesji 63 było jednym z największych wydatków majątkowych w historii kampanii. Zignorowanie tego zakupu w Nowej Erze byłoby kardynalnym błędem narracyjnym.
-2. **Logika Świata:** Wyjaśnia, dlaczego przez 500 lat nikt w Arezji (w tym potężny Mistrz Cieni ani zakochana w Narsusie królowa) nie wszedł do Kurhanów po Kaduceusz — bez portretu wejście tam było misją samobójczą.
+2. **Logika Świata:** Wyjaśnia, dlaczego przez 500 lat nikt w Arezji (w tym potężny Mistrz Cieni ani kolejne królowe Arezji, w tym obecnie zakochana w Narsusie Helena) nie wszedł do Kurhanów po Kaduceusz — bez portretu wejście tam było misją samobójczą.
 
 #### E. Bezpośrednie Konsekwencje dla Scenariusza Nowej Ery
 - Wyprawa do Kurhanów w Akcie I (Sesja 91–92) wymaga od graczy pamiętania o zabraniu obrazu ze swoich skarbców.
@@ -550,7 +550,7 @@ Zdarzenia te są owocem autentycznych rzutów kośćmi, negocjacji i dramatów r
 #### E. Bezpośrednie Konsekwencje dla Scenariusza Nowej Ery
 - Mytros w Sesji 85 nie jest baśniowym królestwem, lecz pogrążonym w kryzysie państwem u progu rewolucji społecznej.
 - Na Themis brak Darien otwiera pole do skomplikowanej dyplomacji z regentką Hippolytą.
-- Orion w Nowej Erze musi nie tylko ratować świat, ale wyrwać z apatii własnego boskiego ojca.
+- Orion w Nowej Erze musi nie tylko ratować świat, ale wyrwać z apatii własnego ojca, upadłego boga bitwy [[Pythor|Pythora]].
 
 ---
 

@@ -44,7 +44,7 @@ Prastare bóstwa przeznaczenia, sprowadzone do Thylei przez samą pramatkę [[Th
 #### Co robiły przez 15 lat?
 1. **Sprzedały 15-letnią wojnę:** Zawarły tajny kontrakt z [[Mistrz Cieni|Mistrzem Cieni]] ([[02 - Wielka Kampania i Główne Wątki#CZĘŚĆ III: Spisek Mistrza Cieni, Kaduceusz i Powrót Lutherii|Spisek Mistrza Cieni i Powrót Lutherii]]), inkasując *Traktat o Prawach i Zobowiązaniach Krwi* ze skarbca Sydona oraz obietnicę krwi królowej [[Królowa Helena|Heleny]].
 2. **Wplatały wojenne mikro-anomalie:** Systematycznie podważały rozejmy negocjowane przez bohaterów w downtime, wplatając w tkaninę „niewidzialne nieszczęścia” (kurzawka na rzece Thrake, zaraza sporyszu w stadninach Arezji, pijacka burda w Mytros).
-3. **Sprzedały rytuał Theogenesis Narsusowi:** Zainkasowały od próżnego półboga *Przysięgę Służby (Oath of Service)*, przygotowując go do roli wieczystego niewolnika na tronie niebios.
+3. **Sprzedały rytuał Theogenesis Narsusowi:** Zainkasowały od upadłego boga-smoka Narsusa (Arystonara) *Przysięgę Służby (Oath of Service)*, przygotowując go do roli wieczystego niewolnika na tronie niebios.
 4. **Wyhodowały Undecimę:** Wychowały 15-letnią córkę Oriona i Nony, celowo aranżując jej „ucieczkę” i wplatając jej nić jako czwarte pasmo własnego warkocza.
 
 #### Czego chcą?
@@ -261,18 +261,18 @@ flowchart TD
 
 ---
 
-## 5. Narsus — Próżny Półbóg i Droga do Theogenesis
+## 5. Narsus — Zdetronizowany Bóg-Smok i Droga do Theogenesis
 
 ### 5.1. Profil Postaci i Stan Obecny
-- **Kim jest teraz:** Syn bogini Mytros, wydziedziczony półbóg, niegdyś Bóg Piękna. Mężczyzna o nieludzko perfekcyjnej urodzie, szmaragdowych oczach i złotych lokach. Mieszka w opływających złotem i winem [[Wiszące Ogrody|Wiszących Ogrodach]] w Arezji. Nigdy nie był więźniem — mieszka tam dobrowolnie od stuleci, pławiąc się w uwielbieniu dworu i zakochanej w nim Heleny.
-- **Co robił przez 15 lat?** Próżnował, przymierzał szaty, przeglądał się w zwierciadłach i snuł plany powrotu na Olimp.
+- **Kim jest teraz:** W rzeczywistości starożytny brązowy smok **[[Arystonar]]**, syn [[Balmytria|Balmytrii]] i [[Volkan|Volkana]] (Sybolkoraxa), rodzony brat królowej [[Vallus]] (Tysophale), [[Pythor|Pythora]] (Raspytriona) i [[Kyrah]] (Arkyranii). Niegdyś Bóg Piękna, jeden z Pięciu Bogów Thylei. W Arezji występuje pod ludzką postacią olśniewającego mężczyzny o nieludzko perfekcyjnej urodzie, szmaragdowych oczach i złotych lokach (dzięki wrodzonej magii *Change Shape*). Mieszka w opływających złotem i winem [[Wiszące Ogrody|Wiszących Ogrodach]] w Arezji dobrowolnie od stuleci, pławiąc się w uwielbieniu dworu i zakochanej w nim Heleny.
+- **Co robił przez 15 lat?** Po wygaśnięciu [[Przysięga Pokoju|Przysięgi Pokoju]] w [[Sesja 75 - Koniec Przysięgi|Sesji 75]] i utracie boskiej domeny panicznie ukrywał swoją smoczą naturę przed Arezyjczykami. Próżnował, przymierzał szaty, przeglądał się w zwierciadłach i snuł plany powrotu do panteonu bóstw Thylei.
 - **Sekretny Pakt z Mojrami ([[02 - Wielka Kampania i Główne Wątki#CZĘŚĆ II: Wątek Narsusa, Sekret Theogenesis i Trzy Boskie Artefakty|Wielka Kampania: Wątek Narsusa]]):** Kilkanaście lat temu kupił od Mojr pełną wiedzę o rytuale *Theogenesis* i położeniu 3 artefaktów. Ceną była **Przysięga Służby (*Oath of Service*)**, płatna po ponownym wstąpieniu do boskości. Bagatelizuje ten dług z pychy — wierzy, że jako nieśmiertelny bóg zlekceważy wiedźmy.
 - **Zarzewie Kryzysu (Wyciek Theogenesis w 15. roku):** Przez lata dwór w Arezji trzymał formułę w tajemnicy. Dopiero w 15. roku, gdy przygotowania w *Chamber of Beauty* weszły w decydującą fazę, próżny Narsus zaczął chwalić się służbie i kapłankom. Wieść o rychłej apoteozie wyciekła za mury i wywołała panikę w Mytros, stając się bezpośrednim powodem wezwania Bohaterów Przepowiedni.
 
 ### 5.2. Motywacje, Psychologia i Lęki
-- **Czego chce?** Przeprowadzić rytuał *Theogenesis*, odzyskać pełną boskość, błyszczeć na niebiosach i być wielbionym przez wszystkie narody Thylei.
-- **Dlaczego?** Został wydziedziczony przez matkę Mytros za odmowę walki w Pierwszej Wojnie. Cierpi na potężny kompleks niższości maskowany megalomanią.
-- **Czego się boi?** Fizycznego bólu, brzydoty, starości, bezpośredniej walki (panicznie boi się zebrania Kaduceusza z Kurhanów) oraz kompromitacji przed śmiertelnikami.
+- **Czego chce?** Przeprowadzić rytuał *Theogenesis*, odzyskać utraconą w Sesji 75 pełną boskość, błyszczeć na niebiosach i być wielbionym przez wszystkie narody Thylei.
+- **Dlaczego?** Nie potrafi pogodzić się z rolą „zwykłego smoka bez boskich domen”, zepchniętego z piedestału po upadku Przysięgi Pokoju. Cierpi na potężny kompleks niższości maskowany megalomanią.
+- **Czego się boi?** Demaskacji swojej smoczej tożsamości przed Arezyjczykami, fizycznego bólu (zranienie mogłoby na ułamek sekundy obnażyć brązowe łuski), brzydoty, bezpośredniej walki (panicznie boi się zebrania Kaduceusza z Kurhanów) oraz kompromitacji przed śmiertelnikami.
 - **Co wie?** Zna formułę *Theogenesis*, wie, gdzie leżą artefakty (Kaduceusz w Kurhanach, Ambrozja u Zakrotha, Ogień Prometejski na dnie morza), a jego służka Pyrrha ma mapę do Nowej Egei.
 
 ### 5.3. Relacja z Ekoh
@@ -490,7 +490,7 @@ Zakroth to mroczne odbicie [[Orestes|Orestesa]]. Obaj są minotaurami, obaj byli
 ## 10. Królowa Vallus — Bogini Mądrości / Smoczyca Tysophale
 
 ### 10.1. Profil Postaci i Stan Obecny
-- **Kim jest teraz:** Władczyni Mytros po abdykacji Acastusa ([[Sesja 84 - Świt Nowej Ery|Sesja 84]]). Najstarsza córka bogini Mytros, tradycyjnie czczona jako Bogini Mądrości. W rzeczywistości jest starożytną brązową smoczycą **[[Tysophale]]**, wierzchowcem pierwszego smoczego lorda Telamoka Arkelandera. Jej boska domena wróciła do Tytanów w Sesji 75 — rządzi bez magii bóstwa, opierając się wyłącznie na smoczej mądrości i autorytecie.
+- **Kim jest teraz:** Władczyni Mytros po abdykacji Acastusa ([[Sesja 84 - Świt Nowej Ery|Sesja 84]]). Córka [[Balmytria|Balmytrii]] i [[Volkan|Volkana]] (Sybolkoraxa), rodzona siostra [[Pythor|Pythora]], [[Kyrah]] oraz [[Arezja/Narsus|Narsusa (Arystonara)]]. Tradycyjnie czczona jako Bogini Mądrości. W rzeczywistości jest starożytną brązową smoczycą **[[Tysophale]]**, wierzchowcem pierwszego smoczego lorda Telamoka Arkelandera. Jej boska domena wróciła do Tytanów w Sesji 75 — rządzi bez magii bóstwa, opierając się wyłącznie na smoczej mądrości i autorytecie.
 - **Co robiła przez 15 lat?**
   - Odbudowywała zrujnowaną stolicę, powstrzymując czystki polityczne po stronnikach Acastusa i Sydona.
   - Zmagała się z kryzysem republiki: pustym skarbcem, inflacją, naciskami magnata Tarana Neurdagona oraz niepopularną, 3-letnią wojną z Arezją.

@@ -84,7 +84,7 @@ Prolog składa się z trzech płynnie przechodzących w siebie części:
 
 #### 1. [[Felicjan Janus Twardowski|Felicjan]] — Skrzydła nad Cytadelą i Granice Przysięgi
 
-* **Miejsce:** Twierdza Zakonu Smoczych Lordów (Aerie na smoczej skale).
+* **Miejsce:** Twierdza Zakonu Smoczych Lordów na [[Wyspa Yonder|Wyspie Yonder]] (dawna warownia z biblioteką glinianych tabliczek).
 * **Scena:** Nad urwiskiem wieje chłodny, morski wiatr. Wokół kamiennych wież szybują młode smoki, a z dziedzińca dobiega miarowy stukot drewnianych mieczy — nowe pokolenie Smoczych Lordów ćwiczy manewry. Na szerokiej półce skalnej spoczywa [[Kairos]]. Twój brązowy smok wyrósł na potężną bestię; w słońcu lśnią jego spiżowe łuski, a basowy oddech wprawia w drżenie kamienne balustrady.
 Do krawędzi podchodzi oficer Zakonu, trzymając zwój z pieczęcią Senatu Mytros:  
 — *Lordzie Felicjanie... Kolejne pismo od frakcji Tarana. Żądają trzech smoków nad mury Arezji. Przypominają, kto finansuje stajnie.*
@@ -170,20 +170,22 @@ Na ścieżce staje kapłanka w bieli ze Świątyni Wyroczni:
 Piętnasty rok. Drugie oblężenie [[Arezja|Arezji]] trwa trzeci rok. Wszyscy bohaterowie wkraczają do marmurowego Teatru Bogów, gdzie czeka na nich Królowa [[Vallus]] oraz zaniepokojona Rada Mytros.
 
 ### Dlaczego Dopiero Teraz? Iskra Theogenesis
-Przez trzy lata trwania oblężenia bohaterowie konsekwentnie odmawiali mieszania się w brudną, polityczną wojnę oligarchów Tarana Neurdagona. Ani Felicjan, ani Orestes, ani Orion nie zamierzali służyć chciwości kupców ani wyrzynać arezyjskich weteranów.
+Przez trzy lata trwania oblężenia bohaterowie konsekwentnie odmawiali mieszania się w brudną, polityczną wojnę oligarchów Tarana Neurdagona. Ani Felicjan, ani Orestes, ani Orion nie zamierzali służyć chciwości kupców ani wyrzynać arezyjskich weteranów, pamiętając ofiarę 1200 hoplitów, którzy oddali życie w obronie Mytros przed Tytanami.
 
 Co zmieniło się dziś? **Raport wywiadu o *Theogenesis*.**
-Wczoraj do Mytros dotarł niezaprzeczalny dowód: zepsuty dwór w Arezji i próżny półbóg [[Narsus]] posiedli pradawny rytuał Theogenesis i są o krok od przeprowadzenia apoteozy nowego boga. 
-Dla Królowej [[Vallus]] sprawa jest jasna: jeśli Arezja stworzy własne bóstwo, armia Tarana pod murami zostanie starta w pył w sekundę, a Thylea wpadnie w jarzmo nowej, nieobliczalnej tyranii. Zwykła wojna graniczna w jednej chwili stała się zagrożeniem egzystencjalnym dla całego kontynentu.
+Wczoraj do Mytros dotarł niezaprzeczalny, wstrząsający dowód: rodzony brat królowej Vallus, brązowy smok Arystonar, którego świat zna pod imieniem [[Narsus|Narsusa]], z pomocą dworu w Arezji wszedł w posiadanie pradawnego rytuału Theogenesis i jest o krok od przeprowadzenia apoteozy nowego boga. 
+
+Dla Królowej [[Vallus]] sprawa jest osobistym dramatem i zagrożeniem kosmicznym:
+— *Nasz brat nigdy nie pogodził się z utratą boskości, gdy piętnaście lat temu wygasła Przysięga Pokoju. W swej próżności nie potrafi znieść roli „zwykłego smoka bez domen”. Jeśli Arezja dokona apoteozy Arystonara, armia Tarana pod murami zostanie starta w pył w sekundę, a Thylea wpadnie w jarzmo nowej tyranii. Zwykła wojna graniczna w jednej chwili stała się zagrożeniem egzystencjalnym dla całego kontynentu.*
 
 ### Czego Chce Rada Mytros
-Rada nie prosi o poprowadzenie kolejnego bezmyślnego szturmu na stumetrowe mury. [[Taran Neurdagon|Taran]] wciąż formalnie dowodzi obozem, lecz jego spekulacje doprowadziły skarb państwa na skraj bankructwa.
+Rada nie prosi o poprowadzenie kolejnego bezmyślnego szturmu na stumetrowe mury. [[Taran Neurdagon|Taran]] wciąż formalnie dowodzi obozem, lecz jego spekulacje doprowadziły skarb państwa na skraj bankructwa. Bohaterowie nie przybywają jako zbrojne ramię oligarchów, lecz jako **niezależni arbitrzy i rozjemcy** — jedyne postacie w Thylei, którym obie strony jeszcze ufają.
 
-Rada Mytros i Królowa Vallus żądają jednego: **powstrzymać Theogenesis i zakończyć tę wojnę za wszelką cenę.**
+Rada Mytros i Królowa Vallus żądają jednego: **powstrzymać Theogenesis i zakończyć tę hańbiącą wojnę za wszelką cenę.**
 - Skarbiec republiki jest pusty — trzy lata pod murami zjadły dekadę powojennej odbudowy.
 - Xanderia i połowa wybrzeża popierają Arezję ze strachu przed imperializmem Mytros.
 - Jeśli Arezja dokona Theogenesis, przegrana wojna przestaje być najgorszym scenariuszem — nadejdzie era boskiego terroru.
-- Bohaterowie Przepowiedni to jedyne postacie w Thylei, którym obie strony jeszcze ufają i które mają potęgę zdolną stawić czoła rytuałowi boskości.
+- Bohaterowie Przepowiedni otrzymują pełny mandat do działania: mogą odsunąć Tarana od dowodzenia, rozliczyć spekulantów i wynegocjować trwały pokój z Heleną.
 
 Mandat jest celowo otwarty: **Metoda należy do graczy.** Rada nie dyktuje kroków — pyta tylko, czy herosi zapobiegną kosmicznej katastrofie.
 
