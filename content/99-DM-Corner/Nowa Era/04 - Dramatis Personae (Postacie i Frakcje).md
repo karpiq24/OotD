@@ -86,11 +86,11 @@ Przed eonami zaczęły jako służba. Uznały, że za zarządzanie wszechświate
 
 | Bohater Gracza | Stosunek Mojr do Bohatera | Historia Interakcji (Kanon S1–S84) | Dźwignia Psychologiczna / Haczyk |
 |---|---|---|---|
-| **[[Versir]]** | Pogarda zmieszana z arogancją; uważają go za „kolejną bezsilną nić”. | Mojry pomogły Lutherii zamordować jego matkę [[Versi Pierwsza|Versi Pierwszą]]. W S47 pokazały mu fałszywą wizję śmierci z rąk Lutherii. | Uważają, że nie jest w stanie ich zaskoczyć, bo widzą go na krośnie. Ta arogancja to jego jedyna szansa. |
-| **[[Orion Xul|Orion]]** | Cyniczne rozbawienie; traktują go jak dłużnika i narzędzie reprodukcyjne. | W S47 oddał nasienie Nonie za wzmocnienie włóczni. W S84 porzucił Lyrę, kopiując grzech Pythora. | Szantaż emocjonalny córką [[Undecima|Undecimą]]: *„Zabij nas, a spalisz własne dziecko”*. |
-| **[[Felicjan Janus Twardowski|Felicjan]]** | Szacunek jak do trudnego klienta banku; badają jego konstrukcje prawne. | W S48 oddał połowę potencjału leczenia za smocze jaja i ulepszenie korony. | Felicjan jest świadom ich lichwy i buduje instytucje odporne na klątwy losu. |
+| **[[Versir]]** | Pogarda zmieszana z arogancją; uważają go za „kolejną bezsilną nić”. | Mojry pomogły Lutherii zamordować jego matkę [[Versi Pierwsza\|Versi Pierwszą]]. W S47 pokazały mu fałszywą wizję śmierci z rąk Lutherii. | Uważają, że nie jest w stanie ich zaskoczyć, bo widzą go na krośnie. Ta arogancja to jego jedyna szansa. |
+| **[[Orion Xul\|Orion]]** | Cyniczne rozbawienie; traktują go jak dłużnika i narzędzie reprodukcyjne. | W S47 oddał nasienie Nonie za wzmocnienie włóczni. W S84 porzucił Lyrę, kopiując grzech Pythora. | Szantaż emocjonalny córką [[Undecima\|Undecimą]]: *„Zabij nas, a spalisz własne dziecko”*. |
+| **[[Felicjan Janus Twardowski\|Felicjan]]** | Szacunek jak do trudnego klienta banku; badają jego konstrukcje prawne. | W S48 oddał połowę potencjału leczenia za smocze jaja i ulepszenie korony. | Felicjan jest świadom ich lichwy i buduje instytucje odporne na klątwy losu. |
 | **[[Orestes]]** | Ciekawość; widzą w nim anomalię, która wymknęła się ze świata umarłych. | Zabił Lutherię Toporem Xandera w S82. W S48 odrzucił ich ofertę. Nona obiecała mu nawiedzenie we śnie. | Trzymają jego dług jako otwarty rachunek; wiedzą, że minotaur wciąż nieświadomie nuci arkaniczny hymn Lutherii. |
-| **[[Arevon Elorrenthi|Arevon]]** | Chłodna obojętność wobec „obcego elementu” spoza kosmologii Thylei. | W S48 oddał cząstkę swojej szybkości za pakt. Przez 15 lat nie potrafił znaleźć Zatopionego Królestwa. | Skrywały przed nim mapę Pyrrhy, drwiąc z jego bezowocnych poszukiwań. |
+| **[[Arevon Elorrenthi\|Arevon]]** | Chłodna obojętność wobec „obcego elementu” spoza kosmologii Thylei. | W S48 oddał cząstkę swojej szybkości za pakt. Przez 15 lat nie potrafił znaleźć Zatopionego Królestwa. | Skrywały przed nim mapę Pyrrhy, drwiąc z jego bezowocnych poszukiwań. |
 
 ---
 
@@ -148,9 +148,9 @@ flowchart LR
 |---|---|
 | **[[Versir]]** | Osobisty wróg; to ona zamordowała jego matkę Versi Pierwszą i drwiła z jego dziedzictwa tytanów. Versir przejrzył jej samotność w Sesji 82. |
 | **[[Orestes]]** | Jej zabójca z Sesji 82 (ściął jej głowę) i jednocześnie jej mimowolna arka rezonansowa (Hymn Przebudzenia). |
-| **[[Felicjan Janus Twardowski|Felicjan]]** | Przeciwnik intelektualny; to on w Sesji 82 wygasił jej fantazmaty i złamał domenę snów promieniami słońca. |
-| **[[Orion Xul|Orion]]** | Gardzi nim jako marionetką bogów; pamięta, jak bez litości zabił jej sługi w Sesji 81–82. |
-| **[[Arevon Elorrenthi|Arevon]]** | Uważa go za intruza z obcego kosmosu, którego gwiazdy nie mają prawa świecić nad jej morzem. |
+| **[[Felicjan Janus Twardowski\|Felicjan]]** | Przeciwnik intelektualny; to on w Sesji 82 wygasił jej fantazmaty i złamał domenę snów promieniami słońca. |
+| **[[Orion Xul\|Orion]]** | Gardzi nim jako marionetką bogów; pamięta, jak bez litości zabił jej sługi w Sesji 81–82. |
+| **[[Arevon Elorrenthi\|Arevon]]** | Uważa go za intruza z obcego kosmosu, którego gwiazdy nie mają prawa świecić nad jej morzem. |
 
 ### 2.4. Scenariusze Reakcji Lutherii
 - **Jeśli gracze chronią Kaduceusz:** Wpada we wściekłość w Otchłani. Zamiast czekać na pełne odrodzenie, uderza w Kamień Apokalipsy przedwcześnie, przyspieszając przebudzenie Nether Tytanów.
@@ -191,9 +191,9 @@ flowchart LR
 |---|---|
 | **[[Versir]]** | Szanuje jego stoicyzm i królewski autorytet aasimara; widzi w nim jedynego mediatora godnego zaufania. |
 | **[[Orestes]]** | Ma do niego szczególną słabość — w S62 Orestes pokonał w zapasach Mistrza Halcyona, a przez całe 15 lat wojen dostarczał piwo do Arezji. Orestes ma wstęp za mury bez straży. |
-| **[[Felicjan Janus Twardowski|Felicjan]]** | Szanuje go jako męża stanu, lecz ma żal za to, że Zakon Smoczych Lordów nie powstrzymał wyprawy wojennej Tarana. |
-| **[[Orion Xul|Orion]]** | Podziwia jego kunszt wojenny, widząc w nim uosobienie cnót hoplity, ale niepokoi ją jego porywczość. |
-| **[[Arevon Elorrenthi|Arevon]]** | Pamięta, że Arevon szukał wiedzy o morzu; wie, że syrena Pyrrha posiada mapę głębin. |
+| **[[Felicjan Janus Twardowski\|Felicjan]]** | Szanuje go jako męża stanu, lecz ma żal za to, że Zakon Smoczych Lordów nie powstrzymał wyprawy wojennej Tarana. |
+| **[[Orion Xul\|Orion]]** | Podziwia jego kunszt wojenny, widząc w nim uosobienie cnót hoplity, ale niepokoi ją jego porywczość. |
+| **[[Arevon Elorrenthi\|Arevon]]** | Pamięta, że Arevon szukał wiedzy o morzu; wie, że syrena Pyrrha posiada mapę głębin. |
 
 ### 3.4. Rola w Intrydze i Cel Zamachu
 Helena stawia graczom warunek: otworzy Kurhany Karpathosa po Kaduceusz **tylko wtedy**, gdy gracze wyeliminują zagrożenie Zakrotha na północy półwyspu.  
@@ -245,9 +245,9 @@ flowchart TD
 |---|---|
 | **[[Versir]]** | Boi się jego przenikliwości i znajomości bibliotek tytanów; unika bezpośredniego kontaktu magicznego. |
 | **[[Orestes]]** | Uważa go za swój największy triumf nekromantyczny — uczyniła z niego żywy instrument niosący melodię wskrzeszenia bogini. |
-| **[[Felicjan Janus Twardowski|Felicjan]]** | Ostrzegał przed nią w S84. Jocasta wie, że Felicjan ma obsesję na punkcie rozliczania relikwii, więc stale zaciera przed nim ślady. |
-| **[[Orion Xul|Orion]]** | Traktuje go jak tępego mięśniaka, którego można łatwo zmanipulować walką i honorem. |
-| **[[Arevon Elorrenthi|Arevon]]** | W S83 to Arevon wręczył jej *Traktat* w ruinach baru w Mytros; Jocasta uważa go za naiwnego pacyfistę. |
+| **[[Felicjan Janus Twardowski\|Felicjan]]** | Ostrzegał przed nią w S84. Jocasta wie, że Felicjan ma obsesję na punkcie rozliczania relikwii, więc stale zaciera przed nim ślady. |
+| **[[Orion Xul\|Orion]]** | Traktuje go jak tępego mięśniaka, którego można łatwo zmanipulować walką i honorem. |
+| **[[Arevon Elorrenthi\|Arevon]]** | W S83 to Arevon wręczył jej *Traktat* w ruinach baru w Mytros; Jocasta uważa go za naiwnego pacyfistę. |
 
 ### 4.4. Scenariusze Reakcji Mistrza Cieni
 - **Gdy drużyna wkracza do Czerwonego Lotosu (Sesja 86):** Jako Jocasta wita ich z otwartymi ramionami, stawia wino, podpytuje o nastroje w obozie Tarana i rzuca „życzliwe plotki” o Narsusie.
@@ -283,10 +283,10 @@ Oreada-łowczyni Ekoh wygrała dawny konkurs o jego rękę (srebrne poroże bia�
 | Bohater | Relacja z Narsusem |
 |---|---|
 | **[[Versir]]** | W S44 Versir powiedział Kyrah, że Narsus jest największym głupcem w Thylei. Narsus czuje przed nim respekt, ale uważa go za sztywnego fanatyka. |
-| **[[Orion Xul|Orion]]** | Narsus patrzy na niego z zazdrością (Orion dokonał wielkich czynów wojennych), ale drwi z jego braku ogłady i manier. |
-| **[[Felicjan Janus Twardowski|Felicjan]]** | Boi się intelektu Felicjana; obawia się, że czarodziej przejrzy luki w rytuale Theogenesis. |
+| **[[Orion Xul\|Orion]]** | Narsus patrzy na niego z zazdrością (Orion dokonał wielkich czynów wojennych), ale drwi z jego braku ogłady i manier. |
+| **[[Felicjan Janus Twardowski\|Felicjan]]** | Boi się intelektu Felicjana; obawia się, że czarodziej przejrzy luki w rytuale Theogenesis. |
 | **[[Orestes]]** | W S63 Orestes wręczył mu Słoneczny Granat. Narsus traktuje minotaura jak poczciwego, silnego sługę, któremu można rzucać resztki z pańskiego stołu. |
-| **[[Arevon Elorrenthi|Arevon]]** | Traktuje druida instrumentalnie — potrzebuje jego umiejętności żeglarskich, by dopłynąć z mapą Pyrrhy do Zatopionego Królestwa. |
+| **[[Arevon Elorrenthi\|Arevon]]** | Traktuje druida instrumentalnie — potrzebuje jego umiejętności żeglarskich, by dopłynąć z mapą Pyrrhy do Zatopionego Królestwa. |
 
 ### 5.5. Reakcje Narsusa i Propozycje Wzmocnienia
 - **Reakcja w Akcie II (Sesje 101–102):** Podczas Theogenesis na ciele Narsusa rozżarzają się eteryczne kajdany Mojr. Gdy uświadamia sobie, że stał się niewolnikiem Krosna, wpada w histeryczny płacz i błaga bohaterów o ratunek.
@@ -316,11 +316,11 @@ Oreada-łowczyni Ekoh wygrała dawny konkurs o jego rękę (srebrne poroże bia�
 
 | Bohater | Relacja z Taranem |
 |---|---|
-| **[[Felicjan Janus Twardowski|Felicjan]]** | Śmiertelny wróg polityczny. Felicjan uważał go za zarodek zepsucia już w S84 i nałożył drakońskie podatki na jego majątek. Taran nienawidzi Zakonu za neutralność. |
+| **[[Felicjan Janus Twardowski\|Felicjan]]** | Śmiertelny wróg polityczny. Felicjan uważał go za zarodek zepsucia już w S84 i nałożył drakońskie podatki na jego majątek. Taran nienawidzi Zakonu za neutralność. |
 | **[[Orestes]]** | Robi interesy z jego browarem. Taran traktuje Orestesa pobłażliwie, uważając, że „każdego można kupić”. |
-| **[[Orion Xul|Orion]]** | W S19 zaoferował Orionowi złoto za zabicie Moxeny. Uważa Oriona za żołnierza do wynajęcia. |
+| **[[Orion Xul\|Orion]]** | W S19 zaoferował Orionowi złoto za zabicie Moxeny. Uważa Oriona za żołnierza do wynajęcia. |
 | **[[Versir]]** | Boi się chłodnego autorytetu aasimara i unika z nim sporów prawnych. |
-| **[[Arevon Elorrenthi|Arevon]]** | Nie rozumie druida, uważając go za nieszkodliwego leśnego dziwaka. |
+| **[[Arevon Elorrenthi\|Arevon]]** | Nie rozumie druida, uważając go za nieszkodliwego leśnego dziwaka. |
 
 ### 6.4. Reakcje Tarana i Propozycje Wzmocnienia
 - **Gdy bohaterowie wkraczają do obozu (Sesja 85–86):** Próbuje wkupić się w ich łaski, oferuje bankiet, zrzuca winę na nieustępliwość Heleny i żąda, by Felicjan przysłał smoki do spalenia spichlerzy Arezji.
@@ -397,11 +397,11 @@ Najważniejszą osią dramaturgiczną Ione jest **niepewność drużyny co do je
 
 | Bohater | Relacja i Dynamika Dramatyczna |
 |---|---|
-| **[[Orion Xul|Orion]]** | **Żywe oskarżenie i bolesna próba ojcostwa.** Ione nie rzuca mu się na szyję. Dotyka jego pancerza i mówi: *„Jesteś zrobiony z ciężkiej, ciemnej wełny, Orionie. Dużo krwi w ciebie wsiąkło. Pokaż mi tę włócznię, za którą mnie sprzedałeś. Chcę zobaczyć, czy było warto”*. Orion widzi w niej odbicie swojej największej hańby i klątwy Pythora. Musi udowodnić jej, że potrafi chronić, a nie tylko zabijać. |
+| **[[Orion Xul\|Orion]]** | **Żywe oskarżenie i bolesna próba ojcostwa.** Ione nie rzuca mu się na szyję. Dotyka jego pancerza i mówi: *„Jesteś zrobiony z ciężkiej, ciemnej wełny, Orionie. Dużo krwi w ciebie wsiąkło. Pokaż mi tę włócznię, za którą mnie sprzedałeś. Chcę zobaczyć, czy było warto”*. Orion widzi w niej odbicie swojej największej hańby i klątwy Pythora. Musi udowodnić jej, że potrafi chronić, a nie tylko zabijać. |
 | **[[Orestes]]** | **Ciepła przystań i dysonans bezpieczeństwa.** Orestes jako pierwszy przełamuje jej chłód — karmi ją w tawernie Ultrosa, daje jej ciepły chleb, uczy ją śmiać się i nucić melodie. Ione czuje się przy nim bezpiecznie, lecz potrafi nagle powiedzieć mu z przerażającym spokojem: *„Twoja pieśń pachnie trupem z głębin morza, byczku. Dlaczego śpiewasz to, co śni się Lutherii?”*. |
-| **[[Felicjan Janus Twardowski|Felicjan]]** | **Arkaniczna nieufność i próba deszyfracji.** Felicjan patrzy na nią jak na żywy podsłuch Mojr. Bada konstrukcję jej paktu czarnoksięskiego, próbuje skonstruować ołowiany diadem blokujący pole widzenia Nony i bezustannie sprawdza, czy jej słowa nie są konstrukcją manipulacyjną. Ione lubi pruć jego bogate togi ze Smoczej Skały. |
+| **[[Felicjan Janus Twardowski\|Felicjan]]** | **Arkaniczna nieufność i próba deszyfracji.** Felicjan patrzy na nią jak na żywy podsłuch Mojr. Bada konstrukcję jej paktu czarnoksięskiego, próbuje skonstruować ołowiany diadem blokujący pole widzenia Nony i bezustannie sprawdza, czy jej słowa nie są konstrukcją manipulacyjną. Ione lubi pruć jego bogate togi ze Smoczej Skały. |
 | **[[Versir]]** | **Chłodna analiza i pionek w równaniu.** Versir dostrzega w niej brakujące 11. wrzeciono kowenu. Wie, że jej życie jest warunkiem powodzenia puczu. Ione patrzy na aasimara z respektem: *„Twoja nić nie ma zmarszczek, Versirze. Świeci jak srebro, ale jest naciągnięta tak mocno, że aż dzwoni. Kiedyś pękniesz z wielkim hukiem”*. |
-| **[[Arevon Elorrenthi|Arevon]]** | **Obserwator aury i powiew obcego nieba.** Arevon widzi, że aura Ione jest nienaturalnie spleciona ze smoczą kością i śmiercią. Uczy ją patrzeć w gwiazdy i słuchać morza, próbując wyciszyć dudnienie krosna w jej głowie. Ione jest zafascynowana faktem, że Arevon pochodzi spoza splotu Thylei. |
+| **[[Arevon Elorrenthi\|Arevon]]** | **Obserwator aury i powiew obcego nieba.** Arevon widzi, że aura Ione jest nienaturalnie spleciona ze smoczą kością i śmiercią. Uczy ją patrzeć w gwiazdy i słuchać morza, próbując wyciszyć dudnienie krosna w jej głowie. Ione jest zafascynowana faktem, że Arevon pochodzi spoza splotu Thylei. |
 
 ---
 
@@ -568,7 +568,7 @@ W Akcie III Versir musi obsadzić 3 fotele przy Krośnie Mojr, by przeprowadzić
 
 ### 14.1. Główna Macierz Relacji NPC vs Bohaterowie Graczy
 
-| NPC | [[Versir]] | [[Orion Xul|Orion]] | [[Felicjan Janus Twardowski|Felicjan]] | [[Orestes]] | [[Arevon Elorrenthi|Arevon]] |
+| NPC | [[Versir]] | [[Orion Xul\|Orion]] | [[Felicjan Janus Twardowski\|Felicjan]] | [[Orestes]] | [[Arevon Elorrenthi\|Arevon]] |
 |---|---|---|---|---|---|
 | **Mojry** | Kosmiczna arogancja; ignorują jego spisek | Szantaż córką Ione; egzekucja dawnego paktu | Respekt przed umysłem prawnym; badanie paktów | Spełnienie obietnicy snu z S48 w Sesji 85 | Obojętność wobec „obcego z Eberronu” |
 | **Lutheria** | Nienawiść za demaskację samotności w S82 | Pogarda dla żołnierza; pamięć starcia w S81 | Respekt za złamanie domeny snów promieniami słońca | Morderca z S82; nieświadomy nośnik Hymnu Przebudzenia | Pogarda dla obcego druida zakłócającego prądy Otchłani |

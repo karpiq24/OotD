@@ -191,10 +191,10 @@ Mandat jest celowo otwarty: **Metoda należy do graczy.** Rada nie dyktuje krok�
 Wszystkie poniższe ścieżki są w pełni wykonalne i przyniosą **trwały skutek**:
 | Ścieżka | Kto otwiera drogę | Rezultat |
 |---|---|---|
-| Dyplomacja z [[Królowa Helena|Heleną]] | [[Orestes]] handlował z obiema stronami | Helena potrzebuje zachowania twarzy i bezpieczeństwa granic |
-| Odebranie [[Taran Neurdagon|Taranowi]] dowództwa | [[Felicjan Janus Twardowski|Felicjan]] i podatki wojenne | Demobilizacja i rozliczenie spekulantów w Radzie |
-| Neutralizacja sprawy Narsusa | Wyprowadzenie [[Narsus|Narsusa]] z miasta | Znika oficjalny pretekst wojenny Mytros |
-| Kwestia zakładników z Północy | Odbicie dzieci wodzów centaurów u [[Zakroth|Zakrotha]] | Rozejm z centaurami, Arezja nie potrzebuje armii w polu |
+| Dyplomacja z [[Królowa Helena\|Heleną]] | [[Orestes]] handlował z obiema stronami | Helena potrzebuje zachowania twarzy i bezpieczeństwa granic |
+| Odebranie [[Taran Neurdagon\|Taranowi]] dowództwa | [[Felicjan Janus Twardowski\|Felicjan]] i podatki wojenne | Demobilizacja i rozliczenie spekulantów w Radzie |
+| Neutralizacja sprawy Narsusa | Wyprowadzenie [[Narsus\|Narsusa]] z miasta | Znika oficjalny pretekst wojenny Mytros |
+| Kwestia zakładników z Północy | Odbicie dzieci wodzów centaurów u [[Zakroth\|Zakrotha]] | Rozejm z centaurami, Arezja nie potrzebuje armii w polu |
 
 > [!IMPORTANT]
 > **Zasada Sprawczości Graczy:** Pozwól, by plan drużyny zadziałał trwale. Taran traci dowództwo, obóz zostaje zdemobilizowany. Poczucie sprawczości jest fundamentem — kolejne zagrożenia wynikają z głębokiej intrygi Mojr i Mistrza Cieni, a nie z „anulowania” sukcesów graczy.
