@@ -39,36 +39,36 @@ Kompleksowy arkusz przygotowań Mistrza Gry do poprowadzenia kampanii *Nowa Era*
 *Wszyscy bohaterowie zamknęli swoje osobiste zadania epickie w trakcie Sesji 1–84. Poniższe nagrody i błogosławieństwa należy wprowadzić na stałe do ich kart na D&D Beyond i w Foundry VTT przed Sesją 85.*
 
 ### 1. [[Versir]] — *The Timeless One (Wieczny)*
-- [ ] **Divine Blessing: `Blessing of Prophecy`**  
+- [x] **Divine Blessing: `Blessing of Prophecy`**  
   - *Opis:* Po ukończeniu każdego Długiego Odpoczynku (Long Rest) gracz rzuca 1k20 i zapisuje wynik. W dowolnym momencie przed kolejnym Long Restem może zastąpić tym wynikiem dowolny rzut ataku, rzut obronny lub test umiejętności wykonany przez siebie lub jakąkolwiek istotę, którą widzi (ekwiwalent cechy *Portent* Wróżbity).
-- [ ] **Cecha Pasywna: `Timeless Nature`**  
+- [x] **Cecha Pasywna: `Timeless Nature`**  
   - Ciało Versira jest całkowicie odporne na magiczne starzenie i nie starzeje się naturalnie (kontrast ze starzejącą się Astrą).
 - [ ] **Ekwipunek Ścieżki:** [[Hand of Kentiname|Rękawica ze Smoczej Kości]] stopiona z kikutem dłoni (4 wchłonięte esencje Tytanów: Yala, Chalcia, Hergeron, Talieus).
 
 ### 2. [[Orion Xul]] — *The Demi-God (Półbóg)*
-- [ ] **Divine Blessing: `Blessing of Health`**  
+- [x] **Divine Blessing: `Blessing of Health`**  
   - *Opis:* Cecha **Constitution (Budowa)** zwiększa się na stałe o **+2**, a maksymalny limit tej cechy zostaje podniesiony z 20 do **22**.
-- [ ] **Broń Rodowa:** [[Odkupienie Pythora]]  
+- [x] **Broń Rodowa:** [[Odkupienie Pythora]]  
   - Upewnić się, że włócznia posiada zaktualizowany statblock po ulepszeniu u Nony (Sesja 47) i ma poprawnie skonfigurowane makro obrażeń piorunowych i przebijających.
 
 ### 3. [[Felicjan Janus Twardowski]] — *The Gifted One (Utalentowany)*
-- [ ] **Divine Blessing: `Blessing of the Dragonlords`**  
+- [x] **Divine Blessing: `Blessing of the Dragonlords`**  
   - *Opis:* Podczas dosiadania smoka ([[Kairos|Kairosa]]) Felicjan przejmuje wszystkie odporności na obrażenia, niewrażliwości oraz zmysły smoka (*Blindsight*, *Darkvision* oraz pasywną Percepcję, jeśli jest wyższa od jego własnej). Ponadto, gdy smok jest dorosły lub starożytny, Felicjan może użyć Legendarnego Oporu smoka (*Legendary Resistance*), co wlicza się do dziennego limitu smoka.
-- [ ] **Korona Smoczych Władców (*Crown of the Dragonlords*):**  
+- [x] **Korona Smoczych Władców (*Crown of the Dragonlords*):**  
   - Dodać czary przypisane do korony: *Bond of the Dragonlords* oraz *Dirge of the Dragonlords*.
-- [ ] **Twierdza Zakonu:** *Instant Fortress* zlokalizowana na stałe na [[Wyspa Yonder|Wyspie Yonder]].
+- [x] **Twierdza Zakonu:** *Instant Fortress* zlokalizowana na stałe na [[Wyspa Yonder|Wyspie Yonder]].
 
 ### 4. [[Orestes]] — *The Doomed One (Zgubiony)*
-- [ ] **Divine Blessing: `Blessing of Protection`**  
+- [x] **Divine Blessing: `Blessing of Protection`**  
   - *Opis:* Stały bonus **+1 do Klasy Pancerza (AC)** oraz **+1 do wszystkich rzutów obronnych (Saving Throws)**.
-- [ ] **Artefakt Ścieżki:** Posiadana zbroja/płaszcz wykuwany przeciwko przeznaczeniu (*Breastplate of Invulnerability* / *Cloak of Invisibility*) dający odporność na obrażenia od Lutherii.
-- [ ] **Broń Główna:** [[Topór Xandera]] – sprawdzić konfigurację w VTT.
+- [x] **Artefakt Ścieżki:** Posiadana zbroja/płaszcz wykuwany przeciwko przeznaczeniu (*Breastplate of Invulnerability* / *Cloak of Invisibility*) dający odporność na obrażenia od Lutherii.
+- [x] **Broń Główna:** [[Topór Xandera]] – sprawdzić konfigurację w VTT.
 
 ### 5. [[Arevon Elorrenthi]] — *The Seeking One (Poszukujący)*
-- [ ] **Divine Blessing: `Blessing of the Seeker`**  
+- [x] **Divine Blessing: `Blessing of the Seeker`**  
   - *Opis 1 (Reroll):* Raz na Długi Odpoczynek (Long Rest) może przerzucić dowolny rzut ataku, rzut obronny lub test umiejętności. Musi wykorzystać drugi wynik rzutu.
   - *Opis 2 (Poliglota):* Pasywnie potrafi mówić, czytać, pisać i rozumieć **wszystkie istniejące języki**.
-- [ ] **Artefakt Ścieżki:** Astrolabium [[Antikythera]] – sprawdzić uprawnienia i konfigurację w karcie.
+- [x] **Artefakt Ścieżki:** Astrolabium [[Antikythera]] – sprawdzić uprawnienia i konfigurację w karcie.
 
 ---
 
@@ -442,18 +442,18 @@ Kompleksowy arkusz przygotowań Mistrza Gry do poprowadzenia kampanii *Nowa Era*
 
 ## 5. Ekwipunek i Artefakty Kluczowe z Sesji 1–84
 
-- [ ] **[[Portret Karpathosa]] (50 000 gp, Sesja 63):**  
+- [x] **[[Portret Karpathosa]] (50 000 gp, Sesja 63):**  
   - *Status:* Spoczywa w prywatnej kajucie Orestesa na pokładzie Ultrosa w porcie Mytros.
   - *Cel:* **Koniecznie zabrać do Kurhanów w Sesji 91!** Bez spalenia obrazu w K9 Karpathos regeneruje 100 HP na rundę i uchodzi w mgłę.
-- [ ] **[[Antikythera]]:**  
+- [x] **[[Antikythera]]:**  
   - W posiadaniu Arevona; nawigacja sferyczna, klucz do Zatopionego Królestwa i Krosna.
-- [ ] **[[Topór Xandera]]:**  
+- [x] **[[Topór Xandera]]:**  
   - U Orestesa; broń, która ścięła Lutherię i rozbiła Kryształową Kosę.
-- [ ] **[[Hand of Kentiname]]:**  
+- [x] **[[Hand of Kentiname]]:**  
   - Rękawica ze smoczej kości u Versira; wchłonięte esencje 4 Tytanów (Yala, Chalcia, Hergeron, Talieus).
-- [ ] **[[Odkupienie Pythora]]:**  
+- [x] **[[Odkupienie Pythora]]:**  
   - Włócznia Oriona; naostrzona przez Nonę w Sesji 47, narzędzie do rozplątania warkocza Ione.
-- [ ] **[[Glewia Sydona]] & [[Barka Hypnos]]:**  
+- [x] **[[Glewia Sydona]] & [[Barka Hypnos]]:**  
   - Przejęte przez Versira w Sesji 84.
 
 ---
