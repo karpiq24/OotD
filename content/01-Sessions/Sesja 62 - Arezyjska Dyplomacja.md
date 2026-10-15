@@ -23,7 +23,7 @@ Pod bramami doszło do pierwszego, chłodnego spotkania z [[Królowa Helena|Kró
 
 ![Jocasta](../assets/sessions/062/062_Jocasta.webp)
 
-Po zakwaterowaniu w mieście, drużyna niezwłocznie przystąpiła do działania, zbierając plotki i informacje. Dowiedzieli się o tajemniczych tunelach łączących pałac ze świątyniami, o duchu nawiedzającym królewski skarbiec oraz o magicznym obrazie w galerii. [[Jocasta]] - barmanka z gospody  [[Czerwony Lotos]], przybliżyła im sylwetki Mistrzów: [[Halcyon]] (Mistrzyni Tarczy), [[Taureus|Taureusa]] (Mistrza Żywiołów – minotaura gardzącego Mytros), [[Hiero]] (Mistrza Miecza), [[Laertes|Laertesa]] (Mistrza Spokoju, obsesyjnie szukającego idealnej oliwki) oraz tajemniczego [[Jocasta|Mistrza Cieni]].
+Po zakwaterowaniu w mieście, drużyna niezwłocznie przystąpiła do działania, zbierając plotki i informacje. Dowiedzieli się o tajemniczych tunelach łączących pałac ze świątyniami, o duchu nawiedzającym królewski skarbiec oraz o magicznym obrazie w galerii. [[Jocasta]] - barmanka z gospody  [[Czerwony Lotos]], przybliżyła im sylwetki Mistrzów: [[Halcyon]] (Mistrzyni Tarczy), [[Taureus|Taureusa]] (Mistrza Żywiołów – minotaura gardzącego Mytros), [[Hiero]] (Mistrza Miecza), [[Laertes|Laertesa]] (Mistrza Spokoju, obsesyjnie szukającego idealnej oliwki) oraz tajemniczego [[Mistrz Cieni|Mistrza Cieni]].
 
 ![Lennicus](../assets/sessions/062/062_Lennicus.webp)
 
