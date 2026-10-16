@@ -13,3 +13,5 @@ replit.nix
 
 input/*
 !input/.gitkeep
+# Nowa Era PDF build (contains copyrighted book text; own local git repo)
+build/nowa-era-pdf/
