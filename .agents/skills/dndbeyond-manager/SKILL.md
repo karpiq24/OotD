@@ -26,12 +26,12 @@ D&D Beyond separates homebrew creations into distinct engines with dedicated ent
 
 | Category | DDB Endpoint | Entity Type ID | Comprehensive Reference Guide |
 | :--- | :--- | :--- | :--- |
-| **Backgrounds** | `/homebrew/creations/create-background` | `1669830167` | [references/backgrounds.md](file:///home/karpiq/Code/OotD/.agents/skills/dndbeyond-manager/references/backgrounds.md) |
-| **Feats** | `/homebrew/creations/create-feat` | `1088940854` | [references/feats.md](file:///home/karpiq/Code/OotD/.agents/skills/dndbeyond-manager/references/feats.md) |
-| **Magic Items** | `/homebrew/creations/create-magic-item` | `112130694` | [references/magic-items.md](file:///home/karpiq/Code/OotD/.agents/skills/dndbeyond-manager/references/magic-items.md) |
-| **Monsters** | `/homebrew/creations/create-monster` | `779871897` | [references/monsters.md](file:///home/karpiq/Code/OotD/.agents/skills/dndbeyond-manager/references/monsters.md) |
-| **Species / Races** | `/homebrew/creations/create-species` | `1743923279` | [references/races.md](file:///home/karpiq/Code/OotD/.agents/skills/dndbeyond-manager/references/races.md) |
-| **Spells** | `/homebrew/creations/create-spell` | `1118725998` | [references/spells.md](file:///home/karpiq/Code/OotD/.agents/skills/dndbeyond-manager/references/spells.md) |
+| **Backgrounds** | `/homebrew/creations/create-background` | `1669830167` | [references/backgrounds.md](references/backgrounds.md) |
+| **Feats** | `/homebrew/creations/create-feat` | `1088940854` | [references/feats.md](references/feats.md) |
+| **Magic Items** | `/homebrew/creations/create-magic-item` | `112130694` | [references/magic-items.md](references/magic-items.md) |
+| **Monsters** | `/homebrew/creations/create-monster` | `779871897` | [references/monsters.md](references/monsters.md) |
+| **Species / Races** | `/homebrew/creations/create-species` | `1743923279` | [references/races.md](references/races.md) |
+| **Spells** | `/homebrew/creations/create-spell` | `1118725998` | [references/spells.md](references/spells.md) |
 | **Subclasses** | `/homebrew/creations/create-subclass` | *(Class-specific)* | *In development* |
 
 *Note: In the 2024 update, D&D Beyond renamed Races to **Species** (`create-species`). Visiting `create-race` returns a 404.*

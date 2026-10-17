@@ -7,7 +7,7 @@ description: Generates a narrative session recap from a transcript, using campai
 
 Convert a raw transcript into a narrative story using the campaign's writing style. The transcript is split into ~800-line chunks processed by dedicated subagents in sequence. Each subagent receives only its chunk plus a rolling summary of prior events, so events can never be reordered or confused across the session.
 
-Two modes, selected by the caller (`generate-session-recap-draft` Step 0):
+Two modes, selected by the caller (`generate-session-recap-draft` Step 1):
 
 - **`from-scratch`** (default) — no seed draft; each chunk subagent writes its narrative purely from its transcript slice. This is the flow described below.
 - **`refine`** — an rpgnotes handoff bundle (`draft0.md` + `validation_report.md`) is available. Each chunk subagent additionally receives the corresponding slice of `draft0.md` and corrects/refines it instead of writing from scratch. See "Refine mode" at the bottom for the differences; everything else (glossary, phonetic corrections, chunking, validation pass) is identical.
@@ -146,8 +146,7 @@ The orchestrator then applies (or asks the user about) each finding before savin
 Concatenate all `NARRATIVE` blocks in chunk order. Do not reorder sections. Apply validation findings.
 
 - **Constraint**: No `[[wiki links]]` yet — plain text only.
-- **Constraint**: Follow the structure from `templates/Session.md`.
-- Return the complete Markdown. Do not save to a file (the workflow handles that).
+- Return the narrative `###` sections only. Do not save to a file: the caller (`generate-session-recap-draft`) saves the draft and builds the rest of the `templates/Session.md` structure in its Step 4.7.
 
 ## Refine mode
 

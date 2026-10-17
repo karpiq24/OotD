@@ -29,7 +29,7 @@ uv run python scripts/<script>.py               # run anything
 uv run python scripts/pdf2md/convert.py <PDF> <OUTDIR>
 ```
 
-The `input/` directory is a staging area. Drop new session files there before processing.
+`input/` is a staging area for raw source material (sourcebook PDFs, the `pdf2md` vault, files to import into the wiki). Session files do not go there: rpgnotes writes them straight into `content/assets/sessions/{NNN}/`.
 
 ## Private repo (`private/`)
 
@@ -37,7 +37,7 @@ The `input/` directory is a staging area. Drop new session files there before pr
 
 ## The `.agents/` directory
 
-This is the AI automation layer, shared between Antigravity (native `.agents/rules`, `.agents/skills` support) and Claude Code. `.agents/` is the single source of truth; `.claude/skills` is a symlink into it (`.claude/skills → ../.agents/skills`), so Claude Code's native Skill tool (e.g. `/finalize-session-recap`) picks up the exact same files Antigravity uses — nothing is duplicated. There is no separate `workflows/` directory: Antigravity 2.0 treats Skills as the primary extension mechanism, and Claude Code's Skill tool already resolves `/<skill-name>` for any skill, so multi-step pipelines live in `skills/` too, distinguished only by role below. It contains two subdirectories:
+This is the AI automation layer, shared between Antigravity (native `.agents/rules`, `.agents/skills` support) and Claude Code. `.agents/` is the single source of truth; `.claude/skills` is a symlink into it (`.claude/skills → ../.agents/skills`), so Claude Code's native Skill tool (e.g. `/finalize-session-recap`) picks up the exact same files Antigravity uses — nothing is duplicated. There is no `workflows/` directory: multi-step pipelines are skills too (both agents resolve `/<skill-name>` for any skill), distinguished only by role below. It contains two subdirectories:
 
 ### `rules/` — always-on constraints
 
@@ -69,7 +69,7 @@ Two kinds of skill live side by side here. **Capability skills** do one focused 
 3. Activate `rpg-summarizer` (chunk subagent mode, `refine` or `from-scratch`) → generates the narrative draft.
 4. Save the narrative draft (provisional title) to `content/01-Sessions/Sesja {N} - {Title}.md`.
 4.5. **Interactive verification** — collect open findings (fact-checker, `validation_report.md`, ambiguous identities, abandoned actions, chunk-boundary chronology) into ≤10 pick-one questions asked in one message; mechanics questions are first answered from `chat_events.txt` via `rpg-chatlog-analyst` and only reach the user if the chat log can't settle them; apply answers to the draft immediately, mark skipped sentences with `<!-- UNVERIFIED: ... -->`.
-4.7. **Generate session details** — from the final refined draft, derive the structured sections per `templates/Session.md` (final title → filename, `Kluczowe wydarzenia`, `Postacie`, `Lokacje`, `Przedmioty`, and `Cytaty` from the bundle's `quotes.json`, verbatim), then assemble the **complete** session file (frontmatter — just `title`; asset links are not written by hand, the `SessionAssets` transformer lists them under **Metadane** at build time — plus details + narrative under `## Podsumowanie`) — rpgnotes no longer pre-renders any of it. Finally save the pristine copy to `content/assets/sessions/{000}/draft_pre_edit.md` for the learning loop.
+4.7. **Generate session details** — from the final refined draft, derive the structured sections per `templates/Session.md` (final title → filename, `Kluczowe wydarzenia`, `Postacie`, `Lokacje`, `Przedmioty`, and `Cytaty` from the bundle's `quotes.json`, verbatim), then assemble the **complete** session file (frontmatter — just `title`; asset links are not written by hand, the `SessionAssets` transformer lists them under **Metadane** at build time — plus details + narrative under `## Podsumowanie`). Finally save the pristine copy to `content/assets/sessions/{000}/draft_pre_edit.md` for the learning loop.
 5. In refine mode, surface any still-unresolved `validation_report.md` findings (not the ones answered in 4.5) plus any UNVERIFIED-marker count alongside the review notice.
 
 **`finalize-session-recap`** (Part 2, after user edits the draft):
@@ -125,7 +125,7 @@ Everything lives under `scripts/` (run via `uv run python scripts/...`):
 - `convert_assets.py`, `get_prompts.py`, `find_and_zip.py` — one-off maintenance utilities
 - `pdf2md/` — PDF → markdown-vault pipeline (see below)
 
-`generate_prompts.py` and `replace_script.py` are still at the repo root.
+`generate_prompts.py` and `replace_script.py` are at the repo root.
 
 ## `scripts/pdf2md/` — sourcebook PDF → markdown vault
 

@@ -12,13 +12,13 @@ This skill allows the agent to process session recaps and raw input files to upd
 The agent must manually read, analyze, and process each file. **Do not rely on scripts for content extraction** due to inconsistent formats.
 
 ### Core Loop
-For each target file in `input/`:
+For each file you are given — a session recap already in `content/01-Sessions/` (from `finalize-session-recap`), or a raw file staged in `input/`:
 1.  **READ**: Read the full content of the file.
 2.  **IDENTIFY**: Determine the type (Session Recap, Handout, Source Material).
 3.  **PARSE**: Go through the content section by section (or paragraph by paragraph).
 4.  **LINK/CREATE**: For every proper noun (Person, Place, Item), check if it exists in the wiki. Link it or create it.
 5.  **HANDLE ASSETS**: Move linked images/videos to appropriate asset folders and update links.
-6.  **MOVE**: Move the processed file to its final destination in `content/`.
+6.  **MOVE**: If the file is not yet under `content/`, move it to its final destination there.
 
 ## 2. File Type Handling
 
@@ -35,19 +35,17 @@ For each target file in `input/`:
 -   **Source Material** (Lore, Rulebooks):
     -   **Destination**: `content/` (appropriate subfolder)
 
-## 3. Entity Linking and Creation Rules (CRITICAL)
+## 3. Entity Linking and Creation Rules
 
 **Goal**: Every significant entity mentioned in the text must be wikilinked: `[[Entity Name]]`.
 **Constraint**: Do NOT modify the narrative content of the summary itself, only add wikilinks.
 
-### The "Preserve Image Prompts" Rule (CRITICAL)
-- **Alt Text is Precious**: The Alt Text in image links (e.g., `![Draw a fantasy castle...](path.png)`) contains the **Generative AI Prompt** used to create the image.
-- **NEVER Truncate or Modify**: When copying, moving, or editing files, you **MUST** preserve the Alt Text exactly as it is. Do NOT shorten it to `![Image]`, `![Draw a fantasy castle...]`, or anything else.
-- **Broken Prompts = Failure**: Losing the prompt means the user cannot regenerate the image in the same style later.
+### The "Preserve Image Prompts" Rule
+When copying, moving, or editing files, keep every image embed exactly as it is: its alt text, its path, and the `[Prompt](….txt)` link that follows it. Current recaps keep the generation prompt in that `.txt` file; in older recaps the alt text itself is the prompt (e.g. `![Draw a fantasy castle...](path.png)`), so never shorten it to `![Image]` or anything else. Losing the prompt means the user cannot regenerate the image in the same style.
 
 ### The "Search First" Rule
 Before creating ANY new file or link:
-1.  **SEARCH**: Use `find_by_name` to see if the entity already exists.
+1.  **SEARCH**: Search the wiki by file name to see if the entity already exists.
     -   *Example*: Input says "Kyrah the Goddess". Search for "Kyrah". Found `content/02-People/Kyrah.md`. Acknowledge existence.
 2.  **LINK**: In the text, replace "Kyrah the Goddess" with `[[Kyrah|Kyrah the Goddess]]`.
     -   *Rule*: Always alias to the existing filename if the text differs.
@@ -55,7 +53,7 @@ Before creating ANY new file or link:
 ### The "Create with Template" Rule
 If the entity does **NOT** exist:
 1.  **DETERMINE TYPE**: Is it an NPC, Location, Item, Faction, or Handout?
-2.  **READ TEMPLATE**: Use `view_file` on the appropriate template in the root `templates/` directory.
+2.  **READ TEMPLATE**: Read the appropriate template in the root `templates/` directory.
 3.  **CREATE**: Create the new file in the correct directory using the template content.
 4.  **LINK**: Update the source text to link to this new file: `[[New Entity Name]]`.
 
@@ -74,7 +72,7 @@ If the entity **DOES** exist and plays a major role in the session (e.g. death, 
 ## 5. Standard Directories for New Entities
 When creating NEW entities, always use these target directories:
 -   **NPCs**: `content/02-People/NPCs/` (or specific subfolder if known, e.g. `Mytros/`)
--   **PCs**: `content/02-People/Heroes/`
+-   **PCs**: `content/02-People/Bohaterowie/`
 -   **Locations**: `content/03-Locations/` (use `Kontynent Thylea/` or appropriate region if known)
 -   **Items**: `content/04-Items-and-Loot/`
 -   **Factions**: `content/02-People/Factions/`
@@ -84,7 +82,6 @@ When creating NEW entities, always use these target directories:
 
 All templates are in the root `templates/` directory. Use these for new files:
 -   **NPCs**: `templates/NPC.md`
--   **PCs**: `templates/PC.md`
 -   **Locations**: `templates/Location.md`
 -   **Items**: `templates/Item.md`
 -   **Handouts**: `templates/Handout.md`

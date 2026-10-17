@@ -11,19 +11,18 @@ This skill processes a user-reviewed session recap draft, adding wikilinks, imag
 
 Before finalizing, mine the edits the user just made to the draft so the same errors do not recur. This step is **non-blocking**: if there is nothing to harvest, continue silently to Step 1.
 
-1. Activate skill `harvest-corrections` for this `session_number` — it diffs `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file and proposes corrections-file / wiki updates for the user to confirm.
+1. Ask the user for the `session_number`, then activate skill `harvest-corrections` for it — it diffs `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file and proposes corrections-file / wiki updates for the user to confirm.
 2. If `draft_pre_edit.md` is missing (e.g. an older draft), harvest-corrections skips gracefully — do not treat this as an error; proceed to Step 1.
 3. Do not block finalization on the harvest: apply whatever the user confirms (or nothing), then continue.
 
 ## Step 1: Initialization
-1.  Ask the user for the `session_number`.
+1.  Use the `session_number` from Step 0.
 2.  **Locate** the draft file: `content/01-Sessions/Sesja {number} - *.md`.
     *   If multiple files match, ask the user to clarify.
     *   If no file matches, error out.
 
 ## Step 2: Context Loading
 1.  **Read** the *User-Edited* file: `content/01-Sessions/Sesja {number} - ... .md`.
-2.  **Verify** content is loaded.
 
 ## Step 3: Finalization (Wikilinks, Prompts, Timeline)
 1.  **Link, Update and Create Entities**:

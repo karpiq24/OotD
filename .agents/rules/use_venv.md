@@ -1,3 +1,7 @@
+---
+trigger: always_on
+---
+
 # Rule: Use uv for Python
 
 ## Trigger

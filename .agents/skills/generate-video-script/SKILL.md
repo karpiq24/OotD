@@ -15,7 +15,6 @@ This skill is invoked explicitly (`/generate-video-script`), never automatically
 
 ## Step 2: Context Loading
 1.  **Read** the session recap file in full.
-2.  **Verify** content is loaded.
 
 ## Step 3: Generate the Script
 1.  Activate skill `rpg-video-scripter`.

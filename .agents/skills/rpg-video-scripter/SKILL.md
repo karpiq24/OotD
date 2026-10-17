@@ -131,4 +131,4 @@ anatomy, rich dynamic brushstrokes.
    ```bash
    uv run python scripts/update_indexes.py
    ```
-6. **Echo every clip block in chat**, in order, exactly as saved to the file, so the user can copy any single clip directly without opening the file.
+4. **Echo every clip block in chat**, in order, exactly as saved to the file, so the user can copy any single clip directly without opening the file.
