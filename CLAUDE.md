@@ -29,7 +29,11 @@ uv run python scripts/<script>.py               # run anything
 uv run python scripts/pdf2md/convert.py <PDF> <OUTDIR>
 ```
 
-The `input/` directory is a staging area (gitignored except `.gitkeep`). Drop new session files there before processing.
+The `input/` directory is a staging area. Drop new session files there before processing.
+
+## Private repo (`private/`)
+
+`input/`, `build/` and `content/99-DM-Corner/` are **not** part of this public repo. They live in the private repo `karpiq24/OotD-private`, cloned into `private/` (gitignored), and are reached through gitignored symlinks: `input → private/input`, `build → private/build`, `content/99-DM-Corner → ../private/DM-Corner`. Commit changes to anything under those paths from inside `private/` (`git -C private ...`), never from the public repo. Anything copyrighted (sourcebook text, Nowa Era PDF build) or DM-only goes there. The two sourcebook PDFs in `input/` are local only (over GitHub's 100 MB limit). Setup on a fresh machine is in `private/README.md`.
 
 ## The `.agents/` directory
 
@@ -141,5 +145,5 @@ uv run python scripts/pdf2md/convert.py input/<book>.pdf input/vault/<Book>
   chapter directories and section files.
 - `convert.py` — the entry point tying the three together.
 
-Output currently lands in `input/vault/` (gitignored staging), with an
+Output currently lands in `input/vault/` (tracked in the private repo), with an
 `index.md` in every directory describing each file.

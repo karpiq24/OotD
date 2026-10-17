@@ -6,12 +6,12 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 .quartz-cache
-private/
 .replit
 replit.nix
 *.pyc
 
-input/*
-!input/.gitkeep
-# Nowa Era PDF build (contains copyrighted book text; own local git repo)
-build/nowa-era-pdf/
+# Private repo (karpiq24/OotD-private), cloned into private/ and reached via symlinks
+private/
+/input
+/build
+/content/99-DM-Corner

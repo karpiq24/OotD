@@ -32,7 +32,7 @@ Then open `http://localhost:8080` in your browser.
     - `06-Rules/`: House rules.
     - `07-Handouts/`: Collected handouts and images.
     - `assets/`: Images and videos used in the wiki.
-- **`input/`**: Staging area for new session recaps and assets before processing.
+- **`input/`**: Staging area for new session recaps and assets before processing. Lives in the private `OotD-private` repo (cloned into `private/`) together with `build/` and the DM Corner, reached through symlinks.
 - **`scripts/`**: Utility scripts for wiki maintenance.
     - `update_indexes.py`: Regenerates index files across content directories.
     - `fix_image_paths.py`: Fixes image paths in markdown files.
