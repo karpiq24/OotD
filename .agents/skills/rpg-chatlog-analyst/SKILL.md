@@ -1,6 +1,6 @@
 ---
 name: rpg-chatlog-analyst
-description: Answers precise mechanics questions (exact damage, who cast which spell, initiative order, roll results) from the FoundryVTT chat log of a session, cross-referenced with the transcript and screenshot timeline. Use on demand during recap refinement or fact-checking — never load whole logs into context.
+description: Answers precise mechanics questions (exact damage, who cast which spell, initiative order, roll results) from the FoundryVTT chat log of a session, cross-referenced with the transcript and screenshot timeline. Use on demand during /import-session verification, /iterate-recap or fact-checking — never load whole logs into context.
 ---
 
 # RPG Chatlog Analyst
@@ -17,7 +17,7 @@ The FoundryVTT chat archive is the only *mechanically exact* record of a session
 | `transcript_enriched.txt` | Full transcript with `[CZAT ...]` (and `[VISUAL ...]`) lines already merged inline, time-sorted | Good for **reading a moment in context** — what was said around a chat event. For precise/mechanical queries, still grep `chat_events.txt` / `chat_log.json`. |
 | `recording_start.txt` | Unix timestamp of Craig recording start | The shared t=0 (see below). |
 
-These arrive via the rpgnotes handoff bundle; if only `chat_log.json` exists, fall back to grepping it (content is HTML — expect noise).
+rpgnotes produces them and `/import-session` copies them here; if only `chat_log.json` exists, fall back to grepping it (content is HTML — expect noise).
 
 ## The shared timeline
 
@@ -50,8 +50,8 @@ grep -n "= [0-9]\{2,\}" chat_events.txt
 
 ## When to use this skill
 
-- **During recap refinement** (`rpg-summarizer` refine mode): a draft sentence names a number, spell, or attacker that the validation report flagged — check the chat log before touching the prose.
-- **Interactive verification (Step 4.5 of `/generate-session-recap-draft`)**: before asking the user a *mechanics* question, try answering it from the chat events; only ask the user what the chat log genuinely cannot answer (intent, off-screen fiction, table talk).
+- **Fixing a recap** (`/iterate-recap`): a sentence names a number, spell, or attacker that the user or the validation report questions — check the chat log before touching the prose.
+- **Interactive verification (Step 2 of `/import-session`)**: before asking the user a *mechanics* question, try answering it from the chat events; only ask the user what the chat log genuinely cannot answer (intent, off-screen fiction, table talk).
 - **On-demand user questions** ("ile obrażeń zadał X?", "kto rzucił ten czar?") — answer with the exact chat line(s) as citation.
 
 ## Caveats

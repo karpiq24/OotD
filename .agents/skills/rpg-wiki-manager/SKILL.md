@@ -27,7 +27,7 @@ For each file you are given — a session recap already in `content/01-Sessions/
     -   **Filename Format**: `Sesja X - Title.md` (e.g. `Sesja 3 - Skradziony Róg.md`).
     -   **Assets**: Create a subdirectory `content/assets/sessions/<000>/` (3-digit session number).
         -   **Images**: Move all images used in the recap there. Update links.
-        -   **Videos**: Check `input/06 Session Recaps/videos/` for matches. Move them to the asset folder. Append them to the end of the recap file under `## Filmy` section using `![Title](../assets/sessions/<000>/video.mp4)`.
+        -   **Videos**: Only if the user mentions videos for this session, ask where they are, move them to the asset folder, and append them to the end of the recap file under the `## Filmy` section using `![Title](../assets/sessions/<000>/video.mp4)`. Do not go looking for them.
     -   **Action**: Extract entities (NPCs, Locations) mentioned. Update the "Session Index" if one exists.
 -   **Handouts** (Letters, Notes, Images):
     -   **Destination**: `content/07-Handouts/`

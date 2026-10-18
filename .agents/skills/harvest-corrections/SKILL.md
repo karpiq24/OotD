@@ -1,11 +1,13 @@
 ---
 name: harvest-corrections
-description: Mines the user's manual draft edits (draft_pre_edit.md vs the final session file) and folds them back into the corrections files, prompt rules, and wiki. Invoked as /harvest-corrections, and automatically as Step 0 of finalize-session-recap.
+description: Mines the user's manual draft edits (draft_pre_edit.md vs the final session file) and folds them back into campaign/ (phonetic corrections, learned rules) and the wiki, so rpgnotes stops repeating the same errors. Invoked as /harvest-corrections, and automatically as Step 0 of finalize-session-recap.
 ---
 
 # Harvest Corrections
 
 When the user hand-edits a recap draft, their fixes (corrected names, removed hallucinations, entity facts, style trims) normally evaporate. This skill captures them: it diffs the pristine pre-edit draft against the user's edited file and folds each correction back into the pipeline so the same error class never needs manual fixing twice.
+
+The drafts are written by rpgnotes, which learns only through `campaign/campaign_context.json`. Everything this skill writes lands in files that export carries: `campaign/phonetic_corrections.md`, `campaign/learned_rules.md`, and the wiki's entity pages. `/finalize-session-recap` re-runs the export at its end; when running this skill on its own, finish with `uv run python scripts/export_context.py`.
 
 All file writes in this skill are **proposals** — nothing is written until the user confirms.
 
@@ -13,13 +15,13 @@ All file writes in this skill are **proposals** — nothing is written until the
 
 1. Determine `session_number` (padded 3 digits → `{000}`): from the invocation argument, the calling skill, or by asking the user.
 2. Locate the two files to diff:
-   - **Pre-edit baseline**: `content/assets/sessions/{000}/draft_pre_edit.md` (saved by `generate-session-recap-draft` Step 4.5.5).
+   - **Pre-edit baseline**: `private/sessions/{000}/draft_pre_edit.md` (saved by `/import-session` Step 4).
    - **User-edited final**: `content/01-Sessions/Sesja {number} - *.md` (the current session file). If multiple match, ask which one.
-3. **Graceful skip**: If `draft_pre_edit.md` does not exist, say so plainly — "No `draft_pre_edit.md` for session {number}; nothing to harvest (this draft predates the learning loop, or was written from scratch without the pre-edit snapshot)." — and stop. This is not an error; when called from `finalize-session-recap` Step 0, continue silently.
+3. **Graceful skip**: If `draft_pre_edit.md` does not exist, say so plainly — "No `draft_pre_edit.md` for session {number}; nothing to harvest (this draft predates the learning loop, or the import was not finished)." — and stop. This is not an error; when called from `finalize-session-recap` Step 0, continue silently.
 
 ## Step 1: Diff
 
-1. Diff the pre-edit baseline against the user-edited file, e.g. `diff content/assets/sessions/{000}/draft_pre_edit.md "content/01-Sessions/Sesja {number} - ....md"`, or read both and compare.
+1. Diff the pre-edit baseline against the user-edited file, e.g. `diff private/sessions/{000}/draft_pre_edit.md "content/01-Sessions/Sesja {number} - ....md"`, or read both and compare.
 2. If there is no meaningful difference (only whitespace / frontmatter housekeeping), report "No substantive edits to harvest." and stop.
 3. Otherwise collect each substantive change as a `(before → after)` pair (or a pure deletion / pure addition). Ignore any `<!-- UNVERIFIED: ... -->` markers the user simply removed without other change — that is just accepting the sentence.
 
@@ -39,15 +41,15 @@ If a single change spans two buckets (e.g. a name fix *and* a fact fix), record 
 Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3a. Name corrections → `phonetic_corrections.md`
-1. **Read `.agents/skills/rpg-summarizer/resources/phonetic_corrections.md` first** and match its exact format — a Markdown table under `## Imiona własne` with rows `| W transkrypcji (forma błędna) | Zapisz jako |`, canonical target in **bold**.
+1. **Read `campaign/phonetic_corrections.md` first** and match its exact format — a Markdown table under `## Imiona własne` with rows `| W transkrypcji (forma błędna) | Zapisz jako |`, canonical target in **bold**.
 2. For each name correction, propose either:
    - a **new row** `| {wrong form(s) seen} | **{canonical}** |`, or
    - **appending the wrong form** to an existing row's left column (pipe-separated, as existing rows do) if that canonical target already has a row.
 3. **Dedupe**: skip any wrong→canonical mapping already covered by an existing row. Never add a duplicate row or a duplicate left-column variant.
 
-### 3b. Deleted claims → anti-hallucination examples / ZAKAZY rule
+### 3b. Deleted claims → learned rule
 1. Collect each deleted claim as a candidate anti-hallucination example (the exact text the user cut, plus a one-line reason if inferable — invented spell, uncited number, etc.).
-2. **Cross-session pattern check**: look at prior harvested deletions (scan the current session's deletions against the same class of deletions — e.g. read earlier `draft_pre_edit.md`/session pairs if quick, or rely on the recurring theme). If the *same kind* of hallucination has now been deleted by the user across **≥2 sessions**, propose a **new numbered ZAKAZY rule** for `.agents/skills/rpg-summarizer/resources/summary_prompt.txt` (in the *ZAKAZY — anty-halucynacje* section, matching its numbered style and Polish wording), phrased as a hard prohibition covering that class.
+2. **Cross-session pattern check**: compare against earlier sessions — `private/sessions/*/draft_pre_edit.md` next to their final `content/01-Sessions/` notes (read only the pairs you need). If the *same kind* of hallucination has now been deleted by the user across **≥2 sessions**, propose a **new rule** for `campaign/learned_rules.md`: one bullet in Polish, phrased as a hard prohibition covering that class, matching the existing bullets. First check the rule is not already covered by `learned_rules.md` or by rpgnotes' generic rules (`../rpgnotes/prompts/anti_hallucination.txt`, read-only from here); if the rule is generic rather than about this campaign, say so in the proposal — the user may prefer to add it to rpgnotes' prompts by hand.
 3. A single-session deletion is recorded as a candidate only; do not propose a rule change for a one-off.
 
 ### 3c. Entity fact fixes → wiki entity file
@@ -57,7 +59,7 @@ Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3d. Pure style edits → style-rule amendment
 1. Collect style edits and look for a **consistent** pattern (e.g. the user always trims superlatives, always shortens multi-clause sentences, always cuts a stock phrase).
-2. Only if the same pattern appears **repeatedly** in this diff (or matches a pattern seen before), propose a small amendment to the style section of `.agents/skills/rpg-summarizer/resources/summary_prompt.txt` capturing that preference.
+2. Only if the same pattern appears **repeatedly** in this diff (or matches a pattern seen before), propose a short style bullet for `campaign/learned_rules.md` capturing that preference.
 3. A one-off rewording is not a pattern — record nothing.
 
 ## Step 4: Present proposals for confirmation
@@ -69,5 +71,6 @@ Build a set of proposed file updates. **Do not write anything yet.**
 ## Step 5: Apply approved writes
 
 1. Write each approved change to its target file, preserving that file's existing format exactly (table layout, numbering, Polish wording).
-2. After writing, if any `content/` file was changed (an entity file in 3c), run `uv run python scripts/update_indexes.py` per the indexes rule. Changes to `.agents/` resources do not need index regeneration.
-3. **Report** what was written and what was skipped: "Harvested session {number}: {N} name corrections, {M} entity fixes applied; {K} deletion candidates recorded; {style/ZAKAZY proposals}." Keep it to a few lines.
+2. After writing, if any `content/` file was changed (an entity file in 3c), run `uv run python scripts/update_indexes.py` per the indexes rule. Changes to `campaign/` do not need index regeneration.
+3. If anything was written and this skill was not called by `/finalize-session-recap`, run `uv run python scripts/export_context.py` so the next rpgnotes run sees it.
+4. **Report** what was written and what was skipped: "Harvested session {number}: {N} name corrections, {M} entity fixes applied; {K} deletion candidates recorded; {learned-rule proposals}." Keep it to a few lines.

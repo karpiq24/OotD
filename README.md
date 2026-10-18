@@ -32,9 +32,12 @@ Then open `http://localhost:8080` in your browser.
     - `06-Rules/`: House rules.
     - `07-Handouts/`: Collected handouts and images.
     - `assets/`: Images and videos used in the wiki.
-- **`input/`**: Staging area for new session recaps and assets before processing. Lives in the private `OotD-private` repo (cloned into `private/`) together with `build/` and the DM Corner, reached through symlinks.
+- **`campaign/`**: What the [rpgnotes](https://github.com/karpiq24/rpgnotes) pipeline learns from the wiki: phonetic (ASR) corrections, rules learned from edited drafts, Whisper hotwords, and the generated `campaign_context.json`.
+- **`input/`**: Staging area for source material (sourcebook PDFs, the pdf2md vault). Lives in the private `OotD-private` repo (cloned into `private/`) together with `build/`, the DM Corner and each session's working files (`private/sessions/`), reached through symlinks.
 - **`scripts/`**: Utility scripts for wiki maintenance.
     - `update_indexes.py`: Regenerates index files across content directories.
+    - `import_session.py`: Imports a session from rpgnotes and assembles its note.
+    - `export_context.py`: Writes the campaign context rpgnotes reads.
     - `fix_image_paths.py`: Fixes image paths in markdown files.
 - **`quartz/`**: Quartz framework source files.
 - **`quartz.config.ts`**: Configuration for the site (plugins, theme, etc.).
@@ -45,25 +48,23 @@ Then open `http://localhost:8080` in your browser.
 This project includes AI skills to automate session logging and wiki maintenance. There is no separate "workflows" directory — Antigravity 2.0 treats Skills as the primary extension mechanism, and Claude Code's Skill tool resolves the same `/<skill-name>` slash commands directly from `.agents/skills`. Skills split into two roles: pipeline skills (multi-step, user-facing entry points) and capability skills (focused jobs invoked by the pipelines).
 
 ### Pipeline skills
-- **`/generate-session-recap-draft`**: Generates a session recap draft from a transcript in `input/`. Runs in **refine mode** when an `rpgnotes` handoff bundle (`draft0.md` + `validation_report.md`) is found alongside the transcript — chunk subagents correct that draft instead of writing from scratch, and unresolved validation findings are surfaced to the user at the review gate. Falls back to from-scratch mode otherwise. When the bundle includes `transcript_enriched.txt` (transcript with inline `[VISUAL]`/`[CZAT]` ground-truth annotations), chunking and fact-checking run against it. Before the review gate it runs a short **interactive verification** step (≤10 yes/no / pick-one questions) to resolve claims only a human can decide, then a **details-generation** step that derives the structured sections (title, key events, NPCs, locations, items, verbatim quotes from `quotes.json`) from the refined draft and assembles the complete session file — rpgnotes only delivers draft-0 plus the bundle; the final session file is built here. A pristine `draft_pre_edit.md` snapshot is saved for the learning loop.
-- **`/finalize-session-recap`**: Adds wikilinks, image prompts, and timeline events to a user-reviewed draft. Starts by harvesting the user's edits (see `/harvest-corrections`).
-- **`/harvest-corrections`**: Learning loop — diffs the pristine `draft_pre_edit.md` against the user's edited recap and folds each correction back into the pipeline (name fixes → `phonetic_corrections.md`, deleted claims → anti-hallucination examples / ZAKAZY rules, entity facts → wiki files, style edits → style rules). All writes are confirmed by the user first. Runs automatically as Step 0 of `/finalize-session-recap`, or on-demand.
+- **`/import-session`**: The only way a new session enters the wiki. Imports the session package rpgnotes left in its outbox (transcripts, chat log, the validated draft, its title and detail lists, quotes), assembles the session note from `templates/Session.md`, then runs a short **interactive verification** step (≤10 yes/no / pick-one questions) for claims only a human can decide and cleans ASR errors out of the quotes. A pristine `draft_pre_edit.md` snapshot is saved (in `private/sessions/`) for the learning loop.
+- **`/finalize-session-recap`**: Adds wikilinks, image prompts, and timeline events to a user-reviewed draft, then refreshes the campaign context for rpgnotes. Starts by harvesting the user's edits (see `/harvest-corrections`).
+- **`/harvest-corrections`**: Learning loop — diffs the pristine `draft_pre_edit.md` against the user's edited recap and folds each correction back into what rpgnotes reads (name fixes → `campaign/phonetic_corrections.md`, repeated deletions and style edits → `campaign/learned_rules.md`, entity facts → wiki files). All writes are confirmed by the user first. Runs automatically as Step 0 of `/finalize-session-recap`, or on-demand.
 - **`/iterate-recap`**: Targeted fix pass for an existing recap — give it a session number and a free-form complaint; it greps the transcript for the relevant names/keywords, re-reads only those slices, and rewrites only the affected sections, never the rest of the file. Tool-agnostic (usable from Antigravity too).
 - **`/generate-video-script`**: On-demand skill that generates a paste-ready Google Flow video script for an existing session recap. Not part of finalization — invoke it explicitly only when a video is actually wanted.
 
 ### Capability skills
 - **`rpg-wiki-manager`**: Extracts entities (NPCs, Locations, Items, Lore, Handouts) from RPG session recaps and input files, updating the wiki structure.
 - **`rpg-illustrator`**: Generates detailed image prompts and renders images using Nano Banana Pro.
-- **`rpg-summarizer`**: Generates a narrative session recap from a transcript, preferring the enriched transcript (`transcript_enriched.txt`, with inline `[VISUAL]`/`[CZAT]` ground-truth annotations) when the rpgnotes bundle provides it.
 - **`rpg-timeline-manager`**: Appends session events to the campaign timeline.
 - **`rpg-video-scripter`**: Generates a paste-ready, per-clip Google Flow video script from a session recap. Invoked on-demand via `/generate-video-script`, not automatically.
-- **`rpg-chatlog-analyst`**: Answers precise mechanics questions (exact damage, who cast what) by grepping the session's timeline-anchored FoundryVTT chat events from the rpgnotes handoff bundle.
+- **`rpg-chatlog-analyst`**: Answers precise mechanics questions (exact damage, who cast what) by grepping the session's timeline-anchored FoundryVTT chat events imported from rpgnotes.
 
 ### Rules
 The agent follows specific rules for:
 - **Auto-updating index files**: Run `uv run python scripts/update_indexes.py` after content changes.
 - **Wikilink standards**: Simplified Obsidian-compatible wikilinks without paths or extensions.
-- **Transcript processing**: Always read the full transcript before summarizing.
 
 See `.agents/` directory for full skill definitions.
 

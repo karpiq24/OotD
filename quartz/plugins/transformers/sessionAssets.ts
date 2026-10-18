@@ -18,7 +18,6 @@ const CATEGORY_ORDER = [
   "Transkrypty",
   "Logi czatu",
   "Dane",
-  "Raporty",
   "Wideo",
   "Obrazki",
   "Prompty",
@@ -35,9 +34,19 @@ const KNOWN_FILES: Record<string, { category: string; label: string }> = {
   "chat_events.txt": { category: "Logi czatu", label: "Zdarzenia czatu (txt)" },
   "quotes.json": { category: "Dane", label: "Cytaty" },
   "visual_log.json": { category: "Dane", label: "Log wizualny" },
-  "validation_report.md": { category: "Raporty", label: "Raport walidacji" },
   "video_script.md": { category: "Wideo", label: "Skrypt wideo" },
 }
+
+// rpgnotes' working files and bookkeeping. /import-session keeps them in
+// private/; one that slips in here is not listed (and quartz.config.ts's
+// ignorePatterns keeps it off the site).
+const NEVER_PUBLISHED = [
+  /^draft/,
+  /^validation_report/,
+  /^details\.json$/,
+  /^manifest\.json$/,
+  /^\./,
+]
 
 // Determine which category a file belongs to and how to label it.
 function categorize(filename: string): { category: string; label: string } {
@@ -61,6 +70,7 @@ function buildGroups(assetsDir: string, sessionId: string): SessionAssetGroup[] 
     .readdirSync(assetsDir, { withFileTypes: true })
     .filter((e) => e.isFile())
     .map((e) => e.name)
+    .filter((name) => !NEVER_PUBLISHED.some((pattern) => pattern.test(name)))
 
   const byCategory = new Map<string, SessionAssetLink[]>()
   for (const filename of entries) {

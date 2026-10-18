@@ -6,6 +6,7 @@ title: "Sesja {number}: {Title}"
 <!-- Main visuals will be inserted here by rpg-illustrator -->
 
 ## Podsumowanie
+
 {Narrative Summary}
 
 ## Kluczowe wydarzenia

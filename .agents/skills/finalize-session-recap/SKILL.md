@@ -1,6 +1,6 @@
 ---
 name: finalize-session-recap
-description: Generates wikilinks, images, and timeline events for a session recap draft, after the user has reviewed and edited it. Invoke on-demand as /finalize-session-recap once a draft from generate-session-recap-draft has been hand-edited.
+description: Generates wikilinks, images, and timeline events for a session recap draft, after the user has reviewed and edited it. Invoke on-demand as /finalize-session-recap once a draft from /import-session has been hand-edited.
 ---
 
 # Finalize Session Recap
@@ -11,7 +11,7 @@ This skill processes a user-reviewed session recap draft, adding wikilinks, imag
 
 Before finalizing, mine the edits the user just made to the draft so the same errors do not recur. This step is **non-blocking**: if there is nothing to harvest, continue silently to Step 1.
 
-1. Ask the user for the `session_number`, then activate skill `harvest-corrections` for it — it diffs `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file and proposes corrections-file / wiki updates for the user to confirm.
+1. Ask the user for the `session_number`, then activate skill `harvest-corrections` for it — it diffs `private/sessions/{000}/draft_pre_edit.md` against the user-edited session file and proposes `campaign/` / wiki updates for the user to confirm.
 2. If `draft_pre_edit.md` is missing (e.g. an older draft), harvest-corrections skips gracefully — do not treat this as an error; proceed to Step 1.
 3. Do not block finalization on the harvest: apply whatever the user confirms (or nothing), then continue.
 
@@ -40,6 +40,9 @@ Before finalizing, mine the edits the user just made to the draft so the same er
     *   Activate skill `rpg-timeline-manager`.
     *   Append Key Events to `content/Timeline.md`.
     *   Update concise summary in `content/Campaign_Context.md`.
+4.  **Refresh the campaign context for rpgnotes**:
+    *   Run `uv run python scripts/export_context.py`.
+    *   This writes `campaign/campaign_context.json` (gitignored), the only thing rpgnotes reads from the wiki: new entities, aliases, the timeline entry, and anything harvested in Step 0 reach the next session's transcription and draft through it.
 
 ## Step 4: Prompt Review (User Gate)
 1.  **Notify User**: "Image prompts are ready for review in `content/assets/sessions/{000}/`. Open the `.txt` files and check each scene description. Edit any you want changed, then reply to generate the actual images."
@@ -52,4 +55,4 @@ Before finalizing, mine the edits the user just made to the draft so the same er
     *   The skill renders a `.png` for every `.txt` prompt file in that folder.
 
 ## Step 6: Completion
-1.  **Notify User**: "Session {number} recap finalized! Wikilinks applied, images generated, and timeline updated."
+1.  **Notify User**: "Session {number} recap finalized! Wikilinks applied, images generated, timeline updated, and the campaign context for rpgnotes refreshed."
