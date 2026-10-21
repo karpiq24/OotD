@@ -5,6 +5,8 @@
 - zajrzyj dla utrwalenia do DM Corner, tam są informacje od graczy, które musimy uwzględniać
 - nie wprowadzaj poprawek dosłownie, jeśli ja napiszę np. "Zakroth nie odcina kuźni od surowców, on działa na lądzie, a żelazo przypłynełoby rzeką" to nie pisz w tekście "Zakroth nie odcina surowców do kuźni bo nie działa na wodach" tylko pisz co faktycznie robi, w jaki sposób destabilizuje sytuacje. Przykład z obecnego tekstu: "(choć wbrew pogłoskom nie ma tam kopalń żelaza — jedyna znajduje się na Wyspie Indygo)" to pozostałość po takiej poprawce. Skoro nie ma to nie piszemy o tym.
 - Nie wszystkie poprawki muszą być umieszczone dokładnie w tym rozdziale gdzie je podałem, np. więcej informacji o postaciach można dodać do Dramatis Personae; znajduj miejsca gdzie to najbardziej pasuje.
+- spis treści oraz w samej treści ma bez potrzeby podwójne nagłówki np: Wyspa Mojr i Krosno Losu Czółenko z Gwiezdnej Stali, spotkanie Oriona z Ione, Krosno Losu i Theogenesis Rozdział 9½: Wyspa Mojr i Krosno Losu. Powinien być jeden nagłówek z napisem rozdział.
+- chciałbym mieć więcej przykładowych dialogów dla npc, może warto dodać nowy typ jak Czytaj na głos tylko dla dialogów. Dialogi powinny uwzględniać kim jest osoba wygłaszająca np z Dramatis Personae, tak żeby te wypowiedzi pasowały do postaci.
 
 # Wprowadzenie: Świt Nowej Ery
 
@@ -67,15 +69,24 @@ Uwagi tutaj to oczywiście do całej kampanii, anie tylko tych skrótów
 - ta prośba o uzdrowienie Orestesa jest taka sobie, wywal albo całkiem przerób
 - usuń zapowiedź napadu
 - omen despiny nie ma sensu, smoka tak nie wyczują
-- Dodaj takie **subtelne** wspomnienie romansu w scenie Arevona z Delfin (przywódczyni plemienia Delfin, masz w wiki)
+- Dodaj takie **subtelne** wspomnienie romansu w scenie Arevona z Delfin (przywódczyni plemienia Delfin, masz w wiki) - tak żeby nie do końca było wiadomo czy coś między nimi jest czy nie
 - Arevon tutaj nic nie będzie zatapiać, to są statki handlowe, nie ma teraz wojny, dopiero u ruchu Tarana Arevon się dowie
 - Antikythery wskazuje gwiazdozbiory, i dopiero one kierują na konkretne wyspy, żeby artefakt tam prowadził musiałby się pojawić nowy gwiazdozbiór (w sumie czemu nie? może to powiązać z poprzednią uwagę co do bariery, może nie ma żadnej bariery, rozważ opcje)
 - obóz mytros pod arezją to świeża sprawa, żadnego plakatu nie ma.
 - włamanie do Ultrosa, kiedy bohaterowie tam śpią nie ma sensu, może tylko to przerobić, że syn Orestesa zdaje raport że była próba ale udalo się zapobieć? np Dzień przed ich przybyciem, jak przybywają to jest duże poruszenie w barze.
 - Niech bohaterowie mają wspólną scenę na Ultrosie przy piwie, gdzie będą mogli gracze ze sobą trochę porozmawiać o tym co ich postacie robiły przez te 15 lat.
 - wygenerowane obrazki w tym rozdziale wymagają aktualizacji jak zmienimy treść
+- scenka z Ismene albo do przerobienia albo do wywalenia bo obecnie nic nie wprowadza do fabuły
 - Vallus przyjmie bohaterów w swoich prywatnych komntach, gdzie spotykali się już nie raz w przeszłości, rzuci więcej światła na poczynania Arezji i Tarana, konflikcie, wiarygodnej plotce o boskości.
 
+## Arezja
+- pojedynek z Taureusem i Noc Talosa do wywalenia, to się nie wydarzy
+- opisy lokacji w Arezji jeśli to sensowne powinny uwzględniać że bohaterowie juz tu byli (zajrzyj do wiki:sesje)
+- Należy rozwinąć sekcje "Narsus, Śmierć Królowej i Rozejm w Żałobie" w szczególności więcej sekcji czytaj na głos, chciałbym mieć też przykładowe dialogi, które te NPC mogą wygłosić.
+- Helena przy spotkaniu musi więcej powiedzieć o perspektywie Arezji na ostatnie lata eskalacji. Wyjaśnić sytuacje Zakrotha (był opłacany przez Arezję). Ostatecznie też wyrazi zgodę na rozmowę bohaterów z Narsusem, przyzna że monopol na boskość Arezji nie zapewni stabilności na kontynencie. Taka deklaracja potwierdzona prez bohaterów powinna wystarczyć, żeby ku niezadowoleniu Tarana armia sie rozeszła. Helena umrze, ale prawda jest taka, że Narsus bez pomocy bohaterów nigdy nie zbierze artefaktów, więc tak naprawdę tutaj to Arezja jest zdana na bohaterów jeśli chcą mieć swojego boga, nie ma ryzyka monopolu.
+- Przerobić scenę z Narsusem uwzględniając moje wcześniejsze uwagi.
+- Zniknięcie Jocasty/Mistrza Cieni bo zabójstwie jest bardzo podejrzane, po co to ma robić? Lepiej zabezpieczyć wpływy w już rodzącej się nowej władzy. Bohaterowie raczej też nie zostaliby zaproszeni do miejsca zbrodni, a mogliby nawet zostać tymczasowo aresztowani. W końcu ledwo obcy zostali wpuszczeni do miasta a chwilę potem ktoś zabija królową?
+- w każdym razie ostatecznie, armia Tarana rozprasza się spod Arezji.
 
 
 # Artefakty w posiadaniu bohaterów
