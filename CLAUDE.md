@@ -35,6 +35,10 @@ uv run python scripts/pdf2md/convert.py <PDF> <OUTDIR>
 
 `input/`, `build/`, `content/99-DM-Corner/` and the per-session working files (`private/sessions/{NNN}/`) are **not** part of this public repo. They live in the private repo `karpiq24/OotD-private`, cloned into `private/` (gitignored), and are reached through gitignored symlinks: `input → private/input`, `build → private/build`, `content/99-DM-Corner → ../private/DM-Corner`. Commit changes to anything under those paths from inside `private/` (`git -C private ...`), never from the public repo. Anything copyrighted (sourcebook text, Nowa Era PDF build) or DM-only goes there. The two sourcebook PDFs in `input/` are local only (over GitHub's 100 MB limit). Setup on a fresh machine is in `private/README.md`.
 
+## Foundry VTT
+
+The campaign runs on Foundry at https://dnd.klima-kar.pl (world `odyssey-of-the-dragonlords`, files mounted at `/mnt/beholder/appdata/Foundry/Data/worlds/odyssey-of-the-dragonlords/`). To create or update actors (stat blocks, art, tokens), follow `build/foundry-import/README.md`: stat blocks go in through Plutonium's API in the browser, never by editing the world's LevelDB.
+
 ## rpgnotes and this wiki
 
 The sibling repo `../rpgnotes` turns a game's audio and Foundry log into a session draft. The two repos touch through exactly two files, each with a `schema_version` that both sides check:
