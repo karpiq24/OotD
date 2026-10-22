@@ -1,18 +1,22 @@
 ---
 title: Wielki Dzik
+aliases:
+  - Mroczny Dzik
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Potężna, spaczone bestia wysłana przez Bliźniaczych Tytanów, by siać zniszczenie w Heartlandach._
+_Potężna, spaczona bestia wysłana przez Bliźniaczych Tytanów, by siać zniszczenie na okolicznych ziemiach, zabita przez bohaterów w pierwszej sesji._
 
 ## Opis
-Wielki Dzik to ogromny, stary samiec o białej szczecinie i wściekle czerwonych oczach. Jego kły są pożółkłe i splamione krwią. W jego grzbiecie tkwiło wiele złamanych włóczni i strzał – pozostałości po nieudanych próbach jego zgładzenia przez lokalnych myśliwych.
+Wielki Dzik to ogromny, stary samiec o białej szczecinie i wściekle czerwonych oczach. Jego kły są pożółkłe i splamione krwią. W jego grzbiecie tkwiło wiele złamanych włóczni i strzał – pozostałości po nieudanych próbach jego zgładzenia przez lokalnych myśliwych. <!-- UNSOURCED -->
 
 ## Osobowość
-Bestia kierowana nienawiścią i głodem, spaczone magią Tytanów. Tuż przed śmiercią przemówiła do bohaterów głosem odbijającym się echem w ich umysłach, wieszcząc koniec ery bogów i zagładę Thylei.
+Bestia kierowana nienawiścią i głodem, spaczona magią Tytanów. Tuż przed śmiercią przemówiła do bohaterów głosem odbijającym się echem w ich umysłach, wieszcząc koniec ery bogów i zagładę Thylei. <!-- UNSOURCED -->
 
 ## Historia
-Został wysłany przez [[Sydon|Sydona]] i [[Lutheria|Lutherię]] jako znak nadchodzącej wojny. Przez wiele dni niszczył farmy i osady na wschód od [[Estoria|Estorii]], żerując na nielicznych osadnikach i myśliwych.
+Przez wiele dni niszczył farmy i osady na wschód od [[Estoria|Estorii]], żerując na nielicznych osadnikach i myśliwych. <!-- UNSOURCED -->
 
-W [[Sesja 1 - Wielki Dzik]] bohaterowie wytropili go w jego jaskini i pokonali. Po walce złożyli jego ciało w ofierze [[Volkan|Volkanowi]], co było jednym ze sposobów na przebłaganie bogów.
+W [[Sesja 1 - Wielki Dzik]] [[Kyrah]] zleciła bohaterom upolowanie straszliwego dzika, który siał spustoszenie pośród okolicznych ziem, i poinformowała ich, że został on wysłany przez [[Bliźniaczy Tytani|Bliźniaczych Tytanów]] – jako jeden ze znaków, że znowu knują wojnę. Wraz z myśliwymi [[Taneias|Taneiasem]] i [[Javon|Javonem]] wytropili go w jego jaskini i po krótkiej walce zabili. Zgodnie z przypomnieniem Kyrah złożyli jego ciało w ofierze [[Volkan|Volkanowi]]. Niegdyś zabił [[Orestes|Orestesa]]; później [[Sesja 58 - Wyspa Czasu|Orestes wymienił jego kieł]] na księgę o piwie.
+
+W [[Sesja 68 - Arena Krzywoprzysięstwa]] pojawił się jako wierzchowiec morskiej wiedźmy [[Heleka|Heleki]] w pierwszej fali areny na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]], gdzie bohaterowie wystąpili przeciw swoim dawnym wrogom. Padł niemal natychmiast, a Heleka spadła z jego grzbietu.

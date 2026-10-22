@@ -7,10 +7,16 @@ title: Varkon
 _Kapitan bandytów i współpracownik Kultu Węża._
 
 ## Opis
-Varkon to półork, kapitan bandytów, który często przesiaduje w tawernie **[[Satyrzy Ogon]]** wraz ze swoją załogą. Jest głośny, brutalny i chwali się swoimi wyczynami na Zatoce Cerulańskiej.
+Varkon to półork, który przesiadywał w tawernie **[[Satyrzy Ogon]]** i był pośrednikiem [[Moxena|Pani Monet]] w sprzedaży skamieniałych artystów. Jego statek został zatopiony przez [[Orestes|Orestesa]] ([[Sesja 22 - Taniec z Meduzą]]).
+
+Był kapitanem bandytów i często przesiadywał w tawernie wraz ze swoją załogą. Jest głośny, brutalny i chwali się swoimi wyczynami na Zatoce Cerulańskiej. <!-- UNSOURCED -->
 
 ## Działalność
-Pracuje dla **[[Moxena|Pani Monet]]**, wykonując brudną robotę dla **[[Kult Węża|Kultu Węża]]**. Przemyca skamieniałe ofiary Lady na Wyspę Smoka (Island of the Dragon) dla Hexii. Zna również tajne wejście do **[[Kolos Pythora|Kolosa Pythora]]**, używane przez kult.
+Pracował dla **[[Moxena|Pani Monet]]**, pośrednicząc w sprzedaży skamieniałych artystów [[Hexia|Hexii]].
+
+Wykonywał brudną robotę dla **[[Kult Węża|Kultu Węża]]**. Znał również tajne wejście do **[[Kolos Pythora|Kolosa Pythora]]**, używane przez kult. <!-- UNSOURCED -->
 
 ## Historia
-W [[Sesja 21 - Ukryte pragnienia Ismene]] spotkał się z [[Felicjan Janus Twardowski|Felicjanem]] w tawernie [[Satyrzy Ogon]]. Zgodził się zabrać drużynę na [[Wyspa Smoka|Smoczą Wyspę]] za 20 000 sztuk złota. Ujawnił lokalizację swojego statku, na który drużyna wkradła się pod nieobecność załogi.
+W [[Sesja 21 - Ukryte pragnienia Ismene]] [[Felicjan Janus Twardowski|Felicjan]] dogadał się z nim w tawernie [[Satyrzy Ogon]], że zabierze drużynę na [[Wyspa Smoka|Smoczą Wyspę]] za 20 000 sztuk złota. Varkon wskazał, gdzie jest jego statek, na który drużyna weszła pod nieobecność załogi.
+
+W [[Sesja 22 - Taniec z Meduzą]] jego statek zatopił Orestes, wyrąbując dziurę w dnie; wśród posągów na statku była córka [[Maximus|Maximusa]]. W [[Sesja 23 - Nowe Przymierze]] bohaterowie mieli nadzieję, że Varkon ma przy sobie [[Antikythera|Antikytherę]].

@@ -7,9 +7,13 @@ title: Rhea
 _Czarodziejka pracująca dla Moxeny._
 
 ## Opis
-Włada magią i wykonuje zadania dla Moxeny.
+Czarodziejka władająca magią, która wykonywała zadania dla [[Moxena|Moxeny]]; po zawarciu przymierza dołączyła do drużyny (załogi).
 
 ## Historia
-Została zidentyfikowana jako jedna ze współpracowniczek Moxeny, działająca w ukryciu.
+W [[Sesja 21 - Ukryte pragnienia Ismene]] [[Astra]] wyjawiła, że Rhea, władająca magią, pracuje dla [[Moxena|Moxeny]].
 
-W [[Sesja 21 - Ukryte pragnienia Ismene]] [[Astra]] wyjawiła, że Rhea jest magiczką pracującą dla [[Moxena|Moxeny]], pomagającą w procedurze porywania i transportu skamieniałych ofiar.
+Pomagała w procedurze porywania i transportu skamieniałych ofiar. <!-- UNSOURCED -->
+
+W [[Sesja 22 - Taniec z Meduzą]] odpowiedziała Counterspellem na Vortex Warp [[Versir|Versira]].
+
+W [[Sesja 31 - Wyprawa na Themis]] dołączyła do drużyny (załogi) przed wyprawą na [[Themis]]. W [[Sesja 36 - Królowa, Dziedzic i Generał]] wyszła z pałacu z [[Hippolyta|Hippolytą]] i [[Darien]] po rewolucji.

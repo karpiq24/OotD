@@ -4,14 +4,14 @@ title: Rutger
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Krasnolud z załogi Quinna._
+_Krasnolud z załogi Quinna, rozbitek z innego świata na pokładzie Ultrosa._
 
-Członek załogi statku 'Sen Kasandry', rozbitek z innego świata.
+Członek załogi statku "Sen Kasandry", towarzysz [[Quinn|Quinna]].
 
 ## Opis
-Według [[Quinn|Quinna]], "mruczy więcej niż mówi i wiecznie śmierdzi piwem".
+Według [[Quinn|Quinna]] "mruczy więcej niż mówi i wiecznie śmierdzi piwem".
 
 ## Historia
 Zwerbowany przez Quinna do ekspedycji. Przeżył katastrofę statku.
 
-Odnaleziony w [[Sesja 36 - Królowa, Dziedzic i Generał]] i wcielony do załogi Ultrosa.
+W [[Sesja 36 - Królowa, Dziedzic i Generał]] został uratowany z wraku wraz z Quinnem i resztą rozbitków i wcielony do załogi [[Ultros|Ultrosa]] — zmuszono go do wiosłowania pod pokładem.

@@ -4,17 +4,21 @@ title: Hezzebal
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Mosiężny smok, wierzchowiec Gregora Huoratha_
+_Mosiężny smok, wierzchowiec Gregora Huoratha; zniszczony w Lustrzanym Więzieniu._
 
 ## Opis
-Mosiężny smok, który po śmierci nie odszedł w zaświaty. Natura [[Morze Otchłani|Morza Otchłani]], w połączeniu z jego gniewem i niedokończonymi sprawami, sprawiła, że pozostał jako duch strażnik.
-Posiada unikalną, przerażającą zdolność: potrafi manifestować się jako **eteryczny duch** i jednocześnie animować swój własny **szkielet**. W walce sprawia to wrażenie starcia z dwoma smokami naraz – jeden atakuje mrozem i magią, drugi fizyczną siłą i nekrotyczną energią.
+Mosiężny smok, który po śmierci nie odszedł w zaświaty: jako duch strażnik strzegł skarbca w [[Lustrzane Więzienie|Lustrzanym Więzieniu]]. Potrafił manifestować się jednocześnie jako **eteryczny duch** i jako animowany **szkielet**, co w walce sprawiało wrażenie starcia z dwoma smokami naraz — duch zionął mroźnym oddechem, szkielet nekrotyczną energią, a jego ryk wywoływał strach. Szkielet spoczywał w centrum komnaty. Został zniszczony.
+
+Natura [[Morze Otchłani|Morza Otchłani]], w połączeniu z jego gniewem i niedokończonymi sprawami, sprawiła, że pozostał jako duch strażnik.<!-- UNSOURCED -->
 
 ## Osobowość
-Przepełniony goryczą i zawiścią. Uważa, że [[Smoczy Lordowie]] zdradzili i porzucili jego oraz [[Gregor Huorath|Gregora]]. Jego lojalność zmieniła się w nienawiść, a dawna szlachetność w szaleństwo. Jest przekonany, że smoki były dla Lordów tylko narzędziami.
+Oskarżał Zakon Smoczych Lordów o zdradę i porzucenie, a bohaterów uznał za uzurpatorów.
+
+Przepełniony goryczą i zawiścią. Uważał, że [[Smoczy Lordowie]] zdradzili i porzucili jego oraz [[Gregor Huorath|Gregora]]. Jego lojalność zmieniła się w nienawiść, a dawna szlachetność w szaleństwo. Był przekonany, że smoki były dla Lordów tylko narzędziami.<!-- UNSOURCED -->
 
 ## Historia
-Hezzebal był wierzchowcem [[Gregor Huorath|Gregora Huoratha]]. 500 lat temu obaj zginęli w walce z Krakenem, broniąc [[Skarby Smoczych Lordów]] ukrytych w [[Lustrzane Więzienie|Lustrzanym Więzieniu]].
-Zamiast odejść w zaświaty, duch Hezzebala został uwięziony w piramidzie przez magiczny wpływ Morza Otchłani. Przez wieki strzegł skarbów, popadając w coraz głębszy obłęd.
+Hezzebal był wierzchowcem [[Gregor Huorath|Gregora Huoratha]]. Przed wiekami [[Estor Arkelander|Estor]] wysłał obu do [[Lustrzane Więzienie|Lustrzanego Więzienia]], by ukryli [[Skarby Smoczych Lordów]]; spoczęli tam jako szczątki w dawnym leżu Krakena ([[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]]).
 
-W [[Sesja 67 - Zguba Estora]], gdy drużyna naruszyła jego spokój, zaatakował ich z pełną furią, wykorzystując swoją dwupostaciowość (duch i szkielet). Jednak gdy pojawił się duch [[Estor Arkelander|Estora Arkelandera]], smok rozpoznał w nim jednego ze zdrajców (Smoczych Lordów) i wpadł w amok, ignorując pozostałych, by zniszczyć dawnego sojusznika. Ostatecznie został pokonany przez bohaterów, co pozwoliło mu wreszcie zaznać spokoju.
+Przez wieki strzegł skarbów, popadając w coraz głębszy obłęd.<!-- UNSOURCED -->
+
+W [[Sesja 67 - Zguba Estora]], gdy drużyna zbliżyła się do sterty skarbów — [[Felicjan Janus Twardowski|Felicjan]] miał na głowie koronę, której widok go rozwścieczył — z kości martwego smoka wyłonił się jego duch. Zaatakował bohaterów z pełną furią, wykorzystując swoją dwupostaciowość. Gdy pojawił się duch [[Estor Arkelander|Estora Arkelandera]], w którym smok rozpoznał swojego dawnego pana i mordercę, wpadł w amok i zignorował pozostałych, by zniszczyć Estora, choć jego ataki przepływały przez zjawę bez większego efektu. Bohaterowie wykorzystali ten szał, roztrzaskali szkieletową formę Hezzebala i rozwiali jego ducha, ostatecznie kończąc cierpienie strażnika skarbca.

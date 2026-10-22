@@ -4,15 +4,9 @@ title: Hileas
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Dowódca w armii [[Mytros (Miasto)|Mytros]]_
-
-## Opis
-Fizyczny opis postaci.
-
-## Osobowość
-Cechy charakteru, motywacje, ideały.
+_Dowódca obozu wojskowego Mytros_
 
 ## Historia
-Dowódca [[Obóz wojskowy Mytros]], którego bohaterowie spotkali w drodze do [[Świątynia Wyroczni]].
+Dowódca [[Obóz wojskowy Mytros|obozu wojskowego Mytros]] ([[Sesja 1 - Wielki Dzik]]).
 
-W [[Sesja 1 - Wielki Dzik]] jego obóz został odwiedzony przez drużynę zmierzającą do Wyroczni po pokonaniu Wielkiego Dzika.
+W [[Sesja 1 - Wielki Dzik]] jego obóz, leżący na drodze do [[Świątynia Wyroczni|Świątyni Wyroczni]], odwiedziła drużyna po pokonaniu Wielkiego Dzika.

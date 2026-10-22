@@ -10,10 +10,10 @@ voice_characteristics:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Gigantyczna morska bestia w służbie [[Sydon|Sydona]]._
+_Gigantyczna morska bestia, która wsparła [[Sydon|Sydona]] w Bitwie o Mytros i zginęła z ręki [[Orestes|Orestesa]]._
 
 ## Opis
 Potężny potwór morski o kolosalnym cielsku, zdolny wzburzać gigantyczne fale pływowe i oblewać wrogów żrącym kwasem. Uderza masywnym ciałem oraz miażdżącym ogonem.
 
 ## Historia
-Przybył z głębin zatoki podczas [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|Bitwy o Mytros]], by wesprzeć [[Sydon|Władcę Burz]] w starciu z [[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]]. [[Felicjan Janus Twardowski|Felicjan]] na krótko unieszkodliwił go, odwracając grawitację magicznym zwojem i wyrywając bestię z wody wysoko w powietrze. Ostatecznie [[Orestes]] dobił Lewiatana serią cięć [[Topór Xandera|Toporem Xandera]].
+W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] [[Orion Xul|Orion]] dostrzegł pod powierzchnią wody gigantyczny cień płynący od strony miasta – to Lewiatan zmierzał do bitwy, by wesprzeć Władcę Burz. Wynurzył się z głębin i wzbudził gigantyczną falę pływową. [[Kolos Pythora]] wbił w niego włócznię, ciężko go raniąc, a [[Felicjan Janus Twardowski|Felicjan]] odwrócił grawitację magicznym zwojem i wyrwał bestię z wody wysoko w powietrze; gdy anomalia wygasła, potwór runął z powrotem w głębię. Wynurzył się ponownie: uderzył w [[Versir|Versira]] cielskiem, oblewając go żrącym kwasem, i poprawił miażdżącym ciosem ogona, a potem runął na [[Orestes|Orestesa]]. Orestes, wpadłszy w szał, dopłynął do niego i serią cięć [[Topór Xandera|Toporem Xandera]] zabił potwora.

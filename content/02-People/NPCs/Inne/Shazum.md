@@ -7,9 +7,9 @@ title: Shazum
 _Ekscentryczny Kupiec Międzywymiarowy_
 
 ## Opis
-Potężny mag i kupiec, który podróżuje między światami na grzbiecie gigantycznego, prastarego żółwia morskiego. Jego bazar unosi się w powietrzu lub jest rozłożony na skorupie żółwia.
+Ekscentryczny, lewitujący kupiec i podróżnik między światami, oferujący cuda z najdalszych zakątków multiwersum. Swój wędrowny bazar ([[Wędrowny Bazar Shazuma]]) rozkłada na grzbiecie gigantycznego, prastarego żółwia morskiego.
 
 ## Historia
-W [[Sesja 61 - Yala, Arezja i Żółw]] spotkał bohaterów na morzu. Sprzedał im mikstury i magiczną różdżkę. Wspomniał o wizycie w Eberronie (świecie Arevona), który mu się nie spodobał. Handluje także z Arezją.
+W [[Sesja 61 - Yala, Arezja i Żółw]] bohaterowie natrafili na morzu na żółwia, na którego grzbiecie Shazum rozbił bazar. Uzupełnili u niego zapasy mikstur leczniczych i kupili unikatowy magiczny przedmiot ([[Różdżka Absorpcji Wody]]). Shazum wspomniał, że bywał w rodzinnym świecie [[Arevon Elorrenthi|Arevona]], [[Eberron|Eberronie]], lecz nie przypadł mu on do gustu. Jego klientami byli też marynarze z [[Arezja|Arezji]].
 
-W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie kontynuowali handel z Shazumem i zdobyli informacje o Arezji od przebywających u niego marynarzy.
+W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie ponownie zatrzymali się u niego, uzupełnili zapasy i zasięgnęli od handlujących tam marynarzy z Arezji języka o celu swojej podróży.

@@ -3,16 +3,21 @@ title: Ramsus
 race: Koźlak (Satyr/Minotaur)
 gender: Mężczyzna
 occupation: Kucharz
+aliases:
+  - Ramzus
 ---
 
 ![Placeholder](../../../../assets/placeholder.webp)
 
-_Szef Kuchni w Praxys_
+_Szef kuchni w Praxys, który pomógł drużynie i został uwolniony z wieży._
 
 ## Opis
-Wściekły koźlak zajmujący się w kuchni pożywieniem dla garnizonu wielkiej Wieży.
+Koźlak, główny szef kuchni w wieży [[Praxys]]. Bystry i spostrzegawczy – natychmiast przejrzał przebrania drużyny. Zmęczony despotycznymi rządami Władcy Burz i wizją nadchodzącej, wyniszczającej wojny.
+<!-- CONFLICT: S71 „koźlaka imieniem Ramsus" vs S72 „wykwalifikowanego gnoma imieniem Ramsus" (ten sam tekst S72 nazywa go też koźlakiem) -->
 
 ## Historia
-Mieszka oraz zarządza kuchnią w wieży [[Praxys]]. W [[Sesja 71 - Infiltracja Praxys]] drużyna, dzięki rzuconym czarom, dostrzegła koźlaka z ukrycia po drodze z odpływu w latrynie.
+Mieszkał i zarządzał kuchnią w wieży [[Praxys]]. W [[Sesja 71 - Infiltracja Praxys]] [[Arevon Elorrenthi|Arevon]] w postaci eterycznej chmury zwiadował pomieszczenia po drodze z odpływu w latrynie i odkrył kuchnię pod batutą koźlaka imieniem Ramsus.
 
-W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] spotkał Bohaterów Przepowiedni osobiście, gdy ci wkroczyli do obszaru kuchni w [[Praxys]]. Błyskawicznie przejrzał ich przebrania, jednak nie podniósł alarmu ze względu na zmęczenie autorytarnymi rządami nadciągającą wizją nowej wojny. Zawarł rozejm z bohaterami dając im propozycję ataku "konia trojańskiego": bohaterowie ukryli się w gigantycznym bochenku chleba wyszykowanym na śniadanie tytana [[Sydon|Sydona]], który zaraz powędrował prosto do prywatnej Sali Tronowej Władcy Burz.
+W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] drużyna wpadła na niego w kuchni wieży. Mimo przebrań bohaterów Ramsus natychmiast przejrzał maskaradę, a próby kłamstw [[Orestes|Orestesa]] spaliły na panewce, lecz nie podniósł alarmu, tylko zaproponował układ. Opowiedział o nadchodzącym śniadaniu [[Sydon|Sydona]] i zaproponował plan "konia trojańskiego": wydrążyć gigantyczny bochenek chleba i ukryć w nim Bohaterów Przepowiedni. Kuchtowie przygotowali chleb, a Orestes wdał się z kucharzem w dyskusję o parowaniu regionalnych piw z daniami. Bohaterowie ukryli się w bochenku, który windą towarową powędrował do prywatnych komnat Tytana.
+
+W [[Sesja 75 - Koniec Przysięgi]] został uwolniony z [[Praxys]] i załadowany na statek razem z innymi uwolnionymi więźniami.

@@ -11,12 +11,20 @@ image_prompt:
 _Satyryca uwięziona na Wyspie Krzywoprzysięstwa za złamanie przysięgi podczas Wielkich Igrzysk._
 
 ## Opis
-Orestia to satyryca o podobnym imieniu do Orestesa, co mogło sugerować pokrewieństwo, jednak nie są spokrewnieni. Mimo ponad stu lat spędzonych na Wyspie Krzywoprzysięstwa, zachowała pewną bystrość umysłu i cyniczny humor.
+Orestia to satyryca, była magini [[Akademia Mytros|Akademii w Mytros]], pochodząca z Mytros. Mimo ponad stu lat spędzonych na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]] zachowała pewną bystrość umysłu. Po końcu kampanii wciąż jest tam więźniem w łańcuchach – drużyna nie wynegocjowała jej uwolnienia.
+
+Ma imię podobne do [[Orestes|Orestesa]], co mogło sugerować pokrewieństwo, jednak nie są spokrewnieni. <!-- UNSOURCED -->
 
 ## Osobowość
-Znudzona monotonią swojego uwięzienia, Orestia tęskni za rozrywką. Z pozornym entuzjazmem przyjmuje gości, choć szybko traci zainteresowanie długimi opowieściami. Regularnie słucha makabrycznych żartów [[Lutheria|Lutherii]], co ukształtowało jej pesymistyczne podejście do zaświatów.
+Znudzona monotonią swojego uwięzienia, Orestia tęskni za rozrywką; opowieści o browarnictwie szybko ją jednak znużyły. Mówi, że głównie słucha dowcipów Pani Śmierci ([[Lutheria|Lutherii]]).
+
+To właśnie makabryczne żarty Lutherii ukształtowały jej pesymistyczne podejście do zaświatów. <!-- UNSOURCED -->
 
 ## Historia
-Orestia była magini [[Akademia Mytros|Akademii w Mytros]]. Podczas Wielkich Igrzysk w Mytros dopuściła się "drobnego kłamstewka" i złamała przysięgę składaną na początku zawodów – prawdopodobnie stosowała magiczny doping w debatach. Za ten występek została skazana na karę wiecznego uwięzienia na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]], gdzie spędziła już ponad 110 lat.
+Za "drobne kłamstewko" i złamanie przysięgi podczas Wielkich Igrzysk w Mytros Orestia odbywa karę na Wyspie Krzywoprzysięstwa, gdzie spędziła już ponad sto lat.
 
-W [[Sesja 68 - Arena Krzywoprzysięstwa]] spotkała [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]], którzy przybyli na wyspę w poszukiwaniu [[Helios|Heliosa]]. Poczęstowana piwem przez [[Orestes|Orestesa]], zdradziła im informacje o [[The Keeper|Zarządcy]] wyspy i jego skłonności do negocjacji.
+Przysięgę składała na początku zawodów, a kłamstwo prawdopodobnie polegało na magicznym dopingu w debatach; karą miało być wieczne uwięzienie. <!-- UNSOURCED -->
+
+W [[Sesja 68 - Arena Krzywoprzysięstwa]] [[Orestes]] dostrzegł ją wśród potępionych dusz na wyspie. Poczęstowana przez niego piwem, poprawiła sobie nastrój, choć opowieści o browarnictwie szybko ją znużyły, i zdradziła, że zarządca wyspy, [[The Warden]], jest skłonny do negocjacji.
+
+W [[Sesja 69 - Ogród Lutherii]] po walce na arenie drużyna próbowała wynegocjować z [[The Warden|Zarządcą]] jej uwolnienie. Oferowała mu potężne magiczne przedmioty, w tym Oathbow, lecz on chciał jednego z legendarnych przedmiotów albo Przysięgi Służby, a na taki koszt bohaterowie nie byli gotowi. Orestia pozostała w łańcuchach.

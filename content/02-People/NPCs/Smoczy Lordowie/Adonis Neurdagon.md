@@ -1,16 +1,21 @@
 ---
 title: Adonis Neurdagon
+aliases:
+  - Adonis
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Jeden z pierwszych Smoczych Lordów_
+_Jeden ze Smoczych Lordów, brat Despiny; zmarły przed wiekami._
 
 ## Opis
-Piękny i próżny wojownik.
-
-## Osobowość
-Cechy charakteru, motywacje, ideały.
+Piękny i próżny wojownik.<!-- UNSOURCED -->
 
 ## Historia
-Brał udział w wyprawie z [[Telamok Arkelander|Telamokiem]] na [[Praxys]].
+Brał udział w wyprawie z [[Telamok Arkelander|Telamokiem]] na [[Praxys]].<!-- UNSOURCED -->
+
+Jego grób znajduje się w [[Nekropolia w Telamok|Nekropolii w Telamok]]; bohaterowie obejrzeli go w [[Sesja 8 - Ścieżka Umarłych]].
+
+W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] [[Morta]] opowiedziała [[Felicjan Janus Twardowski|Felicjanowi]], że jego prababka [[Despina]] była siostrą Adonisa Neurdagona, jednego ze [[Smoczy Lordowie|Smoczych Lordów]], która przybyła do [[Thylea|Thylei]] wraz z nimi, lecz zdradziła ich ideały.
+
+W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że smok [[Raspytrion]] ([[Pythor]]) był niegdyś zaprzysiężony właśnie jemu.

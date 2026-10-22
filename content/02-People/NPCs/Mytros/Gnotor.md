@@ -7,7 +7,7 @@ title: Gnotor
 _Uwolniony minotaur._
 
 ## Opis
-Gnotor to minotaur, który został wygrany przez drużynę (konkretnie przez **[[Orestes|Orestesa]]**) w zakładzie z **[[Maximus|Maximusem]]**.
+Gnotor to minotaur, którego drużyna wygrała od [[Maximus|Maximusa]] dzięki zwycięstwu [[Orestes|Orestesa]] w walce na jego arenie.
 
 ## Historia
-W [[Sesja 18 - Cienie Mytros]] został wygrany przez [[Orestes|Orestesa]] w walce na arenie [[Maximus|Maximusa]].
+W [[Sesja 18 - Cienie Mytros]] [[Orestes]] wygrał walkę z dwoma minotaurami jednocześnie, dzięki czemu drużyna wygrała jednego z nich, Gnotora.

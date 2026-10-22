@@ -4,17 +4,17 @@ title: Heliope
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Czarodziejka z załogi Quinna._
+_Czarodziejka z załogi Quinna, rozbitek z innego świata na pokładzie Ultrosa._
 
-Członkini załogi statku 'Sen Kasandry', rozbitek z innego świata.
+Członkini załogi statku "Sen Kasandry", towarzyszka [[Quinn|Quinna]].
 
 ## Opis
-Upiera się przy noszeniu szat ozdobionych piórami. Zauważyła, że gwiazdy w [[Thylea]] są inne, sugerując, że trafili do innego świata.
+Upiera się przy noszeniu szat ozdobionych piórami. Gdy zobaczyła gwiazdy nad [[Thylea|Thyleą]], stwierdziła, że to jakiś inny świat.
 
 ## Osobowość
-Ciekawska, zadaje mnóstwo pytań.
+Ciekawska, zadaje mnóstwo pytań.<!-- UNSOURCED -->
 
 ## Historia
 Zwerbowana przez [[Quinn|Quinna]] do ekspedycji. Przeżyła katastrofę statku.
 
-Odnaleziona w [[Sesja 36 - Królowa, Dziedzic i Generał]] i wcielona do załogi Ultrosa.
+W [[Sesja 36 - Królowa, Dziedzic i Generał]] została uratowana z wraku wraz z Quinnem i resztą rozbitków i wcielona do załogi [[Ultros|Ultrosa]] — zmuszono ją do wiosłowania pod pokładem.

@@ -7,10 +7,10 @@ title: Laios
 _Sternik poszukujący lekarstwa dla żony_
 
 ## Opis
-Mężczyzna w średnim wieku, sternik małego statku.
+Sternik małego stateczku; jego żona jest chora. Mężczyzna w średnim wieku. <!-- UNSOURCED -->
 
 ## Osobowość
-Zdeterminowany, by uratować swoją chorą żonę. Odważny na tyle, by przemierzać niebezpieczne wody w poszukiwaniu owoców z Drzewa Serca.
+Zdeterminowany, by uratować swoją chorą żonę. Odważny na tyle, by przemierzać niebezpieczne wody w poszukiwaniu owoców z Drzewa Serca. <!-- UNSOURCED -->
 
 ## Historia
-Spotkany przez bohaterów w drodze na Wyspę Złotego Serca. Poprosił ich o pomoc w zdobyciu złotego jabłka, które miało uzdrowić jego umierającą żonę.
+W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] na horyzoncie pojawił się jego mały stateczek, a Laios poprosił bohaterów o pomoc w zdobyciu owoców z [[Drzewo Serca|Drzewa Serca]], które miały uzdrowić jego chorą żonę. Drużyna ruszyła potem na [[Wyspa Złotego Serca|Wyspę Złotego Serca]]. Później już się nie pojawia.

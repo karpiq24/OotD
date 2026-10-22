@@ -1,18 +1,20 @@
 ---
 title: Graxis Rzeźnik
+aliases:
+  - Graxis
 ---
 
 ![Graxis](../../../assets/placeholder.webp)
 
-_Ostatni z klanu krwiożerczych minotaurów, przeklęty strażnik Grobowca Xandera._
+_Strażnik Grobowca Xandera, pokonany przez Bohaterów Przepowiedni._
 
 ## Opis
-Graxis jest potężnym minotaurem, noszącym zniszczony pancerz. Włada toporem i tarczą, które ukradł z grobowca [[Xander|Xandera]]. Jego ciało nosi ślady klątwy i walki.
+Graxis był potężnym minotaurem, noszącym zniszczony pancerz. Jego ciało nosiło ślady klątwy i walki.<!-- UNSOURCED -->
 
 ## Osobowość
-Nienawidzi [[Xander|Xandera]], [[Damon|Damona]] i wszystkich [[Smoczy Lordowie|Smoczych Lordów]]. Uważa Xandera za mordercę swojego ludu.
+Nienawidził [[Xander|Xandera]], [[Damon|Damona]] i wszystkich [[Smoczy Lordowie|Smoczych Lordów]]. Uważał Xandera za mordercę swojego ludu.<!-- UNSOURCED -->
 
 ## Historia
-Był ostatnim z plemienia stworzonego przez [[Lutheria|Lutherię]]. Kiedy [[Rizon Phobas]] pokonała jego lud, [[Damon]] rzucił klątwę na ocalałych, zmuszając ich do wiecznej służby jako strażników Nekropolii.
+Był ostatnim z klanu krwiożerczych minotaurów, plemienia stworzonego przez [[Lutheria|Lutherię]]. Kiedy [[Rizon Phobas]] pokonała jego lud, [[Damon]] rzucił klątwę na ocalałych, zmuszając ich do wiecznej służby jako strażników Nekropolii.<!-- UNSOURCED -->
 
-W [[Sesja 9 - W Głębi Grobowca Xandera]] stanął na drodze Bohaterom Przepowiedni, broniąc dostępu do grobowca Xandera, ale został pokonany.
+W [[Sesja 9 - W Głębi Grobowca Xandera]] bohaterowie, po przejściu przez [[Labirynt w Nekropolii|labirynt]] pełen nieumarłych minotaurów i walce ze szkieletami we wnętrzu [[Grobowiec Xandera|grobowca Xandera]], stanęli przed Graxisem — strażnikiem grobowca. Pokonali go, a dopiero wtedy ukazał się im sam [[Xander]].

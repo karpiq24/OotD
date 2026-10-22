@@ -4,13 +4,13 @@ title: Decima
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Jedna z trzech Mojr, odmierzająca nić losu._
+_Jedna z trzech [[Mojry|Mojr]], odmierzająca nić losu._
 
 ## Opis
-Decima to potężnie zbudowana kobieta o skórze twardej jak granit. Podobnie jak matka (Morta), może mieć pusty oczodół. Wyróżnia się koroną wijących się, metalicznych węży na głowie oraz metalicznymi zębami. Jest „siłą” w kowenie.
+Decima to potężnie zbudowana kobieta o skórze twardej jak granit, z pustym oczodołem, koroną wijących się, metalicznych węży na głowie i metalicznymi zębami. Jest „siłą" w kowenie. <!-- UNSOURCED -->
 
 ## Osobowość
-Jest obowiązkowa i wierna Morcie, ale też lubi flirtować z gośćmi, choć jej zaloty są podszyte groźbą. Jest złośliwa w swoich uwagach, wytykając bohaterom ich błędy i lęki.
+Jest obowiązkowa i wierna [[Morta|Morcie]], ale też lubi flirtować z gośćmi, choć jej zaloty są podszyte groźbą. Jest złośliwa w swoich uwagach, wytykając bohaterom ich błędy i lęki. <!-- UNSOURCED -->
 
 ## Historia
-W [[Sesja 47 - Wyspa Mojr]] drwiła z [[Arevon Elorrenthi|Arevona]] i [[Orestes|Orestesa]].
+W [[Sesja 47 - Wyspa Mojr]] wraz z [[Morta|Mortą]] i [[Nona|Noną]] powitała drużynę szyderczym śmiechem. Drwiła z [[Arevon Elorrenthi|Arevona]], pytając, kiedy poszukiwania zaginionej załogi stały się dla niego drugorzędne, oraz z [[Orestes|Orestesa]], wypominając mu bierność podczas igrzysk. W [[Sesja 48 - Pakty z Mojrami i Zew Chimery|Sesji 48]] jest jeszcze wymieniona wśród Mojr.

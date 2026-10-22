@@ -7,10 +7,12 @@ title: Vitalis
 _Mędrzec z Wielkich Ogrodów, zwany "Vitalis Tłusty"._
 
 ## Opis
-Vitalis to niziołek, który mieszka w **[[Wielkie Ogrody|Wielkich Ogrodach]]**. Jest brudny, gruby i śmierdzący, ale uważany za najmądrzejszego śmiertelnika w Mytros.
+Vitalis, zwany Otyłym, to najmądrzejszy śmiertelnik w **[[Wielkie Ogrody|Wielkich Ogrodach]]**.
+
+Jest niziołkiem, brudnym, grubym i śmierdzącym. <!-- UNSOURCED -->
 
 ## Działalność
-Udziela rad każdemu, kto nakarmi go dobrym jedzeniem lub winem. Jego rady są trafne, choć często poprzedzone obraźliwymi żartami i beknięciami.
+Udziela rad każdemu, kto nakarmi go dobrym jedzeniem lub winem. Jego rady są trafne, choć często poprzedzone obraźliwymi żartami i beknięciami. <!-- UNSOURCED -->
 
 ## Historia
-W [[Sesja 18 - Cienie Mytros]] udzielił rady [[Felicjan Janus Twardowski|Felicjanowi]] w sprawie Fortecy Smoczych Lordów, kierując go do [[Talieus|Talieusa]].
+W [[Sesja 18 - Cienie Mytros]] [[Felicjan Janus Twardowski|Felicjan]] udał się do niego, by dowiedzieć się czegoś o Fortecy Smoczych Lordów. W zamian za smaczny posiłek Vitalis poradził mu, by do znalezienia Fortecy najpierw odnaleźć [[Talieus|Talieusa]].

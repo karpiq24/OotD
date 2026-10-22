@@ -7,7 +7,9 @@ title: Sędzia Enops
 _Sędzia w Mytros._
 
 ## Opis
-Sędzia Enops to urzędnik sądowy w Mytros. Został znaleziony "rozpłaszczony" podczas zamieszek wywołanych przez ucieczkę minotaurów.
+Sędzia Enops nie żyje: zginął podczas zamieszek w Mytros, a jego rozpłaszczone ciało znaleziono na ulicy.
+
+Był urzędnikiem sądowym w Mytros. <!-- UNSOURCED -->
 
 ## Historia
-W [[Sesja 20 - Noc Długich Rogów]] został znaleziony martwy (rozpłaszczony) na ulicach Mytros.
+W [[Sesja 20 - Noc Długich Rogów]] [[Felicjan Janus Twardowski|Felicjan]], wracając do domu, spotkał go rozpłaszczonego.

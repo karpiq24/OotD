@@ -1,13 +1,15 @@
 ---
 title: Chalcodon
+aliases:
+  - Mistrz Chalcodon
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Filozof z Akademii, autor "Mathematika Chalcodona"._
+_Filozof z Akademii, autor „Mathematika Chalcodona”._ <!-- UNSOURCED -->
 
 ## Opis
-Mistrz Chalcodon to sędziwy filozof i nauczyciel w Akademii. Był mentorem Felicjana. Chalcodon to elficki szlachcic i filozof. Specjalizuje się w matematyce i logice. Jest autorem paradoksu o Pythorze i żółwiu (wersja paradoksu Achillesa). Ceni precyzję i intelekt.
+Mistrz Chalcodon to sędziwy filozof i nauczyciel w Akademii. Był mentorem Felicjana. Chalcodon to elficki szlachcic i filozof. Specjalizuje się w matematyce i logice. Jest autorem paradoksu o Pythorze i żółwiu (wersja paradoksu Achillesa). Ceni precyzję i intelekt. <!-- UNSOURCED -->
 
 ## Historia
-W [[Sesja 15 - W kanałach Mytros]] przekazał [[Felicjan Janus Twardowski|Felicjanowi]] informacje o jego prababce [[Despina|Despinie]], którą znał osobiście.
+W [[Sesja 15 - W kanałach Mytros]] Mistrz Chalcodon, który znał osobiście ponad 100 lat temu prababkę [[Felicjan Janus Twardowski|Felicjana]], [[Despina|Despinę]], przekazał drużynie informacje o jej zainteresowaniach i historii.

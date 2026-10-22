@@ -1,5 +1,7 @@
 ---
 title: Taran Neurdagon
+aliases:
+  - Taran
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
@@ -7,20 +9,24 @@ title: Taran Neurdagon
 _Potężny kupiec i głowa rodu Neurdagon._
 
 ## Opis
-Taran Neurdagon to jeden z najbogatszych ludzi w Mytros. Jest potomkiem smoczego lorda **Adonisa Neurdagona**. Mieszka w opulentej **[[Posiadłość Neurdagonów|Posiadłości Neurdagonów]]** w Dzielnicy Szlacheckiej.
+Taran Neurdagon to bogaty kupiec i oligarcha z Mytros, potomek Smoczych Lordów. Mieszka w **[[Posiadłość Neurdagonów|Posiadłości Neurdagonów]]**. Po wojnie hojnie sfinansował odbudowę Mytros, a z czasem załatwił sobie miejsce w radzie miasta ([[Sesja 84 - Świt Nowej Ery]]).
+
+Jest potomkiem smoczego lorda **Adonisa Neurdagona**. Jego posiadłość jest opulentna i leży w Dzielnicy Szlacheckiej. <!-- UNSOURCED -->
 
 ## Osobowość
-Jest dumnym i wpływowym arystokratą. Jego bogactwo opiera się głównie na nieruchomościach i handlu, w tym (choć niechętnie się do tego przyznaje) na handlu minotaurami. Jest mściwy i nie wybacza odrzucenia.
+Jest dumnym i wpływowym arystokratą. Jego bogactwo opiera się głównie na nieruchomościach i handlu, w tym (choć niechętnie się do tego przyznaje) na handlu minotaurami. Jest mściwy i nie wybacza odrzucenia. <!-- UNSOURCED -->
 
-## Cele
-Taran nienawidzi **[[Moxena|Pani Monet]]**, ponieważ jej ataki na handlarzy niewolników kosztują go fortunę. Oferuje nagrodę za jej głowę.
-Jego najmłodszy syn, **[[Sulla]]**, jest dla niego źródłem wstydu z powodu swojej obsesji na punkcie królowej Vallus.
+Na uczcie w [[Sesja 30 - Zakończenie Igrzysk]] okazał się rozrzutny i wylewny; chciał wykorzystać ostatnią noc świętowania do cna.
 
 ## Historia
-W [[Sesja 19 - Pojedynek z Rozpruwaczem]] zaoferował Orionowi 10 000 złota za pozbycie się [[Moxena|Moxeny]] i [[Kult Węża|Kultu Węża]]. W [[Sesja 20 - Noc Długich Rogów]] odkryto tajne przejście w kanałach pod jego posiadłością.
+Jego najmłodszy syn, **[[Sulla]]**, jest dla niego źródłem wstydu z powodu swojej obsesji na punkcie królowej Vallus. Taran nienawidził [[Moxena|Pani Monet]], ponieważ jej ataki na handlarzy niewolników kosztowały go fortunę, i oferował nagrodę za jej głowę. <!-- UNSOURCED -->
 
-W [[Sesja 30 - Zakończenie Igrzysk]] wyprawił wielką ucztę dla zwycięzców Igrzysk w swojej posiadłości, goszcząc nawet [[Lutheria|Lutherię]].
+W [[Sesja 19 - Pojedynek z Rozpruwaczem]] zaproponował [[Orion Xul|Orionowi]] pozbycie się [[Moxena|Moxeny]] i [[Kult Węża|Kultu Węża]] za 10 000 sztuk złota; pojawił się też jako gość na wydarzeniu [[Maximus|Maximusa]]. W [[Sesja 20 - Noc Długich Rogów]] ślady oleju poprowadziły pod jego siedzibę; w kanałach ukryte były za iluzją drewniane drzwi.
 
-W [[Sesja 49 - Wielkie Gęsie Powstanie]] wyszło na jaw, że Taran był odpowiedzialny za tragedię na [[Wyspa Forlorn]]. Zakochany w półelfce [[Althaia|Althai]], która odrzuciła jego zaloty, doprowadził do jej przeklęcia. Po latach wysłał swoich ludzi, aby ją zabili i przynieśli jej głowę.
+W [[Sesja 21 - Ukryte pragnienia Ismene]] wspomniano próbę otrucia jego syna przez [[Stavros|Stavrosa]], jego głównego rywala w handlu winem ([[Sesja 45 - Tajemnica Wyspy Wygnańców]]).
 
-W [[Sesja 84 - Świt Nowej Ery]] sfinansował znaczną część odbudowy [[Mytros]] — zdecydowanie nie bezinteresownie: podpisywano kontrakty, dziesięcinę z zysków portowych na następną dekadę i kolejne przywileje. [[Felicjan Janus Twardowski|Felicjan]] uznał go za zarodek problemu, jaki lepiej rozwiązać zawczasu, i proponował stałą obserwację oraz zaostrzone podatki dla najbogatszych; [[Orestes]] bronił kupca, przyznając uczciwie, że nie jest obiektywny, skoro jego browar robi z Neurdagonami interesy. Rzeczywistość okazała się prozaiczniejsza od obaw: Taran z czasem załatwił sobie miejsce w radzie [[Mytros]], a kilku innych jej członków utrzymywało się z jego hojności — nigdy jednak nie na tyle, by zbudować większość, i nigdy w sposób, który dałoby się nazwać po imieniu. Lukratywna posada dla córki nie jest przecież korupcją.
+W [[Sesja 30 - Zakończenie Igrzysk]] wyprawił wielką ucztę dla zawodników Igrzysk w swojej posiadłości, wygłosił mowę; gościł nawet [[Lutheria|Lutherię]], która przemawiała w imieniu nieobecnego [[Sydon|Sydona]].
+
+W [[Sesja 49 - Wielkie Gęsie Powstanie]] wyszło na jaw, że Taran był odpowiedzialny za tragedię na [[Wyspa Forlorn]]. Zakochany w półelfce [[Althaia|Althai]], która odrzuciła jego zaloty, doprowadził w furii do jej przeklęcia. Po latach jego ludzie, odziani w czerń i noszący maski, przeszukiwali ruiny wyspy z instrukcjami z jego listu: mieli zabić Althaię i przynieść jej głowę. Zawarli układ z gęsimi bohaterami, zaatakowali czarownicę od tyłu, odcięli jej głowę i opuścili wyspę.
+
+W [[Sesja 84 - Świt Nowej Ery]] sfinansował znaczną część odbudowy [[Mytros]] — zdecydowanie nie bezinteresownie: podpisywano kontrakty, dziesięcinę z zysków portowych na następną dekadę i kolejne przywileje. [[Felicjan Janus Twardowski|Felicjan]] uznał go za zarodek problemu, jaki lepiej rozwiązać zawczasu, i proponował stałą obserwację oraz zaostrzone podatki dla najbogatszych; [[Orestes]] bronił kupca, przyznając uczciwie, że nie jest obiektywny, skoro jego browar robi interesy z rodziną Neurdagonów. Rzeczywistość okazała się prozaiczniejsza od obaw: Taran z czasem załatwił sobie miejsce w radzie [[Mytros]], a kilku innych jej członków utrzymywało się z jego hojności — nigdy jednak nie na tyle, by zbudować większość, i nigdy w sposób, który dałoby się nazwać po imieniu. Lukratywna posada dla córki nie jest przecież korupcją.
