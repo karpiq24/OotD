@@ -1,18 +1,20 @@
 ---
 title: Zephyrus
+aliases:
+  - Wiosenny Wiatr
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Oceanid, Wiosenny Wiatr, zakochany w Kyrah_
+_Oceanid, Wiosenny Wiatr, były Kyrah; zabity przez drużynę_
 
 ## Opis
-Oceanid mieszkający w Zatoce Cerulańskiej.
+Oceanid mieszkający w Zatoce Cerulańskiej.<!-- UNSOURCED -->
 
 ## Osobowość
-Kocha śmiertelników. Żywi głęboką miłość i oddanie do Kyrah, która była jego muzą i partnerką.
+Kocha śmiertelników. Żywi głęboką miłość i oddanie do Kyrah, która była jego muzą i partnerką.<!-- UNSOURCED -->
 
 ## Historia
-Zakochał się w głosie Kyrah śpiewającej w Mytros. Dla niej opuścił morze i spędził z nią 150 lat. Dołączył do Czterech Wiatrów, by szerzyć pokój na wyspach zachodnich (Złotego Serca i Indygo), ale poniósł porażkę, natrafiając na opór driad i barbarzyńców. Po rozpadzie Wiatrów i odrzuceniu przez Kyrah, popadł w rozpacz. Postanowił jednak nie poddawać się i odzyskać boginię, łącząc siły z Boreasem.
+Zakochał się w głosie Kyrah śpiewającej w Mytros. Dla niej opuścił morze i spędził z nią 150 lat. Dołączył do Czterech Wiatrów, by szerzyć pokój na wyspach zachodnich (Złotego Serca i Indygo), ale poniósł porażkę, natrafiając na opór driad i barbarzyńców. Po rozpadzie Wiatrów i odrzuceniu przez Kyrah, popadł w rozpacz. Postanowił jednak nie poddawać się i odzyskać boginię, łącząc siły z Boreasem.<!-- UNSOURCED -->
 
-W [[Sesja 12 - Furia Boga Bitwy]] spotkał drużynę i został przez nich zabity, gdyż nie mógł pogodzić się z utratą ukochanej.
+W [[Sesja 12 - Furia Boga Bitwy]] drużyna w drodze powrotnej z [[Mithralowa Kuźnia|mithralowej kuźni]] napotkała Zephyrusa, byłego [[Kyrah]], który nie mógł pogodzić się z utratą ukochanej. Bohaterowie musieli go zabić.

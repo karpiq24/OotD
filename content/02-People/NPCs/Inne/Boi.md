@@ -11,10 +11,10 @@ image_prompt:
 _Obsługa windy_
 
 ## Opis
-Pracownik w wieży [[Praxys]].
+Pracownik w wieży [[Praxys]], obsługiwał windę.
 
 ## Osobowość
 TBD
 
 ## Historia
-Został uwolniony i ewakuowany z wieży przez bohaterów w [[Sesja 75 - Koniec Przysięgi]].
+W [[Sesja 75 - Koniec Przysięgi]] został uwolniony przez bohaterów i załadowany na statek wraz z pozostałymi uwolnionymi więźniami z Praxys; statek odpłynął na bezpieczną odległość, a wieża została zniszczona.

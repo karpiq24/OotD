@@ -4,13 +4,13 @@ title: Javon
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Doświadczony myśliwy i zwiadowca zatrudniony przez [[Kyrah]]._
+_Myśliwy zatrudniony przez [[Kyrah]] do polowania na [[Wielki Dzik|Wielkiego Dzika]]._
 
 ## Opis
-Javon jest zahartowanym przez naturę zwiadowcą o opalonej słońcem skórze. Nosi praktyczną skórzaną zbroję i zawsze ma przy sobie długi łuk.
+Javon jest zahartowanym przez naturę zwiadowcą o opalonej słońcem skórze. Nosi praktyczną skórzaną zbroję i zawsze ma przy sobie długi łuk.<!-- UNSOURCED -->
 
 ## Osobowość
-Jest profesjonalistą w swoim fachu, skupionym na tropieniu i przetrwaniu w dziczy Heartlandów.
+Jest profesjonalistą w swoim fachu, skupionym na tropieniu i przetrwaniu w dziczy Heartlandów.<!-- UNSOURCED -->
 
 ## Historia
-Został zatrudniony przez [[Kyrah]], aby wspomóc Bohaterów Przepowiedni w wytropieniu [[Wielki Dzik|Wielkiego Dzika]]. Wraz ze swoim towarzyszem, [[Taneias|Taneiasem]], prowadził grupę przez wzgórza Heartlandów (zobacz: [[Sesja 1 - Wielki Dzik]]).
+W [[Sesja 1 - Wielki Dzik]] został zatrudniony przez [[Kyrah]] wraz z drugim myśliwym, [[Taneias|Taneiasem]]. Obaj dołączyli do bohaterów na godzinę przed świtem i po wielu godzinach poszukiwań grupa dotarła do jaskini, w której przebywał dzik. Po krótkiej walce dzik został zabity.

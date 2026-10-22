@@ -4,15 +4,15 @@ title: Braz
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Minotaur-niewolnik spotkany w obozie wojskowym [[Mytros]]_
+_Minotaur-niewolnik w [[Obóz wojskowy Mytros|obozie wojskowym Mytros]]._
 
 ## Opis
-Fizyczny opis postaci.
+Minotaur, niewolnik w obozie wojskowym.
 
 ## Osobowość
-Wydaje się być pogodzony ze swoim losem niewolnika.
+Nie kwestionował swojego losu niewolnika.
 
 ## Historia
-Napotkany przez bohaterów w [[Obóz wojskowy Mytros]]. Służył tam jako niewolnik pod dowództwem [[Hileas|Dowódcy Hileasa]].
+W [[Sesja 1 - Wielki Dzik]], w drodze do Świątyni Wyroczni, bohaterowie natknęli się na [[Obóz wojskowy Mytros]] dowodzony przez [[Hileas|Dowódcę Hileasa]]. Spotkali tam minotaura imieniem Braz, który służył w obozie jako niewolnik.
 
-W [[Sesja 1 - Wielki Dzik]] spotkał w obozie Bohaterów, którzy zdziwili się jego stoickim spokojem wobec niewoli.
+Bohaterowie zdziwili się jego stoickim spokojem wobec niewoli.<!-- UNSOURCED -->

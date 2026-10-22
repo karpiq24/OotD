@@ -4,13 +4,13 @@ title: Hywin
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Przywódca Merfolków, ojciec Iolaah._
+_Merfolk, ojciec [[Iolaah]]._
 
 ## Opis
-Starszy Merfolk, przewodzący swojemu ludowi w wodach wokół [[Themis]].
+Starszy Merfolk, przewodzący swojemu ludowi w wodach wokół [[Themis]].<!-- UNSOURCED -->
 
 ## Osobowość
-Mądry, spokojny i ceniący historię swojego ludu. Chętnie dzieli się opowieściami.
+Mądry, spokojny i ceniący historię swojego ludu. Chętnie dzieli się opowieściami.<!-- UNSOURCED -->
 
 ## Historia
-Spotkał się z drużyną w [[Sesja 31 - Wyprawa na Themis]]. Opowiedział historię ludu Syren i obdarował bohaterów koralowcami.
+W [[Sesja 31 - Wyprawa na Themis]], w drodze na Themis, drużyna spotkała [[Merfolki]], a jego córka [[Iolaah]] zaprowadziła ją do niego. Hywin opowiedział bohaterom historię ludu Syren i obdarował ich koralowcami o magicznych właściwościach.

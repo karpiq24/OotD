@@ -14,4 +14,8 @@ Kobieta o majestacie godnym samej śmierci. Jej twarz jest niewzruszona niczym m
 Nieubłagana egzekutorka boskiego prawa. Dla niej prawo jest święte, a kara nieuchronna. "Prawo jest prawem. Wyrok jest wyrokiem."
 
 ## Historia
-W [[Sesja 57 - Ogród Heliosa]] przybyła wraz z dwiema innymi eryniami do Ogrodu Heliosa. Przerwała walkę między [[Helios|Heliosem]] a [[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]]. Oskarżyła Heliosa o złamanie świętych praw gościnności (ataku na gości) i skazała go na wygnanie, zabierając go w nieznane.
+W [[Sesja 57 - Ogród Heliosa]] Megara wypłynęła z fioletowego portalu, który rozdarł rzeczywistość nad polem bitwy, w towarzystwie trzech skrzydlatych, opancerzonych erynii. Przerwała walkę między [[Helios|Heliosem]] a [[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]]: erynie zmusiły złotego smoka do powrotu do ludzkiej postaci, a Megara oskarżyła go o złamanie świętych więzów gospodarza i gościa (ataku na gości) i skazała na wygnanie. Na jej rozkaz erynie skrępowały Heliosa, po czym Megara i jej świta zniknęły w portalu, zabierając go ze sobą.
+
+W [[Sesja 75 - Koniec Przysięgi]] Megara wraz z siostrami [[Alecto]] i [[Tyzyfone]] przyjęła drużynę w komnacie w wieży [[Praxys]]. Furie wyjaśniły, że zostały stworzone razem ze światem przez boginię matkę [[Thylea|Thyleę]] i są starsze niż Bliźniacy. Megara zwróciła się osobno do [[Arevon Elorrenthi|Arevona]], ostrzegając go przed powrotem do [[Eberron|Eberronu]]: tamtejsi władcy, gdyby poznali bezpieczną drogę do Thylei, bez skrupułów złupiliby jej bogactwa.
+
+W [[Sesja 84 - Świt Nowej Ery]] Furie nie przyszły ponownie po Heliosa.

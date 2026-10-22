@@ -4,24 +4,28 @@ title: Plemię Węgorza
 
 ![Loopywoopy](../../../content/assets/sessions/042/042_loopywoopy.webp)
 
-_Jedno z czterech plemion barbarzyńskich z Wyspy Indygo, znane z gościnności i otwartości._
+_Jedno z czterech plemion barbarzyńskich z Wyspy Indygo, znane z gościnności i otwartości — sojusznik Bohaterów Przepowiedni od czasu pokonania [[Ventis]]._
 
 ## Opis
-Plemię Węgorza składa się głównie z gnomów i niziołków. Wyróżniają się na tle innych plemion swoim przyjaznym nastawieniem do obcych oraz zamiłowaniem do handlu. Ich stroje są barwne, często ozdobione elementami morskimi, jak np. ogony węgorzy noszone przez ich przywódczynię.
+Plemię Węgorza składa się z gnomów i niziołków, znanych z przyjaznego usposobienia ([[Sesja 42 - Plemię Węgorza]]). Ich strój jest barwny i nosi morskie akcenty — przywódczyni plemienia przypina do pasa wypchane ogony węgorzy.
 
-## Cele
-Ich głównym celem jest spokojne życie, handel i utrzymanie dobrych relacji z sąsiadami. W obliczu zagrożenia ze strony Tytanów, dążą do zjednoczenia sił, aby przetrwać.
+Wyróżniają się na tle innych plemion przyjaznym nastawieniem do obcych oraz zamiłowaniem do handlu. <!-- UNSOURCED -->
 
 ## Siedziba
-Zamieszkują malowniczą osadę położoną bezpośrednio nad wodą na [[Wyspa Indygo|Wyspie Indygo]].
+Osada Węgorzy to tętniące życiem miasteczko przy plaży, rozlokowane nad wodą, na [[Wyspa Indygo|Wyspie Indygo]] ([[Sesja 42 - Plemię Węgorza]]).
 
 ## Członkowie
 Większość członków to niziołki i gnomy.
 *   **[[Loopywoopy]]**: Charyzmatyczna i mądra przywódczyni plemienia.
 
 ## Relacje
-*   **Sojusznicy**: [[Bohaterowie Przepowiedni]], [[Plemię Delfina]], [[Plemię Wieloryba]].
-*   **Wrogowie**: [[Sydon]], [[Ventis]] (pokonana).
+*   **Sojusznicy**: [[Bohaterowie Przepowiedni]], [[Plemię Delfina]], [[Plemię Wieloryba]] (sojusz zawarty w [[Sesja 44 - Ventis]]; [[Plemię Rekina]] do niego nie przystąpiło).
+*   **Wrogowie**: [[Ventis]] (pokonana).
+*   **Wrogowie**: [[Sydon]]. <!-- UNSOURCED -->
 
 ## Historia
-Plemię wiodło spokojny żywot do czasu przybycia smoczycy [[Ventis]]. Po jej ataku na osadę, nawiązali sojusz z Bohaterami Przepowiedni oraz pozostałymi plemionami (z wyjątkiem Rekina) w celu wspólnej obrony wyspy.
+W [[Sesja 42 - Plemię Węgorza]] Węgorze przyjęli gości gościnnie i wyprawili na ich cześć ucztę, podczas której [[Loopywoopy]] opowiedziała o sytuacji na wyspie. Pod koniec uczty nad osadą pojawiła się miedziana smoczyca [[Ventis]], siejąc panikę i przerażenie, i rozpoczęła się walka; smoczyca została przepędzona z osady ([[Sesja 43 - Kopalnia Żelaza]]).
+
+Po pokonaniu Ventis bohaterowie obeszli plemiona wyspy. W [[Sesja 44 - Ventis]] Węgorze przyjęli ich z entuzjazmem i świętowali z nimi; zawarto sojusz, a [[Orestes]] siłował się na rękę z przywódczynią plemienia. Do współpracy nie dał się przekonać jedynie [[Plemię Rekina]].
+
+W obliczu zagrożenia ze strony Tytanów plemię dążyło do zjednoczenia sił z sąsiadami. <!-- UNSOURCED -->

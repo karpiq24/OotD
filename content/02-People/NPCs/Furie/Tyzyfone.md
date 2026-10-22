@@ -11,10 +11,12 @@ image_prompt: female, young adult, athletic build, fair skin, long straight dark
 _Furia, Starsza niż Bliźniacy_
 
 ## Opis
-Jedna z trzech Furii, bogiń zemsty.
+Jedna z trzech [[Furie|Furii]], bogiń zemsty i strażniczek praw.
 
 ## Osobowość
-Cicha, tajemnicza i nieubłagana strażniczka.
+Cicha, tajemnicza i nieubłagana strażniczka.<!-- UNSOURCED -->
 
 ## Historia
-Została stworzona przez samą Thyleę na początku świata, by pełnić rolę strażniczki praw. W [[Sesja 75 - Koniec Przysięgi]] ugościła drużynę w wieży [[Praxys]], ujawniając wiek i pochodzenie Furii.
+Została stworzona przez samą [[Thylea|Thyleę]] na początku świata, by pełnić rolę strażniczki praw.
+
+W [[Sesja 75 - Koniec Przysięgi]] wraz z siostrami [[Megara|Megarą]] i [[Alecto]] przyjęła drużynę w komnacie w wieży [[Praxys]]. Furie ujawniły wiek i pochodzenie swojego rodu: są starsze niż [[Sydon]] i [[Lutheria]], stworzone przez Thyleę. Wyjawiły też bohaterom sekret gwiazdy na szczycie Praxys.

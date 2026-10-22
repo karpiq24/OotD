@@ -7,10 +7,12 @@ title: Haidee
 _Niziołka prowadząca sklep z magicznymi osobliwościami w Arezji._
 
 ## Opis
-Drobna niziołka, absolwentka Akademii w Mytros. Przybyła do Arezji zwabiona legendami o pięknie Narsusa.
+Niziołka prowadząca sklep z magicznymi przedmiotami w Arezji ([[Sesja 62 - Arezyjska Dyplomacja]]).
+
+Drobna, absolwentka Akademii w Mytros. Przybyła do Arezji zwabiona legendami o pięknie Narsusa. <!-- UNSOURCED -->
 
 ## Osobowość
-Entuzjastyczna, ale pragmatyczna.
+Entuzjastyczna, ale pragmatyczna. <!-- UNSOURCED -->
 
 ## Historia
-W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie wykupili niemal cały asortyment jej sklepu. Haidee, zarobiwszy fortunę, natychmiast zamknęła sklep i udała się na długie wakacje.
+W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie wpadli w szał zakupów i wykupili większość asortymentu jej sklepu. Zachwycona Haidee natychmiast zamknęła sklep i udała się na długie wakacje, wracając dopiero za miesiąc ([[Sesja 63 - Werdykt Arezji]]).

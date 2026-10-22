@@ -7,7 +7,9 @@ title: Jocasta
 _Karczmarka w Czerwonym Lotosie._
 
 ## Opis
-Puszysta elfka o jowialnym usposobieniu, prowadząca najpopularniejszą karczmę w mieście.
+Barmanka z gospody [[Czerwony Lotos]] ([[Sesja 62 - Arezyjska Dyplomacja]]).
+
+Puszysta elfka o jowialnym usposobieniu, prowadząca najpopularniejszą karczmę w mieście. <!-- UNSOURCED -->
 
 ## Historia
-Jocasta prowadzi karczmę [[Czerwony Lotos]]. W [[Sesja 62 - Arezyjska Dyplomacja]] służyła bohaterom informacjami o Mistrzach.
+W [[Sesja 62 - Arezyjska Dyplomacja]] przybliżyła bohaterom sylwetki Mistrzów Arezji: [[Halcyon]] (Mistrzyni Tarczy), [[Taureus|Taureusa]] (Mistrza Żywiołów), [[Hiero]] (Mistrza Miecza), [[Laertes|Laertesa]] (Mistrza Spokoju) oraz [[Mistrz Cieni|Mistrza Cieni]].

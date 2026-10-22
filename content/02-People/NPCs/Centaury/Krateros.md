@@ -7,7 +7,7 @@ title: Krateros
 _Centaur Zarządca_
 
 ## Opis
-Centaur, który po zakończeniu imprezy na Latającej Fortecy przejął inicjatywę w organizacji sprzątania i zaprowadzaniu porządku.
+Centaur, który po zakończeniu imprezy na Latającej Fortecy zajął się organizacją sprzątania.
 
 ## Historia
-W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] zarządzał gośćmi fortecy, którzy zostali zmuszeni do pracy przy sprzątaniu bałaganu po Talieusie.
+W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] drużyna przejęła kontrolę nad latającą fortecą i postanowiła zatrzymać gości imprezy jako załogę sprzątającą. Organizacją sprzątania zajął się Krateros.

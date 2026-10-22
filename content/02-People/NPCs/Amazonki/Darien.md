@@ -7,35 +7,36 @@ title: Darien
 _Prawowita dziedziczka tronu Amazonek, więziona przez lata w Kłach. Królowa [[Themis]] po rewolucji — poległa w obronie [[Mytros]]._
 
 ## Opis
-Długotrwale więziona, osłabiona psychicznie i fizycznie.
-Przez 13 lat była zamknięta w celi zaklętej czarem *Silence*, przez co nie mogła mówić.
+Długotrwale więziona, osłabiona psychicznie i fizycznie ([[Sesja 32 - Kieł]]): po uwolnieniu była w stanie wypowiadać tylko pojedyncze słowa i niezgrabnie się poruszała.
+
+Przez 13 lat była zamknięta w celi zaklętej czarem *Silence*, przez co nie mogła mówić. <!-- UNSOURCED -->
 
 ## Osobowość
-*   **Pełna ducha:** Mimo uwięzienia, pragnie przygód i zemsty.
-*   **Nieśmiała:** Ma braki w umiejętnościach społecznych. Czuje się niezręcznie.
-Zniszczona przez lata niewoli, ma problemy z komunikacją, ale powoli odzyskuje siły i sprawczość jako władczyni.
+*   **Pełna ducha:** Mimo uwięzienia, pragnie przygód i zemsty. <!-- UNSOURCED -->
+*   **Nieśmiała:** Ma braki w umiejętnościach społecznych. Czuje się niezręcznie. <!-- UNSOURCED -->
+
+Zniszczona przez lata niewoli, miała problemy z komunikacją, ale powoli odzyskiwała siły i sprawczość jako władczyni. <!-- UNSOURCED -->
 
 ## Historia
-Jest córką prawdziwej królowej Amazonek, [[Thessilea|Thessilei]], która została zamordowana kilkanaście lat temu (gdy Darien miała 5 lat) podczas przewrotu dokonanego przez jej doradczynie (siostry): [[Moxena|Moxenę]], [[Leah|Leę]] i [[Nastura|Nasturę]], które zmieniły się w meduzy. Podczas gdy Nastura przybrała postać zmarłej królowej i przejęła jej imię, Darien została wtrącona do lochów w fortecy [[Więzienie Kieł|Kieł]]. Matka wymusiła na zabójczyniach przysięgę, że nie skrzywdzą Darien aż do jej pełnoletności.
+Darien jest córką prawdziwej królowej Amazonek, [[Thessilea|Thessilei]], która została zamordowana kilkanaście lat temu podczas przewrotu dokonanego przez jej doradczynie (siostry): [[Moxena|Moxenę]], [[Leah|Leę]] i [[Nastura|Nasturę]], które zmieniły się w meduzy. Podczas gdy Nastura przybrała postać zmarłej królowej i przejęła jej imię, Darien została wtrącona do lochów w fortecy [[Więzienie Kieł|Kieł]] — dawnej twierdzy Smoczych Lordów. Matka wymusiła na zabójczyniach przysięgę, że nie skrzywdzą Darien aż do jej pełnoletności. <!-- UNSOURCED -->
 
-Spędziła w zamknięciu wiele lat, aż do momentu, gdy została uwolniona przez drużynę w [[Sesja 32 - Kieł]]. Dopiero po udanej rewolucji w [[Sesja 36 - Królowa, Dziedzic i Generał]], wspieranej przez skruszoną Moxenę i bohaterów, zasiadła na tronie jako prawowita spadkobierczyni. Ogłosiła liczne reformy mające na celu uzdrowienie społeczeństwa [[Themis]].
+W [[Sesja 31 - Wyprawa na Themis]] bohaterowie dowiedzieli się, że amazonki przetrzymują księżniczkę Darien. W [[Sesja 32 - Kieł]] drużyna uwolniła ją z więzienia Kieł — jej cela znajdowała się obok narzędzi tortur — a w [[Sesja 33 - W Szponach Bazyliszków]] została ona bezpiecznie odstawiona na [[Ultros|Ultrosa]] jako dziedziczka tronu. W więzieniu spędziła około trzynastu lat ([[Sesja 33 - W Szponach Bazyliszków]]).
+
+Po udanej rewolucji w [[Sesja 36 - Królowa, Dziedzic i Generał]], wspieranej przez skruszoną Moxenę i bohaterów, zasiadła na tronie jako prawowita spadkobierczyni, a Nastura — uzurpatorka — została pokonana. Wygłosiła w sali tronowej płomienne przemówienie i ogłosiła liczne reformy mające na celu uzdrowienie społeczeństwa [[Themis]].
 
 ## Reformy
-Przemówienie tronowe wygłoszone tuż po rewolucji zaskoczyło nawet jej własne wojowniczki. Kobieta, która przez trzynaście lat nie mogła wydać z siebie głosu, użyła pierwszej publicznej mowy, by zerwać z fundamentami dotychczasowego porządku:
+Przemówienie tronowe wygłoszone tuż po rewolucji ([[Sesja 36 - Królowa, Dziedzic i Generał]]) zerwało z fundamentami dotychczasowego porządku:
 
-*   **Zniesienie niewolnictwa mężczyzn** na [[Themis]] — najgłębsza zmiana ustrojowa w dziejach wyspy.
+*   **Zniesienie niewolnictwa mężczyzn** na [[Themis]].
 *   **Wygnanie zamiast zabijania** dorosłych synów rodzonych przez Amazonki.
-*   **Odbudowa relacji z barbarzyńskimi plemionami** z [[Wyspa Indygo|Wyspy Indygo]], zerwanych za rządów uzurpatorki.
+*   **Odbudowa relacji z barbarzyńskimi plemionami** z [[Wyspa Indygo|Wyspy Indygo]].
 *   **Deklaracja udziału Amazonek w wojnie z Tytanami** po stronie [[Mytros]].
 
-Na swoją doradczynię przyjęła [[Moxena|Moxenę]] — meduzę, która zamordowała jej matkę i przez trzynaście lat pilnowała jej celi — zwolnioną z przysięgi wobec bohaterów za ich zgodą.
+Na swoją doradczynię przyjęła [[Moxena|Moxenę]] — meduzę, która zamordowała jej matkę i pilnowała jej celi — zwolnioną z przysięgi wobec bohaterów za ich zgodą ([[Sesja 36 - Królowa, Dziedzic i Generał]]).
 
 ## Śmierć
-Darien dotrzymała słowa danego w sali tronowej. Gdy [[Sydon]] uderzył na [[Mytros]], Amazonki przypłynęły na wojnę, a Darien i [[Hippolyta]] osobiście objęły dowodzenie obroną **Doków** ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]). Ich odcinek był jednym z nielicznych, które wytrzymały pierwsze fale natarcia — podczas gdy [[Egida Mytros]] traciła dowódcę, a magowie z [[Akademia Mytros|Akademii]] cofali się w gruzy.
+Darien dotrzymała słowa danego w sali tronowej. Gdy [[Sydon]] uderzył na [[Mytros]], Amazonki przypłynęły na wojnę, a Darien i [[Hippolyta]] objęły dowodzenie nad swoimi siłami; Amazonki obroniły się przy Dokach ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]).
 
-**Darien poległa w obronie Mytros.** Zginęła nie na własnej wyspie i nie o własną koronę, lecz broniąc miasta, którego mieszkańcy w większości nie wiedzieli nawet, kim jest.
+W [[Sesja 83 - Zmierzch Ery Tytanów]] Darien, prawowita królowa Amazonek, która przypłynęła ze swoimi Lwicami bronić cudzego miasta, poległa na płonącym nabrzeżu doków, prowadząc łuczniczki, jeszcze zanim zapadł zmierzch pierwszego i jedynego dnia tej wojny. Panowała ledwie kilka miesięcy.
 
-Ironia jej losu jest trudna do zniesienia. Bohaterowie wyciągnęli ją z celi zaklętej czarem *Silence*, w której spędziła trzynaście lat bez prawa do własnego głosu. Posadzili ją na tronie. Dali jej dokładnie tyle wolności, ile potrzeba, by mogła oddać za nich życie — a ona zapłaciła tę cenę w całości, dowodząc łucznicami na płonącym nabrzeżu cudzego portu. Jej łuk, który przez ponad dekadę leżał poza jej zasięgiem, wypuścił strzały w obronie ich miasta.
-
-Jej śmierć pozostawia **otwartą kwestię sukcesji na [[Themis]]**. Naturalną następczynią wydaje się [[Hippolyta]], przywódczyni plemienia Lwic, która walczyła u boku Darien do końca. W tle pozostaje jednak [[Yala]] — patronka Amazonek i ostatnie żyjące dziecko Tytanów, dotąd niezdecydowana, czy w ogóle przyjąć jakąkolwiek rolę.
-
+Po jej śmierci tron [[Themis]] pozostał pusty na długie lata; największą częścią wyspy zarządzała jako regentka [[Hippolyta]], twardo stojąc na straży dziedzictwa poprzedniczki, a mniejsza frakcja kwestionowała reformy wprowadzone przez Darien, nie zdobywając jednak znaczącej przewagi ([[Sesja 84 - Świt Nowej Ery]]).

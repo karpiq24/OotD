@@ -7,7 +7,9 @@ title: Keteus
 _Potężny minotaur, czempion Świątyni Tarczy._
 
 ## Opis
-Imponującej budowy minotaur walczący w czerwonym płaszczu hoplity.
+Potężny minotaur, czempion [[Halcyon]] ([[Sesja 62 - Arezyjska Dyplomacja]]).
+
+Imponującej budowy, walczy w czerwonym płaszczu hoplity. <!-- UNSOURCED -->
 
 ## Historia
-W [[Sesja 62 - Arezyjska Dyplomacja]] reprezentował [[Halcyon]] w pojedynku zapaśniczym przeciwko Orestesowi. Mimo zaciętej walki, został pokonany i rzucony pod stopy swojej mistrzyni.
+W [[Sesja 62 - Arezyjska Dyplomacja]] reprezentował [[Halcyon]] w pojedynku zapaśniczym przeciwko [[Orestes|Orestesowi]]. Mimo zaciętej walki został powalony i cisnięty pod stopy swojej mistrzyni.

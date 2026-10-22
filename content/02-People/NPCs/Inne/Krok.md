@@ -10,7 +10,11 @@ occupation: Konserwator Powierzchni Płaskich w Praxys
 _Cyklop-Sprzątacz_
 
 ## Opis
-Dwuoki cyklop, który ubolewa nad swoją paskudną deformacją. Dba o czystość latryn w Praxys.
+Dwuoki cyklop, wyjątkowo zdeformowany, gdyż — ku powszechnemu zaskoczeniu — ma dwoje oczu. Dba o czystość marmurowej latryny w [[Praxys]].
+
+Ubolewa nad swoją paskudną deformacją.<!-- UNSOURCED -->
 
 ## Historia
-Mieszka w [[Praxys]]. W [[Sesja 71 - Infiltracja Praxys]] spotkał w czyszczonym kiblu herosów, jednak potężna iluzja dźwiękowa ataku biegunki odstawiona przez [[Orion Xul|Oriona]] i [[Felicjan Janus Twardowski|Felicjana]] skutecznie przekonała cyklopa, któremu Orion nakazał dodatkowo pójść sobie zjeść coś uspokajającego, unikając tym samym konfliktu.
+Pracował w [[Praxys]]. W [[Sesja 71 - Infiltracja Praxys]] bohaterowie wynurzyli się z kanałów prosto w jego latrynie. Zanim Krok zorientował się w sytuacji, zaczął kwestionować dźwięki dochodzące z kabiny, ale [[Orion Xul|Orion]] zaczął głośno jęczeć i odgrywać problemy żołądkowe, a [[Felicjan Janus Twardowski|Felicjan]] dopełnił szaradę potężną iluzją dźwiękową niekontrolowanej biegunki. Gdy Orion zażądał jeszcze papieru toaletowego i kazał mu pójść zjeść kanapkę, zdezorientowany cyklop w popłochu oddalił się z latryny w poszukiwaniu kanapki, unikając konfliktu.
+
+W [[Sesja 75 - Koniec Przysięgi]] został uwolniony jako więzień Praxys i załadowany na statek, który odpłynął na bezpieczną odległość.

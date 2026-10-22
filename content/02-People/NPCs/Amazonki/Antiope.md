@@ -7,7 +7,9 @@ title: Antiope
 _Młoda córka [[Hippolyta|Hippolyty]]._
 
 ## Opis
-Młoda Amazonka, córka przywódczyni plemienia Lwicy.
+Córka [[Hippolyta|Hippolyty]], przywódczyni plemienia Lwicy ([[Sesja 36 - Królowa, Dziedzic i Generał]]).
+
+Młoda Amazonka. <!-- UNSOURCED -->
 
 ## Historia
-Spotkana w [[Sesja 36 - Królowa, Dziedzic i Generał]] przed pałacem Amazonek.
+Spotkana w [[Sesja 36 - Królowa, Dziedzic i Generał]] przed pałacem Amazonek: poinformowała drużynę o trwających wewnątrz walkach.

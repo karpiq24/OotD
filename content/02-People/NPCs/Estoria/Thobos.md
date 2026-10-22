@@ -4,13 +4,15 @@ title: Thobos
 
 ![Thobos](../../../assets/sessions/006/006_thobos.webp)
 
-_Burmistrz [[Woodhike]], przedstawiciel małych ras w regionie [[Estoria|Estorii]]._
+_Burmistrz [[Woodhike]]._
 
 ## Opis
-Thobos jest przyjaznym niziołkiem, który z wielką gościnnością przyjmuje gości w swoim domu, zawsze oferując herbatę. Dba o interesy mieszkańców Woodhike i dwa razy w roku podróżuje do [[Mytros]], by reprezentować tamtejszą społeczność.
+Przedstawiciel małych ras w regionie [[Estoria|Estorii]]. Thobos jest przyjaznym niziołkiem, który z wielką gościnnością przyjmuje gości w swoim domu, zawsze oferując herbatę. Dba o interesy mieszkańców Woodhike i dwa razy w roku podróżuje do [[Mytros]], by reprezentować tamtejszą społeczność.<!-- UNSOURCED -->
 
 ## Osobowość
-Uczynny, spokojny i bardzo przywiązany do swojej społeczności. Chętnie pomaga bohaterom, mimo że jego możliwości są ograniczone przez fakt, iż wszystko w Woodhike jest dostosowane do rozmiarów małych ras.
+Uczynny, spokojny i bardzo przywiązany do swojej społeczności. Chętnie pomaga bohaterom, mimo że jego możliwości są ograniczone przez fakt, iż wszystko w Woodhike jest dostosowane do rozmiarów małych ras.<!-- UNSOURCED -->
 
 ## Historia
-Bohaterowie spotkali Thobosa w [[Sesja 6 - Problemy w Woodhike]], gdy Woodhike zmagało się z problemem bandytów i zaginionych zwierząt. Thobos poprosił ich o pomoc w rozwiązaniu tej sprawy, wierząc, że za kłopotami stoją ludzcy kłusownicy. Po pokonaniu grupy [[Korteva|Kortevy]], Thobos zaproponował przygarnięcie przyjaznego cyklopa do swojej społeczności.
+W [[Sesja 6 - Problemy w Woodhike]] bohaterowie dotarli do Woodhike i spotkali burmistrza Thobosa, który opowiedział im o zaginionych zwierzętach i ściętych drzewach w okolicy. Później pokonali bandytów pod wodzą [[Korteva|Kortevy]].
+
+Thobos poprosił ich o pomoc w rozwiązaniu tej sprawy, wierząc, że za kłopotami stoją ludzcy kłusownicy. Po pokonaniu grupy Kortevy zaproponował przygarnięcie [[Przyjazny Cyklop|przyjaznego cyklopa]] do swojej społeczności.<!-- UNSOURCED -->

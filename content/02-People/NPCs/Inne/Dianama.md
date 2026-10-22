@@ -7,7 +7,7 @@ title: Dianama
 _Nimfa, kochanka Golorona._
 
 ## Opis
-Nimfa przebywająca w pobliżu komnat Golorona w wieży [[Praxys]].
+Nimfa, kochanka [[Goloron|Golorona]]. Jej komnata znajdowała się na piętrze Heavens wieży [[Praxys]] (zniszczonej w [[Sesja 75 - Koniec Przysięgi]]).
 
 ## Historia
-W [[Sesja 74 - Matka Smoków]] bohaterowie odkryli jej komnatę podczas eksploracji wieży, zdobywając klucz do strzeżonych drzwi, za którymi kryła się smoczyca [[Nephele]].
+W [[Sesja 74 - Matka Smoków]] bohaterowie, eksplorując piętro Heavens, odkryli komnatę Dianamy i znaleźli w niej klucz do zamkniętych drzwi, za którymi była przykuta smoczyca [[Nephele (Smok)|Nephele]].

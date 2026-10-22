@@ -7,12 +7,12 @@ occupation: Strażnik Kuźni w Praxys
 
 ![Placeholder](../../../../assets/placeholder.webp)
 
-_Cyklop, strażnik zniszczonej kuźni w Praxys._
+_Cyklop, strażnik kuźni w Praxys, zabity przez Orestesa._
 
 ## Opis
-Cyklop z jednym, podejrzliwym okiem, dzierżący potężny kowalski młot. 
+Cyklop z jednym, podejrzliwym okiem, dzierżący potężny kowalski młot.
 
 ## Historia
-Pilnował kuźni w [[Praxys]], w której znajdowały się truchła myrmeków. 
+Strażnik kuźni w [[Praxys]], w której leżały truchła [[Myrmeki|myrmeków]].
 
-W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] spotkał Bohaterów Przepowiedni. Mimo prób przekonania go przez [[Versir|Versira]], że drużyna to oddział sprzątający, nieufny strażnik postanowił podnieść alarm. Użył złotej monety - przypominającej artefakt [[Talieus Pierwszy|Talieusa]] - jako autoryzacji do przejścia dalej, jednak zanim zdołał otworzyć drzwi do klatki schodowej i wzniecić raban, został brutalnie zabity przez [[Orestes|Orestesa]], który wbił mu topór w potylicę. Jego zwłoki minotaur zaaranżował później w groteskowej pozie na grzbiecie wielkiego, mechanicznego byka. Gdy herosi przypadkowo uruchomili system obronny, truchło Garzoona wpadło do bulgoczącej magmy i spłonęło.
+W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] spotkał [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]]. [[Versir]] próbował przekonać go, że owady się zbuntowały, a drużyna została wysłana, by posprzątać bałagan, lecz nieufny strażnik postanowił podnieść alarm. Otworzył drzwi kuźni, sięgnął po wielką złotą monetę z wygrawerowanym czerwonym okiem — przypominającą artefakt noszony niegdyś przez [[Talieus Pierwszy|Talieusa]] — i uniósł ją w geście autoryzacji, pchając ciężkie wrota. Zanim zdążył ruszyć w stronę schodów, został zabity przez [[Orestes|Orestesa]], który wbił mu topór w potylicę. Minotaur ułożył zwłoki w groteskowej pozie na grzbiecie wielkiego, mechanicznego byka. Gdy bohaterowie pociągnęli za dźwignię i uruchomili pułapkę, truchło zsunęło się w lawę i spłonęło.

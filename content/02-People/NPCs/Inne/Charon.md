@@ -7,7 +7,11 @@ title: Charon
 _Przewoźnik po rzece Styks_
 
 ## Opis
-Ponura postać przewożąca dusze zmarłych przez rzekę [[Styks]] do [[Hades|Hadesu]].
+Ponura postać.<!-- UNSOURCED -->
+
+Przewoźnik dusz zmarłych, na którego nad rzeką [[Styks]] w [[Hades|Hadesie]] czeka niekończąca się kolejka dusz. Pobiera opłatę od zmarłych.
 
 ## Historia
-W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] widziany w oddali przez bohaterów, którzy wkroczyli do Hadesu. Oczekiwał na niekończącą się kolejkę dusz.
+W [[Sesja 41 - Wiedźma Lotosu]] bohaterowie zobaczyli w wizji Hadesu, jak Charon pobiera opłatę od zmarłych.
+
+W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] bohaterowie, którzy wkroczyli do Hadesu, zobaczyli go w oddali; dusze cierpliwie czekały nad Styksem na swojego przewoźnika. W [[Sesja 61 - Yala, Arezja i Żółw]] zjawa [[Gaius|Gaiusa]] w kolejce ściskała w dłoni monety dla Charona.

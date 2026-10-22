@@ -4,13 +4,13 @@ title: Aegis
 
 ![Aegis](../../assets/sessions/039/039_aegis.webp)
 
-_Tajemniczy starzec znaleziony w brzuchu martwego wieloryba_
+_Tajemniczy starzec znaleziony w brzuchu martwego wieloryba. Po [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] nie ma o nim w kampanii więcej wzmianek._
 
 ## Opis
-Dziwaczny starzec, niezwykle zwinny jak na swój wiek. Znaleziony wewnątrz gnijącego wieloryba.
+Dziwaczny starzec, niezwykle zwinny jak na swój wiek — wszedł na statek zwinnymi ruchami. Znaleziony wewnątrz gnijącego wieloryba.
 
 ## Osobowość
-Opowiada niestworzone historie o swoich wyczynach, takich jak walka z krakenem czy siłowanie się z [[Pythor|Pythorem]]. Twierdzi, że mieszkał w żołądku wieloryba.
+Opowiadał niestworzone historie o swoich wyczynach, takich jak walka z krakenem czy siłowanie się z [[Pythor|Pythorem]]. Twierdził, że mieszkał w żołądku wieloryba.
 
 ## Historia
-Odkryty przez [[Orestes|Orestesa]] i załogę [[Ultros|Ultrosa]] w ciele martwego wieloryba na Morzu Zapomnianym w [[Sesja 39 - Tajemnice Wyspy Złotego Serca]]. Próbował uciec i schować się w kajucie Orestesa, ale został obezwładniony. Przedstawił się jako Aegis.
+Odkryty przez [[Orestes|Orestesa]] w ciele martwego wieloryba na Morzu Zapomnianym w [[Sesja 39 - Tajemnice Wyspy Złotego Serca]]. Wszedł na statek [[Ultros|Ultrosa]], uciekł i zamknął się w kajucie Orestesa, ale po krótkiej szarpaninie Orestes obezwładnił go i z pomocą załogi uwięził. Nazywany Aegis.
