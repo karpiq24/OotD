@@ -12,20 +12,20 @@ image_prompt: female demon queen, succubus, slender build, pale white skin, shar
 _Siostra i żona Sydona, Pani Snów i Śmierci. Zginęła w [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów|sesji 82]], ścięta przez Orestesa Toporem Xandera._
 
 ## Opis
-Przyjmowała postać pięknej kobiety o czarnych oczach, która lunatykuje przez zaświaty, witając duchy zmarłych. Na czole posiadała trzecie oko, które zazwyczaj pozostawało zamknięte, lecz gdy je otwierała, widziała oczami zmarłych w zaświatach – wtedy poruszało się ono niezależnie od jej pozostałych oczu. <!-- UNSOURCED -->
+Przyjmowała postać pięknej kobiety o czarnych oczach, która lunatykuje przez zaświaty, witając duchy zmarłych. Na czole posiadała trzecie oko, które zazwyczaj pozostawało zamknięte, lecz gdy je otwierała, widziała oczami zmarłych w zaświatach – wtedy poruszało się ono niezależnie od jej pozostałych oczu.
 
 Lutheria była Tytanką i boginią śmierci, zwaną Panią Snów i Panią Śmierci; siostrą i żoną [[Sydon|Sydona]], z którym narodziła się z siódmego nasiona [[Drzewo Serca|Drzewa Serca]], oraz matką m.in. [[Goloron|Golorona]], [[Hergeron|Hergerona]], [[Talieus Pierwszy|Talieusa]] i [[Chalcia|Chalcii]]. Dzierżyła [[Kryształowa Kosa Lutherii|kryształową kosę]], w której uwięziła m.in. dusze rodziców [[Orestes|Orestesa]]; po jej śmierci kosa została rozbita w [[Sesja 84 - Świt Nowej Ery]]. Jej statkiem był [[Hypnos]], a domena — [[Świat Snów]] — po jej śmierci stoi pusta.
 
 ## Osobowość
-*   **Ciekawska:** Interesuje się światami poza Thyleą, cywilizacjami i bogami. <!-- UNSOURCED -->
-*   **Pozornie Empatyczna:** Rozumie nadzieje i lęki śmiertelników. Jest czarująca i przystępna (z nutą szaleństwa), rzadko oceniająca. Złodzieje i mordercy czczą ją, licząc na wybaczenie. <!-- UNSOURCED -->
-*   **Manipulująca:** Lubi paktować, oferując spełnienie marzeń za przerażającą cenę. <!-- UNSOURCED -->
+*   **Ciekawska:** Interesuje się światami poza Thyleą, cywilizacjami i bogami.
+*   **Pozornie Empatyczna:** Rozumie nadzieje i lęki śmiertelników. Jest czarująca i przystępna (z nutą szaleństwa), rzadko oceniająca. Złodzieje i mordercy czczą ją, licząc na wybaczenie.
+*   **Manipulująca:** Lubi paktować, oferując spełnienie marzeń za przerażającą cenę.
 *   **Cyniczna i okrutna:** W [[Sesja 70 - Audiencja u Pani Snów|sesji 70]] opowiadała żarty o martwych niemowlętach i nie dała się sprowokować do walki; w [[Sesja 68 - Arena Krzywoprzysięstwa|sesji 68]] okazała rozbawienie zamiast gniewu. Nawet ciężko ranna uśmiechała się i bawiła się walką ([[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów|sesja 82]]).
 
-Uważała rasy śmiertelne za zabawki i czerpała satysfakcję ze sprowadzania ich do poziomu bestii. Stworzyła menady i koźludzi (goatlings) jako kpinę z ludzkich osadników. <!-- UNSOURCED -->
+Uważała rasy śmiertelne za zabawki i czerpała satysfakcję ze sprowadzania ich do poziomu bestii. Stworzyła menady i koźlaki (goatlings) jako kpinę z ludzkich osadników.
 
 ## Historia
-Niegdyś bogini wielu rzeczy, mówi się, że stworzyła rasy fey, w tym satyrów, nimfy i driady. Ucierpiała równie mocno jak [[Sydon]], gdy ludzkość przybyła do Thylei – jej dzieci zostały wymordowane. Jest Boginią Podziemi, Królową [[Morze Otchłani|Morza Otchłani]]. <!-- UNSOURCED -->
+Niegdyś bogini wielu rzeczy; powszechnie uważa się, że stworzyła rasy fey, w tym satyrów, nimfy i driady, ale bohaterowie dowiedzieli się, że to nieprawda: fey stworzyli pozostali Tytani, a Lutheria i [[Sydon]] odrzucili ten pomysł ([[Sesja 39 - Tajemnice Wyspy Złotego Serca]]). Ucierpiała równie mocno jak [[Sydon]], gdy ludzkość przybyła do Thylei – jej dzieci zostały wymordowane. Jest Boginią Podziemi, Królową [[Morze Otchłani|Morza Otchłani]].
 
 Według [[Sesja 39 - Tajemnice Wyspy Złotego Serca|sesji 39]] była bliźniaczką Sydona, zrodzoną z siódmego nasiona [[Drzewo Serca|Drzewa Serca]]; wraz z nim odrzuciła pomysł stworzenia pomniejszych istot. Omamiła [[Talieus Pierwszy|Talieusa]], w zemście go oślepiła i zmusiła do ciągnięcia swojego okrętu flagowego (w [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani|sesji 66]] Talieus wciąż ciągnął jej okręt [[Hypnos]]), a sprowadzony przez nią meteoryt roztrzaskał [[Versi]]. Wraz z Sydonem nadała swoim dzieciom imiona pokonanych tytanów ([[Sesja 21 - Ukryte pragnienia Ismene]]) i szeptała [[Yala|Yali]] zatrute słowa, że jest tylko piękna i delikatna ([[Sesja 61 - Yala, Arezja i Żółw]]); w [[Sesja 65 - Wyprawa w Otchłań|sesji 65]] zastawiła pułapkę na swoje rodzeństwo na [[Wyspa Złotego Serca|Wyspie Złotego Serca]]. Dawno temu nałożyła na [[Orestes|Orestesa]] klątwę dającą mu dodatkowe życia ([[Sesja 74 - Matka Smoków]]), a według Wiedźmy Lotosu — klątwę pecha ([[Sesja 41 - Wiedźma Lotosu]]). Miała też dawny pakt z [[Estor Arkelander|Estorem Arkelanderem]], którego oszukała ([[Sesja 24 - Ultros]]) i któremu przepowiedziała śmierć z ręki Orestesa ([[Sesja 67 - Zguba Estora]]). Przed [[Przysięga Pokoju|Przysięgą Pokoju]] pomogła Sydonowi wygrać siódmą partię Królewskiej Gry z [[Balmytria|Balmytrią]] ([[Sesja 75 - Koniec Przysięgi]]); jako Pani Snów podpisała Przysięgę.
 

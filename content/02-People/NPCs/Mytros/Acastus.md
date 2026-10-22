@@ -11,30 +11,30 @@ image_prompt: middle-aged male, muscular build, ancient Greek king, stern expres
 _Były król Mytros, potomek Estora Arkelandera. Po abdykacji w [[Sesja 84 - Świt Nowej Ery|sesji 84]] opuścił miasto, a koronę przekazał żonie, [[Vallus]]._
 
 ## Opis
-Acastus to potężnie zbudowany mężczyzna w średnim wieku, który emanuje siłą i autorytetem. <!-- UNSOURCED -->
-Był mężem **[[Vallus]]**, bogini mądrości (w rzeczywistości smoczycy; [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|sesja 76]]). Jego władzę legitymizowało to małżeństwo, choć było ono fikcją (nienawidzili się, Acastus miał liczne kochanki). <!-- UNSOURCED -->
+Acastus to potężnie zbudowany mężczyzna w średnim wieku, który emanuje siłą i autorytetem.
+Był mężem **[[Vallus]]**, bogini mądrości (w rzeczywistości smoczycy; [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|sesja 76]]). Jego władzę legitymizowało to małżeństwo, choć było ono fikcją (nienawidzili się, Acastus miał liczne kochanki).
 Dosiadał srebrnego smoka o imieniu **[[Icarus]]**, którego zmutował we własnej desperacji w [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|sesji 76]].
 
 ## Potomek Smoczego Lorda
-Jego niepewność pogłębiał fakt, że jest bezpośrednim potomkiem **[[Estor Arkelander|Estora Arkelandera]]**. Estor był Smoczym Lordem, który rozpoczął Pierwszą Wojnę. Duch Estora szeptał Acastusowi w snach, drwiąc z jego braku osiągnięć. <!-- UNSOURCED -->
+Jego niepewność pogłębiał fakt, że jest bezpośrednim potomkiem **[[Estor Arkelander|Estora Arkelandera]]**. Estor był Smoczym Lordem, który rozpoczął Pierwszą Wojnę. Duch Estora szeptał Acastusowi w snach, drwiąc z jego braku osiągnięć.
 
 ## Osobowość
-Był niezwykle popularny wśród ludu, uważany za silnego i mądrego władcę. W rzeczywistości jest arogancki, niecierpliwy i egoistyczny. Cierpi na kompleks niższości względem swoich legendarnych przodków. Boi się śmierci i zapomnienia. <!-- UNSOURCED -->
+Był niezwykle popularny wśród ludu, uważany za silnego i mądrego władcę. W rzeczywistości jest arogancki, niecierpliwy i egoistyczny. Cierpi na kompleks niższości względem swoich legendarnych przodków. Boi się śmierci i zapomnienia.
 Był zjadliwy i dumny, ufał przepowiedniom ([[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa|sesja 78]]); w [[Sesja 55 - Egida Mytros|sesji 55]] okazał się nieprzewidywalny i teatralny, działał jak wytrawny aktor.
-Gardzi "mądrością" bohaterów, jeśli ta sugeruje pokorę wobec Tytanów. Podczas narady w pałacu wybuchł gniewem, krzycząc: *"Trochę czasu?! Czasu?! Czy to wygląda jakbyśmy mieli czas?! Moja królowo. Miasto jest niszczone w konsekwencji ICH czynów."* <!-- UNSOURCED -->
-Jego lojalność zależała od balansu sił. Jest mistrzem w składaniu obietnic bez pokrycia. <!-- UNSOURCED -->
+Podczas narady w pałacu wybuchł gniewem, krzycząc: *"Trochę czasu?! Czasu?! Czy to wygląda jakbyśmy mieli czas?! Moja królowo. Miasto jest niszczone w konsekwencji ICH czynów."*
+Jego lojalność zależała od balansu sił. Jest mistrzem w składaniu obietnic bez pokrycia.
 Według [[Sesja 70 - Audiencja u Pani Snów|sesji 70]] był dość obsesyjny na punkcie [[Sydon|Sydona]]; [[Lutheria]] uważała go za całkiem niezłego kochanka.
 
 ## Historia
-Ożenił się z Vallus 20 lat temu (478 CE), co zapewniło mu tron. Od Sydona otrzymał smocze jaja. <!-- UNSOURCED -->
+Ożenił się z Vallus 20 lat temu (478 CE), co zapewniło mu tron. Od Sydona otrzymał smocze jaja.
 
-Jego głównym celem była odbudowa starożytnego **Zakonu Smoczych Lordów**. Stworzył "fałszywy" zakon, którego członkowie (jak [[Tarchon]]) latali na młodych miedzianych smokach. Wierzył, że gdy zgromadzi legion smoczych jeźdźców, herosi i Wyrocznia staną się zbędni. Planował to zrobić przy użyciu smoczych jaj otrzymanych potajemnie od [[Sydon|Sydona]]. <!-- UNSOURCED -->
+Jego głównym celem była odbudowa starożytnego **Zakonu Smoczych Lordów**. Stworzył "fałszywy" zakon, którego członkowie (jak [[Tarchon]]) latali na młodych miedzianych smokach. Wierzył, że gdy zgromadzi legion smoczych jeźdźców, herosi i Wyrocznia staną się zbędni. Planował to zrobić przy użyciu smoczych jaj otrzymanych potajemnie od [[Sydon|Sydona]].
 
 W [[Sesja 7 - Uratować Księżniczkę]] spełnił swoje przyrzeczenie i wskrzesił [[Smoczy Lordowie|zakon smoczych jeźdźców]].
 
 W [[Sesja 13 - Wezwani przez Króla]] spotkał się z drużyną na audiencji, zachowując się arogancko, a wraz z [[Gaius|Gaiusem]] i [[Bella|Bellą]] chciał zrzucić na bohaterów winę za klęski. W [[Sesja 14 - Burza nad Mytros]] nagrodził bohaterów mapą do [[Ultros|Ultrosa]] po powstrzymaniu burzy i zasugerował, by opuścili miasto.
 
-Zrobił to z pogardą, nazywając ich misję "tak zwanymi wielkimi pracami" i twierdząc, że Ultros nie będzie mu już potrzebny, skoro ma smoki. <!-- UNSOURCED -->
+Zrobił to z pogardą, nazywając ich misję "tak zwanymi wielkimi pracami" i twierdząc, że Ultros nie będzie mu już potrzebny, skoro ma smoki.
 
 W [[Sesja 17 - Targ Minotaurów]] przybył na spotkanie w Świątyni Pięciu na smoku. W [[Sesja 20 - Noc Długich Rogów]] powierzył [[Apasia|Apasii]] zbadanie sprawy zamieszek.
 

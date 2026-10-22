@@ -4,12 +4,12 @@ title: Versi Pierwsza
 
 ![Placeholder](../../../../assets/placeholder.webp)
 
-_Tytanka Jasnowidzenia, matka Versira. Zgładzona przez Lutherię; jej dusza rozproszyła się w gwiezdnym metalu._ <!-- UNSOURCED -->
+_Tytanka Jasnowidzenia, matka Versira. Zgładzona przez Lutherię; jej dusza rozproszyła się w gwiezdnym metalu._
 
 ## Historia
 Jedno z ośmiorga pierwotnych Tytanów, dzieci [[Thylea|Thylei]] i [[Kentimane|Kentimane'a]]. Matka [[Versir|Versira]] ([[Sesja 70 - Audiencja u Pani Snów]], [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]]).
 
-Obdarzona była mocą przewidywania przyszłości. <!-- UNSOURCED -->
+Obdarzona była mocą przewidywania przyszłości.
 
 W wizji z [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] ukazano jej upadek: została roztrzaskana na kawałki przez meteoryt sprowadzony przez [[Lutheria|Lutherię]], a jej dusza została uwięziona w odłamkach [[Gwiezdny Metal|gwiezdnego metalu]] rozrzuconych po krainie.
 
@@ -21,4 +21,4 @@ W [[Sesja 70 - Audiencja u Pani Snów]] [[Versir]] wyczuł cząstkę jej duszy z
 
 W [[Sesja 75 - Koniec Przysięgi]] Furie potwierdziły, że [[Mojry]] miały bezpośredni udział w spisku, który doprowadził do uderzenia w Versi Pierwszą.
 
-Jej imię nosi córka [[Sydon|Sydona]], [[Versi|Versi (Wyrocznia)]]. <!-- UNSOURCED -->
+Imię Versi nosi też córka [[Sydon|Sydona]], [[Versi|Versi (Wyrocznia)]].

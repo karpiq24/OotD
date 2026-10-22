@@ -12,12 +12,12 @@ _Córka Sydona i Lutherii, przebiegła obserwatorka. Zginęła w Praxys z ręki 
 ## Opis
 Chalcia była tytanką, córką [[Sydon|Sydona]] i [[Lutheria|Lutherii]], kuzynką [[Versir|Versira]] i istotą o trzech oczach, zwaną Dziedziczką Sydona. Wobec bohaterów zachowywała się z wyższością i lekceważeniem, a w jej ruchach było coś z drapieżnika. Potrafiła lewitować i stawać się niewidzialna, a w walce przywoływała ogień, pioruny i Łańcuch Piorunów (Chain Lightning).
 
-Miała przebiegły uśmiech, była ciekawska i lubiła przyglądać się śmiertelnikom z bliska, szukając ich słabości lub po prostu dla rozrywki. <!-- UNSOURCED -->
+Miała przebiegły uśmiech, była ciekawska i lubiła przyglądać się śmiertelnikom z bliska, szukając ich słabości lub po prostu dla rozrywki.
 
 ## Historia
 Podobnie jak reszta rodzeństwa, nosiła imię po jednym z pierwotnych Tytanów — po ciotce, [[Chalcia Pierwsza|Chalci Pierwszej]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas rytuału na Górze Volkana podleciała najbliżej bohaterów, przyglądając się każdemu z osobna z przebiegłym uśmiechem. <!-- UNSOURCED -->
+Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas rytuału na Górze Volkana podleciała najbliżej bohaterów, przyglądając się każdemu z osobna z przebiegłym uśmiechem.
 
 W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] wylądowała na pokładzie [[Ultros]]a i odwiedziła bohaterów. Przepowiedziała im porażkę, stwierdziła, że gdy przysięga dobiegnie końca, [[Thylea]] będzie należeć do tytanów, i sugerowała, że ich działania są sterowane przez innych. Po wygłoszeniu mrocznego proroctwa odleciała.
 

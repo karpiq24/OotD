@@ -9,17 +9,17 @@ _Syn Sydona i Lutherii, ucieleśnienie gniewu i hedonizmu. Zginął z ręki Orio
 ## Opis
 Talieus był tytanem, synem [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Zblazowany i arogancki, leniwie obserwował walkę ze swojej kanapy w otoczeniu driad, a intruzami kazał zajmować się ochronie, bo — jak rzucił — próbował się relaksować. Przyzywał psioniczne sztylety, które znikały zaraz po trafieniu, i teleportował się po polu bitwy dzięki legendarnej zwinności.
 
-Z jednej strony był przystojnym, boskim młodzieńcem o arogancji równej jego mocy, z drugiej potrafił wpaść w niszczycielską furię. <!-- UNSOURCED -->
+Z jednej strony był przystojnym, boskim młodzieńcem o arogancji równej jego mocy, z drugiej potrafił wpaść w niszczycielską furię.
 
 ## Osobowość
-Początkowo znany z jawnej wrogości (Góra Volkana). <!-- UNSOURCED -->
+Początkowo znany z jawnej wrogości (Góra Volkana).
 
 Później objawił się jako znudzony hedonista, który zamienił starożytną fortecę w miejsce niekończącej się imprezy („Latająca Ibiza", [[Sesja 59 - Koniec Imprezy]]). Jego arogancja ostatecznie doprowadziła go do zguby.
 
 ## Historia
 Podobnie jak reszta rodzeństwa, nosił imię po jednym z pierwotnych Tytanów — po wuju, [[Talieus Pierwszy|Talieusie Pierwszym]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Pojawił się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. W przeszłości towarzyszył Sydonowi i Lutherii na Górze Volkana, gdzie okazywał bohaterom wrogość. <!-- UNSOURCED -->
+Pojawił się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. W przeszłości towarzyszył Sydonowi i Lutherii na Górze Volkana, gdzie okazywał bohaterom wrogość.
 
 W [[Sesja 18 - Cienie Mytros]] [[Vitalis]] poradził [[Felicjan Janus Twardowski|Felicjanowi]], że aby odnaleźć Fortecę Smoczych Lordów, należy najpierw odnaleźć Talieusa. W [[Sesja 19 - Pojedynek z Rozpruwaczem]] był wśród gości, którzy pojawili się na wydarzeniu [[Maximus|Maximusa]].
 

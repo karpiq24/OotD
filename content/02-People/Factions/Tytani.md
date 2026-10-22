@@ -9,11 +9,11 @@ aliases:
 _Bogowie-Stwórcy oraz ich pierwsze dzieci, które ukształtowały świat. Pod koniec kampanii [[Sydon]] i [[Lutheria]] zginęli w bitwie o [[Mytros]], a [[Kentimane]] odszedł ku morzu._
 
 ## Opis
-Mianem Tytanów (lub Pierwszych Tytanów) określa się starożytne, boskie istoty, które władały zapomnianym lądem przed nadejściem Smoczych Lordów. Do grupy tej zalicza się dwoje pierwotnych stwórców: [[Thylea]] i [[Kentimane]], a także ich pierwsze potomstwo zrodzone z owoców [[Drzewo Serca|Drzewa Serca]]. <!-- UNSOURCED -->
+Mianem Tytanów (lub Pierwszych Tytanów) określa się starożytne, boskie istoty, które władały zapomnianym lądem przed nadejściem Smoczych Lordów. Do grupy tej zalicza się dwoje pierwotnych stwórców: [[Thylea]] i [[Kentimane]], a także ich pierwsze potomstwo zrodzone z owoców [[Drzewo Serca|Drzewa Serca]].
 
 Według [[Sesja 39 - Tajemnice Wyspy Złotego Serca|sesji 39]] Tytanów było ośmioro, dzieci Thylei i Kentimane'a: sześcioro uosabiało pozytywne cechy rodziców, a siódme nasiono zrodziło bliźnięta [[Sydon|Sydona]] i [[Lutheria|Lutherię]], którzy zaczęli kierować się ciemnymi pragnieniami władzy i zniszczenia. Starożytny sylvański był językiem, którym Tytani mówili, zanim istniało [[Mytros]] ([[Sesja 83 - Zmierzch Ery Tytanów]]).
 
-W przeciwieństwie do swoich najmłodszych dzieci ([[Sydon]] i [[Lutheria]]), którzy stali się tyranami, pierwsi Tytani zazwyczaj uosabiali siły natury i aspekty cywilizacji w bardziej harmonijny sposób. <!-- UNSOURCED -->
+W przeciwieństwie do swoich najmłodszych dzieci ([[Sydon]] i [[Lutheria]]), którzy stali się tyranami, pierwsi Tytani zazwyczaj uosabiali siły natury i aspekty cywilizacji w bardziej harmonijny sposób.
 
 ## Członkowie
 
@@ -31,15 +31,15 @@ W przeciwieństwie do swoich najmłodszych dzieci ([[Sydon]] i [[Lutheria]]), kt
 
 ## Relacje
 *   **[[Bliźniaczy Tytani]] ([[Sydon]] i [[Lutheria]])**: Najmłodsze dzieci z tego samego miotu co Zaginieni Tytani. Ich zdrada doprowadziła do upadku starszego rodzeństwa. Obojga już nie ma: Sydon zginął w [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|sesji 80]], Lutheria w [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów|sesji 82]].
-*   **Rdzenni Mieszkańcy**: Tytani są stwórcami większości rdzennych ras (poza Myrmekami stworzonymi pod wpływem Lutherii). <!-- UNSOURCED -->
+*   **Rdzenni Mieszkańcy**: Tytani są stwórcami większości rdzennych ras (poza Myrmekami stworzonymi pod wpływem Lutherii).
 *   **[[Mojry]]**: Wydawały się sprzyjać Tytanom, a [[Versir]] oskarżył je o paktowanie z nimi ([[Sesja 47 - Wyspa Mojr]]).
 
 ## Historia
-Historia Tytanów to dzieje stworzenia świata. Thylea i Kentimane żyli w izolacji, aż do narodzin ich dzieci z owoców Drzewa Serca. Przez eony panował pokój, a Tytani tworzyli cywilizacje rdzennych ras. <!-- UNSOURCED -->
+Historia Tytanów to dzieje stworzenia świata. Thylea i Kentimane żyli w izolacji, aż do narodzin ich dzieci z owoców Drzewa Serca. Przez eony panował pokój, a Tytani tworzyli cywilizacje rdzennych ras.
 
-Z czasem samotność skłoniła Tytanów do stworzenia pomniejszych istot — centaurów, satyrów, nimf, cyklopów i gigantów; pomysł odrzucili tylko Sydon i Lutheria. Pierwotnym celem Thylei i Kentimane'a była ochrona stworzonego przez nich raju przed wpływami zewnętrznego świata. <!-- UNSOURCED -->
+Z czasem samotność skłoniła Tytanów do stworzenia pomniejszych istot — centaurów, satyrów, nimf, cyklopów i gigantów; pomysł odrzucili tylko Sydon i Lutheria. Pierwotnym celem Thylei i Kentimane'a była ochrona stworzonego przez nich raju przed wpływami zewnętrznego świata.
 
-Konflikt rozpoczął się, gdy [[Lutheria]] i [[Sydon]], zazdrośni i żądni władzy, zwrócili się przeciwko swojemu rodzeństwu. Doprowadziło to do Wojny Tytanów, w wyniku której większość "dobrych" Tytanów została uwięziona lub zabita, a władzę nad światem przejęli Bliźniacy. Kentimane, choć potężniejszy od swoich dzieci, z czasem wycofał się, chroniąc granice świata, lecz nie ingerując bezpośrednio w rządy Bliźniaków, dopóki ci nie zagrozili istnieniu samej Thylei. <!-- UNSOURCED -->
+Konflikt rozpoczął się, gdy [[Lutheria]] i [[Sydon]], zazdrośni i żądni władzy, zwrócili się przeciwko swojemu rodzeństwu. Doprowadziło to do Wojny Tytanów, w wyniku której większość "dobrych" Tytanów została uwięziona lub zabita, a władzę nad światem przejęli Bliźniacy. Kentimane, choć potężniejszy od swoich dzieci, z czasem wycofał się, chroniąc granice świata, lecz nie ingerując bezpośrednio w rządy Bliźniaków, dopóki ci nie zagrozili istnieniu samej Thylei.
 
 Według byłych bogów [[Balmytria]] przed wiekami wykradła Tytanom moc ([[Sesja 84 - Świt Nowej Ery]]).
 

@@ -9,12 +9,12 @@ _Córka Sydona i Lutherii, ostatnie żyjące dziecko Tytanów. Po upadku Kentima
 ## Opis
 Yala jest tytanką, córką [[Sydon|Sydona]] i [[Lutheria|Lutherii]], a przy tym amazonką; skonfliktowaną lojalnością wobec rodziców i [[Amazonki|Amazonek]]. Jako jedyna z rodzeństwa przeżyła wojnę po stronie Mytros, choć mieszkańcy miasta wciąż nie przyjmują jej życzliwie. Na plecach ma wypalone tatuaże, z których potrafi uwolnić płomienną burzę. Po wojnie nie przyjęła władzy nad Amazonkami i jest jedynie strażniczką pokoju na [[Themis|wyspie]].
 
-Wydaje się darzyć innych pewnym szacunkiem, a przynajmniej ciekawością pozbawioną wrogości; w przeciwieństwie do rodzeństwa nie okazuje pogardy ani szaleństwa. <!-- UNSOURCED -->
+Wydaje się darzyć innych pewnym szacunkiem, a przynajmniej ciekawością pozbawioną wrogości; w przeciwieństwie do rodzeństwa nie okazuje pogardy ani szaleństwa.
 
 ## Historia
 Podobnie jak reszta rodzeństwa, nosiła imię po jednym z pierwotnych Tytanów — po ciotce, [[Yala Pierwsza|Yali Pierwszej]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na Górze Volkana spoglądała na bohaterów z szacunkiem. <!-- UNSOURCED -->
+Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na Górze Volkana spoglądała na bohaterów z szacunkiem.
 
 W [[Sesja 30 - Zakończenie Igrzysk]] okazała się w Wielkim Młynie trudnym przeciwnikiem i pokonała swojego brata [[Hergeron|Hergerona]].
 

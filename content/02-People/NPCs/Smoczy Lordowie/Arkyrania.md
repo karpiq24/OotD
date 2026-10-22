@@ -7,15 +7,15 @@ title: Arkyrania
 _Brązowa smoczyca, niegdyś wierzchowiec [[Estor Arkelander|Estora Arkelandera]]; prawdziwa postać bogini [[Kyrah]], która po pęknięciu Przysięgi Pokoju straciła boską moc. Sojuszniczka drużyny w Bitwie o Mytros._
 
 ## Opis
-Wielka brązowa smoczyca. <!-- UNSOURCED -->
+Dorosła brązowa smoczyca.
 
 W [[Sesja 75 - Koniec Przysięgi]] okazało się, że Arkyrania to prawdziwe imię [[Kyrah]], jednej z [[Pięciu Bogów]]; córka [[Balmytria|Balmytrii]] i [[Volkan|Volkana]] ([[Sybolkorax|Sybolkoraxa]]), siostra [[Pythor|Pythora]] ([[Raspytrion|Raspytriona]]) i [[Vallus]] ([[Tysophale]]). W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] opisano ją jako „dawniej Kyrah", dziś brązową smoczycę.
 
 ## Osobowość
-Szlachetna i litościwa, w przeciwieństwie do swojego dawnego jeźdźca. <!-- UNSOURCED -->
+Szlachetna i litościwa, w przeciwieństwie do swojego dawnego jeźdźca.
 
 ## Historia
-Niegdyś wierna Estorowi Arkelanderowi, porzuciła go po rzezi niewinnych Gyganów, której nie mogła powstrzymać. <!-- UNSOURCED -->
+Niegdyś wierna Estorowi Arkelanderowi, porzuciła go po rzezi niewinnych Gyganów, której nie mogła powstrzymać.
 
 W [[Sesja 36 - Królowa, Dziedzic i Generał]] w wizji [[Arevon Elorrenthi|Arevona]] pojawił się moment, gdy porzuciła Estora. W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że opuściła swego Smoczego Lorda po jego krwawych rzeziach [[Gyganie|Gyganów]], a Kyrah przybrała jej smoczą postać.
 

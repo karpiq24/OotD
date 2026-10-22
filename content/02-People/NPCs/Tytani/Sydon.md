@@ -15,21 +15,21 @@ _Władca Burz i Pan Oceanów, jeden z Bliźniaczych Tytanów. Zginął w [[Sesja
 ## Opis
 Sydon, Władca Burz, był potężnym tytanem, uosobieniem burzy i oceanu, zwanym też Panem Burz, Tytanem Burz i Panem Oceanów.
 Dzierżył potężną czarną glewię ([[Glewia Sydona]]), przywoływał niszczycielskie błyskawice, a każde trafienie w jego ciało wyzwalało mściwe wyładowania elektryczne. Miał trzecie oko na czole. Był ojcem m.in. [[Versi]], [[Yala|Yali]], [[Chalcia|Chalcii]], [[Goloron|Golorona]], [[Hergeron|Hergerona]] i [[Talieus Pierwszy|Talieusa]] oraz bratem i mężem [[Lutheria|Lutherii]].
-Niegdyś czczony był jako pan całej Thylei. <!-- UNSOURCED -->
+Niegdyś czczony był jako pan całej Thylei.
 
 ## Osobowość
-Gwałtowny, dumny i mściwy. Uważa śmiertelników za złodziei, którzy ukradli Thyleę. Domaga się wyłącznego kultu (nie toleruje czci innych bogów poza [[Lutheria|Lutherią]]). <!-- UNSOURCED -->
-Jest zazdrosnym bogiem, który uważa, że tylko on ma prawo do rządzenia. "Pozwól mi pokazać ci przyszłość Thylei. A wtedy, być może, zdecydujesz, czy chcesz być jej częścią." — słowa do [[Acastus|Króla Acastusa]]. <!-- UNSOURCED -->
+Gwałtowny, dumny i mściwy. Uważa śmiertelników za złodziei, którzy ukradli Thyleę. Domaga się wyłącznego kultu (nie toleruje czci innych bogów poza [[Lutheria|Lutherią]]).
+Jest zazdrosnym bogiem, który uważa, że tylko on ma prawo do rządzenia. "Pozwól mi pokazać ci przyszłość Thylei. A wtedy, być może, zdecydujesz, czy chcesz być jej częścią." — słowa do [[Acastus|Króla Acastusa]].
 Według [[Chondrus|Chondrusa]] był tępym, żądnym władzy tyranem ([[Sesja 54 - Wyznanie Chondrusa]]). W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia|sesji 72]] zareagował na atak ze znudzeniem i pogardą, a w [[Sesja 73 - Praxys - Skarbiec Sydona|sesji 73]] okazał się narcystyczny: w sypialni miał nagi marmurowy posąg siebie naturalnej wielkości.
 
 ## Historia
-Uważa się, że stworzył najpotężniejsze rdzenne rasy Thylei: centaury, gyganów i cyklopów. Gdy ludzkość przybyła i podbiła jego ziemie, a [[Smoczy Lordowie]] nękali go, w gniewie zniszczył ich smoki i szukał zemsty. Wtedy narodziło się [[Pięciu Bogów]], którzy odebrali mu siłę i wykuli [[Przysięga Pokoju|Przysięgę Pokoju]]. <!-- UNSOURCED -->
+Gdy ludzkość przybyła i podbiła jego ziemie, a [[Smoczy Lordowie]] nękali go, w gniewie zniszczył ich smoki i szukał zemsty. Wtedy narodziło się [[Pięciu Bogów]], którzy odebrali mu siłę i wykuli [[Przysięga Pokoju|Przysięgę Pokoju]].
 
-Wraz z [[Lutheria|Lutherią]] rządził Thyleą przez eony, zanim przybyli [[Smoczy Lordowie]]. Po Pierwszej Wojnie został zmuszony do zawarcia [[Przysięga Pokoju|Przysięgi Pokoju]] z [[Pięciu Bogów|Pięcioma Bogami]], która na pięćset lat ograniczyła jego wpływ na śmiertelników. W miarę jak magia przysięgi słabła, Sydon coraz śmielej manifestował swoją wolę, nękając [[Estoria|Estorię]] suszą i żądając krwawych ofiar, takich jak ta z księżniczki [[Anora|Anory]]. <!-- UNSOURCED -->
+Wraz z [[Lutheria|Lutherią]] rządził Thyleą przez eony, zanim przybyli [[Smoczy Lordowie]]. Po Pierwszej Wojnie został zmuszony do zawarcia [[Przysięga Pokoju|Przysięgi Pokoju]] z [[Pięciu Bogów|Pięcioma Bogami]], która na pięćset lat ograniczyła jego wpływ na śmiertelników. W miarę jak magia przysięgi słabła, Sydon coraz śmielej manifestował swoją wolę, nękając [[Estoria|Estorię]] suszą i żądając krwawych ofiar, takich jak ta z księżniczki [[Anora|Anory]].
 
 Według [[Sesja 39 - Tajemnice Wyspy Złotego Serca|sesji 39]] był bliźniakiem Lutherii, zrodzonym z siódmego nasiona [[Drzewo Serca|Drzewa Serca]]; wraz z nią odrzucił pomysł stworzenia pomniejszych istot, a moc [[Talieus Pierwszy|Talieusa]] przekazał mu [[Kentimane]]. Z Lutherią nadali swoim dzieciom imiona pokonanych tytanów ([[Sesja 21 - Ukryte pragnienia Ismene]]); [[Sesja 61 - Yala, Arezja i Żółw|sesja 61]] ukazuje, jak szeptali [[Yala|Yali]] zatrute słowa, wmawiając jej, że jest tylko piękna i delikatna. Przed Przysięgą Pokoju zagrał z [[Balmytria|Balmytrią]] w Królewską Grę i w siódmej partii, wsparty przez Lutherię, wygrał, co pozwoliło jej zdobyć ich domeny ([[Sesja 75 - Koniec Przysięgi]]).
 
-Sydon wysłał do [[Heleka|Heleki]] list z rozkazem przyprowadzenia swojej córki [[Versi]]. <!-- UNSOURCED -->
+Sydon wysłał do [[Heleka|Heleki]] list z rozkazem przyprowadzenia swojej córki [[Versi]].
 
 W [[Sesja 2 - Przepowiednia]] na jego rozkaz uwięziono jego córkę, Wyrocznię [[Versi]].
 

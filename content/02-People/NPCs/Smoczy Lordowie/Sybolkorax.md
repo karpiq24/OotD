@@ -7,7 +7,7 @@ title: Sybolkorax
 _Brązowy smok, partner [[Balmytria|Balmytrii]] i smok [[Rizon Phobas|Rizona Phobasa]]; prawdziwa postać boga [[Volkan|Volkana]], który po pęknięciu Przysięgi Pokoju stracił boską moc. Po wojnie osiadł z [[Orestes|Orestesem]] w [[Orestessos Zythikē]]._
 
 ## Opis
-Potężny brązowy smok, jeden z najstarszych i najsilniejszych w Zakonie. <!-- UNSOURCED -->
+Potężny brązowy smok, jeden z najstarszych w Zakonie.
 
 W [[Sesja 75 - Koniec Przysięgi]] okazało się, że Sybolkorax to prawdziwe imię Volkana. W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] jest opisywany jako brązowy smok-kowal, a w [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] jako niegdyś bóg-kowal, dziś już tylko brązowy smok pozbawiony boskiej mocy. Jest ojcem [[Kyrah]] ([[Arkyrania]]) i [[Pythor|Pythora]] ([[Raspytrion]]).
 
@@ -15,7 +15,7 @@ W [[Sesja 75 - Koniec Przysięgi]] okazało się, że Sybolkorax to prawdziwe im
 Pogrążył się w rozpaczy po śmierci [[Balmytria|Balmytrii]] ([[Sesja 75 - Koniec Przysięgi]]).
 
 ## Historia
-Niegdyś kochanek Balmytrii. Zniknął pod koniec Pierwszej Wojny, prawdopodobnie poświęcając się, by umożliwić ucieczkę Rizon Phobas. <!-- UNSOURCED -->
+Niegdyś partner [[Balmytria|Balmytrii]] i ojciec jej dzieci.
 
 W [[Sesja 75 - Koniec Przysięgi]] ujawnił swoje prawdziwe imię jako smok Rizona Phobasa.
 

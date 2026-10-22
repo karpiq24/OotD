@@ -14,19 +14,19 @@ image_prompt: colossal mythical Hecatoncheires titan, monstrous giant, hulking g
 _Sturęki (The Hundred Handed), Mąż Thylei i Ojciec Tytanów. W [[Sesja 83 - Zmierzch Ery Tytanów|sesji 83]] zawrócił spod Mytros bez walki i odszedł ku morzu._
 
 ## Opis
-Gargantuiczny tytan, gigant o setce rąk i pięćdziesięciu głowach. Najbrutalniejszy z bogów, którego uspokoić mogła tylko [[Thylea]]. <!-- UNSOURCED -->
-Podczas gdy Thylea jest opiekunką, Kentimane jest uosobieniem gniewu: jest huraganem, trzęsieniem ziemi i wulkanem. Gdy Thylea potrzebuje obrony, Kentimane nie zważa na tych, którzy znajdą się w zasięgu jego niszczycielskiej furii. <!-- UNSOURCED -->
+Gargantuiczny tytan, gigant o setce rąk i pięćdziesięciu głowach. Najbrutalniejszy z bogów, którego uspokoić mogła tylko [[Thylea]].
+Podczas gdy Thylea jest opiekunką, Kentimane jest uosobieniem gniewu: jest huraganem, trzęsieniem ziemi i wulkanem. Gdy Thylea potrzebuje obrony, Kentimane nie zważa na tych, którzy znajdą się w zasięgu jego niszczycielskiej furii.
 
 Ma pięćdziesiąt głów, sto oczu i sto kamiennych ramion, z których każde jest grube jak wieża, a skórę kamienną. Nosi tytuły Męża Thylei, Ojca Tytanów, Boga Zniszczenia i Sturękiego, strażnika kontynentu. Potrafi plunąć strumieniem żrącego kwasu, a zaklęcie wygnania nie ima się go. Po bitwie o Mytros odszedł ku morzu. Nie zna strachu przed śmiertelnikiem, ale potrafił uszanować opór małych istot.
 
 ## Historia
-Mąż i obrońca [[Thylea|Thylei]]. Kiedy Thylea stała się lądem, on stał się jego strażnikiem. Po jej ofierze oszalał z bólu, wywołując burze, ale został ukojony przez jej ducha. Związał się przysięgą, by chronić wyspy i ich dzieci przed światem zewnętrznym. <!-- UNSOURCED -->
+Mąż i obrońca [[Thylea|Thylei]]. Kiedy Thylea stała się lądem, on stał się jego strażnikiem. Po jej ofierze oszalał z bólu, wywołując burze, ale został ukojony przez jej ducha. Związał się przysięgą, by chronić wyspy i ich dzieci przed światem zewnętrznym.
 
 W wizji z [[Sesja 39 - Tajemnice Wyspy Złotego Serca|sesji 39]] jawi się jako sturęki gigant z pięćdziesięcioma głowami, który strzegł dziewiczej Thylei. Skuszony pięknem siedmiu owoców [[Drzewo Serca|Drzewa Serca]] zerwał je i pięćdziesiąt jego głów rozkoszowało się ich smakiem; z pozostałych nasion powstało ośmioro Tytanów, dzieci Thylei i Kentimane'a (w tym [[Sydon]] i [[Lutheria]]). Moc [[Talieus Pierwszy|Talieusa]] przekazał Sydonowi, a [[Myrmeki|myrmeki]] uwięził na jednej z wysp. Jego ręce wyniosły drużynę na platformę Drzewa Serca.
 
 W [[Sesja 13 - Wezwani przez Króla]] bohaterowie w drodze powrotnej napotkali kamienne posągi bardzo podobne do Kentimane'a. W [[Sesja 31 - Wyprawa na Themis]] wyłonił się z wiru [[Charybda|Charybdy]] jako ogromny potwór morski i uwolnił drużynę z pułapki. W [[Sesja 59 - Koniec Imprezy]] jako Kentimane Stu Ręki, tytan i strażnik Thylei, przemierzał dno Zapomnianego Morza, ignorując statek bohaterów.
 
-Jego przebudzenie zwiastowało wielkie zmiany. <!-- UNSOURCED -->
+Jego przebudzenie zwiastowało wielkie zmiany.
 
 W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] [[Lutheria]] ujawniła, że [[Sydon]] był jego ukochanym synem, i ostrzegła, że sturęki tytan zmierza ku bohaterom, by wymierzyć karę za śmierć syna; z nim — mówiła — nie da się walczyć, można co najwyżej próbować przetrwać.
 

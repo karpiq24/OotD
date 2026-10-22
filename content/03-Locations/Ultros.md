@@ -8,17 +8,16 @@ image_prompt: ancient Greek trireme battleship, majestic and formidable. It has 
 _Legendarny okręt bojowy, niegdyś statek widmo [[Estor Arkelander|Estora Arkelandera]], następnie pod dowództwem [[Orestes|Orestesa]]. Zatopiony w porcie [[Mytros]] podczas bitwy o Mytros; po wyciągnięciu z wody stracił magiczne właściwości i na stałe cumuje w porcie jako bar z muzeum._
 
 ## Opis
-Ultros to potężny statek, który przemierzał morza Thylei od wieków. Jego kadłub jest wykonany z ciemnego, wytrzymałego drewna, wzmocnionego brązem. <!-- UNSOURCED -->
+Ultros to potężny statek, który przemierzał morza Thylei od wieków.
 Niegdyś obsadzony przez duchy, został oczyszczony i służył nowym kapitanom. Maszt wykonano z drzewa, z którym była związana driada [[Delphia]] ([[Sesja 24 - Ultros]]). Był statkiem-taranem z dziobem-taranem ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]).
 Dziś jest po prostu bardzo dużym, mało praktycznym statkiem, który utracił swoje magiczne, ochronne właściwości, i stoi przycumowany w porcie [[Mytros]] jako bar z magazynem piwa pod pokładem, kącikiem pamiątek i muzeum.
 
 ## Właściwości
 Dawniej statek był artefaktem o niezwykłej mocy:
 - **Odporność na burze Tytana**: Wytrzymywał sztormy, a burze i fale [[Sydon|Sydona]] nie były w stanie go zatrzymać; w [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa|sesji 78]] jednak poszedł na dno, zaatakowany przez węże morskie Sydona. Po bitwie utracił magiczne, ochronne właściwości ([[Sesja 84 - Świt Nowej Ery]]).
-- Statek posiadał również zdolność latania. <!-- UNSOURCED -->
 
 ## Ciekawe Miejsca
-- **Kajuta Kapitana** <!-- UNSOURCED -->
+- **Kajuta Kapitana**
 
 ## Mieszkańcy
 - **Kapitan [[Orestes]]**: Ostatni dowódca statku, dziś właściciel baru.
@@ -28,7 +27,7 @@ Dawniej statek był artefaktem o niezwykłej mocy:
 ## Historia
 Na pokładzie Ultrosa [[Estor Arkelander|Estor]] zawarł pakt z [[Lutheria]] i zabił całą załogę, po czym członkowie załogi powstali jako duchy, związane ze statkiem ([[Sesja 24 - Ultros]]). Statek jest legendarnym okrętem Smoczych Lordów ([[Sesja 65 - Wyprawa w Otchłań]]).
 
-Zbudowany jako narzędzie Estora do walki z Tytanami podczas Pierwszej Wojny. W zamian za obietnicę "nieśmiertelności" dla siebie i swojej załogi, Estor zamordował swoich oficerów. Ultros był używany do niszczenia twierdz [[Gyganie|Gyganów]] i siania terroru na morzach. Po wojnie stał się więzieniem dla swojej załogi. <!-- UNSOURCED -->
+Zbudowany jako narzędzie Estora do walki z Tytanami podczas Pierwszej Wojny. Ultros był używany do niszczenia twierdz [[Gyganie|Gyganów]] i siania terroru na morzach. Estor zawarł pakt z [[Lutheria|Lutherią]] i zabił całą załogę, która powstała jako duchy związane ze statkiem.
 
 W [[Sesja 14 - Burza nad Mytros]] król [[Acastus]] wręczył drużynie mapę do ostatniego znanego miejsca pobytu legendarnego statku, a w [[Sesja 23 - Nowe Przymierze]] drużyna wyruszyła na jego poszukiwania. W [[Sesja 24 - Ultros]] statek został odnaleziony zacumowany przy [[Martwe Wodospady|Martwych Wodospadach]]. Po pokonaniu [[Estor Arkelander|Estora]] dowództwo nad statkiem objął [[Orestes]]. Wybrał ścieżkę żywych, co wyzwoliło dotychczasową nieumarłą załogę, więc drużyna potrzebowała nowej załogi.
 
@@ -44,8 +43,6 @@ W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] statek-taran, trafiony głazem z 
 W [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa]] **Ultros został zatopiony w porcie [[Mytros]]**. Dokonały tego **węże morskie [[Sydon|Sydona]]** — zadokowany okręt, obsadzony jedynie szkieletową załogą, znalazł się pod atakiem wodnych bestii i zaczął opadać na dno.
 
 Okręt był brzemienny w zgromadzone skarby drużyny.
-
-Był to **cały dorobek** kilkudziesięciu sesji wypraw, grabieży smoczych skarbców i darów od władców Thylei. Straty nigdy nie zostały odzyskane. <!-- UNSOURCED -->
 
 Driada **[[Delphia]]**, która przez wcześniejsze miesiące żeglugi leczyła kadłub pnączami i uratowała statek podczas przebijania blokady [[Zakon Sydona|Zakonu Sydona]], była związana z masztem Ultrosa do sesji 84.
 

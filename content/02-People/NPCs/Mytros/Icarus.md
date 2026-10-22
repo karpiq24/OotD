@@ -8,8 +8,8 @@ _Potężny srebrny smok, niegdyś wierzchowiec króla Acastusa. Zmutowany w bitw
 
 ## Opis
 Wierzchowiec króla [[Acastus|Acastusa]], srebrny smok.
-Największy smok jakiego widziano na kontynencie. Był dorosłym srebrnym smokiem (*Adult silver dragon*), ale tylko fizycznie. Z powodu klątwy [[Mojry|Mojr]], Icarus został gwałtownie postarzony, nadal miał naiwny umysł smoczątka. <!-- UNSOURCED -->
-Spędzał czas kradnąc bydło i przelewiając wody w porcie, co wszyscy ignorowali ze strachu przed królem. Acastus obnosił się z nim podczas festiwali. <!-- UNSOURCED -->
+Największy smok jakiego widziano na kontynencie. Był dorosłym srebrnym smokiem (*Adult silver dragon*), ale tylko fizycznie. Z powodu klątwy [[Mojry|Mojr]], Icarus został gwałtownie postarzony, nadal miał naiwny umysł smoczątka.
+Spędzał czas kradnąc bydło i przelewiając wody w porcie, co wszyscy ignorowali ze strachu przed królem. Acastus obnosił się z nim podczas festiwali.
 
 ## Historia
 W [[Sesja 17 - Targ Minotaurów]] Acastus i [[Gaius]] przybyli do Świątyni Pięciu na smokach Icarus i [[Argyn]]. W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] Icarus został przedstawiony jako srebrny smok króla.

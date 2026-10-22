@@ -7,7 +7,7 @@ title: Rod of Rulership
 _Berło Władzy, starożytny artefakt królów Mytros, klucz do aktywacji Kolosa Pythora. Oddane przez Acastusa drużynie w sesji 78 i użyte do przebudzenia Kolosa._
 
 ## Opis
-Starożytne berło dzierżone przez królów [[Mytros]]. Wygląda jak okazałe regalia władzy, kute z metalu i ozdobione zdobieniami w stylu królów-smoczych lordów. <!-- UNSOURCED -->
+Starożytne berło dzierżone przez królów [[Mytros]]. Wygląda jak okazałe regalia władzy, kute z metalu i ozdobione zdobieniami w stylu królów-smoczych lordów.
 
 ## Właściwości
 Berło jest **kluczem do aktywacji [[Kolos Pythora|Kolosa Pythora]]** — gargantuicznego konstruktu w kształcie posągu boga wojny stojącego na południu Mytros. Wsunięcie Berła w sferę kontrolną w głowie Kolosa budzi go do życia jako pradawnego mecha-boga.

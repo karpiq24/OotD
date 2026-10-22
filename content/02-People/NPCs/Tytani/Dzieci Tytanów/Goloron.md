@@ -10,12 +10,12 @@ _Syn Sydona i Lutherii, dotknięty szaleństwem. Zginął z ręki Orestesa na sw
 ## Opis
 Goloron był tytanem, synem [[Sydon|Sydona]] i [[Lutheria|Lutherii]]; szalonym, sadystycznym, o pustych oczach, które w gniewie zalewała atramentowa czerń, a z których sączyła się nekrotyczna energia. Emanował nekromantyczną mocą i dzierżył plugawą laskę. Potrafił znikać w kłębach mroku i pojawiać się w innym miejscu, latać, miotać mroczne zaklęcia, teleportować się i stawać niewidzialny, a w walce używał legendarnych akcji i psionicznego ataku, który ogłuszał ofiarę. Miał kochankę, nimfę [[Dianama|Dianamę]].
 
-Jego obecność budziła niepokój. <!-- UNSOURCED -->
+Jego obecność budziła niepokój.
 
 ## Historia
 Podobnie jak reszta rodzeństwa, nosił imię po jednym z pierwotnych Tytanów — po wuju, [[Goloron Pierwszy|Goloronie Pierwszym]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Pojawił się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na Górze Volkana jego spojrzenie zdradzało oznaki obłędu. <!-- UNSOURCED -->
+Pojawił się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na Górze Volkana jego spojrzenie zdradzało oznaki obłędu.
 
 W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] stoczył epicką walkę z [[Kraken|Krakenem]] pośród morskiej burzy, rzucając mroczne zaklęcia i emanując nekromantyczną energią. Gdy walka dobiegła końca, wzbił się w powietrze i odleciał.
 

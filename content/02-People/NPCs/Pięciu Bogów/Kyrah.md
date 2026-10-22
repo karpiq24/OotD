@@ -10,45 +10,45 @@ image_prompt: young adult female, beautiful ancient Greek goddess, slender build
 _Dawna Bogini Muzyki i Podstępu, jedna z [[Moce Thylei#Pięciu Bogów|Pięciu Bogów]], znana jako Muza. W rzeczywistości brązowa smoczyca [[Arkyrania]], która po pęknięciu Przysięgi Pokoju straciła boską moc; dla mieszkańców Thylei pozostaje boginią._
 
 ## Opis
-Kyrah jest najmłodszą z Pięciu Bogów. Często podróżuje po Thylei w przebraniu, szukając natchnienia i wchodząc w interakcje ze śmiertelnikami w sposób bardziej bezpośredni niż inni bogowie. Słynie ze swojego pięknego głosu, gry na lirze oraz zamiłowania do płatania psikusów. <!-- UNSOURCED -->
+Kyrah jest najmłodszą z Pięciu Bogów. Często podróżuje po Thylei w przebraniu, szukając natchnienia i wchodząc w interakcje ze śmiertelnikami w sposób bardziej bezpośredni niż inni bogowie. Słynie ze swojego pięknego głosu, gry na lirze oraz zamiłowania do płatania psikusów.
 
 Ma czarne włosy mieniące się jak skrzydła szpaka; na Wielkich Igrzyskach nosiła biały strój wyhaftowany metaliczną brązową nicią ([[Sesja 25 - Inauguracja Wielkich Igrzysk]]). Jest córką [[Balmytria|Balmytrii]] i [[Volkan|Volkana]], siostrą [[Vallus]], [[Pythor|Pythora]] i [[Narsus|Narsusa]].
 
-Była najszybszą z wszystkich bogów, zdolną zniknąć w mgnieniu oka i pokonywać ogromne odległości z każdym krokiem. Jej głos jest podobno piękniejszy niż jakikolwiek instrument muzyczny. Istnieje bardzo niewiele kaplic jej poświęconych, z wyjątkiem tych u bardów, którzy czczą ją jako Muzę. <!-- UNSOURCED -->
+Była najszybszą z wszystkich bogów, zdolną zniknąć w mgnieniu oka i pokonywać ogromne odległości z każdym krokiem. Jej głos jest podobno piękniejszy niż jakikolwiek instrument muzyczny. Istnieje bardzo niewiele kaplic jej poświęconych, z wyjątkiem tych u bardów, którzy czczą ją jako Muzę.
 
 ## Osobowość
-Kyrah ucieleśnia kreatywność, wolność i radość życia. Jest postrzegana jako najbardziej przystępna z bóstw, kochająca sztukę i piękno we wszystkich formach. Bywa jednak również przebiegła i psotna, co odzwierciedla jej domenę podstępu. <!-- UNSOURCED -->
+Kyrah ucieleśnia kreatywność, wolność i radość życia, kocha sztukę i piękno we wszystkich formach. Bywa przebiegła i psotna, co odzwierciedla jej domenę podstępu.
 
 Zwykle pogodna, w [[Sesja 67 - Zguba Estora|sesji 67]] była smutna i zdystansowana wobec sojuszu z Estorem, a w [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|sesji 76]] pochmurna i zamyślona, gnieciona poczuciem winy: przyznała, że odkupienia jeszcze nie znalazła.
 
 ## Wcielenia i Alter Ego
 Kyrah często przyjmowała różne tożsamości, by podróżować wśród mieszkańców Thylei:
 
-- **Notos (Letni Wiatr)**: Tożsamość [[Nimfa z Thylei|nimfy]], którą Kyrah przyjęła, by założyć grupę [[Cztery Wiatry]]. Pod tą postacią szerzyła pokój i poezję w rejonie [[Zatoka Cerulańska|Zatoki Cerulańskiej]]. <!-- UNSOURCED -->
-- **Wędrowny Bard**: Często spotykana na drogach Thylei jako zwykła artystka, inspirująca innych do tworzenia muzyki. <!-- UNSOURCED -->
+- **Notos (Letni Wiatr)**: Tożsamość [[Nimfa z Thylei|nimfy]], którą Kyrah przyjęła, by założyć grupę [[Cztery Wiatry]]. Pod tą postacią szerzyła pokój i poezję w rejonie [[Zatoka Cerulańska|Zatoki Cerulańskiej]].
+- **Wędrowny Bard**: Często spotykana na drogach Thylei jako zwykła artystka, inspirująca innych do tworzenia muzyki.
 - **Smoczyca [[Arkyrania]]**: Jej prawdziwa postać (patrz niżej).
 
 ## Historia
-Kyrah od stuleci wpływa na kulturę i sztukę Thylei. Wielu artystów i poetów modli się do niej o natchnienie. Służy jako nadworna poetka Królowej Mytros, swojej siostry [[Vallus]], która uważa ją za irytującą i wysyła na misje, by się jej pozbyć. <!-- UNSOURCED -->
+Kyrah od stuleci wpływa na kulturę i sztukę Thylei. Wielu artystów i poetów modli się do niej o natchnienie. Służy jako nadworna poetka Królowej Mytros, swojej siostry [[Vallus]], która uważa ją za irytującą i wysyła na misje, by się jej pozbyć.
 
-W przeszłości była blisko związana z istotami rasy Fey: <!-- UNSOURCED -->
-- **[[Boreas]]**: Poznała go w jego młodości w [[Winnice Mytros|Winnicach Mytros]]. To ona zainspirowała go do opuszczenia domu i dołączenia do Czterech Wiatrów. <!-- UNSOURCED -->
-- **[[Zephyrus]]**: Przez 150 lat łączyła ich głęboka więź i miłość. Podróżowali razem po wybrzeżach, dzieląc się sztuką i przygodami. <!-- UNSOURCED -->
-- **[[Euria]]**: Odnalazła ją na jej samotnej górze i przekonała do wyruszenia w świat. <!-- UNSOURCED -->
+W przeszłości była blisko związana z istotami rasy Fey:
+- **[[Boreas]]**: Poznała go w jego młodości w [[Winnice Mytros|Winnicach Mytros]]. To ona zainspirowała go do opuszczenia domu i dołączenia do Czterech Wiatrów.
+- **[[Zephyrus]]**: Przez 150 lat łączyła ich głęboka więź i miłość. Podróżowali razem po wybrzeżach, dzieląc się sztuką i przygodami.
+- **[[Euria]]**: Odnalazła ją na jej samotnej górze i przekonała do wyruszenia w świat.
 
-Jako **Notos**, Kyrah była sercem i inicjatorką [[Cztery Wiatry|Czterech Wiatrów]], grupy bardów niosących przesłanie pokoju. Choć grupa ostatecznie się rozpadła pod ciężarem niepowodzeń jej członków, Kyrah pozostawała jedną z najbardziej wpływowych postaci w Thylei. <!-- UNSOURCED -->
+Jako **Notos**, Kyrah była sercem i inicjatorką [[Cztery Wiatry|Czterech Wiatrów]], grupy bardów niosących przesłanie pokoju. Choć grupa ostatecznie się rozpadła pod ciężarem niepowodzeń jej członków, Kyrah pozostawała jedną z najbardziej wpływowych postaci w Thylei.
 
 Przed wiekami, u boku [[Sydon|Sydona]] i [[Estor Arkelander|Estora]], wypalała oddechem dziesiątki [[Gyganie|gyganów]] i centaurów, a potem porzuciła Estora ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|sesja 76]], [[Sesja 75 - Koniec Przysięgi|sesja 75]]).
 
 W [[Sesja 1 - Wielki Dzik]] jako wysłanniczka Wyroczni [[Versi]] zebrała bohaterów w gospodzie [[Kwaśny Rocznik]] i zleciła im upolowanie dzika, zatrudniła dwóch myśliwych, [[Taneias|Taneiasa]] i [[Javon|Javona]], którzy do nich dołączyli, i przypomniała, że upolowanego dzika należy złożyć w ofierze bogom.
 
-Po wygłoszeniu przepowiedni przez [[Versi]], Kyrah zaoferowała się jako przewodniczka i towarzyszka podróży, nie przyjmując odmowy. Jej główną motywacją jest znalezienie inspiracji do napisania wielkiego eposu o czynach bohaterów. <!-- UNSOURCED -->
+Po wygłoszeniu przepowiedni przez [[Versi]], Kyrah zaoferowała się jako przewodniczka i towarzyszka podróży, nie przyjmując odmowy. Jej główną motywacją jest znalezienie inspiracji do napisania wielkiego eposu o czynach bohaterów.
 
 W [[Sesja 2 - Przepowiednia]] wręczyła bohaterom obiecane złote strzały, wyjaśniła zasady działania Sławy i zachęciła ich do złożenia Przysięgi Braterstwa. W [[Sesja 3 - Skradziony Róg]] okazało się, że podróżująca z nimi Kyrah jest Boginią Muzyki. W [[Sesja 12 - Furia Boga Bitwy]] wraz z [[Pythor|Pythorem]] zastanawiała się nad konsekwencjami boskiej ingerencji w związku z Przysięgą Pokoju. W [[Sesja 13 - Wezwani przez Króla]] podpowiedziała, że [[Mojry]] mogą być odpowiedzialne za klątwę [[Orestes|Orestesa]].
 
 Podczas kryzysu w Mytros ([[Sesja 14 - Burza nad Mytros]]) razem z [[Vallus]] i bohaterami udała się na Górę Volkana, gdzie przeprowadzono rytuał mający powstrzymać burzę.
 
-Na szczycie grała jednocześnie na **flecie, lutni i lirze**, poruszając się z boską szybkością. Jej muzyka, połączona z grą na harfie przez **[[Boreas|Boreasa]]** (którego przekonała do pomocy) i wspierana mocą **[[Vallus]]**, zdołała odeprzeć burzę Sydona i uspokoić Tytanów. To wydarzenie było też momentem odnowienia jej więzi z siostrą Vallus. <!-- UNSOURCED -->
+Na szczycie grała jednocześnie na **flecie, lutni i lirze**, poruszając się z boską szybkością. Jej muzyka, połączona z grą na harfie przez **[[Boreas|Boreasa]]** (którego przekonała do pomocy) i wspierana mocą **[[Vallus]]**, zdołała odeprzeć burzę Sydona i uspokoić Tytanów. To wydarzenie było też momentem odnowienia jej więzi z siostrą Vallus.
 
 W [[Sesja 17 - Targ Minotaurów]] przekazała informację o Igrzyskach w Mytros, które miały się odbyć za cztery tygodnie. W [[Sesja 19 - Pojedynek z Rozpruwaczem]] odprężała się piwem z [[Versir|Versirem]] i Orestesem, a powstała piosenka Kyrah's Gangsta Rap. W [[Sesja 23 - Nowe Przymierze]] opowiedziała drużynie historię o przybyciu bogów do Thylei ("Wezwanie nowych bogów"), wyjaśniając genezę Pięciu Bogów i ich konflikt z Tytanami.
 

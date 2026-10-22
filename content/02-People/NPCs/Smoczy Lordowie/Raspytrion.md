@@ -7,7 +7,7 @@ title: Raspytrion
 _Brązowy smok, niegdyś zaprzysiężony [[Adonis Neurdagon|Adonisowi Neurdagonowi]]; prawdziwa postać boga [[Pythor|Pythora]], który po pęknięciu Przysięgi Pokoju stracił boską moc. W Bitwie o Mytros wierzchowiec [[Orion Xul|Oriona]]._
 
 ## Opis
-Wspaniały smok o lśniących łuskach. <!-- UNSOURCED -->
+Wspaniały smok o lśniących łuskach.
 
 W [[Sesja 75 - Koniec Przysięgi]] okazało się, że Raspytrion to prawdziwe imię Pythora; w [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] opisano go jako „dawniej Pythor", dziś brązowy smok. Jest synem [[Sybolkorax|Sybolkoraxa]] i [[Balmytria|Balmytrii]].
 
@@ -15,7 +15,7 @@ W [[Sesja 75 - Koniec Przysięgi]] okazało się, że Raspytrion to prawdziwe im
 Cechy charakteru, motywacje, ideały.
 
 ## Historia
-Zniknął bez śladu pod koniec Pierwszej Wojny. Spekuluje się, że mógł zostać zwabiony w pułapkę przez Lutherię. <!-- UNSOURCED -->
+Zniknął bez śladu pod koniec Pierwszej Wojny. Spekuluje się, że mógł zostać pojmany przez Tytanów ([[Sesja 38 - Bitwa w Kalderze]]).
 
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] wraz z [[Tysophale]] zanurkował na zmutowanego [[Icarus|Icarusa]] w [[Stadion Mytros|kolosseum]], zatapiając w jego skażonym ciele kły i pazury. Po walce został wyczerpany — [[Arevon Elorrenthi|Arevon]] uleczył go magią po pokonaniu bestii.
 

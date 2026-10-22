@@ -11,7 +11,7 @@ _Tytanka Piękna, Siostra Sydona i Lutherii. Uwolniona przez Versira, jej esencj
 ## Historia
 Jedna z ośmiorga pierwotnych Tytanów, dzieci [[Thylea|Thylei]] i [[Kentimane|Kentimane'a]], ciotka [[Versir|Versira]]. Padła ofiarą Bliźniąt ([[Sesja 39 - Tajemnice Wyspy Złotego Serca]]): [[Lutheria]] zastawiła na nią pułapkę na [[Wyspa Złotego Serca|Wyspie Złotego Serca]], gdzie została przemieniona w kamień krwią tysiąca bazyliszków ([[Sesja 65 - Wyprawa w Otchłań]]). Trafiła do [[Hades|Hadesu]], gdzie była więziona jako kamienny posąg o twarzy wykrzywionej wiecznym przerażeniem.
 
-Wrzucona przez Lutherię do Ojca Potworów. <!-- UNSOURCED -->
+Wrzucona przez Lutherię do Ojca Potworów.
 
 W [[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]] [[Versir]] ujrzał ją w wizji jako kamienny posąg w kolejce dusz nad Styksem i rozpoznał w niej swoją ciotkę, Yalę, Tytankę Piękna.
 

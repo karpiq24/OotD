@@ -7,23 +7,23 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Słynna nimfa wodna obdarzona darem proroctwa i miłością do śmiertelnych ras. <!-- UNSOURCED --> Córka Sydona, która sprzeciwiła się ojcu, wywróżywszy mu upadek._
+_Słynna nimfa wodna obdarzona darem proroctwa i miłością do śmiertelnych ras. Córka Sydona, która sprzeciwiła się ojcu, wywróżywszy mu upadek._
 
 ## Opis
 Versi, znana powszechnie jako **Wyrocznia**, jest nimfą i córką [[Sydon|Sydona]]. Ma dar proroctwa i jasnowidzenia: przepowiada przyszłość [[Thylea|Thylei]], a w [[Sesja 42 - Plemię Węgorza]] doznała wizji o smoczych jajach skażonych mocą [[Mojry|Mojr]] i klątwie ciążącej nad młodymi smokami. Po upadku Sydona padła propozycja, by została jedną z nowych [[Mojry|Mojr]] ([[Sesja 84 - Świt Nowej Ery]]).
 
-Zamieszkuje gorące źródła w jaskini pod [[Świątynia Wyroczni|Świątynią Wyroczni]]. Jest córką naiady Delphei. Urodziła się z trzecim okiem na czole, które ukrywa pod złotym diademem. <!-- UNSOURCED -->
+Zamieszkuje gorące źródła w jaskini pod [[Świątynia Wyroczni|Świątynią Wyroczni]]. Jest córką naiady Delphei. Urodziła się z trzecim okiem na czole, które ukrywa pod złotym diademem.
 
-Mimo swojego pochodzenia zawsze darzyła śmiertelników z [[Thylea|Thylei]] ogromną sympatią – niektórzy twierdzą, że kocha ich „aż za bardzo" (traktuje ich zaborczo, jak ukochane zwierzątka). <!-- UNSOURCED -->
+Mimo swojego pochodzenia zawsze darzyła śmiertelników z [[Thylea|Thylei]] ogromną sympatią – niektórzy twierdzą, że kocha ich „aż za bardzo" (traktuje ich zaborczo, jak ukochane zwierzątka).
 
 ## Osobowość
-*   **Nawiedzona:** Dręczą ją wizje przyszłości. Trzyma się nadziei, ale w jej oczach widać strach. <!-- UNSOURCED -->
-*   **Zaborcza:** Traktuje śmiertelników, zwłaszcza herosów, jak cenne zwierzęta domowe. Bywa zazdrosna, jeśli zbliżą się do innych bóstw. <!-- UNSOURCED -->
+*   **Nawiedzona:** Dręczą ją wizje przyszłości. Trzyma się nadziei, ale w jej oczach widać strach.
+*   **Zaborcza:** Traktuje śmiertelników, zwłaszcza herosów, jak cenne zwierzęta domowe. Bywa zazdrosna, jeśli zbliżą się do innych bóstw.
 
-Wierzy, że herosi są szansą na najlepszy możliwy wynik w strumieniu czasu. <!-- UNSOURCED -->
+Wierzy, że herosi są szansą na najlepszy możliwy wynik w strumieniu czasu.
 
 ## Historia
-Versi od lat przepowiadała przybycie wielkich wojowników, którzy uratują [[Thylea|Thyleę]] w godzinie próby. <!-- UNSOURCED -->
+Versi od lat przepowiadała przybycie wielkich wojowników, którzy uratują [[Thylea|Thyleę]] w godzinie próby.
 
 Nosi imię po swojej ubitej ciotce, [[Versi Pierwsza|Versi Pierwszej]] — [[Versir]] zarzucił [[Lutheria|Lutherii]], że swoje dzieci nazwała imionami zniszczonych Tytanów ([[Sesja 70 - Audiencja u Pani Snów]]).
 

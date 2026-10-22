@@ -9,13 +9,13 @@ aliases:
 _Tytan Rzemiosła. Uwolniony przez Versira z łańcuchów po stuleciach męki; jego esencja spoczywa w Rękawicy Versira._
 
 ## Historia
-Pierworodny z rodzeństwa pierwotnych Tytanów, wuj [[Versir|Versira]]. <!-- UNSOURCED -->
+Pierworodny z rodzeństwa pierwotnych Tytanów, wuj [[Versir|Versira]].
 
 Stworzył rdzenne rasy (centaury, satyry, nimfy, gigantów, cyklopów), by nie czuć się samotnym ([[Sesja 39 - Tajemnice Wyspy Złotego Serca]]).
 
-Omamiony przez przebiegłą [[Lutheria|Lutherię]] stworzył również **[[Myrmeki]]** — niszczycielską rasę insektoidów. To sprowadziło gniew jego ojca, [[Kentimane|Kentimane'a]], który uwięził myrmeki na jednej z wysp, a moc Talieusa przekazał [[Sydon|Sydonowi]]. Bezbronnego Talieusa uwięzili bliźniaczy Tytani: [[Lutheria]] w akcie zemsty go oślepiła i zmusiła do ciągnięcia swojego okrętu flagowego ([[Sesja 39 - Tajemnice Wyspy Złotego Serca]]). Zaszyła mu też usta ([[Sesja 84 - Świt Nowej Ery]]), by nie mógł wyjawić prawdy o swoim upadku. <!-- UNSOURCED -->
+Omamiony przez przebiegłą [[Lutheria|Lutherię]] stworzył również **[[Myrmeki]]** — niszczycielską rasę insektoidów. To sprowadziło gniew jego ojca, [[Kentimane|Kentimane'a]], który uwięził myrmeki na jednej z wysp, a moc Talieusa przekazał [[Sydon|Sydonowi]]. Bezbronnego Talieusa uwięzili bliźniaczy Tytani: [[Lutheria]] w akcie zemsty go oślepiła i zmusiła do ciągnięcia swojego okrętu flagowego ([[Sesja 39 - Tajemnice Wyspy Złotego Serca]]). Zaszyła mu też usta ([[Sesja 84 - Świt Nowej Ery]]), by nie mógł wyjawić prawdy o swoim upadku.
 
-Jest twórcą miecza **[[Zguba Tytanów]]** (Titansbane), w którym zaklęta jest cząstka duszy matki Versira, [[Versi Pierwsza|Versi Pierwszej]] ([[Sesja 70 - Audiencja u Pani Snów]]). Wykuł go na prośbę Versi. <!-- UNSOURCED -->
+Jest twórcą miecza **[[Zguba Tytanów]]** (Titansbane), w którym zaklęta jest cząstka duszy matki Versira, [[Versi Pierwsza|Versi Pierwszej]] ([[Sesja 70 - Audiencja u Pani Snów]]). Wykuł go na prośbę Versi.
 
 W [[Sesja 61 - Yala, Arezja i Żółw]] we wspomnieniu raju ścigał się z [[Chalcia Pierwsza|Chalcią]].
 

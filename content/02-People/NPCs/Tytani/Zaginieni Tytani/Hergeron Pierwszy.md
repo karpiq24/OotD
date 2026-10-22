@@ -11,7 +11,7 @@ _Tytan Siły. Po uwolnieniu z więzienia pod Praxys oddał swoją esencję Ręka
 ## Historia
 Jedno z ośmiorga pierwotnych Tytanów, dzieci [[Thylea|Thylei]] i [[Kentimane|Kentimane'a]], wuj [[Versir|Versira]] i brat [[Lutheria|Lutherii]] ([[Sesja 70 - Audiencja u Pani Snów]], [[Sesja 71 - Infiltracja Praxys]]).
 
-Drugi najstarszy brat. Próbował pomścić [[Versi Pierwsza|Versi Pierwszą]], atakując [[Sydon|Sydona]], lecz został pokonany. Dzierżył nieukończone Ostrze wykute przez [[Talieus Pierwszy|Talieusa Pierwszego]]. <!-- UNSOURCED -->
+Drugi najstarszy brat. Próbował pomścić [[Versi Pierwsza|Versi Pierwszą]], atakując [[Sydon|Sydona]], lecz został pokonany. Dzierżył nieukończone Ostrze wykute przez [[Talieus Pierwszy|Talieusa Pierwszego]].
 
 Został uwięziony pod wieżą ([[Sesja 39 - Tajemnice Wyspy Złotego Serca]]): zmuszony do dźwigania na barkach ciężaru [[Praxys]], tkwił na samym dnie morza ([[Sesja 70 - Audiencja u Pani Snów]]).
 

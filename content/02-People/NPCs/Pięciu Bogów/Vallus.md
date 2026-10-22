@@ -8,19 +8,19 @@ image_prompt: young adult female, regal bearing, Greek goddess, slender build, t
 _Królowa Mytros, dawna Bogini Mądrości i jedna z bóstw Piątki; w rzeczywistości brązowa smoczyca [[Tysophale]]. Po abdykacji męża, [[Acastus|Acastusa]], przejęła koronę i rządzi miastem wraz z coraz ważniejszą radą._
 
 ## Opis
-Królowa Mytros, bogini mądrości i najstarsza córka [[Mytros (Bogini)|Mytros]]. <!-- UNSOURCED -->
-Niegdyś podróżowała daleko, badając ruiny i zbierając wiedzę. <!-- UNSOURCED -->
+Królowa Mytros, bogini mądrości i najstarsza córka [[Mytros (Bogini)|Mytros]].
+Niegdyś podróżowała daleko, badając ruiny i zbierając wiedzę.
 Jest siostrą [[Kyrah]] i dzieckiem [[Balmytria|Balmytrii]], które otrzymało moc tytanów ([[Sesja 75 - Koniec Przysięgi]]); jest w miarę spokrewniona z [[Orion Xul|Orionem]] ([[Sesja 84 - Świt Nowej Ery]]). Na Igrzyskach nosiła szaty z błyszczącego błękitu i srebra.
 
 ## Osobowość
-*   **Próżna:** Nigdy nie pokazuje się bez wykwintnych insygniów królewskich i przegląda się w srebrnym zwierciadle. Rozumie wagę pozorów w polityce. <!-- UNSOURCED -->
-*   **Bystra:** Niezwykle spostrzegawcza, podejrzewana o czytanie w myślach. Rozpoznaje kłamstwo i wymusza prawdę spojrzeniem. <!-- UNSOURCED -->
+*   **Próżna:** Nigdy nie pokazuje się bez wykwintnych insygniów królewskich i przegląda się w srebrnym zwierciadle. Rozumie wagę pozorów w polityce.
+*   **Bystra:** Niezwykle spostrzegawcza, podejrzewana o czytanie w myślach. Rozpoznaje kłamstwo i wymusza prawdę spojrzeniem.
 *   **Pogardliwa wobec męża:** Nazywała [[Egida Mytros|Egidę Mytros]] pomnikiem pychy Acastusa i nie kryła pogardy dla jego „zabawek” ([[Sesja 55 - Egida Mytros]]).
 
-"Arogancja może dotknąć nawet bardzo mądrych. Wierzcie mi — poślubiłam Acastusa." <!-- UNSOURCED -->
+"Arogancja może dotknąć nawet bardzo mądrych. Wierzcie mi — poślubiłam Acastusa."
 
 ## Historia
-Jedna z bogiń Piątki ([[Sesja 75 - Koniec Przysięgi]]), żona Acastusa i władczyni Mytros ([[Sesja 30 - Zakończenie Igrzysk]]). Małżeństwo polityczne z 478 CE, nienawidzą się. Działa blisko z kapłanami, by podtrzymać wiarę w Piątkę. <!-- UNSOURCED -->
+Jedna z bogiń Piątki ([[Sesja 75 - Koniec Przysięgi]]), żona Acastusa i władczyni Mytros ([[Sesja 30 - Zakończenie Igrzysk]]). Małżeństwo polityczne z 478 CE, nienawidzą się. Działa blisko z kapłanami, by podtrzymać wiarę w Piątkę.
 
 W [[Sesja 13 - Wezwani przez Króla]] wraz z siostrą [[Kyrah]] twierdziła, że może powstrzymać burzę, jeśli uda się odzyskać instrumenty Notos. W [[Sesja 14 - Burza nad Mytros]] pomogła w rytuale powstrzymania burzy. Wyznała, że żałuje małżeństwa z [[Acastus|Acastusem]], zdradziła, że na [[Wyspa Yonder|Yonder]] jest starożytna biblioteka, która może pomóc Arevonowi znaleźć drogę do domu, i zleciła bohaterom zadania poboczne, w tym oczyszczenie Mytros z korupcji i rozwiązanie problemu targu niewolników.
 
@@ -41,7 +41,7 @@ W [[Sesja 84 - Świt Nowej Ery]] przejęła koronę [[Mytros]] po abdykacji [[Ac
 ## Prawdziwa tożsamość: Tysophale
 W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Vallus jest w rzeczywistości **[[Tysophale]]** — brązową smoczycą.
 
-Niegdyś była wierzchowcem [[Telamok Arkelander|Telamoka Arkelandera]], uznana po Pierwszej Wojnie za zaginioną. Nie zaginęła: przez cały ten czas siedziała na tronie [[Mytros]]. <!-- UNSOURCED -->
+Niegdyś była wierzchowcem [[Telamok Arkelander|Telamoka Arkelandera]], uznana po Pierwszej Wojnie za zaginioną. Nie zaginęła: przez cały ten czas siedziała na tronie [[Mytros]].
 
 Tajemnicę utrzymywała klauzula wpisana w [[Przysięga Pokoju|Przysięgę Pokoju]]: smocze pochodzenie Nowych Bogów oraz źródło ich boskich domen miały pozostać w ukryciu, a wraz z wygaśnięciem Przysięgi bogowie mieli zwrócić skradzione portfolio. Domeny nigdy nie należały do nich — wykradła je Tytanom srebrna smoczyca [[Balmytria]], przegrywając celowo siódmą partię Królewskiej Gry i płacąc stawkę własnym życiem ([[09 Gra Bogów|Gra Bogów]]).
 

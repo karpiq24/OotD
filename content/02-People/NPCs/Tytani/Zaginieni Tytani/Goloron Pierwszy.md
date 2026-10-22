@@ -4,7 +4,7 @@ title: Goloron Pierwszy
 
 ![Placeholder](../../../../assets/placeholder.webp)
 
-_Tytan Mądrości_ <!-- UNSOURCED -->
+_Tytan Mądrości_
 
 ## Historia
 Jedno z ośmiorga pierwotnych Tytanów, dzieci [[Thylea|Thylei]] i [[Kentimane|Kentimane'a]]. Padł ofiarą Bliźniąt: w wizji z [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] ukazano go ukrytego na wyspie, na której powstało [[Królestwo Syren]].

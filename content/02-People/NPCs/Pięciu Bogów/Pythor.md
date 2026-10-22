@@ -8,26 +8,26 @@ image_prompt: adult male, god of battle, very muscular build, long and thick wav
 _Dawny Bóg Bitwy, jeden z [[Pięciu Bogów]] i były król [[Estoria|Estorii]]; w rzeczywistości brązowy smok [[Raspytrion]], który po pęknięciu Przysięgi Pokoju stracił boską moc. Tron zostawił córce [[Anora|Anorze]], a po wojnie wędruje z synem po Thylei; dla mieszkańców pozostaje Bogiem Bitwy._
 
 ## Opis
-Pythor był potężnym bóstwem, które przed wiekami obaliło tyrana [[Lyssis Arkelander|Lyssisa Arkelandera]] (w 330 CE) i objęło rządy w [[Estoria|Estorii]]. <!-- UNSOURCED -->
-Wygląda jak wysoki, rudowłosy mężczyzna dzierżący mithralowy topór. Choć wciąż budzi szacunek swoją posturą, lata smutku i pijaństwa przyćmiły jego dawną chwałę. <!-- UNSOURCED -->
+Pythor był bóstwem, które przed wiekami obaliło tyrana [[Lyssis Arkelander|Lyssisa Arkelandera]] (w 330 CE) i objęło rządy w [[Estoria|Estorii]].
+Wygląda jak wysoki, rudowłosy mężczyzna dzierżący mithralowy topór. Choć wciąż budzi szacunek swoją posturą, lata smutku i pijaństwa przyćmiły jego dawną chwałę.
 
 Na Wielkich Igrzyskach wyglądał lepiej niż kiedykolwiek: dzikie włosy i brodę miał okiełznane, a mięśnie naoliwione ([[Sesja 25 - Inauguracja Wielkich Igrzysk]]). Potrafi też przyjmować inną postać niż normalna ([[Sesja 49 - Wielkie Gęsie Powstanie]]). Jest synem [[Balmytria|Balmytrii]] i [[Volkan|Volkana]], bratem [[Kyrah]] i [[Narsus|Narsusa]] ([[Sesja 75 - Koniec Przysięgi]], [[Sesja 61 - Yala, Arezja i Żółw]]), ojcem [[Orion Xul|Oriona]] i [[Anora|Anory]].
 
 ## Mąż Hexii
-Niegdyś związał się z [[Hexia|Hexią]], zieloną smoczycą. Porzucił swoją smoczą żonę, czego ona nigdy mu nie wybaczyła. <!-- UNSOURCED -->
-Hexia zazdrośnie poświęciła życie na niszczenie szczęścia Pythora, porywając i mordując jego kochanki i dzieci. <!-- UNSOURCED -->
+Niegdyś związał się z [[Hexia|Hexią]], zieloną smoczycą. Porzucił swoją smoczą żonę, czego ona nie wybaczała mu przez pięć wieków.
+Hexia zazdrośnie poświęciła życie na niszczenie szczęścia Pythora, porywając i mordując jego kochanki i dzieci.
 
 W [[Sesja 31 - Wyprawa na Themis]] opowiedział, jak amazonki przegnały go z Themis, gdy próbował tam znaleźć żonę. W [[Sesja 64 - Pieśń dla Smoczycy]] przyznał, że w świetle prastarych praw technicznie wciąż są z Hexią małżeństwem. Po pięciuset latach pogodzili się w [[Sesja 84 - Świt Nowej Ery]].
 
 ## Osobowość
-*   **Kochliwy:** Zakochuje się w każdej pięknej śmiertelniczce. Jest ojcem niezliczonych półbogów, ale nie bierze za nich odpowiedzialności (z wyjątkiem [[Anora|Anory]]). <!-- UNSOURCED -->
-*   **Waleczny:** Szybko zgłasza się do walki na pierwszej linii. Wierzył, że jego dni chwały minęły. <!-- UNSOURCED -->
+*   **Kochliwy:** Zakochuje się w każdej pięknej śmiertelniczce. Jest ojcem niezliczonych półbogów, ale nie bierze za nich odpowiedzialności (z wyjątkiem [[Anora|Anory]]).
+*   **Waleczny:** Szybko zgłasza się do walki na pierwszej linii. Wierzył, że jego dni chwały minęły.
 *   **Pijak:** W [[Sesja 54 - Wyznanie Chondrusa]] był pijany i z trudem skrywał dumę mieszającą się z rozpaczą. Po wojnie alkoholu nie odstawił (próba całkowitej abstynencji skończyła się szybko), ale przestał zalewać się na umór ([[Sesja 84 - Świt Nowej Ery]]).
 
 ## Historia
-"Odsuń się, siostro. Jeśli to pójdzie źle, możesz jutro prawić kazania moim zwłokom." — do [[Vallus]]. <!-- UNSOURCED -->
+"Odsuń się, siostro. Jeśli to pójdzie źle, możesz jutro prawić kazania moim zwłokom." — do [[Vallus]].
 
-Przed kampanią, jako król [[Estoria|Estorii]], był związany [[Przysięga Pokoju|Przysięgą Pokoju]], która zabraniała mu bezpośredniej walki z Tytanami. Gdy [[Sydon]] zażądał ofiary z jego córki, [[Anora|Anory]], Pythor nie mógł ani sprzeciwić się Tytanowi, ani pozwolić na śmierć dziecka; jego jedyną nadzieją byli Wybrańcy Wyroczni. <!-- UNSOURCED -->
+Przed kampanią, jako król [[Estoria|Estorii]], był związany [[Przysięga Pokoju|Przysięgą Pokoju]], która zabraniała mu bezpośredniej walki z Tytanami. Gdy [[Sydon]] zażądał ofiary z jego córki, [[Anora|Anory]], Pythor nie mógł ani sprzeciwić się Tytanowi, ani pozwolić na śmierć dziecka; jego jedyną nadzieją byli Wybrańcy Wyroczni.
 
 W [[Sesja 3 - Skradziony Róg]] i [[Sesja 5 - Skała Estora]] mowa jest o planowanej ofierze z córki króla Pythora. W [[Sesja 7 - Uratować Księżniczkę]] po uratowaniu Anory przekazał [[Orion Xul|Orionowi]] swój legendarny [[Młot Pythora|Młot]] i zadanie pokonania [[Hexia|Hexii]].
 
@@ -46,16 +46,15 @@ W [[Sesja 84 - Świt Nowej Ery]] okazało się, że tron [[Estoria|Estorii]] zos
 ## Prawdziwa tożsamość: Raspytrion
 W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Pythor jest w rzeczywistości **[[Raspytrion|Raspytrionem]]** — brązowym smokiem, niegdyś zaprzysiężonym [[Adonis Neurdagon|Adonisowi Neurdagonowi]], synem [[Sybolkorax|Sybolkoraxa]] (czyli [[Volkan|Volkana]]) i srebrnej smoczycy [[Balmytria|Balmytrii]].
 
-Stawia to w nowym świetle jego małżeństwo z zieloną smoczycą [[Hexia|Hexią]]: nigdy nie było to mezalians boga ze smokiem, lecz związek dwojga smoków. <!-- UNSOURCED -->
+Stawia to w nowym świetle jego małżeństwo z zieloną smoczycą [[Hexia|Hexią]]: nigdy nie było to mezalians boga ze smokiem, lecz związek dwojga smoków.
 
 Tajemnicę utrzymywała klauzula wpisana w [[Przysięga Pokoju|Przysięgę Pokoju]]: smocze pochodzenie Nowych Bogów oraz źródło ich boskich domen miały pozostać w ukryciu, a wraz z wygaśnięciem Przysięgi bogowie mieli zwrócić skradzione portfolio. Domeny nigdy nie należały do nich — wykradła je Tytanom [[Balmytria]] fortelem podczas Królewskiej Gry, przegrywając celowo siódmą partię i płacąc stawkę własnym życiem ([[09 Gra Bogów|Gra Bogów]]).
 
 Gdy [[Felicjan Janus Twardowski|Felicjan]] wypowiedział treść klauzuli na głos, Przysięga pękła, a domeny wróciły do [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Pythor przeobraził się w smoka na pokładzie [[Ultros|Ultrosa]] i walczył w Bitwie o [[Mytros]] jako [[Raspytrion]]. W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] został ciężko raniony glewią [[Sydon|Sydona]], a w [[Sesja 83 - Zmierzch Ery Tytanów]] uderzenie [[Kentimane|Kentimane'a]] strąciło go z nieba (patrz [[Raspytrion]]).
 
-Walczył bez boskiej mocy, ale wreszcie bez ograniczeń Przysięgi, która przez wieki zabraniała mu stanąć naprzeciw Tytanów. <!-- UNSOURCED -->
+Walczył bez boskiej mocy, ale wreszcie bez ograniczeń Przysięgi, która przez wieki zabraniała mu stanąć naprzeciw Tytanów.
 
-**Uwaga: to nie znaczy, że Pythor nigdy nie był bogiem.** Domena bitwy była w jego posiadaniu realnie i nieprzerwanie przez cztery wieki — kradzione portfolio nie przestaje działać dlatego, że zostało ukradzione. Pythor **był** bogiem i **przestał** nim być w [[Sesja 75 - Koniec Przysięgi|sesji 75]]; to detronizacja, nie demaskacja. Tym samym [[Orion Xul|Orion]] jest półbogiem w pełnym tego słowa znaczeniu: został spłodzony przez dzierżyciela domeny, a [[Sesja 12 - Furia Boga Bitwy|w sesji 12]] Pythor spalił część tej samej boskiej mocy, żeby go wskrzesić — i nigdy jej nie odzyskał. <!-- UNSOURCED -->
+**Pythor był bogiem i przestał nim być w [[Sesja 75 - Koniec Przysięgi|sesji 75]].** W [[Sesja 12 - Furia Boga Bitwy|sesji 12]] Pythor poświęcił część swojej boskiej mocy, żeby wskrzesić [[Orion Xul|Oriona]].
 
-Sprawa nigdy nie została między nimi przepracowana. Po śmierci [[Sydon|Sydona]] i [[Lutheria|Lutherii]] odzyskane przez nich domeny są nieobsadzone i nikt — łącznie z byłymi bogami — nie wie, jak się po nie sięga. <!-- UNSOURCED -->
+Po śmierci [[Sydon|Sydona]] i [[Lutheria|Lutherii]] odzyskane przez nich domeny są nieobsadzone i nikt nie wie, jak się po nie sięga; byli bogowie wskazują na [[Mojry]].
 
-**Drużyna postanowiła nie ujawniać tego publicznie.** Dla mieszkańców Thylei Pythor pozostaje Bogiem Bitwy. <!-- UNSOURCED -->
