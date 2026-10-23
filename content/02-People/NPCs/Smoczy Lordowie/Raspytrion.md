@@ -2,7 +2,7 @@
 title: Raspytrion
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Raspytrion](../../../assets/people/raspytrion.webp)
 
 _Brązowy smok, niegdyś zaprzysiężony [[Adonis Neurdagon|Adonisowi Neurdagonowi]]; prawdziwa postać boga [[Pythor|Pythora]], który po pęknięciu Przysięgi Pokoju stracił boską moc. W Bitwie o Mytros wierzchowiec [[Orion Xul|Oriona]]._
 

@@ -2,7 +2,7 @@
 title: Iolaah
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Iolaah](../../../assets/people/iolaah.webp)
 
 _Syrena/Merfolk, córka [[Hywin|Hywina]]; po wojnie wróciła do swojego ludu._
 

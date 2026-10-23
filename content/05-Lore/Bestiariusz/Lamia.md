@@ -2,7 +2,7 @@
 title: Lamia
 ---
 
-![Placeholder](../../assets/placeholder.webp)
+![Lamia](../../assets/people/lamia.webp)
 
 _Przerażająca istota w służbie Lutherii, atakująca jadowitym dotykiem; zginęła od włóczni Oriona na Targu Minotaurów._
 

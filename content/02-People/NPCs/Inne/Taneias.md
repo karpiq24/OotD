@@ -2,7 +2,7 @@
 title: Taneias
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Taneias](../../../assets/people/taneias.webp)
 
 _Doświadczony myśliwy i zwiadowca zatrudniony przez [[Kyrah]]._
 

@@ -2,7 +2,7 @@
 title: Dedal
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Dedal](../../../assets/people/dedal.webp)
 
 _Wynalazca z samotnej wyspy na Zapomnianym Morzu, po wojnie nauczyciel artificerstwa w [[Akademia Mytros|Akademii Mytros]]._
 

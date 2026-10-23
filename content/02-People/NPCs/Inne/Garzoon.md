@@ -5,7 +5,7 @@ gender: Mężczyzna
 occupation: Strażnik Kuźni w Praxys
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Garzoon](../../../assets/people/garzoon.webp)
 
 _Cyklop, strażnik kuźni w Praxys, zabity przez Orestesa._
 

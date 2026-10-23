@@ -2,7 +2,7 @@
 title: Apasia
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Apasia](../../../assets/people/apasia.webp)
 
 _Smoczy Lord Acastusa_
 

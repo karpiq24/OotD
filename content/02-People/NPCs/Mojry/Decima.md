@@ -2,7 +2,7 @@
 title: Decima
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Decima](../../../assets/people/decima.webp)
 
 _Jedna z trzech [[Mojry|Mojr]], odmierzająca nić losu._
 

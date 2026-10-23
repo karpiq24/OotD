@@ -2,7 +2,7 @@
 title: Fekaliusz
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Fekaliusz](../../../assets/people/fekaliusz.webp)
 
 _Żywiołak fekaliów, który zatykał kanały Mytros._
 

@@ -2,7 +2,7 @@
 title: Skathon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Skathon](../../../assets/people/skathon.webp)
 
 _Elf z nieumarłej załogi Ultrosa, historyk i naukowiec. Po wyborze Orestesa odszedł wraz z resztą załogi._
 

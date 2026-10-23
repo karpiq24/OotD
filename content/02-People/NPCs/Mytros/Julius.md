@@ -2,7 +2,7 @@
 title: Julius
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Julius](../../../assets/people/julius.webp)
 
 _Właściciel tawerny The Satyr's Tail._
 

@@ -5,7 +5,7 @@ gender: Mężczyzna
 occupation: Król druidów centaurów
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Agrius](../../../assets/people/agrius.webp)
 
 _Król druidów centaurów, który podobno posiada sekret idealnej oliwki._
 

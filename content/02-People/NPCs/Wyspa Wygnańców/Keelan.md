@@ -2,7 +2,7 @@
 title: Keelan
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Keelan](../../../assets/people/keelan.webp)
 
 _Wygnaniec na Wyspie Wygnańców, który mianował siebie sędzią i katem współwięźniów. Zdemaskowany jako rytualny morderca i ścięty przez [[Orestes|Orestesa]]._
 

@@ -8,7 +8,7 @@ aliases:
 image_prompt: elderly male god, mythological thunder deity, immensely muscular build, tanned skin, glowing red eyes, glowing red third eye on the forehead, stern expression, deep wrinkles, wild flowing thick white hair, large voluminous white beard and mustache, wearing a draped white toga cloth, thick solid gold bicep armbands, heavy gold wrist bracers, wide gold belt, gold circular medallions on the chest, ancient Greek mythology style
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Sydon](../../../assets/people/sydon.webp)
 
 _Władca Burz i Pan Oceanów, jeden z Bliźniaczych Tytanów. Zginął w [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|sesji 80]], pokonany w bitwie o Mytros._
 

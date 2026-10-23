@@ -2,7 +2,7 @@
 title: Fryxon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Fryxon](../../../assets/people/fryxon.webp)
 
 _Satyr-muzyk w [[Satyrzy Ogon]]._
 

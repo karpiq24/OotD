@@ -2,7 +2,7 @@
 title: Nera
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Nera](../../../assets/people/nera.webp)
 
 _Złodziejka i członkini Kultu Węża._
 

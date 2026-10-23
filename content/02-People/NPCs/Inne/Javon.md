@@ -2,7 +2,7 @@
 title: Javon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Javon](../../../assets/people/javon.webp)
 
 _Myśliwy zatrudniony przez [[Kyrah]] do polowania na [[Wielki Dzik|Wielkiego Dzika]]._
 

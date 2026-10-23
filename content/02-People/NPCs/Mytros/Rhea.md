@@ -2,7 +2,7 @@
 title: Rhea
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Rhea](../../../assets/people/rhea.webp)
 
 _Czarodziejka pracująca dla Moxeny._
 

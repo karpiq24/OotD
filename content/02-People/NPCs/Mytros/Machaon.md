@@ -2,7 +2,7 @@
 title: Machaon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Machaon](../../../assets/people/machaon.webp)
 
 _Filozof z Akademii, autor "Paradoxia Machaona"._
 

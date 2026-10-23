@@ -5,6 +5,7 @@ aliases:
 image_prompt: large alien Ultroloth figure with smooth dark gray skin, an elongated featureless head, slender limbs, wearing flowing dark robes, levitating, radiating an aura of dread and authority, surrounded by small ant-like demons. Dark fantasy style.
 ---
 
+![The Warden](../../../assets/people/the_warden.webp)
 _Zarządca Wyspy Krzywoprzysięstwa._
 
 ## Opis

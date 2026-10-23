@@ -2,7 +2,7 @@
 title: Bront
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Bront](../../../assets/people/bront.webp)
 
 _Cyklop, wyznawca [[Sydon|Sydona]], uwolniony z więzienia Kieł; po wojnie kowal przy kowadle [[Mithralowa Kuźnia|Mithralowej Kuźni]]._
 

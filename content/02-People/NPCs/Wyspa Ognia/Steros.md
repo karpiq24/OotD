@@ -2,7 +2,7 @@
 title: Steros
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Steros](../../../assets/people/steros.webp)
 
 _Jancan, syn Bronta, kowal z Wyspy Ognia i dowódca Egidy Mytros, poległ w Bitwie o Mytros._
 

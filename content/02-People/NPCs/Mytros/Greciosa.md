@@ -4,7 +4,7 @@ aliases:
   - Grecosia
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Greciosa](../../../assets/people/greciosa.webp)
 
 _Złodziejka i członkini Kultu Węża; po rewolucji na Themis wyszła z pałacu u boku Amazonek._
 

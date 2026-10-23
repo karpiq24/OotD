@@ -2,7 +2,7 @@
 title: Sybolkorax
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Sybolkorax](../../../assets/people/sybolkorax.webp)
 
 _Brązowy smok, partner [[Balmytria|Balmytrii]] i smok [[Rizon Phobas|Rizona Phobasa]]; prawdziwa postać boga [[Volkan|Volkana]], który po pęknięciu Przysięgi Pokoju stracił boską moc. Po wojnie osiadł z [[Orestes|Orestesem]] w [[Orestessos Zythikē]]._
 

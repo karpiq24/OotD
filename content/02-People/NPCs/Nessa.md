@@ -2,7 +2,7 @@
 title: Nessa
 ---
 
-![Placeholder](../../assets/placeholder.webp)
+![Nessa](../../assets/people/nessa.webp)
 
 _Centaurzyca z [[Przeklęte Plemię|Przeklętego Plemienia]], kuzynka [[Pholon|Pholona]]._
 

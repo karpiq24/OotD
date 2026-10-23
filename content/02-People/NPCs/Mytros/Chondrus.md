@@ -2,7 +2,7 @@
 title: Chondrus
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Chondrus](../../../assets/people/chondrus.webp)
 
 _Były doradca króla Acastusa i sługa Lutherii; zabity przez Versira w Sesji 81._
 

@@ -2,7 +2,7 @@
 title: Zorin
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Zorin](../../../assets/people/zorin.webp)
 
 _Zgorzkniały alchemik._
 

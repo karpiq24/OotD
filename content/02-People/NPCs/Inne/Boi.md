@@ -6,7 +6,7 @@ occupation: Obsługa windy
 image_prompt:
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Boi](../../../assets/people/boi.webp)
 
 _Obsługa windy_
 

@@ -2,7 +2,7 @@
 title: Rutger
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Rutger](../../../assets/people/rutger.webp)
 
 _Krasnolud z załogi Quinna, rozbitek z innego świata na pokładzie Ultrosa._
 

@@ -4,7 +4,7 @@ aliases:
   - Baltia Rhuli
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Baltia](../../../assets/people/baltia.webp)
 
 _Dawna członkini załogi Arevona, która po katastrofie osiadła na Themis._
 

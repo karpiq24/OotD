@@ -2,7 +2,7 @@
 title: Yala
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Yala](../../../../assets/people/yala.webp)
 
 _Córka Sydona i Lutherii, ostatnie żyjące dziecko Tytanów. Po upadku Kentimane'a pozostała strażniczką pokoju na wyspie Amazonek._
 

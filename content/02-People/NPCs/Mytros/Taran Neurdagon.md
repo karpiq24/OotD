@@ -4,7 +4,7 @@ aliases:
   - Taran
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Taran Neurdagon](../../../assets/people/taran_neurdagon.webp)
 
 _Potężny kupiec i głowa rodu Neurdagon._
 

@@ -5,7 +5,7 @@ gender: Mężczyzna
 occupation: Konserwator Powierzchni Płaskich w Praxys
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Krok](../../../assets/people/krok.webp)
 
 _Cyklop-Sprzątacz_
 

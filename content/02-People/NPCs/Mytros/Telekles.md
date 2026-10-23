@@ -2,7 +2,7 @@
 title: Telekles
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Telekles](../../../assets/people/telekles.webp)
 
 _Kupiec zaopatrujący Gniazdo._
 

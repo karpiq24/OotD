@@ -4,7 +4,7 @@ aliases:
   - Keledon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Keledone](../../../assets/people/keledone.webp)
 
 _Mechaniczny posłaniec, opisany w książce Volkana._
 

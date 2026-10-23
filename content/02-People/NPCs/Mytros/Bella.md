@@ -2,7 +2,7 @@
 title: Bella
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Bella](../../../assets/people/bella.webp)
 
 _Konkubina króla Acastusa_
 

@@ -2,7 +2,7 @@
 title: Vorena
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Vorena](../../../assets/people/vorena.webp)
 
 _Ochroniarka w Siren's Roost._
 

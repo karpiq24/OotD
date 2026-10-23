@@ -4,7 +4,7 @@ aliases:
   - Mechaniczny anioł
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Kabira Nasir](../../../assets/people/kabira_nasir.webp)
 
 _Mechaniczny Anioł, Kat_
 

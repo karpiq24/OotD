@@ -2,7 +2,7 @@
 title: Silenos
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Silenos](../../../assets/people/silenos.webp)
 
 _Wuj **[[Orestes|Orestesa]]**._
 

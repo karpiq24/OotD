@@ -2,7 +2,7 @@
 title: Corinna
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Corinna](../../../assets/people/corinna.webp)
 
 _Córka Thericlesa z [[Estoria]], towarzyszka drużyny i dowódczyni legionu w Bitwie o Mytros_
 

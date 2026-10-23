@@ -2,7 +2,7 @@
 title: Helios
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Helios](../../../assets/people/helios.webp)
 
 _Starożytne bóstwo słońca, ojciec cyklopów, zmuszony przez własną przysięgę do paktu z Sydonem; po wygnaniu i uwięzieniu, uwolniony z Wyspy Krzywoprzysięstwa po wygaśnięciu Przysięgi Pokoju, walczył w obronie Mytros._
 

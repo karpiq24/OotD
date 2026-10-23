@@ -2,7 +2,7 @@
 title: Focabe
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Focabe](../../../assets/people/focabe.webp)
 
 _Amazonka z plemienia Lwicy._
 

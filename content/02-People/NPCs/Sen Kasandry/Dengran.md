@@ -2,7 +2,7 @@
 title: Dengran
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Dengran](../../../assets/people/dengran.webp)
 
 _Łotrzyk z załogi Quinna, rozbitek z innego świata na pokładzie Ultrosa._
 

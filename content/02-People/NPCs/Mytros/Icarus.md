@@ -2,7 +2,7 @@
 title: Icarus
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Icarus](../../../assets/people/icarus.webp)
 
 _Potężny srebrny smok, niegdyś wierzchowiec króla Acastusa. Zmutowany w bitwie o Mytros, zginął w kolosseum w [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa|sesji 77]]._
 

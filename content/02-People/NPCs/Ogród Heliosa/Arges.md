@@ -2,7 +2,7 @@
 title: Arges
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Arges](../../../assets/people/arges.webp)
 
 _Dowódca falangi cyklopów Heliosa._
 

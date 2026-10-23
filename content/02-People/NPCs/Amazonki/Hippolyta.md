@@ -4,7 +4,7 @@ aliases:
   - Hipolita
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Hippolyta](../../../assets/people/hippolyta.webp)
 
 _Przywódczyni plemienia Lwicy, po śmierci [[Darien]] regentka [[Themis]]._
 

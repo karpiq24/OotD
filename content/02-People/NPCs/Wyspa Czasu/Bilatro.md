@@ -2,7 +2,7 @@
 title: Bilatro
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Bilatro](../../../assets/people/bilatro.webp)
 
 _Starsza Sfinks z Wyspy Czasu_
 

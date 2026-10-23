@@ -2,7 +2,7 @@
 title: Bullbug
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Bullbug](../../../assets/people/bullbug.webp)
 
 _Heroiczna minotaurzyca._
 

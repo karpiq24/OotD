@@ -2,7 +2,7 @@
 title: Davos
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Davos](../../../assets/people/davos.webp)
 
 _Kwatermistrz Ultrosa, krasnolud z nieumarłej załogi. Po wyborze Orestesa opuścił statek._
 

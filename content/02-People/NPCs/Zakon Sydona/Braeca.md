@@ -2,7 +2,7 @@
 title: Braeca
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Braeca](../../../assets/people/braeca.webp)
 
 _Kapłan Zakonu Sydona w niebieskich szatach, spotkany w Świątyni Wyroczni._
 

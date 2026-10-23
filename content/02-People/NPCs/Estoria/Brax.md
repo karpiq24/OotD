@@ -2,7 +2,7 @@
 title: Brax
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Brax](../../../assets/people/brax.webp)
 
 _Właściciel [[Super Bar|Super Baru]] i kuzyn [[Orestes|Orestesa]]; po Bitwie o Mytros prowadzi prowizoryczny Super Bar w ruinach miasta_
 

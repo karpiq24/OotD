@@ -5,7 +5,7 @@ aliases:
   - Blemysy
 ---
 
-![Placeholder](../../assets/placeholder.webp)
+![Blemysi](../../assets/people/blemysi.webp)
 
 _Monstrualne istoty, góry drgającego mięśnia, które chwytają przeciwników w żelazne uściski._
 

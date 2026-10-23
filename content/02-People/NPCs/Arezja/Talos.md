@@ -2,7 +2,7 @@
 title: Talos
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Talos](../../../assets/people/talos.webp)
 
 _Legendarny konstrukt, strażnik Arezji._
 

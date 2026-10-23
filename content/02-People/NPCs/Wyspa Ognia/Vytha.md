@@ -2,7 +2,7 @@
 title: Vytha
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Vytha](../../../assets/people/vytha.webp)
 
 _Królowa plemienia Łamaczy Fal na Wyspie Ognia._
 

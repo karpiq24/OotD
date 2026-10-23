@@ -8,7 +8,7 @@ character_personality:
 voice_characteristics:
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Lyra](../../../assets/people/lyra.webp)
 
 _Wojowniczka towarzysząca [[Bohaterowie Przepowiedni|Bohaterom Przepowiedni]]_
 

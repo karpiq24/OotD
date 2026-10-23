@@ -5,7 +5,7 @@ aliases:
   - Xander Huorath
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Xander](../../../assets/people/xander.webp)
 
 _Pierwszy przywódca Smoczych Lordów, zamordowany przez Karpathosa. Jego szczątki spoczywają w Nekropolii w Telamok._
 

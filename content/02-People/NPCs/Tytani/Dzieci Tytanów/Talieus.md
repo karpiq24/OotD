@@ -2,7 +2,7 @@
 title: Talieus
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Talieus](../../../../assets/people/talieus.webp)
 
 _Syn Sydona i Lutherii, ucieleśnienie gniewu i hedonizmu. Zginął z ręki Oriona w Latającej Fortecy Smoczych Lordów._
 

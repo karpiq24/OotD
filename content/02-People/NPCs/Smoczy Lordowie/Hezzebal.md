@@ -2,7 +2,7 @@
 title: Hezzebal
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Hezzebal](../../../assets/people/hezzebal.webp)
 
 _Mosiężny smok, wierzchowiec Gregora Huoratha; zniszczony w Lustrzanym Więzieniu._
 

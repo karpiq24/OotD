@@ -4,7 +4,7 @@ gender: Kobieta
 occupation: Dowódczyni krasnoludów
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Falana](../../../assets/people/falana.webp)
 
 _Dowódczyni krasnoludów w Bitwie o Mytros._
 

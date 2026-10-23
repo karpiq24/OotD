@@ -2,7 +2,7 @@
 title: Argyn
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Argyn](../../../assets/people/argyn.webp)
 
 _Majestatyczna srebrna smoczyca, ukochana Gaiusa i jego wierzchowiec. Zginęła na Wyspie Yonder._
 

@@ -2,7 +2,7 @@
 title: Varkon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Varkon](../../../assets/people/varkon.webp)
 
 _Kapitan bandytów i współpracownik Kultu Węża._
 

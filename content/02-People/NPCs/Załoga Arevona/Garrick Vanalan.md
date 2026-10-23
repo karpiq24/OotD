@@ -4,7 +4,7 @@ aliases:
   - Garrick
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Garrick Vanalan](../../../assets/people/garrick_vanalan.webp)
 
 _Gnom, pokładowy mag ocalałych z Eberronu, członek załogi Arevona._
 

@@ -2,7 +2,7 @@
 title: Charon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Charon](../../../assets/people/charon.webp)
 
 _Przewoźnik po rzece Styks_
 

@@ -2,7 +2,7 @@
 title: Damon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Damon](../../../assets/people/damon.webp)
 
 _Strażnik [[Nekropolia w Telamok|Nekropolii w Telamok]]._
 

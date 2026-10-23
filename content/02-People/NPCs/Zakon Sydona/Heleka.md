@@ -2,7 +2,7 @@
 title: Heleka
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Heleka](../../../assets/people/heleka.webp)
 
 _Zła morska wiedźma służąca Sydonowi, znana ze swojego okrucieństwa. Pokonana na arenie Wyspy Krzywoprzysięstwa._
 

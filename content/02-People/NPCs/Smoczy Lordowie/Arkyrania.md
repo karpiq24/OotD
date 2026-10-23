@@ -2,7 +2,7 @@
 title: Arkyrania
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Arkyrania](../../../assets/people/arkyrania.webp)
 
 _Brązowa smoczyca, niegdyś wierzchowiec [[Estor Arkelander|Estora Arkelandera]]; prawdziwa postać bogini [[Kyrah]], która po pęknięciu Przysięgi Pokoju straciła boską moc. Sojuszniczka drużyny w Bitwie o Mytros._
 

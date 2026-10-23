@@ -2,7 +2,7 @@
 title: Kartos
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Kartos](../../../assets/people/kartos.webp)
 
 _Oskarżony Androsfinks_
 

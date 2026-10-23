@@ -2,7 +2,7 @@
 title: Tolyphemus
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Tolyphemus](../../../assets/people/tolyphemus.webp)
 
 _Ślepy cyklop z [[Ogród Heliosa|Ogrodu Heliosa]], który usługiwał bohaterom podczas uczty._
 

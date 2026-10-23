@@ -2,6 +2,7 @@
 title: Chh'Krtak
 ---
 
+![Chh'Krtak](../../../assets/people/chh_krtak.webp)
 **Rasa:** Mosiężny Smok (młody)
 **Lokalizacja:** Ostatnio wspomniany na statku [[Ultros]] ([[Sesja 65 - Wyprawa w Otchłań]])
 **Powiązania:** [[Felicjan Janus Twardowski]], [[Jankor]] (były pan), [[Wyspa Ognia]]

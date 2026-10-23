@@ -2,7 +2,7 @@
 title: Chremon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Chremon](../../../assets/people/chremon.webp)
 
 _Zbiegły akolita ze Świątyni Lutherii._
 

@@ -2,7 +2,7 @@
 title: Ambrosia
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Ambrosia](../../../assets/people/ambrosia.webp)
 
 _Właścicielka luksusowego domu uciech Syrenie Gniazdo._
 

@@ -2,7 +2,7 @@
 title: Darok
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Darok](../../../assets/people/darok.webp)
 
 _Przywódca elfiego ruchu oporu na Wyspie Smoka, mnich-wojownik._
 

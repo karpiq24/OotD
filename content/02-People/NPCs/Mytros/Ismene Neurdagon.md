@@ -4,7 +4,7 @@ aliases:
   - Ismene
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Ismene Neurdagon](../../../assets/people/ismene_neurdagon.webp)
 
 _Córka Tarana Neurdagona, architektka Egidy Mytros i doradczyni króla Acastusa._
 

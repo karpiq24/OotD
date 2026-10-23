@@ -2,7 +2,7 @@
 title: Anora
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Anora](../../../assets/people/anora.webp)
 
 _Władczyni Estorii, córka [[Pythor|Pythora]], która przejęła tron po ojcu._
 

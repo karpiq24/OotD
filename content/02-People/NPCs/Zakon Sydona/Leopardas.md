@@ -6,7 +6,7 @@ occupation: Dowódca jeźdźców Sydona
 image_prompt: muscular adult male fantasy warrior with a stern and cold expression, short dark hair, sharp grey eyes, wearing heavily ornate Sydon-themed heavy plate armor with bronze and teal highlights, a dark teal cape, holding a spear. Greco-Roman mythological fantasy style.
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Leopardas](../../../assets/people/leopardas.webp)
 
 _Dowódca jeźdźców smoków z Zakonu Sydona. Zginął w sali tronowej pałacu w Mytros._
 

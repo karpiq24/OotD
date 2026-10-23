@@ -2,7 +2,7 @@
 title: Metron
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Metron](../../../assets/people/metron.webp)
 
 _Nawigator Ultrosa, potężnie otyły duch. Po wyborze Orestesa odszedł wraz z resztą załogi._
 

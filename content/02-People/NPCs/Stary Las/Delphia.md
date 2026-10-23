@@ -4,7 +4,7 @@ aliases:
   - Delphi
 ---
 
-![Delphia](../../../assets/placeholder.webp)
+![Delphia](../../../assets/people/delphia.webp)
 
 _Duch driady związany z masztem Ultrosa. Po wojnie odeszła ze statku._
 

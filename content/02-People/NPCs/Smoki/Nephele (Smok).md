@@ -4,7 +4,7 @@ aliases:
   - Matka Smoków
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Nephele (Smok)](../../../assets/people/nephele_smok.webp)
 
 _Potężna smoczyca, bezduszny klon Balmytrii._
 

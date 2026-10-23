@@ -2,6 +2,7 @@
 title: Democedes
 ---
 
+![Democedes](../../../assets/people/democedes.webp)
 ## Opis
 Woźnica rydwanu, uczestnik Wielkich Igrzysk.
 

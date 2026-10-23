@@ -2,7 +2,7 @@
 title: Despina
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Despina](../../../assets/people/despina.webp)
 
 _Prababka Felicjana, której dusza po wiekach zasiedliła ciało Nephele i odleciała w nieznane._
 

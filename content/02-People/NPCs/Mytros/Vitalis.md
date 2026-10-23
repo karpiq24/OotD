@@ -2,7 +2,7 @@
 title: Vitalis
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Vitalis](../../../assets/people/vitalis.webp)
 
 _Mędrzec z Wielkich Ogrodów, zwany "Vitalis Tłusty"._
 

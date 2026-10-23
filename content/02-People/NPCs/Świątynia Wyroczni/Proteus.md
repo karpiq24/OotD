@@ -2,7 +2,7 @@
 title: Proteus
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Proteus](../../../assets/people/proteus.webp)
 
 _Starszy opiekun [[Świątynia Wyroczni|Świątyni Wyroczni]] i lojalny towarzysz Wyroczni Versi._
 

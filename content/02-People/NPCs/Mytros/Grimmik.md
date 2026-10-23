@@ -2,7 +2,7 @@
 title: Grimmik
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Grimmik](../../../assets/people/grimmik.webp)
 
 _Emerytowany centurion i właściciel zbrojowni._
 

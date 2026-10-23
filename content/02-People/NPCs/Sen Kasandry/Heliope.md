@@ -2,7 +2,7 @@
 title: Heliope
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Heliope](../../../assets/people/heliope.webp)
 
 _Czarodziejka z załogi Quinna, rozbitek z innego świata na pokładzie Ultrosa._
 

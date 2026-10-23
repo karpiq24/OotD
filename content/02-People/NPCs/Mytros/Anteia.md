@@ -2,7 +2,7 @@
 title: Anteia
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Anteia](../../../assets/people/anteia.webp)
 
 _Przywódczyni Gniazda Zapomnianych._
 

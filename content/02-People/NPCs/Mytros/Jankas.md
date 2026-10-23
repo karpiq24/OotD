@@ -2,7 +2,7 @@
 title: Jankas
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Jankas](../../../assets/people/jankas.webp)
 
 _Minotaur zielarz z Gniazda Zapomnianych._
 

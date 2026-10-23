@@ -5,7 +5,7 @@ aliases:
   - Dziedziczka Sydona
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Chalcia](../../../../assets/people/chalcia.webp)
 
 _Córka Sydona i Lutherii, przebiegła obserwatorka. Zginęła w Praxys z ręki Versira._
 

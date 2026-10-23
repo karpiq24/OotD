@@ -2,7 +2,7 @@
 title: Hexia
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Hexia](../../../assets/people/hexia.webp)
 
 _Zielona smoczyca z Wyspy Smoka, niegdyś wierzchowiec Ochosa Arkelandera i małżonka Pythora._
 

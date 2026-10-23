@@ -2,7 +2,7 @@
 title: Alexandros
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Alexandros](../../../assets/people/alexandros.webp)
 
 _Smoczy Lord Acastusa_
 

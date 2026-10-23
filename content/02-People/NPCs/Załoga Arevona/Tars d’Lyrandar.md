@@ -6,7 +6,7 @@ aliases:
   - Tars d'Lyrandar
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Tars d’Lyrandar](../../../assets/people/tars_dlyrandar.webp)
 
 _Kapitan statku "Tranquility", półelf z Eberronu. Po wojnie został w Thylei._
 

@@ -4,7 +4,7 @@ aliases:
   - Północny Wiatr Zimy
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Boreas](../../../assets/people/boreas.webp)
 
 _Satyr, Północny Wiatr Zimy, jeden z Czterech Wiatrów, niegdyś przyjaciel Kyrah_
 

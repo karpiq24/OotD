@@ -4,7 +4,7 @@ aliases:
   - Mistrz Chalcodon
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Chalcodon](../../../assets/people/chalcodon.webp)
 
 _Filozof z Akademii, autor „Mathematika Chalcodona”._
 

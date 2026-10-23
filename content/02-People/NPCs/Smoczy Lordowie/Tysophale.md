@@ -2,7 +2,7 @@
 title: Tysophale
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Tysophale](../../../assets/people/tysophale.webp)
 
 _Brązowa smoczyca, wierzchowiec [[Telamok Arkelander|Telamoka Arkelandera]]; prawdziwa postać bogini [[Vallus]], królowej [[Mytros]]. Po pęknięciu Przysięgi Pokoju straciła boską moc i walczyła w Bitwie o Mytros jako sojuszniczka drużyny._
 

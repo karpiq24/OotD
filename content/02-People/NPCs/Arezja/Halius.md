@@ -2,7 +2,7 @@
 title: Halius
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Halius](../../../assets/people/halius.webp)
 
 _Kustosz Galerii Sztuki w Arezji._
 

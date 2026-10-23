@@ -2,7 +2,7 @@
 title: Patrea
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Patrea](../../../assets/people/patrea.webp)
 
 _Przywódczyni elfiego ruchu oporu na Wyspie Smoka._
 

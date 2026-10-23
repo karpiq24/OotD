@@ -5,7 +5,7 @@ aliases:
 image_prompt: young adult male, athletic muscular build, heroic ancient Greek warrior, long wavy blonde hair, strong jawline, wearing an ornate golden Corinthian helmet with a white plume, a sculpted golden muscle cuirass over a white tunic, a brown leather pteruges skirt, ornate golden greaves with swirling patterns, and leather sandals, a long flowing orange cape draped over his shoulders.
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Estor Arkelander](../../../assets/people/estor_arkelander.webp)
 
 _Pierwszy Smoczy Lord i generał Smoczych Lordów, dawny kapitan [[Ultros|Ultrosa]]; zniszczony przez Xiphos of Slaughter, przywrócony przez Lutherię i ostatecznie uśmiercony w jej sali tronowej._
 

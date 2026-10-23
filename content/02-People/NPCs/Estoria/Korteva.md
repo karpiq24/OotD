@@ -2,7 +2,7 @@
 title: Korteva
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Korteva](../../../assets/people/korteva.webp)
 
 _Przywódczyni bandytów działających w okolicach [[Woodhike]]; członkini [[Kult Węża|Kultu Węża]]._
 

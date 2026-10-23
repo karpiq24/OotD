@@ -2,7 +2,7 @@
 title: Hukar
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Hukar](../../../assets/people/hukar.webp)
 
 _Wódz centaurów z Mithralowej Kuźni, dowódca centaurów w Bitwie o Mytros._
 

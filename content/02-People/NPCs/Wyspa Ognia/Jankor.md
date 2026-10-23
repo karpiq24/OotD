@@ -2,7 +2,7 @@
 title: Jankor
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Jankor](../../../assets/people/jankor.webp)
 
 _Zmarły król plemienia Chodzących w Ogniu na Wyspie Ognia, wybraniec Sydona._
 

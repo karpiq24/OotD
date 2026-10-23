@@ -4,7 +4,7 @@ aliases:
   - Wilczy Lord
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Karpathos](../../../assets/people/karpathos.webp)
 
 _Smoczy Lord zwany Wilczym Lordem, pierwszy i jedyny król Arezji, zdrajca Smoczych Lordów_
 
