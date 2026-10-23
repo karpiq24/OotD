@@ -2,6 +2,7 @@
 title: Kyrah
 aliases:
   - Kyra
+  - Notos
 image_prompt: young adult female, beautiful ancient Greek goddess, slender build, olive skin, long wavy black hair styled in a braid, loose curls framing her face, captivating green eyes, light freckles across her nose, gentle smile, wearing a white chiton and a dark teal-green himation, adorned with ornate gold jewelry, golden Greek key armband, gold pendant necklace, golden hair clip, dangling gold earrings, anime art style.
 ---
 
@@ -24,6 +25,7 @@ Zwykle pogodna, w [[Sesja 67 - Zguba Estora|sesji 67]] była smutna i zdystansow
 ## Wcielenia i Alter Ego
 Kyrah często przyjmowała różne tożsamości, by podróżować wśród mieszkańców Thylei:
 
+- **Notos (Letni Wiatr)**: Tożsamość [[Nimfa z Thylei|nimfy]], którą Kyrah przyjęła, by założyć grupę [[Cztery Wiatry]]. Pod tą postacią szerzyła pokój i poezję w rejonie [[Zatoka Cerulańska|Zatoki Cerulańskiej]].
 - **Wędrowny Bard**: Często spotykana na drogach Thylei jako zwykła artystka, inspirująca innych do tworzenia muzyki.
 - **Smoczyca [[Arkyrania]]**: Jej prawdziwa postać (patrz niżej).
 
@@ -35,6 +37,7 @@ W przeszłości była blisko związana z istotami rasy Fey:
 - **[[Zephyrus]]**: Przez 150 lat łączyła ich głęboka więź i miłość. Podróżowali razem po wybrzeżach, dzieląc się sztuką i przygodami.
 - **[[Euria]]**: Odnalazła ją na jej samotnej górze i przekonała do wyruszenia w świat.
 
+Jako **Notos**, Kyrah była sercem i inicjatorką [[Cztery Wiatry|Czterech Wiatrów]], grupy bardów niosących przesłanie pokoju. Choć grupa ostatecznie się rozpadła pod ciężarem niepowodzeń jej członków, Kyrah pozostawała jedną z najbardziej wpływowych postaci w Thylei.
 
 Przed wiekami, u boku [[Sydon|Sydona]] i [[Estor Arkelander|Estora]], wypalała oddechem dziesiątki [[Gyganie|gyganów]] i centaurów, a potem porzuciła Estora ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|sesja 76]], [[Sesja 75 - Koniec Przysięgi|sesja 75]]).
 
