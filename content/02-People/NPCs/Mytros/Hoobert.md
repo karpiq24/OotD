@@ -6,7 +6,7 @@ aliases:
   - Hubert
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Hoobert](../../../assets/people/hoobert.webp)
 
 _Chowaniec Felicjana._
 

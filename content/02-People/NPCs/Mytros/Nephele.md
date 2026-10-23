@@ -2,7 +2,7 @@
 title: Nephele
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Nephele](../../../assets/people/nephele.webp)
 
 _Bogata szlachcianka._
 
