@@ -6,13 +6,13 @@ title: "Hypnos - Statek Lutherii"
 
 Hypnos to osobisty okręt (barka) [[Lutheria|Lutherii]] — gigantyczny, pływający pałac z brązu, porośnięty bujną, niepokojącą roślinnością. Po końcu kampanii stoi zacumowany niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]], porzucony, pod opieką [[Versir|Versira]]; ciągnący go dotąd [[Talieus Pierwszy|Talieus]] został uwolniony z łańcuchów i nie żyje (szczegóły w sekcji „Los okrętu”).
 
-Przez większość kampanii okręt ciągnął po Morzu Otchłani zniewolony Tytan Talieus, przykuty do kadłuba. Cały pokład to **Wiszące Ogrody**, pełne egzotycznych, pięknych, ale i przerażających roślin.<!-- UNSOURCED -->
+Okręt ciągnął po Morzu Otchłani zniewolony Tytan [[Talieus Pierwszy|Talieus]], przykuty do kadłuba. Cały pokład to **Wiszące Ogrody**, pełne egzotycznych, pięknych, ale i przerażających roślin.
 
 ## Ogród Lutherii (Pokład Główny)
 
 To tutaj bohaterowie weszli na pokład. Powitała ich [[Kalisto]], kapłanka Lutherii, oferując owoce i wino na przypieczętowanie *Prawa Gościnności*; w miejscu, gdzie [[Orion Xul|Orion]] ulał trochę wina dla Pani Domu, natychmiast wyrosły piękne, lecz drapieżne kwiaty. Rosną tu rośliny, których dotyk grozi paraliżem i wiecznymi koszmarami, a fontanny zdobią rzeźby orgii i kanibalizmu, rzekomo wykonane ze spetryfikowanych żywych ludzi; centralną fontannę wieńczy bezgłowa postać tryskająca wodą.
 
-Miejsce uczt, zabaw i spotkań Lutherii.<!-- UNSOURCED -->
+Miejsce uczt, zabaw i spotkań Lutherii.
 **Zapachy:** Mieszanina wykwintnych perfum, alkoholu i gnijącego mięsa.
 **Dźwięki:** Cicha, hipnotyczna muzyka, śmiechy, odległe krzyki (z kuchni lub lochów).
 
