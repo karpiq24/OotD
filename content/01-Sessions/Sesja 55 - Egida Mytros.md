@@ -98,7 +98,7 @@ Z naprawionym kompasem i uzupełnionymi zapasami, bohaterowie byli gotowi do dal
 
 ## Przedmioty
 
-* [[Konspekt strategiczny Tytanów|Konspekt strategiczny Tytanów]] (przekazany [[Vallus]])
+* [[Konspekt Strategiczny Tytanów|Konspekt strategiczny Tytanów]] (przekazany [[Vallus]])
 * Dziennik [[Hergeron|Hergerona]] i [[Gaius|Gaiusa]] (przekazane [[Vallus]])
 * [[Antikythera|Antikytera]] (naprawiona przez [[Volkan|Volkana]])
 * Różdżka ze smoczego rogu

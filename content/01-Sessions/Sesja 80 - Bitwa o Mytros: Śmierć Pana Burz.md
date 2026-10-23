@@ -97,7 +97,7 @@ Z oddalonego miasta zaczęły dobiegać okrzyki triumfu. W chwilę po śmierci W
 * Dungeon Master (śmierć [[Sydon|Sydona]]): "Jego ciało rozpada się od środka, warstwa po warstwie, jak chmura rozdarta wiatrem. Zostaje tylko popiół i złoty pył, który rozwiewa się na wietrze i spada do morza. Sydon jest martwy. Zabiliście Tytana."
 * Dungeon Master (nadejście [[Lutheria|Lutherii]]): "Na przedzie orszaku kroczy ona — Lutheria z kryształową kosą. Za nią wlecze się świta z koszmaru: nieumarli, spętane duchy, rzeczy bez nazwy."
 * [[Felicjan Janus Twardowski|Felicjan]] (gdy Sydon ląduje tuż przed nim): "Przytulnie trochę. Cześć."
-* [[Arevon]] (po śmierci Nephele): "Ona nie żyje. To jest RIP."
+* [[Arevon Elorrenthi|Arevon]] (po śmierci Nephele): "Ona nie żyje. To jest RIP."
 * [[Orestes]] (ostatnia szarża): "Lecimy, trzeba to kończyć. Do Sydona — hyc!"
 
 ## Postacie

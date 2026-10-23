@@ -19,7 +19,7 @@ Następnie drużyna spotkała kolejnych członków załogi:
 
 W końcu drużyna spotkała się z [[Estor Arkelander|Estorem Arkelanderem]], kapitanem [[Ultros|Ultrosa]]. Zaproponował im układ - pomoc w opętaniu króla [[Acastus|Acastusa]] w zamian za pożyczenie statku. Drużyna odmówiła i doszło do walki. 
 
-Podczas walki, [[Estor Arkelander|Estor]], który wydawał się być nieśmiertelny, skupił się na [[Astra|Astrze]] i [[Arevon|Arevonie]], zabijając ich.  W miarę jak walka się przedłużała, a sytuacja stawała się coraz bardziej rozpaczliwa, [[Kyrah]] wkroczyła do akcji. 
+Podczas walki, [[Estor Arkelander|Estor]], który wydawał się być nieśmiertelny, skupił się na [[Astra|Astrze]] i [[Arevon Elorrenthi|Arevonie]], zabijając ich.  W miarę jak walka się przedłużała, a sytuacja stawała się coraz bardziej rozpaczliwa, [[Kyrah]] wkroczyła do akcji. 
 
 "Estor, już wystarczy!" - krzyknęła. "Nie będziesz już obrażać bogini ani Smoczych Lordów. Mam tego dosyć. Zdecydowanie nie ma dla ciebie szansy na odkupienie."
 
@@ -41,7 +41,7 @@ Po śmierci [[Estor Arkelander|Estora]], [[Orestes]] został mianowany nowym kap
 * Podróż do [[Martwe Wodospady|Martwych Wodospadów]].
 * Spotkanie załogi [[Ultros|Ultrosa]] i poznanie historii statku.
 * Odmowa przyjęcia oferty [[Estor Arkelander|Estora Arkelandera]].
-* Walka z [[Estor Arkelander|Estorem]], śmierć [[Astra|Astry]] i [[Arevon|Arevona]], interwencja [[Kyrah]].
+* Walka z [[Estor Arkelander|Estorem]], śmierć [[Astra|Astry]] i [[Arevon Elorrenthi|Arevona]], interwencja [[Kyrah]].
 * [[Orestes]] zostaje nowym kapitanem [[Ultros|Ultrosa]].
 * Wybór ścieżki żywych i utrata nieumarłej załogi.
 

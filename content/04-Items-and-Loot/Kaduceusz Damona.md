@@ -10,4 +10,4 @@ _Artefakt Śmierci_
 Stworzony przez [[Damon]]a.
 
 ## Historia
-Skradziony przez [[Karpathos Aresianos]] i użyty do zabicia [[Xander]]a.
+Skradziony przez [[Karpathos]] i użyty do zabicia [[Xander]]a.

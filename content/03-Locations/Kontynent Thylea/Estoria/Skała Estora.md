@@ -4,7 +4,7 @@ title: Skała Estora
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-Niewielka formacja skalna o średnicy ok. 5 metrów, wystająca z płytkich wód rzeki [[Arkelon]] w miejscu brodu. Mimo mało imponującego wyglądu, jest to miejsce o mrocznej sławie.
+Niewielka formacja skalna o średnicy ok. 5 metrów, wystająca z płytkich wód rzeki [[Rzeka Arkelon|Arkelon]] w miejscu brodu. Mimo mało imponującego wyglądu, jest to miejsce o mrocznej sławie.
 
 ## Ciekawe Miejsca
 - **Żelazny Pal**: Na samym środku skały wbity jest żelazny pal, do którego przywiązywane są ofiary.

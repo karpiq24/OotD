@@ -36,7 +36,7 @@
 * Odparcie ataku watahy wilków podczas obserwacji gniazda bazyliszków.
 * [[Orestes]] przegrywa zawody z [[Pholon|Pholonem]].
 * Rozwiązanie problemów nękających wioskę [[Woodhike]] – walka z bandytami pod wodzą [[Korteva|Kortevy]].
-* Spotkanie z duszka [[Ari]] i [[Eli]] oraz [[Przyjazny Cyklop|przyjaznym cyklopem]].
+* Spotkanie z duszkami [[Ari]] i [[Eli]] oraz oszczędzenie [[Przyjazny Cyklop|przyjaznego cyklopa]].
 
 ## Sesja 7 - Uratować Księżniczkę (04.03.2024)
 * Odkrycie powiązań [[Korteva|Kortevy]] z [[Kult Węża|Kultem Węża]].
@@ -54,10 +54,11 @@
 * Eksploracja labiryntu w [[Nekropolia w Telamok|Nekropolii]] i pokonanie nieumarłych minotaurów.
 * Pokonanie [[Graxis Rzeźnik|Graxisa Rzeźnika]] w [[Grobowiec Xandera]].
 * Spotkanie z duchem [[Xander|Xandera Houratha]] i otrzymanie artefaktów: [[Topór Xandera]], [[Tarcza Xandera]] i [[Korona Smoczych Lordów]].
+* Wejście do [[Grobowiec Balmytrii|grobowca Balmytrii]].
 * Wizja [[Arevon Elorrenthi|Arevona]] dotycząca [[Zakład Smoczego Lorda|Zakładu Smoczego Lorda]].
 
 ## Sesja 10 - Świątynia Heliosa i Jaskinie Troglodytów (15.04.2024)
-* Spotkanie w [[Świątynia Heliosa]] z nimfą [[Euria|Eurią]] – tragiczne starcie zakończone jej śmiercią.
+* Spotkanie w [[Świątynia Heliosa]] z nimfą [[Euria|Eurią]] – zauroczony [[Orestes]] prawie zabił [[Versir|Versira]], a drużyna musiała zabić nimfę.
 * Potyczka w [[Jaskinie Troglodytów]] i uratowanie centaurów prowadzonych przez [[Hukar|Hukara]].
 * Zaproszenie na audiencję w głębi jaskiń.
 
@@ -97,7 +98,7 @@
 
 ## Sesja 17 - Targ Minotaurów (08.07.2024)
 * Przeszukanie świątyni (zdobycie spellbooka, meteorytowej stali i gwizdka na piekielne psy).
-* Konfrontacja przed [[Świątynia Pięciu]] z królem [[Acastus|Acastusem]] i dowódcą [[Gaius|Gaiusem]].
+* Przybycie z uratowanymi dziećmi do [[Świątynia Pięciu|Świątyni Pięciu]], gdzie pojawili się też król [[Acastus]] i dowódca [[Gaius]] na smokach.
 * Wizyta na [[Targ Minotaurów|targu niewolników]] – [[Orestes]] wygrywa walkę z minotaurką [[Bullbug]] i odkupuje ją.
 * Dowiedzenie się o nadchodzących Wielkich Igrzyskach w [[Mytros]].
 
@@ -128,8 +129,8 @@
 ## Sesja 22 - Taniec z Meduzą (26.08.2024)
 * Atak na statek [[Varkon|Varkona]] w porcie [[Mytros]] – [[Felicjan Janus Twardowski|Felicjan]] i [[Orion Xul]] sieją popłoch, a [[Orestes]] zatapia jednostkę.
 * Odzyskanie skamieniałej córki [[Maximus|Maximusa]].
-* Negocjacje w kanałach z [[Moxena|Moxeną]] – wyjawienie jej królewskiego pochodzenia z [[Themis]] i planu powrotu na wyspę.
-* Tymczasowy rozejm z meduzą w zamian za zaprzestanie porwań w mieście.
+* Negocjacje w kanałach z [[Moxena|Moxeną]] – wyjawienie jej pochodzenia z [[Themis]] (przewrót dokonany z siostrami) i planu obalenia uzurpatorki.
+* Propozycja układu: [[Moxena]] zobowiązuje się zaprzestać porwań artystów w mieście.
 
 ## Sesja 23 - Nowe Przymierze (16.09.2024)
 * Zawarcie ostatecznego układu z [[Moxena|Moxeną]] w jej siedzibie w [[Kolos Pythora]] (pomoc przeciwko smoczycy [[Hexia|Hexii]]).
@@ -140,7 +141,8 @@
 ## Sesja 24 - Ultros (29.09.2024)
 * Odnalezienie [[Ultros|Ultrosa]] w [[Martwe Wodospady|Martwych Wodospadach]].
 * Spotkanie z przeklętą załogą i kapitanem [[Estor Arkelander|Estorem Arkelanderem]].
-* Krwawa bitwa na pokładzie – śmierć [[Arevon Elorrenthi|Arevona]] i informacji [[Astra|Astry]], zakończona interwencją [[Kyrah]] i odebraniem Estorowi ludzkiej formy.
+* Krwawa bitwa na pokładzie – [[Estor Arkelander|Estor]] zabija [[Arevon Elorrenthi|Arevona]] i informatorkę [[Astra|Astrę]]; interwencja [[Kyrah]] odbiera mu ludzką formę.
+* Pokonanie [[Estor Arkelander|Estora]] – [[Felicjan Janus Twardowski|Felicjan]] zadaje ostatni cios.
 * [[Orestes]] obejmuje dowództwo nad statkiem i wybiera „ścieżkę żywych”, co powoduje odejście duchów załogi.
 
 ## Sesja 25 - Inauguracja Wielkich Igrzysk (07.10.2024)
@@ -166,7 +168,7 @@
 ## Sesja 30 - Zakończenie Igrzysk (12.11.2024)
 * „Wielki Młyn” – brutalna finałowa walka wszystkich uczestników na arenie, zwyciężona przez [[Arevon Elorrenthi|Arevona]].
 * Uroczysta uczta u [[Taran Neurdagon|Tarana Neurdagona]] z udziałem bogów i tytanów.
-* Zuchwała kradzież planów [[Antikythera|Antikythery]] z pałacu w [[Mytros]].
+* Włamanie do pałacu w [[Mytros]] i kradzież planów [[Antikythera|Antikythery]].
 * Zapowiedź konieczności odtworzenia artefaktu przez [[Volkan|Volkana]].
 
 ## Sesja 31 - Wyprawa na Themis (18.11.2024)
@@ -183,7 +185,7 @@
 
 ## Sesja 33 - W Szponach Bazyliszków (02.12.2024)
 * Przesłuchanie pojmanej amazonki [[Iphis]] na pokładzie [[Ultros|Ultrosa]].
-* Powrót do fortecy [[Więzienie Kieł|Kieł]] – starcie z bazyliszkami i uwolnienie cyklopa [[Bront|Bronta]].
+* Powrót do fortecy [[Więzienie Kieł|Kieł]] – starcie z amazonkami i bazyliszkami.
 * Odkrycie napisu „Siostrzeństwo równych” i spotkanie z menadą w głębi więzienia.
 * Dowiedzenie się o opuszczeniu fortecy przez [[Leah]], siostrę [[Moxena|Moxeny]].
 
@@ -192,14 +194,16 @@
 * Odnalezienie i odczarowanie (ożywienie) spetryfikowanego [[Ivello Ostren|Ivello Ostrena]], towarzysza [[Arevon Elorrenthi|Arevona]].
 * Przybycie do [[Obóz Lwicy|Obozu Lwicy]] i narada z [[Hippolyta|Hippolytą]] w sprawie obalenia uzurpatorki [[Thessilea|Thessilei]].
 * Podjęcie planu dywersji mającej na celu odciągnięcie sił z pałacu.
+* Wydobycie z fortecy i uwolnienie cyklopa [[Bront|Bronta]].
 
 ## Sesja 35 - W Wężowym Uścisku (30.12.2024)
 * Spotkanie w [[Kaplica Płodności]] z tytanką [[Yala|Yalą]] i przekonanie jej do zachowania neutralności w nadchodzącym przewrocie.
 * Udana dywersja – walka z amazonkami na gryfach i odciągnięcie głównych sił pościgowych od pałacu.
-* Krwawe starcie w lesie z oddziałem [[Leah]] (drugą meduzą) – pokonanie przeciwniczki i jej wsparcia.
+* Krwawe starcie w lesie z oddziałem [[Leah]] (drugą meduzą) – [[Felicjan Janus Twardowski|Felicjan]] zadaje jej ostatni cios.
 
 ## Sesja 36 - Królowa, Dziedzic i Generał (07.01.2025)
-* Zakończenie przewrotu na [[Themis]] – zniesienie niewolnictwa mężczyzn i zaprzysiężenie [[Darien]] na królową.
+* Klęska uzurpatorki [[Nastura|Nastury]] w pałacu na [[Themis]] i przemowa [[Darien]], która znosi niewolnictwo mężczyzn.
+* [[Moxena]] zostaje doradczynią [[Darien]] za zgodą drużyny.
 * [[Felicjan Janus Twardowski|Felicjan]] otrzymuje pierwsze smocze jajo od [[Kyrah]].
 * Uratowanie grupy rozbitków („Sen Kassandry”) pod wodzą zarozumiałego [[Quinn|Quinna]].
 * Wizja [[Arevon Elorrenthi|Arevona]] o [[Podbój Estora|masakrze Gyganów]] i ponowne pojawienie się ducha [[Estor Arkelander|Estora Arkelandera]].
@@ -230,7 +234,7 @@
 
 ## Sesja 41 - Wiedźma Lotosu (10.02.2025)
 * Infiltracja [[Wieża Wiedźmy Lotosu|Wieży Wiedźmy Lotosu]] – chwilowa przemiana bohaterów w dzieci i praca w „fabryce narkotyków”.
-* Pokonanie nadzorczyni Dolores Umbridge i odnalezienie gnoma [[Garrick Vanalan|Garricka Vanalana]].
+* Zdjęcie dziecięcej klątwy dzięki krwi nadzorczyni Dolores Umbridge, zranionej przez [[Versir|Versira]], i odnalezienie gnoma [[Garrick Vanalan|Garricka Vanalana]].
 * Przejście przez surrealistyczny [[Korytarz Światów]] (wizje multiwersum i własnej śmierci) oraz udział w teleturnieju.
 * Rozmowa z [[Wiedźma Lotosu|Wiedźmą Lotosu]] i uzyskanie kluczowych informacji: słabość [[Hexia|Hexii]] to [[Pythor]], Thylea jest odizolowanym planem, a klątwa centaurów może zostać zdjęta w zamian za przeprosiny od sfinksów z [[Wyspa Czasu]].
 

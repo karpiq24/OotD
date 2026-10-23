@@ -10,7 +10,7 @@ Przez pewien czas dzieci [[Thylea|Thylei]] i [[Kentimane]] żyły razem w pokoju
 
 Pozostała trójka rodzeństwa, zdając sobie sprawę z potęgi Sydona, postanowiła zaatakować Lutherię. W tajemnicy udali się na jej wyspę, lecz Bogini Śmierci zastawiła pułapkę na swych krewnych. Poprzez rytualną ofiarę tysiąca bazyliszków stworzyła w sercu swego królestwa rozległą kałużę trującej krwi. Gdy najeźdźcy postawili stopę na wyspie, uruchomili magiczne osłony, które uwolniły moc plugawej sadzawki w śmiercionośnej eksplozji, natychmiast zamieniając dwoje z nich w kamień. Jedynie [[Chalcia Pierwsza]], Bogini Szybkości, zdołała uciec.
 
-Lutheria postanowiła ukryć schwytane rodzeństwo. Tytan Piękna, [[Yala Pierwsza|Yala]], została wrzucona do [[Typhos|Ojca Potworów]], skąd trafiła do [[Hades|Hadesu]]. [[Goloron Pierwszy|Goloron]] zaś, Tytan Mądrości, został ukryty na wyspie, na której wkrótce powstało wspaniałe [[Królestwo Syren]].
+Lutheria postanowiła ukryć schwytane rodzeństwo. Tytan Piękna, [[Yala Pierwsza|Yala]], została wrzucona do [[Typhon|Ojca Potworów]], skąd trafiła do [[Hades|Hadesu]]. [[Goloron Pierwszy|Goloron]] zaś, Tytan Mądrości, został ukryty na wyspie, na której wkrótce powstało wspaniałe [[Królestwo Syren]].
 
 Wiedząc, że Bliźniaki przyjdą po nią, Chalcia schroniła się pod ogromnym wulkanem na [[Wyspa Ognia|jednej z wysp]]. Tam mogła wykorzystać swą szybkość i zwinność, by przetrwać w labiryncie tuneli i korytarzy lawowych. Gdy Sydon dowiedział się o nieudanym ataku na swą siostrę-żonę, wpadł w furię. W ślepej wściekłości przywołał potężną burzę, która uderzyła we wszystkie wyspy Thylei, próbując zalać komnaty, w których ukrywała się Chalcia.
 
