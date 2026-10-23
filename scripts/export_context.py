@@ -14,6 +14,7 @@ What goes in:
                         line under the portrait ("Minotaur Barbarian, The Doomed One")
   entities              canonical names (file names) under 02-People, 03-Locations,
                         04-Items-and-Loot, 05-Lore + aliases from [[Name|Alias]] links
+                        and from each page's frontmatter `aliases:`
   phonetic_corrections  campaign/phonetic_corrections.md
   learned_rules         campaign/learned_rules.md (HTML comments stripped)
   hotwords              campaign/whisper_hotwords.txt
@@ -51,6 +52,7 @@ SKIPPED_DIRS = {'assets', '99-DM-Corner'}
 WIKILINK_ALIAS_RE = re.compile(r'\[\[([^\]|]+)\|([^\]]+)\]\]')
 WIKILINK_RE = re.compile(r'\[\[([^\]|#]+)(?:#[^\]|]*)?(?:\|([^\]]+))?\]\]')
 HTML_COMMENT_RE = re.compile(r'<!--.*?-->', re.S)
+FRONTMATTER_ALIASES_RE = re.compile(r'(?m)^aliases:[ \t]*(.*)\n((?:[ \t]+-.*\n?)*)')
 
 
 def read(path):
@@ -64,13 +66,29 @@ def public_markdown():
             yield path
 
 
+def frontmatter_aliases(text):
+    """The `aliases:` list of a page's frontmatter, block (`  - x`) or inline (`[x, y]`) form."""
+    if not text.startswith('---'):
+        return []
+    match = FRONTMATTER_ALIASES_RE.search(text[3:text.find('\n---', 3)] + '\n')
+    if not match:
+        return []
+    inline = match.group(1).strip()
+    items = inline.strip('[]').split(',') if inline.startswith('[') else [
+        line.strip()[1:] for line in match.group(2).splitlines() if line.strip()
+    ]
+    return [item.strip().strip('"\'') for item in items if item.strip()]
+
+
 def collect_aliases():
     aliases = defaultdict(set)
     for path in public_markdown():
-        for match in WIKILINK_ALIAS_RE.finditer(read(path)):
+        text = read(path)
+        for match in WIKILINK_ALIAS_RE.finditer(text):
             canonical, alias = match.group(1).strip(), match.group(2).strip()
             if alias and alias != canonical:
                 aliases[canonical].add(alias)
+        aliases[path.stem].update(a for a in frontmatter_aliases(text) if a != path.stem)
     return aliases
 
 
