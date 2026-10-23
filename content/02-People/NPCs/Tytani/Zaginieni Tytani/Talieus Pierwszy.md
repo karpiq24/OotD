@@ -4,7 +4,7 @@ aliases:
   - Tytan Rzemiosła
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Talieus Pierwszy](../../../../assets/people/talieus_pierwszy.webp)
 
 _Tytan Rzemiosła. Uwolniony przez Versira z łańcuchów po stuleciach męki; jego esencja spoczywa w Rękawicy Versira._
 

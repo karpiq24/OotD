@@ -4,7 +4,7 @@ aliases:
   - The Forge Keeper
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Strażniczka Kuźni](../../../assets/people/strazniczka_kuzni.webp)
 
 Żywiołak ognia, który był uwięziony w Mithralowej Kuźni, uwolniony przez bohaterów w zamian za rok służby.
 

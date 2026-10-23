@@ -4,7 +4,7 @@ aliases:
   - Mroczny Dzik
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Wielki Dzik](../../../assets/people/wielki_dzik.webp)
 
 _Potężna, spaczona bestia wysłana przez Bliźniaczych Tytanów, by siać zniszczenie na okolicznych ziemiach, zabita przez bohaterów w pierwszej sesji._
 

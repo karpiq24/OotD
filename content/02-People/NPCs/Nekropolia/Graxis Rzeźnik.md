@@ -4,7 +4,7 @@ aliases:
   - Graxis
 ---
 
-![Graxis](../../../assets/placeholder.webp)
+![Graxis Rzeźnik](../../../assets/people/graxis_rzeznik.webp)
 
 _Strażnik Grobowca Xandera, pokonany przez Bohaterów Przepowiedni._
 

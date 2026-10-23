@@ -6,7 +6,7 @@ aliases:
   - Królowa Helen
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Królowa Helena](../../../assets/people/krolowa_helena.webp)
 
 _Królowa Arezji, władczyni miasta rządzonego przez radę Wielkich Mistrzów świątyń-szkół walki; po wojnie wciąż na tronie._
 
