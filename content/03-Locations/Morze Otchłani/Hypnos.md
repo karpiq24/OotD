@@ -4,11 +4,15 @@ title: "Hypnos - Statek Lutherii"
 
 # Hypnos, Tron Snów
 
-Statek Lutherii to w rzeczywistości gigantyczny, pływający pałac z brązu, ciągnięty przez zniewolonego Tytana **Talieusa**. Cały pokład to **Wiszące Ogrody**, pełne egzotycznych, pięknych, ale i przerażających roślin.
+Hypnos to osobisty okręt (barka) [[Lutheria|Lutherii]] — gigantyczny, pływający pałac z brązu, porośnięty bujną, niepokojącą roślinnością. Po końcu kampanii stoi zacumowany niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]], porzucony, pod opieką [[Versir|Versira]]; ciągnący go dotąd [[Talieus Pierwszy|Talieus]] został uwolniony z łańcuchów i nie żyje (szczegóły w sekcji „Los okrętu”).
+
+Przez większość kampanii okręt ciągnął po Morzu Otchłani zniewolony Tytan Talieus, przykuty do kadłuba. Cały pokład to **Wiszące Ogrody**, pełne egzotycznych, pięknych, ale i przerażających roślin.<!-- UNSOURCED -->
 
 ## Ogród Lutherii (Pokład Główny)
 
-To tutaj bohaterowie weszli na pokład. Miejsce uczt, zabaw i spotkań Lutherii.
+To tutaj bohaterowie weszli na pokład. Powitała ich [[Kalisto]], kapłanka Lutherii, oferując owoce i wino na przypieczętowanie *Prawa Gościnności*; w miejscu, gdzie [[Orion Xul|Orion]] ulał trochę wina dla Pani Domu, natychmiast wyrosły piękne, lecz drapieżne kwiaty. Rosną tu rośliny, których dotyk grozi paraliżem i wiecznymi koszmarami, a fontanny zdobią rzeźby orgii i kanibalizmu, rzekomo wykonane ze spetryfikowanych żywych ludzi; centralną fontannę wieńczy bezgłowa postać tryskająca wodą.
+
+Miejsce uczt, zabaw i spotkań Lutherii.<!-- UNSOURCED -->
 **Zapachy:** Mieszanina wykwintnych perfum, alkoholu i gnijącego mięsa.
 **Dźwięki:** Cicha, hipnotyczna muzyka, śmiechy, odległe krzyki (z kuchni lub lochów).
 
@@ -19,7 +23,7 @@ To tutaj bohaterowie weszli na pokład. Miejsce uczt, zabaw i spotkań Lutherii.
 
 ## Korytarze Śniących
 
-Korytarze pod pokładem.
+Korytarze pod pokładem.<!-- UNSOURCED -->
 
 > **Opis:**
 > "Schodzicie pod pokład. W przeciwieństwie do dusznego, wilgotnego ogrodu na górze, tutaj panuje chłód. Ściany i podłoga wyłożone są tysiącami ludzkich czaszek. Niektóre są pożółkłe ze starości, inne wciąż mają na sobie fragmenty wysuszonej skóry. Gdy idziecie, macie nieodparte wrażenie, że puste oczodoły czaszek podążają za wami, a zęby cicho szczękają w rytm waszych kroków."
@@ -28,7 +32,9 @@ Korytarze pod pokładem.
 
 ## Sala Wróżenia
 
-Dwie **Lamie** (kobiety-lwy) wpatrują się w lustra, raportując Lutherii wydarzenia ze świata.
+Pomieszczenie wyłożone lustrami i kryształami, które pełni funkcję oczu i uszu Lutherii — tu Pani Snów obserwowała wydarzenia na świecie. [[Kalisto]] zaprowadziła tu gości w [[Sesja 69 - Ogród Lutherii]]: [[Versir]] pytał o miejsce pobytu [[Chalcia|Chalcii]], [[Felicjan Janus Twardowski|Felicjan]] kazał pokazać „Armię Sydona” (potężną flotę, cyklopy i gyganów gotowych do inwazji), a potem zapytał o [[Karpathos]]a.
+
+Dwie **Lamie** (kobiety-lwy) wpatrują się w lustra, raportując Lutherii wydarzenia ze świata.<!-- UNSOURCED -->
 
 > **Opis:**
 > "Pomieszczenie wypełniają lustra o różnych kształtach i rozmiarach. Dwie istoty o ciałach lwów i torsach kobiet siedzą tyłem do was, wpatrzone w migoczące obrazy. Widzicie w nich fragmenty bitew, sceny z królewskich dworów i codzienne życie mieszkańców Thylei. To oczy i uszy Pani Snów."
@@ -37,7 +43,9 @@ Dwie **Lamie** (kobiety-lwy) wpatrują się w lustra, raportując Lutherii wydar
 
 ## Komnata Erinii
 
-Luksusowy apartament udekorowany z przepychem. Mieszkanie łowczyń krzywoprzysięzców.
+Luksusowy apartament udekorowany z przepychem, zajmowany przez [[Furie|Erynie]]. W [[Sesja 70 - Audiencja u Pani Snów]] [[Kalisto]] zaprowadziła tu drużynę. Furie nie były lojalne wobec Lutherii — pilnowały jej, a w razie jej zdrady stanęłyby po stronie prawa.
+
+Mieszkanie łowczyń krzywoprzysięzców.<!-- UNSOURCED -->
 
 > **Opis:**
 > "To pomieszczenie ocieka bogactwem, ale w chaotyczny sposób. Meble z różnych epok i kultur stoją obok siebie. Na środku, dwie kobiety o skrzydłach z czerwonych piór zajmują się swoim rynsztunkiem. Jedna poleruje czarną, ciężką zbroję, druga sprawdza cięciwę potężnego łuku. Ich piękno jest zimne i drapieżne, a w oczach widać bezwzględną sprawiedliwość."
@@ -46,7 +54,7 @@ Luksusowy apartament udekorowany z przepychem. Mieszkanie łowczyń krzywoprzysi
 
 ## Sala Błyskotek
 
-Galeria osobliwości Lutherii.
+Galeria osobliwości Lutherii (Hall of Trinkets), po której oprowadzały drużynę dwie małe, nienaturalnie poruszające się dziewczynki. W [[Sesja 70 - Audiencja u Pani Snów]] drużyna obejrzała tu pozytywkę z kości słoniowej z szumem milionów krzyczących dusz, dwunastościan z adamantu, mithralową maskę, platynową Monetę Losu i Pióro Feniksa, którym spisano *Kodeks Nieskończonych Planów*.
 
 > **Opis:**
 > "Wchodzicie do sali przypominającej muzeum. Na marmurowych postumentach spoczywają przedmioty – niektóre wyglądają na potężne artefakty, inne na zwykłe śmieci. Wokół nich krzątają się dwie małe dziewczynki, polerując gabloty z nienaturalną, kocią gracją."
@@ -77,7 +85,7 @@ Galeria osobliwości Lutherii.
 
 ## Komnata Koszmarów
 
-Pusta sala z jednym meblem.
+Pusta sala z jednym meblem.<!-- UNSOURCED -->
 
 > **Opis:**
 > "To pomieszczenie jest niepokojąco puste, co sprawia wrażenie, że jest znacznie większe niż w rzeczywistości. Na samym środku stoi pojedyncze, przepiękne, złote krzesło. Wygląda zachęcająco. Macie irracjonalne przeczucie, że jeśli w nim usiądziecie, wasze najskrytsze marzenia się spełnią."
@@ -86,7 +94,7 @@ Pusta sala z jednym meblem.
 
 ## Zbrojownia
 
-Zbrojownia z przeklętymi przedmiotami.
+Zbrojownia (Hall of Armaments) z przeklętymi przedmiotami. W [[Sesja 70 - Audiencja u Pani Snów]] w kątach sali siedziało czterech Jackalwere, a na ścianach, w szkieletowych dłoniach, wisiały dary od [[Sydon|Sydona]] obciążone klątwą szaleństwa. [[Versir]] wyczuł w nich cząstkę duszy swojej matki, [[Versi Pierwsza|Versi Pierwszej]], zaklętą w gwiezdnym metalu. [[Lutheria]] wyjawiła, że Sydon, oskarżając ją o szaleństwo, stworzył te bronie z gwiezdnego metalu, by „wyciągnąć” z niej obłęd — w rzeczywistości są wypełnione szaleństwem samego Sydona.
 
 > **Opis:**
 > "Wygląda to na zbrojownię. Na ścianach, w szkieletowych dłoniach, wiszą cztery imponujące przedmioty: wielki topór, dwuręczny miecz, tarcza i pełna zbroja płytowa."
@@ -95,11 +103,23 @@ Zbrojownia z przeklętymi przedmiotami.
 
 ## Kuchnie
 
-Miejsce przygotowywania "uczt".
+Miejsce przygotowywania „uczt”. W [[Sesja 70 - Audiencja u Pani Snów]] satyry i lamia przygotowywały tu wykwintne, choć podejrzanie wyglądające potrawy.
 
 > **Opis:**
 > "Uderza was zapach pieczonego mięsa i wykwintnych przypraw, od którego aż cieknie ślinka. Wewnątrz krząta się kilka wychudzonych, psopodobnych istot, nadzorowanych przez potężną Lamię. Na stołach leżą wykwintne półmiski... oraz kawałki mięsa, które kształtem niepokojąco przypominają humanoidalne uda i ramiona."
 
+
+## Łaźnie i Sala Tronowa
+
+Przed audiencją drużyna udała się do łaźni (gdzie [[Orion Xul|Orion]] uległ pokusie, gdy trzy driady zaoferowały mu pomoc w „szorowaniu pleców”; [[Versir]] wolał czekać na sucho). Sala tronowa Lutherii znajduje się na górnym pokładzie, a ścieżka utkana ze światła prowadzi nad nieskończoną otchłanią do tronu. To tutaj Lutheria zabiła ostatecznie ducha [[Estor Arkelander|Estora Arkelandera]], po czym wysłuchała oskarżeń Versira i dostała od drużyny „prezent” — [[Chondrus|Chondrusa]], którego bohaterowie porzucili na Hypnosie.
+
+## Historia
+
+W [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] drużyna ujrzała na horyzoncie Talieusa, brodzącego w czarnych wodach i ciągnącego na potężnych łańcuchach okręt Lutherii, Hypnos.
+
+W [[Sesja 69 - Ogród Lutherii]] [[Lutheria]] zaprosiła bohaterów na pokład swojego osobistego okrętu, zacumowanego przy ujściu rzeki Lethe, obiecując rozmowę i bezpieczeństwo pod *Prawem Gościnności*. [[Ultros]] dopłynął do Hypnosa, a [[Kalisto]] oprowadziła gości po ogrodzie i Sali Wróżenia.
+
+W [[Sesja 70 - Audiencja u Pani Snów]] drużyna zwiedziła Komnatę Erinii, Salę Błyskotek, Zbrojownię, kuchnię i łaźnie, a następnie odbyła audiencję w sali tronowej, w której Lutheria zabiła Estora i zawarła „luźną umowę po fakcie”.
 
 ## Los okrętu
 

@@ -5,12 +5,18 @@ image_prompt:
 
 ![Placeholder](../assets/placeholder.webp)
 
-_Okręt, którym [[Arevon Elorrenthi|Arevon]] przybył z Eberronu, przejęty i wykorzystany przez [[Sydon|Sydona]] w ataku na [[Mytros]]._
+_Galeon z Eberronu z uwięzionym w kadłubie żywiołakiem, niegdyś statek [[Arevon Elorrenthi|Arevona]], po wojnie z [[Sydon|Sydonem]] statek drużyny._
 
 ## Opis
-Tranquility to statek, na którym [[Arevon Elorrenthi|Arevon]] przybył niegdyś z odległego świata Eberronu. Okręt przez lata uchodził za zaginiony. Odnalazł go i naprawił sam [[Sydon]], by uczynić z niego jedno z narzędzi swojego natarcia na [[Mytros]].
+Tranquility to galeon z [[Eberron|Eberronu]], w którego kadłubie uwięziony jest żywiołak służący za napęd. Nie ma ani żagli, ani wioseł: normalnie prowadzi go ten, kto nosi Znamię Burzy, a jedynym dotychczasowym nosicielem był kapitan [[Tars d’Lyrandar|Tars d'Lyrandar]]. Za czasów w rękach [[Sydon|Sydona]] okręt został jednak przerobiony: napęd słucha także osób bez Znamienia Burzy.
+
+Statek, na którym [[Arevon Elorrenthi|Arevon]] przybył niegdyś z odległego świata Eberronu. Okręt przez lata uchodził za zaginiony.<!-- UNSOURCED -->
 
 ## Historia
-Podczas [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|Bitwy o Mytros]] Tranquility służył siłom [[Sydon|Władcy Burz]]. To nad jego pokładem rozegrało się ostateczne starcie z Tytanem — [[Versir]] po strąceniu z wierzchowca lądował twardo na jego deskach, a bohaterowie toczyli walkę wprost nad okrętem. W wyniku kataklizmicznej bitwy z [[Sydon|Sydonem]] statek został ciężko uszkodzony.
+W [[Sesja 73 - Praxys - Skarbiec Sydona]], gdy drużyna uwalniała więźniów z [[Praxys]], Arevon odnalazł [[Lia Amakiir|Lię Amakiir]], członkinię swojej dawnej załogi z Eberronu. Lia wyjaśniła, że Sydon zabezpieczył resztki statku Tranquility w dokach, choć ten nie nadawał się wtedy do podróży.
 
-W [[Sesja 84 - Świt Nowej Ery]] okazało się, że okręt jest bardziej dostępny, niż sądzono. Normalnie prowadzi go ten, kto nosi Znamię Burzy — a jedynym nosicielem był kapitan [[Tars d’Lyrandar|Tars d'Lyrandar]]. Przez czas spędzony w rękach [[Sydon|Sydona]] statek został jednak przerobiony: ludzie Tytana Znamienia nie mieli, a mimo to okręt dla nich pływał. [[Arevon Elorrenthi|Arevon]] stanął za kołem sterowym, przekonał się, że napęd słucha także jego, i zapowiedział, że spróbuje raczej dogadać się z żywiołakiem w pierwotnej mowie niż poganiać go batem. Tranquility posłużyła drużynie do rejsu na [[Morze Otchłani]], gdzie roztrzaskano [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]], i ostatecznie wygrywała pod każdym względem z poharatanym [[Ultros|Ultrosem]].
+W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|Bitwie o Mytros]] drużyna walczyła z Sydonem w pobliżu Tranquility: [[Versir]], rozwiawszy więź z wierzchowcem [[Trąba|Trąbą]], runął na jego pokład, a później potężny podmuch Sydona strącił go z pokładu w fale zatoki.
+
+W wyniku kataklizmicznej bitwy z Sydonem statek został ciężko uszkodzony.<!-- UNSOURCED -->
+
+W [[Sesja 84 - Świt Nowej Ery]] [[Ultros]] był zbyt poharatany, by wyjść w morze, więc na rejs wybrano Tranquility. Arevon stanął za kołem sterowym, przekonał się, że napęd słucha także jego, i zapowiedział, że spróbuje raczej dogadać się z żywiołakiem w pierwotnej mowie niż poganiać go batem. Tranquility posłużyła drużynie do rejsu na [[Morze Otchłani]], gdzie roztrzaskano [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]]; wygrywała z poharatanym Ultrosem pod każdym względem.
