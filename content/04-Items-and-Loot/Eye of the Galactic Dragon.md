@@ -29,7 +29,7 @@ Oko zostało dodatkowo ulepszone dzięki układowi z [[Mojry|Mojrami]], w który
 - **Tytan.** Gdy rzucasz czar za pomocą komórki czaru, możesz zdecydować, że zyskujesz punkty wytrzymałości tymczasowe równe dwukrotności poziomu czaru. Trwają one 1 minutę.
 
 ## Historia
-W [[Sesja 9 - W Głębi Grobowca Xandera]] [[Damon]], wychodząc z [[Tomb of Balmytria|grobowca Balmytrii]], przekazał [[Arevon Elorrenthi|Arevonowi]] artefakt, dzięki któremu druid doświadczył wizji związanej z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]]. Handout [[Szturm na Praxys]] opisuje podobną wizję wywołaną przez *Eye of the Galactic Dragon* — Arevon wchodzi w niej w ciało [[Telamok Arkelander|Telamoka Arkelandera]].
+W [[Sesja 9 - W Głębi Grobowca Xandera]] [[Damon]], wychodząc z [[Grobowiec Balmytrii|grobowca Balmytrii]], podarował [[Arevon Elorrenthi|Arevonowi]] Oko Galaktycznego Smoka; dzięki niemu druid doświadczył wizji związanej z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]]. Handout [[Szturm na Praxys]] opisuje inną wizję wywołaną przez Oko — Arevon wchodzi w niej w ciało [[Telamok Arkelander|Telamoka Arkelandera]].
 
 W [[Sesja 37 - Próba Ognia]] Arevon, nie rozumiejąc smoczej mowy, stwierdził, że nawet jego „oko galaktycznego smoka” jej nie pojmuje.
 

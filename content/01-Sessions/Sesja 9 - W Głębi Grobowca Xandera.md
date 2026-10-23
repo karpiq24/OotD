@@ -37,4 +37,4 @@ Bohaterowie, kontynuując eksplorację [[Nekropolia w Telamok|Nekropolii]], wesz
 
 Wewnątrz grobowca stoczyli walkę ze szkieletami, a następnie stanęli przed [[Graxis Rzeźnik|Graxisem Rzeźnikiem]], strażnikiem grobowca. Po pokonaniu go, ukazał się im sam [[Xander|Xander Hourath]]. Przekazał bohaterom [[Topór Xandera]], [[Tarcza Xandera|Tarczę Xandera]] i [[Korona Smoczych Lordów|Koronę Smoczych Lordów]], a następnie zniknął.
 
-Bohaterowie weszli do [[Grobowiec Balmytrii|grobowca Balmytrii]], wychodząc [[Damon]] przekazał [[Arevon Elorrenthi|Arevonowi]] artefakt, z pomocą którego doświadczył wizji związanej z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]].
+Bohaterowie weszli do [[Grobowiec Balmytrii|grobowca Balmytrii]], wychodząc [[Damon]] przekazał [[Arevon Elorrenthi|Arevonowi]] artefakt – [[Eye of the Galactic Dragon|Oko Galaktycznego Smoka]] – z pomocą którego doświadczył wizji związanej z [[Zakład Smoczego Lorda|Zakładem Smoczego Lorda]].

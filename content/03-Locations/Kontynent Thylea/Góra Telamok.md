@@ -8,7 +8,7 @@ Martwe miasto i góra będąca miejscem ostatecznego spoczynku Smoczych Lordów.
 
 ## Ciekawe Miejsca
 - **Nekropolia**: Miasto umarłych na szczycie góry, będące miejscem spoczynku legendarnego [[Telamok Arkelander|Telamoka Arkelandera]] oraz innych [[Historia Thylei#Arrival of the Dragonlords (Przybycie Smoczych Władców)|Smoczych Lordów]].
-    - **Grobowce Smoczych Lordów**: Szereg monumentalnych krypt, w tym grobowce [[Tomb of Xander|Xandera]], [[Tomb of Balmytria|Balmytrii]], [[Tomb of Estor|Estora]] i wielu innych.
+    - **Grobowce Smoczych Lordów**: Szereg monumentalnych krypt, w tym grobowce [[Tomb of Xander|Xandera]], [[Grobowiec Balmytrii|Balmytrii]], [[Tomb of Estor|Estora]] i wielu innych.
 - **Ścieżka Umarłych**: Niebezpieczna droga prowadząca do Nekropolii.
 
 ## Mieszkańcy
