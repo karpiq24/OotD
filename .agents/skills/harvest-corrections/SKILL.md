@@ -54,7 +54,7 @@ Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3c. Entity fact fixes → wiki entity file
 1. For each entity fact fix, locate the entity's file under `content/02-People/`, `content/03-Locations/`, `content/04-Items-and-Loot/`, or `content/05-Lore/` (search by the entity name).
-2. If the wiki file states the **old** fact (or lacks the corrected one), propose the same fix to that entity file so the wiki and the recap agree.
+2. If the wiki file states the **old** fact (or lacks the corrected one), propose the same fix to that entity file so the wiki and the recap agree. Also grep `content/Timeline.md`, `content/Campaign_Context.md` and pages of related entities (the other side of a relationship, an item's owner) for the old fact and include those fixes in the proposal. Write any wiki text in-world (see `rpg-wiki-manager` §3a: no "kampania", "sesja", players or real-world references on entity pages).
 3. If no entity file exists, note it as "no wiki file to update" — do not create one here (entity creation is `rpg-wiki-manager`'s job during `finalize-session-recap`).
 
 ### 3d. Pure style edits → style-rule amendment

@@ -60,14 +60,32 @@ If the entity does **NOT** exist:
 ### The "Update Existing" Rule
 If the entity **DOES** exist and plays a major role in the session (e.g. death, major revelation, change of status):
 1.  **UPDATE**: Edit the entity's file.
-2.  **APPEND**: Add a sentence to the `## Historia` section summarizing the new event.
+2.  **APPEND**: Add a sentence to the `## Historia` section summarizing the new event, in chronological order.
 3.  **REFERENCE**: Explicitly link the session: `W [[Sesja X - Tytuł]]...`
+4.  **CURRENT STATE**: If the status changed (died, destroyed, abdicated, changed sides, moved, lost or gave away an item), also fix the italic lead line, `## Opis` and any present-tense section so they describe the entity *as it is now*. Goals that are over (achieved, failed, abandoned) move into `## Historia` in the past tense — never leave a stale "Cele" claiming the entity still pursues them.
+5.  **SPREAD THE FACT**: If the same fact appears elsewhere (the other side of a relationship, the owner of an item, the location's "Mieszkańcy", `content/Timeline.md`, `content/Campaign_Context.md`), make those agree too. Grep for the name before finishing.
+
+## 3a. How entity pages are written (learned in the Oct 2026 canon audit)
+
+These rules come from the full audit that brought all 490 entity pages in line with the recaps. Follow them for every page you create or edit.
+
+1.  **Sources and their weight.** Session recaps (`content/01-Sessions/`) are canon. Below them: transcripts (`content/assets/sessions/{000}/transcript.txt`, sessions 32+), the in-world handouts (`content/07-Handouts/` — legends, journals, letters, tomb inscriptions; often the only source for backstory), then the sourcebook vault (`input/vault/`). A recap beats the book and the handouts. The user is the DM: their ruling beats everything, including a recap.
+2.  **No invention.** Every sentence must come from one of those sources. Do not fill a page with plausible-sounding sourcebook lore, appearance or personality that no source states. A short true page beats a long invented one.
+3.  **Conflicting sources.** When two recaps contradict each other with no in-story explanation, do not pick silently: write the later version, add `<!-- CONFLICT: S{a} „…” vs S{b} „…” -->` and ask the user. Known example: the S81 vs S82 Lamia kill — the DM ruled S81.
+4.  **In-world voice.** Entity pages are written from inside the world. Never "kampania", "sesja" (outside the `[[Sesja N - …]]` citation links), "gracze", "MG", game mechanics talk in prose, memes or real-world references ("Charon from the Hades game", "named after Gordon Ramsay"). Use "w czasie wojny z Tytanami", "zanim bohaterowie przybyli do Mytros", "po wojnie", "jego dalsze losy pozostają nieznane". `Campaign_Context.md` is the exception (it is context for rpgnotes, not a wiki page).
+5.  **Aliases.** Add a frontmatter list `aliases:` with the nominative name variants actually used for the entity in recaps or transcripts: short names (`Arevon`), alternative spellings (`Kasandra`), epithets (`Pan Burz`). Never declensions (`Arevona`), generic words (`stolica`), misspellings of another entity's name, or a name that is another page's file name. `scripts/export_context.py` passes these aliases to rpgnotes. Before inventing a new page, search file names **and** `aliases:` — the entity may exist under another name (e.g. `Hubert` = Hoobert, `Ikar` = Ikar V2, `Blemys` = Blemysi).
+6.  **Links must resolve.** Link only to pages that exist (or that you create in the same pass). Do not leave `[[Name]]` pointing nowhere — either create the page or write plain text. Heroes always by full file name with alias (`[[Arevon Elorrenthi|Arevon]]`), never `[[Arevon]]`, even though that alias resolves. Watch for malformed links with two pipes (`[[A|B|C]]`).
+7.  **What gets a page.** Named NPCs, places, items, factions and creature types that matter to the story. Not one-line cameos, table jokes or out-of-world references (Karol Strasburger, Dolores Umbridge, Kapitan Bomba, Koło Fortuny were deliberately not given pages). When unsure, ask the user.
+8.  **User notes are context, not text.** When the user explains something ("he's basically Charon from Hades", "it's a meme"), write in-world prose that follows the intent; never paste the note or its real-world reference into the page.
+9.  **Item pages with mechanics.** Type line in Polish (`_Cudowny przedmiot, legendarny (wymaga dostrojenia przez Poszukującego)_`; epic paths by their Polish names from `content/05-Lore/Epickie Ścieżki.md`). `## Właściwości` in clear Polish 5e terms (ułatwienie, rzut obronny, akcja dodatkowa, reakcja, długi odpoczynek, ST, KP, obrażenia od błyskawic…), spell names in English italics (*misty step*), upgrades as `###` tiers (`Dotknięte przez Boga`, `Wzmocnienie Mojr`) naming the price paid. The user's own homebrew text may be translated in full; never paste copyrighted sourcebook text.
+10. **Known campaign facts that look like errors but are not**: Hoobert is Felicjan's familiar — he dies and is summoned again (one extra "o" per death), so his deaths are not contradictions. The Isle of Oathbreakers arena (S68–S69) set the heroes against foes they had already defeated (the Nether Sea is a realm of the dead), so dead bosses reappearing there is intended. There were three different Cerbers. Thessilea is the long-dead true queen of Themis; Nastura ruled in her name.
 
 ## 4. Inconsistency Handling
 
 -   **Ambiguous Names**: If "The Captain" is mentioned and you know who it is, link it: `[[Orestes|The Captain]]`.
 -   **Variant Spellings**: Fix spelling only if it's clearly a typo of a known name, and link it.
--   **Missing Data**: If creating an NPC and you only know their name, fill the template with known info and leave others as "TBD" or empty. Do NOT invent information.
+-   **Missing Data**: If creating an NPC and you only know their name, fill the template with known info and drop the empty sections (no "TBD" or placeholder text left on the page). Do NOT invent information.
+-   **Checks before finishing**: run `uv run python scripts/update_indexes.py` after creating or renaming pages. If the private repo is present, `uv run python build/canon-audit/phase4_check.py` reports broken wikilinks and alias collisions across `content/` (writes `build/canon-audit/reports/phase4_*.txt`).
 
 ## 5. Standard Directories for New Entities
 When creating NEW entities, always use these target directories:

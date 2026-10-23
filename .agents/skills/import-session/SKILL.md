@@ -57,6 +57,10 @@ Reply: {n}{letter}  (e.g. "{n}a"), or "skip"
 
 If there are no candidates at all, ask nothing and go on to Step 3.
 
+**Two checks you do yourself, no question needed** (both caught real errors in the Oct 2026 audit):
+- **Date**: compare the note's `**Data:**` with the timestamps in `content/assets/sessions/{000}/chat_log.json` (the Foundry log). If they differ, use the chat-log date and say so in Step 4.
+- **Copied opening**: compare the first sentences of `## Podsumowanie` with the previous session's note. rpgnotes once reused the previous session's opening sentence verbatim (S55 = S54), which later looked like a duplicated recap. If it happens, rewrite only that sentence from the transcript.
+
 ### 2.4 Apply answers
 
 - Edit `content/01-Sessions/Sesja {N} - {Title}.md` for each answer (rewrite the sentence, fix the name, delete the claim). If an answer removes or renames something listed under `Kluczowe wydarzenia`, `Postacie`, `Lokacje` or `Przedmioty`, fix that list too.

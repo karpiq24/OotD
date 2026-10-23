@@ -39,6 +39,10 @@ Read the recap file and identify only the `###` section(s) the complaint touches
 3. If reordering is requested, move only the affected passages; do not regenerate surrounding prose.
 4. Preserve any `[[wikilinks]]` and image placeholders inside a section you rewrite — do not strip links the finalize pass added.
 
+## Step 4b: Carry the fix into the wiki
+
+A fact that was wrong in the recap has usually been copied into entity pages, `content/Timeline.md` and `content/Campaign_Context.md` by an earlier finalize pass. Grep `content/` for the names and distinctive words of the corrected fact and fix every place that still states the old version (entity pages: also their lead line / `## Opis` if the corrected fact changes the entity's current state). Remove a `<!-- CONFLICT … -->` comment the fix resolves. Report these extra files in Step 5.
+
 ## Step 5: Report
 
 Tell the user exactly what changed: which section(s) were rewritten and why (cite the transcript line range you used), and confirm the rest of the file is unchanged. If you could not find transcript support for the requested change, say so and make no edit.
