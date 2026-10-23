@@ -17,7 +17,7 @@ Zostali poproszeni o pomoc w powstrzymaniu burzy nękającej miasto.
 ## Kluczowe wydarzenia / decyzje
 
 * Wizja [[Orestes|Orestesa]] o podróży na [[Wyspa Mojr|Wyspę Mojr]].
-* Uratowanie [[Filip|Filipa]].
+* Uratowanie Filipa.
 * Wysłanie listów do rodziny i [[Akademia Mytros|Akademii w Mytros]].
 * Wykucie [[Odkupienie Pythora|magicznej włóczni]].
 * Przybycie do [[Mytros]] i spotkanie z królem [[Acastus|Acastusem]].

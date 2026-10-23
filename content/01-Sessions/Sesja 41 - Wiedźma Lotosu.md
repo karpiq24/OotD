@@ -27,7 +27,7 @@ Plan Oriona, choć makabryczny, okazał się skuteczny. Versir, korzystając z c
 
 Powrót do dorosłości nie oznaczał jednak końca kłopotów. Bohaterowie, odzyskawszy swoje moce i wspomnienia, stanęli przed trudnym wyborem. [[Wiedźma Lotosu]], tajemnicza i potężna, czekała na nich na szczycie wieży. Bohaterowie, nie zważając na niebezpieczeństwo, postanowili kontynuować swoją misję. Wspinając się po schodach, które tym razem zdawały się prowadzić do celu, dotarli do długiego korytarza, którego ściany pokrywały hieroglify, a liczne okna ukazywały widoki z innych światów.
 
-Przemierzając [[Korytarz Światów|korytarz]], bohaterowie zaglądali do okien, podziwiając różnorodne krajobrazy i sceny z przeszłości, teraźniejszości i przyszłości. Widzieli Elysium, gdzie Zeus, otoczony aniołami, spoglądał na nich z zaciekawieniem. Zobaczyli zatopione królestwo syren, zniszczone przez gniew [[Sydon|Sydona]]. Ujrzeli astralny plan, gdzie Kapitan Bomba, w swoim niepowtarzalnym stylu, obrażał potężnego astralnego drapieżnika. Byli świadkami bitwy o Helmowy Jar w Śródziemiu, a także lewitującego miasta w Avernusie. Widzieli Hades, gdzie Charon pobierał opłatę od zmarłych, a Maximus, pozbawiony monet, został odesłany na koniec kolejki. Ujrzeli fabrykę Warforgedów, budzącą niepokój w sercu Arevona. W końcu, ich oczom ukazała się wizja płonącego [[Mytros]], gdzie martwy Felicjan i [[Melania Twardowska|Melania]] leżeli u stóp zapłakanej [[Kyrah]], a nad miastem górował potężny [[Behemot]], niszczyciel światów.
+Przemierzając [[Korytarz Światów|korytarz]], bohaterowie zaglądali do okien, podziwiając różnorodne krajobrazy i sceny z przeszłości, teraźniejszości i przyszłości. Widzieli Elysium, gdzie Zeus, otoczony aniołami, spoglądał na nich z zaciekawieniem. Zobaczyli zatopione królestwo syren, zniszczone przez gniew [[Sydon|Sydona]]. Ujrzeli astralny plan, gdzie Kapitan Bomba, w swoim niepowtarzalnym stylu, obrażał potężnego astralnego drapieżnika. Byli świadkami bitwy o Helmowy Jar w Śródziemiu, a także lewitującego miasta w Avernusie. Widzieli Hades, gdzie Charon pobierał opłatę od zmarłych, a Maximus, pozbawiony monet, został odesłany na koniec kolejki. Ujrzeli fabrykę Warforgedów, budzącą niepokój w sercu Arevona. W końcu, ich oczom ukazała się wizja płonącego [[Mytros]], gdzie martwy Felicjan i [[Melania Twardowska|Melania]] leżeli u stóp zapłakanej [[Kyrah]], a nad miastem górował potężny Behemot, niszczyciel światów.
 
 ![Korytarz Światów](../assets/sessions/041/041_worlds.webp)
 
@@ -45,7 +45,7 @@ Po zakończeniu gry, Orestes podliczył punkty i wszyscy okazali się zwycięzca
 
 W końcu, po serii absurdalnych i niebezpiecznych zdarzeń, bohaterowie stanęli przed Wiedźmą Lotosu, gotowi zadać jej pytania. Orestes, dręczony klątwą pecha, zapytał o sposób jej zdjęcia. Wiedźma ujawniła, że klątwa została rzucona przez [[Lutheria|Luterię]], a jej zdjęcie wymagałoby albo przebłagania bogini, albo zniszczenie jej.
 
-Felicjan, zaintrygowany wizją Behemota, zapytał o potwora i sposób jego pokonania. Wiedźma wyjaśniła, że [[Behemot]] to istota stworzona przez starożytnych bogów, niszczyciel, którego można pokonać z pomocą boskiej mocy. Arevon, pragnąc powrócić do swojego świata, zapytał o drogę do Eberronu. Wiedźma ujawniła, że Thylea to kieszonkowy plan, odizolowany od reszty świata, a barierę można osłabić, skupiając boskie iskry w mniejszej ilości rąk.
+Felicjan, zaintrygowany wizją Behemota, zapytał o potwora i sposób jego pokonania. Wiedźma wyjaśniła, że Behemot to istota stworzona przez starożytnych bogów, niszczyciel, którego można pokonać z pomocą boskiej mocy. Arevon, pragnąc powrócić do swojego świata, zapytał o drogę do Eberronu. Wiedźma ujawniła, że Thylea to kieszonkowy plan, odizolowany od reszty świata, a barierę można osłabić, skupiając boskie iskry w mniejszej ilości rąk.
 
 Orion, pałający żądzą zemsty na [[Hexia|Hexii]], zapytał o jej słabości. Wiedźma ujawniła, że największą słabością smoczycy jest ojciec Oriona, bóg bitwy [[Pythor]]. Versir zaś, dręczony tęsknotą za matką, zapytał o sposób odzyskania jej cząstki duszy. Wiedźma wskazała na odłamki Gwiezdnej Skały, rozrzucone po całej Thylei, które Versir musiałby zebrać i wchłonąć.
 
@@ -61,7 +61,7 @@ Wiedźma Lotosu, w zamian za zdjęcie klątwy z centaurów, zażądała przepros
 *   **Przejście przez [[Korytarz Światów]]:** Bohaterowie oglądają wizje z różnych planów i czasów, w tym wizję własnej śmierci i zagłady [[Mytros]].
 *   **Udział w Familiadzie:** Gra prowadzona przez Karola Strasburgera i [[Wiedźma Lotosu|Wiedźmę Lotosu]], samobójstwo Karola.
 *   **Zakręcenie Kołem Fortuny:** Orestes zyskuje umiejętność dowcipkowania, Versir moc szybkości, Orion traci cały ekwipunek, Arevon zyskuje zdolność przemiany w drzewca., Felicjan jest wytrzymalszy i inteligentniejszy.
-*   **Rozmowa z Wiedźmą Lotosu:** Bohaterowie zadają pytania dotyczące klątwy Orestesa, [[Behemot|Behemota]], drogi do Eberronu, słabości [[Hexia|Hexii]] i odzyskania cząstki duszy Versi.
+*   **Rozmowa z Wiedźmą Lotosu:** Bohaterowie zadają pytania dotyczące klątwy Orestesa, Behemota, drogi do Eberronu, słabości [[Hexia|Hexii]] i odzyskania cząstki duszy Versi.
 *   **Żądanie Wiedźmy Lotosu:** Przeprosiny od sfinksów z [[Wyspa Czasu|Wyspy Czasu]] w zamian za zdjęcie klątwy z centaurów.
 
 ## Postacie Niezależne (NPC):

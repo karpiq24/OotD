@@ -7,7 +7,7 @@ title: "Sesja 19: Pojedynek z Rozpruwaczem"
 
 ## Podsumowanie
 
-[[Orestes]] otrzymał ulepszony [[Topór Xandera]] od [[Volkan|Volkana]], a także bukłak na browar dla [[Pholon|Pholona]] od [[Grimmik|Grimmika]]. [[Arevon Elorrenthi|Arevon]] wybrał się na zbieranie ziół, ale niestety niedawna burza zniszczyła wszystkie rośliny. [[Orion Xul]] udał się na zakupy w poszukiwaniu mikstur leczenia i składników do ich wytworzenia. Spotkał gnoma [[Zorin|Zorina]], który oprócz mikstur oferował również [[Necklace of Adaptation]] za 900 sztuk złota.
+[[Orestes]] otrzymał ulepszony [[Topór Xandera]] od [[Volkan|Volkana]], a także bukłak na browar dla [[Pholon|Pholona]] od [[Grimmik|Grimmika]]. [[Arevon Elorrenthi|Arevon]] wybrał się na zbieranie ziół, ale niestety niedawna burza zniszczyła wszystkie rośliny. [[Orion Xul]] udał się na zakupy w poszukiwaniu mikstur leczenia i składników do ich wytworzenia. Spotkał gnoma [[Zorin|Zorina]], który oprócz mikstur oferował również Necklace of Adaptation za 900 sztuk złota.
 
 [[Maximus]] spędził trochę czasu w tawernie "[[Satyrzy Ogon|Satyrzy Ogon]]", a następnego dnia udał się do [[Świątynia Sydona|Świątyni Sydona]]. Zorganizował on prywatne wydarzenie w czwartek o 21:00, z wejściówką w cenie 300 sztuk złota, która jednocześnie stanowi zakład na jednego z uczestników. Bukmacherką zajmie się [[Julius]], właściciel tawerny "[[Satyrzy Ogon|Satyrzy Ogon]]". Czempionem [[Maximus|Maximusa]] będzie [[Rakas Rozpruwacz]].
 

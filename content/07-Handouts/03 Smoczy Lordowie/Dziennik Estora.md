@@ -44,7 +44,7 @@ _
 …Kilka wpisów dalej…  
 _
 
-Właśnie na to czekałem! Wieczność jest wreszcie w moim zasięgu. [[Lutheria]] przyszła do mnie na rękach i kolanach, naga i zapłakana. Piękna i straszna. Mam władzę nad samą Śmiercią! Spotkaliśmy się w ogniu [[Typhos]]. Złożyła ofertę: Jeśli przysięgnę zakończyć masakry jej dzieci, zapewni mi i mojej załodze życie wieczne za pomocą rytualnej magii. Sam rytuał jest prosty, ale dość krwawy. Moi ludzie zrozumieją, gdy zaznają wiecznego życia u mego boku. Jutro narodzi się nowy bóg, Estor, bóg Thylei.
+Właśnie na to czekałem! Wieczność jest wreszcie w moim zasięgu. [[Lutheria]] przyszła do mnie na rękach i kolanach, naga i zapłakana. Piękna i straszna. Mam władzę nad samą Śmiercią! Spotkaliśmy się w ogniu [[Typhon|Typhos]]. Złożyła ofertę: Jeśli przysięgnę zakończyć masakry jej dzieci, zapewni mi i mojej załodze życie wieczne za pomocą rytualnej magii. Sam rytuał jest prosty, ale dość krwawy. Moi ludzie zrozumieją, gdy zaznają wiecznego życia u mego boku. Jutro narodzi się nowy bóg, Estor, bóg Thylei.
 
 Obudziłem się następnego ranka i poderżnąłem gardła moim oficerom jako krwawą ofiarę, aby rozpocząć rytuał nieśmiertelności Lutherii. Tej nocy Lutheria przybyła do mnie na zimnym wietrze, przylatując z pustki bezksiężycowej nocy, by wylądować na pokładzie Ultrosa. Byłem oczarowany jej zimnym, okrutnym pięknem i ległem się z Boginią, by skonsumować umowę. Otaczały nas zakrwawione zwłoki moich zarżniętych ludzi.
 

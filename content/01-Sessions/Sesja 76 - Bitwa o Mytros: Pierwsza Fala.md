@@ -95,7 +95,7 @@ Sesja zakończyła się w środku tej epickiej walki. [[Hergeron]] wciąż stał
 * **[[Sydon]] do [[Acastus|Akastusa]]:** *„Z narzędziem nie zawiera się układów, śmiertelniku. Narzędzia się używa, a potem odrzuca, gdy zardzewieje. Byłeś politycznym pionkiem."*
 * **[[Acastus|Akastus]] po zamrożeniu fali:** *„Wracaj! Zmierz się ze mną!"*
 * **[[Hergeron]] do bohaterów:** *„Bohaterowie przepowiedni! Tfu! Szczury, które kąsają kostki prawdziwych władców. Zabiliście większość z mojego rodzeństwa. Dobrze, dobrze nie żyją. Więcej potęgi i boskości dla mnie!"*
-* **[[Orestes]] (meta-komentarz)**: *„Ja zakładam, że [[Nephele]] pod koniec całej tej bitwy o [[Mytros]] odwali tę Daenerys Targaryen i niby wygra, ale zburzy, co się da."*
+* **[[Orestes]] (meta-komentarz)**: *„Ja zakładam, że [[Nephele (Smok)|Nephele]] pod koniec całej tej bitwy o [[Mytros]] odwali tę Daenerys Targaryen i niby wygra, ale zburzy, co się da."*
 * **DM:** *„Zbieram pomysły, dzięki."*
 * **[[Arevon Elorrenthi|Arevon]] o smokach ciągnących statek:** *„Kurczaki ledwo nam się podbieniły, bogowie na smoki i już praca niewolnicza – ciągniecie wozu!"*
 * **[[Felicjan Janus Twardowski|Felicjan]] o sytuacji:** *„To był najlepszy deal życia – zamienić Glocka na ten róg."*

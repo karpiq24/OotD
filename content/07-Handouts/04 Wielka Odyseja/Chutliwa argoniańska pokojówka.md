@@ -12,43 +12,43 @@ napisał
 
 ### Akt IV, scena III, ciąg dalszy
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Z całą pewnością nie, sir! Jestem tu tylko po to, by wysprzątać komnatę.
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Tylko po to, maleńka?
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Nie mam pojęcia, o czym mówisz, panie. Jestem tylko skromną, argoniańską pokojówką.
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Tak właśnie, pierożku. Niezłą pokojówką, trzeba dodać. Takie długie nogi i silny ogon.
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Zawstydza mnie pan, sir.
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Bez obaw. Ze mną jesteś tu bezpieczna.
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Muszę dokończyć polerować podłogę, sir. Pani strasznie na mnie nakrzyczy, jeśli nie zdążę.
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Polerowanie? Mam tu coś dla ciebie. O tu. Wypoleruj moją włócznię.
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Ale ona jest ogromna! To mogłoby potrwać całą noc!
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Mamy dużo czasu, maleńka. Dużo czasu.
 
@@ -56,43 +56,43 @@ Mamy dużo czasu, maleńka. Dużo czasu.
 
 ### AKT VII, SCENA II, CIĄG DALSZY
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Bogowie, cóż to za bochen! Jakże go zmieszczę w swoim piecu?
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Tego bochna nie można jeszcze upiec, ślicznotko. Najpierw musi urosnąć.
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Gdybyśmy tylko mogli to przyśpieszyć. Jak mogłabym tego dokonać?
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Moja głupiutka, argoniańska pokojówko, musisz użyć rączek.
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Mam pougniatać bochenek? Tutaj?
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Oczywiście.
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Ale cóż zrobię, jeśli przyłapie mnie pani? Twój bochen miał zaspokoić jej apetyt.
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Nie lękaj się, mój kwiatuszku. Apetyt twej pani zaspokoję później.
 
-_[[Zadziera-Ogon]]_
+_Zadziera-Ogon_
 
 Dobrze więc, ale obawiam się, że mój piec nie jest jeszcze dość gorący. To może długo potrwać!
 
-_[[Crantius Colto]]_
+_Crantius Colto_
 
 Mamy dużo czasu, maleńka. Dużo czasu.
 

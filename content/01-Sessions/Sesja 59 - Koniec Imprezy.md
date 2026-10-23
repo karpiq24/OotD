@@ -56,7 +56,7 @@ Kiedy truchło ostatniego Blemysa z głuchym łoskotem uderzyło o podłogę, a 
 * Drużyna, wyczerpana pętlą czasu, po raz kolejni dzieli się na [[Wyspa Czasu|Wyspie Czasu]], by rozwiązać zagadkę oskarżonego sfinksa, [[Kartos|Kartosa]].
 * [[Arevon Elorrenthi|Arevon]], [[Orion Xul|Orion]] i [[Felicjan Janus Twardowski|Felicjan]] demaskują zdradę kriosfinksa [[Noland|Nolanda]], który próbował zniszczyć [[Wielka Księga Zasad|Wielką Księgę Zasad]], by wrobić rywala.
 * Po krótkiej walce i konfrontacji, [[Noland]] zostaje osądzony i ukarany, a drużyna uzyskuje oficjalne przeprosiny dla [[Wiedźma Lotosu|Wiedźmy Lotosu]].
-* Bohaterowie opuszczają wyspę, zabierając ze sobą tajemnicze [[Smocze Jajo|smocze jajo]]. [[Wiedźma Lotosu]] dziękuje im i zdejmuje klątwę z centaurów.
+* Bohaterowie opuszczają wyspę, zabierając ze sobą tajemnicze smocze jajo. [[Wiedźma Lotosu]] dziękuje im i zdejmuje klątwę z centaurów.
 * Podczas podróży przez [[Zapomniane Morze]], drużyna jest świadkiem przejścia tytana [[Kentimane|Kentimane'a Stu Rękiego]], po czym natrafia na [[Latająca Forteca Smoczych Lordów|latającą fortecę]] [[Talieus|Talieusa]], zamienioną w niekończącą się imprezę.
 * Po zinfiltrowaniu fortecy i pokonaniu strażników - nimf, menad i potwornych [[Blemysi|Blemysów]] - bohaterowie stają do walki z samym [[Talieus|Talieusem]].
 * W zaciętym starciu, po brutalnej wymianie ciosów i obelg, [[Orion Xul|Orion]] zadaje ostateczny cios, a ciało syna [[Sydon|Sydona]] i [[Lutheria|Lutherii]] rozpada się w złoty pył.

@@ -29,7 +29,7 @@ Drużyna wyprowadziła łącznie 36 minotaurów kanałami przez wschodnią bram�
 
 Po ciężkiej nocy drużyna udała się na spoczynek. Nad ranem do magazynu przyszła syrena, która dostarczyła im meteorytową stal.
 
-Okazało się, że [[Maximus]] miał przy sobie [[Ring of Manipulation]] i [[Tormentor's Flail]].
+Okazało się, że [[Maximus]] miał przy sobie Ring of Manipulation i Tormentor's Flail.
 
 Drużyna chciała pójść do łaźni, ale strażnicy ich zawrócili. Najbogatsza część miasta, w tym siedziba [[Taran Neurdagon|Tarana Neurdagon]], została zamknięta.
 

@@ -126,7 +126,7 @@ Ziemią wstrząsnęły gwałtowne drżenia zwiastujące przebudzenie góry Volka
 * [[Chondrus]]
 * [[Despina]]
 * [[Nephele (Smok)|Nephele]]
-* [[Tassos]]
+* Tassos
 * [[Sybolkorax]]
 * [[Klonicjan]]
 

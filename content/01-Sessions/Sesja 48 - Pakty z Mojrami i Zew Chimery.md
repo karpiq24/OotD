@@ -68,4 +68,4 @@ Gdy kurz bitewny opadł, a na plaży zaległa chwilowa cisza, bohaterowie, poobi
 * Korona [[Felicjan Janus Twardowski|Felicjana]] (ulepszona przez [[Mojry|Mojry]] kosztem zdrowia)
 * Kostur [[Sydon|Sydona]] (należący do [[Versir|Versira]], poświęcony [[Mojry|Mojrom]])
 * Magiczna różdżka [[Felicjan Janus Twardowski|Felicjana]] (ze smoczego rogu, poświęcona [[Mojry|Mojrom]])
-* [[Worek Bez Dna]] (Bag of Holding, znaleziony w ruinach wieży)
+* Worek Bez Dna (Bag of Holding, znaleziony w ruinach wieży)
