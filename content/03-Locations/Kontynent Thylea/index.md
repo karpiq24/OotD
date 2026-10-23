@@ -29,3 +29,4 @@ title: Kontynent Thylea
 - [[03-Locations/Kontynent Thylea/Stary Las|Stary Las]]
 - [[Rzeka Lethe]]
 - [[Orestessos Zythikē]]
+- [[Grobowiec Balmytrii]]

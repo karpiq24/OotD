@@ -6,3 +6,4 @@ title: Sen Kasandry
 - [[Heliope]]
 - [[Quinn]]
 - [[Rutger]]
+- [[Kassandra]]

@@ -8,3 +8,5 @@ title: Rasy
 - [[Nimfa z Thylei]]
 - [[Satyr z Thylei]]
 - [[Syrena z Thylei]]
+- [[Cyklopi]]
+- [[Koźlaki]]

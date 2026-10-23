@@ -17,7 +17,7 @@ W trakcie poszukiwań, [[Versir]] odnajduje napis wygrawerowany w ścianie w ję
 
 Bohaterowie kontynuują eksplorację fortecy, aż docierają do pomieszczenia, z którego dobiega muzyka. Tam znajdują młodego mężczyznę oraz menadę grającą na fletni pana. Po krótkiej rozmowie, dowiadują się, że [[Leah]], siostra [[Moxena|Moxeny]] opuściła fortecę.
 
-W dalszej części fortecy, bohaterowie odnajdują statuę [[Lutheria|Luterii]], tym razem trzymającą w dłoniach kielich. Statua wydaje się śledzić ich wzrokiem, mimo że stoi nieruchomo. [[Versir]] przekonuje jednego z koźlaków, by ten został ich przewodnikiem.
+W dalszej części fortecy, bohaterowie odnajdują statuę [[Lutheria|Luterii]], tym razem trzymającą w dłoniach kielich. Statua wydaje się śledzić ich wzrokiem, mimo że stoi nieruchomo. [[Versir]] przekonuje jednego z [[Koźlaki|koźlaków]], by ten został ich przewodnikiem.
 
 Bohaterowie kontynuują poszukiwania, aż docierają do magazynu kochanków. Mężczyźni jednak nie wyrazili zainteresowania uwolnieniem, więc drużyna kontynuując eksplorację dotarła na najwyższe piętro więzienia, gdzie natknęli się na kolejne amazonki.
 

@@ -18,3 +18,4 @@ title: Arezja
 - [[Narsus]]
 - [[Talos]]
 - [[Taureus]]
+- [[Agrius]]

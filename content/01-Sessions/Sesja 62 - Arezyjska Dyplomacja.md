@@ -19,7 +19,7 @@ Na nabrzeżu powitał ich komitet pod wodzą [[Aketa|Akety]], wpływowej tieflin
 
 ![Leandros](../assets/sessions/062/062_Leandros.webp)
 
-Pod bramami doszło do pierwszego, chłodnego spotkania z [[Królowa Helena|Królową Heleną]], która obserwowała przybyszów ze szczytu murów. Władczyni, okazała się osobą oschłą i niewzruszoną, przez większość czasu nie zwracała się bezpośrednio bo bohaterów. Jej głosem był [[Leandros]], dowódca jej gwardii. Argumenty o nadciągającej wojnie z Tytanami i zagrożeniu dla całej Thylei zostały zbyte stwierdzeniem, że mury [[Arezja|Arezji]] i [[Talos]] są wystarczającą ochroną. Nie zamknęła jednak przed nimi bram ostatecznie. Dała bohaterom ultimatum: zostaną wpuszczeni do miasta, ale aby uzyskać audiencję i jakiekolwiek wsparcie, muszą najpierw przekonać do swojej sprawy Wielkich Mistrzów poszczególnych świątyń. Jeśli Mistrzowie uznają, że sojusz leży w interesie [[Arezja|Arezji]], królowa rozważy ich prośbę.
+Pod bramami doszło do pierwszego, chłodnego spotkania z [[Królowa Helena|Królową Heleną]], która obserwowała przybyszów ze szczytu murów. Władczyni, okazała się osobą oschłą i niewzruszoną, przez większość czasu nie zwracała się bezpośrednio bo bohaterów. Jej głosem był [[Leandros]], dowódca jej gwardii. Argumenty o nadciągającej wojnie z Tytanami i zagrożeniu dla całej Thylei zostały zbyte stwierdzeniem, że mury [[Arezja|Arezji]] i [[Talos]] są wystarczającą ochroną. Nie zamknęła jednak przed nimi bram ostatecznie. Dała bohaterom ultimatum: zostaną wpuszczeni do miasta, ale aby uzyskać audiencję i jakiekolwiek wsparcie, muszą najpierw przekonać do swojej sprawy [[Rada Mistrzów Arezji|Wielkich Mistrzów]] poszczególnych świątyń. Jeśli Mistrzowie uznają, że sojusz leży w interesie [[Arezja|Arezji]], królowa rozważy ich prośbę.
 
 ![Jocasta](../assets/sessions/062/062_Jocasta.webp)
 
@@ -39,7 +39,7 @@ Kolejnym celem była skromna [[Świątynia Miecza]], gdzie rezydował mistrz [[H
 
 ![Karpathos, Wilczy Lord](../assets/sessions/062/062_painting.webp)
 
-W międzyczasie drużyna odwiedziła lokalną [[Galeria Sztuki|Galerię Sztuki]]. Ich uwagę przykuł emanujący magią transmutacji i nekromancji portret pierwszego króla [[Arezja|Arezji]], [[Karpathos|Karpathosa Wilczego Lorda]]. Plotki głosiły, że w [[Portret Karpathosa|obrazie]] uwięziona jest dusza samego króla, co czyniło dzieło niepokojącym i bezcennym. Podobno ktoś z Mytros zaoferował za niego 30 tysięcy sztuk złota. Bohaterowie dowiedzieli się również od sprzedawcy oliwek, że sekret „idealnej oliwki”, której poszukuje Mistrz [[Laertes]], posiadać ją maja druidzi centaurów pod wodzą króla Agriusa.
+W międzyczasie drużyna odwiedziła lokalną [[Galeria Sztuki|Galerię Sztuki]]. Ich uwagę przykuł emanujący magią transmutacji i nekromancji portret pierwszego króla [[Arezja|Arezji]], [[Karpathos|Karpathosa Wilczego Lorda]]. Plotki głosiły, że w [[Portret Karpathosa|obrazie]] uwięziona jest dusza samego króla, co czyniło dzieło niepokojącym i bezcennym. Podobno ktoś z Mytros zaoferował za niego 30 tysięcy sztuk złota. Bohaterowie dowiedzieli się również od sprzedawcy oliwek, że sekret „idealnej oliwki”, której poszukuje Mistrz [[Laertes]], posiadać ją maja druidzi centaurów pod wodzą króla [[Agrius|Agriusa]].
 
 ![Haidee](../assets/sessions/062/062_Haidee.webp)
 

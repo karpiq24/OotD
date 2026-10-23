@@ -7,7 +7,7 @@ title: Sesja 30 - Zakończenie Igrzysk
 
 ## Podsumowanie
 
-Ostatni dzień Igrzysk kończył się Wielkim Młynem, walką do której przystąpili wszyscy uczestnicy, ale zwycięzca mógł być tylko jeden. [[Yala]] okazała się trudnym przeciwnikiem, pokonując swojego brata [[Hergeron|Hergerona]], który prawie dobił [[Orion Xul|Oriona Xula]]. Ostatecznie [[Arevon Elorrenthi]] wygrał walkę, choć drużyna ponoć dała mu fory.
+Ostatni dzień [[Wielkie Igrzyska|Igrzysk]] kończył się Wielkim Młynem, walką do której przystąpili wszyscy uczestnicy, ale zwycięzca mógł być tylko jeden. [[Yala]] okazała się trudnym przeciwnikiem, pokonując swojego brata [[Hergeron|Hergerona]], który prawie dobił [[Orion Xul|Oriona Xula]]. Ostatecznie [[Arevon Elorrenthi]] wygrał walkę, choć drużyna ponoć dała mu fory.
 
 Po zakończeniu walk odbyła się ceremonia zakończenia Igrzysk. Król [[Acastus]] ogłosił zwycięzców, po czym zaprosił wszystkich na ucztę do [[Posiadłość Neurdagonów|posiadłości Tarana Neurdagon]]. Na uczcie [[Taran Neurdagon|Taran]] wygłosił mowę, a [[Lutheria]] przemawiała w imieniu nieobecnego [[Sydon|Sydona]]. Podczas uczty [[Lutheria]] zatańczyła z królem [[Acastus|Acastusem]], a [[Versir]] z [[Astra|Astrą]]. [[Orestes]] zatańczył z [[Vallus]], a [[Felicjan Janus Twardowski|Felicjan]] z [[Melania Twardowska|Melanią Twardowską]].
 

@@ -9,7 +9,7 @@ title: Sesja 25 - Inauguracja Wielkich Igrzysk
 
 Po przybyciu do [[Mytros]], drużynę powitał [[Tarchon]] na smoku, gratulując im sukcesu i lecąc poinformować króla [[Acastus|Acastusa]]. [[Vallus]] wyraziła zaniepokojenie losem [[Kyrah]], niepewna, czy tym razem się odrodzi. Król [[Acastus]] zorganizował paradę na cześć drużyny, choć zaproszenie na nią przekazano w ostatniej chwili.
 
-Rozpoczęcie Wielkich Igrzysk odbyło się z wielką pompą. Procesja wyruszyła ze [[Świątynia Pięciu|Świątyni Pięciu]] na [[Stadion Mytros]], witana entuzjastycznie przez tłumy. Na stadionie pojawili się [[Vallus]], [[Volkan]], [[Pythor]], [[Kyrah]], [[Chondrus]] i [[Bella]]. [[Vallus]] wygłosiła mowę inaugurującą, po czym król [[Acastus]] i Smoczy Lordowie zrobili imponujące wejście.
+Rozpoczęcie [[Wielkie Igrzyska|Wielkich Igrzysk]] odbyło się z wielką pompą. Procesja wyruszyła ze [[Świątynia Pięciu|Świątyni Pięciu]] na [[Stadion Mytros]], witana entuzjastycznie przez tłumy. Na stadionie pojawili się [[Vallus]], [[Volkan]], [[Pythor]], [[Kyrah]], [[Chondrus]] i [[Bella]]. [[Vallus]] wygłosiła mowę inaugurującą, po czym król [[Acastus]] i Smoczy Lordowie zrobili imponujące wejście.
 
 Uczestnicy złożyli przysięgę fair play, a kapłani Piątki rozpoczęli składanie ofiar bogom. Niespodziewanie pojawiła się nowa tradycja - walka z minotaurem, co wywołało konsternację wśród Piątki.
 

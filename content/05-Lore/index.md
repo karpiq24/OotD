@@ -19,3 +19,5 @@ title: Wiedza o Świecie
 - [[Zakony i Tradycje Thylei]]
 - [[05-Lore/Bestiariusz|Bestiariusz]]
 - [[05-Lore/Rasy|Rasy]]
+- [[Królewska Gra]]
+- [[Wielkie Igrzyska]]

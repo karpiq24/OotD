@@ -7,4 +7,4 @@ title: Sesja 28 - Igrzysk ciąg dalszy
 
 ## Podsumowanie
 
-Rozgrywki w Igrzyskach trwały dalej. Drużyna wzięła udział w ostatniej walce bestii, pokonując ośmiornicę w galarecie, a także w innych konkurencjach, odnosząc zarówno zwycięstwa, jak i porażki.
+Rozgrywki w [[Wielkie Igrzyska|Igrzyskach]] trwały dalej. Drużyna wzięła udział w ostatniej walce bestii, pokonując ośmiornicę w galarecie, a także w innych konkurencjach, odnosząc zarówno zwycięstwa, jak i porażki.

@@ -13,7 +13,7 @@ Z uratowanymi dziećmi udali się do [[Świątynia Pięciu|Świątyni Piątki]],
 
 Na spotkanie przybyli również [[Vallus]] (przyprowadzona przez [[Hoobert|Hooberta]]), [[Gaius]] i [[Acastus]] (król [[Mytros]]) na smokach ([[Icarus]] i [[Argyn]]). Rzut Detect Thoughts na  [[Gaius|Gaiusa]] ujawnił jego obojętność wobec [[Lutheria|Lutherii]], skupienie na poparciu dla [[Sydon|Sydona]] i nienawiść do [[Chondrus|Chondrusa]].
 
-[[Orion Xul]], [[Orestes]] i [[Versir]] udali się do "[[Syrenie Gniazdo|Syreniego Gniazda]]". [[Orestes]] miał sen, [[Mojry]] wzywają go na swoją wyspę. [[Kyrah]] przekazała informację o Igrzyskach w [[Mytros]], które mają się odbyć za 4 tygodnie.
+[[Orion Xul]], [[Orestes]] i [[Versir]] udali się do "[[Syrenie Gniazdo|Syreniego Gniazda]]". [[Orestes]] miał sen, [[Mojry]] wzywają go na swoją wyspę. [[Kyrah]] przekazała informację o [[Wielkie Igrzyska|Igrzyskach]] w [[Mytros]], które mają się odbyć za 4 tygodnie.
 
 Na [[Targ Minotaurów|targu niewolników]] drużyna spotkała [[Maximus|Maximusa]] i [[Bullbug]]. Bogata [[Nephele]] szukała minotaura. [[Orestes]] walczył z [[Bullbug]] na jej prośbę i wygrał, ale odmówił zabicia jej. [[Hoobert]]... zrobił coś niestosownego [[Nephele]]. Drużyna odkupiła [[Bullbug]] i zwolniła ją z przysięgi. [[Bullbug]] chce pomóc im z [[Maximus|Maximusem]].
 

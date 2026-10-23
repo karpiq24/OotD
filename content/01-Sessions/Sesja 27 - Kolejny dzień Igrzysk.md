@@ -8,7 +8,7 @@ title: Sesja 27 - Kolejny dzień Igrzysk
 ## Podsumowanie
 
 [[Kyrah]] powróciła, ale jest inna niż wcześniej. Ma mniej boskiej mocy i nic nie pamięta.
-Rozgrywki podczas igrzysk wciąż trwają.
+Rozgrywki podczas [[Wielkie Igrzyska|igrzysk]] wciąż trwają.
 
 ## NPC
 * [[Kyrah]]

@@ -7,7 +7,7 @@ title: "Sesja 8: Ścieżka Umarłych"
 
 ## Podsumowanie
 
-Bohaterowie wyruszyli do [[Nekropolia w Telamok|Telamok]], aby zdobyć broń [[Smoczy Lordowie|Smoczych Lordów]]. Po drodze spotkali jeźdźca na srebrnym smoku, [[Gaius|Commandera Gaiusa]], który ostrzegł ich przed kontynuowaniem misji. Następnie zostali zaatakowani przez hordę centaurów. Podczas wspinaczki natknęli się na skały w kształcie dłoni, zwane [[Ręce Kentimane|rękami Kentimane]]. Walczyli z harpiami, gryfami i Coldlight Walkerem. Dotarli do mauzoleum, gdzie spotkali tajemniczą postać strzegącą wejścia. Rozpoczęli eksplorację [[Nekropolia w Telamok|Nekropolii]], oglądając grobowce [[Smoczy Lordowie|Smoczych Lordów]].
+Bohaterowie wyruszyli do [[Nekropolia w Telamok|Telamok]], aby zdobyć broń [[Smoczy Lordowie|Smoczych Lordów]]. Po drodze spotkali jeźdźca na srebrnym smoku, [[Gaius|Commandera Gaiusa]], który ostrzegł ich przed kontynuowaniem misji. Następnie zostali zaatakowani przez hordę centaurów. Podczas wspinaczki natknęli się na skały w kształcie dłoni, zwane [[Ręce Kentimane|rękami Kentimane]]. Walczyli z [[Harpie|harpiami]], gryfami i Coldlight Walkerem. Dotarli do mauzoleum, gdzie spotkali tajemniczą postać strzegącą wejścia. Rozpoczęli eksplorację [[Nekropolia w Telamok|Nekropolii]], oglądając grobowce [[Smoczy Lordowie|Smoczych Lordów]].
 
 ## Kluczowe wydarzenia / decyzje
 

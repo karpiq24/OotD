@@ -58,7 +58,7 @@ Kiedy truchło ostatniego Blemysa z głuchym łoskotem uderzyło o podłogę, a 
 * Po krótkiej walce i konfrontacji, [[Noland]] zostaje osądzony i ukarany, a drużyna uzyskuje oficjalne przeprosiny dla [[Wiedźma Lotosu|Wiedźmy Lotosu]].
 * Bohaterowie opuszczają wyspę, zabierając ze sobą tajemnicze [[Smocze Jajo|smocze jajo]]. [[Wiedźma Lotosu]] dziękuje im i zdejmuje klątwę z centaurów.
 * Podczas podróży przez [[Zapomniane Morze]], drużyna jest świadkiem przejścia tytana [[Kentimane|Kentimane'a Stu Rękiego]], po czym natrafia na [[Latająca Forteca Smoczych Lordów|latającą fortecę]] [[Talieus|Talieusa]], zamienioną w niekończącą się imprezę.
-* Po zinfiltrowaniu fortecy i pokonaniu strażników - nimf, menad i potwornych [[Blemys|Blemysów]] - bohaterowie stają do walki z samym [[Talieus|Talieusem]].
+* Po zinfiltrowaniu fortecy i pokonaniu strażników - nimf, menad i potwornych [[Blemysi|Blemysów]] - bohaterowie stają do walki z samym [[Talieus|Talieusem]].
 * W zaciętym starciu, po brutalnej wymianie ciosów i obelg, [[Orion Xul|Orion]] zadaje ostateczny cios, a ciało syna [[Sydon|Sydona]] i [[Lutheria|Lutherii]] rozpada się w złoty pył.
 
 ## Pamiętne Cytaty

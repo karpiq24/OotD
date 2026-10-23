@@ -29,3 +29,5 @@ title: Frakcje
 - [[Łamacze Fal]]
 - [[Egida Mytros]]
 - [[Przeklęte Plemię]]
+- [[Krąg Łuski]]
+- [[Rada Mistrzów Arezji]]

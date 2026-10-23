@@ -15,7 +15,7 @@ Po powrocie do [[Vallus]], poinformowali ją, że [[Moxena]] nie będzie już za
 
 [[Kyrah]] opowiedziała im historię o przybyciu bogów do [[Kontynent Thylea|Thylei]] ("Wezwanie nowych bogów").
 
-W trakcie podróży spotkali dziwnego cyklopa (Blemys). Otrzymali od syreny [[Tarcza Xandera|Tarczę Xandera]].
+W trakcie podróży spotkali dziwnego cyklopa ([[Blemysi|Blemys]]). Otrzymali od syreny [[Tarcza Xandera|Tarczę Xandera]].
 
 ## Kluczowe wydarzenia / decyzje
 

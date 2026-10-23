@@ -156,7 +156,7 @@ Został jeszcze dług, którego nie dało się spłacić monetą — **[[Yala]]*
 
 Na **[[Themis]]** [[Amazonki]] wróciły do domu, ale tron pozostał pusty na długie lata. Największą częścią wyspy zarządzała jako regentka **[[Hippolyta]]** — ta sama, która niegdyś pomogła bohaterom — choć sama nie paliła się do zasiadania na tronie. [[Themis]] podzieliła się na dwie frakcje: większą, wierną regentce, i mniejszą, tęskniącą za dawnymi czasami i kwestionującą reformy wprowadzone przez **[[Darien]]**. Ta druga grupa nie zdobyła znaczącej przewagi, a **[[Hippolyta]]** twardo stała na straży dziedzictwa poprzedniczki.
 
-Na wyspie **[[Helios|Heliosa]]** zapanował za to spokój niemal absurdalny: cyklopy rozwinęły ruch pacyfistyczny i hipisowski, chillując beztrosko w towarzystwie hefalumpów, sam **[[Helios]]** nie upominał się o zwrot [[Chariot of Dawn|rydwanu]] do swojego skarbca, a **[[Furie]]** nie przyszły po niego ponownie.
+Na wyspie **[[Helios|Heliosa]]** zapanował za to spokój niemal absurdalny: [[Cyklopi|cyklopy]] rozwinęły ruch pacyfistyczny i hipisowski, chillując beztrosko w towarzystwie hefalumpów, sam **[[Helios]]** nie upominał się o zwrot [[Chariot of Dawn|rydwanu]] do swojego skarbca, a **[[Furie]]** nie przyszły po niego ponownie.
 
 Spośród wszystkich wysp **[[Arevon Elorrenthi|Arevon]]** najbardziej upodobał sobie **[[Wyspa Indygo|Wyspę Indygo]]**. Mieszkało tam bowiem **[[Plemię Delfina]]** — niemal jedyne elfy w całej **[[Kontynent Thylea|Thylei]]**, sympatyczne i wyluzowane, może nawet odrobinę zbyt wyluzowane — a druid postanowił się z nimi zakolegować. W górach w głębi wyspy siedziało z kolei krasnoludzkie **[[Plemię Wieloryba]]**, wciąż trzymające straż nad jedyną **[[Kopalnia Żelaza|Kopalnią Żelaza]]** w [[Kontynent Thylea|Thylei]].
 

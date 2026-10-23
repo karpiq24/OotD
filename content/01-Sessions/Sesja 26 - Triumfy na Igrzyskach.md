@@ -7,7 +7,7 @@ title: Sesja 26 - Triumfy na Igrzyskach
 
 ## Podsumowanie
 
-Na Igrzyskach w [[Mytros]] odbyły się kolejne zawody. Podczas walk [[Hoobert]] poświęcił się, aby ratować [[Felicjan Janus Twardowski|Felicjana]].
+Na [[Wielkie Igrzyska|Igrzyskach]] w [[Mytros]] odbyły się kolejne zawody. Podczas walk [[Hoobert]] poświęcił się, aby ratować [[Felicjan Janus Twardowski|Felicjana]].
 
 ## Postacie Niezależne (NPC)
 

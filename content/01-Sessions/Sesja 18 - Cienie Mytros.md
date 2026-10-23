@@ -11,7 +11,7 @@ title: "Sesja 18: Cienie Mytros"
 
 W tym czasie [[Orestes]] udał się na [[Targ Rybny|Rybi Targ]], a [[Versir]] wyruszył na poszukiwania [[Chondrus|Chondrusa]]. Na targu [[Orestes]] rozmawiał z rybakiem [[Samuel|Samuelem]], który twierdził, że widział Wielkiego Morskiego Żółwia z miastem na grzbiecie. [[Arevon Elorrenthi|Arevon]], również rozmawiając z [[Samuel|Samuelem]], dowiedział się o rozbitkach, którzy pojawili się kilka dni temu, ale prawdopodobnie nie pochodzą z jego świata. 
 
-Na [[Targ Rybny|Rybim Targu]] Meroppe sprzedawała wyśmienite halibuty. [[Arevon Elorrenthi|Arevon]] usłyszał również o statku z [[Arezja|Arezji]], pełnym młodych mnichów wojowników, który został wciągnięty przez wir [[Charybda]] w drodze na [[Wyspa Skorpiona|Wyspę Skorpionów]].
+Na [[Targ Rybny|Rybim Targu]] [[Meroppe]] sprzedawała wyśmienite halibuty. [[Arevon Elorrenthi|Arevon]] usłyszał również o statku z [[Arezja|Arezji]], pełnym młodych mnichów wojowników, który został wciągnięty przez wir [[Charybda]] w drodze na [[Wyspa Skorpiona|Wyspę Skorpionów]].
 
 Drużyna podążyła za pochodem ku czci zmarłych dzieci w [[Świątynia Lutherii|Świątyni Lutherii]]. [[Orestes]] i [[Versir]] chcieli uratować minotaura przeznaczonego na ofiarę, ale [[Arevon Elorrenthi|Arevon]] i [[Felicjan Janus Twardowski|Felicjan]] przekonali ich do zaniechania interwencji. Minotaur, walcząc ze skutymi rękoma, zabił jednego z czterech żołnierzy, zanim sam poległ.
 

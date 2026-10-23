@@ -64,7 +64,7 @@ Wnętrze okrętu przypominało koszmarnego snu szaleńca. Ogród pełen był ro�
 
 **[[Versir]]** jako pierwszy skorzystał z okazji, prosząc o ujawnienie miejsca pobytu **[[Chalcia|Chalcii]]**. Kryształ ukazał mu obraz bardzo dużego, tajemniczego pomieszczenia. W której Chalcia zabawiała się z ósemką kochanków.
 
-Następnie **[[Felicjan Janus Twardowski|Felicjan]]** poprosił o pokazanie tzw. "Armii Sydona". W lustrach ujrzeli potężną flotę **[[Sydon|Sydona]]**, gotową do inwazji. Widok setek okrętów, cyklopów i gyganów nie pozostawiał złudzeń – wojna była nieunikniona.
+Następnie **[[Felicjan Janus Twardowski|Felicjan]]** poprosił o pokazanie tzw. "Armii Sydona". W lustrach ujrzeli potężną flotę **[[Sydon|Sydona]]**, gotową do inwazji. Widok setek okrętów, [[Cyklopi|cyklopów]] i gyganów nie pozostawiał złudzeń – wojna była nieunikniona.
 
 Na koniec **[[Felicjan Janus Twardowski|Felicjan]]**, powołując się na obraz z sypialni Lutherii, zapytał o **[[Karpathos]]a**. Zdziwiona **[[Kalisto]]** zgodziła się na "ostatni" obraz. Lustro ukazało wzgórze z bramą strzeżoną przez dwóch wojowników w arezyjskich zbrojach.
 

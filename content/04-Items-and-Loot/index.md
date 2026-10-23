@@ -43,3 +43,4 @@ title: Przedmioty i Łupy
 - [[Kryształowa Kosa Lutherii]]
 - [[Pierścień Orestesa]]
 - [[Oszczepy Błyskawic]]
+- [[Eye of the Galactic Dragon]]

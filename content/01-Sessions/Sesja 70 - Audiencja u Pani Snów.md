@@ -18,7 +18,7 @@ Następnym przystankiem była **Sala Błyskotek (Hall of Trinkets)**, przypomina
 
 Kolejnym, oddzielnym pomieszczeniem była **Zbrojownia (Hall of Armaments)**. W kątach sali siedziało czterech Jackalwere. Na ścianach, w szkieletowych dłoniach, wisiały dary od [[Sydon|Sydona]] – potężny rynsztunek, który jednak niósł ze sobą klątwę szaleństwa. [[Versir]], oglądając te przedmiotów, wyczuł w nich jednak coś innego – cząstkę duszy swojej matki, Versi Pierwszej, zaklętą w gwiezdnym metalu. Zachował kamienną twarz.
 
-Po wizycie w kuchni, gdzie satyry i lamia przygotowywały wykwintne, choć podejrzanie wyglądające potrawy, drużyna udała się do łaźń, by obmyć się przed audiencją. [[Versir]] wybrał oczekiwanie na sucho, podczas gdy reszta zażywała kąpieli. [[Orion Xul|Orion]] początkowo również odmówił, lecz gdy trzy driady zaoferowały mu pomoc w zdjęciu ciężkiej zbroi i "szorowaniu pleców", wojownik uległ pokusie i zniknął z nimi w oparach pary. Atmosfera gęstniała z każdą minutą, a pytania [[Kyrah]] o cele spotkania z Lutherią zmusiły każdego z herosów do refleksji nad tym, co tak naprawdę chcą osiągnąć w jaskini lwa.
+Po wizycie w kuchni, gdzie satyry i [[Lamia|lamia]] przygotowywały wykwintne, choć podejrzanie wyglądające potrawy, drużyna udała się do łaźń, by obmyć się przed audiencją. [[Versir]] wybrał oczekiwanie na sucho, podczas gdy reszta zażywała kąpieli. [[Orion Xul|Orion]] początkowo również odmówił, lecz gdy trzy driady zaoferowały mu pomoc w zdjęciu ciężkiej zbroi i "szorowaniu pleców", wojownik uległ pokusie i zniknął z nimi w oparach pary. Atmosfera gęstniała z każdą minutą, a pytania [[Kyrah]] o cele spotkania z Lutherią zmusiły każdego z herosów do refleksji nad tym, co tak naprawdę chcą osiągnąć w jaskini lwa.
 
 ### Kres Upiornego Kapitana i Początek Audiencji
 ![Śmierć Estora](../assets/sessions/070/smierc_estora.webp)
@@ -72,7 +72,7 @@ Drużyna opracowała plan infiltracji. Zamiast frontalnego ataku, postanowili wy
 * **[[Versir]]**: "Powiedz mi, jak to jest wychowywać dzieci na grobach tych, których nie potrafiłaś kochać?"
 * **[[Volkan]]**: "Klient wymaga, nie zadaję zbędnych pytań." (o figurce [[Felicjan Janus Twardowski|Felicjana]])
 * **[[Arevon Elorrenthi|Arevon]]**: "Surprise, motherfucker!" (o planie wyjścia z beczek/chmury w wieży)
-* **[[Lutheria]]** (o [[Acastus]]ie): "Poszłam z nim do łóżka podczas Wielkich Igrzysk. Jest całkiem niezłym kochankiem. Ale jest dość obsesyjny na punkcie [[Sydon|Sydona]]."
+* **[[Lutheria]]** (o [[Acastus]]ie): "Poszłam z nim do łóżka podczas [[Wielkie Igrzyska|Wielkich Igrzysk]]. Jest całkiem niezłym kochankiem. Ale jest dość obsesyjny na punkcie [[Sydon|Sydona]]."
 * **[[Lutheria]]** (do [[Versir|Versira]]): "Chyba czas na ciebie, [[Versir]]."
 
 ## Postacie
