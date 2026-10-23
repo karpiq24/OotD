@@ -12,7 +12,7 @@ Talieus był tytanem, synem [[Sydon|Sydona]] i [[Lutheria|Lutherii]]. Zblazowany
 Z jednej strony był przystojnym, boskim młodzieńcem o arogancji równej jego mocy, z drugiej potrafił wpaść w niszczycielską furię.
 
 ## Osobowość
-Początkowo znany z jawnej wrogości (Góra Volkana).
+Początkowo znany z jawnej wrogości ([[Góra Volkana|Góra Volkana]]).
 
 Później objawił się jako znudzony hedonista, który zamienił starożytną fortecę w miejsce niekończącej się imprezy („Latająca Ibiza", [[Sesja 59 - Koniec Imprezy]]). Jego arogancja ostatecznie doprowadziła go do zguby.
 

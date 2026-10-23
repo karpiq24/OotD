@@ -14,7 +14,7 @@ Wydaje się darzyć innych pewnym szacunkiem, a przynajmniej ciekawością pozba
 ## Historia
 Podobnie jak reszta rodzeństwa, nosiła imię po jednym z pierwotnych Tytanów — po ciotce, [[Yala Pierwsza|Yali Pierwszej]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na Górze Volkana spoglądała na bohaterów z szacunkiem.
+Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na [[Góra Volkana|Górze Volkana]] spoglądała na bohaterów z szacunkiem.
 
 W [[Sesja 30 - Zakończenie Igrzysk]] okazała się w Wielkim Młynie trudnym przeciwnikiem i pokonała swojego brata [[Hergeron|Hergerona]].
 

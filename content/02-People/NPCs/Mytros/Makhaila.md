@@ -7,4 +7,4 @@ title: Makhaila
 _Główna sekretarz królowej Vallus_
 
 ## Historia
-Obecna podczas rytuału na Górze Volkana.
+Obecna podczas rytuału na [[Góra Volkana|Górze Volkana]].

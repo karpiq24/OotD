@@ -17,7 +17,7 @@ Miała przebiegły uśmiech, była ciekawska i lubiła przyglądać się śmiert
 ## Historia
 Podobnie jak reszta rodzeństwa, nosiła imię po jednym z pierwotnych Tytanów — po ciotce, [[Chalcia Pierwsza|Chalci Pierwszej]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas rytuału na Górze Volkana podleciała najbliżej bohaterów, przyglądając się każdemu z osobna z przebiegłym uśmiechem.
+Pojawiła się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas rytuału na [[Góra Volkana|Górze Volkana]] podleciała najbliżej bohaterów, przyglądając się każdemu z osobna z przebiegłym uśmiechem.
 
 W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] wylądowała na pokładzie [[Ultros]]a i odwiedziła bohaterów. Przepowiedziała im porażkę, stwierdziła, że gdy przysięga dobiegnie końca, [[Thylea]] będzie należeć do tytanów, i sugerowała, że ich działania są sterowane przez innych. Po wygłoszeniu mrocznego proroctwa odleciała.
 

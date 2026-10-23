@@ -47,7 +47,7 @@ Po wygłoszeniu przepowiedni przez [[Versi]], Kyrah zaoferowała się jako przew
 
 W [[Sesja 2 - Przepowiednia]] wręczyła bohaterom obiecane złote strzały, wyjaśniła zasady działania Sławy i zachęciła ich do złożenia Przysięgi Braterstwa. W [[Sesja 3 - Skradziony Róg]] okazało się, że podróżująca z nimi Kyrah jest Boginią Muzyki. W [[Sesja 12 - Furia Boga Bitwy]] wraz z [[Pythor|Pythorem]] zastanawiała się nad konsekwencjami boskiej ingerencji w związku z Przysięgą Pokoju. W [[Sesja 13 - Wezwani przez Króla]] podpowiedziała, że [[Mojry]] mogą być odpowiedzialne za klątwę [[Orestes|Orestesa]].
 
-Podczas kryzysu w Mytros ([[Sesja 14 - Burza nad Mytros]]) razem z [[Vallus]] i bohaterami udała się na Górę Volkana, gdzie przeprowadzono rytuał mający powstrzymać burzę.
+Podczas kryzysu w Mytros ([[Sesja 14 - Burza nad Mytros]]) razem z [[Vallus]] i bohaterami udała się na [[Góra Volkana|Górę Volkana]], gdzie przeprowadzono rytuał mający powstrzymać burzę.
 
 Na szczycie grała jednocześnie na **flecie, lutni i lirze**, poruszając się z boską szybkością. Jej muzyka, połączona z grą na harfie przez **[[Boreas|Boreasa]]** (którego przekonała do pomocy) i wspierana mocą **[[Vallus]]**, zdołała odeprzeć burzę Sydona i uspokoić Tytanów. To wydarzenie było też momentem odnowienia jej więzi z siostrą Vallus.
 

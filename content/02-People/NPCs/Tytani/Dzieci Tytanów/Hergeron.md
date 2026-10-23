@@ -13,7 +13,7 @@ Hergeron był potężnym półbogiem (empyreanem), synem [[Sydon|Sydona]] i [[Lu
 ## Historia
 Podobnie jak reszta rodzeństwa, nosił imię po jednym z pierwotnych Tytanów — po wuju, [[Hergeron Pierwszy|Hergeronie Pierwszym]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Był jednym z pięciorga dzieci Sydona, które wymieniono w [[Sesja 14 - Burza nad Mytros]]; podczas rytuału na Górze Volkana obserwował bohaterów w milczeniu.
+Był jednym z pięciorga dzieci Sydona, które wymieniono w [[Sesja 14 - Burza nad Mytros]]; podczas rytuału na [[Góra Volkana|Górze Volkana]] obserwował bohaterów w milczeniu.
 
 W [[Sesja 7 - Uratować Księżniczkę]] obwinił [[Gaius|Commandera Gaiusa]] o porażkę związaną z niedopełnieniem ofiary z [[Anora|Anory]].
 

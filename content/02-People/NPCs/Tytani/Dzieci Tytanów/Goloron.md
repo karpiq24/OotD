@@ -15,7 +15,7 @@ Jego obecność budziła niepokój.
 ## Historia
 Podobnie jak reszta rodzeństwa, nosił imię po jednym z pierwotnych Tytanów — po wuju, [[Goloron Pierwszy|Goloronie Pierwszym]] ([[Sesja 70 - Audiencja u Pani Snów]]).
 
-Pojawił się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na Górze Volkana jego spojrzenie zdradzało oznaki obłędu.
+Pojawił się już w [[Sesja 14 - Burza nad Mytros]], wśród tytanów obecnych w tej sesji. Podczas spotkania na [[Góra Volkana|Górze Volkana]] jego spojrzenie zdradzało oznaki obłędu.
 
 W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] stoczył epicką walkę z [[Kraken|Krakenem]] pośród morskiej burzy, rzucając mroczne zaklęcia i emanując nekromantyczną energią. Gdy walka dobiegła końca, wzbił się w powietrze i odleciał.
 

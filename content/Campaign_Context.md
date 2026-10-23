@@ -64,7 +64,7 @@ Nowi bogowie, którzy przybyli, by chronić osadników. W rzeczywistości **brą
 ### Główne Miasta
 *   **[[Mytros]] (Miasto Świtu):** Największe miasto-państwo Thylei.
     *   *Opis:* Metropolia chroniona przez potężne mury i tarczę bogini Mytros. Po abdykacji Acastusa rządzi nią królowa Vallus z radą; miasto odbudowano i rośnie w morską potęgę, a wokół wyrastają kapliczki Bohaterów Przepowiedni.
-    *   *Miejsca:* Świątynia Pięciu, Góra Volkana (wygasły wulkan z areną Igrzysk), Kolos Pythora w porcie, Akademia.
+    *   *Miejsca:* Świątynia Pięciu, [[Góra Volkana|Góra Volkana]] (wygasły wulkan z areną Igrzysk), Kolos Pythora w porcie, Akademia.
 *   **[[Estoria]]:** Miasto na północy, rządzone przez księżniczkę (potem władczynię) Anorę.
     *   *Opis:* Twierdza na klifach, pierwsza linia obrony przed dzikimi centaurami i potworami.
     *   *Miejsca:* Skała Estora (miejsce ofiar), Kuźnia Volkana.
