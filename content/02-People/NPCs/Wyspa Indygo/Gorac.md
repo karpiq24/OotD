@@ -9,7 +9,7 @@ _Arogancki przywódca Plemienia Rekina._
 ## Opis
 Niezwykle wysoki i szczupły półelf, groźny wojownik.
 
-Przywódca [[Plemię Rekina|Plemienia Rekina]].
+Przywódca [[Plemię Rekina|Plemienia Rekina]], który objął wodzostwo po poprzednim przywódcy, zabitym smoczym kwasem ([[Sesja 42 - Plemię Węgorza]]).
 
 ## Osobowość
 Arogancki i niechętny do współpracy. Pewny siebie i gardzący słabością.

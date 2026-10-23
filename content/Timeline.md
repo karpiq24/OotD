@@ -136,12 +136,12 @@
 * Zawarcie ostatecznego układu z [[Moxena|Moxeną]] w jej siedzibie w [[Kolos Pythora]] (pomoc przeciwko smoczycy [[Hexia|Hexii]]).
 * Wyruszenie na poszukiwania legendarnego statku [[Ultros]].
 * [[Kyrah]] wyjawia historię przybycia bogów do [[Kontynent Thylea|Thylei]].
-* Otrzymanie [[Tarcza Xandera]] od syreny.
+* Syrena-kurier dostarcza drużynie [[Tarcza Xandera|Tarczę Xandera]], naprawianą wcześniej przez [[Volkan|Volkana]].
 
 ## Sesja 24 - Ultros (29.09.2024)
 * Odnalezienie [[Ultros|Ultrosa]] w [[Martwe Wodospady|Martwych Wodospadach]].
 * Spotkanie z przeklętą załogą i kapitanem [[Estor Arkelander|Estorem Arkelanderem]].
-* Krwawa bitwa na pokładzie – [[Estor Arkelander|Estor]] zabija [[Arevon Elorrenthi|Arevona]] i informatorkę [[Astra|Astrę]]; interwencja [[Kyrah]] odbiera mu ludzką formę.
+* Krwawa bitwa na pokładzie – [[Estor Arkelander|Estor]] zabija [[Arevon Elorrenthi|Arevona]] i informatorkę [[Astra|Astrę]]; [[Kyrah]], poświęcając część boskiej mocy, przywraca ich do życia i odbiera Estorowi ludzką formę.
 * Pokonanie [[Estor Arkelander|Estora]] – [[Felicjan Janus Twardowski|Felicjan]] zadaje ostatni cios.
 * [[Orestes]] obejmuje dowództwo nad statkiem i wybiera „ścieżkę żywych”, co powoduje odejście duchów załogi.
 
@@ -192,7 +192,7 @@
 ## Sesja 34 - Ivello i Drapaczka do Pleców (16.12.2024)
 * Walka z amazonkami, marmurowymi golemami i bazyliszkiem w korytarzach fortecy.
 * Odnalezienie i odczarowanie (ożywienie) spetryfikowanego [[Ivello Ostren|Ivello Ostrena]], towarzysza [[Arevon Elorrenthi|Arevona]].
-* Przybycie do [[Obóz Lwicy|Obozu Lwicy]] i narada z [[Hippolyta|Hippolytą]] w sprawie obalenia uzurpatorki [[Thessilea|Thessilei]].
+* Przybycie do [[Obóz Lwicy|Obozu Lwicy]] i narada z [[Hippolyta|Hippolytą]] w sprawie obalenia [[Nastura|Nastury]], która rządziła Themis, podszywając się pod dawno zmarłą królową [[Thessilea|Thessileę]].
 * Podjęcie planu dywersji mającej na celu odciągnięcie sił z pałacu.
 * Wydobycie z fortecy i uwolnienie cyklopa [[Bront|Bronta]].
 
@@ -250,7 +250,7 @@
 * Walka z żywiołakami i magicznymi strażnikami w kopalni.
 * Opracowanie planu odbicia zakładniczki z leża smoczycy.
 
-## Sesja 44 - Ventis (19.02.2025)
+## Sesja 44 - Ventis (10.03.2025)
 * Udana akcja ratunkowa – [[Versir]] i [[Felicjan Janus Twardowski|Felicjan]] teleportują [[Brenna|Brennę]] w bezpieczne miejsce.
 * Finałowa bitwa z miedzianą smoczycą [[Ventis]] w jej leżu – bestia zostaje zgładzona przez [[Orestes|Orestesa]] i [[Versir|Versira]].
 * Zdobycie cennych surowców (smocze części, [[Gwiezdny Metal]]) i zawarcie sojuszy z plemionami Wieloryba, [[Plemię Delfina|Delfina]] i [[Plemię Węgorza|Węgorza]] na [[Wyspa Indygo]].
@@ -266,7 +266,7 @@
 * Zdemaskowanie i publiczna egzekucja [[Keelan|Keelana]] wykonana przez [[Orestes|Orestesa]].
 * Zawarcie sojuszu z wygnańcami i zabranie [[Idylla|Idylli]] na pokład [[Ultros|Ultrosa]].
 
-## Sesja 47 - Wyspa Mojr (13.05.2025)
+## Sesja 47 - Wyspa Mojr (12.05.2025)
 * Przybycie na złowieszczą [[Wyspa Mojr]] i konfrontacja z wizjami własnej śmierci ukazanymi przez gobeliny nad jeziorem, po eksploracji ruin wieży [[Gyganie|Gyganów]].
 * Starcie z potwornymi strażnikami przed jaskiniami i audiencja u trzech [[Mojry|Mojr]].
 * [[Orion Xul]] zawiera pakt z [[Nona|Noną]] w zamian za wzmocnienie swojej włóczni.
@@ -379,7 +379,7 @@
 
 ## Sesja 67 - Zguba Estora (27.01.2026)
 * Wyprawa do [[Lustrzane Więzienie|Lustrzanego Więzienia]] i pokonanie ducha mosiężnego smoka [[Hezzebal|Hezzebala]].
-* **Zniszczenie ducha [[Estor Arkelander|Estora Arkelandera]]** – [[Orestes]] przebija go jego własnym mieczem [[Xiphos of Slaughter]], który pożera duszę Smoczego Lorda. <!-- CONFLICT: Sesja 70 pokazuje Estora jeszcze raz, ostatecznie uśmierconego przez Lutherię; tu wg recapu 67. -->
+* **Zniszczenie ducha [[Estor Arkelander|Estora Arkelandera]]** – [[Orestes]] przebija go jego własnym mieczem [[Xiphos of Slaughter]], który pożera duszę Smoczego Lorda – wydaje się, że to jego koniec; Lutheria przywróci go jednak do istnienia i w Sesji 70 ostatecznie go uśmierci.
 * Zdobycie legendarnego skarbu Smoczych Lordów.
 
 ## Sesja 68 - Arena Krzywoprzysięstwa (02.02.2026)
@@ -482,12 +482,12 @@
 ## Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów (13.07.2026)
 * [[Arevon Elorrenthi|Arevon]] wskrzesza [[Nephele (Smok)|Nephele]] (Revivify); w jej ciele zamieszkuje dusza [[Despina|Despiny]] uwolniona z amuletu [[Felicjan Janus Twardowski|Felicjana]], po czym smoczyca odlatuje.
 * Dotarcie na [[Targ Minotaurów]], gdzie [[Lutheria]] więzi i mutuje mieszkańców.
-* Walka ze sługami bogini: [[Versir]] zabija [[Chondrus|Chondrusa]], a [[Orion Xul|Orion]] i [[Arevon Elorrenthi|Arevon]] uśmiercają Cerbera.
+* Walka ze sługami bogini: [[Versir]] zabija [[Chondrus|Chondrusa]], a [[Orion Xul|Orion]] i [[Arevon Elorrenthi|Arevon]] walczą z Cerberem, który ginie od potężnej błyskawicy.
 * **Śmierć [[Orestes|Orestesa]]** od Finger of Death rzuconego przez Lutherię i jego powstanie jako zombie, który mimo to wspiera drużynę z łuku.
 * Ranna Lutheria teleportuje się z pola walki, ostrzegając przed [[Kentimane|Kentimanem]], który chce pomścić syna [[Sydon|Sydona]].
 
 ## Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów (20.07.2026)
-* [[Orion Xul|Orion]] dobija Lamię, a [[Klonicjan]] przebija [[Lutheria|Lutherię]] włócznią [[Kolos Pythora|Kolosa Pythora]]; bogini nie padnie jednak od zwykłego oręża, tylko od broni godnej Tytanki.
+* [[Klonicjan]] przebija [[Lutheria|Lutherię]] włócznią [[Kolos Pythora|Kolosa Pythora]]; bogini nie padnie jednak od zwykłego oręża, tylko od broni godnej Tytanki.
 * Lutheria wciąga drużynę do [[Świat Snów|Świata Snów]], otaczając się siedmioma odbiciami; [[Felicjan Janus Twardowski|Felicjan]] odnajduje prawdziwą boginię.
 * Walka w domenie bogini: psioniczny krzyk, Aura Czystości [[Versir|Versira]], słup światła Felicjana i uderzenie [[Zguba Tytanów|Zgubą Tytanów]] dławiące jej regenerację, aż [[Świat Snów]] się załamuje.
 * **Śmierć [[Lutheria|Lutherii]]** – po dobrowolnym zakończeniu walki [[Orestes]] odcina jej głowę [[Topór Xandera|Toporem Xandera]]; po bogini zostaje [[Kryształowa Kosa Lutherii|kryształowa kosa]], a jej klątwa nad [[Mytros]] się rozwiewa.

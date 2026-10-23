@@ -21,7 +21,7 @@ Arezyjczycy prędzej daliby się wybić, niż poprosili o pomoc.
 - [[Czerwony Lotos]]: gospoda, w której barmanką jest [[Jocasta]].
 
 ## Historia
-Pierwszym królem Arezji był [[Karpathos]] Wilczy Lord. Według opowieści [[Pythor|Pythora]] i [[Kyrah]] ich brat [[Narsus]], bóg piękna, sprzymierzył się z [[Karpathos|Karpathosem]], dowódcą smoczych jeźdźców, i pomógł mu w ucieczce po zabójstwie [[Xander|Xandera]].
+Pierwszym królem Arezji był [[Karpathos]] Wilczy Lord. Według opowieści [[Pythor|Pythora]] i [[Kyrah]] ich brat [[Narsus]], bóg piękna, sprzymierzył się ze Smoczym Lordem [[Karpathos|Karpathosem]], dowódcą smoczych jeźdźców, i pomógł mu w ucieczce po zabójstwie [[Xander|Xandera]].
 
 Arezja została założona na południowym wschodzie, a później rządziły nią królowe, m.in. [[Calliope]].
 

@@ -12,7 +12,7 @@ Niegdyś wspaniała rezydencja, dziś pałac w [[Estoria|Estorii]] spowity jest 
 - **Kolekcja Artefaktów**: Korytarze ozdobione są pamiątkami z czasów Pierwszej Wojny i gobelinami upamiętniającymi czyny [[Pythor|Pythora]].
 
 ## Mieszkańcy
-- **[[Pythor]]**: Bóg Bitwy i król Estorii.
+- **[[Pythor]]**: dawny Bóg Bitwy i król Estorii, który oddał tron córce [[Anora|Anorze]].
 - **[[Anora]]**: Córka króla.
 - **Doradcy**: Grupa szlachty wspierająca króla w zarządzaniu.
 - **[[Gaius]] i Zakon Sydona**: W pałacu często przebywa delegacja Zakonu Sydona, domagająca się ofiary.

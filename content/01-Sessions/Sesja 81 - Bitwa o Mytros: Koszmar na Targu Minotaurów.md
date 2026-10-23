@@ -99,7 +99,7 @@ Ziemią wstrząsnęły gwałtowne drżenia zwiastujące przebudzenie góry Volka
 * Dotarcie na [[Targ Minotaurów]], gdzie bohaterowie zastali zmutowanych, pogrążonych w obłędzie mieszkańców ucztujących na rozkaz bogini śmierci.
 * Próba zdradzieckiego ataku [[Orestes]]a na [[Lutheria|Lutherię]], która przejrzała podstęp i obezwładniła go zaklęciem *Tasha's Hideous Laughter*.
 * Rozbicie bariery *Wall of Force* [[Chondrus]]a przez [[Versir]]a za pomocą zaklęcia *Toll the Dead*.
-* Uśmiercenie trójgłowego Cerbera przez [[Arevon Elorrenthi|Arevona]] i [[Orion Xul|Oriona]].
+* Uśmiercenie trójgłowego Cerbera.
 * Zmuszenie Lamii do ucieczki zaklęciem *Command (Flee)* rzuconym przez [[Versir]]a; bestia po pewnym czasie powróciła do walki, po czym została ostatecznie dobita przez [[Orion Xul|Oriona]].
 * Skuteczne rzucenie *Dispel Magic* przez [[Felicjan Janus Twardowski|Felicjana]] na [[Klonicjan|Klonicjana]], co uwolniło go spod wpływu szaleństwa (*Madness*) nałożonego przez [[Lutheria|Lutherię]].
 * Śmierć [[Orestes]]a od zaklęcia *Finger of Death* rzuconego przez [[Lutheria|Lutherię]] i jego powstanie jako nieumarłego zombie, który mimo wrogiego czaru wspomagał drużynę strzałami z łuku.

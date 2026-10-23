@@ -13,7 +13,6 @@ _Szef kuchni w Praxys, który pomógł drużynie i został uwolniony z wieży._
 
 ## Opis
 Koźlak, główny szef kuchni w wieży [[Praxys]]. Bystry i spostrzegawczy – natychmiast przejrzał przebrania drużyny. Zmęczony despotycznymi rządami Władcy Burz i wizją nadchodzącej, wyniszczającej wojny.
-<!-- CONFLICT: S71 „koźlaka imieniem Ramsus" vs S72 „wykwalifikowanego gnoma imieniem Ramsus" (ten sam tekst S72 nazywa go też koźlakiem) -->
 
 ## Historia
 Mieszkał i zarządzał kuchnią w wieży [[Praxys]]. W [[Sesja 71 - Infiltracja Praxys]] [[Arevon Elorrenthi|Arevon]] w postaci eterycznej chmury zwiadował pomieszczenia po drodze z odpływu w latrynie i odkrył kuchnię pod batutą koźlaka imieniem Ramsus.

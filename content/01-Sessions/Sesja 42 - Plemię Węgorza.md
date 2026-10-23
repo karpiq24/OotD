@@ -43,7 +43,7 @@ Wkrótce, ich oczom ukazała się ona sama. Loopywoopy, gnomka o żywym spojrzen
 
 Rozmowa z Loopywoopy odbyła się w serdecznej atmosferze, pełnej gościnności i ciekawości. Przywódczyni Węgorzy, okazała się być kobietą mądrą i przedsiębiorczą, chętnie dzieląc się wiedzą o wyspie i jej mieszkańcach. Podczas uczty, wyprawionej na cześć gości, Loopywoopy podzieliła się z bohaterami niepokojącymi wieściami. Powiedziała o smoczycy miedzianej, [[Ventis]], która siała postrach na wyspie, powołując się na chwałę [[Smoczy Lordowie|Smoczych Lordów]]. Wieści o atakach smoczycy, jej okrucieństwie i potencjalnych ofiarach wśród plemion Wieloryba i Rekina, zaniepokoiły bohaterów.
 
-Loopywoopy wyjaśniła, że plemię Wieloryba, krasnoludy z gór, od kilku tygodni milczy, a dowódca plemienia Rekina, zginął stopiony smoczym kwasem. Smoczyca, jak się zdawało, nie była posłańcem pokoju, lecz zwiastunem zagłady. Smoczy Lordowie, których imieniem się zasłaniała, nie cieszyli się ostatnio dobrą opinią wśród plemion Wyspy Indygo, budząc raczej strach i nieufność niż szacunek i podziwienie.
+Loopywoopy wyjaśniła, że plemię Wieloryba, krasnoludy z gór, od kilku tygodni milczy, a dawny przywódca plemienia Rekina zginął stopiony smoczym kwasem. Smoczyca, jak się zdawało, nie była posłańcem pokoju, lecz zwiastunem zagłady. Smoczy Lordowie, których imieniem się zasłaniała, nie cieszyli się ostatnio dobrą opinią wśród plemion Wyspy Indygo, budząc raczej strach i nieufność niż szacunek i podziwienie.
 
 Gdy uczta dobiegała do końca, a bohaterowie przygotowywali się do opuszczenia gościnnego plemienia Węgorza, niebo pociemniało, a na horyzoncie pojawił się cień. Potężna miedziana smoczyca, Ventis, pojawiła się nad osadą, siejąc panikę i przerażenie. Rozpoczęła się walka.
 

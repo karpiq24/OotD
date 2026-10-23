@@ -9,7 +9,7 @@ title: "Sesja 24: Ultros"
 
 Drużyna podążała za mapą otrzymaną od króla [[Acastus|Acastusa]], prowadzącą do ostatniego znanego miejsca pobytu legendarnego statku [[Ultros]]. Mapa doprowadziła ich do [[Martwe Wodospady|Martwych Wodospadów]] na wschodzie Heartlands. Po drodze zatrzymali się w gospodzie "[[Kwaśny Rocznik]]", gdzie zebrali plotki o [[Ultros|Ultrosie]] i wodospadach.
 
-Dotarłszy do wodospadów, drużyna odnalazła [[Ultros]] zacumowany przy brzegu. Na statku spotkali ducha driady [[Delphia|Delphiny]], która wyjawiła, że jest związana ze statkiem i opowiedziała o tragicznych wydarzeniach z przeszłości, kiedy to [[Estor Arkelander]] zabił ją i jej siostrę [[Demetria|Demetria]], a następnie użył drzewa, z którym była związana, do stworzenia masztu [[Ultros|Ultrosa]].
+Dotarłszy do wodospadów, drużyna odnalazła [[Ultros]] zacumowany przy brzegu. Na statku spotkali ducha driady [[Delphia|Delphiny]], która wyjawiła, że jest związana ze statkiem i opowiedziała o tragicznych wydarzeniach z przeszłości, kiedy to [[Estor Arkelander]] zabił ją, siostrę [[Demetria|Demetrii]], a następnie użył drzewa, z którym była związana, do stworzenia masztu [[Ultros|Ultrosa]].
 
 Następnie drużyna spotkała kolejnych członków załogi:
 
@@ -27,7 +27,7 @@ Podczas walki, [[Estor Arkelander|Estor]], który wydawał się być nieśmierte
 
 "Nie, Estorze, mam tego dosyć." - odparła [[Kyrah]] z determinacją. "Twierdziłeś, że nie masz już nic wspólnego z nami ani z Tytanami, więc przypuszczam, że Furie nie mogą uważać cię za chronionego Przysięgą Pokoju." 
 
-[[Kyrah]] złożyła ręce, które zaczęły błyszczeć. "Zbyt długo czułam się winna z twojego powodu. Nie skrzywdzisz już nikogo, kogo kocham. Nigdy. Więcej."  Z siłą rozdarła swoje ręce, a jasne światło otoczyło wszystkich, lecząc ich rany.
+[[Kyrah]] złożyła ręce, które zaczęły błyszczeć. "Zbyt długo czułam się winna z twojego powodu. Nie skrzywdzisz już nikogo, kogo kocham. Nigdy. Więcej."  Z siłą rozdarła swoje ręce, a jasne światło otoczyło wszystkich, przywracając do życia poległych [[Astra|Astrę]] i [[Arevon Elorrenthi|Arevona]] i lecząc rany pozostałych; Kyrah poświęciła na to część swojej boskiej mocy.
 
 Gdy światło zgasło, [[Estor Arkelander|Estor]] zmienił się nie do poznania. W miejscu, w którym przed chwilą stał imponująco wyglądający mężczyzna, była teraz rozpadająca się, szkieletowa zjawa. Jego oczy świeciły złowieszczym czerwonym światłem, a on sam zdawał się utrzymywać formę jedynie siłą własnej nienawiści. "Co zrobiłaś KURWO?!" - ryknął.
 

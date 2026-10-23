@@ -19,7 +19,7 @@ Na statku, [[Ivello Ostren|Ivello]] opowiada o swoich przeżyciach na [[Themis]]
 
 Drużyna wyrusza w dalszą podróż. Po drodze, [[Arevon Elorrenthi|Arevon]] rozmawia z [[Ivello Ostren|Ivello]] o zasadach panujących w tym świecie, o mocy przysiąg i o niebezpieczeństwie ich złamania. 
 
-Statek zbliża się do wyspy. Drużyna kontaktuje się z [[Hippolyta|Hippolytą]] za pomocą magii. Kierują się na wschód wyspy, gdzie spotykają [[Focabe]], która zaprowadziła ich do [[Obóz Lwicy|obozu plemienia Lwicy]]. [[Hippolyta]] informuje ich o sytuacji w pałacu i prosi o pomoc w obaleniu fałszywej królowej (prawdopodobnie [[Thessilea]]). Twierdzi, że to amazonki muszą zdetronizować oszustkę, ale przyda się dywersja, która ograniczy siły w pałacu. Drugą kwestią jest [[Yala]], córka [[Sydon|Sydona]] i [[Lutheria|Lutherii]], nadal nie wiadomo po której stronie stanie. [[Hippolyta]] twierdzi, że [[Yala|Yalę]] widziano w okolicy pałacu podczas polowania. Prosi bohaterów, aby to oni zwrócili się do niej.
+Statek zbliża się do wyspy. Drużyna kontaktuje się z [[Hippolyta|Hippolytą]] za pomocą magii. Kierują się na wschód wyspy, gdzie spotykają [[Focabe]], która zaprowadziła ich do [[Obóz Lwicy|obozu plemienia Lwicy]]. [[Hippolyta]] informuje ich o sytuacji w pałacu i prosi o pomoc w obaleniu fałszywej królowej, która podszywa się pod [[Thessilea|Thessileę]]. Twierdzi, że to amazonki muszą zdetronizować oszustkę, ale przyda się dywersja, która ograniczy siły w pałacu. Drugą kwestią jest [[Yala]], córka [[Sydon|Sydona]] i [[Lutheria|Lutherii]], nadal nie wiadomo po której stronie stanie. [[Hippolyta]] twierdzi, że [[Yala|Yalę]] widziano w okolicy pałacu podczas polowania. Prosi bohaterów, aby to oni zwrócili się do niej.
 
 ## Kluczowe wydarzenia / decyzje
 

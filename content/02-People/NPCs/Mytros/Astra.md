@@ -21,7 +21,7 @@ W [[Sesja 21 - Ukryte pragnienia Ismene]] przyszła do [[Versir|Versira]] w kapt
 
 W [[Sesja 22 - Taniec z Meduzą]] [[Versir]] chciał ją uwolnić.
 
-W [[Sesja 24 - Ultros]], podczas walki na widmowym statku [[Ultros]], została zabita przez [[Estor Arkelander|Estora]] Arkelandera, który skupił się na niej i na [[Arevon Elorrenthi|Arevonie]]. Gdy sytuacja stała się rozpaczliwa, wkroczyła bogini [[Kyrah]], a rozdarte przez nią jasne światło wyleczyło rany wszystkich obecnych.
+W [[Sesja 24 - Ultros]], podczas walki na widmowym statku [[Ultros]], została zabita przez [[Estor Arkelander|Estora]] Arkelandera, który skupił się na niej i na [[Arevon Elorrenthi|Arevonie]]. Gdy sytuacja stała się rozpaczliwa, wkroczyła bogini [[Kyrah]], a rozdarte przez nią jasne światło przywróciło Astrę do życia i wyleczyło rany wszystkich obecnych; Kyrah poświęciła na to część swojej boskiej mocy.
 
 W [[Sesja 30 - Zakończenie Igrzysk]] zatańczyła z Versirem na uczcie u Tarana.
 

@@ -23,7 +23,7 @@ Gdy atmosfera na statku gęstniała wraz z pogarszającą się pogodą, [[Melani
 
 Stworzenie, mimo swych niewielkich rozmiarów, wykazało się natychmiastową inteligencją, pytając o obecny rok. Felicjan powitał go w roku 499. Smok był lekko zaskoczony, że nie wykluł się na znajomej mu [[Wyspa Czasu|Wyspie Czasu]], ale stwierdził, że chętnie dołączu do załogi Ultrosa.
 
-Felicjan rozważając swoją misję odrodzenia Zakonu Smoczych Lordów, zapytał [[Chh'Krtak|Chh'Krtaka]], czy chciałby znaleźć partnera z którym będą walczyć o lepszą przyszłość. Smok choć zdezorientowany, szybko zadeklarował chęć walki u boku bohaterów, pytając o możliwość "palenia wrogów i jedzenia ich ciał". Tak narodził się [[Paradoks]].
+Felicjan rozważając swoją misję odrodzenia Zakonu Smoczych Lordów, zapytał [[Chh'Krtak|Chh'Krtaka]], czy chciałby znaleźć partnera z którym będą walczyć o lepszą przyszłość. Smok choć zdezorientowany, szybko zadeklarował chęć walki u boku bohaterów, pytając o możliwość "palenia wrogów i jedzenia ich ciał".
 
 ### Gniew Krakena
 

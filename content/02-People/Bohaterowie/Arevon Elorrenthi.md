@@ -23,7 +23,7 @@ W [[Sesja 9 - W Głębi Grobowca Xandera]] otrzymał od [[Damon|Damona]] [[Eye o
 
 W [[Sesja 20 - Noc Długich Rogów]] został zaatakowany przez cyborga, a jego kruk śledził kobiety prowadzące minotaury aż do Kolosa Pythora. W [[Sesja 21 - Ukryte pragnienia Ismene]] znalazł w bibliotece książkę Volkana "Golemy i Automatony", z której dowiedział się o [[Keledone]]. W [[Sesja 22 - Taniec z Meduzą]] znalazł w kajucie kapitana złoty płaszcz, sakiewkę złota i mapy gwiazd, ale nie Antikytherę.
 
-W [[Sesja 24 - Ultros]], w poszukiwaniu statku [[Ultros]] przy [[Martwe Wodospady|Martwych Wodospadach]], stanął do walki z kapitanem widmo [[Estor Arkelander|Estorem Arkelanderem]], który skupił się na nim i na Astrze, zabijając ich oboje. Gdy [[Kyrah]] otoczyła wszystkich jasnym światłem leczącym rany, Estor został osłabiony i ostatecznie pokonany przez drużynę.
+W [[Sesja 24 - Ultros]], w poszukiwaniu statku [[Ultros]] przy [[Martwe Wodospady|Martwych Wodospadach]], stanął do walki z kapitanem widmo [[Estor Arkelander|Estorem Arkelanderem]], który skupił się na nim i na Astrze, zabijając ich oboje. Gdy [[Kyrah]], poświęcając część swojej boskiej mocy, otoczyła wszystkich jasnym światłem, które przywróciło Arevona i Astrę do życia i wyleczyło rany pozostałych, Estor został osłabiony i ostatecznie pokonany przez drużynę.
 
 W [[Sesja 29 - Rydwany i Jeden z Dziesięciu]] próbował powstrzymać Felicjana, teleportując się na jego rydwan, ale mu się nie udało. W [[Sesja 30 - Zakończenie Igrzysk]] wygrał Wielki Młyn, ostatnią walkę Igrzysk, choć drużyna ponoć dała mu fory.
 

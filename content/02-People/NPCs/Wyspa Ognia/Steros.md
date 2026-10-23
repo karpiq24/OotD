@@ -21,7 +21,7 @@ W [[Sesja 37 - Próba Ognia]] bohaterowie dowiedzieli się, że Sydon dostarczy�
 
 W [[Sesja 38 - Bitwa w Kalderze]] po bitwie wrócił z drużyną i Brontem do wioski jaszczuroludzi.
 
-W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] jako dowódca [[Egida Mytros|Egidy Mytros]] walczył z automatonami Sydona w pierwszej rundzie Bitwy o [[Mytros]] i poległ, zadając drużynie cios prosto w serce. W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] [[Corinna]] objęła dowództwo nad jednym z legionów.
+W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] jako dowódca [[Egida Mytros|Egidy Mytros]] walczył z automatonami Sydona w pierwszej rundzie Bitwy o [[Mytros]] i poległ, zadając drużynie cios prosto w serce. Po jego śmierci dowództwo nad [[Egida Mytros|Egidą]] objęła [[Corinna]]; w [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] stanęła na czele jednego z legionów.
 
 W [[Sesja 84 - Świt Nowej Ery]] podsumowano powojenne losy [[Mithralowa Kuźnia|kuźni]]: obowiązki [[Volkan|Volkana]] przy kowadle przejął Bront i okazał się kowalem na tyle dobrym, że godnie zastąpił boga. Steros, lepszy rzemieślnik od ojca, tego czasu nie doczekał.
 
@@ -30,5 +30,5 @@ Steros poległ w **pierwszej rundzie Bitwy o [[Mytros]]**, w starciu legionu [[E
 
 Był to pierwszy dowódca stracony przez obrońców i pierwszy prawdziwy cios tej wojny — jancan, który całe życie budował mechaniczne zwierzęta, zginął rozbity przez cudze konstrukty.
 
-Dowództwo nad [[Egida Mytros|Egidą]] miała objąć **[[Corinna]]** — cywilka, którą bohaterowie uratowali na początku swojej drogi.
+Dowództwo nad [[Egida Mytros|Egidą]] objęła po nim **[[Corinna]]** — cywilka, którą bohaterowie uratowali na początku swojej drogi.
 

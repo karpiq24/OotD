@@ -7,7 +7,7 @@ aliases:
 
 ![Smoczy Lordowie](../../assets/placeholder.webp)
 
-_Legendarny zakon bohaterów, którzy przybyli do Thylei dosiadając potężnych smoków. Po wojnie z Sydonem odbudowywany przez [[Felicjan Janus Twardowski|Felicjana]], który za jego siedzibę obrał [[Wyspa Yonder|Wyspę Yonder]]._
+_Legendarny zakon bohaterów, którzy przybyli do Thylei dosiadając potężnych smoków. Po wojnie z Sydonem odbudowany przez [[Felicjan Janus Twardowski|Felicjana]], który za jego siedzibę obrał [[Wyspa Yonder|Wyspę Yonder]]._
 
 ## Opis
 Smoczy Lordowie to starożytny zakon bohaterskich jeźdźców smoków, którzy przybyli do Thylei pięć wieków temu. Każdy z lordów był związany z potężnym smokiem.
@@ -17,7 +17,7 @@ Lordowie wiązali się ze smokami starożytną przysięgą, wypowiadaną przy tw
 ## Siedziba
 Historycznie założyli pierwsze królestwa, w tym [[Mytros]].
 
-Grobowce Smoczych Lordów znajdują się w Nekropolii w Telamok ([[Sesja 8 - Ścieżka Umarłych]]). Niegdyś potężną machiną wojenną zakonu była [[Latająca Forteca Smoczych Lordów|latająca forteca]] ([[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]]). Po odbudowie zakonu za jego siedzibę ma posłużyć [[Wyspa Yonder]], dawna warownia [[Zakon Sydona|Zakonu Sydona]] ([[Sesja 84 - Świt Nowej Ery]]).
+Grobowce Smoczych Lordów znajdują się w Nekropolii w Telamok ([[Sesja 8 - Ścieżka Umarłych]]). Niegdyś potężną machiną wojenną zakonu była [[Latająca Forteca Smoczych Lordów|latająca forteca]] ([[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]]). Siedzibą odbudowanego zakonu jest [[Wyspa Yonder]], dawna warownia [[Zakon Sydona|Zakonu Sydona]] ([[Sesja 84 - Świt Nowej Ery]]).
 
 ## Członkowie
 Dawni Lordowie, których grobowce oglądali bohaterowie w [[Sesja 8 - Ścieżka Umarłych|Nekropolii w Telamok]]:

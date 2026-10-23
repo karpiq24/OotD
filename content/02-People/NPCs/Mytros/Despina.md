@@ -7,7 +7,7 @@ title: Despina
 _Prababka Felicjana, której dusza po wiekach zasiedliła ciało Nephele i odleciała w nieznane._
 
 ## Opis
-Despina to kobieta pochodząca z Wybrzeża Mieczy, prababka [[Felicjan Janus Twardowski|Felicjana]]. Mistrz [[Chalcodon]] znał ją osobiście ponad 100 lat temu. Jej historia i powody przybycia do Thylei były owiane tajemnicą, dopóki w [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] nie opowiedziała o niej [[Morta]].|Morta]].
+Despina to kobieta pochodząca z Wybrzeża Mieczy, prababka [[Felicjan Janus Twardowski|Felicjana]]. Mistrz [[Chalcodon]] znał ją osobiście ponad 100 lat temu. Jej historia i powody przybycia do Thylei były owiane tajemnicą, dopóki w [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] nie opowiedziała o niej [[Morta]].
 
 Po śmierci jej dusza spoczywała w amulecie Felicjana, z którym porozumiewała się mentalnie. W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] opuściła amulet i wstąpiła w ciało smoczycy [[Nephele (Smok)|Nephele]]. Potem odleciała i przepadła gdzieś bez śladu, nie paląc się do powrotu ([[Sesja 84 - Świt Nowej Ery]]).
 

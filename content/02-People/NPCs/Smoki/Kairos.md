@@ -7,7 +7,7 @@ title: Kairos
 _Młody smok Felicjana, związany z nim przysięgą Smoczych Lordów._
 
 ## Opis
-Kairos to samiec, który wykluł się z jaja brązowego smoka, które [[Felicjan Janus Twardowski|Felicjan]] nosił przy sobie przez długi czas. Rozwijał się w zdumiewającym tempie i był żarłoczny, lecz mniej absorbujący niż jego poprzednik. Do końca wyprawy urósł na tyle, że jest nieco większy od [[Paradoks|Paradoksa]], który jest już niewiele mniejszy od niego. <!-- CONFLICT: S48 „brązowego smoka” vs S54 „młodego, miedzianego smoka” -->
+Kairos to samiec, który wykluł się z jaja brązowego smoka, które [[Felicjan Janus Twardowski|Felicjan]] nosił przy sobie przez długi czas. Rozwijał się w zdumiewającym tempie i był żarłoczny, lecz mniej absorbujący niż jego poprzednik. Do końca wyprawy urósł na tyle, że jest nieco większy od [[Paradoks|Paradoksa]], który jest już niewiele mniejszy od niego.
 
 Niewielki smok o lśniących, brązowych łuskach, energiczny i ciekawski.
 
@@ -16,7 +16,7 @@ Wykluł się na pokładzie statku [[Ultros]] w [[Sesja 48 - Pakty z Mojrami i Ze
 
 W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] rozwijał się w zdumiewającym tempie; był żarłoczny, lecz nie wyrywał już kanapek z rąk, co załoga przyjęła z ulgą.
 
-W [[Sesja 54 - Wyznanie Chondrusa]] został opisany jako młody, miedziany smok Felicjana, integrujący się z załogą pod okiem starszego smoka.
+W [[Sesja 54 - Wyznanie Chondrusa]] został opisany jako młody, brązowy smok Felicjana, integrujący się z załogą pod okiem starszego smoka.
 
 W [[Sesja 71 - Infiltracja Praxys]] jest wspomniany jako młody smok, z którym Felicjan już jakiś czas temu związał się przysięgą Smoczych Lordów.
 

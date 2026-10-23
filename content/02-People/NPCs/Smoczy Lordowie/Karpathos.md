@@ -6,7 +6,7 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Pierwszy i jedyny król Arezji, Wilczy Lord, zdrajca Smoczych Lordów_
+_Smoczy Lord zwany Wilczym Lordem, pierwszy i jedyny król Arezji, zdrajca Smoczych Lordów_
 
 ## Historia
 Dosiadał czerwonego smoka [[Zarmulax]]. Ukradł [[Kaduceusz Damona]] i zabił nim [[Xander|Xandera]].

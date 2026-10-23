@@ -88,7 +88,7 @@ Nowi bogowie, którzy przybyli, by chronić osadników. W rzeczywistości **brą
     *   **[[Wyspa Ognia]]:** Wulkaniczna wyspa, dom dla dwóch walczących plemion jaszczuroludzi: Łamaczy Fal i Chodzących w Ogniu. Miejsce więzienia Chalcii.
     *   **[[Wyspa Skorpiona]]:** Niebezpieczna wyspa zamieszkana przez wielkie skorpiony. Znajduje się tu [[Wieża Wiedźmy Lotosu]] otoczona magicznymi polami.
     *   **[[Wyspa Wygnańców]]:** Jałowa skała, kolonia karna dla najgorszych przestępców Thylei. Rządzona przez samozwańczego "Króla".
-    *   **[[Wyspa Yonder]]:** Dawna warownia Zakonu Sydona; zdobyta przez drużynę w S51-53, po wojnie niemal pusta, siedziba odbudowywanego Zakonu Smoczych Lordów.
+    *   **[[Wyspa Yonder]]:** Dawna warownia Zakonu Sydona; zdobyta przez drużynę w S51-53, po wojnie niemal pusta, siedziba odbudowanego Zakonu Smoczych Lordów.
     *   **[[Wyspa Złotego Serca]]:** Mała wyspa, na której rośnie Drzewo Serca – przemienione serce bogini Thylei.
 
 *   **[[Zapomniane Morze]] (Forgotten Sea):** Niebezpieczne wody otaczające archipelag, oddzielające Thyleę od reszty świata. Kryją najbardziej tajemnicze i odległe miejsca:
@@ -220,7 +220,7 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 ### Wielka Odyseja: Wielkie Igrzyska i Wyspy Zatoki (Sesje 21-40)
 *   **Wyprawa po Ultrosa (S24):** Pokonanie Estora Arkelandera przy Martwych Wodospadach. Orestes przejmuje ster nad widmowym okrętem.
 *   **Wielkie Igrzyska (S25-S30):** Zawody w Mytros z udziałem Bogów i Tytanów. Felicjan wygrywa wyścig rydwanów, Arevon finałową walkę. Kradzież Antikythery.
-*   **Rewolucja na Themis (S31-S36):** Obalenie uzurpatorki Thessilei, przywrócenie na tron królowej Darien. Zniesienie niewolnictwa mężczyzn.
+*   **Rewolucja na Themis (S31-S36):** Obalenie uzurpatorki [[Nastura|Nastury]], która rządziła w imieniu zmarłej królowej [[Thessilea|Thessilei]], przywrócenie na tron królowej Darien. Zniesienie niewolnictwa mężczyzn.
 *   **Wyspa Ognia (S37-S38):** Bitwa w wulkanie. Versir zdobywa Rękawicę. Odnalezienie laski Sydona.
 *   **Wyspa Skorpiona (S40):** Odkrycie planów Tytanów.
 

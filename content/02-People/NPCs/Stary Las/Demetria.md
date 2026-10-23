@@ -19,6 +19,6 @@ Demetria zaczęła porywać młodych ludzi z okolic [[Estoria|Estorii]], obiecuj
 
 W [[Sesja 4 - Mroczne sekrety Świątyni]] bohaterowie podążyli śladami porwanych nastolatków do zrujnowanej [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]], gdzie czaiła się driada Demetria. Po zaciętej walce pokonali ją i odzyskali [[Róg Balmytrii]]; uratowali też porwanych i znaleźli [[Tome of Maenads|księgę z ludzkiej skóry]] z mrocznymi rytuałami.
 
-W [[Sesja 24 - Ultros]] z opowieści ducha [[Delphia|Delphii]] bohaterowie dowiedzieli się, że Demetria była jej siostrą i że [[Estor Arkelander|Estor Arkelander]] zabił obie, a z drzewa, z którym związana była Delphia, zrobił maszt [[Ultros|Ultrosa]]. <!-- CONFLICT: S4 „Pokonali Driadę Demetrię” (żyje i działa w Świątyni) vs S24 „Estor zabił ją i jej siostrę” (zabita przez Estora przed laty) -->
+W [[Sesja 24 - Ultros]] z opowieści ducha [[Delphia|Delphii]] bohaterowie dowiedzieli się, że Demetria była jej siostrą i że [[Estor Arkelander|Estor Arkelander]] zabił Delphię, a z drzewa, z którym związana była Delphia, zrobił maszt [[Ultros|Ultrosa]].
 
 W [[Sesja 68 - Arena Krzywoprzysięstwa]] pojawiła się na arenie w trzeciej fali jako mściwa driada ze [[Stary Las|Starego Lasu]], w towarzystwie [[Fekaliusz|Fekaliusza]], żywiołaka ścieków, i została pokonana przez drużynę.

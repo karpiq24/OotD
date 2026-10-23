@@ -7,10 +7,10 @@ image_prompt: young adult male, athletic muscular build, heroic ancient Greek wa
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Pierwszy Smoczy Lord i generał Smoczych Lordów, dawny kapitan [[Ultros|Ultrosa]]; zniszczony na dobre przez Xiphos of Slaughter._
+_Pierwszy Smoczy Lord i generał Smoczych Lordów, dawny kapitan [[Ultros|Ultrosa]]; zniszczony przez Xiphos of Slaughter, przywrócony przez Lutherię i ostatecznie uśmiercony w jej sali tronowej._
 
 ## Opis
-Estor Arkelander był jednym ze Smoczych Lordów, w [[Sesja 36 - Królowa, Dziedzic i Generał|wizji Arevona]] — generałem, który porzucony przez swoją smoczycę [[Arkyrania|Arkyranię]] dokonał brutalnej masakry [[Gyganie|Gyganów]]. Po pakcie z [[Lutheria|Lutherią]] stał się nieumarłym kapitanem Ultrosa; gdy [[Kyrah]] rozdarła ręce, zmienił się w rozpadającą się, szkieletową zjawę z czerwonymi, świecącymi oczami, a później istniał jako nie do końca materialny duch. W [[Sesja 67 - Zguba Estora|Sesji 67]] miecz [[Xiphos of Slaughter]] wchłonął jego esencję, kończąc jego egzystencję. Nie żyje.
+Estor Arkelander był jednym ze Smoczych Lordów, w [[Sesja 36 - Królowa, Dziedzic i Generał|wizji Arevona]] — generałem, który porzucony przez swoją smoczycę [[Arkyrania|Arkyranię]] dokonał brutalnej masakry [[Gyganie|Gyganów]]. Po pakcie z [[Lutheria|Lutherią]] stał się nieumarłym kapitanem Ultrosa; gdy [[Kyrah]] rozdarła ręce, zmienił się w rozpadającą się, szkieletową zjawę z czerwonymi, świecącymi oczami, a później istniał jako nie do końca materialny duch. W [[Sesja 67 - Zguba Estora|Sesji 67]] miecz [[Xiphos of Slaughter]] wchłonął jego esencję, co wydawało się jego końcem. Lutheria jednak go przywróciła i w [[Sesja 70 - Audiencja u Pani Snów|Sesji 70]] ostatecznie go uśmierciła. Nie żyje.
 
 ## Osobowość
 Okrutny — jego okrucieństwo, wspominane przez [[Kyrah]], przez wieki nie znalazło równych nawet u [[Sydon|Sydona]] czy [[Lutheria|Lutherii]]; miał mroczną naturę i dawne zbrodnie na koncie. Jako duch pragnął ostatecznego końca, którego nie mógł zaznać.
@@ -33,7 +33,7 @@ Po porzuceniu przez smoczycę Estor dalej prowadził rzeź jako kapitan [[Ultros
 
 Tam uległ wdziękom [[Lutheria|Lutherii]]. Spędził z nią noc, podczas której zawarli pakt. [[Lutheria]] obiecała mu, że "nigdy nie zazna śmierci od ostrza innego". Estor zrozumiał to jako nieśmiertelność.
 
-W rzeczywistości była to klątwa: Lutheria go oszukała. Estor zabił całą załogę [[Ultros|Ultrosa]], która od tej pory służyła jako nieumarła. Aby stworzyć maszt Ultrosa, zamordował driadę [[Delphia|Delphię]] i jej siostrę [[Demetria|Demetrię]], używając drzewa, z którym była związana (zob. [[Sesja 24 - Ultros]]).
+W rzeczywistości była to klątwa: Lutheria go oszukała. Estor zabił całą załogę [[Ultros|Ultrosa]], która od tej pory służyła jako nieumarła. Aby stworzyć maszt Ultrosa, zamordował driadę [[Delphia|Delphię]], używając drzewa, z którym była związana (zob. [[Sesja 24 - Ultros]]).
 
 Po przebudzeniu zabił nawigatora [[Metron|Metrona]].
 
@@ -53,8 +53,8 @@ W [[Sesja 54 - Wyznanie Chondrusa]] ponowił ofertę (strategiczny geniusz i wie
 W [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] jego duch zmaterializował się na krześle w kajucie narad (zmuszając przerażoną [[Kyrah]] do ucieczki). Przekazał drużynie kluczowe informacje o domenie [[Lutheria|Lutherii]] ([[Wyspa Krzywoprzysięstwa]], [[Hypnos]], dawne leże Krakena, w którym spoczywają szczątki Gregora i Hezzebala, skarby Smoczych Lordów i jego miecz). Przypomniał [[Arevon Elorrenthi|Arevonowi]] o łączącej ich "specjalnej więzi" (odkąd go zamordował) i zażądał, by po odnalezieniu miecza użyli go do ostatecznego zabicia go, gdyż pragnął końca swej egzystencji.
 
 ### Ostateczny Kres
-W [[Sesja 67 - Zguba Estora]] Estor podążył za drużyną do [[Lustrzane Więzienie|Lustrzanego Więzienia]] na [[Morze Otchłani|Morzu Otchłani]]. W tamtejszym skarbcu zmaterializował się i odzyskał swój przeklęty miecz, [[Xiphos of Slaughter]]. Poczuł się w Morzu Otchłani silniejszy i zaatakował [[Orion Xul|Oriona]]. [[Hezzebal]], widząc w nim dawnego pana i mordercę, rzucił się tylko na niego, lecz jego ataki mrozem i nekrotyczną energią przepływały przez zjawę; z Xiphosem w ręku Estor mógł zabijać jednym ciosem. Ostatecznie [[Felicjan Janus Twardowski|Felicjan]] telekinezą wyrwał mu miecz i uniósł go do góry nogami, a [[Orestes]], chwytając Xiphos, wbił go w ducha Estora. Miecz wchłonął esencję upiora, kończąc jego egzystencję raz na zawsze i wypełniając przepowiednię Lutherii (zginął od własnego ostrza); Xiphos trafił do [[Versir|Versira]].
+W [[Sesja 67 - Zguba Estora]] Estor podążył za drużyną do [[Lustrzane Więzienie|Lustrzanego Więzienia]] na [[Morze Otchłani|Morzu Otchłani]]. W tamtejszym skarbcu zmaterializował się i odzyskał swój przeklęty miecz, [[Xiphos of Slaughter]]. Poczuł się w Morzu Otchłani silniejszy i zaatakował [[Orion Xul|Oriona]]. [[Hezzebal]], widząc w nim dawnego pana i mordercę, rzucił się tylko na niego, lecz jego ataki mrozem i nekrotyczną energią przepływały przez zjawę; z Xiphosem w ręku Estor mógł zabijać jednym ciosem. Ostatecznie [[Felicjan Janus Twardowski|Felicjan]] telekinezą wyrwał mu miecz i uniósł go do góry nogami, a [[Orestes]], chwytając Xiphos, wbił go w ducha Estora. Miecz wchłonął esencję upiora, co wyglądało na jego ostateczny koniec, i wypełniając przepowiednię Lutherii (zginął od własnego ostrza); Xiphos trafił do [[Versir|Versira]].
 
-W [[Sesja 70 - Audiencja u Pani Snów]] drużyna ujrzała jednak w sali tronowej Lutherii skurczoną postać Estora Arkelandera na jej kolanach: Pani Snów zszywała mu usta, a gdy jego ciało opadło na posadzkę, eksplodowało w obłok pyłu, "kończąc ostatecznie jego historię". Była to brutalna demonstracja jej władzy. <!-- CONFLICT: S67 „kończąc jego egzystencję raz na zawsze” vs S70 „eksplodowało w obłok pyłu, kończąc ostatecznie jego historię” -->
+Lutheria przywróciła go jednak do istnienia. W [[Sesja 70 - Audiencja u Pani Snów]] drużyna ujrzała w sali tronowej Lutherii skurczoną postać Estora Arkelandera na jej kolanach: Pani Snów zszywała mu usta, a gdy jego ciało opadło na posadzkę, eksplodowało w obłok pyłu, "kończąc ostatecznie jego historię". Była to brutalna demonstracja jej władzy.
 
 W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]] zaoferował [[Kyrah]] zniszczenie miecza Estora — ostatniej pamiątki po nim.

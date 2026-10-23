@@ -19,7 +19,7 @@ Okrutna: zabija kwasem i sieje postrach, powołując się na chwałę [[Smoczy L
 ## Historia
 Została wysłana na [[Wyspa Indygo]], aby sprowokować wewnętrzne walki między plemionami barbarzyńców i wyeliminować ich jako potencjalne zagrożenie dla planów Tytanów.
 
-W [[Sesja 42 - Plemię Węgorza]] zaatakowała osadę [[Plemię Węgorza|Węgorzy]], gdzie starła się z bohaterami. Mimo unieruchomienia magicznymi pnączami przez druida [[Arevon Elorrenthi|Arevona]] i ciosów [[Orestes|Orestesa]], którego [[Versir]] teleportował na jej grzbiet, zdołała legendarną akcją zrzucić minotaura skrzydłami i uciec z pola walki. Wcześniej stopiła kwasem dowódcę plemienia Rekina.
+W [[Sesja 42 - Plemię Węgorza]] zaatakowała osadę [[Plemię Węgorza|Węgorzy]], gdzie starła się z bohaterami. Mimo unieruchomienia magicznymi pnączami przez druida [[Arevon Elorrenthi|Arevona]] i ciosów [[Orestes|Orestesa]], którego [[Versir]] teleportował na jej grzbiet, zdołała legendarną akcją zrzucić minotaura skrzydłami i uciec z pola walki. Wcześniej stopiła kwasem poprzedniego przywódcę plemienia Rekina.
 
 W [[Sesja 43 - Kopalnia Żelaza]] okazało się, że zajęła [[Kopalnia Żelaza|Kopalnię Żelaza]], jedyne źródło żelaza w Thylei, a jej leże znajduje się w naturalnej jaskini połączonej z tunelami kopalni. Zmusiła [[Plemię Wieloryba]] do posłuszeństwa, porywając córkę ich wodza [[Delg|Delga]], [[Brenna|Brennę]], i trzymając ją jako zakładniczkę. Sprzymierzyła się z dzikimi zwierzętami; kopalni strzegły wodne bestie, wodne żywiołaki i żywe pioruny.
 

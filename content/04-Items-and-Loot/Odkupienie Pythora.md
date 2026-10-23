@@ -27,6 +27,6 @@ W [[Sesja 48 - Pakty z Mojrami i Zew Chimery]] na [[Wyspa Mojr|Wyspie Mojr]] [[O
 
 Podczas [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz|Bitwy o Mytros]] [[Orion Xul|Orion]] raził nią gigantyczne rekiny okrążające statek oraz samego [[Sydon|Sydona]], choć błyskawice, którymi próbował dosięgnąć Tytana, spływały po Panu Burz bez skutku.
 
-W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] [[Orion Xul|Orion]] dobił nią Lamię — obrócił włócznię drugim końcem i jednym uderzeniem — a następnie raz za razem ciskał włócznią w odbicia [[Lutheria|Lutherii]] w [[Świat Snów|Świecie Snów]]; broń za każdym razem posłusznie wracała do jego dłoni.
+W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] [[Orion Xul|Orion]] dobił nią Lamię, a w [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] raz za razem ciskał włócznią w odbicia [[Lutheria|Lutherii]] w [[Świat Snów|Świecie Snów]]; broń za każdym razem posłusznie wracała do jego dłoni.
 
 W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Orion Xul|Orion]] prowadził nią uparty ostrzał [[Kentimane|Kentimane'a]] z ziemi, u samej stopy [[Tytani|Tytana]] — włócznia raz za razem opuszczała jego dłoń i wracała sama. Po połknięciu dźgał nią na oślep w ciemnościach żołądka [[Kentimane|Sturękiego]].

@@ -23,6 +23,6 @@ Ludzie i półelfy.
 *   **Wrogowie**: Osady na kontynencie, które najeżdżają ([[Sesja 42 - Plemię Węgorza]]). Odmówili sojuszu z [[Bohaterowie Przepowiedni|Bohaterami Przepowiedni]] ([[Sesja 44 - Ventis]]).
 
 ## Historia
-W [[Sesja 42 - Plemię Węgorza]] bohaterowie dowiedzieli się, że dowódca plemienia Rekina zginął stopiony smoczym kwasem, co przypisywano smoczycy [[Ventis]].
+W [[Sesja 42 - Plemię Węgorza]] bohaterowie dowiedzieli się, że poprzedni przywódca plemienia Rekina zginął stopiony smoczym kwasem, co przypisywano smoczycy [[Ventis]]; po nim plemię poprowadził [[Gorac]].
 
 W [[Sesja 44 - Ventis]], mimo pokonania Ventis przez bohaterów, rozmowy z plemieniem Rekina nie przebiegły pomyślnie i plemię odmówiło sojuszu. Ich przywódca [[Gorac]], urażony brakiem wdzięczności za pokonanie smoka, w honorowym pojedynku pokonał [[Orestes|Orestesa]]; Arevon uleczył minotaura, zanim Gorac zadał ostateczny cios. Gorac wzgardził tym gestem, ale pozwolił drużynie odejść bez dalszego rozlewu krwi.

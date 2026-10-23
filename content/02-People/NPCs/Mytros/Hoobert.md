@@ -14,10 +14,10 @@ _Chowaniec Felicjana._
 Hoobert to chowaniec (familiar) należący do **[[Felicjan Janus Twardowski|Felicjana]]**, który przybiera postać sowy, jego sowiego zwiadowcy i wiernego towarzysza.
 
 ## Ciekawostki
-*   **Nieśmiertelne imię**: Hoobert posiada unikalną tradycję nazewniczą. Za każdym razem, gdy zginie i zostanie przyzwany ponownie, do jego imienia dodawane jest jedno „o”. (Hoobert -> Hooobert -> Hoooobert itd.).
+*   **Nieśmiertelne imię**: Hoobert posiada unikalną tradycję nazewniczą. Za każdym razem, gdy zginie i zostanie przyzwany ponownie, do jego imienia dodawane jest jedno „o”. (Hoobert -> Hooobert -> Hoooobert itd.). Po każdej śmierci [[Felicjan Janus Twardowski|Felicjan]] przyzywa go na nowo.
 
 ## Historia
-W [[Sesja 15 - W kanałach Mytros]] zginął w walce z żywiołakiem wody [[Fekaliusz|Fekaliuszem]], ale wkrótce został przyzwany ponownie (zyskując kolejne „o” w imieniu).
+W [[Sesja 15 - W kanałach Mytros]] zginął w walce z żywiołakiem wody [[Fekaliusz|Fekaliuszem]], ale [[Felicjan Janus Twardowski|Felicjan]] wkrótce przyzwał go ponownie (zyskał kolejne „o” w imieniu).
 
 W [[Sesja 17 - Targ Minotaurów]] przyprowadził [[Vallus]] na spotkanie w Świątyni Pięciu, a także zrobił coś niestosownego bogatej [[Nephele]].
 

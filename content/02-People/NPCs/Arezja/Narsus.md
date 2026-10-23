@@ -22,7 +22,7 @@ W [[Sesja 49 - Wielkie Gęsie Powstanie]] bohaterowie trafili na świątynię po
 
 W [[Sesja 56 - Dedal i Ikar]] marynarze z Arezji wspomnieli o nim jako o Bogu Piękna, który wspiera królową Helen ([[Królowa Helena]]).
 
-W [[Sesja 61 - Yala, Arezja i Żółw]] [[Pythor]] i [[Kyrah]] opowiedzieli o zdradzie ich brata: Narsus sprzymierzył się z jednym z Tytanów, [[Karpathos|Karpathosem]], dowódcą smoczych jeźdźców, i pomógł mu w ucieczce po zabójstwie [[Xander|Xandera]].
+W [[Sesja 61 - Yala, Arezja i Żółw]] [[Pythor]] i [[Kyrah]] opowiedzieli o zdradzie ich brata: Narsus sprzymierzył się ze Smoczym Lordem [[Karpathos|Karpathosem]], dowódcą smoczych jeźdźców, i pomógł mu w ucieczce po zabójstwie [[Xander|Xandera]].
 
 W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie widzieli jego posąg nad bramą miejską oraz złocony posąg w [[Sanktuarium]]. Aby zyskać przychylność [[Królowa Helena|Heleny]], mieli przekonać Radę Pięciu Mistrzów oraz samego boga Narsusa.
 

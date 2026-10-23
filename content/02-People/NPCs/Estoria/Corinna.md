@@ -21,6 +21,6 @@ W [[Sesja 31 - Wyprawa na Themis]] dołączyła do drużyny przed wyprawą na [[
 
 W [[Sesja 47 - Wyspa Mojr]] weszła w skład drużyny desantowej na Wyspę Mojr, razem z [[Astra|Astrą]] i Versi.
 
-W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]] lobbował za przeniesieniem Corinny na pozycję dowódcy [[Egida Mytros|Egidy Mytros]]. W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] objęła dowództwo nad jednym z legionów.
+W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] po poległym w pierwszej fali [[Steros|Sterosie]] [[Versir]] zabiegał o przeniesienie Corinny na pozycję dowódcy [[Egida Mytros|Egidy Mytros]] i to ona objęła po nim dowodzenie. W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] stanęła na czele jednego z legionów.
 
 W [[Sesja 84 - Świt Nowej Ery]], gdy po piętnastu latach nowo wykluta smoczyca dorosła do roli wierzchowca, padła propozycja, by jeźdźcem została właśnie ona — jako ta z drugiego szeregu towarzyszy, która niejedną dobrą radą zdążyła się już drużynie przysłużyć.

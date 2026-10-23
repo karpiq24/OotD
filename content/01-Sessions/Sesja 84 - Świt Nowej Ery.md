@@ -114,7 +114,7 @@ Kapliczki, które zaczęły samorzutnie wyrastać wokół **[[Mytros]]**, nie by
 ![Biblioteka na Wyspie Yonder](../assets/sessions/084/084_sec7_the_order_reborn.webp)
 [Prompt](../assets/sessions/084/084_sec7_the_order_reborn.txt)
 
-**[[Felicjan Janus Twardowski|Felicjan]]** miał ambitny plan. [[Smoczy Lordowie|Zakon Smoczych Lordów]] zamierzał odbudować naprawdę — smoki były, potężni ludzie byli, brakowało tylko siedziby. Tę zamierzał zdobyć: **[[Wyspa Yonder]]**, dawna warownia **[[Zakon Sydona|Zakonu Sydona]]**, stała niemal pusta, z garstką zdezorientowanych ludzi i niedobitkami fanatyków, którzy raczej wygrzewali się w słońcu, niż knuli zemstę. Prawdziwym łupem była jednak tamtejsza biblioteka — zbiory tak stare, że zapisane nie na zwojach, lecz na wypalanych glinianych tabliczkach, w językach, których nikt już nie zna.
+**[[Felicjan Janus Twardowski|Felicjan]]** miał ambitny plan. [[Smoczy Lordowie|Zakon Smoczych Lordów]] odbudował naprawdę — smoki były, potężni ludzie byli, brakowało tylko siedziby. Tę zdobył: **[[Wyspa Yonder]]**, dawna warownia **[[Zakon Sydona|Zakonu Sydona]]**, stała niemal pusta, z garstką zdezorientowanych ludzi i niedobitkami fanatyków, którzy raczej wygrzewali się w słońcu, niż knuli zemstę. Prawdziwym łupem była jednak tamtejsza biblioteka — zbiory tak stare, że zapisane nie na zwojach, lecz na wypalanych glinianych tabliczkach, w językach, których nikt już nie zna.
 
 **[[Arevon Elorrenthi|Arevon]]** rozważał propozycję dołączenia do odrodzonego przez [[Felicjan Janus Twardowski|Felicjana]] **[[Smoczy Lordowie|Zakonu Smoczych Lordów]]**. Skłaniał się ku „tak", ale zastrzegał, że zanim cokolwiek podpisze, przeczyta wszystkie szczegóły umowy.
 
