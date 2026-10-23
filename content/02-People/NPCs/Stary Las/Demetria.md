@@ -4,17 +4,21 @@ title: Demetria
 
 ![Demetria](../../../assets/sessions/004/004_demetria.webp)
 
-_Mściwa driada, władczyni Świątyni w Starym Lesie_
+_Mściwa driada, władczyni Świątyni w Starym Lesie. Pokonana przez bohaterów._
 
 ## Opis
-Demetria jest driadą, która uległa szaleństwu i nienawiści. Jej niegdyś piękny wygląd stał się mroczny i niepokojący, odzwierciedlając zepsucie jej serca przez [[Lutheria|Lutherię]].
+Demetria jest driadą, która uległa szaleństwu i nienawiści. Jej niegdyś piękny wygląd stał się mroczny i niepokojący, odzwierciedlając zepsucie jej serca przez [[Lutheria|Lutherię]].<!-- UNSOURCED -->
 
 ## Osobowość
-Nienawidzi śmiertelników, zwłaszcza mieszkańców [[Mytros]] i [[Estoria]]. Jest pała żądzą zemsty za czyny [[Smoczy Lordowie|smoczych lordów]]. Jest niezwykle piękna i potrafi czarować słowami, wabiąc nieostrożnych w pułapkę.
+Nienawidzi śmiertelników, zwłaszcza mieszkańców [[Mytros]] i [[Estoria]]. Jest pała żądzą zemsty za czyny [[Smoczy Lordowie|smoczych lordów]]. Jest niezwykle piękna i potrafi czarować słowami, wabiąc nieostrożnych w pułapkę.<!-- UNSOURCED -->
 
 ## Historia
-Wieki temu [[Estor Arkelander]] ściął dąb jej siostry, aby z jego drewna zbudować maszt, stępkę i dziobnice swojego statku, [[Ultros|Ultrosa]]. Demetria oszalała z żalu i nienawiści. Złożyła przysięgę wierności [[Lutheria|Lutherii]], która podsyciła jej gniew.
+Demetria oszalała z żalu i nienawiści po stracie siostry. Złożyła przysięgę wierności [[Lutheria|Lutherii]], która podsyciła jej gniew.<!-- UNSOURCED -->
 
-Demetria zaczęła porywać młodych ludzi z okolic [[Estoria]], obiecując im wieczną młodość i piękno. W rzeczywistości kobiety zamieniała w krwiożercze [[Menaidy]], a mężczyzn zabijała i zjadała podczas rytualnych uczt. Skradła również [[Róg Balmytrii]], aby wykarmić swoje rosnące sługi. W Świątyni trzymała również mroczną księgę [[Tome of Maenads]], przekazaną jej przez [[Lutheria|Lutherię]].
+Demetria zaczęła porywać młodych ludzi z okolic [[Estoria|Estorii]], obiecując im wieczną młodość i piękno. W rzeczywistości kobiety zamieniała w krwiożercze [[Menaidy]], a mężczyzn zabijała i zjadała podczas rytualnych uczt. Skradła również [[Róg Balmytrii]], aby wykarmić swoje rosnące sługi. W Świątyni trzymała również mroczną księgę [[Tome of Maenads]], przekazaną jej przez Lutherię.<!-- UNSOURCED -->
 
-W [[Sesja 4 - Mroczne sekrety Świątyni]] została ostatecznie pokonana przez Bohaterów Przepowiedni, którzy odzyskali skradziony Róg.
+W [[Sesja 4 - Mroczne sekrety Świątyni]] bohaterowie podążyli śladami porwanych nastolatków do zrujnowanej [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]], gdzie czaiła się driada Demetria. Po zaciętej walce pokonali ją i odzyskali [[Róg Balmytrii]]; uratowali też porwanych i znaleźli [[Tome of Maenads|księgę z ludzkiej skóry]] z mrocznymi rytuałami.
+
+W [[Sesja 24 - Ultros]] z opowieści ducha [[Delphia|Delphii]] bohaterowie dowiedzieli się, że Demetria była jej siostrą i że [[Estor Arkelander|Estor Arkelander]] zabił obie, a z drzewa, z którym związana była Delphia, zrobił maszt [[Ultros|Ultrosa]]. <!-- CONFLICT: S4 „Pokonali Driadę Demetrię” (żyje i działa w Świątyni) vs S24 „Estor zabił ją i jej siostrę” (zabita przez Estora przed laty) -->
+
+W [[Sesja 68 - Arena Krzywoprzysięstwa]] pojawiła się na arenie w trzeciej fali jako mściwa driada ze [[Stary Las|Starego Lasu]], w towarzystwie [[Fekaliusz|Fekaliusza]], żywiołaka ścieków, i została pokonana przez drużynę.

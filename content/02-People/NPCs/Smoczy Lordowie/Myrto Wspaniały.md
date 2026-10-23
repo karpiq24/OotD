@@ -4,13 +4,15 @@ title: Myrto Wspaniały
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Smoczy Lord znany ze swojego zamiłowania do luksusu i klejnotów_
+_Smoczy Lord znany ze swojego zamiłowania do luksusu i klejnotów_<!-- UNSOURCED -->
 
 ## Opis
-Przystojny mężczyzna o nieśmiałych rysach twarzy, szerokim uśmiechu i idealnych zębach. Często nosi niezwykle wyszukane i bogato zdobione stroje.
+Przystojny mężczyzna o nieśmiałych rysach twarzy, szerokim uśmiechu i idealnych zębach. Często nosi niezwykle wyszukane i bogato zdobione stroje.<!-- UNSOURCED -->
 
 ## Osobowość
-Próżny, kochający luksus i przepych. Uważał się za kogoś na kształt męskiej muzy.
+Próżny, kochający luksus i przepych. Uważał się za kogoś na kształt męskiej muzy.<!-- UNSOURCED -->
 
 ## Historia
-Jeden ze Smoczych Lordów. Jego grobowiec w Nekropolii jest wypełniony wizerunkami jego osoby ozdobionymi niezliczoną ilością kamieni szlachetnych.
+Jeden ze Smoczych Lordów. Jego grobowiec w Nekropolii jest wypełniony wizerunkami jego osoby ozdobionymi niezliczoną ilością kamieni szlachetnych.<!-- UNSOURCED -->
+
+W [[Sesja 8 - Ścieżka Umarłych]] bohaterowie oglądali jego grobowiec w [[Nekropolia w Telamok|Nekropolii w Telamok]], wśród grobowców innych Smoczych Lordów.

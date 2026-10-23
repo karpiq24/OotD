@@ -1,5 +1,7 @@
 ---
 title: Paradoks
+aliases:
+  - Paradox
 ---
 
 ![Paradoks](../../../assets/sessions/065/065_paradox.webp)
@@ -7,18 +9,20 @@ title: Paradoks
 _Niebieski smok wykluty ze Smoczego Jaja na pokładzie Ultrosa._
 
 ## Opis
-Młode smoczątko o niebieskawych łuskach i charakterystycznych, wielobarwnych rogach. Wykluł się z jaja zwanego "Paradoksem".
+Młode smoczątko o niebieskawych łuskach i charakterystycznych, wielobarwnych rogach. Wykluł się z jaja zwanego "Paradoksem". Do końca kampanii rósł zupełnie standardowo i jest już niewiele mniejszy od [[Kairos|Kairosa]]; teoretycznie ktoś mógłby na nim zasiąść.
 
 ## Osobowość
-Od urodzenia wykazuje wysoką inteligencję i zdolność mowy. Jest chętny do walki, "palenia wrogów i jedzenia ich ciał". Zadeklarował lojalność wobec załogi [[Ultros|Ultrosa]].
+Od urodzenia wykazuje wysoką inteligencję i zdolność mowy. Jest chętny do walki, "palenia wrogów i jedzenia ich ciał". Zadeklarował lojalność wobec załogi [[Ultros|Ultrosa]]. Według [[Felicjan Janus Twardowski|Felicjana]] wymaga wyjątkowo mądrego jeźdźca.
 
 ## Historia
-W [[Sesja 58 - Wyspa Czasu]] spotkany przez bohaterów jako strażnik przejścia na [[Wyspa Czasu|Wyspie Czasu]]. Zadawał zagadki, by przepuścić podróżnych. Z biegiem czasu na wyspie stawał się coraz młodszy, aż ostatecznie w miejscu, gdzie przebywał, bohaterowie znaleźli jedynie smocze jajo, które postanowili zabrać ze sobą.
+W [[Sesja 58 - Wyspa Czasu]] spotkany przez bohaterów jako dziwaczny smok strzegący rozdroża na [[Wyspa Czasu|Wyspie Czasu]]. Zażądał rozwiązania trzech zagadek, by przepuścić podróżnych, a drużyna odpowiedziała poprawnie.
 
-Wykluł się w roku 499 CE na pokładzie statku [[Ultros]], w trakcie podróży ku [[Morze Otchłani|Morzu Otchłani]] ([[Sesja 65 - Wyprawa w Otchłań]]). Jego narodzinom towarzyszyły pęknięcia skorupy jaja w kajucie [[Felicjan Janus Twardowski|Felicjana]]. Nowonarodzony smok był zaskoczony, że nie znajduje się na Wyspie Czasu, co potwierdza, że zachował wspomnienia ze swego poprzedniego bytu.
+Z biegiem czasu na wyspie stawał się coraz młodszy.<!-- UNSOURCED -->
 
-Po wykluciu, szybko nawiązał kontakt z [[Felicjan Janus Twardowski|Felicjanem]] i mosiężnym smokiem [[Chh'Krtak|Chh'Krtakiem]], dołączając do drużyny jako nowy towarzysz broni.
+W [[Sesja 59 - Koniec Imprezy]] bohaterowie wrócili do Przejścia Przez Czas, gdzie zwykle napotykali smoka, ale tym razem znaleźli tylko jego smocze jajo. [[Felicjan Janus Twardowski|Felicjan]] zdecydował się zabrać je na [[Ultros]].
 
-W [[Sesja 71 - Infiltracja Praxys]] [[Orestes]] próbował związać się z nim Przysięgą Smoczych Lordów obiecując ciepłego miejsca przy browarze. Oburzony Paradoks zapytał retorycznie, czy dla idealnego piwa wojownik zagiąłby też czasoprzestrzeń. Po radosnym przyznaniu się Orestesa do takiego pomysłu, zniesmaczony i zawiedziony brakiem ambicji smok, stanowczo odrzucił umowę.
+W [[Sesja 65 - Wyprawa w Otchłań]] jajo zaczęło pękać w kajucie Felicjana podczas rejsu ku [[Morze Otchłani|Morzu Otchłani]]. Na świat przyszło niewielkie smoczątko o niebieskawych łuskach i wielobarwnych rogach. Wykazało natychmiastową inteligencję, pytając o obecny rok, a Felicjan powitał je w roku 499. Smok był lekko zaskoczony, że nie wykluł się na znajomej mu Wyspie Czasu, ale chętnie dołączył do załogi Ultrosa i szybko zadeklarował chęć walki u boku bohaterów, pytając o możliwość „palenia wrogów i jedzenia ich ciał”. Recap wiąże jego narodziny z rozmową Felicjana z [[Chh'Krtak|Chh'Krtakiem]] o szukaniu partnera do walki ("Tak narodził się Paradoks"). <!-- CONFLICT: S65 „na świat przyszło niewielkie smoczątko o niebieskawych łuskach” vs S65 „Felicjan zapytał Chh'Krtaka… Tak narodził się Paradoks” -->
 
-W [[Sesja 84 - Świt Nowej Ery]], mimo swojego osobliwego pochodzenia i imienia, rósł zupełnie standardowo i był już niewiele mniejszy od [[Kairos|Kairosa]] — teoretycznie ktoś mógłby na nim zasiąść. Teoretycznie, bo jedyny, który kiedyś go sobie wybrał, spotkał się z odmową: [[Orestes]] wskazał wtedy na Paradoksa, a Paradoks minotaura nie chciał. [[Felicjan Janus Twardowski|Felicjan]] złośliwie przypominał, że [[Orestes]] wybrał sobie najtrudniejszego z możliwych wierzchowców — smoka, który potrzebuje wyjątkowo mądrego jeźdźca.
+W [[Sesja 71 - Infiltracja Praxys]] [[Orestes]] próbował zyskać jego lojalność, kusząc go darmowym piwem i ciepłym leżem na zapleczu rzemieślniczego browaru. Paradoks zapytał, czy dla uwarzenia idealnego piwa Orestes cofnąłby się w czasie i namieszał w czasoprzestrzeni. Po radosnym przyznaniu się Orestesa do takiego pomysłu, uznał jego ambicje za nieodpowiedzialne i mizerne i stanowczo odrzucił umowę.
+
+W [[Sesja 84 - Świt Nowej Ery]], mimo swojego osobliwego pochodzenia i imienia, rósł zupełnie standardowo. Jedyny, który kiedyś go sobie wybrał, spotkał się z odmową: Orestes wskazał wtedy na Paradoksa, a Paradoks minotaura nie chciał. Felicjan złośliwie przypominał, że Orestes wybrał sobie najtrudniejszego z możliwych wierzchowców.
