@@ -62,7 +62,7 @@ Dzielnica slumsów, zamieszkana głównie przez diabelstwa (tieflingów) i pół
 Prawa w Mytros są surowe. Długi spłaca się pracą (1 dzień za 1 sztukę złota). Za morderstwo, zdradę lub podpalenie grozi śmierć przez "Smoka" (Chimerę więzioną pod sądami). Za kradzież grozi niewolnictwo na galerach.
 
 ## Otoczenie
-*   **[[Kuźnia Volkana|Góra Volkana]]**: Wygasły wulkan, miejsce Wielkich Igrzysk.
+*   **[[Góra Volkana|Góra Volkana]]**: Wygasły wulkan, miejsce Wielkich Igrzysk.
 *   **[[Winnice Mytros]]**: Winnice zarządzane przez satyrów.
 
 ## Historia

@@ -77,7 +77,7 @@ Unosząc się w powietrzu tuż nad taflą wody, **Orestes** wziął potężny za
 ![Koszmar Pani Śmierci](../assets/sessions/080/koszmar_lutherii_2.webp)
 [Prompt](../assets/sessions/080/koszmar_lutherii_2.txt)
 
-Z oddalonego miasta zaczęły dobiegać okrzyki triumfu. W chwilę po śmierci Władcy Burz okolicą wstrząsnęło jednak nagłe, potężne tąpnięcie i gwałtowne trzęsienie ziemi, a z oddalonego szczytu **[[Kuźnia Volkana|Mount Volkan]]** zaczął unosić się gęsty dym i płomienie. Pozbawione swojego wodza, część oddziałów armii **[[Sydon|Sydona]]** wpadła w popłoch i rzuciła się do ucieczki, choć w ulicach **[[Mytros]]** walka wciąż trwała, a ostatni wielki potwór morski wcale nie odpłynął, lecz nadal krążył w wodach zatoki, siejąc wokół zamęt. Radość ze zwycięstwa okazała się jednak boleśnie krótka. Ciszę przerwał inny dźwięk — upiorny śmiech. Na czele makabrycznego orszaku kroczyła **[[Lutheria]]**, dzierżąc swą kryształową kosę. Za nią wlokła się koszmarna świta rodem ze snu: nieumarli, spętane duchy i rzeczy bez nazwy. Tam, gdzie **Pani Śmierci** przechodziła, machnięciem dłoni zamieniała ocalałych z wojny w kozy, krowy i świnie. Tych, których oszczędziła, sam jej widok doprowadzał do obłędu. Padali na kolana, rycząc ze śmiechu, i rzucali się na przemienione bydło, ćwiartując zwierzęta, w których uwięzieni byli żołnierze i mieszczanie, by piec ich mięso na ogniskach rozpalonych z resztek własnych domów. Z bruku i gruzu powoli podnosili się zmarli, a szaleństwo pożerało miasto szybciej niż ogień — bohaterowie czuli je nawet z tej odległości. I wtedy z daleka spojrzenie **Lutherii** odnalazło ich na powierzchni wody, posyłając im nieme, mroczne zaproszenie. Śmierć była już blisko.
+Z oddalonego miasta zaczęły dobiegać okrzyki triumfu. W chwilę po śmierci Władcy Burz okolicą wstrząsnęło jednak nagłe, potężne tąpnięcie i gwałtowne trzęsienie ziemi, a z oddalonego szczytu **[[Góra Volkana|Mount Volkan]]** zaczął unosić się gęsty dym i płomienie. Pozbawione swojego wodza, część oddziałów armii **[[Sydon|Sydona]]** wpadła w popłoch i rzuciła się do ucieczki, choć w ulicach **[[Mytros]]** walka wciąż trwała, a ostatni wielki potwór morski wcale nie odpłynął, lecz nadal krążył w wodach zatoki, siejąc wokół zamęt. Radość ze zwycięstwa okazała się jednak boleśnie krótka. Ciszę przerwał inny dźwięk — upiorny śmiech. Na czele makabrycznego orszaku kroczyła **[[Lutheria]]**, dzierżąc swą kryształową kosę. Za nią wlokła się koszmarna świta rodem ze snu: nieumarli, spętane duchy i rzeczy bez nazwy. Tam, gdzie **Pani Śmierci** przechodziła, machnięciem dłoni zamieniała ocalałych z wojny w kozy, krowy i świnie. Tych, których oszczędziła, sam jej widok doprowadzał do obłędu. Padali na kolana, rycząc ze śmiechu, i rzucali się na przemienione bydło, ćwiartując zwierzęta, w których uwięzieni byli żołnierze i mieszczanie, by piec ich mięso na ogniskach rozpalonych z resztek własnych domów. Z bruku i gruzu powoli podnosili się zmarli, a szaleństwo pożerało miasto szybciej niż ogień — bohaterowie czuli je nawet z tej odległości. I wtedy z daleka spojrzenie **Lutherii** odnalazło ich na powierzchni wody, posyłając im nieme, mroczne zaproszenie. Śmierć była już blisko.
 
 ## Kluczowe wydarzenia
 
@@ -116,7 +116,7 @@ Z oddalonego miasta zaczęły dobiegać okrzyki triumfu. W chwilę po śmierci W
 
 * [[Mytros]]
 * [[Tranquility]]
-* [[Kuźnia Volkana|Mount Volkan]]
+* [[Góra Volkana|Mount Volkan]]
 
 ## Przedmioty
 

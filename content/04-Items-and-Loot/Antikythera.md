@@ -20,7 +20,7 @@ Mechanizm składa się z pierścieni i zębatych kół, które potrafią obraca�
 - **Czas Podróży:** Standardowy czas podróży między dowolnymi dwiema wyspami wynosi 3 dni, niezależnie od odległości na mapie.
 
 ## Historia
-Skąd drużyna wzięła Antikytherę, nie opisano w żadnej sesji. Wiadomo, że przed [[Sesja 22 - Taniec z Meduzą]] nie było jej w kajucie kapitana na statku [[Varkon|Varkona]], a w [[Sesja 23 - Nowe Przymierze]] [[Vallus]] zgodziła się go odnaleźć w nadziei, że ma ją przy sobie.
+Antikytherę drużynie podarowała królowa [[Vallus]] jako największy z darów na drogę, gdy bohaterowie szykowali się do wyprawy z [[Mytros]] na [[Ultros]] — kompas miał im pozwolić bezpiecznie przemierzać wody opanowane przez [[Sydon|Sydona]]. Przed [[Sesja 22 - Taniec z Meduzą]] nie było jej w kajucie kapitana na statku [[Varkon|Varkona]], a w [[Sesja 23 - Nowe Przymierze]] [[Vallus]] zgodziła się go odnaleźć w nadziei, że ma ją przy sobie.
 
 W [[Sesja 30 - Zakończenie Igrzysk]] [[Vallus]] powiedziała drużynie, że plany Antikythery powinny znajdować się w pałacu, ale doszło tam do włamania i zniknęły. Brakowało też kluczowego trybika, który mógł odtworzyć [[Volkan]], choć zajęłoby mu to trochę czasu.
 

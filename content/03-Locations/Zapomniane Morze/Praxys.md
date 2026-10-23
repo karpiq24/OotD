@@ -19,7 +19,7 @@ Praxys była kolosalną wieżą z kamienia i brązu, wyłaniającą się z szale
 - **Montownia golemów, baraki żołnierzy i kuchnia** [[Ramsus|Ramsusa]].
 - **Ukryty skarbiec w ślepym korytarzu**: Otwierał się po „oślepieniu" posągów dwóch cyklopich głów.
 - **Winda towarowa**: Mijała piętra z więzieniami i sypialniami Furii i docierała do prywatnych komnat Tytana (siedem tronów, wypukła mapa Thylei na podłodze).
-- **Prywatne piętro Sydona**: Komnata z piaskownicą i posągami ofiar meduzy, sypialnia z prywatnym basenem i skarbiec z adamantytowymi drzwiami za pomieszczeniem Cerbera.
+- **Prywatne piętro Sydona**: Komnata z piaskownicą i posągami ofiar meduzy, sypialnia z prywatnym basenem i skarbiec z adamantytowymi drzwiami za pomieszczeniem Cerbera (m.in. z niedziałającą repliką Rękawicy Versira, patrz [[Hand of Kentiname]]).
 - **Poziom więzienny**: Osiągalny windą napędzaną przez harpie, pełen cel z więźniami.
 - **Poziom Heavens**: Arena [[Goloron|Golorona]], komnata [[Dianama|Dianamy]], sala treningowa, koszary gyganów i portal do rajskiego miejsca.
 - **Poziom Nobles**: Piętro dla szlachty, prywatne komnaty dzieci Bliźniaków, strzeżone przez minotaura i ożywione gargulce.

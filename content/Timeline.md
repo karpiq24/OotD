@@ -80,7 +80,7 @@
 * Podjęcie wyzwania uciszenia burzy nękającej miasto.
 
 ## Sesja 14 - Burza nad Mytros (20.05.2024)
-* Odnalezienie [[Boreas|Boreasa]] (Północnego Wiatru) i odprawienie rytuału na szczycie [[Kuźnia Volkana|Góry Volkana]].
+* Odnalezienie [[Boreas|Boreasa]] (Północnego Wiatru) i odprawienie rytuału na szczycie [[Góra Volkana|Góry Volkana]].
 * Odparcie ataku pięciu tytanów ([[Chalcia]], [[Goloron]], [[Hergeron]], [[Talieus]], [[Yala]]) i uciszenie sztormu.
 * Otrzymanie od króla mapy do legendarnego statku [[Ultros]].
 * Dowiedzenie się o starożytnej bibliotece na wyspie [[Wyspa Yonder|Yonder]].
@@ -476,7 +476,7 @@
 * Dalsza walka z [[Sydon|Sydonem]] nad zatoką [[Mytros]]; tytan zabija smoczycę [[Nephele (Smok)|Nephele]].
 * Sydon przywołuje burzowego żywiołaka, który zabija kolejne inkarnacje [[Trąba|Trąby]]; [[Felicjan Janus Twardowski|Felicjan]] dezintegruje żywiołaka, a [[Orestes]] zabija [[Lewiatan|Lewiatana]] [[Topór Xandera|Toporem Xandera]].
 * **Śmierć [[Sydon|Sydona]]** – [[Orestes]] rozcina Toporem Xandera trzecie oko tytana; Władca Burz rozsypuje się w popiół i złoty pył, zostawiając [[Glewia Sydona|glewię]].
-* Przebudzenie [[Kuźnia Volkana|Góry Volkana]] po śmierci boga.
+* Przebudzenie [[Góra Volkana|Góry Volkana]] po śmierci boga.
 * Przybycie [[Lutheria|Lutherii]] z nieumarłą świtą, która zamienia ocalałych mieszkańców w bydło.
 
 ## Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów (13.07.2026)

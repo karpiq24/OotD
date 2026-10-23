@@ -12,11 +12,11 @@ Wielka, zdobiona złota moneta.
 Na pierwszy rzut oka wygląda jak okazały medalion, ale w rzeczywistości jest **kluczem** otwierającym jedne z drzwi w wieży [[Praxys]].
 
 ## Właściwości
-Otwiera jedne z drzwi w wieży [[Praxys]], rezydencji [[Sydon|Sydona]].
+Otwiera jedne z drzwi w wieży [[Praxys]], rezydencji [[Sydon|Sydona]]. Jest jedną z kilku podobnych monet-przepustek (patrz Historia).
 
 ## Historia
 Moneta noszona była przez empyreana [[Hergeron|Hergerona]], syna [[Sydon|Sydona]] i [[Lutheria|Lutherii]].
 
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]], po pokonaniu [[Hergeron|Hergerona]] w [[Świątynia Pięciu|Świątyni Pięciu]], [[Arevon Elorrenthi|Arevon]] wyłuskał monetę spomiędzy fałd jego szat.
 
-<!-- NOTE: Sesje 69, 72 i 73 opisują inną złotą monetę z czerwonym okiem (znalezioną przy szczątkach Talieusa i Chalcii, autoryzującą drzwi i alarm w Praxys); recapy nie rozstrzygają, czy to ta sama moneta. -->
+Podobne złote monety z wygrawerowanym czerwonym okiem pełnią w [[Praxys]] rolę przepustek — czegoś w rodzaju karty dostępowej. Taką monetę bohaterowie znaleźli przy szczątkach [[Talieus|Talieusa]] ([[Sesja 69 - Ogród Lutherii]]); w [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] cyklop-strażnik podniósł podobną, by otworzyć drzwi i wszcząć alarm; w [[Sesja 73 - Praxys - Skarbiec Sydona]] moneta znaleziona przy [[Chalcia|Chalcii]] wyłączyła alarm w wieży.

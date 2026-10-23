@@ -7,7 +7,7 @@ title: Mithralowa Kuźnia
 _Kuźnia boga [[Volkan|Volkana]], ukryta głęboko w jaskiniach troglodytów; po wojnie pracuje dalej, choć na mniejszych obrotach._
 
 ## Opis
-Mithralowa Kuźnia leży głęboko w [[Jaskinie Troglodytów|jaskiniach troglodytów]]. Po wojnie straciła sporo ze swoich możliwości — nie ma już w niej zaklętego magicznego elementala — ale krasnoludzcy rzemieślnicy okazali się na tyle zmyślni, że kuźnia pracuje dalej, tyle że na mniejszych obrotach.
+Mithralowa Kuźnia leży głęboko w [[Jaskinie Troglodytów|jaskiniach troglodytów]]. Po wojnie straciła sporo ze swoich możliwości — nie ma już w niej zaklętego magicznego elementala — ale krasnoludzcy rzemieślnicy okazali się na tyle zmyślni, że kuźnia pracuje dalej, tyle że na mniejszych obrotach. Od czasu, gdy bohaterowie ją odbili, [[Volkan]] spędzał tu dużo czasu.
 
 ## Historia
 W [[Sesja 2 - Przepowiednia]] rozpalenie Mithralowej Kuźni zostało wskazane jako drugie z zadań przepowiedni.

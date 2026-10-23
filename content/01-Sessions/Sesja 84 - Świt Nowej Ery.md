@@ -301,7 +301,6 @@ Przed odpłynięciem oboje przeszli długie wykłady o tym, co wolno mówić, a 
 * [[Themis]]
 * [[Wyspa Smoka]]
 * [[Mithralowa Kuźnia]]
-* [[Kuźnia Volkana]]
 * [[Wyspa Indygo]]
 * [[Kopalnia Żelaza]]
 * [[Estoria]]

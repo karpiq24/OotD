@@ -30,3 +30,4 @@ title: Kontynent Thylea
 - [[Rzeka Lethe]]
 - [[Orestessos Zythikē]]
 - [[Grobowiec Balmytrii]]
+- [[Góra Volkana]]

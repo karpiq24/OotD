@@ -58,10 +58,10 @@ W [[Sesja 61 - Yala, Arezja i Żółw]] nad brzegiem [[Styks|Styksu]] esencja [[
 
 W [[Sesja 65 - Wyprawa w Otchłań]] rękawica zawibrowała w pobliżu tajemniczego sześcianu, a głosy uwięzionych dusz podpowiedziały [[Versir|Versirowi]] hasło otwierające właz: *„Thanatos"*. Później osłoniła jego dłoń przed lewitującą czarną sferą — gdy jednak [[Versir]] sięgnął głębiej, stracił rękę.
 
-W [[Sesja 73 - Praxys - Skarbiec Sydona]] w skarbcu [[Praxys]] drużyna znalazła **drugą, identyczną rękawicę** — z uzupełnionymi wszystkimi klinami, o tych samych funkcjach. [[Versir]] próbował też wciągnąć do swojej rękawicy tajemniczą pulsującą „gwiazdę", ale nie uzyskał żadnej reakcji.
+W [[Sesja 73 - Praxys - Skarbiec Sydona]] w skarbcu [[Praxys]] drużyna znalazła **drugą, na pozór identyczną rękawicę** — z uzupełnionymi wszystkimi klinami. Okazała się niedziałającą repliką. [[Versir]] próbował też wciągnąć do swojej rękawicy tajemniczą pulsującą „gwiazdę", ale nie uzyskał żadnej reakcji.
 
 W [[Sesja 75 - Koniec Przysięgi]] [[Hergeron]] uznał w [[Versir|Versirze]] półboga i przekazał mu swoją esencję ze słowami *„Weź moją siłę i zabij [[Sydon|Sydona]]"* — rękawica rozbłysła na nowo, przyjmując do wnętrza kolejnego tytana, który dołączył do ukrytego tam rodzeństwa.
 
-W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]], z nową dłonią przywróconą magią [[Arevon Elorrenthi|Arevona]], zbadał rękawicę zdobytą u [[Sydon|Sydona]]: pod *Identify* wszystko wskazywało, że jest sprawna, ale próba aktywacji nie powiodła się. W walce wykorzystał jednak zdolność rękawicy — *Dominate Monster* — próbując przejąć kontrolę nad jednym z centaurów, lecz bestia oparła się magii.
+W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]], z nową dłonią przywróconą magią [[Arevon Elorrenthi|Arevona]], zbadał replikę rękawicy zdobytą u [[Sydon|Sydona]]: pod *Identify* wszystko wskazywało, że jest sprawna, ale próba aktywacji nie powiodła się — jej magia była uśpiona, więc ją zdjął. W walce używał własnej, oryginalnej rękawicy i jej zdolności — *Dominate Monster* — próbując przejąć kontrolę nad jednym z centaurów, lecz bestia oparła się magii.
 
-W [[Sesja 84 - Świt Nowej Ery]] [[Versir]] uruchomił swoją magiczną rękawicę i wchłonął esencję uwolnionego [[Talieus Pierwszy|Talieusa Pierwszego]], kończąc jego mękę.
+W [[Sesja 84 - Świt Nowej Ery]] [[Versir]] uruchomił swoją oryginalną rękawicę i wchłonął esencję uwolnionego [[Talieus Pierwszy|Talieusa Pierwszego]], kończąc jego mękę.
