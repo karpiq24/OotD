@@ -15,7 +15,7 @@ Makabryczna, olbrzymia insektoidalna bestia o twardym pancerzu, matka [[Myrmeki|
 ## Osobowość
 Telepatycznie przekonywała bohaterów: „Inne ludy nie są moimi wrogami. Chcemy żyć w spokoju.". Za uwolnienie obiecywała gigantyczną nagrodę i wypuszczenie swojego wściekłego pomiotu na wrogą twierdzę, by zniszczyć ją od środka. Rój, który wezwała, był jednak głodny, ekspansywny i szybko się uczył, co – jak uznał [[Versir]] – czyniło go zagrożeniem dla całej [[Kontynent Thylea|Thylei]].
 
-Królowa i Myrmeki tworzą jeden umysł zbiorowy (hive mind).
+Królowa i Myrmeki tworzą jeden zbiorowy umysł roju.
 
 ## Historia
 Została uwięziona w specjalnej celi w wieży [[Praxys]].
