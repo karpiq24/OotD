@@ -10,7 +10,7 @@ _Dostojna elfka, otoczona szacunkiem swych pobratymców, przywódczyni Plemienia
 Delfin jest dostojną elfką, przywódczynią [[Plemię Delfina|Plemienia Delfina]], otoczoną szacunkiem swych pobratymców. Przyjmuje gości z godnością i powagą.
 
 ## Osobowość
-Jest nieufna wobec obcych, ale potrafi słuchać i doceniać dyplomację. Zależy jej na dobru swojego ludu i całej wyspy.<!-- UNSOURCED -->
+Jest nieufna wobec obcych, ale potrafi słuchać i doceniać dyplomację. Zależy jej na dobru swojego ludu i całej wyspy.
 
 ## Historia
 Jej plemię, jak wyjaśniła bohaterom [[Astra]], preferowało kontakty z własnym ludem ([[Sesja 42 - Plemię Węgorza]]).

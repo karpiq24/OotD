@@ -12,7 +12,7 @@ _Kolektyw mieszkańców Mytros, zabrany z dryfującej statui Sydona na pokład U
 Kolektyw artystyczny mieszkańców [[Mytros]], który dryfował na drewnianej statui [[Sydon]]a.
 
 ## Cele
-Pierwotnie służba Sydonowi i propagowanie jego chwały poprzez sztukę. <!-- UNSOURCED --> Po spotkaniu z załogą [[Ultros]]a artyści przeszli na stronę Pięciu.
+Pierwotnie artyści w służbie Sydona. Po spotkaniu z załogą [[Ultros]]a artyści przeszli na stronę Pięciu.
 
 ## Siedziba
 Początkowo dryfująca statua, później pokład [[Ultros]]a, na który ich przyjęto.

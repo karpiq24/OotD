@@ -7,13 +7,13 @@ title: Tolyphemus
 _Ślepy cyklop z [[Ogród Heliosa|Ogrodu Heliosa]], który usługiwał bohaterom podczas uczty._
 
 ## Opis
-Starszy cyklop z mlecznobiałym, niewidzącym okiem. Jest ociężały, ale porusza się z wprawą w kuchni.<!-- UNSOURCED -->
+Starszy, ślepy cyklop.
 
 ## Osobowość
-Nie lubi śmiertelników – został oślepiony przez ludzkich żeglarzy lata temu. Jest jednak bezwzględnie lojalny wobec Heliosa, który traktuje go jak rodzinę.<!-- UNSOURCED -->
+Nie lubi śmiertelników – został oślepiony przez ludzkich żeglarzy lata temu. Służy Heliosowi, ale nie jest mu bezgranicznie oddany: wie, że Helios nie jest bogiem.
 
 ## Historia
-Służy Heliosowi jako zarządca i szef kuchni.<!-- UNSOURCED -->
+Służy Heliosowi jako zarządca i szef kuchni.
 
 W [[Sesja 57 - Ogród Heliosa]] jako ślepy cyklop usługiwał bohaterom podczas uczty; gdy [[Helios]] przemienił się w złotego smoka, [[Versir]] chwycił go i zagroził jego śmiercią, jeśli smok nie zaprzestanie ataku.
 

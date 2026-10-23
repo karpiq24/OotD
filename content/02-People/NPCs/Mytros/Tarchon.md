@@ -9,10 +9,10 @@ _Centurion z Mytros, Smoczy Lord Acastusa_
 ## Opis
 Był dowódcą straży i obrony Mytros oraz doradcą króla [[Acastus|Acastusa]]. Dosiadał miedzianego, a później młodego smoka. W [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa]] zdradził Mytros i przeszedł na stronę [[Sydon|Sydona]]; zginął z ręki [[Orion Xul|Oriona Xula]].
 
-Był wysoko postawionym centurionem z Mytros. Należał do nowo formowanego przez króla Acastusa zakonu [[Smoczy Lordowie|Smoczych Lordów]]. <!-- UNSOURCED -->
+Był wysoko postawionym centurionem z Mytros. Należał do nowo formowanego przez króla Acastusa zakonu [[Smoczy Lordowie|Smoczych Lordów]].
 
 ## Historia
-Służył królowi [[Acastus|Acastusowi]]. Jest jednym ze "Smoczych Lordów Acastusa", grupy mającej na celu odbudowę starożytnego zakonu, choć nie są oni uznawani za prawdziwych Smoczych Lordów. <!-- UNSOURCED -->
+Służył królowi [[Acastus|Acastusowi]]. Jest jednym ze "Smoczych Lordów Acastusa", grupy mającej na celu odbudowę starożytnego zakonu, choć nie są oni uznawani za prawdziwych Smoczych Lordów.
 
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] powitał drużynę w Mytros, przybywając na smoku; pogratulował jej sukcesu i poleciał poinformować króla.
 

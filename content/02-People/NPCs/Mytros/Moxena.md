@@ -12,14 +12,14 @@ _Tajemnicza "Pani Monet", okazała się być Meduzą porywającą artystów; zaw
 Moxena jest Meduzą, choć przez długi czas ukrywała swoją naturę pod kapturami i maskami. Pochodzi z [[Themis|Wyspy Themis]]. Po rewolucji na Themis została tam jako doradczyni [[Darien]] i zbierała informacje dla drużyny; później podróżowała z amazońskimi wojowniczkami, a jej statek nosił barwy Themis.
 
 ## Osobowość
-Przebiegła, zdeterminowana, ale też trawiona poczuciem winy. Twierdzi, że jej cele są "szlachetne". <!-- UNSOURCED -->
+Przebiegła, zdeterminowana, ale też trawiona poczuciem winy. Twierdzi, że jej cele są "szlachetne".
 
 ## Historia
 Pochodzi z [[Themis|Wyspy Themis]], gdzie kilkanaście lat temu wraz z siostrami dokonała przewrotu i przejęła władzę (ujawnione w [[Sesja 22 - Taniec z Meduzą]]).
 
-Jest siostrą fałszywej królowej Amazonek. Wraz z siostrami zabiła prawdziwą królową Amazonek i uwięziła jej córkę [[Darien]]. Moxena przez lata żyła z poczuciem winy z powodu tych wydarzeń, co stało się zarzewiem jej dążenia do naprawienia wyrządzonych krzywd. <!-- UNSOURCED -->
+Jest siostrą fałszywej królowej Amazonek. Wraz z siostrami zabiła prawdziwą królową Amazonek i uwięziła jej córkę [[Darien]]. Moxena przez lata żyła z poczuciem winy z powodu tych wydarzeń, co stało się zarzewiem jej dążenia do naprawienia wyrządzonych krzywd.
 
-Jako **Pani Monet** (*The Lady of Coins*) założyła [[Kult Węża]] (gildia złodziei), okradając bogatych, by wykupować niewolników (np. minotaury), ale tylko po to, by zbudować własną armię. Nienawidzi mężczyzn i traktuje ich z pogardliwą wyższością. Woli rozmawiać z kobietami. <!-- UNSOURCED -->
+Jako **Pani Monet** (*The Lady of Coins*) była uważana za przywódczynię [[Kult Węża|Kultu Węża]] (gildia złodziei), okradając bogatych, by wykupować niewolników (np. minotaury).
 
 ### Działalność w Mytros
 W [[Mytros]] znana była jako "Pani Monet". W [[Sesja 19 - Pojedynek z Rozpruwaczem]] [[Versir]] sprzedał jej plany drużyny (prawdopodobnie miała obrabować dom [[Maximus|Maximusa]] przed bohaterami), a [[Taran Neurdagon]] zaproponował [[Orion Xul|Orionowi]] pozbycie się jej i [[Kult Węża|Kultu Węża]] za 10 000 sztuk złota. W [[Sesja 20 - Noc Długich Rogów]] podejrzenia o zabicie strażników z magazynów padły na Kult Węża i Moxenę.

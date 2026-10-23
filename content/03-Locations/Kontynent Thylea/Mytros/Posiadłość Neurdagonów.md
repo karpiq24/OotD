@@ -4,11 +4,11 @@ title: Posiadłość Neurdagonów
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Najbogatsza willa w mieście._ <!-- UNSOURCED -->
+_Najbogatsza willa w mieście._
 
 Posiadłość należy do [[Taran Neurdagon|Tarana Neurdagona]] i leży w najbogatszej części miasta. W jej piwnicy znajduje się korytarz w kształcie litery T.
 
-Posiadłość należy do rodu Neurdagon, potomków Smoczego Lorda Adonisa. Teren posiadłości pełen jest ogrodów, basenów i rzeźb. W centrum labiryntu z żywopłotu znajduje się fontanna. Wejścia strzegą żołnierze oraz automatony. <!-- UNSOURCED -->
+Posiadłość należy do rodu Neurdagon, potomków Smoczego Lorda Adonisa. Teren posiadłości pełen jest ogrodów, basenów i rzeźb. W centrum labiryntu z żywopłotu znajduje się fontanna. Wejścia strzegą żołnierze.
 
 ## Historia
 W [[Sesja 20 - Noc Długich Rogów]] w posiadłości panował spokój mimo uwolnienia minotaurów; najbogatsza część miasta z siedzibą Tarana została zamknięta.

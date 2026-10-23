@@ -10,12 +10,12 @@ aliases:
 _Legendarny zakon bohaterów, którzy przybyli do Thylei dosiadając potężnych smoków. Po wojnie z Sydonem odbudowywany przez [[Felicjan Janus Twardowski|Felicjana]], który za jego siedzibę obrał [[Wyspa Yonder|Wyspę Yonder]]._
 
 ## Opis
-Smoczy Lordowie to starożytny zakon wojowników, którzy przybyli do Thylei pięć wieków temu na pokładzie legendarnego statku [[Ultros]]. Ich przybycie zakończyło rządy Tytanów nad ludźmi i elfami. Każdy z lordów był związany z potężnym smokiem (najczęściej brązowym lub złotym), co dawało im niemal boską siłę w walce. <!-- UNSOURCED -->
+Smoczy Lordowie to starożytny zakon bohaterskich jeźdźców smoków, którzy przybyli do Thylei pięć wieków temu. Każdy z lordów był związany z potężnym smokiem.
 
 Lordowie wiązali się ze smokami starożytną przysięgą, wypowiadaną przy tworzeniu więzi ze smokiem ([[Sesja 48 - Pakty z Mojrami i Zew Chimery]], [[Sesja 71 - Infiltracja Praxys]]). Ich przybycie do Thylei wywołało konflikt między rdzennymi rasami a cywilizowanymi przybyszami ([[Sesja 5 - Skała Estora]]). Wśród plemion Wyspy Indygo zakon nie cieszył się dobrą opinią — budził raczej strach i nieufność ([[Sesja 42 - Plemię Węgorza]]) — a Kronika Gyganów znaleziona na Wyspie Mojr przedstawia Lordów jako bezlitosnych agresorów w wojnie z Imperium Gyganów ([[Sesja 47 - Wyspa Mojr]]). Zdarzały się wśród nich także jednostki spaczone ambicją, jak [[Despina]], według [[Mojry|Mojr]] siostra [[Adonis Neurdagon|Adonisa Neurdagona]], która zdradziła ideały zakonu ([[Sesja 48 - Pakty z Mojrami i Zew Chimery]]).
 
 ## Siedziba
-Historycznie rządzili z trzech głównych miast: [[Mytros]], [[Estoria]] i [[Arezja]]. <!-- UNSOURCED -->
+Historycznie założyli pierwsze królestwa, w tym [[Mytros]].
 
 Grobowce Smoczych Lordów znajdują się w Nekropolii w Telamok ([[Sesja 8 - Ścieżka Umarłych]]). Niegdyś potężną machiną wojenną zakonu była [[Latająca Forteca Smoczych Lordów|latająca forteca]] ([[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]]). Po odbudowie zakonu za jego siedzibę ma posłużyć [[Wyspa Yonder]], dawna warownia [[Zakon Sydona|Zakonu Sydona]] ([[Sesja 84 - Świt Nowej Ery]]).
 
@@ -27,17 +27,17 @@ Dawni Lordowie, których grobowce oglądali bohaterowie w [[Sesja 8 - Ścieżka 
 - [[Rizon Phobas]]
 
 Inni:
-- [[Xander]] (przywódca zakonu) <!-- UNSOURCED -->
-- [[Damon]] <!-- UNSOURCED -->
+- [[Xander]] (przywódca zakonu)
+- [[Damon]]
 
 Potomkiem Smoczych Lordów jest [[Taran Neurdagon]] ([[Sesja 49 - Wielkie Gęsie Powstanie]]). Odnowiony zakon prowadzi [[Felicjan Janus Twardowski|Felicjan]]; rozważał dołączenie [[Arevon Elorrenthi|Arevon]].
 
 ## Relacje
-- **Sojusznicy**: [[Pięciu Bogów]] (którzy przybyli z nimi lub pojawili się wkrótce potem). <!-- UNSOURCED -->
-- **Wrogowie**: [[Sydon]], [[Lutheria]], [[Gyganie]], Centuary. <!-- UNSOURCED -->
+- **Sojusznicy**: [[Pięciu Bogów]] (którzy pojawili się w czasie Pierwszej Wojny).
+- **Wrogowie**: [[Sydon]], [[Lutheria]], [[Gyganie]].
 
 ## Historia
-Przybyli do Thylei z innego świata i osiedlili się na tych ziemiach. Ich konflikt z Tytanami doprowadził do Pierwszej Wojny, która zakończyła się podpisaniem [[Przysięga Pokoju|Przysięgi Pokoju]]. Większość Smoczych Lordów zginęła w walkach lub odeszła ze starości, a ich smoki zniknęły lub padły w bojach. <!-- UNSOURCED -->
+Przybyli do Thylei z innego świata i osiedlili się na tych ziemiach. Ich konflikt z Tytanami doprowadził do Pierwszej Wojny, która zakończyła się podpisaniem [[Przysięga Pokoju|Przysięgi Pokoju]]. Większość Smoczych Lordów zginęła w walkach lub odeszła ze starości, a ich smoki zniknęły lub padły w bojach.
 
 W [[Sesja 2 - Przepowiednia]] pierwszym zadaniem z przepowiedni było zdobycie broni Smoczych Lordów, a w [[Sesja 5 - Skała Estora]] bohaterowie poznali historię ich przybycia do Thylei. W [[Sesja 7 - Uratować Księżniczkę]] król [[Acastus]] w [[Mytros]] wskrzesił zakon smoczych jeźdźców; w [[Sesja 25 - Inauguracja Wielkich Igrzysk]] jego jeźdźcy latali na miedzianych smokach. W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] załoga [[Ultros|Ultrosa]] szeptała o odrodzeniu Zakonu Smoczych Lordów, pokładając nadzieję w bohaterach przepowiedni i towarzyszącym im smoku.
 

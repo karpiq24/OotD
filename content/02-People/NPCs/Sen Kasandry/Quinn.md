@@ -13,8 +13,6 @@ Ubrany w łachmany i wodorosty, ale zachowujący pozory wielkiego pana.
 Próżny, narcystyczny, pozornie nieświadomy powagi swojej sytuacji. Obraził niemal wszystkich przy pierwszej rozmowie z drużyną.
 
 ## Historia
-Przywódca ekspedycji po zaginione artefakty dla pięknej Kassandry; jego statek, "Sen Kasandry", został wciągnięty przez wir, który wypluł go na wody Thylei, i zniszczony przez kolosalnego wielorękiego potwora.
-
-Potwór ten to prawdopodobnie [[Kentimane]].<!-- UNSOURCED -->
+Członek załogi Kasandry, uczestnik ekspedycji po zaginione artefakty; ich statek, "Sen Kasandry", został wciągnięty przez wir, który wypluł go na wody Thylei, i zniszczony przez kolosalnego wielorękiego potwora.
 
 W [[Sesja 36 - Królowa, Dziedzic i Generał]] [[Arevon Elorrenthi|Arevon]] dostrzegł na horyzoncie wrak statku z rozbitkami: Quinnem, łotrzykiem [[Dengran|Dengranem]], czarodziejką [[Heliope]] i krasnoludem [[Rutger|Rutgerem]]. Przedstawił się jako syn barona Alarica i prawowity dziedzic Szmaragdowej Doliny, po czym obraził niemal wszystkich; rozbitkowie zostali wcieleni do załogi [[Ultros|Ultrosa]] i zmuszeni do wiosłowania pod pokładem.

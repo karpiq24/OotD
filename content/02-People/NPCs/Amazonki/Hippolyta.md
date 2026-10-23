@@ -11,12 +11,12 @@ _Przywódczyni plemienia Lwicy, po śmierci [[Darien]] regentka [[Themis]]._
 ## Opis
 Przywódczyni plemienia Lwicy — odłamu Amazonek sprzeciwiającego się rządom uzurpatorki [[Nastura|Nastury]] ([[Sesja 34 - Ivello i Drapaczka do Pleców]], [[Sesja 36 - Królowa, Dziedzic i Generał]]). Po śmierci [[Darien]] zarządzała jako regentka największą częścią [[Themis]], choć sama nie paliła się do zasiadania na tronie, który pozostał pusty na długie lata ([[Sesja 84 - Świt Nowej Ery]]).
 
-Generał Lwic. <!-- UNSOURCED -->
+Przywódczyni plemienia Lwicy.
 
 ## Osobowość
 Początkowo nieufna wobec drużyny ([[Sesja 32 - Kieł]]), ale po udowodnieniu jej intencji stała się lojalną sojuszniczką.
 
-Wojowniczka o silnym poczuciu honoru i sprawiedliwości; nieufność wobec mężczyzn z drużyny wynikała z prawa wyspy. <!-- UNSOURCED -->
+Nieufna wobec mężczyzn z drużyny ze względu na prawo wyspy.
 
 ## Historia
 Wzmiankowana w [[Sesja 31 - Wyprawa na Themis]].

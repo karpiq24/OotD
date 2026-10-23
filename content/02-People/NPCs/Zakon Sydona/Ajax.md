@@ -10,7 +10,7 @@ _Fanatyczny kapłan i kapitan [[Zakon Sydona|Zakonu Sydona]] na Wyspie Yonder. Z
 Potężnie zbudowany mężczyzna w zdobionej zbroi, z wielkim młotem w dłoni, o oczach płonących fanatycznym zapałem. Urzędował w pracowni w bibliotece na Yonder. Nie żyje.
 
 ## Osobowość
-Bezwzględny, nie uznaje kompromisów. <!-- UNSOURCED -->
+Bezwzględny, nie uznaje kompromisów.
 
 Fanatycznie oddany [[Sydon|Sydonowi]].
 

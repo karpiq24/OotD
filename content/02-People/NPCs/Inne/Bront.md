@@ -12,7 +12,7 @@ Potężny cyklop, niegdyś przykuty w lochach [[Więzienie Kieł|Kła]]. Jest ut
 ## Osobowość
 Głęboko religijny, wierny wyznawca [[Sydon|Sydona]]; w więzieniu początkowo brał bohaterów za posłańców Boga Mórz.
 
-Jest dumny ze swojego kunsztu i wdzięczny za ratunek.<!-- UNSOURCED -->
+Jest dumny ze swojego kunsztu i wdzięczny za ratunek.
 
 ## Historia
 Przed rozpoczęciem kampanii wykuł magiczną tarczę z symbolem [[Lutheria|Lutherii]] na urodziny królowej [[Thessilea|Thessilei]].

@@ -6,19 +6,19 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Osada wyrzutków w kanałach Mytros._ <!-- UNSOURCED -->
+_Osada wyrzutków w kanałach Mytros._
 
 Gniazdo Zapomnianych to społeczność w [[Kanały Mytros|kanałach Mytros]], złożona z meduz, tieflingów, pół-orków i minotaurów.
 
-Schronienie dla tych, których społeczeństwo Thylei odrzuciło. Zamieszkują oni dużą komorę w kanałach, uprawiając grzyby i starając się przetrwać z dala od prześladowań na powierzchni. <!-- UNSOURCED -->
+Schronienie dla tych, których społeczeństwo Thylei odrzuciło. Zamieszkują oni dużą komorę w kanałach, uprawiając grzyby i starając się przetrwać z dala od prześladowań na powierzchni.
 
 ## Mieszkańcy
 *   **[[Halie]]**: Młoda meduza, która poprosiła drużynę o pomoc w odnalezieniu zaginionej przyjaciółki.
 *   **[[Archadina]]**: Zaginiona przyjaciółka Halie, niebieska tiefling.
-*   **[[Anteia]]**: Przywódczyni (Meduza). <!-- UNSOURCED -->
-*   **[[Jankas]]**: Zielarz (Minotaur). <!-- UNSOURCED -->
-*   **[[Telekles]]**: Kupiec (Pół-ork). <!-- UNSOURCED -->
-*   **[[Chremon]]**: Akolita (Tiefling). <!-- UNSOURCED -->
+*   **[[Anteia]]**: Przywódczyni (Meduza).
+*   **[[Jankas]]**: Zielarz (Minotaur).
+*   **[[Telekles]]**: Kupiec (Pół-ork).
+*   **[[Chremon]]**: Akolita (Tiefling).
 
 ## Historia
 W [[Sesja 15 - W kanałach Mytros]] drużyna zeszła do kanałów i spotkała społeczność Zapomnianych. [[Halie]] poprosiła ją o odnalezienie zaginionej [[Archadina|Archadiny]], niebieskiej tiefling. Poszukiwania zaprowadziły drużynę na południe kanałów, do ghuli i ich króla, a potem na północ, do żywiołaka wody.

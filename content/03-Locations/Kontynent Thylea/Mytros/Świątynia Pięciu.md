@@ -6,19 +6,19 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Najstarsza budowla obywatelska w Mytros._ <!-- UNSOURCED -->
+_Najstarsza budowla obywatelska w Mytros._
 
 Świątynia Pięciu przestała po wojnie być świątynią [[Pięciu Bogów|Pięciu]]: kult dawnych bóstw zanikł, a budowla stała się świątynią [[Mytros (Bogini)|Mytros]], a zarazem kaplicą pamięci.
 
-Była to skromna, ale kunsztowna budowla z pięcioma kamiennymi kolumnami. Była mniejsza od Świątyni Sydona, ale przewyższała ją artyzmem wykonania, pełna misternych rzeźb i inkrustacji. <!-- UNSOURCED -->
+Była to skromna, ale kunsztowna budowla z pięcioma kamiennymi kolumnami. Była mniejsza od Świątyni Sydona, ale przewyższała ją artyzmem wykonania, pełna misternych rzeźb i inkrustacji.
 
 ## Znaczenie
-Była duchowym centrum kultu [[Pięciu Bogów]] oraz miejscem spotkań przedstawicieli miasta i okolicznych wiosek (rada zbierała się w każdy nów księżyca). Kapłani oferowali tu usługi za darmo, w tym uzdrawianie. <!-- UNSOURCED -->
+Była duchowym centrum kultu [[Pięciu Bogów]] oraz miejscem spotkań przedstawicieli miasta i okolicznych wiosek (rada zbierała się w każdy nów księżyca). Kapłani oferowali tu usługi za darmo, w tym uzdrawianie.
 
 ## Mieszkańcy
-*   **[[Vallus|Królowa Vallus]]**: Często odwiedzała świątynię nocą, by modlić się do swojej matki **[[Mytros (Bogini)|Mytros]]**. <!-- UNSOURCED -->
-*   **Kapłani Pięciu**: Pięciu arcykapłanów i ich akolici opiekowali się świątynią. <!-- UNSOURCED -->
-*   **[[Sulla]]**: Młody syn Tarana Neurdagona, który za dnia przesiadywał pod świątynią, obsesyjnie próbując spotkać się z Vallus. <!-- UNSOURCED -->
+*   **[[Vallus|Królowa Vallus]]**: Często odwiedzała świątynię nocą, by modlić się do swojej matki **[[Mytros (Bogini)|Mytros]]**.
+*   **Kapłani Pięciu**: Pięciu arcykapłanów i ich akolici opiekowali się świątynią.
+*   **[[Sulla]]**: Młody syn Tarana Neurdagona, który za dnia przesiadywał pod świątynią, obsesyjnie próbując spotkać się z Vallus.
 
 ## Historia
 W [[Sesja 5 - Skała Estora]] [[Zakon Sydona]] domagał się zniszczenia Świątyni Pięciu.

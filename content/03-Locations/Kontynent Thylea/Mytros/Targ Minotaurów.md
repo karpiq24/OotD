@@ -4,11 +4,11 @@ title: Targ Minotaurów
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Miejsce hańby Mytros._ <!-- UNSOURCED -->
+_Miejsce hańby Mytros._
 
 Targ Minotaurów to targ niewolników w Mytros, gdzie w [[Sesja 17 - Targ Minotaurów]] drużyna spotkała [[Maximus|Maximusa]] i [[Bullbug]]. Po Bitwie o Mytros w jego bocznym załomie stoi pierwsza kapliczka poświęcona [[Orestes|Orestesowi]].
 
-Targ Minotaurów (M21) to plac w dzielnicy [[Stygian Row]] wypełniony brązowymi klatkami, w których przetrzymywano minotaury. Choć niewolnictwo jest oficjalnie zakazane, handlarze tacy jak **[[Maximus]]** sprzedawali "przysięgi służby" na podstawie pozwoleń od **[[Gaius|Gaiusa]]**. Minotaury kupowano głównie do walk na arenach lub ciężkich prac. Odór i brutalność tego miejsca stały w sprzeczności z resztą "cywilizowanego" miasta. <!-- UNSOURCED -->
+Targ Minotaurów (M21) to plac w dzielnicy [[Stygian Row]] wypełniony brązowymi klatkami, w których przetrzymywano minotaury. Choć niewolnictwo jest oficjalnie zakazane, handlarze tacy jak **[[Maximus]]** sprzedawali "przysięgi służby" na podstawie pozwoleń od **[[Gaius|Gaiusa]]**. Minotaury kupowano głównie do walk na arenach lub ciężkich prac. Odór i brutalność tego miejsca stały w sprzeczności z resztą "cywilizowanego" miasta.
 
 ## Historia
 W [[Sesja 17 - Targ Minotaurów]] drużyna spotkała na targu [[Maximus|Maximusa]] i [[Bullbug]]; [[Orestes]] walczył z Bullbug na prośbę bogatej [[Nephele]] i wygrał, ale odmówił zabicia przeciwniczki, a drużyna odkupiła ją i zwolniła z przysięgi.

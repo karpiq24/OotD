@@ -4,9 +4,9 @@ title: Estoria
 
 ![Estoria](../../../assets/sessions/003/003_estoria.webp)
 
-Estoria to największa osada wzdłuż rzeki [[Rzeka Arkelon|Arkelon]], wkomponowana w skalisty wąwóz. Miasto schodzi kaskadowo w dół od kamiennych murów fortecy, która strzeże północnych rubieży przed niebezpieczeństwami ze stepów. <!-- UNSOURCED -->
+Estoria to największa osada wzdłuż rzeki [[Rzeka Arkelon|Arkelon]], wkomponowana w skalisty wąwóz. Miasto schodzi kaskadowo w dół od kamiennych murów fortecy, która strzeże północnych rubieży przed niebezpieczeństwami ze stepów.
 
-Estoria przez stulecia stanowiła główną linię obrony przed [[Centaur z Thylei|centaurami]], cyklopami i mantikorami. Choć Estorianie są uważani za prowincjuszy przez mieszkańców [[Mytros]], to właśnie tutaj wykuwani są najwięksi wojownicy w służbie Pana Bitwy. <!-- UNSOURCED -->
+Estoria przez stulecia stanowiła główną linię obrony przed [[Centaur z Thylei|centaurami]], cyklopami i mantikorami. Choć Estorianie są uważani za prowincjuszy przez mieszkańców [[Mytros]], to właśnie tutaj wykuwani są najwięksi wojownicy w służbie Pana Bitwy.
 
 Po wojnie z Tytanami władzę w mieście sprawuje [[Anora]], której [[Pythor]] zostawił tron jeszcze przed wypłynięciem [[Ultros|Ultrosa]]. W [[Estoria|Estorii]] zaczęły powstawać pomniki bohaterów.
 
@@ -14,16 +14,16 @@ Po wojnie z Tytanami władzę w mieście sprawuje [[Anora]], której [[Pythor]] 
 > — Pythor, Król Estorii
 
 ## Ciekawe Miejsca
-- **[[Pałac Królewski w Estorii|Pałac Pythora]]**: Górująca nad miastem twierdza, niegdyś wspaniała, dziś naznaczona melancholią króla. <!-- UNSOURCED -->
-- **[[Agora w Estorii|Agora]]**: Centralny rynek miasta, tętniący życiem punkt handlowy i towarzyski. <!-- UNSOURCED -->
-- **[[Amfiteatr w Estorii|Amfiteatr]]**: Otwarty teatr w dolnej części miasta, miejsce festiwali i ogłoszeń publicznych. <!-- UNSOURCED -->
+- **[[Pałac Królewski w Estorii|Pałac Pythora]]**: Górująca nad miastem twierdza, niegdyś wspaniała, dziś naznaczona melancholią króla.
+- **[[Agora w Estorii|Agora]]**: Centralny rynek miasta, tętniący życiem punkt handlowy i towarzyski.
+- **[[Amfiteatr w Estorii|Amfiteatr]]**: Otwarty teatr w dolnej części miasta, miejsce festiwali i ogłoszeń publicznych.
 - **[[Smocza Kaplica]]**: Świątynia poświęcona pamięci smoków i ich lordów.
-- **[[Kuźnia Volkana]]**: Warsztat legendarnego kowala, położony niedaleko centrum. <!-- UNSOURCED -->
+- **[[Kuźnia Volkana]]**: Warsztat legendarnego kowala, położony niedaleko centrum.
 - **[[Karczma Smoczy Ząb|Karczma „Smoczy Ząb”]]**: Tawerna, w której bohaterowie zbierali informacje o bieżących wydarzeniach.
 - **Bramy Miasta**:
-    - **Północna Brama**: Fortyfikowany kamienny most nad rzeką [[Rzeka Arkelon|Arkelon]], silnie strzeżony przez hoplitów. <!-- UNSOURCED -->
-    - **Południowa Brama**: Oficjalny wjazd dla karawan kupieckich, prowadzący w stronę serca Thylei. <!-- UNSOURCED -->
-    - **Wschodnia Brama**: Spokojne przejście prowadzące w stronę winnic i ogrodów. <!-- UNSOURCED -->
+    - **Północna Brama**: Fortyfikowany kamienny most nad rzeką [[Rzeka Arkelon|Arkelon]], silnie strzeżony przez hoplitów.
+    - **Południowa Brama**: Oficjalny wjazd dla karawan kupieckich, prowadzący w stronę serca Thylei.
+    - **Wschodnia Brama**: Spokojne przejście prowadzące w stronę winnic i ogrodów.
 
 ## Mieszkańcy
 - **[[Anora]]**: Księżniczka, a po odejściu ojca władczyni Estorii.
@@ -32,7 +32,7 @@ Po wojnie z Tytanami władzę w mieście sprawuje [[Anora]], której [[Pythor]] 
 - **[[Aesop]]**: Strażnik [[Smocza Kaplica|Smoczej Kaplicy]] i legend smoczych.
 
 ## Historia
-Zbudowana na ruinach dawnych osad, Estoria rozwinęła się pod rządami [[Pythor|Pythora]] po obaleniu tyrana [[Lyssis Arkelander|Lysisa Arkelandera]]. <!-- UNSOURCED -->
+Pythor objął tron Estorii po obaleniu tyrana [[Lysis Arkelander|Lysisa Arkelandera]].
 
 W [[Sesja 3 - Skradziony Róg]] do miasta przybyli Bohaterowie Przepowiedni, zastając je nękane straszliwą suszą i żądaniem złożenia ofiary z córki króla [[Pythor|Pythora]].
 

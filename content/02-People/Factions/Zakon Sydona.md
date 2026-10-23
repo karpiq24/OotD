@@ -8,19 +8,18 @@ _Fanatyczni wyznawcy Pana Burz. Po śmierci [[Sydon|Sydona]] jego dawna warownia
 
 Zakon Sydona był potężną organizacją religijno-wojskową, dysponującą tysiącami żołnierzy, pozostałościami [[Gyganie|Gyganów]] i ufortyfikowanymi obozami na [[Wyspa Yonder|Wyspie Yonder]] ([[Sesja 48 - Pakty z Mojrami i Zew Chimery]]). Domagał się zniszczenia [[Świątynia Pięciu|Świątyni Pięciu]] ([[Sesja 5 - Skała Estora]]). Po klęsce Sydona w bitwie o [[Mytros]] z jego dawnej warowni zostali garstka zdezorientowanych ludzi i niedobitki fanatyków ([[Sesja 84 - Świt Nowej Ery]]).
 
-Celem zakonu było przywrócenie dominacji Tytanów i zakończenie kultu Pięciu Bogów, których uważał za uzurpatorów. <!-- UNSOURCED -->
+Celem zakonu było przywrócenie dominacji Tytanów i zakończenie kultu Pięciu Bogów, których uważał za uzurpatorów.
 
 ## Cechy
 *   **Dawny lider**: **[[Gaius|Komandor Gaius]]**, paladyn dosiadający srebrnej smoczycy **[[Argyn]]** — główny dowódca sił na Yonder; zginął wraz z nią w [[Sesja 53 - Koniec Yonder]].
 *   **Siedziba**: baza na [[Wyspa Yonder|Wyspie Yonder]] — w świątyni Sydona stoi wielki metaliczny byk na dziedzińcu i statua z harpiami, a świątyni strzegą metalowe golemy z klatkami z harpiami zamiast głów ([[Sesja 51 - Desant na Yonder]]). Flota Yonder liczyła ponad dwadzieścia statków ([[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]]).
 *   **Obyczaje**: powszechnym powitaniem żołnierzy było „Chwała Sydonowi", straże zmieniały się co osiem godzin, a zakon porozumiewał się racami alarmowymi i magicznymi połączeniami między magami ([[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]]).
 *   **Siły**: jeźdźcy dosiadający smoków oraz trebusze na statkach ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]).
-*   **Dawna siedziba**: [[Świątynia Sydona]] w Mytros. <!-- UNSOURCED -->
-*   **Wpływy**: zakon cieszył się poparciem części arystokracji i młodych ludzi szukających siły; król **[[Acastus]]** polegał na nim w kwestii utrzymania pokoju z Tytanami. <!-- UNSOURCED -->
-*   **Działania**: wywierał presję na niszczenie świątyń Pięciu, patrolował ulice i bezwzględnie karał heretyków. <!-- UNSOURCED -->
+*   **Siedziba**: [[Wyspa Yonder]] (główna baza); w Mytros [[Świątynia Sydona]].
+*   **Wpływy**: zakon coraz mocniej wpływał na życie obywatelskie Mytros; król **[[Acastus]]** często korzystał z usług jego dowódcy, [[Gaius|Gaiusa]].
+*   **Działania**: wywierał presję na niszczenie świątyń Pięciu.
 
 ## Historia
-Zakon został założony po Pierwszej Wojnie. <!-- UNSOURCED -->
 
 W [[Sesja 2 - Przepowiednia]] żołnierze Zakonu próbowali uniemożliwić bohaterom wejście do [[Świątynia Wyroczni|Świątyni Wyroczni]]. W [[Sesja 5 - Skała Estora]] zakon był kontrowersyjny i domagał się zniszczenia Świątyni Pięciu.
 

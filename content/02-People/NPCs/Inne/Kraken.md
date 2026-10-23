@@ -9,10 +9,10 @@ _Starożytny terror głębin._
 ## Opis
 Legendarny potwór morski o mackach zdolnych kruszyć statki; pluje toksycznym atramentem, przywołuje własne morskie pioruny i porozumiewa się telepatycznie.
 
-Krążą o nim szepty w trzewiach oceanów. Jest symbolem głębokiego terroru, choć mówi się, że istnieją rzeczy jeszcze bardziej starożytne i przerażające niż on.<!-- UNSOURCED -->
+Krążą o nim szepty w trzewiach oceanów. Jest symbolem głębokiego terroru, choć mówi się, że istnieją rzeczy jeszcze bardziej starożytne i przerażające niż on.
 
 ## Historia
-Mieszkańcy i żeglarze obawiają się go jako jednej z największych bestii [[Thylea|Thylei]].<!-- UNSOURCED -->
+Mieszkańcy i żeglarze obawiają się go jako jednej z największych bestii [[Thylea|Thylei]].
 
 W [[Sesja 49 - Wielkie Gęsie Powstanie]] [[Felicjan Janus Twardowski|Felicjan]] skojarzył z Krakenem amulet ośmiornicy. W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] bohaterowie ujrzeli w sercu nawałnicy jego walkę z [[Goloron|Goloronem]]: Kraken próbował pochwycić tytana w śmiercionośne objęcia i zanurzył się w otchłani.
 

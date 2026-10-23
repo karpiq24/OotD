@@ -7,7 +7,7 @@ title: Plemię Wieloryba
 _Krasnoludzkie plemię z Wyspy Indygo, strażnicy Kopalni Żelaza; sojusznik bohaterów po wyzwoleniu spod okupacji Ventis._
 
 ## Opis
-Plemię składające się z krasnoludów, zamieszkujące góry w głębi wyspy ([[Sesja 42 - Plemię Węgorza]]). Są wyśmienitymi kowalami i górnikami. Charakteryzują się wielką siłą fizyczną, uporem oraz głębokim szacunkiem do żelaza i pracy. <!-- UNSOURCED -->
+Plemię składające się z krasnoludów, zamieszkujące góry w głębi wyspy ([[Sesja 42 - Plemię Węgorza]]). Są wyśmienitymi kowalami i górnikami, strzegącymi jedynej kopalni żelaza w Thylei.
 
 ## Cele
 Wydobycie żelaza i ochrona [[Kopalnia Żelaza|Kopalni Żelaza]], jedynego źródła tego surowca w Thylei ([[Sesja 84 - Świt Nowej Ery]]).
@@ -19,11 +19,11 @@ Ich domem są góry oraz tunele [[Kopalnia Żelaza|Kopalni Żelaza]] na [[Wyspa 
 Krasnoludy.
 *   **[[Delg]]**: Wódz plemienia ([[Sesja 43 - Kopalnia Żelaza]]).
 *   **[[Brenna]]**: Córka wodza.
-*   **[[Borinn Bystre Oko]]**: Znany górnik i przewodnik. <!-- UNSOURCED -->
+*   **[[Borinn Bystre Oko]]**: Znany górnik i przewodnik.
 
 ## Relacje
-*   **Sojusznicy**: [[Bohaterowie Przepowiedni]], [[Plemię Węgorza]], [[Plemię Delfina]]. <!-- UNSOURCED -->
-*   **Dawni wrogowie**: [[Sydon]], [[Ventis]] (pokonana). <!-- UNSOURCED -->
+*   **Sojusznicy**: [[Bohaterowie Przepowiedni]], [[Plemię Węgorza]], [[Plemię Delfina]].
+*   **Dawni wrogowie**: [[Ventis]] (pokonana).
 
 ## Historia
 W [[Sesja 42 - Plemię Węgorza]] bohaterowie usłyszeli, że plemię Wieloryba od kilku tygodni milczy. W [[Sesja 43 - Kopalnia Żelaza]] okazało się, że smoczyca [[Ventis]] zajęła ich kopalnię żelaza, a wodza Delga zmusiła do posłuszeństwa, porywając jego córkę [[Brenna|Brennę]] jako zakładniczkę; w obozie plemienia widać było ślady walk i zniszczeń spowodowanych smoczym kwasem.

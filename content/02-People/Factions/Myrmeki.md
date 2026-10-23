@@ -7,10 +7,10 @@ title: Myrmeki
 _Insektoidalna rasa śmiertelników. Ich Królowa zginęła w Praxys, a wezwany na pomoc rój został wybity w Sesji 71._
 
 ## Opis
-Agresywne, mrówkopodobne istoty o zbiorowej inteligencji. <!-- UNSOURCED --> Myrmeki maszerują w idealnie równych szeregach, zbierają owoce i naśladują gesty oraz pismo przybyszów. Odpowiadają na pytania, powtarzając je, układają napisy patykami i ofiarowują owoce w darze; ich wpływ nawiedzał sny załogi [[Ultros]]a ([[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]]). Natychmiast kopiują zaobserwowane umiejętności, np. stworzyły własną ścianę płomieni w odpowiedzi na Wall of Fire [[Felicjan Janus Twardowski|Felicjana]], i szybko uczą się taktyki wroga, choć dość wolno ([[Sesja 71 - Infiltracja Praxys]]). Stanowiły ekspansywną, głodną insektoidalną populację, która zagrażałaby całemu ekosystemowi Thylei.
+Agresywne, mrówkopodobne istoty o zbiorowej inteligencji. Myrmeki maszerują w idealnie równych szeregach, zbierają owoce i naśladują gesty oraz pismo przybyszów. Odpowiadają na pytania, powtarzając je, układają napisy patykami i ofiarowują owoce w darze; ich wpływ nawiedzał sny załogi [[Ultros]]a ([[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]]). Natychmiast kopiują zaobserwowane umiejętności, np. stworzyły własną ścianę płomieni w odpowiedzi na Wall of Fire [[Felicjan Janus Twardowski|Felicjana]], i szybko uczą się taktyki wroga, choć dość wolno ([[Sesja 71 - Infiltracja Praxys]]). Stanowiły ekspansywną, głodną insektoidalną populację, która zagrażałaby całemu ekosystemowi Thylei.
 
 ## Cele
-Dawniej: służba Bliźniaczym Tytanom. <!-- UNSOURCED --> Myrmeki, potomstwo Królowej, służyły w Praxys i na jej wezwanie przybyły z odsieczą ([[Sesja 71 - Infiltracja Praxys]]).
+Dawniej: stworzone przez [[Talieus|Talieusa]] na prośbę [[Lutheria|Lutherii]]; później zwalczane przez [[Sydon|Sydona]]. Myrmeki, potomstwo Królowej, służyły w Praxys i na jej wezwanie przybyły z odsieczą ([[Sesja 71 - Infiltracja Praxys]]).
 
 ## Siedziba
 [[Wyspa Myrmeków]], otoczona magiczną, przezroczystą sferą, w której zostały uwięzione ([[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]]). Część myrmeków przebywała też w [[Praxys]].
@@ -19,7 +19,7 @@ Dawniej: służba Bliźniaczym Tytanom. <!-- UNSOURCED --> Myrmeki, potomstwo Kr
 Mrówkopodobne istoty. Ich matką i przywódczynią była [[Królowa Myrmeków]], zabita przez [[Orion Xul|Oriona]] w [[Sesja 71 - Infiltracja Praxys]].
 
 ## Relacje
-- **Patron**: [[Sydon]], [[Lutheria]]. <!-- UNSOURCED -->
+- **Patron**: brak (stworzone przez [[Talieus|Talieusa]]).
 - **Twórca**: [[Talieus Pierwszy]], omamiony przez Lutherię ([[Sesja 39 - Tajemnice Wyspy Złotego Serca]]).
 - **Wróg**: [[Kentimane]] (uwięził je).
 

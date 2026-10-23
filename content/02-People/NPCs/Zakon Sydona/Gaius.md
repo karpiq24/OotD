@@ -10,22 +10,22 @@ image_prompt: middle-aged male, rugged build, fantasy commander, Roman-inspired,
 _Dowódca [[Zakon Sydona|Zakonu Sydona]], nieubłagany wykonawca woli Władcy Burz. Zginął na Wyspie Yonder, jego dusza czeka w Hadesie._
 
 ## Opis
-Gaius to potężnie zbudowany mężczyzna w ciężkiej zbroi płytowej z motywami burzy. Jest potężnym paladynem Sydona. Posiada *Javelin of Lightning*. Często widywany w Mytros w towarzystwie **[[Acastus|Króla Acastusa]]** lub w Świątyni Sydona. <!-- UNSOURCED -->
+Gaius to potężnie zbudowany mężczyzna w ciężkiej zbroi płytowej z motywami burzy. Jest potężnym paladynem Sydona. Posiada *Javelin of Lightning*. Często widywany w Mytros w towarzystwie **[[Acastus|Króla Acastusa]]** lub w Świątyni Sydona.
 
 Był dowódcą Zakonu i dosiadał **[[Argyn|Argyna]]**, srebrnej smoczycy, którą kochał; na Yonder miał prywatne komnaty w świątyni. Nie żyje: zginął z rąk bohaterów, a jego dusza stoi w kolejce do [[Charon|Charona]] w [[Hades|Hadesie]]. Przy jego ciele znaleziono pierścień spowalniający upadek, potężną włócznię i zbroję [[Xander|Xandera]] osłabiającą ataki tytanów.
 
 ## Osobowość
-*   **Gorliwy:** Niezachwianie oddany [[Sydon|Sydonowi]]. Nie zna litości dla heretyków. <!-- UNSOURCED -->
-*   **Pozbawiony humoru:** Ponury, nigdy nie pije alkoholu. Krzyżuje bardów, by ich uciszyć. Nawet jego ludzie się go boją. <!-- UNSOURCED -->
+*   **Gorliwy:** Niezachwianie oddany [[Sydon|Sydonowi]]. Nie zna litości dla heretyków.
+*   **Pozbawiony humoru:** Ponury, nigdy nie pije alkoholu. Krzyżuje bardów, by ich uciszyć. Nawet jego ludzie się go boją.
 
-Gardzi Pięcioma Bogami: Pythora uważa za pijaka, Kyrah za marną poetkę, a Vallus za słabą władczynię zamkniętą w wieży. Jego celem jest zniszczenie świątyń Pięciu i oddanie miasta w ręce Sydona. <!-- UNSOURCED -->
+Gardzi Pięcioma Bogami: Pythora uważa za pijaka, Kyrah za marną poetkę, a Vallus za słabą władczynię zamkniętą w wieży. Jego celem jest zniszczenie świątyń Pięciu i oddanie miasta w ręce Sydona.
 
 Fanatyczny sługa [[Sydon|Sydona]]; popierał go i nienawidził [[Chondrus|Chondrusa]], a wobec [[Lutheria|Lutherii]] był obojętny.
 
 ## Historia
 W [[Sesja 5 - Skała Estora]] bohaterowie byli świadkami przybycia srebrnego smoka [[Argyn|Argyna]] z jeźdźcem, Commanderem Gaiusem, w związku z planowaną ofiarą z księżniczki [[Anora|Anory]].
 
-Gaius dowodził oddziałem kapitanów [[Zakon Sydona|Zakonu Sydona]], który przybył do [[Estoria|Estorii]], i nadzorował procesję na [[Skała Estora|Skałę Estora]]. Gdy bohaterowie dobrowolnie zajęli miejsce Anory i przeżyli noc, niechętnie pozwolił im odejść, uznając warunki ofiary za spełnione. <!-- UNSOURCED -->
+Gaius dowodził oddziałem kapitanów [[Zakon Sydona|Zakonu Sydona]], który przybył do [[Estoria|Estorii]], i nadzorował procesję na [[Skała Estora|Skałę Estora]]. Gdy bohaterowie dobrowolnie zajęli miejsce Anory i przeżyli noc, niechętnie pozwolił im odejść, uznając warunki ofiary za spełnione.
 
 W [[Sesja 7 - Uratować Księżniczkę]] został obwiniony przez [[Hergeron|Hergerona]] o porażkę w sprawie Anory. W [[Sesja 8 - Ścieżka Umarłych]] spotkał bohaterów na szlaku do [[Nekropolia w Telamok|Telamok]]: jadąc na srebrnym smoku, ostrzegł ich przed kontynuowaniem misji.
 

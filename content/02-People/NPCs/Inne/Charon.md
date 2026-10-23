@@ -7,7 +7,7 @@ title: Charon
 _Przewoźnik po rzece Styks_
 
 ## Opis
-Ponura postać.<!-- UNSOURCED -->
+Wyglądem i zachowaniem to w zasadzie Charon z gry wideo *Hades*.
 
 Przewoźnik dusz zmarłych, na którego nad rzeką [[Styks]] w [[Hades|Hadesie]] czeka niekończąca się kolejka dusz. Pobiera opłatę od zmarłych.
 

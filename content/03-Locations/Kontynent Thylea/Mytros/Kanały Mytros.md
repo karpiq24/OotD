@@ -4,9 +4,9 @@ title: Kanały Mytros
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_System kanalizacyjny pod miastem Mytros._ <!-- UNSOURCED -->
+_System kanalizacyjny pod miastem Mytros._
 
-Kanały Mytros to cud inżynierii, łączący umiejętności planowania [[Vallus]] z wiedzą techniczną [[Volkan|Volkana]]. Dzięki nim Mytros jest najczystszym miastem w Thylei. Jednak po wiekach użytkowania, część kanałów popadła w ruinę, stając się domem dla wyrzutków i potworów. Król [[Acastus|Akastus]] zaniedbał ich konserwację, skupiając się na igrzyskach i paradach. <!-- UNSOURCED -->
+Kanały Mytros to cud inżynierii, łączący umiejętności planowania [[Vallus]] z wiedzą techniczną [[Volkan|Volkana]]. Dzięki nim Mytros jest najczystszym miastem w Thylei. Jednak po wiekach użytkowania, część kanałów popadła w ruinę, stając się domem dla wyrzutków i potworów. Król [[Acastus|Akastus]] zaniedbał ich konserwację, skupiając się na igrzyskach i paradach.
 
 ## Lokacje
 *   **[[Gniazdo Zapomnianych]]**: Społeczność meduz, tieflingów, pół-orków i minotaurów.

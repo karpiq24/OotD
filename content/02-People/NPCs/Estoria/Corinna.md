@@ -7,13 +7,13 @@ title: Corinna
 _Córka Thericlesa z [[Estoria]], towarzyszka drużyny i dowódczyni legionu w Bitwie o Mytros_
 
 ## Opis
-Młoda kobieta, mieszkanka okolic [[Estoria]].<!-- UNSOURCED -->
+Młoda kobieta, mieszkanka okolic [[Estoria]].
 
 ## Osobowość
-Odważna, choć przerażona wydarzeniami w [[Stary Las|Starym Lesie]].<!-- UNSOURCED -->
+Odważna, choć przerażona wydarzeniami w [[Stary Las|Starym Lesie]].
 
 ## Historia
-Corinna jest córką Thericlesa, który prowadzi winnicę w [[Estoria]]. Ona i jej przyjaciele zostali zwabieni do [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]] przez [[Demetria|Demetrię]], która obiecywała im bogactwo i sławę. Została ostrzeżona przez satyra o imieniu [[Loreus]], że czeka ich los gorszy niż śmierć, i zdołała uciec, choć była ścigana przez goatlingi. Pomogła bohaterom odnaleźć drogę do świątyni, by ratować swoich przyjaciół.<!-- UNSOURCED -->
+Corinna jest córką Thericlesa, który prowadzi winnicę w [[Estoria]]. Ona i jej przyjaciele zostali zwabieni do [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]] przez [[Demetria|Demetrię]], która obiecywała im bogactwo i sławę. Została ostrzeżona przez satyra o imieniu [[Loreus]], że czeka ich los gorszy niż śmierć, i zdołała uciec, choć była ścigana przez goatlingi. Pomogła bohaterom odnaleźć drogę do świątyni, by ratować swoich przyjaciół.
 
 W [[Sesja 4 - Mroczne sekrety Świątyni]] bohaterowie uratowali porwanych nastolatków, wśród nich Corinnę.
 

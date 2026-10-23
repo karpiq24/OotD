@@ -9,7 +9,7 @@ _Srebrna smoczyca, matka bogów-smoków; poświęciła życie, by wykraść moc 
 ## Opis
 Legendarna srebrna smoczyca, żona [[Volkan|Volkana]] ([[Sybolkorax]]) i matka [[Kyrah]] ([[Arkyrania]]) oraz [[Pythor|Pythora]] ([[Raspytrion]]). Z jej potomstwa pochodzą też [[Vallus]] ([[Tysophale]]) i [[Narsus]]. Nie pokonałaby Tytanów siłą.
 
-Szlachetna duchem. Dosiadana przez [[Xander]]a, a po jego śmierci przez [[Cosmo]].<!-- UNSOURCED -->
+Szlachetna duchem. Dosiadana przez [[Xander]]a, a po jego śmierci przez [[Cosmo]].
 
 ## Historia
 Wielu wierzyło, że wszystkie smoki z jej potomstwa zginęły wraz z nią w Pierwszej Wojnie pięćset lat temu ([[Sesja 38 - Bitwa w Kalderze]]); według strażnika Smoczej Kaplicy cztery z nich mogły zostać schwytane przez Tytanów.

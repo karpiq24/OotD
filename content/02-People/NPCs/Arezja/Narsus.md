@@ -9,12 +9,12 @@ aliases:
 _Bóg Piękna, więzień Arezji; brat Pythora, Kyrah i Vallus_
 
 ## Opis
-Znany ze swojej nieskazitelnej urody, ale także z arogancji i lenistwa.<!-- UNSOURCED -->
+Znany ze swojej nieskazitelnej urody, ale także z arogancji i lenistwa.
 
 Bóg piękna, czczony w Arezji. Jego posąg nad bramą miejską przedstawia go jako mężczyznę o nieludzkim pięknie, a w Sanktuarium stoi zadbany złoty posąg. Jest ucieleśnieniem próżności, wpatrzonym we własne odbicie. Brat [[Pythor|Pythora]], [[Kyrah]] i [[Vallus]] — wszyscy czworo są dziećmi [[Balmytria|Balmytrii]], którym przypadła moc zabrana tytanom. Do dziś pozostaje w Arezji, w złotej klatce.
 
 ## Historia
-Pierwsza królowa, Calliope, uwiodła go i podstępem sprowadziła do miasta. W „złotej klatce" jest czczony i rozpieszczany, co w pełni mu odpowiada.<!-- UNSOURCED -->
+Pierwsza królowa, Calliope, uwiodła go i podstępem sprowadziła do miasta. W „złotej klatce" jest czczony i rozpieszczany, co w pełni mu odpowiada.
 
 Według opowieści Mistrza Gry w [[Sesja 61 - Yala, Arezja i Żółw]]: po pewnym czasie w Mytros Narsusa porwała królowa Kalliope, córka [[Karpathos|Karpathosa]], i zamknęła w swojej złotej klatce w [[Arezja|Arezji]], gdzie siedzi do dziś; Mytros ruszyło go odbić, co zapoczątkowało pierwszą wojnę z Arezją.
 

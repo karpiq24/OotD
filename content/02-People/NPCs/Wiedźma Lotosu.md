@@ -7,19 +7,19 @@ title: Wiedźma Lotosu
 _Potężny sfinks (Gynosphinx) zamieszkujący wieżę na [[Wyspa Skorpiona]]. Zdjęła klątwę z centaurów w zamian za przeprosiny sfinksów z Wyspy Czasu._
 
 ## Opis
-Majestatyczny, skrzydlaty lew z twarzą królewskiej kobiety. Zamieszkuje szczyt czarnej wieży bez okien i drzwi, której wnętrze pokryte jest wyrytymi w skale hieroglifami.<!-- UNSOURCED -->
+Majestatyczny, skrzydlaty lew z twarzą królewskiej kobiety. Zamieszkuje szczyt czarnej wieży bez okien i drzwi, której wnętrze pokryte jest wyrytymi w skale hieroglifami.
 
 Podczas wizyty na statku [[Ultros]] w [[Sesja 59 - Koniec Imprezy]] ukazała się jako półmaterialna postać.
 
 ## Osobowość
-Jest istotą o neutralnym usposobieniu (True Neutral), która nade wszystko ceni wiedzę i historię. Uważa, że ci, którzy nie znają historii, są skazani na powtarzanie jej błędów i w jej oczach są równi niemowlętom – co literalnie realizuje, zamieniając niegodnych intruzów w dzieci.<!-- UNSOURCED -->
+Jest istotą o neutralnym usposobieniu (True Neutral), która nade wszystko ceni wiedzę i historię. Uważa, że ci, którzy nie znają historii, są skazani na powtarzanie jej błędów i w jej oczach są równi niemowlętom – co literalnie realizuje, zamieniając niegodnych intruzów w dzieci.
 
 ## Historia
 Wiedźma Lotosu to wygnanka z [[Wyspa Czasu|Wyspy Czasu]]: jej rodzeństwo, sfinksy, wygnało ją za nadużywanie swoich mocy ([[Sesja 41 - Wiedźma Lotosu]]; w [[Sesja 59 - Koniec Imprezy]] uznano, że samo wygnanie było jak najbardziej zasadne).
 
 Według centaurów z [[Wyspa Skorpiona|Wyspy Skorpiona]] ([[Sesja 40 - Uciechy na Wyspie Skorpiona]]) wiedźma fascynowała się wiedzą i twierdziła, że centaury kiedyś zniszczyły bibliotekę. Centaury, które osiągają dorosłość bez znalezienia jeźdźca, zmieniają się w wielkie skorpiony.
 
-Przybyła na Wyspę Skorpiona w poszukiwaniu wiedzy zawartej w wielkiej bibliotece centaurów, wyrytej na drzewach tutejszego lasu. Kiedy centaury lekkomyślnie wycięły las na opał, niszcząc bezcenną wiedzę, wpadła w gniew i rzuciła na nich klątwę.<!-- UNSOURCED -->
+Przybyła na Wyspę Skorpiona w poszukiwaniu wiedzy zawartej w wielkiej bibliotece centaurów, wyrytej na drzewach tutejszego lasu. Kiedy centaury lekkomyślnie wycięły las na opał, niszcząc bezcenną wiedzę, wpadła w gniew i rzuciła na nich klątwę.
 
 W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] bohaterowie wyruszyli do jej [[Wieża Wiedźmy Lotosu|wieży]], przedzierając się przez magiczne pola lotosu, gdzie czas płynął nienaturalnie.
 

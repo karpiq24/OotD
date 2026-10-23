@@ -7,12 +7,12 @@ title: Mistrz Cieni
 _Tajemniczy Mistrz Arezji, pan Świątyni Cieni i jej szpiegów; po wojnie przywrócił Orestesa do życia w zamian za odłamki Kryształowej Kosy Lutherii._
 
 ## Opis
-Nikt nie zna prawdziwej tożsamości Mistrza Cieni.<!-- UNSOURCED -->
+Nikt nie zna prawdziwej tożsamości Mistrza Cieni.
 
 Postać zawsze skryta za maską i kapturem: zakapturzona postać w masce, a w [[Sesja 83 - Zmierzch Ery Tytanów|Sesji 83]] — w ciemnym kapturze i z osłoną, która uniemożliwia wybadanie go magią.
 
 ## Osobowość
-Pragmatyczny i niezwykle skuteczny.<!-- UNSOURCED -->
+Pragmatyczny i niezwykle skuteczny.
 
 Nieuchwytny i cyniczny — z cynicznym komentarzem odnosi się do kaprysów [[Narsus|Narsusa]]. Nie przyjmuje nieproszonych gości. Jego ludzie są równie dobrzy w szpiegowaniu, co w niedopuszczaniu do siebie szpiegów.
 

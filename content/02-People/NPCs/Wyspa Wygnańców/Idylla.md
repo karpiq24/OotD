@@ -9,13 +9,13 @@ _Matka Króla Acastusa, wygnana na wyspę._
 ## Opis
 Matka [[Acastus|Acastusa]], króla [[Mytros]]. Siwowłosa kobieta; wspomina o swoim pochodzeniu z nieukrywaną dumą. Po wydarzeniach z [[Sesja 46 - Morderca z Wyspy Wygnańców]] wróciła do Mytros i mieszka w pałacu, we własnych prywatnych komnatach.
 
-Bardzo piękna kobieta w średnim wieku, zadbana mimo trudnych warunków. Nosi się z godnością.<!-- UNSOURCED -->
+Bardzo piękna kobieta w średnim wieku, zadbana mimo trudnych warunków. Nosi się z godnością.
 
 ## Osobowość
-Manipulantka, politycznie uzdolniona. Dba o pozory, ale bez mrugnięcia okiem poświęciłaby sojusze dla własnej korzyści.<!-- UNSOURCED -->
+Manipulantka, politycznie uzdolniona. Dba o pozory, ale bez mrugnięcia okiem poświęciłaby sojusze dla własnej korzyści.
 
 ## Historia
-Na wyspie rywalizowała o wpływy, choć oficjalnie zachowywała dystans.<!-- UNSOURCED -->
+Na wyspie rywalizowała o wpływy, choć oficjalnie zachowywała dystans.
 
 Została wygnana na [[Wyspa Wygnańców|Wyspę Wygnańców]] z powodu plotek o jej zbyt dużym wpływie na syna, Acastusa.
 

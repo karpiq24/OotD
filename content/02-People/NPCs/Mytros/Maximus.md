@@ -7,12 +7,12 @@ title: Maximus
 _Bezlitosny handlarz minotaurami._
 
 ## Opis
-Maximus (zwany Bezlitosnym, Bezlitosnym Handlarzem Niewolników) zarządzał **[[Targ Minotaurów|Targiem Minotaurów]]**. Był gladiatorem i okrutnikiem, który traktował minotaury jak bydło. Miał oficjalne pozwolenie od **[[Gaius|Gaiusa]]** na handel "przysięgami służby". <!-- UNSOURCED -->
+Maximus (zwany Bezlitosnym, Bezlitosnym Handlarzem Niewolników) zarządzał **[[Targ Minotaurów|Targiem Minotaurów]]**. Był gladiatorem i okrutnikiem, który traktował minotaury jak bydło. Miał oficjalne pozwolenie od **[[Gaius|Gaiusa]]** na handel "przysięgami służby".
 
 Zginął z rąk drużyny w kanałach pod Mytros ([[Sesja 20 - Noc Długich Rogów]]); jego ciało zostało spalone.
 
 ## Historia
-W [[Sesja 17 - Targ Minotaurów]] drużyna spotkała Maximusa i [[Bullbug]] na targu niewolników. Organizował walki niewolników, w których brał udział [[Orestes]]. <!-- UNSOURCED -->
+W [[Sesja 17 - Targ Minotaurów]] drużyna spotkała Maximusa i [[Bullbug]] na targu niewolników; [[Orestes]] walczył tam z Bullbug na prośbę Nephele.
 
 W [[Sesja 18 - Cienie Mytros]] zgodził się na obstawiane walki w mniejszym gronie i obiecał poinformować o miejscu za kilka dni.
 

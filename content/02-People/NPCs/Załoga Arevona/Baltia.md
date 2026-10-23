@@ -9,12 +9,12 @@ aliases:
 _Dawna członkini załogi Arevona, która po katastrofie osiadła na Themis._
 
 ## Opis
-Wojowniczka i dawna członkini załogi [[Arevon Elorrenthi|Arevona]]. <!-- UNSOURCED -->
+Dawna członkini załogi [[Arevon Elorrenthi|Arevona]].
 
 Po katastrofie ich statku wylądowała na [[Themis]] wraz z [[Ivello Ostren|Ivello]]. Pracowała w pałacu przez kilka ostatnich miesięcy; po rewolucji została na wyspie, czekając, aż [[Arevon Elorrenthi|Arevon]] znajdzie sposób na powrót do domu.
 
 ## Osobowość
-Zaradna i niezależna. Mimo trudnej sytuacji na wyspie, udało jej się przetrwać i odnaleźć swoje miejsce w nowej rzeczywistości. <!-- UNSOURCED -->
+Przetrwała na wyspie, pracując w pałacu, i postanowiła poczekać, aż [[Arevon Elorrenthi|Arevon]] znajdzie drogę do domu.
 
 ## Historia
 W [[Sesja 34 - Ivello i Drapaczka do Pleców]] [[Ivello Ostren|Ivello]], odnaleziony i ożywiony, dopytywał się o jej los jako towarzyszki, z którą wylądował na Themis; [[Arevon Elorrenthi|Arevon]] zapewnił go, że będą jej szukać.

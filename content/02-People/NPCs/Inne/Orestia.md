@@ -13,17 +13,17 @@ _Satyryca uwięziona na Wyspie Krzywoprzysięstwa za złamanie przysięgi podcza
 ## Opis
 Orestia to satyryca, była magini [[Akademia Mytros|Akademii w Mytros]], pochodząca z Mytros. Mimo ponad stu lat spędzonych na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]] zachowała pewną bystrość umysłu. Po końcu kampanii wciąż jest tam więźniem w łańcuchach – drużyna nie wynegocjowała jej uwolnienia.
 
-Ma imię podobne do [[Orestes|Orestesa]], co mogło sugerować pokrewieństwo, jednak nie są spokrewnieni. <!-- UNSOURCED -->
+Ma imię podobne do [[Orestes|Orestesa]], co mogło sugerować pokrewieństwo, jednak nie są spokrewnieni.
 
 ## Osobowość
 Znudzona monotonią swojego uwięzienia, Orestia tęskni za rozrywką; opowieści o browarnictwie szybko ją jednak znużyły. Mówi, że głównie słucha dowcipów Pani Śmierci ([[Lutheria|Lutherii]]).
 
-To właśnie makabryczne żarty Lutherii ukształtowały jej pesymistyczne podejście do zaświatów. <!-- UNSOURCED -->
+Słucha głównie makabrycznych dowcipów Pani Śmierci.
 
 ## Historia
 Za "drobne kłamstewko" i złamanie przysięgi podczas Wielkich Igrzysk w Mytros Orestia odbywa karę na Wyspie Krzywoprzysięstwa, gdzie spędziła już ponad sto lat.
 
-Przysięgę składała na początku zawodów, a kłamstwo prawdopodobnie polegało na magicznym dopingu w debatach; karą miało być wieczne uwięzienie. <!-- UNSOURCED -->
+Przysięgę składała na początku zawodów, a kłamstwo prawdopodobnie polegało na magicznym dopingu w debatach; karą miało być wieczne uwięzienie.
 
 W [[Sesja 68 - Arena Krzywoprzysięstwa]] [[Orestes]] dostrzegł ją wśród potępionych dusz na wyspie. Poczęstowana przez niego piwem, poprawiła sobie nastrój, choć opowieści o browarnictwie szybko ją znużyły, i zdradziła, że zarządca wyspy, [[The Warden]], jest skłonny do negocjacji.
 

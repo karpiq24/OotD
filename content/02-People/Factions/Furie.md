@@ -11,24 +11,23 @@ _Trzy boginie zemsty, strażniczki praw, starsze niż Sydon i Lutheria; w kampan
 ## Opis
 Furie (Erynie) to skrzydlate, opancerzone boginie zemsty i strażniczki praw: trzy siostry Megara, Alecto i Tyzyfone ([[Sesja 57 - Ogród Heliosa]], [[Sesja 75 - Koniec Przysięgi]]). Zostały stworzone przez samą [[Thylea|Thyleę]] na początku świata, więc są starsze niż [[Sydon]] i [[Lutheria]] ([[Sesja 75 - Koniec Przysięgi]]).
 
-Są wysłanniczkami boskiego prawa i egzekutorkami naturalnych praw Thylei. Są arbitrami sporów dotyczących złamania **Prawa Gościnności** (Guest Friendship) oraz **Świętych Przysiąg** (Sacred Oaths). <!-- UNSOURCED -->
+Są wysłanniczkami boskiego prawa i egzekutorkami naturalnych praw Thylei. Są arbitrami sporów dotyczących złamania **Prawa Gościnności** (Guest Friendship) oraz **Świętych Przysiąg** (Sacred Oaths).
 
-Ścigają każdego, kto zostanie obłożony **Klątwą Zdrajcy** (Curse of the Treacherous), nękając go bez litości. Niewielu jest na tyle głupich, by dobrowolnie narazić się na ich gniew. <!-- UNSOURCED -->
+Ścigają każdego, kto zostanie obłożony **Klątwą Zdrajcy** (Curse of the Treacherous), nękając go bez litości. Niewielu jest na tyle głupich, by dobrowolnie narazić się na ich gniew.
 
 ## Cele
-- Egzekwowanie kary za złamanie przysięgi (Oathbreaker). <!-- UNSOURCED -->
-- Ściganie łamiących zasady gościnności. <!-- UNSOURCED -->
+- Egzekwowanie kary za złamanie przysięgi (Oathbreaker).
+- Ściganie łamiących zasady gościnności.
 - Według [[Kyrah]] Furie nie mogły uważać [[Estor Arkelander|Estora]] za chronionego Przysięgą Pokoju ([[Sesja 24 - Ultros]]).
 - Nie są lojalne wobec Lutherii; obserwowały ją jako boginie zemsty i w razie jej zdrady stanęłyby po stronie prawa ([[Sesja 70 - Audiencja u Pani Snów]]).
 
 ## Siedziba
-Brak stałej siedziby. Pojawiają się tam, gdzie złamano prawo. <!-- UNSOURCED --> Przebywały na statku [[Hypnos]] (dwie skrzydlate kobiety o czerwonych piórach, polerujące rynsztunek, [[Sesja 70 - Audiencja u Pani Snów]]); miały też sypialnie na jednym z pięter [[Praxys]] ([[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]]) i komnatę z potężnym teleskopem ([[Sesja 75 - Koniec Przysięgi]]).
+Brak stałej siedziby. Pojawiają się tam, gdzie złamano prawo. Przebywały na statku [[Hypnos]] (dwie skrzydlate kobiety o czerwonych piórach, polerujące rynsztunek, [[Sesja 70 - Audiencja u Pani Snów]]); miały też sypialnie na jednym z pięter [[Praxys]] ([[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]]) i komnatę z potężnym teleskopem ([[Sesja 75 - Koniec Przysięgi]]).
 
 ## Członkowie
-Trzy skrzydlate boginie zemsty z wężowymi włosami i biczami. <!-- UNSOURCED --> Trzy siostry: [[Megara]], [[Alecto]] i [[Tyzyfone]].
+Trzy siostry – [[Megara]], [[Alecto]] i [[Tyzyfone]] – boginie zemsty. Trzy siostry: [[Megara]], [[Alecto]] i [[Tyzyfone]].
 
 ## Relacje
-- **Patron**: Prawo Naturalne. <!-- UNSOURCED -->
 - **[[Thylea]]**: stworzyła je na początku świata.
 - **[[Bohaterowie Przepowiedni]]**: obserwowały poczynania drużyny i sugerowały, że bohaterowie mogą być lekarstwem dla Thylei ([[Sesja 75 - Koniec Przysięgi]]).
 

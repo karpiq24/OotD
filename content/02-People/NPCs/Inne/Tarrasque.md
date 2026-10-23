@@ -7,7 +7,7 @@ title: Tarrasque
 _Legendarny Pożeracz Światów, Zguba Bogów._
 
 ## Opis
-Tarrasque to istota o niewyobrażalnej potędze i rozmiarach, potwór zdolny do niszczenia całych cywilizacji i panteonów. <!-- UNSOURCED -->
+Tarrasque to istota o niewyobrażalnej potędze i rozmiarach, potwór zdolny do niszczenia całych cywilizacji i panteonów.
 
 Legendarny Pożeracz Światów. Runy w [[Sześcian Więzienny|Sześcianie Więziennym]] nazywają go "Zgubą Bogów" i głoszą, że jest zrodzony z pustki, by pożreć świat, a przed jego cieniem drżą Tytani. Przebudzony w Sesji 66, spoczywa w gigantycznej komorze pod zbiornikiem z kwasem w Sześcianie; kolejne sesje nie opisują jego uwolnienia, a w [[Sesja 84 - Świt Nowej Ery]] [[Versir]] obiecał doglądać więziennych sześcianów, w których nic się nie zmieniało.
 

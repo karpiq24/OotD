@@ -9,7 +9,7 @@ _Heroiczna minotaurzyca._
 ## Opis
 Bullbug to potężna minotaurzyca, uratowana przez drużynę z rąk handlarzy niewolników w Mytros ([[Sesja 63 - Werdykt Arezji]]). W przeciwieństwie do reputacji minotaurów nie jest zła ani żądna krwi.
 
-Została wychowana przez ludzką rodzinę, która traktowała ją jak córkę. Jej rodzina została zabita przez [[Zakon Sydona]], a ona sprzedana w niewolę [[Maximus|Maximusowi]], który z kolei wystawił ją na sprzedaż na **[[Targ Minotaurów|Targu Minotaurów]]**. <!-- UNSOURCED -->
+Została wychowana przez ludzką rodzinę, która traktowała ją jak córkę. Jej rodzina została zabita przez [[Zakon Sydona]], a ona sprzedana w niewolę [[Maximus|Maximusowi]], który z kolei wystawił ją na sprzedaż na **[[Targ Minotaurów|Targu Minotaurów]]**.
 
 W końcowych sesjach przebywa w Arezji, w [[Świątynia Żywiołów|Świątyni Żywiołów]], przy boku [[Taureus|Taureusa]].
 

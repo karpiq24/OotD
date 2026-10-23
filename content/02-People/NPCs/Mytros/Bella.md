@@ -7,12 +7,12 @@ title: Bella
 _Konkubina króla Acastusa_
 
 ## Opis
-Piękna młoda kobieta. <!-- UNSOURCED -->
+Bardzo skąpo ubrana, piękna młoda kobieta.
 
 Jak zwykle ubrana trochę zbyt lubieżnie ([[Sesja 25 - Inauguracja Wielkich Igrzysk]]).
 
 ## Historia
-Widziana w sali tronowej w towarzystwie króla [[Acastus|Acastusa]] i dowódcy [[Gaius|Gaiusa]]. Sugerowała złożenie drogich ofiar, aby udobruchać Sydona. <!-- UNSOURCED -->
+Widziana w sali tronowej w towarzystwie króla [[Acastus|Acastusa]] i dowódcy [[Gaius|Gaiusa]]. Sugerowała złożenie drogich ofiar, aby udobruchać Sydona.
 
 W [[Sesja 13 - Wezwani przez Króla]] wraz z Acastusem i Gaiusem chciała zrzucić na bohaterów winę za klęski.
 

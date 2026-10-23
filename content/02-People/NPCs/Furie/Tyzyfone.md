@@ -14,7 +14,7 @@ _Furia, Starsza niż Bliźniacy_
 Jedna z trzech [[Furie|Furii]], bogiń zemsty i strażniczek praw.
 
 ## Osobowość
-Cicha, tajemnicza i nieubłagana strażniczka.<!-- UNSOURCED -->
+Powściągliwa strażniczka praw.
 
 ## Historia
 Została stworzona przez samą [[Thylea|Thyleę]] na początku świata, by pełnić rolę strażniczki praw.

@@ -4,23 +4,23 @@ title: Jaskinie Troglodytów
 
 ![Placeholder](../../assets/placeholder.webp)
 
-Górny poziom dawnych kopalni Mithralowej Kuźni, obecnie przejęty przez szczep troglodytów. Cuchnące, wilgotne tunele pełne niebezpieczeństw. <!-- UNSOURCED -->
+Górny poziom dawnych kopalni Mithralowej Kuźni, obecnie przejęty przez szczep troglodytów. Cuchnące, wilgotne tunele pełne niebezpieczeństw.
 
 W głąb jaskiń prowadzi winda.
 
 ## Ciekawe Miejsca
-- **Legowiska**: Miejsca spoczynku troglodytów. <!-- UNSOURCED -->
+- **Legowiska**: Miejsca spoczynku troglodytów.
 - **Dół Więzienny**: Miejsce przetrzymywania jeńców; troglodyci więzili tu centaury, które uratowała drużyna.
-- **Sala Króla**: Siedziba Króla Troglodytów. <!-- UNSOURCED -->
+- **Sala Króla**: Siedziba Króla Troglodytów.
 - **Dno jaskiń**: Na dole leżą truchło cerbera i skamieniałe szczątki małych, dwugłowych psów zabitych przez cockatrice. Mieszka tu też młody cerber.
 
 ## Mieszkańcy
-- **Troglodyci**: Prymitywne, agresywne istoty. <!-- UNSOURCED -->
+- **Troglodyci**: Prymitywne, agresywne istoty.
 - **[[Król Troglodytów]]**: Przywódca troglodytów, który ostrzegł drużynę o niebezpieczeństwie, jakie zabiło nawet cerbera strzegącego przejścia.
 - **Cockatrice**: Zabiły małe, dwugłowe psy, których skamieniałe szczątki leżą na dole.
 
 ## Historia
-Kopalnie zostały opuszczone przez krasnoludy wieki temu, a górne poziomy zasiedlili troglodyci, którzy wyszli z Podmroku. <!-- UNSOURCED -->
+Kopalnie zostały opuszczone przez krasnoludy wieki temu, a górne poziomy zasiedlili troglodyci, którzy wyszli z Podmroku.
 
 W [[Sesja 10 - Świątynia Heliosa i Jaskinie Troglodytów]] bohaterowie, ostrzeżeni przez centaura [[Hukar|Hukara]], weszli do jaskiń, pokonali troglodytów i uratowali uwięzione centaury. Na końcu usłyszeli głos zapraszający ich na audiencję.
 

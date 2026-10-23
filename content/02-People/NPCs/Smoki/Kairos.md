@@ -9,7 +9,7 @@ _Młody smok Felicjana, związany z nim przysięgą Smoczych Lordów._
 ## Opis
 Kairos to samiec, który wykluł się z jaja brązowego smoka, które [[Felicjan Janus Twardowski|Felicjan]] nosił przy sobie przez długi czas. Rozwijał się w zdumiewającym tempie i był żarłoczny, lecz mniej absorbujący niż jego poprzednik. Do końca kampanii urósł na tyle, że jest nieco większy od [[Paradoks|Paradoksa]], który jest już niewiele mniejszy od niego. <!-- CONFLICT: S48 „brązowego smoka” vs S54 „młodego, miedzianego smoka” -->
 
-Niewielki smok o lśniących, brązowych łuskach, energiczny i ciekawski.<!-- UNSOURCED -->
+Niewielki smok o lśniących, brązowych łuskach, energiczny i ciekawski.
 
 ## Historia
 Wykluł się na pokładzie statku [[Ultros]] w [[Sesja 48 - Pakty z Mojrami i Zew Chimery]], gdy statek płynął w stronę [[Wyspa Forlorn|Wyspy Forlorn]]. Felicjan nazwał go Kairosem i natychmiast przystąpił do rytuału tworzenia więzi, wypowiadając nad nim słowa starożytnej przysięgi [[Smoczy Lordowie|Smoczych Lordów]]. [[Pythor]] uznał jego narodziny za znak odrodzenia dawnej chwały. Podczas lądowania na wyspie Kairos, spłoszony hukiem i ogniem w walce z Płonącymi Czaszkami, szczęśliwie odskoczył i uniknął obrażeń.

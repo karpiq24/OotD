@@ -4,10 +4,10 @@ title: Obóz wojskowy Mytros
 
 ![Placeholder](../../assets/placeholder.webp)
 
-Obóz wojskowy armii [[Mytros]], zlokalizowany na szlaku w kierunku [[Świątynia Wyroczni]]. <!-- UNSOURCED -->
+Obóz wojskowy armii [[Mytros]], zlokalizowany na szlaku w kierunku [[Świątynia Wyroczni]].
 
 ## Ciekawe Miejsca
-- **Namiot Dowódcy**: Miejsce urzędowania [[Hileas|Dowódcy Hileasa]]. <!-- UNSOURCED -->
+- **Dowództwo**: Obozem dowodzi [[Hileas|Dowódca Hileas]].
 
 ## Mieszkańcy
 - [[Hileas]]: Dowódca obozu.

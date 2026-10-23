@@ -11,7 +11,7 @@ Wielki posąg boga wojny [[Pythor|Pythora]] stojący w porcie [[Mytros]] — gig
 ## Historia
 W [[Sesja 20 - Noc Długich Rogów]] dwie kobiety prowadzące uwolnione minotaury weszły przy Kolosie do ukrytych drzwi.
 
-W [[Sesja 23 - Nowe Przymierze]] okazało się, że wewnątrz Kolosa mieści się siedziba [[Kult Węża|Kultu Węża]]. Tam drużyna spotkała się z [[Moxena|Moxeną]], która ostatecznie zaakceptowała jej propozycję sojuszu. Wejście znał [[Varkon]]. <!-- UNSOURCED -->
+W [[Sesja 23 - Nowe Przymierze]] okazało się, że wewnątrz Kolosa mieści się siedziba [[Kult Węża|Kultu Węża]]. Tam drużyna spotkała się z [[Moxena|Moxeną]], która ostatecznie zaakceptowała jej propozycję sojuszu. Wejście znał [[Varkon]].
 
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] [[Sybolkorax]] ujawnił drużynie ukrytą funkcję Kolosa: ten wielki posąg boga wojny na południu miasta można obudzić jak pradawnego mecha-boga i poprowadzić do walki w obronie [[Mytros]]. Do aktywacji potrzebne jest [[Rod of Rulership]] dzierżone przez króla [[Acastus|Acastusa]]. Drużyna rozważała [[Moxena|Moxenę]] lub [[Ismene Neurdagon|córkę Tarana Neurdagona]] jako kandydatki na pilota.
 

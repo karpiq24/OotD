@@ -17,7 +17,7 @@ Od urodzenia wykazuje wysoką inteligencję i zdolność mowy. Jest chętny do w
 ## Historia
 W [[Sesja 58 - Wyspa Czasu]] spotkany przez bohaterów jako dziwaczny smok strzegący rozdroża na [[Wyspa Czasu|Wyspie Czasu]]. Zażądał rozwiązania trzech zagadek, by przepuścić podróżnych, a drużyna odpowiedziała poprawnie.
 
-Z biegiem czasu na wyspie stawał się coraz młodszy.<!-- UNSOURCED -->
+Z biegiem czasu na wyspie stawał się coraz młodszy.
 
 W [[Sesja 59 - Koniec Imprezy]] bohaterowie wrócili do Przejścia Przez Czas, gdzie zwykle napotykali smoka, ale tym razem znaleźli tylko jego smocze jajo. [[Felicjan Janus Twardowski|Felicjan]] zdecydował się zabrać je na [[Ultros]].
 

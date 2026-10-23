@@ -9,11 +9,11 @@ _Uzurpatorka tronu Amazonek na Themis, Meduza posługująca się imieniem i wize
 ## Opis
 Fałszywa królowa Amazonek, nazywana Meduzą ([[Sesja 36 - Królowa, Dziedzic i Generał]]).
 
-Przez lata udawała królową [[Thessilea|Thessileę]], utrzymując władzę dzięki podstępowi i magii. <!-- UNSOURCED -->
+Przez lata udawała królową [[Thessilea|Thessileę]], utrzymując władzę dzięki podstępowi i magii.
 
 ## Historia
-Kilkanaście lat temu, wspólnie z [[Moxena|Moxeną]] i [[Leah|Leą]], dokonała krwawego przewrotu, podczas którego zamordowała prawdziwą królową, [[Thessilea|Thessileę]]. Nastura zajęła jej miejsce, posługując się jej imieniem, natomiast córkę królowej, [[Darien]], kazała uwięzić w fortecy [[Więzienie Kieł|Kieł]]. <!-- UNSOURCED -->
+Kilkanaście lat temu, wspólnie z [[Moxena|Moxeną]] i [[Leah|Leą]], dokonała krwawego przewrotu, podczas którego zamordowała prawdziwą królową, [[Thessilea|Thessileę]]. Nastura zajęła jej miejsce, posługując się jej imieniem, natomiast córkę królowej, [[Darien]], kazała uwięzić w fortecy [[Więzienie Kieł|Kieł]].
 
 W [[Sesja 36 - Królowa, Dziedzic i Generał]] w czasie rewolucji Amazonek wspieranej przez drużynę i skruszoną Moxenę uzurpatorka poniosła klęskę, a władzę objęła [[Darien]].
 
-Zginęła podczas rewolucji. <!-- UNSOURCED -->
+Zginęła podczas rewolucji.

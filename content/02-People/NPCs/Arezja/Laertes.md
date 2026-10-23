@@ -9,17 +9,17 @@ aliases:
 _Wielki Mistrz Spokoju (Tranquility), starzec poszukujący idealnej oliwki._
 
 ## Opis
-Bardzo stary człowiek z długą, plecioną, białą brodą. Jego twarz pokryta jest niezliczoną ilością zmarszczek. Spekuluje się, że ma ponad 500 lat.<!-- UNSOURCED -->
+Bardzo stary człowiek z długą, plecioną, białą brodą. Jego twarz pokryta jest niezliczoną ilością zmarszczek. Spekuluje się, że ma ponad 500 lat.
 
 Starzec, który zdaje się być częścią samej góry, na której mieszka.
 
 ## Osobowość
-Jego życie kręci się wokół rytuału jedzenia jednej oliwki dziennie.<!-- UNSOURCED -->
+Jego życie kręci się wokół rytuału jedzenia jednej oliwki dziennie.
 
 Niezwykle cierpliwy: gości przyjmuje w milczeniu, celebrując nieskończenie powolny rytuał parzenia herbaty, a odzywa się dopiero po długim czasie. Szuka idealnej oliwki.
 
 ## Historia
-Laertes od wieków zarządza Świątynią Spokoju.<!-- UNSOURCED --> Jego uczniowie spędzają lata na zbieraniu oliwek, ucząc się cierpliwości.<!-- UNSOURCED -->
+Laertes od wieków zarządza Świątynią Spokoju. Jego uczniowie spędzają lata na zbieraniu oliwek, ucząc się cierpliwości.
 
 W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie usłyszeli o nim jako o Mistrzu Spokoju, obsesyjnie szukającym idealnej oliwki, i dowiedzieli się od sprzedawcy oliwek, że sekret idealnej oliwki mają druidzi centaurów pod wodzą króla Agriusa.
 

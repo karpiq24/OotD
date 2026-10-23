@@ -4,9 +4,9 @@ title: Fekaliusz
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Żywiołak wody zatykający kanały._ <!-- UNSOURCED -->
+_Żywiołak fekaliów, który zatykał kanały Mytros._
 
-Potężny żywiołak wody, który zagnieździł się w kanałach Mytros, powodując powodzie. <!-- UNSOURCED -->
+Potężny żywiołak fekaliów (nieczystości), na którego drużyna natrafiła w północnej części kanałów Mytros.
 
 W [[Sesja 15 - W kanałach Mytros]] drużyna napotkała go na północy [[Kanały Mytros|kanałów Mytros]] i stoczyła z nim ciężką walkę, w której zginął [[Hoobert]].
 

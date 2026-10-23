@@ -4,18 +4,18 @@ title: Król Troglodytów
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-Władca troglodytów zamieszkujących górne poziomy jaskiń przy Mithralowej Kuźni. <!-- UNSOURCED -->
+Władca troglodytów zamieszkujących górne poziomy jaskiń przy Mithralowej Kuźni.
 
 Ostatni raz pojawił się na arenie [[Wyspa Krzywoprzysięstwa|Wyspy Krzywoprzysięstwa]], gdzie bohaterowie pokonali go w drugiej fali ([[Sesja 68 - Arena Krzywoprzysięstwa]]).
 
 ## Opis
-Ogromny troglodyta zasiadający na prymitywnym tronie. Nosi złotą opaskę na głowie (Opaska Intelektu), która nadaje mu nienaturalną dla jego rasy inteligencję. <!-- UNSOURCED -->
+Ogromny troglodyta zasiadający na prymitywnym tronie. Nosi złotą opaskę na głowie (Opaska Intelektu), która nadaje mu nienaturalną dla jego rasy inteligencję.
 
 ## Osobowość
-Dzięki magicznej opasce stał się elokwentny i inteligentny, co wpędziło go w depresję – jest otoczony przez "brudnych idiotów" (swoich poddanych). Mówi w sposób teatralny, szekspirowski. Jest zły do szpiku kości i planuje zjeść gości, ale pragnie też rozrywki intelektualnej (zagadki). <!-- UNSOURCED -->
+Dzięki magicznej opasce stał się elokwentny i inteligentny, co wpędziło go w depresję – jest otoczony przez "brudnych idiotów" (swoich poddanych). Mówi w sposób teatralny, szekspirowski. Jest zły do szpiku kości i planuje zjeść gości, ale pragnie też rozrywki intelektualnej (zagadki).
 
 ## Historia
-Jego szczep przybył z Podmroku. Król włada nimi twardą ręką, ale nudzi się potwornie. <!-- UNSOURCED -->
+Jego szczep przybył z głębokich jaskiń. Król włada nimi twardą ręką, ale nudzi się potwornie.
 
 W [[Sesja 11 - Mithralowa Kuźnia]], gdy drużyna zapuściła się w głąb [[Jaskinie Troglodytów|jaskiń troglodytów]], Król Troglodytów ostrzegł ją przed straszliwym niebezpieczeństwem, które zabiło nawet cerbera strzegącego przejścia. Bohaterowie zignorowali przestrogę.
 

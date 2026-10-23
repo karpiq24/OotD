@@ -7,7 +7,7 @@ title: Delg
 _Zdesperowany przywódca krasnoludów z plemienia Wieloryba._
 
 ## Opis
-Potężny krasnolud, którego twarz nosi ślady troski i bezsilności.<!-- UNSOURCED -->
+Potężny krasnolud, którego twarz nosi ślady troski i bezsilności.
 
 Przywódca [[Plemię Wieloryba|plemienia Wieloryba]] i ojciec [[Brenna|Brenny]].
 

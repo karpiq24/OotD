@@ -9,10 +9,10 @@ aliases:
 _Smoczy Lord, jeździec mosiężnego smoka Hezzebala; jego szczątki spoczywają w Lustrzanym Więzieniu._
 
 ## Opis
-Młody Smoczy Lord, dziedzic spuścizny [[Xander|Xandera]].<!-- UNSOURCED -->
+Smoczy Lord, dziedzic spuścizny [[Xander|Xandera]].
 
 ## Historia
-Syn Xandera Huoratha, ojciec [[Isadore Huorath|Isadore'a]]. Zniknął wraz ze swoim smokiem [[Hezzebal|Hezzebalem]] podczas wyprawy na [[Zapomniane Morze]], zleconej przez [[Estor Arkelander|Estora Arkelandera]].<!-- UNSOURCED -->
+Syn Xandera Huoratha, ojciec [[Isadore Huorath|Isadore'a]]. Zniknął wraz ze swoim smokiem [[Hezzebal|Hezzebalem]] podczas wyprawy na [[Zapomniane Morze]], zleconej przez [[Estor Arkelander|Estora Arkelandera]].
 
 Jego grób znajduje się w [[Nekropolia w Telamok|Nekropolii w Telamok]]; bohaterowie obejrzeli go w [[Sesja 8 - Ścieżka Umarłych]].
 

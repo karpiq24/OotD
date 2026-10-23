@@ -9,17 +9,17 @@ _Zmarły król plemienia Chodzących w Ogniu na Wyspie Ognia, wybraniec Sydona._
 ## Opis
 Potężny jaszczur i wyznawca [[Sydon|Sydona]], który dzierżył imponujący oręż, a w walce posługiwał się laską miotającą pioruny, podarowaną mu przez Sydona. Towarzyszył mu młody mosiężny smok, [[Chh'Krtak]].
 
-Laska ta to [[Kostur Gromów i Błyskawic]].<!-- UNSOURCED -->
+Laska ta to [[Kostur Gromów i Błyskawic]].
 
 Zginął w [[Sesja 38 - Bitwa w Kalderze]]. W [[Sesja 69 - Ogród Lutherii]] pojawił się jeszcze na arenie jako jeden z dawnych wrogów, którzy powrócili.
 
 ## Osobowość
-Uważał się za wybrańca Sydona. Był bezwzględny i ambitny. Odszedł od dawnych wierzeń jaszczuroludzi, by służyć Panu Burz, co dało mu potęgę, ale skłóciło z tradycjonalistami takimi jak [[Vytha]].<!-- UNSOURCED -->
+Uważał się za wybrańca Sydona. Był bezwzględny i ambitny. Odszedł od dawnych wierzeń jaszczuroludzi, by służyć Panu Burz, co dało mu potęgę, ale skłóciło z tradycjonalistami takimi jak [[Vytha]].
 
 Porzucił dawne tradycje, pluł na smoki i Śpiącego Boga w wulkanie.
 
 ## Historia
-Jankor zawarł pakt z Sydonem, oddając mu jedno ze smoczych jaj w zamian za potęgę i sługi (cyklopów). Władał Wyspą Ognia z drewnianego fortu nad kalderą wulkanu.<!-- UNSOURCED -->
+Jankor zawarł pakt z Sydonem, oddając mu jedno ze smoczych jaj w zamian za potęgę i sługi (cyklopów). Władał Wyspą Ognia z drewnianego fortu nad kalderą wulkanu.
 
 W [[Sesja 37 - Próba Ognia]] bohaterowie dowiedzieli się od [[Vytha|Vythy]], że Jankor porzucił dawne tradycje. W wiosce przyjął bohaterów chłodno, a rozmowa o [[Bront|Broncie]] i jego synu [[Steros|Sterosie]], nowym kowalu, oraz pytanie [[Versir|Versira]] o boga śpiącego w wulkanie doprowadziły do skoku Versira do krateru.
 

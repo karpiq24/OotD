@@ -9,16 +9,16 @@ _Prawowita dziedziczka tronu Amazonek, więziona przez lata w Kłach. Królowa [
 ## Opis
 Długotrwale więziona, osłabiona psychicznie i fizycznie ([[Sesja 32 - Kieł]]): po uwolnieniu była w stanie wypowiadać tylko pojedyncze słowa i niezgrabnie się poruszała.
 
-Przez 13 lat była zamknięta w celi zaklętej czarem *Silence*, przez co nie mogła mówić. <!-- UNSOURCED -->
+Przez 13 lat była zamknięta w celi zaklętej czarem *Silence*, przez co nie mogła mówić.
 
 ## Osobowość
-*   **Pełna ducha:** Mimo uwięzienia, pragnie przygód i zemsty. <!-- UNSOURCED -->
-*   **Nieśmiała:** Ma braki w umiejętnościach społecznych. Czuje się niezręcznie. <!-- UNSOURCED -->
+*   **Pełna ducha:** Mimo uwięzienia, pragnie przygód i zemsty.
+*   **Nieśmiała:** Ma braki w umiejętnościach społecznych. Czuje się niezręcznie.
 
-Zniszczona przez lata niewoli, miała problemy z komunikacją, ale powoli odzyskiwała siły i sprawczość jako władczyni. <!-- UNSOURCED -->
+Zniszczona przez lata niewoli, miała problemy z komunikacją, ale powoli odzyskiwała siły i sprawczość jako władczyni.
 
 ## Historia
-Darien jest córką prawdziwej królowej Amazonek, [[Thessilea|Thessilei]], która została zamordowana kilkanaście lat temu podczas przewrotu dokonanego przez jej doradczynie (siostry): [[Moxena|Moxenę]], [[Leah|Leę]] i [[Nastura|Nasturę]], które zmieniły się w meduzy. Podczas gdy Nastura przybrała postać zmarłej królowej i przejęła jej imię, Darien została wtrącona do lochów w fortecy [[Więzienie Kieł|Kieł]] — dawnej twierdzy Smoczych Lordów. Matka wymusiła na zabójczyniach przysięgę, że nie skrzywdzą Darien aż do jej pełnoletności. <!-- UNSOURCED -->
+Darien jest córką prawdziwej królowej Amazonek, [[Thessilea|Thessilei]], która została zamordowana kilkanaście lat temu podczas przewrotu dokonanego przez jej doradczynie (siostry): [[Moxena|Moxenę]], [[Leah|Leę]] i [[Nastura|Nasturę]], które zmieniły się w meduzy. Podczas gdy Nastura przybrała postać zmarłej królowej i przejęła jej imię, Darien została wtrącona do lochów w fortecy [[Więzienie Kieł|Kieł]] — dawnej twierdzy Smoczych Lordów. Matka wymusiła na zabójczyniach przysięgę, że nie skrzywdzą Darien aż do jej pełnoletności.
 
 W [[Sesja 31 - Wyprawa na Themis]] bohaterowie dowiedzieli się, że amazonki przetrzymują księżniczkę Darien. W [[Sesja 32 - Kieł]] drużyna uwolniła ją z więzienia Kieł — jej cela znajdowała się obok narzędzi tortur — a w [[Sesja 33 - W Szponach Bazyliszków]] została ona bezpiecznie odstawiona na [[Ultros|Ultrosa]] jako dziedziczka tronu. W więzieniu spędziła około trzynastu lat ([[Sesja 33 - W Szponach Bazyliszków]]).
 

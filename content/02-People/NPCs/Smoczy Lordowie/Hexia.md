@@ -9,7 +9,7 @@ _Zielona smoczyca z Wyspy Smoka, niegdyś wierzchowiec Ochosa Arkelandera i mał
 ## Opis
 Starożytny Zielony Smok, smoczyca o szmaragdowych łuskach, z legowiskiem w głębi dżungli na [[Wyspa Smoka|Wyspie Smoka]], w jeziorze na polanie. Czczą ją fanatyczni druidzi z Kręgu Łuski.
 
-Ogromna zielona smoczyca o łuskach koloru szmaragdu i jadeitu.<!-- UNSOURCED -->
+Ogromna zielona smoczyca o łuskach koloru szmaragdu i jadeitu.
 
 ## Osobowość
 Pogrążona w żałobie po stracie jeźdźca, obsesyjnie próbuje odtworzyć jego pieśń. Wściekła na profanowanie pamięci Ochosa, ma też powody, by nienawidzić [[Pythor|Pythora]], swojego dawnego małżonka.

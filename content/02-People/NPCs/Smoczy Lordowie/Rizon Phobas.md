@@ -4,16 +4,16 @@ title: Rizon Phobas
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Autorka Xanderiady, Smoczy Lord_<!-- UNSOURCED -->
+_Autorka Xanderiady, Smoczy Lord_
 
 ## Opis
 Smoczy Lord, jeździec brązowego smoka [[Sybolkorax]] ([[Sesja 75 - Koniec Przysięgi]]).
 
 ## Osobowość
-Szlachetna, lojalna wobec [[Xander|Xandera]].<!-- UNSOURCED -->
+Szlachetna, lojalna wobec [[Xander|Xandera]].
 
 ## Historia
-Autorka "Xanderiady". Przeżyła wojnę z Tytanami.<!-- UNSOURCED -->
+Autorka "Xanderiady". Przeżyła wojnę z Tytanami.
 
 W [[Sesja 8 - Ścieżka Umarłych]] bohaterowie oglądali jej grobowiec w [[Nekropolia w Telamok|Nekropolii w Telamok]], wśród grobowców innych Smoczych Lordów.
 

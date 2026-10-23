@@ -7,25 +7,25 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Główne centrum nauki w Thylei._ <!-- UNSOURCED -->
+_Główne centrum nauki w Thylei._
 
 Akademia to kompleks imponujących marmurowych budynków, w skład którego wchodzą biblioteka, planetarium, hala debaty i akademik. Po wojnie straciła sporo kadry, lecz przyjmuje rekordową liczbę rekrutów.
 
-Kampus składa się z kilkunastu budynków połączonych brukowanymi ścieżkami i trawnikami. To tutaj uczeni dyskutują, badają i nauczają wszelkich dziedzin wiedzy. <!-- UNSOURCED -->
+Kampus składa się z kilkunastu budynków połączonych brukowanymi ścieżkami i trawnikami. To tutaj uczeni dyskutują, badają i nauczają wszelkich dziedzin wiedzy.
 
 ## Ważne Budynki
-*   **Wielka Biblioteka**: Zbiór zwojów o florze, faunie, medycynie i historii. <!-- UNSOURCED -->
-*   **Sala Bohaterów**: Miejsce upamiętnienia herosów Thylei, pełne posągów i pieśni. <!-- UNSOURCED -->
-*   **Szkoły Magii**: Osiem budynków poświęconych szkołom magii. <!-- UNSOURCED -->
-*   **Wielkie Planetarium (Great Orrery)**: Budynek z brązowym mechanizmem przedstawiającym plany egzystencji. <!-- UNSOURCED -->
-*   **Sala Debat**: Forum dyskusyjne dla filozofów. <!-- UNSOURCED -->
+*   **Wielka Biblioteka**: Zbiór zwojów o florze, faunie, medycynie i historii.
+*   **Sala Bohaterów**: Miejsce upamiętnienia herosów Thylei, pełne posągów i pieśni.
+*   **Szkoły Magii**: Osiem budynków poświęconych szkołom magii.
+*   **Wielkie Planetarium (Great Orrery)**: Budynek z brązowym mechanizmem przedstawiającym plany egzystencji.
+*   **Sala Debat**: Forum dyskusyjne dla filozofów.
 
 ## Filozofowie
 W Akademii można było spotkać największe umysły Thylei:
-*   **Machaon** (Półork, mag) <!-- UNSOURCED -->
-*   **Chalcodon** (Elf, szlachcic) <!-- UNSOURCED -->
-*   **Kerodotos** (Gnom, kapłan) <!-- UNSOURCED -->
-*   **Atreus** (Diabelstwo, kapitan) <!-- UNSOURCED -->
+*   **Machaon** (Półork, mag)
+*   **Chalcodon** (Elf, szlachcic)
+*   **Kerodotos** (Gnom, kapłan)
+*   **Atreus** (Diabelstwo, kapitan)
 
 ## Historia
 W [[Sesja 15 - W kanałach Mytros]] mistrz [[Chalcodon]] znał osobiście prababkę [[Felicjan Janus Twardowski|Felicjana]], [[Despina|Despinę]], i przekazał o niej informacje.

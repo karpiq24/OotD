@@ -4,10 +4,10 @@ title: Świątynia Tarczy
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Najbardziej prestiżowa świątynia wojowników w Arezji, położona blisko pałacu._ <!-- UNSOURCED -->
+_Najbardziej prestiżowa świątynia wojowników w Arezji, położona blisko pałacu._
 
 ## Opis
-Panuje tu żelazna dyscyplina. <!-- UNSOURCED -->
+Panuje tu żelazna dyscyplina.
 
 Świątynia Tarczy w [[Arezja|Arezji]] jest domeną Wielkiej Mistrzyni [[Halcyon]]. Ćwiczą w niej hoplici w czerwonych płaszczach.
 

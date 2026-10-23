@@ -9,7 +9,7 @@ _Znużony i cyniczny urzędnik piekieł, demoniczny zarządca Sześcianu Więzie
 ## Opis
 Ultroloth: lewitująca postać o wydłużonej głowie pozbawionej ust i twarzy, komunikująca się telepatycznie. Jest demonicznym zarządcą [[Sześcian Więzienny|Sześcianu Więziennego]], w którym spoczywa [[Tarrasque]].
 
-W przeciwieństwie do fanatycznych sług Tytanów bardziej interesuje go spokój i porządek niż lojalność. Ubrany w szaty. <!-- UNSOURCED -->
+W przeciwieństwie do fanatycznych sług jest znużonym, cynicznym urzędnikiem.
 
 ## Osobowość
 *   **Cyniczny:** Traktuje swoją rolę jako pracę, a nie powołanie.

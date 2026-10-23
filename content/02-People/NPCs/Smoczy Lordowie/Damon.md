@@ -7,13 +7,13 @@ title: Damon
 _Strażnik [[Nekropolia w Telamok|Nekropolii w Telamok]]._
 
 ## Opis
-Wielki czarodziej Smoczych Lordów, założyciel [[Akademia Mytros|Akademii Mytros]]. Był potężnym czarodziejem, który służył Smoczym Lordom podczas Pierwszej Wojny.<!-- UNSOURCED -->
+Wielki czarodziej Smoczych Lordów, założyciel [[Akademia Mytros|Akademii Mytros]]. Był potężnym czarodziejem, który służył Smoczym Lordom podczas Pierwszej Wojny.
 
 ## Historia
-Gdy Smoczy Lordowie wyruszyli w swoją ostatnią podróż na Zapomniane Morze, kapłani wypatrywali zagłady. Jednak pewnej nocy wzburzone morze uspokoiło się, a koszmary ustały. Kilka dni później, do portu w Mytros wpłynął czarny statek z ciałami Smoczych Lordów. Kapitanem był Damon, śmiertelnie ranny i milczący.<!-- UNSOURCED -->
+Gdy Smoczy Lordowie wyruszyli w swoją ostatnią podróż na Zapomniane Morze, kapłani wypatrywali zagłady. Jednak pewnej nocy wzburzone morze uspokoiło się, a koszmary ustały. Kilka dni później, do portu w Mytros wpłynął czarny statek z ciałami Smoczych Lordów. Kapitanem był Damon, śmiertelnie ranny i milczący.
 
 Przekazał trzy cenne przedmioty do Świątyni Pięciu, w tym zwój z Przysięgą Pokoju (Oath of Peace). Przysięga ta powstrzymała [[Bliźniaczy Tytani|Bliźniaczych Tytanów]] przed zemstą na 500 lat, pod warunkiem wznowienia ofiar. Po spełnieniu zadania, Damon zniknął wraz ze swoim statkiem i ciałami swoich towarzyszy.
-Założył również Akademię w Mytros, centrum wiedzy i magii.<!-- UNSOURCED -->
+Założył również Akademię w Mytros, centrum wiedzy i magii.
 
 W wizji [[Podbój Estora]], którą [[Arevon Elorrenthi|Arevon]] przeżył w [[Sesja 36 - Królowa, Dziedzic i Generał]], Damon doradzał Estorowi, jak zdobyć twierdzę wroga: wykorzystać pustą w środku statuę [[Sydon|Sydona]] do przemycenia oddziału, który nocą sabotuje katapulty.
 

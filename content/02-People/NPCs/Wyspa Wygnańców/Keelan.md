@@ -15,6 +15,6 @@ Fanatyczny i zimny; gardził wszystkimi mieszkańcami wyspy, a także samym sob�
 ## Historia
 Wygnany na wyspę za bratobójstwo. Rytualnie zamordował kilku innych więźniów, w tym [[Cronos|Cronosa]], [[Lysander|Lysandra]], [[Petros|Petrosa]] i [[Marius|Mariusa]].
 
-Jego plany zostały częściowo pokrzyżowane przez [[Marius|Mariusa]]. <!-- UNSOURCED -->
+Jego plany zostały częściowo pokrzyżowane przez [[Marius|Mariusa]].
 
 W [[Sesja 45 - Tajemnica Wyspy Wygnańców]] dołączył do powitania bohaterów jako towarzysz [[Stavros|Stavrosa]], skutecznie ukrywając swoją naturę. W [[Sesja 46 - Morderca z Wyspy Wygnańców]] odpowiadał na pytania zdawkowo i niechętnie, wspominając ofiary z pogardą, a [[Marius|Mariusa]] nazwał słabym narzędziem w rękach [[Tyrone|Tyrona]]; przyznał, że zabił własnego brata. Po tym, jak drzewo figowe wskazało go jako swojego kata, [[Felicjan Janus Twardowski|Felicjan]] odczytał jego myśli i odkrył, że działał sam, z przekonania o misji oczyszczenia wyspy. [[Arevon Elorrenthi|Arevon]] unieruchomił go czarem *Uwięzienie Osoby*, a [[Orestes]] i [[Orion Xul|Orion]] go związali. Zdemaskowany wygłosił płomienną mowę: nazwał wygnańców złodziejami, oszustami i mordercami, [[Stavros|Stavrosa]] trucicielem, a [[Idylla|Idyllę]] manipulantką żądną władzy. Pod naporem tłumu [[Stavros]] zgodził się na jego śmierć, a [[Orestes]] ściął go toporem.

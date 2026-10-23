@@ -12,7 +12,7 @@ Osada na [[Kontynent Thylea|kontynencie Thylei]], znana wcześniej jako **Rosos*
 ## Ciekawe Miejsca
 - **Browar Orestesa**: serce osady i powód jej nowej nazwy. [[Orestes]] rozdzielał w nim udziały między towarzyszy — [[Pholon|Pholonowi]] przypadło jakieś dwanaście i pół procent, co [[Arevon Elorrenthi|Arevon]] skwitował uwagą o rodzącym się komunizmie.
 - **Kadzie Volkana**: [[Volkan]] i [[Orestes]] wspólnie budują tu kadzie do browaru.
-- Browar prowadzi też interesy z rodziną [[Taran Neurdagon|Neurdagonów]]. <!-- UNSOURCED -->
+- Browar prowadzi też interesy z rodziną [[Taran Neurdagon|Neurdagonów]].
 
 ## Mieszkańcy
 - [[Orestes]] — właściciel browaru i patron osady.

@@ -11,15 +11,15 @@ image_prompt: Identical twin double of a young adult male human wizard with a le
 _Magiczny klon (Simulacrum) Felicjana Janusa Twardowskiego._
 
 ## Opis
-Stworzony ze śniegu i lodu. Klonicjan to idealny fizyczny duplikat maga [[Felicjan Janus Twardowski|Felicjana]], stworzony za pomocą potężnego zaklęcia *Stworzeniebowtóra (Simulacrum)*. Wizualnie różni się jedynie subtelną, chłodną aurą oraz zachowaniem, które jest bezpośrednio podporządkowane woli jego stwórcy.<!-- UNSOURCED -->
+Klonicjan to klon maga [[Felicjan Janus Twardowski|Felicjana]], stworzony zaklęciem *Simulacrum* ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]).
 
 W walce wspiera drużynę potężnymi zaklęciami, takimi jak *Chromatyczna Kula (Chromatic Orb)*.
 
 ## Osobowość
-Cichy, posłuszny i zorientowany na realizację celów Felicjana. Posiada tę samą inteligencję i wspomnienia co pierwowzór w momencie tworzenia.<!-- UNSOURCED -->
+Posiada te same zdolności i wspomnienia co pierwowzór w momencie tworzenia.
 
 ## Historia
-Został powołany do życia przez [[Felicjan Janus Twardowski|Felicjana]], by służyć jako dodatkowa siła bojowa i wsparcie dla [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].<!-- UNSOURCED -->
+Został powołany do życia przez [[Felicjan Janus Twardowski|Felicjana]], by służyć jako dodatkowa siła bojowa i wsparcie dla [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].
 
 W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] Felicjan, ujawniwszy stworzone jeszcze na statku Simulacrum, wprowadził klona do bitwy jako drugiego maga w drużynie; Klonicjan został ciężko ranny przez *Steel Wind Strike* [[Hergeron|Hergerona]].
 

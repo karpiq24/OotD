@@ -7,20 +7,20 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-Duży budynek o wzmocnionych kamiennych ścianach i gontowym dachu, położony blisko centrum miasta. Wewnątrz panuje żar od ognia płonącego w wielkim palenisku. <!-- UNSOURCED -->
+Duży budynek o wzmocnionych kamiennych ścianach i gontowym dachu, położony blisko centrum miasta. Wewnątrz panuje żar od ognia płonącego w wielkim palenisku.
 
 W sesjach pod tą nazwą występuje też wulkaniczna góra [[Volkan|Volkana]] (Góra Volkana, Mount Volkan), na którą wyrusza procesja Wielkich Igrzysk i która po śmierci [[Sydon|Sydona]] zaczęła się budzić.
 
 ## Ciekawe Miejsca
-- **Warsztat**: Miejsce ozdobione brązowymi pancerzami, bronią i narzędziami rolniczymi. <!-- UNSOURCED -->
-- **Palenisko**: Wielka kuźnia na tyłach hali. <!-- UNSOURCED -->
+- **Warsztat**: Miejsce ozdobione brązowymi pancerzami, bronią i narzędziami rolniczymi.
+- **Palenisko**: Wielka kuźnia na tyłach hali.
 
 ## Mieszkańcy
-- **[[Volkan]]**: Kowal i Bóg Kuźni. Miejscowi uważają go za dziwaka z urojeniami wielkości, ale cenią jego fach. <!-- UNSOURCED --> Po wojnie osiadł u boku [[Orestes|Orestesa]] w [[Orestessos Zythikē]].
-- **Theo**: Młody chłopak, asystent Volkana, zajmujący się stajniami i sprawunkami. <!-- UNSOURCED -->
+- **[[Volkan]]**: Kowal i Bóg Kuźni. Miejscowi uważają go za dziwaka z urojeniami wielkości, ale cenią jego fach. Po wojnie osiadł u boku [[Orestes|Orestesa]] w [[Orestessos Zythikē]].
+- **Theo**: Młody chłopak, asystent Volkana, zajmujący się stajniami i sprawunkami.
 
 ## Historia
-Główny warsztat rzemieślniczy w [[Estoria|Estorii]]. Volkan oferuje tu usługi kowalskie dla całego miasta i okolicznych farm. To tutaj można nabyć bardziej zaawansowany ekwipunek, którego nie ma na [[Agora w Estorii|Agorze]]. <!-- UNSOURCED -->
+Główny warsztat rzemieślniczy w [[Estoria|Estorii]]. Volkan oferuje tu usługi kowalskie dla całego miasta i okolicznych farm. To tutaj można nabyć bardziej zaawansowany ekwipunek, którego nie ma na [[Agora w Estorii|Agorze]].
 
 W [[Sesja 14 - Burza nad Mytros]] bohaterowie wraz z [[Vallus]] i [[Kyrah]] udali się na Górę Volkana, gdzie przeprowadzili rytuał mający powstrzymać burzę.
 

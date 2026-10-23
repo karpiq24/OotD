@@ -9,7 +9,7 @@ aliases:
 _Mechaniczny posłaniec, opisany w książce Volkana._
 
 ## Historia
-Prawdopodobnie jest to zaawansowany automaton stworzony przez boga kowali.<!-- UNSOURCED -->
+Prawdopodobnie jest to zaawansowany automaton stworzony przez boga kowali.
 
 W [[Sesja 21 - Ukryte pragnienia Ismene]] [[Arevon Elorrenthi|Arevon]] znalazł w [[Akademia Mytros|Akademii]] książkę „Golemy i Automatony" autorstwa [[Volkan|Volkana]], zawierającą informacje o Keledone; okazało się, że [[Ismene Neurdagon]] wcześniej wypożyczała tę książkę.
 

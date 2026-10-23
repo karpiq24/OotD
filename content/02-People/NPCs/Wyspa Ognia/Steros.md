@@ -9,13 +9,13 @@ _Jancan, syn Bronta, kowal z Wyspy Ognia i dowódca Egidy Mytros, poległ w Bitw
 ## Opis
 Steros był cyklopem jancanem, synem [[Bront|Bronta]]. Zginął w pierwszej fali [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|Bitwy o Mytros]]; według [[Sesja 84 - Świt Nowej Ery]] był lepszym rzemieślnikiem od ojca.
 
-Jancan to rzadki rodzaj cyklopa z dziesięcioma palcami u rąk i nóg, co czyni go naturalnym kowalem i artyficerem. Był mniejszy od typowych cyklopów. Wychował się w wieży [[Praxys]], gdzie był obiektem drwin. Nosił specjalny monokl, który korygował jego wzrok i dawał magiczne zdolności. Potrafił tworzyć mechaniczne zwierzęta.<!-- UNSOURCED -->
+Jancan to rzadki rodzaj cyklopa z dziesięcioma palcami u rąk i nóg, co czyni go naturalnym kowalem i artyficerem. Był mniejszy od typowych cyklopów. Wychował się w wieży [[Praxys]], gdzie był obiektem drwin. Nosił specjalny monokl, który korygował jego wzrok i dawał magiczne zdolności. Potrafił tworzyć mechaniczne zwierzęta.
 
 ## Osobowość
-Inteligentniejszy od typowego cyklopa, dumny ze swoich umiejętności kowalskich.<!-- UNSOURCED -->
+Inteligentniejszy od typowego cyklopa, dumny ze swoich umiejętności kowalskich.
 
 ## Historia
-Został wysłany przez [[Sydon|Sydona]] na [[Wyspa Ognia|Wyspę Ognia]], by zastąpić swojego ojca, [[Bront|Bronta]], który został porwany.<!-- UNSOURCED -->
+Został wysłany przez [[Sydon|Sydona]] na [[Wyspa Ognia|Wyspę Ognia]], by zastąpić swojego ojca, [[Bront|Bronta]], który został porwany.
 
 W [[Sesja 37 - Próba Ognia]] bohaterowie dowiedzieli się, że Sydon dostarczył Chodzącym w Ogniu nowego kowala. Był nim Steros, który zajął miejsce ojca; Bront, uwolniony przez bohaterów, dowiedział się o losie syna i był wściekły, że jest zmuszony pracować w takim miejscu.
 
@@ -28,8 +28,7 @@ W [[Sesja 84 - Świt Nowej Ery]] podsumowano powojenne losy [[Mithralowa Kuźnia
 ## Śmierć
 Steros poległ w **pierwszej rundzie Bitwy o [[Mytros]]**, w starciu legionu [[Egida Mytros|Egidy Mytros]] z automatonami [[Sydon|Sydona]].
 
-Był to pierwszy dowódca stracony przez obrońców i pierwszy prawdziwy cios tej wojny — jancan, który całe życie budował mechaniczne zwierzęta, zginął rozbity przez cudze konstrukty.<!-- UNSOURCED -->
+Był to pierwszy dowódca stracony przez obrońców i pierwszy prawdziwy cios tej wojny — jancan, który całe życie budował mechaniczne zwierzęta, zginął rozbity przez cudze konstrukty.
 
-Dowództwo nad [[Egida Mytros|Egidą]] przejęła po nim **[[Corinna]]** — ta sama cywilka, którą bohaterowie uratowali na samym początku swojej drogi. Legion pod jej ręką przetrwał całą resztę oblężenia.<!-- UNSOURCED -->
+Dowództwo nad [[Egida Mytros|Egidą]] miała objąć **[[Corinna]]** — cywilka, którą bohaterowie uratowali na początku swojej drogi.
 
-Najgorzki jest jednak fakt, o którym nikt nie pamiętał w ferworze bitwy: **[[Bront]] wciąż nie wie**. Cyklop-kowal, który w [[Sesja 37 - Próba Ognia]] dowiedział się wreszcie, co Sydon zrobił z jego synem, i który przez lata żył nadzieją, że go odzyska, do dziś nie usłyszał wiadomości o jego śmierci. Nikt mu jej nie zaniósł.<!-- UNSOURCED -->

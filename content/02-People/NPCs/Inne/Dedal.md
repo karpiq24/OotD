@@ -10,7 +10,7 @@ _Wynalazca z samotnej wyspy na Zapomnianym Morzu, po wojnie nauczyciel artificer
 Mężczyzna o potarganych włosach i oczach płonących obsesyjnym ogniem. Wygląda na kogoś, kto spędził lata w izolacji, skupiając się jedynie na swojej pracy.
 
 ## Osobowość
-Genialny, ale ekscentryczny i nieco oderwany od rzeczywistości.<!-- UNSOURCED -->
+Genialny, ale ekscentryczny i nieco oderwany od rzeczywistości.
 
 Jego jedynym celem było uciec z wyspy, na której się rozbił.
 

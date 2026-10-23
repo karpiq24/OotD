@@ -7,12 +7,12 @@ title: Leandros
 _Dowódca gwardii królowej Heleny._
 
 ## Opis
-Mężczyzna w średnim wieku, starszy o 20 lat od swoich podwładnych. Posiada długą bliznę biegnącą od brwi do szczęki. Nosi bogato zdobiony pancerz.<!-- UNSOURCED -->
+Mężczyzna w średnim wieku, starszy o 20 lat od swoich podwładnych. Posiada długą bliznę biegnącą od brwi do szczęki. Nosi bogato zdobiony pancerz.
 
 ## Osobowość
-Poważny, lojalny i niezwykle cierpliwy wobec kaprysów królowej. Krążą plotki, że darzy [[Królowa Helena|Królową Helenę]] nieodwzajemnionym uczuciem.<!-- UNSOURCED -->
+Poważny i lojalny. Krążą plotki, że jego oddanie [[Królowa Helena|Królowej Helenie]] wykracza poza obowiązek.
 
 ## Historia
-Służy królowej wiernie od ponad dwóch dekad. Nigdy nie przegrał turniejowego pojedynku.<!-- UNSOURCED -->
+Nigdy nie przegrał turniejowego pojedynku.
 
 W [[Sesja 62 - Arezyjska Dyplomacja]] był głosem królowej podczas pierwszego spotkania z bohaterami pod murami miasta: [[Królowa Helena|Helena]] nie zwracała się do przybyszów bezpośrednio, a rozmowę prowadził w jej imieniu on, jako dowódca jej gwardii.

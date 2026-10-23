@@ -9,15 +9,15 @@ _Były doradca króla Acastusa i sługa Lutherii; zabity przez Versira w Sesji 8
 ## Opis
 Chondrus był tieflingiem, arkanistą i czarownikiem, którego największym atutem były teleportacja i podróże międzywymiarowe. Nosił czarny, elegancki strój. Był byłym doradcą króla Acastusa i członkiem rady Mytros, który znał strukturę [[Zakon Sydona|Zakonu Sydona]], a w rzeczywistości szpiegiem i wiernym sługą **[[Lutheria|Lutherii]]**. Zginął z ręki [[Versir|Versira]] w [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]].
 
-Był niebieskoskórym tieflingiem, a w rzeczywistości kapłanem Lutherii wywodzącym się ze **[[Stygian Row]]**. <!-- UNSOURCED -->
+Był niebieskoskórym tieflingiem, a w rzeczywistości kapłanem Lutherii wywodzącym się ze **[[Stygian Row]]**.
 
 ## Osobowość
 Jego postawa emanowała dawną władzą i arogancją ([[Sesja 52 - Infiltracja Yonder]]). W służbie Sydona odczuwał tylko chłód fanatyzmu i uważał świat Sydona za tyranię owiniętą w sztandar boskości. Sydona miał za tępego, żądnego władzy tyrana, a Lutherię za obserwatorkę, która nie pragnie totalnej wojny i mogłaby sprzymierzyć się przeciw własnemu bratu.
 
-Był pedantyczny, uwielbiał poprawiać drobne błędy innych, i uważał się za mądrzejszego od wszystkich. Był przebiegły, manipulujący i cyniczny; publicznie udawał pobożnego zwolennika Pięciu Bogów, wygłaszając płomienne mowy o nadziei na cud. <!-- UNSOURCED -->
+Był pedantyczny, uwielbiał poprawiać drobne błędy innych, i uważał się za mądrzejszego od wszystkich. Był przebiegły, manipulujący i cyniczny; publicznie udawał pobożnego zwolennika Pięciu Bogów, wygłaszając płomienne mowy o nadziei na cud.
 
 ## Historia
-Podczas narady w Sali Tronowej nalegał, by Vallus użyła swojej mocy, aby odegnać burze Sydona. <!-- UNSOURCED -->
+Podczas narady w Sali Tronowej nalegał, by Vallus użyła swojej mocy, aby odegnać burze Sydona.
 
 W [[Sesja 17 - Targ Minotaurów]] Gaius okazał nienawiść do Chondrusa, a w [[Sesja 18 - Cienie Mytros]] [[Versir]] wyruszył na jego poszukiwania. W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] stał w czarnym eleganckim stroju na królewskim balkonie wśród bogów.
 

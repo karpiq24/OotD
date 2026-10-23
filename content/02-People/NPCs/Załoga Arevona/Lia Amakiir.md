@@ -10,10 +10,10 @@ image_prompt: "A female wood elf fighter with coppery skin and sharp emerald gre
 _Wojowniczka z załogi Arevona, pochodząca z Sharn w Eberronie. Po kampanii odpłynęła do Eberronu._
 
 ## Opis
-**Lia Amakiir** to elfka leśna o miedzianej skórze i przenikliwym spojrzeniu zielonych oczu. W przeciwieństwie do wielu swoich pobratymców, wychowała się w metropolii Sharn (Breland), co nadało jej miejskiego sznytu i praktycznego podejścia do walki. Jako wojowniczka specjalizuje się w walce łukiem oraz szybkimi ostrzami, łącząc elficką grację z bezwzględnością niezbędną do przetrwania na ulicach Miasta Wież. <!-- UNSOURCED -->
+**Lia Amakiir** to elfka leśna o miedzianej skórze i przenikliwym spojrzeniu zielonych oczu. W przeciwieństwie do wielu swoich pobratymców, wychowała się w metropolii Sharn (Breland), co nadało jej miejskiego sznytu i praktycznego podejścia do walki. Jako wojowniczka specjalizuje się w walce łukiem oraz szybkimi ostrzami, łącząc elficką grację z bezwzględnością niezbędną do przetrwania na ulicach Miasta Wież.
 
 ## Historia
-Lia była kluczowym członkiem oryginalnej załogi [[Arevon Elorrenthi|Arevona]] w świecie Eberron, służąc na statku "The Tranquility". Przed dołączeniem do załogi prawdopodobnie krążyła po najniższych poziomach Sharn jako najemniczka lub strażniczka. Zaginęła wraz z resztą załogi, gdy statek rozbił się u brzegów [[Thylea|Thylei]]. <!-- UNSOURCED -->
+Lia była członkinią oryginalnej załogi [[Arevon Elorrenthi|Arevona]] w świecie Eberron, służąc na statku "The Tranquility". Zaginęła wraz z resztą załogi, gdy statek został roztrzaskany.
 
 Jej los był długo nieznany. W [[Sesja 73 - Praxys - Skarbiec Sydona]] [[Arevon Elorrenthi|Arevon]] odnalazł ją wśród więźniów w wieży [[Praxys]]; została uwolniona. Wyjaśniła, że [[Sydon]] zabezpieczył resztki statku [[Tranquility]] w dokach, choć ten nie nadawał się wtedy do podróży.
 

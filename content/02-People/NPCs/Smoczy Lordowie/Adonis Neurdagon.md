@@ -9,10 +9,10 @@ aliases:
 _Jeden ze Smoczych Lordów, brat Despiny; zmarły przed wiekami._
 
 ## Opis
-Piękny i próżny wojownik.<!-- UNSOURCED -->
+Piękny i niezwykle bogaty wojownik.
 
 ## Historia
-Brał udział w wyprawie z [[Telamok Arkelander|Telamokiem]] na [[Praxys]].<!-- UNSOURCED -->
+Brał udział w wyprawie z [[Telamok Arkelander|Telamokiem]] na [[Praxys]] (zob. [[Szturm na Praxys]]).
 
 Jego grób znajduje się w [[Nekropolia w Telamok|Nekropolii w Telamok]]; bohaterowie obejrzeli go w [[Sesja 8 - Ścieżka Umarłych]].
 

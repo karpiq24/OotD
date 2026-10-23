@@ -4,16 +4,16 @@ title: Isadore Huorath
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Wybitna wojowniczka i sportsmenka, Smoczy Lord_<!-- UNSOURCED -->
+_Wybitna wojowniczka i sportsmenka, Smoczy Lord_
 
 ## Opis
-Wysoka, wysportowana kobieta o silnych ramionach i długich czarnych włosach.<!-- UNSOURCED -->
+Wysoka, wysportowana kobieta o silnych ramionach i długich czarnych włosach.
 
 ## Osobowość
-Wszechstronna, inteligentna i silna. Wybitna w sporcie, walce i filozofii.<!-- UNSOURCED -->
+Wszechstronna, inteligentna i silna. Wybitna w sporcie, walce i filozofii.
 
 ## Historia
-Smoczy Lord, która nigdy nie wyszła za mąż i nie zdobyła "żadnego" (prawdopodobnie tronu lub specyficznego tytułu), ale cieszyła się szacunkiem wielu. Pod koniec życia była wątła i schorowana, a u jej boku zawsze trwał tajemniczy, zakapturzony mężczyzna (prawdopodobnie [[Damon]]).<!-- UNSOURCED -->
+Smoczy Lord, która nigdy nie wyszła za mąż i nie zdobyła "żadnego" (prawdopodobnie tronu lub specyficznego tytułu), ale cieszyła się szacunkiem wielu. Pod koniec życia była wątła i schorowana, a u jej boku zawsze trwał tajemniczy, zakapturzony mężczyzna (prawdopodobnie [[Damon]]).
 
 Według drzewa genealogicznego Smoczych Lordów była córką [[Gregor Huorath|Gregora Huoratha]], syna [[Xander|Xandera]] ([[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]]).
 

@@ -9,15 +9,15 @@ _Starożytne bóstwo słońca, ojciec cyklopów, zmuszony przez własną przysi�
 ## Opis
 Helios objawia się jako mężczyzna o nieludzkiej urodzie, ubrany w lśniące, złote szaty; mieszka w rajskim ogrodzie na wyspie. Potrafi przybrać postać gigantycznego, starożytnego złotego smoka i zionąć ogniem.
 
-Ma być wspaniałym, silnym mężczyzną o ciele wykonanym ze złota, kojarzonym z oślepiającym blaskiem słońca, złotym gryfem oraz rydwanem przemierzającym niebiosa wśród gwiazd.<!-- UNSOURCED -->
+Ma być wspaniałym, silnym mężczyzną, promieniującym złotem i oślepiającym blaskiem słońca, kojarzonym ze złotym rydwanem przemierzającym niebiosa.
 
 ## Osobowość
-Dla swoich wyznawców, takich jak [[Euria]], Helios ucieleśnia perfekcyjne piękno i potęgę, wolną od brudu i słabości śmiertelnego świata.<!-- UNSOURCED -->
+Dla swoich wyznawców, takich jak [[Euria]], Helios ucieleśnia perfekcyjne piękno i potęgę, wolną od brudu i słabości śmiertelnego świata.
 
 W obliczu paktu z [[Sydon|Sydonem]] nie był sojusznikiem Tytana z wyboru, lecz ofiarą własnych zobowiązań; do ataku na gości zabrał się z żalem.
 
 ## Historia
-Euria, Jesienny Wiatr, pod koniec swojej podróży odnalazła ukrytą świątynię Heliosa. Po spotkaniu ze złotym gryfem, który był jego wysłannikiem, doznała epifanii i uznała Heliosa za jedynego boga godnego jej oddania.<!-- UNSOURCED -->
+Euria, Jesienny Wiatr, była zafascynowana Heliosem; bohaterowie spotkali ją w jego świątyni.
 
 W [[Sesja 10 - Świątynia Heliosa i Jaskinie Troglodytów]] bohaterowie spotkali w jego [[Świątynia Heliosa|świątyni]] nimfę [[Euria|Eurię]], którą fascynował; doszło do walki i bohaterowie musieli ją zabić.
 

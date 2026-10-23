@@ -10,21 +10,21 @@ _Centaur z [[Przeklęte Plemię|Przeklętego Plemienia]], towarzysz załogi [[Ul
 ## Opis
 Pholon to potężnej postury centaur z [[Przeklęte Plemię|Przeklętego Plemienia]], kuzyn [[Nessa|Nessy]].
 
-Pochodzi z [[Wyspa Skorpiona|Wyspy Skorpiona]]. Kiedyś był związany z człowiekiem imieniem Ankaios, którego kochał i z którym przeżył wiele przygód, aż do śmierci Ankaiosa w bitwie. Musi znaleźć nowego jeźdźca przed następną pełnią księżyca.<!-- UNSOURCED -->
+Pochodzi z [[Wyspa Skorpiona|Wyspy Skorpiona]]. Kiedyś był związany z człowiekiem imieniem Ankaios, którego kochał i z którym przeżył wiele przygód, aż do śmierci Ankaiosa w bitwie. Musi znaleźć nowego jeźdźca przed następną pełnią księżyca.
 
 ## Osobowość
-*   **Młodzieńczy:** Lubi imprezować, pić miód i siłować się z "braćmi". Jest dobry w walce, ale wojnę uważa za przykrą konieczność.<!-- UNSOURCED -->
-*   **Lojalny:** Jest oddany swojemu jeźdźcy i chce być jego najlepszym przyjacielem.<!-- UNSOURCED -->
-"Zawsze bądź przy swoich braciach."<!-- UNSOURCED -->
+*   **Młodzieńczy:** Lubi imprezować, pić miód i siłować się z "braćmi". Jest dobry w walce, ale wojnę uważa za przykrą konieczność.
+*   **Lojalny:** Jest oddany swojemu jeźdźcy i chce być jego najlepszym przyjacielem.
+"Zawsze bądź przy swoich braciach."
 
-Szanuje siłę i zręczność, ale stawia wysokie wymagania tym, którzy chcieliby zostać jego towarzyszami broni.<!-- UNSOURCED -->
+Stawia wysokie wymagania tym, którzy chcieliby zostać jego jeźdźcami.
 
 ## Historia
 W [[Sesja 4 - Mroczne sekrety Świątyni]] bohaterowie spotkali go w drodze powrotnej ze [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]]. Opowiedział im o klątwie ciążącej na jego ludzie i poprosił o pomoc w jej zdjęciu.
 
 W [[Sesja 6 - Problemy w Woodhike]] [[Orestes]], chcąc zostać jego jeźdźcem, przegrał z nim zawody, przez co Pholon (na razie) nie uznał go za godnego partnera.
 
-Spotkanie miało miejsce w okolicach [[Estoria|Estorii]].<!-- UNSOURCED -->
+Spotkanie miało miejsce w okolicach [[Estoria|Estorii]].
 
 W [[Sesja 19 - Pojedynek z Rozpruwaczem]] [[Grimmik]] dał Orestesowi bukłak na browar przeznaczony dla Pholona.
 

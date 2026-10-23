@@ -4,10 +4,10 @@ title: Galeria Sztuki
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Muzeum malarstwa w Arezji, szczycące się kolekcją portretów władców i bogów._ <!-- UNSOURCED -->
+_Muzeum malarstwa w Arezji, szczycące się kolekcją portretów władców i bogów._
 
 ## Opis
-Kwadratowy budynek z kopułą, oferujący widok na rzekę. W środku panuje cisza i chłód. <!-- UNSOURCED -->
+Kwadratowy budynek z kopułą, oferujący widok na rzekę. W środku panuje cisza i chłód.
 
 Galeria Sztuki w [[Arezja|Arezji]] przechowywała magiczny [[Portret Karpathosa|portret]] [[Karpathos|Karpathosa]] Wilczego Lorda. Jego kustoszem był [[Halius]].
 

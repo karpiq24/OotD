@@ -7,7 +7,7 @@ title: Grimhilda
 _Przywódczyni krasnoludów_
 
 ## Opis
-Dumna i waleczna krasnoludka.<!-- UNSOURCED -->
+Krasnoludka dowodząca krasnoludami z [[Estoria|Estorii]] ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]).
 
 ## Osobowość
 TBD

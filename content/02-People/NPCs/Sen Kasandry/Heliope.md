@@ -12,7 +12,7 @@ Członkini załogi statku "Sen Kasandry", towarzyszka [[Quinn|Quinna]].
 Upiera się przy noszeniu szat ozdobionych piórami. Gdy zobaczyła gwiazdy nad [[Thylea|Thyleą]], stwierdziła, że to jakiś inny świat.
 
 ## Osobowość
-Ciekawska, zadaje mnóstwo pytań.<!-- UNSOURCED -->
+Ciekawska, zadaje mnóstwo pytań.
 
 ## Historia
 Zwerbowana przez [[Quinn|Quinna]] do ekspedycji. Przeżyła katastrofę statku.

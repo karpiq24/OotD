@@ -6,20 +6,20 @@ title: Argyn
 
 _Majestatyczna srebrna smoczyca, ukochana Gaiusa i jego wierzchowiec. Zginęła na Wyspie Yonder._
 
-Podobnie jak smok króla, **[[Icarus]]**, Argyn została magicznie postarzona, ale jej umysł wciąż jest niedojrzały. <!-- UNSOURCED -->
+Podobnie jak smok króla, **[[Icarus]]**, Argyn została magicznie postarzona, ale jej umysł wciąż jest niedojrzały.
 
 Argyn to ogromna srebrna smoczyca o błyszczących łuskach.
 
 ## Opis
-W smoczej formie jest latarnią lojalności. [[Gaius]] oczekuje dnia, w którym osiągnie pełną dorosłość i będzie mogła przybrać ludzką postać, gdyż poprzysiągł się z nią ożenić. <!-- UNSOURCED -->
+W smoczej formie jest latarnią lojalności. [[Gaius]] oczekuje dnia, w którym osiągnie pełną dorosłość i będzie mogła przybrać ludzką postać, gdyż poprzysiągł się z nią ożenić.
 
 Zionie lodowatym, paraliżującym oddechem.
 
 ## Osobowość
-Wierna towarzyszka i powierniczka Gaiusa, choć w rzeczywistości jedynie go toleruje. Kocha tylko **[[Sydon|Sydona]]**, który obiecał jej górę skarbów w zamian za służbę. Wierzy, że Pięciu Bogów to zło, a Sydon jest jedynym dobrem. <!-- UNSOURCED -->
+Wierna towarzyszka i powierniczka Gaiusa, choć w rzeczywistości jedynie go toleruje. Kocha tylko **[[Sydon|Sydona]]**, który obiecał jej górę skarbów w zamian za służbę. Wierzy, że Pięciu Bogów to zło, a Sydon jest jedynym dobrem.
 
 ## Historia
-Związana z Gaiusem i sprawą [[Sydon|Sydona]]. Jej istnienie rozwściecza królową [[Vallus]]. <!-- UNSOURCED -->
+Związana z Gaiusem i sprawą [[Sydon|Sydona]]. Jej istnienie rozwściecza królową [[Vallus]].
 
 W [[Sesja 5 - Skała Estora]] bohaterowie byli świadkami przybycia srebrnego smoka Argyna z jeźdźcem, [[Gaius|Commanderem Gaiusem]]. W [[Sesja 17 - Targ Minotaurów]] [[Gaius]] i [[Acastus]] przybyli pod Świątynię Pięciu na smokach [[Icarus]] i Argyn. W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] bohaterowie dowiedzieli się, że [[Gaius]] często przebywa na Yonder ze swoją smoczycą.
 

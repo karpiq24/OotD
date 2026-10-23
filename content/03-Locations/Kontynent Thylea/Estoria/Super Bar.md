@@ -6,18 +6,18 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-Popularny lokal w [[Estoria|Estorii]], znany z wyśmienitego piwa i radosnej atmosfery. Bar jest prowadzony przez [[Brax|Braxa]], krewnego [[Orestes|Orestesa]]. <!-- UNSOURCED -->
+Popularny lokal w [[Estoria|Estorii]], znany z wyśmienitego piwa i radosnej atmosfery. Bar jest prowadzony przez [[Brax|Braxa]], krewnego [[Orestes|Orestesa]].
 
 Po bitwie o [[Mytros]] [[Brax]] odtworzył bar w prowizorycznej wersji w ruinach tego miasta.
 
 ## Ciekawe Miejsca
-- **Bar**: Miejsce, gdzie [[Brax]] serwuje trunki z rodzinnego browaru. <!-- UNSOURCED -->
+- **Bar**: Miejsce, gdzie [[Brax]] serwuje trunki.
 
 ## Mieszkańcy
-- **[[Brax]]**: Właściciel i barman, satyr znany ze swojego poczucia humoru. <!-- UNSOURCED -->
+- **[[Brax]]**: Właściciel i barman, kuzyn [[Orestes|Orestesa]].
 
 ## Historia
-Odwiedzony przez bohaterów w poszukiwaniu informacji. Jest to jedno z ulubionych miejsc spotkań lokalnych mieszkańców, którzy cenią sobie autentyczne smaki i gościnność Braxa. <!-- UNSOURCED -->
+Odwiedzony przez bohaterów w [[Sesja 3 - Skradziony Róg]].
 
 Lokal pojawia się wśród miejsc w [[Sesja 3 - Skradziony Róg]] oraz w [[Sesja 13 - Wezwani przez Króla]] jako „Warlock Circus Super Bar”.
 

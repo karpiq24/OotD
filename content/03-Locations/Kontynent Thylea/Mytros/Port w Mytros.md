@@ -6,16 +6,14 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Brama na świat Thylei._ <!-- UNSOURCED -->
-
-Port w Mytros jest największym portem na kontynencie. Cumują tu dziesiątki statków, a stocznie nieustannie pracują przy naprawach. <!-- UNSOURCED -->
+Port w Mytros jest największym portem na kontynencie. Cumują tu dziesiątki statków, a stocznie nieustannie pracują przy naprawach.
 
 ## Lokacje
 *   **[[Kolos Pythora]]**: Gigantyczny posąg boga wojny [[Pythor|Pythora]], górujący nad portem; w Bitwie o Mytros został obudzony jako mechaniczny bóg wojny.
-*   **[[Zrujnowany Kolos]]**: Zniszczony posąg bogini Mytros. <!-- UNSOURCED -->
+*   **[[Zrujnowany Kolos]]**: Zniszczony posąg bogini Mytros.
 *   **[[Targ Rybny]]**: Targowisko, na którym [[Orestes]] rozmawiał z rybakiem **[[Samuel|Samuelem]]**.
-*   **Stocznie**: Miejsce budowy i naprawy okrętów. <!-- UNSOURCED -->
-*   **Zagroda Ofiarna**: Miejsce sprzedaży zwierząt na ofiary dla bogów przed podróżą morską. <!-- UNSOURCED -->
+*   **Stocznie**: Miejsce budowy i naprawy okrętów.
+*   **Zagroda Ofiarna**: Miejsce sprzedaży zwierząt na ofiary dla bogów przed podróżą morską.
 
 ## Historia
 W [[Sesja 18 - Cienie Mytros]] [[Orestes]] rozmawiał na Rybim Targu z rybakiem [[Samuel|Samuelem]].

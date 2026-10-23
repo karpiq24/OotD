@@ -10,10 +10,10 @@ aliases:
 ## Opis
 Wielki stadion w [[Mytros]], mieszczący tysiące widzów na wykutych w kamieniu siedzeniach, z piaskową areną w centrum. To tutaj odbyły się Wielkie Igrzyska; bywa też nazywany koloseum.
 
-Stadion jest wykuty w kamieniu u podnóża góry [[Kuźnia Volkana|Volkan]]. Posiada marmurowe posągi na krawędziach i królewski balkon na północnej ścianie, ozdobiony kwiatami i gobelinami. <!-- UNSOURCED -->
+Stadion jest wykuty w kamieniu u podnóża góry [[Kuźnia Volkana|Volkan]]. Posiada marmurowe posągi na krawędziach i królewski balkon na północnej ścianie, ozdobiony kwiatami i gobelinami.
 
 ## Historia
-Miejsce to jest symbolem siły i jedności Mytros, goszczącym tysiące obywateli podczas najważniejszych wydarzeń sportowych i kulturalnych. <!-- UNSOURCED -->
+Miejsce to gości tysiące obywateli podczas Wielkich Igrzysk.
 
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] na stadionie rozpoczęły się Wielkie Igrzyska, a procesja wyruszyła tu ze [[Świątynia Pięciu|Świątyni Pięciu]]. W [[Sesja 26 - Triumfy na Igrzyskach]] odbyły się tu kolejne zawody.
 

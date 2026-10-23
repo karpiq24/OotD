@@ -12,8 +12,8 @@ Nessa to centaurzyca z [[Przeklęte Plemię|Przeklętego Plemienia]], kuzynka [[
 Musi związać się z śmiertelnym jeźdźcem zanim osiągnie pełnoletność, inaczej zmieni się w gigantycznego skorpiona.
 
 ## Osobowość
-*   **Wyluzowana:** Lubi zaplatać włosy, robić wianki i palić fajkę z kwiatów lotosu. Uważa wojnę za nudną.<!-- UNSOURCED -->
-*   **Lojalna:** Chce być najlepszą przyjaciółką swojego jeźdźca na zawsze.<!-- UNSOURCED -->
+*   **Wyluzowana:** Lubi zaplatać włosy, robić wianki i palić fajkę z kwiatów lotosu. Uważa wojnę za nudną.
+*   **Lojalna:** Chce być najlepszą przyjaciółką swojego jeźdźca na zawsze.
 
 Wydaje się być świadoma swojego uroku i próbuje go wykorzystać, by znaleźć partnera.
 

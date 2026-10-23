@@ -11,15 +11,15 @@ _Potężny kupiec i głowa rodu Neurdagon._
 ## Opis
 Taran Neurdagon to bogaty kupiec i oligarcha z Mytros, potomek Smoczych Lordów. Mieszka w **[[Posiadłość Neurdagonów|Posiadłości Neurdagonów]]**. Po wojnie hojnie sfinansował odbudowę Mytros, a z czasem załatwił sobie miejsce w radzie miasta ([[Sesja 84 - Świt Nowej Ery]]).
 
-Jest potomkiem smoczego lorda **Adonisa Neurdagona**. Jego posiadłość jest opulentna i leży w Dzielnicy Szlacheckiej. <!-- UNSOURCED -->
+Jest potomkiem smoczego lorda **Adonisa Neurdagona**. Jego posiadłość jest opulentna.
 
 ## Osobowość
-Jest dumnym i wpływowym arystokratą. Jego bogactwo opiera się głównie na nieruchomościach i handlu, w tym (choć niechętnie się do tego przyznaje) na handlu minotaurami. Jest mściwy i nie wybacza odrzucenia. <!-- UNSOURCED -->
+Jest dumnym i wpływowym arystokratą. Jego bogactwo opiera się głównie na nieruchomościach i handlu, w tym (choć niechętnie się do tego przyznaje) na handlu minotaurami. Jest mściwy i nie wybacza odrzucenia.
 
 Na uczcie w [[Sesja 30 - Zakończenie Igrzysk]] okazał się rozrzutny i wylewny; chciał wykorzystać ostatnią noc świętowania do cna.
 
 ## Historia
-Jego najmłodszy syn, **[[Sulla]]**, jest dla niego źródłem wstydu z powodu swojej obsesji na punkcie królowej Vallus. Taran nienawidził [[Moxena|Pani Monet]], ponieważ jej ataki na handlarzy niewolników kosztowały go fortunę, i oferował nagrodę za jej głowę. <!-- UNSOURCED -->
+Jego najmłodszy syn, **[[Sulla]]**, jest dla niego źródłem wstydu z powodu swojej obsesji na punkcie królowej Vallus. Taran nienawidził [[Moxena|Pani Monet]], ponieważ jej ataki na handlarzy niewolników kosztowały go fortunę, i oferował nagrodę za jej głowę.
 
 W [[Sesja 19 - Pojedynek z Rozpruwaczem]] zaproponował [[Orion Xul|Orionowi]] pozbycie się [[Moxena|Moxeny]] i [[Kult Węża|Kultu Węża]] za 10 000 sztuk złota; pojawił się też jako gość na wydarzeniu [[Maximus|Maximusa]]. W [[Sesja 20 - Noc Długich Rogów]] ślady oleju poprowadziły pod jego siedzibę; w kanałach ukryte były za iluzją drewniane drzwi.
 

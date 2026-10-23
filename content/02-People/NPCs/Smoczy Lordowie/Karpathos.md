@@ -9,7 +9,7 @@ aliases:
 _Pierwszy i jedyny król Arezji, Wilczy Lord, zdrajca Smoczych Lordów_
 
 ## Historia
-Dosiadał czerwonego smoka [[Zarmulax]]. Ukradł [[Kaduceusz Damona]] i zabił nim [[Xander|Xandera]].<!-- UNSOURCED -->
+Dosiadał czerwonego smoka [[Zarmulax]]. Ukradł [[Kaduceusz Damona]] i zabił nim [[Xander|Xandera]].
 
 Dowódca smoczych jeźdźców, który zdradził [[Smoczy Lordowie|Smoczych Lordów]]. Zamordował [[Xander|Xandera]], pierwszego przywódcę Smoczych Lordów, a [[Narsus]], bóg piękna, który się z nim sprzymierzył, pomógł mu w ucieczce. Zawarł pakt z [[Lutheria|Lutherią]], założył [[Arezja|Arezję]] i został jej pierwszym i jedynym królem. Jego córka, królowa [[Calliope]], porwała później [[Damon|Damona]] i zamknęła go w złotej klatce. Tę historię [[Pythor]] i [[Kyrah]] opowiedzieli bohaterom w [[Sesja 61 - Yala, Arezja i Żółw]].
 

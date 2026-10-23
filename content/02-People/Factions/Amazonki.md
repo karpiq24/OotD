@@ -7,18 +7,18 @@ title: Amazonki
 _Wojowniczy naród kobiet zamieszkujący wyspę Themis. Po śmierci królowej [[Darien]] w obronie Mytros ich tron stoi pusty._
 
 ## Opis
-Amazonki to plemię składające się wyłącznie z kobiet, znane ze swojej waleczności i niezależności. Zamieszkują wyspę [[Themis]] w Zatoce Cerulańskiej. Słyną z doskonałego wyszkolenia bojowego. <!-- UNSOURCED -->
+Amazonki to plemię składające się wyłącznie z kobiet, znane ze swojej waleczności i niezależności. Zamieszkują wyspę [[Themis]] w Zatoce Cerulańskiej. Słyną z doskonałego wyszkolenia bojowego.
 
 Po wojnie Amazonki wróciły na [[Themis]], ale tron pozostał pusty na długie lata ([[Sesja 84 - Świt Nowej Ery]]).
 
 ## Cele
-Dawniej: utrzymanie niezależności i ochrona swojej wyspy. <!-- UNSOURCED --> Po obaleniu uzurpatorki [[Nastura|Nastury]] królowa [[Darien]] zniosła niewolnictwo mężczyzn na [[Themis]], zapowiedziała wygnanie dorosłych synów zamiast ich zabijania, zadeklarowała chęć odbudowy relacji z barbarzyńskimi plemionami z wyspy Indygo i obiecała wsparcie w wojnie z Tytanami ([[Sesja 36 - Królowa, Dziedzic i Generał]]). Cele te przestały być aktualne wraz ze śmiercią Darien i końcem wojny.
+Dawniej: odizolowanie się od reszty Thylei po klęsce w Pierwszej Wojnie. Po obaleniu uzurpatorki [[Nastura|Nastury]] królowa [[Darien]] zniosła niewolnictwo mężczyzn na [[Themis]], zapowiedziała wygnanie dorosłych synów zamiast ich zabijania, zadeklarowała chęć odbudowy relacji z barbarzyńskimi plemionami z wyspy Indygo i obiecała wsparcie w wojnie z Tytanami ([[Sesja 36 - Królowa, Dziedzic i Generał]]). Cele te przestały być aktualne wraz ze śmiercią Darien i końcem wojny.
 
 ## Siedziba
 Ich główną siedzibą jest wyspa [[Themis]]. Rządy sprawuje tam teraz regentka [[Hippolyta]], bo tron nie ma królowej ([[Sesja 84 - Świt Nowej Ery]]).
 
 ## Członkowie
-Większość Amazonek to wojowniczki. Mężczyźni na wyspie traktowani byli jako słudzy i mieli podrzędną rolę; [[Darien]] zniosła niewolnictwo mężczyzn ([[Sesja 36 - Królowa, Dziedzic i Generał]]). <!-- UNSOURCED -->
+Większość Amazonek to wojowniczki. Mężczyźni na wyspie traktowani byli jako słudzy i mieli podrzędną rolę; [[Darien]] zniosła niewolnictwo mężczyzn ([[Sesja 36 - Królowa, Dziedzic i Generał]]).
 
 **Znane Amazonki:**
 *   [[Darien]] (prawowita królowa, poległa w obronie Mytros)
@@ -27,12 +27,12 @@ Większość Amazonek to wojowniczki. Mężczyźni na wyspie traktowani byli jak
 *   [[Arybas]] (brat Aelli, powiązany z ich historią)
 
 ## Relacje
-Tradycyjnie izolacjonistyczne. <!-- UNSOURCED --> Przybycie delegacji do Mytros na Igrzyska, po raz pierwszy w historii, zwiastowało zmianę w relacjach z innymi frakcjami ([[Sesja 21 - Ukryte pragnienia Ismene]]); w Bitwie o Mytros Amazonki stanęły po stronie obrońców miasta.
+Tradycyjnie izolacjonistyczne. Przybycie delegacji do Mytros na Igrzyska, po raz pierwszy w historii, zwiastowało zmianę w relacjach z innymi frakcjami ([[Sesja 21 - Ukryte pragnienia Ismene]]); w Bitwie o Mytros Amazonki stanęły po stronie obrońców miasta.
 
 ## Historia
-Pochodzą z wyspy Themis. Według legend, [[Aella]] i jej brat [[Arybas]] sprzeciwili się okrutnym tradycjom, co doprowadziło do ich śmierci i powstania Konstelacji Bliźniąt. <!-- UNSOURCED -->
+Pochodzą z wyspy Themis. Według legend, [[Aella]] i jej brat [[Arybas]] sprzeciwili się okrutnym tradycjom, co doprowadziło do ich śmierci i powstania Konstelacji Bliźniąt.
 
-Kilkanaście lat przed kampanią [[Moxena]] wraz z siostrami dokonała na Themis przewrotu i przejęła władzę; królowa została zastąpiona przez fałszywą królową, meduzę [[Nastura|Nasturę]] ([[Sesja 22 - Taniec z Meduzą]], [[Sesja 32 - Kieł]], [[Sesja 36 - Królowa, Dziedzic i Generał]]). Prawowita dziedziczka, [[Darien]], została uwięziona w [[Więzienie Kieł|Kle]]. Nastura podszywała się pod zmarłą królową [[Thessilea|Thessileę]]. <!-- UNSOURCED -->
+Kilkanaście lat przed kampanią [[Moxena]] wraz z siostrami dokonała na Themis przewrotu i przejęła władzę; królowa została zastąpiona przez fałszywą królową, meduzę [[Nastura|Nasturę]] ([[Sesja 22 - Taniec z Meduzą]], [[Sesja 32 - Kieł]], [[Sesja 36 - Królowa, Dziedzic i Generał]]). Prawowita dziedziczka, [[Darien]], została uwięziona w [[Więzienie Kieł|Kle]]. Nastura podszywała się pod zmarłą królową [[Thessilea|Thessileę]].
 
 W [[Sesja 21 - Ukryte pragnienia Ismene]] do [[Mytros]] przybyła delegacja Amazonek, po raz pierwszy w historii Igrzysk.
 

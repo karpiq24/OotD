@@ -7,7 +7,7 @@ title: Świątynia Żywiołów
 _Ośrodek mnichów kontrolujących żywioły, zarządzany przez Taureusa._
 
 ## Opis
-Pełna dźwięków łamanych skał, szumu wody i ognia. Mnisi stąd zajmują się utrzymaniem infrastruktury miasta. <!-- UNSOURCED -->
+Pełna dźwięków łamanych skał, szumu wody i ognia. Mnisi stąd zajmują się utrzymaniem infrastruktury miasta.
 
 Świątynia Żywiołów w [[Arezja|Arezji]] znajduje się na końcu tętniącego życiem targu, z otwartym placem treningowym. Jest świątynią Wielkiego Mistrza Żywiołów [[Taureus|Taureusa]].
 

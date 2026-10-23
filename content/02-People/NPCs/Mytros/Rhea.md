@@ -12,7 +12,7 @@ Czarodziejka władająca magią, która wykonywała zadania dla [[Moxena|Moxeny]
 ## Historia
 W [[Sesja 21 - Ukryte pragnienia Ismene]] [[Astra]] wyjawiła, że Rhea, władająca magią, pracuje dla [[Moxena|Moxeny]].
 
-Pomagała w procedurze porywania i transportu skamieniałych ofiar. <!-- UNSOURCED -->
+Pomagała w procedurze porywania i transportu skamieniałych ofiar.
 
 W [[Sesja 22 - Taniec z Meduzą]] odpowiedziała Counterspellem na Vortex Warp [[Versir|Versira]].
 

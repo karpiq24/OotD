@@ -10,7 +10,7 @@ image_prompt: young adult female, slender build, beautiful, fair skin with a nat
 _Kapłanka Mytros, Żona Felicjana_
 
 ## Historia
-Ukochana żona [[Felicjan Janus Twardowski|Felicjana]]. Jako kapłanka Mytros służy w mieście. <!-- UNSOURCED -->
+Ukochana żona [[Felicjan Janus Twardowski|Felicjana]]. Jako kapłanka Mytros służy w mieście.
 
 W [[Sesja 17 - Targ Minotaurów]] spotkała się z drużyną w Świątyni Pięciu. W [[Sesja 20 - Noc Długich Rogów]], podczas zamieszek w mieście, u Melanii wszystko było dobrze; Felicjan poprosił ją, by nie wychodziła z domu.
 

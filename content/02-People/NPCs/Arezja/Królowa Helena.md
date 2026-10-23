@@ -13,8 +13,6 @@ _Królowa Arezji, władczyni miasta rządzonego przez radę Wielkich Mistrzów �
 ## Opis
 Władczyni [[Arezja|Arezji]], o specyficznych upodobaniach: otacza się wyłącznie męską służbą i gwardią, której rekrutacja — jak z przekąsem zasugerowała [[Kyrah]] — nie opiera się wyłącznie na umiejętnościach bojowych. Gardzi kłamstwem i pochlebstwami, ceniąc jedynie siłę i konkretne korzyści dla swojego miasta. Jest oschła i niewzruszona. Wspiera ją bóg [[Narsus]]. Po wojnie z Tytanami nadal rządzi Arezją, mierząc się z niezadowoleniem poddanych i wojną handlową o żelazo.
 
-Zakochana w Narsusie (lub obsesyjnie go czcząca).<!-- UNSOURCED -->
-
 ## Historia
 Wspomniana w [[Sesja 56 - Dedal i Ikar]] jako królowa Helen z [[Arezja|Arezji]], wspierana przez boga [[Narsus|Narsusa]].
 

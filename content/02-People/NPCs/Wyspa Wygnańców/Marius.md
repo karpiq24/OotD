@@ -7,13 +7,11 @@ title: Marius
 _Poplecznik [[Tyrone|Tyrona]] na Wyspie Wygnańców. Czwarta, ostatnia ofiara seryjnego mordercy; nie żyje._
 
 ## Opis
-Fizyczny opis postaci. <!-- UNSOURCED -->
 
 ## Osobowość
-Cechy charakteru, motywacje, ideały. <!-- UNSOURCED -->
 
 ## Historia
-Jeden z więźniów na [[Wyspa Wygnańców|Wyspie Wygnańców]]. Pokrzyżował plany [[Keelan|Keelana]] dotyczące "oczyszczenia" wyspy. <!-- UNSOURCED -->
+Jeden z więźniów na [[Wyspa Wygnańców|Wyspie Wygnańców]]. Pokrzyżował plany [[Keelan|Keelana]] dotyczące "oczyszczenia" wyspy.
 
 W [[Sesja 45 - Tajemnica Wyspy Wygnańców]] jego ciało znaleziono rano w Świątyni Pięciu Bogów; był ostatnią ofiarą morderstw. [[Felicjan Janus Twardowski|Felicjan]] przesłuchał go dzięki masce pozwalającej rozmawiać ze zmarłymi: Marius ujawnił, że "podprowadził" beczułkę wina [[Stavros|Stavrosa]] i miał udać się z kimś na schadzkę do świątyni.
 

@@ -10,7 +10,7 @@ aliases:
 _Pierwszy przywódca Smoczych Lordów, zamordowany przez Karpathosa. Jego szczątki spoczywają w Nekropolii w Telamok._
 
 ## Osobowość
-Według Estora: "Wdzięczący się głupiec".<!-- UNSOURCED -->
+Według Estora: "Wdzięczący się głupiec".
 
 ## Historia
 Pierwszy przywódca [[Smoczy Lordowie|Smoczych Lordów]]. Jego syn [[Gregor Huorath]] był ojcem [[Isadore Huorath|Isadore]] ([[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]]).

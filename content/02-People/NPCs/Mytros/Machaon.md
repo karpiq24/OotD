@@ -7,7 +7,7 @@ title: Machaon
 _Filozof z Akademii, autor "Paradoxia Machaona"._
 
 ## Opis
-Machaon to półork i mag, jeden z czołowych filozofów w **[[Akademia Mytros|Akademii]]**. Jest znany ze swoich rozważań na temat tożsamości i zmiany (paradoks statku *Valorous*), ceni kreatywne, nieszablonowe myślenie. <!-- UNSOURCED -->
+Machaon to półork i mag, jeden z czołowych filozofów w **[[Akademia Mytros|Akademii]]**. Jest znany ze swoich rozważań na temat tożsamości i zmiany (paradoks statku *Valorous*), ceni kreatywne, nieszablonowe myślenie.
 
 Wykłada w Akademii o automatonach.
 

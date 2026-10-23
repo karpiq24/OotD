@@ -13,8 +13,6 @@ _Trójgłowy przerażający potwór, piekielny pies; martwy._
 ## Opis
 Cerber to potężny, trójgłowy piekielny pies o potężnych szczękach, obdarzony telepatycznymi zdolnościami. Tworzy magiczną ciemność i ma legendarne akcje. Zginął — z jego serca i skóry można wykuć potężne przedmioty (Fearsome Boon i Cloak of Magic Immunity).
 
-Wydziela wokół zapach siarki. Posiada twardą skórę, a jego ataki są przerażające.<!-- UNSOURCED -->
-
 ## Osobowość
 Bestia potrafi mówić telepatycznie, objawiając sadystyczną i złowrogą radość z walki ze swoimi oprawcami bądź nową zdobyczą: do umysłów bohaterów przemówiła z „złowrogą uprzejmością", dziękując za uwolnienie i zapraszając do zabawy.
 

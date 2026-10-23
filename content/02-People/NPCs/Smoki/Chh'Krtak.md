@@ -10,7 +10,7 @@ title: Chh'Krtak
 
 Chh'Krtak to młody mosiężny smok, który pierwotnie znajdował się na [[Wyspa Ognia|Wyspie Ognia]] w towarzystwie króla jaszczuroludzi, [[Jankor|Jankora]]. Szybko rośnie w siłę.
 
-Jest gadatliwy i ciekawy świata, co jest typowe dla jego gatunku.<!-- UNSOURCED -->
+Jest ciekawy świata, co jest typowe dla mosiężnych smoków.
 
 ## Historia
 

@@ -30,7 +30,7 @@ W czasie wojny statkiem-bazą drużyny był [[Ultros]]. Po bitwie poharatany Ult
 *   **Dawni wrogowie**: [[Sydon]], [[Lutheria]] (obojga już nie ma), [[Kult Węża]].
 
 ## Historia
-Grupa zawiązała się w [[Mytros]] przed wyrocznią, która wskazała ich jako herosów przeznaczenia. <!-- UNSOURCED -->
+Grupa zawiązała się w gospodzie [[Kwaśny Rocznik]], zwołana przez [[Kyrah]] w imieniu Wyroczni ([[Sesja 1 - Wielki Dzik]]).
 
 W [[Sesja 43 - Kopalnia Żelaza]] drużyna Bohaterów Przepowiedni planowała uratować [[Brenna|Brennę]] i rozprawić się z [[Ventis]] lub zawalić górę na jej leże. W [[Sesja 45 - Tajemnica Wyspy Wygnańców]] imiennie wymieniono pięcioro Bohaterów: Arevona, Felicjana, Orestesa, Oriona i Versira. W [[Sesja 46 - Morderca z Wyspy Wygnańców]] awansowali na 8 poziom doświadczenia. W [[Sesja 47 - Wyspa Mojr]] ich głównym celem było zdjęcie klątwy ciążącej na smoczych jajach. W [[Sesja 53 - Koniec Yonder]] po pokonaniu Gaiusa na [[Wyspa Yonder|Yonder]] awansowali na dziewiąty poziom.
 

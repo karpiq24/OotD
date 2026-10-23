@@ -7,15 +7,15 @@ title: Kwaśny Rocznik
 _Rustykalna gospoda położona na rozstajach dróg, znana jako miejsce spotkania Bohaterów Przepowiedni._
 
 ## Opis
-**Kwaśny Rocznik** (ang. *The Sour Vintage*) to tradycyjna wiejska gospoda zlokalizowana na skrzyżowaniu szlaków, około 20 mil na wschód od miasta [[Estoria]]. Zewnętrzne ściany budynku wykonane są z drewna pomalowanego na czarno, a nad wejściem wisi charakterystyczna tablica przedstawiająca kobietę niosącą kosz pełen winogron. <!-- UNSOURCED -->
+**Kwaśny Rocznik** (ang. *The Sour Vintage*) to tradycyjna wiejska gospoda zlokalizowana na skrzyżowaniu szlaków na wschód od [[Estoria|Estorii]]. Zewnętrzne ściany budynku wykonane są z drewna pomalowanego na czarno, a nad wejściem wisi charakterystyczna tablica przedstawiająca kobietę niosącą kosz pełen winogron.
 
-Wewnątrz panuje przytulna atmosfera przesycona zapachem tytoniu. Jest to ulubione miejsce okolicznych rolników i podróżnych zmierzających w kierunku serca Thylei. <!-- UNSOURCED -->
+Wewnątrz panuje przytulna atmosfera przesycona zapachem tytoniu. Jest to ulubione miejsce okolicznych rolników i podróżnych zmierzających w kierunku serca Thylei.
 
 ## Ciekawe Miejsca
-- **Główna Sala**: Pomieszczenie z niskim sufitem, w którym [[Kyrah]] zebrała pierwszych bohaterów, by zlecić im zadanie. <!-- UNSOURCED -->
+- **Główna Sala**: Pomieszczenie, w którym [[Kyrah]] zebrała pierwszych bohaterów, by zlecić im zadanie.
 
 ## Mieszkańcy
-- [[Aetala]]: Gospodyni karczmy, dbająca o porządek i zapasy wybornego wina. <!-- UNSOURCED -->
+- [[Aetala]]: Gospodyni karczmy, emerytowana łowczyni.
 
 ## Historia
 To tutaj rozpoczęła się historia Bohaterów Przepowiedni. W [[Sesja 1 - Wielki Dzik]] [[Kyrah]] zebrała bohaterów w gospodzie i zleciła im upolowanie dzika, który siał postrach wśród okolicznych ziem.

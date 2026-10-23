@@ -15,27 +15,27 @@ Estor Arkelander był jednym ze Smoczych Lordów, w [[Sesja 36 - Królowa, Dzied
 ## Osobowość
 Okrutny — jego okrucieństwo, wspominane przez [[Kyrah]], przez wieki nie znalazło równych nawet u [[Sydon|Sydona]] czy [[Lutheria|Lutherii]]; miał mroczną naturę i dawne zbrodnie na koncie. Jako duch pragnął ostatecznego końca, którego nie mógł zaznać.
 
-Ambitny, pragnący nieśmiertelności i chwały. Nienawidził Tytanów, ale zawarł pakt z Lutherią.<!-- UNSOURCED -->
+Ambitny, pragnący nieśmiertelności i chwały. Nienawidził Tytanów, ale zawarł pakt z Lutherią.
 
 ## Historia
-Pierwszy Smoczy Lord, dzierżył potężne bronie przeciwko Tytanom.<!-- UNSOURCED -->
+Generał armii [[Smoczy Lordowie|Smoczych Lordów]], kapitan [[Ultros]]; jego bronią był [[Xiphos of Slaughter]].
 
 Brat [[Telamok Arkelander|Telamoka]] ([[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]]).
 
-Gardził [[Xander]]em i [[Adonis Neurdagon|Adonisem]].<!-- UNSOURCED -->
+Gardził [[Xander]]em i [[Adonis Neurdagon|Adonisem]].
 
-Odpowiedzialny za zagładę Gyganów na [[Wyspa Yonder]] i [[Wyspa Mojr]].<!-- UNSOURCED -->
+Odpowiedzialny za zagładę Gyganów na [[Wyspa Yonder]] i [[Wyspa Mojr]].
 
 Walczył razem z [[Sydon|Sydonem]] i [[Kyrah]], paląc oddechem gyganów i centaury ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]). Jego smoczycą była Kyrah, czyli Arkyrania, która opuściła go po jego krwawych rzeziach Gyganów ([[Sesja 75 - Koniec Przysięgi]]). Wysłał [[Hezzebal|Hezzebala]] i [[Gregor Huorath|Gregora]] do [[Lustrzane Więzienie|Lustrzanego Więzienia]], by ukryli [[Skarby Smoczych Lordów]] ([[Sesja 67 - Zguba Estora]]).
 
 ### Pakt i Upadek
-Po utracie smoków, Estor popadł w samotność i desperację. Zbudował flotę i na statku [[Ultros]] pożeglował w głębiny zaświatów.<!-- UNSOURCED -->
+Po porzuceniu przez smoczycę Estor dalej prowadził rzeź jako kapitan [[Ultros]]a.
 
-Tam uległ wdziękom [[Lutheria|Lutherii]]. Spędził z nią noc, podczas której zawarli pakt. [[Lutheria]] obiecała mu, że "nigdy nie zazna śmierci od ostrza innego". Estor zrozumiał to jako nieśmiertelność.<!-- UNSOURCED -->
+Tam uległ wdziękom [[Lutheria|Lutherii]]. Spędził z nią noc, podczas której zawarli pakt. [[Lutheria]] obiecała mu, że "nigdy nie zazna śmierci od ostrza innego". Estor zrozumiał to jako nieśmiertelność.
 
 W rzeczywistości była to klątwa: Lutheria go oszukała. Estor zabił całą załogę [[Ultros|Ultrosa]], która od tej pory służyła jako nieumarła. Aby stworzyć maszt Ultrosa, zamordował driadę [[Delphia|Delphię]] i jej siostrę [[Demetria|Demetrię]], używając drzewa, z którym była związana (zob. [[Sesja 24 - Ultros]]).
 
-Po przebudzeniu zabił nawigatora [[Metron|Metrona]].<!-- UNSOURCED -->
+Po przebudzeniu zabił nawigatora [[Metron|Metrona]].
 
 ### Legenda i dawna sława
 W [[Sesja 7 - Uratować Księżniczkę]] bohaterowie obejrzeli sztukę o Estorze Arkelanderze, który sprzeciwił się woli bogów i ostatecznie zginął. W [[Sesja 8 - Ścieżka Umarłych]] zobaczyli jego grób w [[Nekropolia w Telamok|Nekropolii w Telamok]]. W [[Sesja 14 - Burza nad Mytros]] wspomniano o legendarnym statku Ultros jako jego własności.

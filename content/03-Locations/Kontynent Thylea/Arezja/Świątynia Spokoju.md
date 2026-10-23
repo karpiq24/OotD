@@ -7,7 +7,7 @@ title: Świątynia Spokoju
 _Izolowana świątynia na szczycie góry, dostępna po pokonaniu tysięcy schodów._
 
 ## Opis
-Miejsce medytacji i ciszy, przerywanej dzwonkami wiatrowymi. Uczy cierpliwości. <!-- UNSOURCED -->
+Miejsce medytacji i ciszy. Uczy cierpliwości.
 
 Świątynia Spokoju leży wysoko na szczycie góry w [[Arezja|Arezji]]; prowadzą do niej tysiące schodów.
 

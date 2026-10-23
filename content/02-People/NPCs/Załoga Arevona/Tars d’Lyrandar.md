@@ -11,17 +11,17 @@ aliases:
 _Kapitan statku "Tranquility", półelf z Eberronu. Po kampanii został w Thylei._
 
 ## Opis
-Półelf o niezwykłej odporności, posiadający świetliste znaki na skórze. <!-- UNSOURCED -->
+Półelf o niezwykłej odporności, posiadający świetliste znaki na skórze.
 
 Jako jedyny nosił Znamię Burzy, które normalnie pozwala prowadzić statek [[Tranquility]] bez żagli i wioseł. Po kampanii został na lądzie w [[Kontynent Thylea|Thylei]], gdzie poznał ludzi i uznał to miejsce za swoje.
 
 ## Osobowość
-Hardy i zdeterminowany, by przeżyć. Lojalny wobec [[Arevon Elorrenthi|Arevona Elorrenthi]]. <!-- UNSOURCED -->
+Hardy i zdeterminowany, by przeżyć. Lojalny wobec [[Arevon Elorrenthi|Arevona Elorrenthi]].
 
 W [[Sesja 54 - Wyznanie Chondrusa]] pragnął powrotu do rodzinnego [[Eberron|Eberronu]]; ostatecznie nie chciał ściągać kłopotów na nowy dom.
 
 ## Historia
-Jego statek "Tranquility" został roztrzaskany przez szał [[Sydon|Sydona]]. <!-- UNSOURCED -->
+Jego statek "Tranquility" został roztrzaskany przez szał [[Sydon|Sydona]].
 
 W [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder]] bohaterowie dowiedzieli się, że kapitan Tars, dawny znajomy [[Arevon Elorrenthi|Arevona]], został schwytany i prawdopodobnie jest więziony w czeluściach świątyni na [[Wyspa Yonder|Yonder]]; jego uwolnienie było jednym z celów desantu. W [[Sesja 52 - Infiltracja Yonder]] [[Orestes]] w przebraniu [[Ajax|Ajaxa]] i niewidzialny [[Arevon Elorrenthi|Arevon]] uwolnili go z celi w więziennej części świątyni; osłabiony, uciekł zamieniony w mysz. W [[Sesja 53 - Koniec Yonder]] opuścił wyspę z drużyną.
 

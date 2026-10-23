@@ -4,16 +4,16 @@ title: Świątynia Cieni
 
 ![Mistrz Cieni](../../../assets/sessions/063/063_shadow.webp)
 
-_Mroczna i tajemnicza świątynia, siedziba szpiegów i zabójców._ <!-- UNSOURCED -->
+_Mroczna i tajemnicza świątynia, siedziba szpiegów i zabójców._
 
 ## Opis
-Czarny budynek na wzgórzu, który zdaje się pochłaniać światło księżyca. Uczy Drogi Cienia. <!-- UNSOURCED -->
+Czarny budynek na wzgórzu, który zdaje się pochłaniać światło księżyca. Uczy Drogi Cienia.
 
 Świątynia Cieni w [[Arezja|Arezji]] jest owiana złą sławą, a jej bramy były zamknięte na głucho. Należy do [[Mistrz Cieni|Mistrza Cieni]], jednego z pięciu Wielkich Mistrzów Arezji.
 
 ## Mieszkańcy
 - **[[Mistrz Cieni]]**: Tajemniczy przywódca świątyni, który systematycznie zbiera relikwie po dawnych bogach.
-- **Szpiedzy**: Działają w całej Arezji i Mytros. <!-- UNSOURCED -->
+- **Szpiedzy**: Działają w całej Arezji i Mytros.
 - **Postacie w czerni**: Wykonują w świątyni rytuały, wznosząc pieśni w nieznanym języku.
 
 ## Historia

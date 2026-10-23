@@ -12,7 +12,7 @@ _Tkaczki ludzkiego losu. Po wojnie ich krosna stały puste, a [[Versir]] szukał
 Trzy starożytne istoty, które plotą nici przeznaczenia: [[Morta]], [[Decima]] i [[Nona]], zwane Paniami Losu ([[Sesja 47 - Wyspa Mojr]], [[Sesja 48 - Pakty z Mojrami i Zew Chimery]]). Do Thylei sprowadziła je sama [[Thylea]], Matka Bogini, by strzegły nici losu; później uznały, że należy im się za to zapłata. Targują się i potrafią odebrać to, czego normalnie nie można oddać (nadzieje, miłość, dumę) lub zlecić zadanie podważające moralność. Oferują pakty: potęgę w zamian za cenne rzeczy, takie jak szczęście, ostatni oddech, zdrowie, szybkość, życie czy fragment duszy.
 
 ## Cele
-Utrzymanie równowagi świata poprzez przędzenie nici losu, często w sposób niezrozumiały dla śmiertelników. <!-- UNSOURCED --> W kampanii sprzyjały Tytanom i sprzedawały swoje usługi za cenę ([[Sesja 47 - Wyspa Mojr]]).
+Przędzenie nici losu. W kampanii sprzyjały Tytanom i sprzedawały swoje usługi za cenę ([[Sesja 47 - Wyspa Mojr]]).
 
 ## Siedziba
 [[Wyspa Mojr]] (Głębiny Thylei). Mieszkają w jaskini z kotłem, krosnem i podejrzanie żółtym jeziorem; siedziba roi się od bestii, które niegdyś były śmiertelnikami łamiącymi słowo ([[Sesja 47 - Wyspa Mojr]]).
@@ -22,11 +22,11 @@ Trzy siostry: [[Morta]] (zwana też babuszką), [[Decima]] i [[Nona]].
 
 ## Relacje
 - **Dawny kontrahent**: [[Sydon]] zapłacił Mojrom za rzucenie klątwy na smocze jaja, ale umowa nie obejmowała jej utrzymania ([[Sesja 47 - Wyspa Mojr]]).
-- **Wróg**: [[Jasena Ventrak]] (ofiara). <!-- UNSOURCED -->
+- **Dawna rozmówczyni**: [[Jasena Ventrak]] (zgubiły ją własne targi z Mojrami).
 - **[[Furie]]** potwierdziły, że Mojry miały bezpośredni udział w pierwszej wielkiej krzywdzie w Thylei ([[Sesja 75 - Koniec Przysięgi]]).
 
 ## Historia
-Dawniej [[Jasena Ventrak]] spotkała się z nimi, by znaleźć rozwiązanie dla impasu w wojnie, ale zgubiły ją jej własne targi z Mojrami. <!-- UNSOURCED -->
+Dawniej [[Jasena Ventrak]] spotkała się z nimi, by znaleźć rozwiązanie dla impasu w wojnie, ale zgubiły ją jej własne targi z Mojrami.
 
 W [[Sesja 13 - Wezwani przez Króla]] [[Kyrah]] podejrzewała, że Mojry mogą być odpowiedzialne za klątwę [[Orestes|Orestesa]]. W [[Sesja 17 - Targ Minotaurów]] Orestes miał sen, w którym Mojry wzywały go na swoją wyspę. W [[Sesja 42 - Plemię Węgorza]] [[Versi]] w wizji opowiedziała o smoczych jajach skażonych mocą Mojr.
 

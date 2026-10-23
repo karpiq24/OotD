@@ -4,14 +4,12 @@ title: Arezja
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Królestwo Wojowników_ <!-- UNSOURCED -->
-
 Arezja to surowe i pragmatyczne państwo-miasto, o militarystycznym ustroju, rządzone przez [[Królowa Helena|Królową Helenę]] i radę Wielkich Mistrzów świątyń-szkół walki. Leży przy ujściu rzeki Thrake. Jej mury mają trzydzieści metrów wysokości i są zbudowane z idealnie dopasowanego białego kamienia, a nad bramą góruje posąg [[Narsus|Narsusa]]. Po wojnie z Tytanami Arezja pozostała sojusznikiem bohaterów, ale była nękana przez plemiona centaurów i uwikłana w narastającą wojnę handlową o żelazo.
 
-Królestwo Arezji od dawna rywalizuje z królestwem [[Mytros]]. Dwa miasta toczyły dziesiątki wojen, znanych jako kampanie areańskie. <!-- UNSOURCED -->
-Wojowniczy mnisi ze wschodniego wybrzeża są jednymi z najbardziej przerażających wojowników w [[Kontynent Thylea|Thylei]]. Ich dzieci rozpoczynają trening z włóczniami od dnia, w którym stawiają pierwsze kroki, a każdy dorosły ma obowiązek służyć w milicji. Arezyjczycy spędzają życie w pogoni za 'stopniami' w szkołach filozofii wojennej, które były udoskonalane przez wiele stuleci obrony granic. <!-- UNSOURCED -->
+Królestwo Arezji od dawna rywalizuje z królestwem [[Mytros]]. Dwa miasta toczyły dziesiątki wojen, znanych jako kampanie areańskie.
+Wojowniczy mnisi ze wschodniego wybrzeża są jednymi z najbardziej przerażających wojowników w [[Kontynent Thylea|Thylei]]. Ich dzieci rozpoczynają trening z włóczniami od dnia, w którym stawiają pierwsze kroki, a każdy dorosły ma obowiązek służyć w milicji. Arezyjczycy spędzają życie w pogoni za 'stopniami' w szkołach filozofii wojennej, które były udoskonalane przez wiele stuleci obrony granic.
 
-Arezyjscy wojownicy kultywują aurę surowej ascezy z poczucia dumy ze swojej historii, ale często maskuje ona długie godziny spędzane na rytuałach piękna, recytacji poezji i dekadenckich ucztach. Najpotężniejsze rody w Arezji to te, które zadają sobie największy trud, by wydawać się ascetycznymi — jedząc nieprzyprawiony kleik i nosząc niewiele lub nic w miejscach publicznych, podczas gdy sowicie obdarowują swoich służących wykwintnym jedzeniem i luksusowymi szatami w paradoksalnych i ostentacyjnych pokazach bogactwa. Wojownicy najwyższej kasty dbają o to, by prowadzić styl życia najbardziej przypominający ten ich ciężko doświadczonych przodków. <!-- UNSOURCED -->
+Arezyjscy wojownicy kultywują aurę surowej ascezy z poczucia dumy ze swojej historii, ale często maskuje ona długie godziny spędzane na rytuałach piękna, recytacji poezji i dekadenckich ucztach. Najpotężniejsze rody w Arezji to te, które zadają sobie największy trud, by wydawać się ascetycznymi — jedząc nieprzyprawiony kleik i nosząc niewiele lub nic w miejscach publicznych, podczas gdy sowicie obdarowują swoich służących wykwintnym jedzeniem i luksusowymi szatami w paradoksalnych i ostentacyjnych pokazach bogactwa. Wojownicy najwyższej kasty dbają o to, by prowadzić styl życia najbardziej przypominający ten ich ciężko doświadczonych przodków.
 
 Arezyjczycy prędzej daliby się wybić, niż poprosili o pomoc.
 
@@ -25,7 +23,7 @@ Arezyjczycy prędzej daliby się wybić, niż poprosili o pomoc.
 ## Historia
 Pierwszym królem Arezji był [[Karpathos]] Wilczy Lord. Według opowieści [[Pythor|Pythora]] i [[Kyrah]] ich brat [[Narsus]], bóg piękna, sprzymierzył się z [[Karpathos|Karpathosem]], dowódcą smoczych jeźdźców, i pomógł mu w ucieczce po zabójstwie [[Xander|Xandera]].
 
-Arezja została założona na południowym wschodzie, a później rządziły nią królowe, m.in. [[Calliope]]. <!-- UNSOURCED -->
+Arezja została założona na południowym wschodzie, a później rządziły nią królowe, m.in. [[Calliope]].
 
 W [[Sesja 18 - Cienie Mytros]] statek z Arezji, pełen młodych mnichów wojowników, został wciągnięty przez wir Charybda w drodze na Wyspę Skorpionów.
 

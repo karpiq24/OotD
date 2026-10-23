@@ -7,7 +7,7 @@ title: Brenna
 _Córka wodza plemienia Wieloryba, Delga._
 
 ## Opis
-Młoda krasnoludka.<!-- UNSOURCED -->
+Młoda krasnoludka.
 
 Córka [[Delg|Delga]], wodza [[Plemię Wieloryba|plemienia Wieloryba]]. Mimo niewoli zachowała odwagę.
 

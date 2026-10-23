@@ -8,12 +8,12 @@ image_prompt: young adult female, slender build, long wavy hair in a half-up sty
 _Członkini Kultu Węża, sojuszniczka i towarzyszka życia Versira._
 
 ## Opis
-Astra to członkini **[[Kult Węża|Kultu Węża]]**, która początkowo była nieufna wobec **[[Versir|Versira]]**, gdy ten dołączył do organizacji. Ich relacja zmieniła się w sojusz i przyjaźń po wydarzeniach na cmentarzu, gdzie Astra odwiedzała grób swojego brata. <!-- UNSOURCED -->
+Astra to członkini **[[Kult Węża|Kultu Węża]]**, która początkowo była nieufna wobec **[[Versir|Versira]]**, gdy ten dołączył do organizacji. Ich relacja zmieniła się w sojusz i przyjaźń po wydarzeniach na cmentarzu, gdzie Astra odwiedzała grób swojego brata.
 
 Żyje szczęśliwie z Versirem od kilku lat, ale to ona się starzeje, a półtytan nie. Sprawa tego rozziewu pozostała otwarta ([[Sesja 84 - Świt Nowej Ery]]).
 
 ## Historia
-Jej brat został złożony w ofierze Tytanom (**[[Sydon]]** i **[[Lutheria]]**), co napełniło ją głęboką nienawiścią do nich. Gdy Versir wyjawił jej swoją prawdziwą naturę i cel zemsty nad grobem jej brata, przysięgła mu wierność w walce z Tytanami. <!-- UNSOURCED -->
+Jej brat został złożony w ofierze Tytanom (**[[Sydon]]** i **[[Lutheria]]**), co napełniło ją głęboką nienawiścią do nich. Gdy Versir wyjawił jej swoją prawdziwą naturę i cel zemsty nad grobem jej brata, przysięgła mu wierność w walce z Tytanami.
 
 W [[Sesja 19 - Pojedynek z Rozpruwaczem]] [[Versir]] rozglądał się za nią.
 

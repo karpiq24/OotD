@@ -8,10 +8,10 @@ aliases:
 
 _Duch driady związany z masztem Ultrosa. Po zakończeniu kampanii odeszła ze statku._
 
-Królowa Driad ze Starego Lasu, władczyni leśnych ludów Fey w czasach przybycia [[Smoczy Lordowie|Smoczych Lordów]].<!-- UNSOURCED -->
+Królowa Driad ze Starego Lasu, władczyni leśnych ludów Fey w czasach przybycia [[Smoczy Lordowie|Smoczych Lordów]].
 
 ## Historia
-Podczas wojny z Tytanami i [[Gyganie|Gyganami]] zginęła z rąk [[Estor Arkelander|Estora Arkelandera]], który ściął jej święte drzewo, by uczynić z niego maszt swojego okrętu, [[Ultros|Ultrosa]].<!-- UNSOURCED -->
+Podczas wojny z Tytanami i [[Gyganie|Gyganami]] zginęła z rąk [[Estor Arkelander|Estora Arkelandera]], który ściął jej święte drzewo, by uczynić z niego maszt swojego okrętu, [[Ultros|Ultrosa]].
 
 W [[Sesja 24 - Ultros]] spotkała się z drużyną na pokładzie [[Ultros|Ultrosa]] jako duch driady związany ze statkiem. Wyjawiła, że [[Estor Arkelander|Estor]] zabił ją i jej siostrę [[Demetria|Demetrię]], a drzewa, z którym była związana, użył do masztu Ultrosa. Po śmierci Estora dała [[Orestes|Orestesowi]], nowemu kapitanowi, wybór między ścieżką żywych a ścieżką umarłych. Orestes wybrał ścieżkę żywych, w wyniku czego cała nieumarła załoga opuściła statek.
 
