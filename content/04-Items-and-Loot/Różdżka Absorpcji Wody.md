@@ -1,5 +1,7 @@
 ---
 title: Różdżka Absorpcji Wody
+aliases:
+  - Wand of Aqueous Absorption
 ---
 
 ![Placeholder](../assets/placeholder.webp)
@@ -7,5 +9,7 @@ title: Różdżka Absorpcji Wody
 _Magiczna różdżka wchłaniająca wodę._
 
 ## Opis
-Różdżka zakupiona od [[Shazum|Shazuma]] w [[Sesja 61 - Yala, Arezja i Żółw]]. Pozwala na wchłanianie i uwalnianie dużych ilości wody.
-W [[Sesja 59 - Koniec Imprezy]] otrzymał [[Hand of Kentiname|Rękawicę]], w której uwięził pierwszego ducha Zaginionego Tytana - [[Chalcia|Chalcię]].
+Różdżka (Wand of Aqueous Absorption) pozwala wchłaniać wodę, a następnie ją wypuszczać.
+
+## Historia
+W [[Sesja 61 - Yala, Arezja i Żółw]] drużyna zakupiła różdżkę od [[Shazum|Shazuma]], kupca z [[Wędrowny Bazar Shazuma|Wędrownego Bazaru]] na grzbiecie morskiego żółwia.

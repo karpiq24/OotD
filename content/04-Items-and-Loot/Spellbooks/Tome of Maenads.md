@@ -1,5 +1,7 @@
 ---
 title: Tome of Maenads
+aliases:
+  - Księga z ludzkiej skóry
 ---
 
 ![Placeholder](../../assets/placeholder.webp)
@@ -7,10 +9,12 @@ title: Tome of Maenads
 _Księga Zaklęć, Rzadki_
 
 ## Opis
-Mroczny tom oprawiony w ludzką skórę, wydzielający niepokojącą aurę. Zawiera czary nekromancji, iluzji i kwasu/trucizny.
+Księga oprawiona w ludzką skórę, zawierająca mroczne rytuały i czary.
+
+Mroczny tom wydzielający niepokojącą aurę. Zawiera czary nekromancji, iluzji i kwasu/trucizny. <!-- UNSOURCED -->
 
 ## Właściwości
-Zawiera mroczne rytuały i czary, w tym szczegółowy opis rytuału przemiany, który zmienia ludzką kobietę w [[Menaidy|Menaidę]].
+Zawiera szczegółowy opis rytuału przemiany, który zmienia ludzką kobietę w [[Menaidy|Menaidę]]. <!-- UNSOURCED -->
 
 ### Zaklęcia
 **1. Krąg**
@@ -19,7 +23,7 @@ Zawiera mroczne rytuały i czary, w tym szczegółowy opis rytuału przemiany, k
 *   Alarm
 *   Burning Hands
 *   Charm Person
-*   Chromatic Orb
+*   Chromatic Orb <!-- UNSOURCED -->
 
 **2. Krąg**
 *   Blindness / Deafness
@@ -27,18 +31,19 @@ Zawiera mroczne rytuały i czary, w tym szczegółowy opis rytuału przemiany, k
 *   Ray of Enfeeblement
 *   Alter Self
 *   Detect Thoughts
-*   Cloud of Daggers
+*   Cloud of Daggers <!-- UNSOURCED -->
 
 **3. Krąg**
 *   Animate Dead
 *   Bestow Curse
 *   Blink
-*   Clairvoyance
+*   Clairvoyance <!-- UNSOURCED -->
 
 **4. Krąg**
 *   Blight
-*   Arcane Eye
+*   Arcane Eye <!-- UNSOURCED -->
 
 ## Historia
-Księga została napisana przez samą [[Lutheria|Lutherię]] i przekazana [[Demetria|Demetrii]], aby ta mogła tworzyć nowe sługi dla Pani Snów. Tytuł sugeruje związek z [[Menaidy|Menaidami]], szalonymi wyznawczyniami. Została znaleziona przez bohaterów w [[Świątynia w Starym Lesie]].
+Księga została napisana przez samą [[Lutheria|Lutherię]] i przekazana [[Demetria|Demetrii]], aby ta mogła tworzyć nowe sługi dla Pani Snów. Tytuł sugeruje związek z [[Menaidy|Menaidami]], szalonymi wyznawczyniami. <!-- UNSOURCED -->
 
+W [[Sesja 4 - Mroczne sekrety Świątyni]] bohaterowie znaleźli księgę w jednej z ukrytych komnat [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]], po uratowaniu porwanych nastolatków.

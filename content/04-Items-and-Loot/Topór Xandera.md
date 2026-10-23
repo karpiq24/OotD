@@ -4,17 +4,25 @@ title: Topór Xandera
 
 ![Placeholder](../assets/placeholder.webp)
 
-_Legendarna broń pierwszego Smoczego Lorda, Xandera Huoratha._
+_Legendarna broń Xandera Huoratha, dziś w rękach [[Orestes|Orestesa]]; wykuta po to, by zabijać olbrzymów i Tytanów._
 
 ## Opis
-Ciężki topór wykonany z brązu i mithralu. Obecnie jest uszkodzony i stępiony, wymagając naprawy w [[Mithralowa Kuźnia|Mithralowej Kuźni]].
+Ciężki topór wykonany z brązu i mithralu. Jest jedną z broni Smoczych Lordów. <!-- UNSOURCED -->
 
 ## Właściwości
-Wymaga dostrojenia. Po naprawieniu odzyskuje swoje magiczne właściwości. Jest jedną z broni Smoczych Lordów.
+Wymaga dostrojenia. <!-- UNSOURCED -->
+
+Przeznaczeniem topora jest niszczenie olbrzymów i Tytanów. Zawiera ładunek zaklętej furii, który właściciel może uwolnić jednym potężnym wyładowaniem.
 
 ## Historia
-Należał do [[Xander|Xandera Huoratha]]. Został skradziony z jego grobowca przez [[Graxis Rzeźnik|Graxisa Rzeźnika]].
+Należał do [[Xander|Xandera Huoratha]]. Został skradziony z jego grobowca przez [[Graxis Rzeźnik|Graxisa Rzeźnika]]. <!-- UNSOURCED -->
 
-W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] [[Orestes]] użył go, by **zabić [[Lutheria|Lutherię]]** — jako jedna z niewielu broni godnych Tytanki zdołał przełamać jej odporność na zwykły oręż. Minotaur uwolnił w walce pełnię uśpionej w toporze furii, a ostatecznie jednym czystym cięciem odciął bogini głowę.
+W [[Sesja 9 - W Głębi Grobowca Xandera]] po pokonaniu Graxisa, strażnika [[Grobowiec Xandera|grobowca]], sam Xander przekazał bohaterom topór (wraz z [[Tarcza Xandera|Tarczą Xandera]] i [[Korona Smoczych Lordów|Koroną Smoczych Lordów]]).
 
-W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Orestes]] wybrał go zamiast [[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]] — „to właśnie ten topór zabił dwóch tytanów". W bitwie z [[Kentimane|Kentimane'em]] roztrzaskał żebro [[Tytani|Tytana]] i raz po raz wyrąbywał bruzdy w jego kamiennej skórze, choć nie zdołał go powalić.
+W [[Sesja 19 - Pojedynek z Rozpruwaczem]] [[Orestes]] otrzymał od [[Volkan|Volkana]] ulepszony topór; od tej pory należy do niego.
+
+W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] Orestes zabił nim rekina i Lewiatana, a ostatecznym ciosem rozciął trzecie oko [[Sydon|Sydona]] — ostrze zatrzymało się dopiero w połowie jego nosa.
+
+W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] Orestes użył go, by **zabić [[Lutheria|Lutherię]]** — jako jedna z niewielu broni godnych Tytanki zdołał przełamać jej odporność na zwykły oręż. Minotaur uwolnił w walce pełnię uśpionej w toporze furii, a ostatecznie jednym czystym cięciem odciął bogini głowę.
+
+W [[Sesja 83 - Zmierzch Ery Tytanów]] Orestes wybrał go zamiast [[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]] — „to właśnie ten topór zabił dwóch tytanów". W bitwie z [[Kentimane|Kentimane'em]] roztrzaskał żebro [[Tytani|Tytana]] i raz po raz wyrąbywał bruzdy w jego kamiennej skórze, choć nie zdołał go powalić.
