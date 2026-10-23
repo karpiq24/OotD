@@ -4,7 +4,9 @@ title: Themis
 
 ![Placeholder](../../assets/placeholder.webp)
 
-Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek. Są one uważane za najbardziej przerażające ze wszystkich plemion barbarzyńskich w Zatoce.
+Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek. Są one uważane za najbardziej przerażające ze wszystkich plemion barbarzyńskich w Zatoce. <!-- UNSOURCED -->
+
+Na wyspie znajdują się między innymi [[Port Aella]], forteca [[Więzienie Kieł|Kieł]], [[Obóz Lwicy]] na wschodzie i [[Kaplica Płodności]] w lesie.
 
 ## Mieszkańcy
 - [[Yala]] (Patronka Amazonek, ostatnie żyjące dziecko Tytanów)
@@ -16,14 +18,16 @@ Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek. Są one 
 ## Historia
 
 ### Dawniej — rządy uzurpatorki
-Themis od wieków jest potęgą morską na [[Zatoka Cerulańska|Morzu Ceruleańskim]]. Przez kilkanaście lat wyspa pozostawała jednak w rękach uzurpatorki. Trzy doradczynie prawowitej królowej [[Thessilea|Thessilei]] — siostry [[Moxena]], [[Leah]] i [[Nastura]] — zamordowały ją i zmieniły się w meduzy. Nastura przybrała postać zmarłej władczyni i przejęła jej imię, a pięcioletnią dziedziczkę [[Darien]] wtrącono do lochu w fortecy [[Więzienie Kieł|Kieł]].
+Themis od wieków jest potęgą morską na [[Zatoka Cerulańska|Morzu Ceruleańskim]]. Przez kilkanaście lat wyspa pozostawała jednak w rękach uzurpatorki. Trzy doradczynie prawowitej królowej [[Thessilea|Thessilei]] — siostry [[Moxena]], [[Leah]] i [[Nastura]] — zamordowały ją i zmieniły się w meduzy. Nastura przybrała postać zmarłej władczyni i przejęła jej imię, a pięcioletnią dziedziczkę [[Darien]] wtrącono do lochu w fortecy [[Więzienie Kieł|Kieł]]. Przewrót ten, jak opowiedziała Moxena w [[Sesja 22 - Taniec z Meduzą]], dokonał się kilkanaście lat wcześniej.
 
 W tym okresie Amazonki znajdowały się pod wpływem [[Lutheria|Lutherii]], co czyniło je faktycznymi sojuszniczkami Tytanów. Na wyspie utrzymywano niewolnictwo mężczyzn, a dorosłych synów rodzonych przez Amazonki zabijano. Relacje z barbarzyńskimi plemionami [[Wyspa Indygo|Wyspy Indygo]] były zerwane.
 
 ### Rewolucja
-Drużyna uwolniła [[Darien]] z celi zaklętej czarem *Silence* w [[Sesja 32 - Kieł]], a w [[Sesja 36 - Królowa, Dziedzic i Generał]] wsparła zbrojną rewolucję u boku [[Hippolyta|Hippolyty]] i skruszonej [[Moxena|Moxeny]]. Uzurpatorka została obalona, a Darien zasiadła na tronie jako prawowita spadkobierczyni.
+Drużyna dotarła na wyspę w [[Sesja 31 - Wyprawa na Themis]]; z powodu tutejszych praw mężczyźni z drużyny musieli w [[Port Aella|porcie Aella]] udawać niewolników ([[Sesja 32 - Kieł]]). Drużyna uwolniła [[Darien]] z celi zaklętej czarem *Silence* w [[Sesja 32 - Kieł]], a w [[Sesja 36 - Królowa, Dziedzic i Generał]] wsparła zbrojną rewolucję u boku [[Hippolyta|Hippolyty]] i skruszonej [[Moxena|Moxeny]]. Uzurpatorka została obalona, a Darien zasiadła na tronie jako prawowita spadkobierczyni.
 
 Nowa królowa natychmiast ogłosiła reformy: **zniosła niewolnictwo mężczyzn**, zastąpiła zabijanie dorosłych synów wygnaniem, zapowiedziała odbudowę relacji z plemionami Indygo i zadeklarowała udział Amazonek w nadchodzącej wojnie z Tytanami. [[Moxena]] — zabójczyni matki Darien — została za zgodą bohaterów zwolniona z przysięgi i objęła stanowisko doradczyni korony.
+
+W [[Sesja 64 - Pieśń dla Smoczycy]] statek [[Moxena|Moxeny]] nosił barwy Themis.
 
 ### Obecnie — po Bitwie o Mytros
 Amazonki dotrzymały deklaracji z sali tronowej. Ich flota i łuczniczki walczyły w obronie [[Mytros]] przeciwko [[Sydon|Sydonowi]], a [[Darien]] i [[Hippolyta]] osobiście dowodziły obroną **Doków** — jednego z nielicznych odcinków, które wytrzymały pierwsze fale natarcia ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]).

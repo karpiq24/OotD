@@ -1,27 +1,53 @@
 ---
 title: Praxys, Wieża Sydona
+aliases:
+  - Wieża Sydona
 ---
 
 ![Placeholder](../../assets/placeholder.webp)
 
-Kilkudziesięciopiętrowa, przerażająca wieża wykuta z kamienia i brązu na plecach potężnego tytana. Wieża zwieńczona jest promieniującą Gwiazdą, omiatającą światłem okolicę. To legendarne, niemalże niezdobyte terytorium tytana. Każde okno zabezpieczone jest magiczną barierą Ściany Mocy.
+_Zniszczona wieża [[Sydon|Sydona]] na [[Zapomniane Morze|Zapomnianym Morzu]], zmieciona z powierzchni świata przez uwolnioną gwiazdę._
+
+## Opis
+Praxys była kolosalną wieżą z kamienia i brązu, wyłaniającą się z szalejących fal, a jej wierzchołek wieńczyła świetlista, wszechwidząca gwiazda omiatająca okolicę blaskiem. Uchodziła za niezdobytą i legendarną twierdzę Pana Burz. Okna i tarasy zabezpieczała magiczna bariera Ściany Mocy, a cały obszar powietrzny i wierzch wieży patrolowały dziesiątki Gryfów. Fundamentem wieży był uwięziony na dnie morza [[Hergeron Pierwszy|Hergeron]], brat [[Sydon|Sydona]]. Wieża przez milenia była dumą Sydona, aż w [[Sesja 75 - Koniec Przysięgi]] uderzyła w nią uwolniona gwiazda i zmiotła ją z powierzchni świata.
 
 ## Ciekawe Miejsca
-- **System Kanalizacyjny**: Dolne piętra połączone są gigantycznymi rurami wodnymi. Część zasysa czystą wodę z morskich głębin, podczas gdy odpływy wypluwają gęste ścieki.
-- **Kiblowa Latryna**: Marmurowa łazienka garnizonu, którą sprząta potulny, dwuoki cyklop [[Krok]].
-- **Cela Myrmeków**: Miejsce uwięzienia Królowej Myrmeków.
+- **System kanalizacyjny**: Dwa rodzaje kanałów — mniejsze zasysały czystą wodę morską, potężne odpływowe wyrzucały nieczystości. W piwnicy pompy kontrolowały całą hydraulikę wieży.
+- **Latryna**: Monstrualnie wielka marmurowa łazienka połączona z systemem ścieków, sprzątana przez dwuokiego cyklopa [[Krok|Kroka]].
+- **Komora Królowej Myrmeków**: Za dwoma rzędami zamkniętych drzwi, w pobliżu latryny.
+- **Koszary i kuźnia Tytana**: Z dźwignią uruchamiającą pułapkę (bloki adamantu zamykały wyjścia, a z sufitu wlewała się magma).
+- **Montownia golemów, baraki żołnierzy i kuchnia** [[Ramsus|Ramsusa]].
+- **Ukryty skarbiec w ślepym korytarzu**: Otwierał się po „oślepieniu" posągów dwóch cyklopich głów.
+- **Winda towarowa**: Mijała piętra z więzieniami i sypialniami Furii i docierała do prywatnych komnat Tytana (siedem tronów, wypukła mapa Thylei na podłodze).
+- **Prywatne piętro Sydona**: Komnata z piaskownicą i posągami ofiar meduzy, sypialnia z prywatnym basenem i skarbiec z adamantytowymi drzwiami za pomieszczeniem Cerbera.
+- **Poziom więzienny**: Osiągalny windą napędzaną przez harpie, pełen cel z więźniami.
+- **Poziom Heavens**: Arena [[Goloron|Golorona]], komnata [[Dianama|Dianamy]], sala treningowa, koszary gyganów i portal do rajskiego miejsca.
+- **Poziom Nobles**: Piętro dla szlachty, prywatne komnaty dzieci Bliźniaków, strzeżone przez minotaura i ożywione gargulce.
+- **Kosmiczny basen**: Rozdarcie w rzeczywistości z widokiem na Nyx i [[Morze Astralne]], w którym pulsowała czerwona gwiazda.
+- **Doki**.
 
 ## Mieszkańcy
 - Główny rezydent: [[Sydon]]
-- Powietrzne patrole: Masywne Gryfy
-- Głębokie wody: Merrowowie
-- Zarządcy i służący: Cyklop [[Krok]], kucharz koźlak [[Ramsus]]
+- Powietrzne patrole: Gryfy
+- Głębokie wody: Merrowowie, a w piwnicy także Wiedźma Morska i Żywiołak Wody
+- Zarządcy i służący: cyklop [[Krok]], kucharz koźlak [[Ramsus]]
+- Strażnicy poziomu szlachty: minotaur i ożywione gargulce
 
 ## Historia
-Zbudowana przez [[Sydon|Sydona]] na plecach Złamanego Tytana, [[Hergeron|Hergerona Pierwszego]].
+Wieża Sydona była w przeszłości celem szturmu: w wizji z [[Sesja 70 - Audiencja u Pani Snów]] [[Arevon Elorrenthi|Arevon]] przeżył upadek Praxys oczami [[Telamok Arkelander|Telamoka Arakelandera]] i zobaczył, jak Glewia Sydona zakończyła życie legendarnego wojownika.
 
-W [[Sesja 71 - Infiltracja Praxys]] drużyna przeprowadziła rozpoznanie struktury uderzając potajemnie z morza. Pomijając wszystkie naziemne umocnienia oraz zabezpieczenia wieży, bohaterowie wcielili w życie ryzykowny plan i zinfiltrowali twierdzę wpływając w postaci niematerialnej chmury i wody... z dumną powagą przedzierając się bezpośrednio przez główną, marmurową i cuchnącą latrynę.
+Zbudowana przez [[Sydon|Sydona]] na plecach Złamanego Tytana, [[Hergeron Pierwszy|Hergerona Pierwszego]]. <!-- UNSOURCED -->
 
-W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] penetrując kolejne korytarze i poziomy wielkiej wieży dotarli oni w obszar kuchni. Dobicie specjalnego, sojuszniczego "kuchennego" układu z szefem gar-kuchni gnornem koźlakiem [[Ramsus|Ramsusem]] doprowadziło wojaków na szczyty windy towarowej. Z jej wnętrza, pod postacią gigantycznego bochenka chleba, skutecznie wydostali się atakując ukryci i od tyłu na ułamek zaskakując zasiadającego do śniadania, tytana [[Sydon|Sydona]]. Komnata z wyłożoną na pofalowanej podłodze wielką wizualną symulacją krainy stała się ostatecznie tłem dramatycznej i okrutnej walki z dziedziczką, która zginęła pociągnąwszy uprzednio Żelazne Golemy w środek magicznego pożaru pola bitwy.
+Uczestnicy pod sztandarem Praxys jako pierwsi zgłosili się do walki z minotaurem podczas igrzysk w [[Sesja 25 - Inauguracja Wielkich Igrzysk]]. W [[Sesja 63 - Werdykt Arezji]] [[Mistrz Cieni]] zażądał, by bohaterowie wykradli dla niego księgę z Praxys. W [[Sesja 70 - Audiencja u Pani Snów]] drużyna obrała kurs na siedzibę Sydona.
 
-W [[Sesja 73 - Praxys - Skarbiec Sydona]] bohaterowie kontynuowali eksplorację wieży, pokonując golemów i przeszukując prywatne komnaty Tytana. Następnie rozbroili jego skarbiec z potężnymi artefaktami, po czym udali się na poziom więzienny uwalniając z lochów więźniów, uwięzionych przez harpie. Ostatecznie wkroczyli na poziom Heavens rozległej krwawej areny zarządzanej przez Golorona.
+W [[Sesja 71 - Infiltracja Praxys]] drużyna przeprowadziła rozpoznanie, uderzając potajemnie z morza. Pomijając naziemne umocnienia, bohaterowie zinfiltrowali twierdzę, wpływając w postaci niematerialnej chmury i wody przez kanały, i wynurzyli się w marmurowej latrynie. Odkryli montownię golemów, koszary i kuźnię Tytana oraz komorę Królowej Myrmeków; znaleźli Miksturę Odporności na Ogień i stalowe płyty z mechanicznych modeli Gorgonów.
+
+W [[Sesja 72 - Śniadanie u Tytana Bochenek Przeznaczenia]] bohaterowie otworzyli ukryty skarbiec w ślepym korytarzu (Kołczan, trzy Oszczepy Błyskawic, trzy pary magicznych rękawic, perły i uśpione demoniczne insekty), po czym dotarli do kuchni. Szef kuchni, koźlak [[Ramsus]], zamiast podnieść alarm, zawarł z nimi układ. Z windy towarowej wydostali się w gigantycznym bochenku chleba i zaskoczyli zasiadającego do śniadania Sydona. Po jego ucieczce w wieży włączył się alarm, a drużyna stoczyła walkę z meduzą, dwoma Żelaznymi Golemami i [[Chalcia|Chalcią]], córką Sydona, która zginęła od ognistego promienia [[Versir|Versira]].
+
+W [[Sesja 73 - Praxys - Skarbiec Sydona]] bohaterowie kontynuowali eksplorację wieży, przeszli labirynt niezliczonych masywnych drzwi, wyłączyli mechanizm alarmowy złotą monetą z czerwonym okiem i przeszukali prywatne komnaty Tytana. Rozbroili jego skarbiec z potężnymi artefaktami, po czym zjechali na poziom więzienny, a następnie na poziom Heavens, gdzie czekał [[Goloron]]. Znaleźli także kosmiczny basen z żywą czerwoną gwiazdą, przypominającą tykającą bombę.
+
+W [[Sesja 74 - Matka Smoków]] drużyna weszła na arenę Golorona na piętrze Heavens, zwiedziła resztę poziomu i zamierzała jechać windą na poziom Nobles.
+
+W [[Sesja 75 - Koniec Przysięgi]] bohaterowie przeszli piętro dla szlachty, uwolnili więźniów i załadowali ich w dokach na statek. Dowiedzieli się, że lśniąca gwiazda na szczycie to dziecko istot z Morza Astralnego, uwięzione tam przez Sydona jako boskie trofeum. Gdy drużyna uwolniła gwiazdę, runęła ona na Praxys jak meteoryt i zmiotła wieżę z powierzchni świata. Ze skarbca Sydona pochodził wcześniej wydobyty Zwój Przysięgi Pokoju.
+
+W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] okazało się, że złota moneta [[Złota Moneta Hergerona|Hergerona]] była kluczem otwierającym jedne z drzwi w wieży. W [[Sesja 83 - Zmierzch Ery Tytanów]] wieża Sydona już padła, lecz księga ze skarbca Praxys przetrwała i trafiła do [[Mistrz Cieni|Mistrza Cieni]].
