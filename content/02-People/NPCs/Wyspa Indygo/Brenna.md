@@ -7,8 +7,11 @@ title: Brenna
 _Córka wodza plemienia Wieloryba, Delga._
 
 ## Opis
-Młoda krasnoludka, córka [[Delg|Delga]].
+Młoda krasnoludka.<!-- UNSOURCED -->
+
+Córka [[Delg|Delga]], wodza [[Plemię Wieloryba|plemienia Wieloryba]]. Mimo niewoli zachowała odwagę.
 
 ## Historia
-Została porwana przez smoczycę [[Ventis]] i uwięziona w jej leżu w [[Kopalnia Żelaza|Kopalni Żelaza]]. Służyła jako karta przetargowa, zmuszająca jej ojca i całe plemię do posłuszeństwa wobec smoka.
-W [[Sesja 44 - Ventis]] została uratowana przez Bohaterów Przepowiedni. [[Versir]] teleportował ją w bezpieczne miejsce, a [[Felicjan Janus Twardowski|Felicjan]] przeniósł z dala od pola walki. Jej ocalenie pozwoliło krasnoludom uwolnić się spod jarzma smoka i dołączyć do sojuszu przeciwko Tytanom.
+W [[Sesja 43 - Kopalnia Żelaza]] okazało się, że smoczyca [[Ventis]], która zajęła [[Kopalnia Żelaza|Kopalnię Żelaza]], porwała ją i trzyma jako zakładniczkę w swoim leżu, w naturalnej jaskini połączonej z tunelami kopalni. Dzięki temu zmusiła Delga i całe plemię do posłuszeństwa.
+
+W [[Sesja 44 - Ventis]] kpiła z Ventis i kwestionowała jej przekonania. Gdy bohaterowie ruszyli na pomoc, [[Versir]] teleportował ją w objęcia [[Felicjan Janus Twardowski|Felicjana]], który zaklęciem Dimension Door przeniósł ją na szczyt góry, z dala od pola walki. Jej uratowanie pozwoliło bohaterom skupić się na walce z Ventis, a plemię Wieloryba zawarło z nimi sojusz.

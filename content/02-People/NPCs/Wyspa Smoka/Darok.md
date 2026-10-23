@@ -7,12 +7,14 @@ title: Darok
 _Przywódca elfiego ruchu oporu na Wyspie Smoka, mnich-wojownik._
 
 ## Opis
-Darok to elficki mnich-wojownik, zaprawiony w bojach i życiu w ciągłym zagrożeniu. Jego ciało zdobią blizny, a ubiór dostosowany jest do walki w dżungli. Jest ostrożny i podejrzliwy wobec obcych.
+Przywódca elfiego ruchu oporu na [[Wyspa Smoka|Wyspie Smoka]], dowodzący nim wspólnie z [[Patrea|Patreą]]. Podejrzliwy wobec obcych.
+
+Elficki mnich-wojownik, zaprawiony w bojach i życiu w ciągłym zagrożeniu. Jego ciało zdobią blizny, a ubiór dostosowany jest do walki w dżungli.<!-- UNSOURCED -->
 
 ## Osobowość
-Poważny, odpowiedzialny, oddany przetrwaniu swojego ludu. Nienawidzi Hexii za terror, jaki sieje wśród elfów.
+Poważny, odpowiedzialny, oddany przetrwaniu swojego ludu. Nienawidzi [[Hexia|Hexii]] za terror, jaki sieje wśród elfów.<!-- UNSOURCED -->
 
 ## Historia
-Darok, wraz z Patreą, dowodził grupą elfów ukrywających się przed Hexią na Wyspie Smoka. Przez lata żyli w ciągłym strachu, będąc zwierzyną łowną dla smoczycy.
+Darok, wraz z Patreą, dowodził grupą elfów ukrywających się przed [[Hexia|Hexią]] na Wyspie Smoka. Przez lata żyli w ciągłym strachu, będąc zwierzyną łowną dla smoczycy.<!-- UNSOURCED -->
 
-W [[Sesja 64 - Pieśń dla Smoczycy]] spotkał Bohaterów Przepowiedni. Początkowo nieufny, ostatecznie wskazał im drogę do leża bestii. Po negocjacjach bohaterów ze smokiem, Darok i jego ludzie (15 wojowników) przyjęli propozycję ewakuacji i dołączyli do załogi Ultrosa, uciekając z przeklętej wyspy.
+W [[Sesja 64 - Pieśń dla Smoczycy]], jak wcześniej opowiedziała bohaterom [[Moxena]], na wyspie obok fanatycznych druidów z Kręgu Łuski żyli nieliczni, dzicy buntownicy z ruchu oporu. Darok i Patrea zastąpili drużynie drogę w dżungli, napinając łuki, lecz nie atakując; Darok zauważył, że bohaterowie chodzą po lesie, „jakby ziemia pod waszymi stopami należała do was”. Gdy usłyszeli cel wyprawy, napięcie opadło; ostrzegli bohaterów przed [[Kraken|Krakenem]], którego ofiary wyrzucało na brzeg po sztormach, i wskazali drogę do leża Hexii, lecz sami odmówili udziału w tej samobójczej, ich zdaniem, misji. W drodze powrotnej bohaterowie odszukali Daroka i jego grupę, powiedzieli im o wyniku misji i zaproponowali ucieczkę z wyspy. Piętnastu elfich wojowników przyjęło propozycję dołączenia do załogi [[Ultros|Ultrosa]].

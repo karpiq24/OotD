@@ -1,5 +1,7 @@
 ---
 title: Kabira Nasir
+aliases:
+  - Mechaniczny anioł
 ---
 
 ![Placeholder](../../../assets/placeholder.webp)
@@ -7,7 +9,9 @@ title: Kabira Nasir
 _Mechaniczny Anioł, Kat_
 
 ## Opis
-Istota przypominająca anioła, ale o mechanicznej naturze. Jej obecność zwiastuje ostateczność wyroku.
+Mechaniczny anioł, którego obecność była obietnicą ostateczności. Na [[Wyspa Czasu|Wyspie Czasu]] pełni funkcję kata w sądzie sfinksów.
 
 ## Historia
-W [[Sesja 58 - Wyspa Czasu]] pełniła funkcję kata w procesie Kartosa.
+W [[Sesja 58 - Wyspa Czasu]] bohaterowie zobaczyli ją jako kata w procesie [[Kartos|Kartosa]].
+
+W [[Sesja 59 - Koniec Imprezy]], gdy [[Bilatro]] znalazła w [[Wielka Księga Zasad|Wielkiej Księdze Zasad]] słowo „Wiedźmin” i Kartos został uznany za niewinnego, uwolniła go, a pochwyciła przerażonego [[Noland|Nolanda]].

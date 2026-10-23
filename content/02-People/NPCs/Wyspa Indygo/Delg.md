@@ -7,10 +7,16 @@ title: Delg
 _Zdesperowany przywódca krasnoludów z plemienia Wieloryba._
 
 ## Opis
-Potężny krasnolud, którego twarz nosi ślady troski i bezsilności.
+Potężny krasnolud, którego twarz nosi ślady troski i bezsilności.<!-- UNSOURCED -->
+
+Przywódca [[Plemię Wieloryba|plemienia Wieloryba]] i ojciec [[Brenna|Brenny]].
 
 ## Osobowość
-Jest odpowiedzialnym przywódcą, ale sytuacja z porwaniem córki złamała go. Został zmuszony do posłuszeństwa wobec smoka, bojąc się o życie swojego dziecka.
+Odpowiedzialny przywódca, którego porwanie córki pozbawiło siły do oporu: wobec smoka wyrażał bezsilność i troskę o jej los.
 
 ## Historia
-Gdy [[Ventis]] zaatakowała [[Kopalnia Żelaza|Kopalnię Żelaza]], Delg nie mógł się jej przeciwstawić, ponieważ smoczyca porwała jego córkę, [[Brenna|Brennę]]. Został zmuszony do podporządkowania się woli bestii, dopóki nie przybyli Bohaterowie Przepowiedni, dając mu nadzieję na ratunek.
+Gdy [[Ventis]] zajęła [[Kopalnia Żelaza|Kopalnię Żelaza]], Delg został zmuszony do posłuszeństwa, ponieważ smoczyca porwała jego córkę.
+
+W [[Sesja 43 - Kopalnia Żelaza]] z rezygnacją słuchał bohaterów; dopiero wzmianka o bliskim starciu ze smoczycą wzbudziła w nim iskrę nadziei. Opowiedział im o [[Brenna|Brennie]], trzymanej jako zakładniczka w leżu smoka.
+
+W [[Sesja 44 - Ventis]] bohaterowie uratowali jego córkę i pokonali Ventis, a część złota z jej leża przekazali plemieniu Wieloryba, z którym zawarli sojusz.

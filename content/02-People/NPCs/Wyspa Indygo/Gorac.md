@@ -7,10 +7,12 @@ title: Gorac
 _Arogancki przywódca Plemienia Rekina._
 
 ## Opis
-Potężny wojownik o groźnym spojrzeniu.
+Potężny wojownik o groźnym spojrzeniu.<!-- UNSOURCED -->
+
+Przywódca [[Plemię Rekina|Plemienia Rekina]].
 
 ## Osobowość
-Jest arogancki, pewny siebie i gardzi słabością. Niechętny do współpracy z obcymi, nawet jeśli pokonali wspólnego wroga.
+Arogancki i niechętny do współpracy. Pewny siebie i gardzący słabością.<!-- UNSOURCED -->
 
 ## Historia
-Po pokonaniu smoczycy [[Ventis]] przez bohaterów, Gorac odmówił zawarcia sojuszu. Wyzwany na honorowy pojedynek przez [[Orestes|Orestesa]], pokonał minotaura, ale pozwolił drużynie odejść, gardząc ulechaniem przeciwnika przez [[Arevon Elorrenthi|Arevona]].
+W [[Sesja 44 - Ventis]], po pokonaniu smoczycy [[Ventis]], rozmowy z nim nie poszły pomyślnie: okazał się arogancki i niechętny do współpracy, więc sojuszu z jego plemieniem nie zawarto. Urażony brakiem wdzięczności [[Orestes]] wyzwał go na honorowy pojedynek i przegrał. Zanim Gorac zadał ostateczny cios, [[Arevon Elorrenthi|Arevon]] uleczył Orestesa; Gorac wzgardził tym ruchem, ale pozwolił drużynie odejść bez dalszego rozlewu krwi.
