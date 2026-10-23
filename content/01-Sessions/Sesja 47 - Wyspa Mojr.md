@@ -1,7 +1,7 @@
 ---
 title: "Sesja 47: Wyspa Mojr"
 ---
-**Data:** 13.05.2024
+**Data:** 12.05.2025
 
 ![Mojry](../assets/sessions/047/047_fates.webp)
 

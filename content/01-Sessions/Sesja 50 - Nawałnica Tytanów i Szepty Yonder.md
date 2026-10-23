@@ -1,5 +1,5 @@
 ---
-title: "Sesja 50: Spotkanie z rojem"
+title: "Sesja 50: Nawałnica Tytanów i Szepty Yonder"
 ---
 **Data:** 09.06.2025
 

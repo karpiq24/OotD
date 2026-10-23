@@ -51,7 +51,7 @@ title: Sesje
 - [[Sesja 47 - Wyspa Mojr|Sesja 47: Wyspa Mojr]]
 - [[Sesja 48 - Pakty z Mojrami i Zew Chimery|Sesja 48: Pakty z Mojrami i Zew Chimery]]
 - [[Sesja 49 - Wielkie Gęsie Powstanie|Sesja 49: Wielkie Gęsie Powstanie]]
-- [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder|Sesja 50: Spotkanie z rojem]]
+- [[Sesja 50 - Nawałnica Tytanów i Szepty Yonder|Sesja 50: Nawałnica Tytanów i Szepty Yonder]]
 - [[Sesja 51 - Desant na Yonder|Sesja 51: Desant na Yonder]]
 - [[Sesja 52 - Infiltracja Yonder|Sesja 52: Infiltracja Yonder]]
 - [[Sesja 53 - Koniec Yonder|Sesja 53: Koniec Yonder]]

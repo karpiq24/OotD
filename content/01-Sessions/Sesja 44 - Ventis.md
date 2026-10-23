@@ -1,7 +1,7 @@
 ---
 title: "Sesja 44: Ventis"
 ---
-**Data:** 19.02.2024
+**Data:** 10.03.2025
 
 ![Ventis](../assets/sessions/044/044_ventis.webp)
 
