@@ -12,34 +12,34 @@ Legendarny skarb zgromadzony przez Smoczych Lordów z Pierwszej Wojny, ukryty w 
 ## Zawartość
 
 ### Magiczne Przedmioty
-*   **Cloak of Protection** (otrzymał [[Orion Xul|Orion]]) <!-- UNSOURCED -->
-*   **Wand of Polymorph** (otrzymał [[Felicjan Janus Twardowski|Felicjan]]) <!-- UNSOURCED -->
-*   **Spellguard Shield** (otrzymał [[Orion Xul|Orion]]) <!-- UNSOURCED -->
-*   **Oathbow (Longbow)** (otrzymał [[Arevon Elorrenthi|Arevon]]) <!-- UNSOURCED -->
-*   **Tome of Understanding** (otrzymał [[Arevon Elorrenthi|Arevon]]) <!-- UNSOURCED -->
-*   **Manual of Gainful Exercise** (otrzymał [[Orestes]]) <!-- UNSOURCED -->
+*   **Cloak of Protection**
+*   **Wand of Polymorph**
+*   **Spellguard Shield** (otrzymał [[Orion Xul|Orion]])
+*   **Oathbow (Longbow)** (nikt go nie chciał; w [[Sesja 69 - Ogród Lutherii]] drużyna zaoferowała go [[The Warden|Zarządcy]])
+*   **Tome of Understanding**
+*   **Manual of Gainful Exercise**
 *   **[[Xiphos of Slaughter]]** (otrzymał [[Versir]])
 *   2x **Potion of Supreme Healing**
 *   **Potion of Cloud Giant Strength**
 
 ### Zwoje Czarów (otrzymał [[Felicjan Janus Twardowski|Felicjan]])
-*   Level 8: **Antimagic Field** <!-- UNSOURCED -->
-*   Level 7: **Delayed Blast Fireball** <!-- UNSOURCED -->
-*   Level 7: **Reverse Gravity** <!-- UNSOURCED -->
-*   Level 6: **Arcane Gate** <!-- UNSOURCED -->
-*   Level 6: **Chain Lightning** <!-- UNSOURCED -->
-*   Level 5: **Animate Objects** <!-- UNSOURCED -->
+*   Level 8: **Antimagic Field**
+*   Level 7: **Delayed Blast Fireball**
+*   Level 7: **Reverse Gravity**
+*   Level 6: **Arcane Gate**
+*   Level 6: **Chain Lightning**
+*   Level 5: **Animate Objects**
 
 ### Bogactwa i Materiały
 *   3x **Adamantine Ingot**
 *   3x **Mithral Ingot**
-*   1x **Orb of Star Metal** <!-- UNSOURCED -->
+*   1x **Orb of Star Metal**
 *   10,000 gp w kamieniach szlachetnych
 *   2,000 pp
 *   10,000 gp
 
 ## Historia
-Skarb został ukryty 500 lat temu. <!-- UNSOURCED -->
+Skarb został ukryty 500 lat temu.
 
 W [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] duch [[Estor Arkelander|Estora]] ujawnił, że w dawnym leżu Krakena spoczywają szczątki [[Gregor Huorath|Gregora]] i Hezzebala wraz ze skarbami Smoczych Lordów.
 

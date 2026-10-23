@@ -4,17 +4,16 @@ title: Morze Astralne
 
 ![Placeholder](../assets/placeholder.png)
 
-Nieskończony kosmos i przestrzeń astralna rozciągająca się ponad i między światami.<!-- UNSOURCED -->
+Kosmiczna przestrzeń, z której pochodzą gwiazdy-istoty.
 
 ## Ciekawe Miejsca
-- **Pustka**: Bezgraniczna przestrzeń nasycona magią.<!-- UNSOURCED -->
 - **Portal w [[Praxys]]**: Basen na piętrze [[Sydon|Sydona]] w wieży, będący kosmiczną wyrwą otwierającą się na Morze Astralne. Po drugiej stronie krążyła czerwona gwiazda-rodzic.
 
 ## Mieszkańcy
 - Istoty astralne, istoty gwiezdne — m.in. rodzice dziecka-gwiazdy, więzionego przez Sydona na szczycie [[Praxys]]; rodzice wciąż go szukali.
 
 ## Historia
-Sydon wyłowił stamtąd „gwiazdę” i uwięził ją w [[Praxys]] jako swoje trofeum.<!-- UNSOURCED -->
+Sydon wyłowił stamtąd „gwiazdę” i uwięził ją w [[Praxys]] jako swoje trofeum.
 
 W [[Sesja 73 - Praxys - Skarbiec Sydona]] bohaterowie znaleźli w Praxys basen z kosmiczną wyrwą z widokiem na Morze Astralne (w tej sesji nazwane też [[Nyx]]).
 

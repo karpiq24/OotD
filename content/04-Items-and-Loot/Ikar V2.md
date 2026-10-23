@@ -11,7 +11,7 @@ _Pojazd (Maszyna latająca), Unikatowy_
 ## Opis
 Latająca maszyna z mechanicznymi skrzydłami, zbudowana przez [[Dedal|Dedala]].
 
-Prowizoryczna, ale genialna konstrukcja ze szczątków wraków, z miejscem dla pilota. Nie wygląda solidnie, ale działa (z trudem). <!-- UNSOURCED -->
+Genialna, choć niezdarna maszyna latająca [[Dedal|Dedala]]; działa, choć z trudem.
 
 ## Właściwości
 Zdolna do lotu, choć sterowanie nią jest wyzwaniem. Napędzana przez magiczny artefakt [[Heart of the Gale]].

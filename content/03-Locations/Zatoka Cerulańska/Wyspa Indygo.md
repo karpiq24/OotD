@@ -26,9 +26,9 @@ Znani mieszkańcy:
 - [[Brenna]]
 
 ## Historia
-[[Zephyrus]], Wiosenny Wiatr, spędził lata próbując przekonać tutejsze plemiona do porzucenia ścieżki wojny na rzecz pokoju. Jego starania zakończyły się jednak całkowitą porażką, gdyż wyspiarze uznali nadchodzące wojny za zbyt kuszące, by z nich zrezygnować. <!-- UNSOURCED -->
+[[Zephyrus]], Wiosenny Wiatr, spędził lata próbując przekonać tutejsze plemiona do porzucenia ścieżki wojny na rzecz pokoju. Jego starania zakończyły się jednak całkowitą porażką, gdyż wyspiarze uznali nadchodzące wojny za zbyt kuszące, by z nich zrezygnować.
 
-[[Hergeron Pierwszy|Hergeron]] uznał barbarzyńców z tej wyspy za zbyt nieprzewidywalnych, dlatego wysłał smoczycę [[Ventis]], aby zneutralizowała ich jako potencjalną siłę sojuszniczą [[Mytros]]. <!-- UNSOURCED -->
+Sydon uznał barbarzyńców z tej wyspy za zbyt nieprzewidywalnych, dlatego wysłał hodowlaną miedzianą smoczycę [[Ventis]], aby sprowokowała walki między plemionami i zneutralizowała je jako potencjalną siłę sojuszniczą wrogów Tytanów.
 
 W [[Sesja 42 - Plemię Węgorza]] Ultros dotarł do wyspy i zakotwiczył u jej wybrzeży. Bohaterowie dowiedzieli się, że wyspa jest domem czterech plemion i że jedyną kopalnią żelaza w Thylei strzeże plemię Wieloryba. Ventis terroryzowała mieszkańców, powołując się na chwałę Smoczych Lordów, a pod koniec sesji pojawiła się nad osadą Węgorza. W [[Sesja 43 - Kopalnia Żelaza]] i [[Sesja 44 - Ventis]] drużyna pokonała smoczycę i zawarła sojusze z plemionami Wieloryba, Delfina i Węgorza.
 

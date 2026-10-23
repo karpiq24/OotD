@@ -9,12 +9,12 @@ aliases:
 _Kostur, Bardzo Rzadki (Wymaga dostrojenia)_
 
 ## Opis
-Potężny kostur wykonany z poczerniałego drewna, inkrustowany srebrem w kształcie błyskawic. <!-- UNSOURCED -->
+Potężny kostur wykonany z poczerniałego drewna, inkrustowany srebrem w kształcie błyskawic.
 
 ## Właściwości
-Pozwala rzucać potężne zaklęcia związane z błyskawicami i gromami. Może ogłuszać wrogów i razić ich prądem. <!-- UNSOURCED -->
+Pozwala rzucać zaklęcia związane z błyskawicami i gromami oraz razić wrogów prądem.
 
 ## Historia
-Kostur ten był darem od boga Tytana, [[Sydon|Sydona]], dla króla jaszczuroludzi, [[Jankor|Jankora]], jako symbol jego władzy nad Wyspą Ognia. <!-- UNSOURCED -->
+Kostur ten był darem od boga Tytana, [[Sydon|Sydona]], dla króla jaszczuroludzi, [[Jankor|Jankora]], jako symbol jego władzy nad Wyspą Ognia.
 
 W [[Sesja 38 - Bitwa w Kalderze]] Gdy [[Arevon Elorrenthi|Arevon]] przeszukiwał pole bitwy po pokonaniu Jankora, wśród zdobyczy znalazła się laska miotająca pioruny, podarowana Jankorowi przez Sydona.

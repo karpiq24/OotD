@@ -4,7 +4,7 @@ title: Nyx (Morze Astralne)
 
 ![Placeholder](../assets/placeholder.png)
 
-Kosmiczna otchłań pełna mgławic i nieskończonej pustki.<!-- UNSOURCED -->
+Kosmiczna otchłań pełna mgławic i nieskończonej pustki.
 
 ## Ciekawe Miejsca
 - **Kosmiczna Pustka**: Wypełniona gwiazdami i mgławicami, bez praw grawitacji.

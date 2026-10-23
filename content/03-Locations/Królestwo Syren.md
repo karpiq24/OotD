@@ -9,13 +9,13 @@ aliases:
 Zatopione królestwo syren, zniszczone przez gniew [[Sydon|Sydona]] i do końca kampanii nieodnalezione mimo piętnastu lat poszukiwań.
 
 ## Ciekawe Miejsca
-- **Miejsce spoczynku [[Goloron Pierwszy|Golorona]]**: Tytan Mądrości ukryty pod postacią posągu.<!-- UNSOURCED -->
+- **Miejsce spoczynku [[Goloron Pierwszy|Golorona]]**: Tytan Mądrości ukryty pod postacią posągu.
 
 ## Mieszkańcy
 - Wuj [[Versir|Versira]] — według [[Sesja 84 - Świt Nowej Ery]] „ktoś, o kim wiadomo, że tam jest”.
 
 ## Historia
-Królestwo powstało na wyspie, gdzie [[Lutheria]] ukryła spetryfikowanego Golorona.<!-- UNSOURCED -->
+Królestwo powstało na wyspie, gdzie [[Lutheria]] ukryła spetryfikowanego Golorona.
 
 W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] wizja Tytanów ukazała, że [[Goloron Pierwszy|Goloron]] został ukryty na wyspie, na której powstało Królestwo Syren.
 

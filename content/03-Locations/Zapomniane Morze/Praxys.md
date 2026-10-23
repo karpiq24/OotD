@@ -36,7 +36,7 @@ Praxys była kolosalną wieżą z kamienia i brązu, wyłaniającą się z szale
 ## Historia
 Wieża Sydona była w przeszłości celem szturmu: w wizji z [[Sesja 70 - Audiencja u Pani Snów]] [[Arevon Elorrenthi|Arevon]] przeżył upadek Praxys oczami [[Telamok Arkelander|Telamoka Arakelandera]] i zobaczył, jak Glewia Sydona zakończyła życie legendarnego wojownika.
 
-Zbudowana przez [[Sydon|Sydona]] na plecach Złamanego Tytana, [[Hergeron Pierwszy|Hergerona Pierwszego]]. <!-- UNSOURCED -->
+Fundamentem wieży **[[Praxys]]** jest [[Hergeron Pierwszy|Hergeron Pierwszy]], uwięziony przez [[Sydon|Sydona]] i zmuszony do dźwigania budowli na barkach.
 
 Uczestnicy pod sztandarem Praxys jako pierwsi zgłosili się do walki z minotaurem podczas igrzysk w [[Sesja 25 - Inauguracja Wielkich Igrzysk]]. W [[Sesja 63 - Werdykt Arezji]] [[Mistrz Cieni]] zażądał, by bohaterowie wykradli dla niego księgę z Praxys. W [[Sesja 70 - Audiencja u Pani Snów]] drużyna obrała kurs na siedzibę Sydona.
 

@@ -7,7 +7,7 @@ title: Wielka Księga Zasad
 _Księga praw sfinksów z Wyspy Czasu, odnaleziona i zwrócona w [[Sesja 59 - Koniec Imprezy]]._
 
 ## Opis
-Księga zawierająca wszystkie prawa i zasady gier oraz sądów na Wyspie Czasu. <!-- UNSOURCED -->
+Księga zawierająca zasady gry w słowa, w którą grają sfinksy na Wyspie Czasu.
 
 ## Historia
 W [[Sesja 58 - Wyspa Czasu]] księga zniknęła w tajemniczych okolicznościach; jej brak stał się przyczyną problemów [[Kartos|Kartosa]] i był kluczowym dowodem w jego procesie — jedynym, który mógł dowieść jego niewinności.

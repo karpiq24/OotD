@@ -4,7 +4,7 @@ title: Themis
 
 ![Placeholder](../../assets/placeholder.webp)
 
-Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek. Są one uważane za najbardziej przerażające ze wszystkich plemion barbarzyńskich w Zatoce. <!-- UNSOURCED -->
+Wyspa pod Konstelacją Bliźniąt, będąca ojczyzną dumnych Amazonek. Są one uważane za najbardziej przerażające ze wszystkich plemion barbarzyńskich w Zatoce.
 
 Na wyspie znajdują się między innymi [[Port Aella]], forteca [[Więzienie Kieł|Kieł]], [[Obóz Lwicy]] na wschodzie i [[Kaplica Płodności]] w lesie.
 

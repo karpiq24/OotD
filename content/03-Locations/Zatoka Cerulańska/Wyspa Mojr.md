@@ -9,21 +9,21 @@ Ponura, skalista wyspa w [[Zatoka Cerulańska|Zatoce Cerulańskiej]], siedziba [
 ## Opis
 Wyspa jest ponura i skalista, z poszarpanymi klifami i niewielką zatoczką. Tutejsze wody są skażone przez Morze Otchłani i nie wolno tam jeść ani pić.
 
-Wyspa jest otoczona wiecznym deszczem i mgłą, a roślinność składa się głównie z mchów i skarłowaciałych drzew. <!-- UNSOURCED -->
+Wyspa jest otoczona wiecznym deszczem i mgłą, a roślinność składa się głównie z mchów i skarłowaciałych drzew.
 
 Na wyspie stoją ruiny wieży gigantów, pod którą leżą kości gigantów; dalej znajduje się cuchnące jezioro z wejściami do jaskiń Mojr.
 
 ## Ciekawe Miejsca
-- **Cuchnący Staw (Fetid Pond)**: Wypełniony żółtą posoką i larwami dusz. <!-- UNSOURCED --> Cuchnące jezioro z wejściami do jaskiń Mojr.
-- **Siedziba Wiedźm (Lair of the Hags)**: Główna jaskinia, gdzie stoi Krosno Losu zrobione z kości smoka. <!-- UNSOURCED -->
+- **Cuchnący Staw (Fetid Pond)**: Płytkie, cuchnące jezioro na dnie wąwozu, z którego wznoszą się wejścia do jaskiń Mojr. Cuchnące jezioro z wejściami do jaskiń Mojr.
+- **Siedziba Wiedźm (Lair of the Hags)**: Główna jaskinia, gdzie stoi Krosno Losu zrobione z kości smoka.
 - **Zrujnowana Wieża Gyganów**: Pozostałość po dawnym imperium; w jej ruinach znaleziono zwoje z kroniką wojny Smoczych Lordów z Imperium Gyganów.
-- **Jaskinia Mantykor**: Legowisko bestii służących wiedźmom. <!-- UNSOURCED -->
+- **Jaskinia Mantykor**: Legowisko bestii służących wiedźmom.
 
 ## Mieszkańcy
 - **[[Mojry]]**: [[Morta]], [[Nona]], [[Decima]].
 
 ## Historia
-Dawniej zamieszkana przez Gyganów. Obecnie siedziba Mojr. <!-- UNSOURCED -->
+Dawniej zamieszkana przez Gyganów. Obecnie siedziba Mojr.
 
 Wyprawa statkiem na Wyspę Mojr śniła się [[Orestes|Orestesowi]] w [[Sesja 13 - Wezwani przez Króla]], a w [[Sesja 30 - Zakończenie Igrzysk]] znów śnił o niej w koszmarze razem z trzema postaciami.
 

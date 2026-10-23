@@ -7,10 +7,9 @@ title: Circlet of Blasting
 _Wondrous Item, Uncommon_
 
 ## Opis
-Magiczny diadem iskrzący się zaklętą mocą. <!-- UNSOURCED -->
+Magiczny diadem iskrzący się zaklętą mocą.
 
 ## Właściwości
-Pozwala rzucać potężne zaklęcia ognia. <!-- UNSOURCED -->
 
 ## Historia
 W [[Sesja 75 - Koniec Przysięgi]] drużyna znalazła go w prywatnej sypialni [[Chalcia|Chalcii]] w wieży [[Praxys]] po walce z falangą Czadów i zabrała ze sobą.

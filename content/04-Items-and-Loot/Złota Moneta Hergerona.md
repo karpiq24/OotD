@@ -7,7 +7,7 @@ title: Złota Moneta Hergerona
 _Wielka, zdobiona złota moneta — w istocie klucz do wieży Praxys._
 
 ## Opis
-Okazała, ciężka moneta wykonana z polerowanego złota i pokryta misternymi zdobieniami. <!-- UNSOURCED -->
+Wielka, zdobiona złota moneta.
 
 Na pierwszy rzut oka wygląda jak okazały medalion, ale w rzeczywistości jest **kluczem** otwierającym jedne z drzwi w wieży [[Praxys]].
 

@@ -23,7 +23,7 @@ Miejsce uczt, zabaw i spotkań Lutherii.<!-- UNSOURCED -->
 
 ## Korytarze Śniących
 
-Korytarze pod pokładem.<!-- UNSOURCED -->
+Korytarze pod pokładem.
 
 > **Opis:**
 > "Schodzicie pod pokład. W przeciwieństwie do dusznego, wilgotnego ogrodu na górze, tutaj panuje chłód. Ściany i podłoga wyłożone są tysiącami ludzkich czaszek. Niektóre są pożółkłe ze starości, inne wciąż mają na sobie fragmenty wysuszonej skóry. Gdy idziecie, macie nieodparte wrażenie, że puste oczodoły czaszek podążają za wami, a zęby cicho szczękają w rytm waszych kroków."
@@ -34,7 +34,7 @@ Korytarze pod pokładem.<!-- UNSOURCED -->
 
 Pomieszczenie wyłożone lustrami i kryształami, które pełni funkcję oczu i uszu Lutherii — tu Pani Snów obserwowała wydarzenia na świecie. [[Kalisto]] zaprowadziła tu gości w [[Sesja 69 - Ogród Lutherii]]: [[Versir]] pytał o miejsce pobytu [[Chalcia|Chalcii]], [[Felicjan Janus Twardowski|Felicjan]] kazał pokazać „Armię Sydona” (potężną flotę, cyklopy i gyganów gotowych do inwazji), a potem zapytał o [[Karpathos]]a.
 
-Dwie **Lamie** (kobiety-lwy) wpatrują się w lustra, raportując Lutherii wydarzenia ze świata.<!-- UNSOURCED -->
+Dwie **Lamie** (kobiety-lwy) wpatrują się w lustra, raportując Lutherii wydarzenia ze świata.
 
 > **Opis:**
 > "Pomieszczenie wypełniają lustra o różnych kształtach i rozmiarach. Dwie istoty o ciałach lwów i torsach kobiet siedzą tyłem do was, wpatrzone w migoczące obrazy. Widzicie w nich fragmenty bitew, sceny z królewskich dworów i codzienne życie mieszkańców Thylei. To oczy i uszy Pani Snów."
@@ -45,7 +45,7 @@ Dwie **Lamie** (kobiety-lwy) wpatrują się w lustra, raportując Lutherii wydar
 
 Luksusowy apartament udekorowany z przepychem, zajmowany przez [[Furie|Erynie]]. W [[Sesja 70 - Audiencja u Pani Snów]] [[Kalisto]] zaprowadziła tu drużynę. Furie nie były lojalne wobec Lutherii — pilnowały jej, a w razie jej zdrady stanęłyby po stronie prawa.
 
-Mieszkanie łowczyń krzywoprzysięzców.<!-- UNSOURCED -->
+Mieszkanie łowczyń krzywoprzysięzców.
 
 > **Opis:**
 > "To pomieszczenie ocieka bogactwem, ale w chaotyczny sposób. Meble z różnych epok i kultur stoją obok siebie. Na środku, dwie kobiety o skrzydłach z czerwonych piór zajmują się swoim rynsztunkiem. Jedna poleruje czarną, ciężką zbroję, druga sprawdza cięciwę potężnego łuku. Ich piękno jest zimne i drapieżne, a w oczach widać bezwzględną sprawiedliwość."
@@ -85,7 +85,7 @@ Galeria osobliwości Lutherii (Hall of Trinkets), po której oprowadzały druży
 
 ## Komnata Koszmarów
 
-Pusta sala z jednym meblem.<!-- UNSOURCED -->
+Pusta sala z jednym meblem.
 
 > **Opis:**
 > "To pomieszczenie jest niepokojąco puste, co sprawia wrażenie, że jest znacznie większe niż w rzeczywistości. Na samym środku stoi pojedyncze, przepiękne, złote krzesło. Wygląda zachęcająco. Macie irracjonalne przeczucie, że jeśli w nim usiądziecie, wasze najskrytsze marzenia się spełnią."
@@ -107,7 +107,6 @@ Miejsce przygotowywania „uczt”. W [[Sesja 70 - Audiencja u Pani Snów]] saty
 
 > **Opis:**
 > "Uderza was zapach pieczonego mięsa i wykwintnych przypraw, od którego aż cieknie ślinka. Wewnątrz krząta się kilka wychudzonych, psopodobnych istot, nadzorowanych przez potężną Lamię. Na stołach leżą wykwintne półmiski... oraz kawałki mięsa, które kształtem niepokojąco przypominają humanoidalne uda i ramiona."
-
 
 ## Łaźnie i Sala Tronowa
 

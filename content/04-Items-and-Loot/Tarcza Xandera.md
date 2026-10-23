@@ -5,13 +5,13 @@ title: Tarcza Xandera
 ![Placeholder](../assets/placeholder.webp)
 
 ## Opis
-Wspaniała tarcza, często nazywana Tarczą [[Xander|Xandera]]. <!-- UNSOURCED -->
+Wspaniała tarcza, często nazywana Tarczą [[Xander|Xandera]].
 
 ## Właściwości
-Wymaga dostrojenia. <!-- UNSOURCED -->
+Wymaga dostrojenia.
 
 ## Historia
-Skradziona przez [[Graxis Rzeźnik|Graxisa]]. <!-- UNSOURCED -->
+Skradziona przez [[Graxis Rzeźnik|Graxisa]].
 
 W [[Sesja 9 - W Głębi Grobowca Xandera]] [[Felicjan Janus Twardowski|Felicjan]], kładąc rękę na tarczy i przedstawiając się, otworzył drzwi do [[Grobowiec Xandera|grobowca Xandera Houratha]]. Po pokonaniu Graxisa, strażnika grobowca, sam [[Xander]] przekazał bohaterom [[Topór Xandera]], tarczę oraz [[Korona Smoczych Lordów|Koronę Smoczych Lordów]].
 

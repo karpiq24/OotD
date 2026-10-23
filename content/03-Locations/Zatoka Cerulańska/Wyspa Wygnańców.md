@@ -6,13 +6,13 @@ title: Wyspa Wygnańców
 
 Niewielka, skalista wyspa, na której mieszka społeczność wygnańców.
 
-Służy jako miejsce wygnania dla najgorszych przestępców z wolnych miast Thylei. Znana również jako wyspa pod Konstelacją Wojownika. <!-- UNSOURCED -->
+Służy jako miejsce wygnania dla skazanych za najcięższe zbrodnie obywateli [[Mytros]]. Znana również jako wyspa pod Konstelacją Wojownika.
 
 ## Opis
 Wyspa jest niewielka i skalista, z ubogą roślinnością, bez większych drzew, z wąską piaszczystą plażą i kamiennym dokiem; unosi się tam słodkawy zapach. Mieszka na niej społeczność wygnańców, której przewodził samozwańczy król Stavros.
 
 ## Ciekawe Miejsca
-- **Osada Wygnańców**: Prymitywne obozowisko rządzone przez „Króla". <!-- UNSOURCED -->
+- **Osada Wygnańców**: Prymitywne obozowisko rządzone przez „Króla".
 - **Świątynia Pięciu Bogów**: Miejsce znalezienia ciała Mariusa. Stoi tam także cmentarz.
 
 ## Mieszkańcy
@@ -27,7 +27,7 @@ Wyspa jest niewielka i skalista, z ubogą roślinnością, bez większych drzew,
 - [[Keelan]] (morderca; stracony)
 
 ## Historia
-Miejsce to jest domem dla złodziei, morderców i wygnańców. <!-- UNSOURCED -->
+Miejsce to jest domem dla złodziei, morderców i wygnańców.
 
 W [[Sesja 21 - Ukryte pragnienia Ismene]] wspomniano, że Stavros został wygnany na wyspę. W [[Sesja 44 - Ventis]] została wybrana jako następny cel podróży Ultrosa.
 

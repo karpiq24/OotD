@@ -6,10 +6,10 @@ title: Przysięga Pokoju
 
 ## Pochodzenie
 
-Przysięga została wykuta 500 lat temu (0 CE), kończąc krwawą [[Pierwsza Wojna|Pierwszą Wojnę]]. Konflikt ten, toczony między rdzennymi rasami (dowodzonymi przez [[Sydon|Sydona]] i [[Lutheria|Lutherię]]) a osadnikami i [[Smoczy Lordowie|Smoczymi Lordami]], doprowadził obie strony na skraj zagłady. <!-- UNSOURCED -->
-*   **Negocjacje:** Rozmowy pokojowe zostały zaaranżowane przez [[Versi|Versi]] (Wyrocznię), córkę Sydona. Kluczową rolę odegrał również czarodziej [[Damon]]. <!-- UNSOURCED -->
-*   **Ofiara:** Pieczęcią przysięgi była ofiara [[Mytros (Bogini)|Mytros]]. Bogini Świtu poświęciła większość swojej boskiej mocy (i swoje życie w świecie materialnym, wstępując do niebios), aby nasycić przysięgę nienaruszalną magią. <!-- UNSOURCED -->
-*   **Miejsce:** Tytani i Bogowie spotkali się pod [[Drzewo Serca|Drzewem Złotego Serca]], nacinając dłonie i dokonując krwawego uścisku. <!-- UNSOURCED --> Sam zwój głosi, że przysięgę złożono pod auspicjami [[Furie|Furii]], w cieniu Złotego Serca, w obecności Wyroczni i śmiertelnej duszy jako świadków. Sygnatariuszami byli [[Sydon]], [[Lutheria]], [[Vallus]], [[Volkan]], [[Pythor]] i [[Kyrah]].
+Przysięga została wykuta 500 lat temu (0 CE), kończąc krwawą [[Pierwsza Wojna|Pierwszą Wojnę]]. Konflikt ten, toczony między rdzennymi rasami (dowodzonymi przez [[Sydon|Sydona]] i [[Lutheria|Lutherię]]) a osadnikami i [[Smoczy Lordowie|Smoczymi Lordami]], doprowadził obie strony na skraj zagłady.
+*   **Negocjacje:** Rozmowy pokojowe zostały zaaranżowane przez [[Versi|Versi]] (Wyrocznię), córkę Sydona. Kluczową rolę odegrał również czarodziej [[Damon]].
+*   **Ofiara:** [[Mytros (Bogini)|Mytros]], Bogini Świtu, przypieczętowała przysięgę większością pozostałej jej mocy.
+*   **Miejsce:** Tytani i Bogowie spotkali się pod [[Drzewo Serca|Drzewem Złotego Serca]], nacinając dłonie i dokonując krwawego uścisku. Sam zwój głosi, że przysięgę złożono pod auspicjami [[Furie|Furii]], w cieniu Złotego Serca, w obecności Wyroczni i śmiertelnej duszy jako świadków. Sygnatariuszami byli [[Sydon]], [[Lutheria]], [[Vallus]], [[Volkan]], [[Pythor]] i [[Kyrah]].
 
 ## Warunki Przysięgi
 
@@ -23,18 +23,18 @@ Brzmienie przysięgi poznała cała drużyna, gdy [[Felicjan Janus Twardowski|Fe
 ## Konsekwencje
 
 ### Dla Tytanów
-Przysięga zmusiła Tytanów do wycofania się – Sydon do wieży [[Praxys]], a Lutheria do [[Morze Otchłani|Otchłani]]. Nie mogli oni bezpośrednio niszczyć miast, ale nadal mieli prawo do "wymuszania szacunku" (np. poprzez żądanie ofiar). Przez wieki szukali luk w przysiędze, nękając śmiertelników pośrednio (przez potwory, klątwy czy swoich kapłanów z [[Zakon Sydona|Zakonu Sydona]]). <!-- UNSOURCED -->
+Przysięga zmusiła Tytanów do wycofania się – Sydon do wieży [[Praxys]], a Lutheria do [[Morze Otchłani|Otchłani]]. Nie mogli oni bezpośrednio niszczyć miast, ale nadal mieli prawo do "wymuszania szacunku" (np. poprzez żądanie ofiar). Przez wieki szukali luk w przysiędze, nękając śmiertelników pośrednio (przez potwory, klątwy czy swoich kapłanów z [[Zakon Sydona|Zakonu Sydona]]).
 
 ### Dla Śmiertelników
-Zapewniła 500 lat względnego spokoju (Złoty Wiek), pozwalając na rozwój miast takich jak [[Mytros]], [[Estoria]] i [[Arezja]]. Jednak cena była wysoka – konieczność oddawania czci okrutnym bóstwom i życie w cieniu nieuchronnego powrotu wojny. <!-- UNSOURCED -->
+Zapewniła 500 lat względnego spokoju (Złoty Wiek), pozwalając na rozwój miast takich jak [[Mytros]], [[Estoria]] i [[Arezja]]. Jednak cena była wysoka – konieczność oddawania czci okrutnym bóstwom i życie w cieniu nieuchronnego powrotu wojny.
 
 ## Koniec Przysięgi
 
-Przed wygaśnięciem Przysięga słabła, a jej koniec wisiał nad światem. <!-- UNSOURCED -->
+Przed wygaśnięciem Przysięga słabła, a jej koniec wisiał nad światem.
 
-*   Tytani stali się coraz bardziej agresywni (susze, potwory, żądania ofiar z królów), a moc Pięciu Bogów zanikała. <!-- UNSOURCED -->
-*   Według [[Versi|Wyroczni]] koniec Przysięgi miał oznaczać "Zagładę Thylei" – Tytani, wolni od ograniczeń, mieli zalać świat ogniem i wodą, by oczyścić go z "pasożytów" (śmiertelników). <!-- UNSOURCED -->
-*   W kampanii (około sesji 12-20) [[Kyrah]] często przypominała bohaterom, że do wygaśnięcia Przysięgi pozostało zaledwie kilkadziesiąt dni (ok. 40-60 dni w zależności od momentu). <!-- UNSOURCED -->
+*   Tytani stali się coraz bardziej agresywni (susze, potwory, żądania ofiar z królów), a moc Pięciu Bogów zanikała.
+*   Według [[Versi|Wyroczni]] koniec Przysięgi miał oznaczać „Zagładę Thylei” – śmierć bogów, zniszczenie świętego drzewa i unicestwienie wszystkich śmiertelnych gatunków.
+*   [[Kyrah]] często przypominała bohaterom, że do wygaśnięcia Przysięgi pozostało już tylko kilkadziesiąt dni.
 *   **Wygaśnięcie:** w południe następnego dnia po infiltracji Praxys, na pokładzie *Ultrosa*, Przysięga wygasła ([[Sesja 75 - Koniec Przysięgi]]). Odczytanie jej na głos przez śmiertelnika zadziałało jak klucz: [[Volkan]], [[Pythor]] i [[Kyrah]] przybrali prawdziwe, smocze formy. Domeny Nowych Bogów wróciły do Tytanów, a [[Sydon]] został uwolniony z okowów Przysięgi ([[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]]). Lutherii wróciła jej muzyka, odebrana przed wiekami ([[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]]).
 
 ## Powiązania

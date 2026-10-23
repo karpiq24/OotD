@@ -20,7 +20,6 @@ Najgłębsza i najmroczniejsza część wód otaczających Thyleę, domena Pani 
 - Cetus i Morski Wąż, których walkę drużyna obserwowała w [[Sesja 70 - Audiencja u Pani Snów]].
 
 ## Historia
-Miejsce to jest owiane tajemnicą i strachem. Nawet potężni żeglarze omijają te wody z daleka.<!-- UNSOURCED -->
 
 W [[Sesja 47 - Wyspa Mojr]] okazało się, że wody Wyspy Mojr są skażone przez Morze Otchłani, a ich spożycie może mieć opłakane skutki.
 

@@ -7,15 +7,15 @@ title: Topór Xandera
 _Legendarna broń Xandera Huoratha, dziś w rękach [[Orestes|Orestesa]]; wykuta po to, by zabijać olbrzymów i Tytanów._
 
 ## Opis
-Ciężki topór wykonany z brązu i mithralu. Jest jedną z broni Smoczych Lordów. <!-- UNSOURCED -->
+Ciężki topór. Jest jedną z broni Smoczych Lordów.
 
 ## Właściwości
-Wymaga dostrojenia. <!-- UNSOURCED -->
+Wymaga dostrojenia.
 
 Przeznaczeniem topora jest niszczenie olbrzymów i Tytanów. Zawiera ładunek zaklętej furii, który właściciel może uwolnić jednym potężnym wyładowaniem.
 
 ## Historia
-Należał do [[Xander|Xandera Huoratha]]. Został skradziony z jego grobowca przez [[Graxis Rzeźnik|Graxisa Rzeźnika]]. <!-- UNSOURCED -->
+Należał do [[Xander|Xandera Huoratha]]. Został skradziony z jego grobowca przez [[Graxis Rzeźnik|Graxisa Rzeźnika]].
 
 W [[Sesja 9 - W Głębi Grobowca Xandera]] po pokonaniu Graxisa, strażnika [[Grobowiec Xandera|grobowca]], sam Xander przekazał bohaterom topór (wraz z [[Tarcza Xandera|Tarczą Xandera]] i [[Korona Smoczych Lordów|Koroną Smoczych Lordów]]).
 

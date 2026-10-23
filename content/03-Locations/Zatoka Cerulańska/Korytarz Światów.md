@@ -7,11 +7,11 @@ title: Korytarz Światów
 Magiczny korytarz znajdujący się w wieży [[Wiedźma Lotosu|Wiedźmy Lotosu]]. Jego ściany pokryte są hieroglifami, a liczne okna ukazują widoki z innych światów, czasów i planów egzystencji.
 
 ## Ciekawe Miejsca / Wizje
-- **Elysium**: Siedziba Zeusa. <!-- UNSOURCED -->
+- **Elysium**: Siedziba Zeusa.
 - **Zatopione Królestwo Syren**: Zniszczone przez gniew Sydona.
-- **Plan Astralny**: Miejsce podróży Kapitana Bomby. <!-- UNSOURCED -->
-- **Śródziemie**: Bitwa o Helmowy Jar. <!-- UNSOURCED -->
-- **Avernus**: Lewitujące miasto. <!-- UNSOURCED -->
+- **Plan Astralny**: Miejsce podróży Kapitana Bomby.
+- **Śródziemie**: Bitwa o Helmowy Jar.
+- **Avernus**: Lewitujące miasto.
 - **Hades**: Charon pobierający opłaty.
 - **Fabryka Warforgedów**: Eberron.
 - **Płonące Mytros**: Apokaliptyczna wizja przyszłości z Behemotem.

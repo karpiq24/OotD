@@ -7,17 +7,17 @@ aliases:
 
 ![Placeholder](../assets/placeholder.webp)
 
-_Zaczarowany mechanizm służący jako magiczny kompas. Artefakt wykonany z niezniszczalnego brązu i gwiezdnego metalu._ <!-- UNSOURCED -->
+_Zaczarowany mechanizm służący jako magiczny kompas._
 
 ## Opis
-Antikythera to skomplikowany kompas, który dostraja się do gwiazdozbiorów na nocnym niebie, aby wskazać dokładną drogę do wysp rozsianych po Thylei. Posiada wiele obracających się tarcz i wskazówek, które układają się w konstelacje. <!-- UNSOURCED -->
+Antikythera to skomplikowany kompas, który dostraja się do gwiazdozbiorów na nocnym niebie, aby wskazać dokładną drogę do wysp rozsianych po Thylei. Posiada wiele obracających się tarcz i wskazówek, które układają się w konstelacje.
 
 Mechanizm składa się z pierścieni i zębatych kół, które potrafią obracać się jedno po drugim.
 
 ## Właściwości
-- **Nawigacja:** Pozwala nawigować po zdradliwych wodach Thylei, gdzie prądy i magia Sydona uniemożliwiają tradycyjną żeglugę. Wskazuje również drogę do miejsc ukrytych magicznie. <!-- UNSOURCED -->
-- **Kalibracja:** Musi być używana na suchym lądzie, aby ustalić cel podróży. Każda wyspa jest powiązana z konkretną konstelacją. <!-- UNSOURCED -->
-- **Czas Podróży:** Standardowy czas podróży między dowolnymi dwiema wyspami wynosi 3 dni, niezależnie od odległości na mapie. <!-- UNSOURCED -->
+- **Nawigacja:** Pozwala nawigować po zdradliwych wodach Thylei, gdzie prądy i magia Sydona uniemożliwiają tradycyjną żeglugę. Wskazuje również drogę do miejsc ukrytych magicznie.
+- **Kalibracja:** Musi być używana na suchym lądzie, aby ustalić cel podróży. Każda wyspa jest powiązana z konkretną konstelacją.
+- **Czas Podróży:** Standardowy czas podróży między dowolnymi dwiema wyspami wynosi 3 dni, niezależnie od odległości na mapie.
 
 ## Historia
 Skąd drużyna wzięła Antikytherę, nie opisano w żadnej sesji. Wiadomo, że przed [[Sesja 22 - Taniec z Meduzą]] nie było jej w kajucie kapitana na statku [[Varkon|Varkona]], a w [[Sesja 23 - Nowe Przymierze]] [[Vallus]] zgodziła się go odnaleźć w nadziei, że ma ją przy sobie.

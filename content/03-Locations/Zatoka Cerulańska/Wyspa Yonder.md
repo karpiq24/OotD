@@ -9,14 +9,14 @@ aliases:
 Wyspa w Zatoce Cerulańskiej, dawna warownia [[Zakon Sydona|Zakonu Sydona]] ze świątynią i starożytną biblioteką na wzgórzu. Po [[Sesja 84 - Świt Nowej Ery|końcu wojny]] stoi niemal pusta i ma stać się siedzibą odbudowanego [[Smoczy Lordowie|Zakonu Smoczych Lordów]].
 
 ## Ciekawe Miejsca
-- **Twierdza Gyganów**: Zniszczona przez [[Estor Arkelander|Estora]]. <!-- UNSOURCED -->
+- **Twierdza Gyganów**: Zniszczona przez [[Estor Arkelander|Estora]].
 - **Świątynia [[Sydon|Sydona]] i biblioteka**: stoją na wzgórzu; u jego stóp rozłożył się obóz z namiotami, przez który płynie płytka, mętna rzeka-ściek. Biblioteka ma regały wysokie na kilkanaście metrów, uginające się pod tysiącami ksiąg, zwojów i pergaminów, a jej zbiory są zapisane m.in. na wypalanych glinianych tabliczkach w językach, których nikt już nie zna. Na dziedzińcu świątyni stoi statua z harpiami w klatce, a w stajni metaliczne byki.
 
 ## Mieszkańcy
 Po upadku [[Zakon Sydona|Zakonu Sydona]] została garstka zdezorientowanych ludzi i niedobitki fanatyków, którzy raczej wygrzewają się w słońcu, niż knują zemstę. Dawniej wyspę strzegły tysiące żołnierzy [[Sydon|Sydona]], kilku [[Gyganie|gyganów]], czasem smok oraz ruchome statuy-golemy z klatkami z harpiami zamiast głów; w obozie przetrzymywano zniewolone minotaury.
 
 ## Historia
-Miejsce masakry [[Gyganie|Gyganów]] dokonanej przez załogę [[Ultros]]. <!-- UNSOURCED -->
+Miejsce masakry [[Gyganie|Gyganów]] dokonanej przez załogę [[Ultros]].
 
 W [[Sesja 14 - Burza nad Mytros]] wspomniano o starożytnej bibliotece na Yonder, która mogła pomóc [[Arevon Elorrenthi|Arevonowi]] w odnalezieniu drogi do domu.
 

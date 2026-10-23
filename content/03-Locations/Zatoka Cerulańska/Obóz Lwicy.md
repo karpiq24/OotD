@@ -7,7 +7,7 @@ title: Obóz Lwicy
 _Obóz plemienia Amazonek "Lwice"._
 
 ## Opis
-Tymczasowy, dobrze ukryty obóz w głębi lasów [[Themis]], służący jako baza operacyjna dla plemienia "Lwic" pod dowództwem [[Hippolyta|Hippolyty]]. To stąd planowany był przewrót mający na celu obalenie uzurpatorki. <!-- UNSOURCED -->
+Tymczasowy, dobrze ukryty obóz w głębi lasów [[Themis]], służący jako baza operacyjna dla plemienia "Lwic" pod dowództwem [[Hippolyta|Hippolyty]]. To stąd planowany był przewrót mający na celu obalenie uzurpatorki.
 
 Obóz znajduje się na wschodzie wyspy Themis.
 

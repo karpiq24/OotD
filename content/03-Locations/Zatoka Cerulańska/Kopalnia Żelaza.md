@@ -13,7 +13,7 @@ Kopalnia Żelaza to rozległy kompleks tuneli wydrążonych w górach [[Wyspa In
 Kopalnia jest domem i miejscem pracy dla [[Plemię Wieloryba|Plemienia Wieloryba]] (krasnoludów).
 
 ## Historia
-Przez długi czas krasnoludy wydobywały tu żelazo w spokoju. <!-- UNSOURCED -->
+Przez długi czas krasnoludy wydobywały tu żelazo w spokoju.
 
 W [[Sesja 43 - Kopalnia Żelaza]] kopalnię zajęła miedziana smoczyca [[Ventis]], która uczyniła z niej swoje leże. Wejścia strzegła armia wiewiórek i krab uzbrojony w sztylet, a wnętrza patrolowały wodne żywiołaki i żywe pioruny, z którymi starli się bohaterowie. Ventis przetrzymywała tu również [[Brenna|Brennę]], córkę wodza [[Delg|Delga]], zmuszając go tym do posłuszeństwa.
 

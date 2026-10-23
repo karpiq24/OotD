@@ -13,7 +13,7 @@ _Rękawice, Rzadki (Wymaga dostrojenia)_
 Magiczne rękawice znalezione w [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]], noszone odtąd przez [[Versir|Versira]] — w kampanii nazywane po prostu **Rękawicą Versira**. Na jej powierzchni znajdują się wgłębienia (kliny), z których każde może przyjąć jeden kryształ; puste czekają na kolejne dusze.
 
 ## Właściwości
-Przedmiot kluczowy dla [[Versir|Versira]]. Został on poinstruowany przez [[Versi|Wyrocznię]], aby odnalazł ten artefakt. <!-- UNSOURCED -->
+Przedmiot kluczowy dla [[Versir|Versira]]. Został on poinstruowany przez [[Versi|Wyrocznię]], aby odnalazł ten artefakt.
 
 Rękawica służy jako naczynie dla esencji **Zaginionych Tytanów** — każda przyjęta dusza wypełnia jedno wgłębienie kryształem i wzmacnia nosiciela w walce. Wibruje w pobliżu tytanicznych dusz i podpowiada właścicielowi głosami tych, które już w sobie mieści. Chroni też dłoń: raz wyłoniła się z niej gigantyczna płonąca dłoń, która osłoniła [[Versir|Versira]] przed lawą.
 

@@ -7,7 +7,7 @@ title: Wyspa Złotego Serca
 Niewielka, skalista wyspa w Zatoce Cerulańskiej z czerwonym jeziorem na środku, na której rośnie [[Drzewo Serca]]. Żyje na niej stado jeleni, bujna roślinność, złoty baran i lwy, w tym jeden złoty.
 
 ## Ciekawe Miejsca
-- **[[Drzewo Serca]]**: Przemienione serce Bogini Matki Thylei. <!-- UNSOURCED -->  Ogromne drzewo otoczone kamiennymi dłońmi.
+- **[[Drzewo Serca]]**: Przemienione serce Bogini Matki Thylei.  Ogromne drzewo otoczone kamiennymi dłońmi.
 - **Czerwone jezioro**: krew tysiąca bazyliszków, która zamieniła w kamień dwoje z rodzeństwa [[Lutheria|Lutherii]].
 
 ## Historia

@@ -10,10 +10,9 @@ _Broń Tytanów, Legendarne_
 Straszliwa, potężna, czarna glewia dzierżona przez [[Sydon|Sydona]], Pana Burz i Władcę Oceanów. Po jego śmierci porzucona, trafiła pod opiekę [[Versir|Versira]].
 
 ## Właściwości
-Zadaje potężne obrażenia od cięć i burzy. Trafienie tą bronią może nałożyć na cel stan ogłuszenia (Stunned). <!-- UNSOURCED -->
+Zadaje potężne obrażenia od cięć i błyskawic.
 
 ## Historia
-Broń ta była dzierżona przez [[Sydon|Sydona]] od czasów przed Pierwszą Wojną. <!-- UNSOURCED -->
 
 Podczas upadku [[Praxys]] Glewia Sydona zakończyła życie legendarnego wojownika [[Telamok Arkelander|Telamoka Arkelandera]] — [[Arevon Elorrenthi|Arevon]] zobaczył to we wspomnieniu w [[Sesja 70 - Audiencja u Pani Snów]]. Tam też [[Lutheria]] zaoferowała oddanie swojej [[Kryształowa Kosa Lutherii|Kosy]] z uwięzionymi duszami w zamian za glewię i głowę Sydona.
 

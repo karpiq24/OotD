@@ -7,7 +7,7 @@ title: Kaplica Płodności
 _Kaplica w lesie na [[Themis]]._
 
 ## Opis
-Starożytne miejsce kultu ukryte w gęstwinie leśnej, poświęcone płodności i naturze. <!-- UNSOURCED -->
+Miejsce kultu w lesie na wyspie [[Themis]], poświęcone płodności.
 
 Kaplica leży w lesie na Themis i była miejscem, w którym mieszkała [[Yala]].
 

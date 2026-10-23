@@ -7,12 +7,12 @@ title: Młot Pythora
 _Broń (Młot bojowy), Artefakt_
 
 ## Opis
-Młot Pythora to potężny artefakt wykonany przez Volkana, Boga Kowali, w Mitycznej Kuźni (Mithral Forge). Jest to broń godna boga wojny. <!-- UNSOURCED -->
+Młot Pythora to potężny artefakt [[Pythor|Pythora]], Boga Bitwy.
 
 ## Właściwości
-Jako broń stworzona przez boga, posiada potężne właściwości magiczne, choć dokładne statystyki mogą wymagać identyfikacji. W rękach Pythora był narzędziem zagłady. <!-- UNSOURCED -->
+Pozwala raz dziennie przywołać młot do ręki z dowolnej odległości, a używany w kuźni skraca o połowę czas wytwarzania magicznej broni i zbroi.
 
 ## Historia
-Pythor używał tego młota podczas Pierwszej Wojny, niszcząc nim całe armie gyganów, centaurów i cyklopów. Przez wieki spoczywał w Estorii. <!-- UNSOURCED -->
+Przez wieki spoczywał w [[Estoria|Estorii]], przy tronie [[Pythor|Pythora]].
 
 W [[Sesja 7 - Uratować Księżniczkę]], po uratowaniu córki [[Pythor|Pythora]], [[Anora|Anory]], [[Orion Xul]] otrzymał młot od Pythora.

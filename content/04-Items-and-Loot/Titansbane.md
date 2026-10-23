@@ -7,7 +7,7 @@ title: Titansbane
 _Niedokończone ostrze zdolne unicestwić duszę boga, wykute przeciw Sydonowi; po wojnie zwrócone [[Hexia|Hexii]]. Zob. też [[Zguba Tytanów]]._
 
 ## Opis
-Ostrze wykute przez [[Talieus Pierwszy|Talieusa]] na prośbę [[Versi Pierwsza|Versi]], która poświęciła cząstkę siebie, by dać mu moc dokonywania rzeczy niemożliwych. <!-- UNSOURCED -->
+Ostrze wykute przez [[Talieus Pierwszy|Talieusa]] na prośbę [[Versi Pierwsza|Versi]], która poświęciła cząstkę siebie, by dać mu moc dokonywania rzeczy niemożliwych.
 
 Według wizji z [[Sesja 56 - Dedal i Ikar]] Versi przewidziała nadchodzącą ciemność i jeszcze przed zdradą Tytanów błagała Talieusa, mistrza rzemiosła, o broń, która nie tylko złamie ciało boga, ale unicestwi samą jego duszę. Miecz zawiera cząstkę duszy matki [[Versir|Versira]]; ukończył go [[Volkan]].
 

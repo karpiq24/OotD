@@ -7,15 +7,15 @@ title: Róg Balmytrii
 _Artefakt_
 
 ## Opis
-Prawdziwy smoczy róg, który słynny srebrny smok, [[Balmytria]], stracił w bitwie przeciwko gyganom. Jest wykonany ze srebra ze złotymi okuciami. <!-- UNSOURCED -->
+Prawdziwy smoczy róg, który słynny srebrny smok, [[Balmytria]], stracił w bitwie przeciwko gyganom.
 
 W [[Sesja 73 - Praxys - Skarbiec Sydona]] okazało się, że róg noszony przez [[Felicjan Janus Twardowski|Felicjana]] idealnie pasuje do ubytku w czaszce Balmytrii.
 
 ## Właściwości
-Posiada wiele magicznych mocy, w tym zdolność do udzielania wizji tym, którzy z niego piją. Picie z rogu po raz pierwszy wywołuje głęboki sen i wizję statku widmo. <!-- UNSOURCED -->
+Posiada wiele magicznych mocy, w tym zdolność do udzielania wizji tym, którzy z niego piją. Picie z rogu po raz pierwszy wywołuje głęboki sen i wizję statku widmo.
 
 ## Historia
-Został odnaleziony przez kapłanów [[Mytros]] i poświęcony przez Piątkę. Był przechowywany w relikwiarzu w smoczej kaplicy w [[Estoria|Estorii]]. Został skradziony przez goatlingi na rozkaz [[Demetria|Demetrii]], która chciała go wykorzystać do wykarmienia swoich sług. <!-- UNSOURCED -->
+Został odnaleziony przez kapłanów [[Mytros]] i poświęcony przez Piątkę. Był przechowywany w relikwiarzu w smoczej kaplicy w [[Estoria|Estorii]]. Został skradziony przez goatlingi na rozkaz [[Demetria|Demetrii]], która chciała go wykorzystać do wykarmienia swoich sług.
 
 W [[Sesja 2 - Przepowiednia]] wypicie z rogu zostało wskazane jako trzecie zadanie z przepowiedni [[Versi|Wyroczni]].
 

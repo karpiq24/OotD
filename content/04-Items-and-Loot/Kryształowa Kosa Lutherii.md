@@ -14,8 +14,6 @@ Rany zadane kosą wypijały z ofiary życie, którym [[Lutheria]] natychmiast le
 
 Uderzenie [[Zguba Tytanów|Zgubą Tytanów]] zdławiło zdolność bogini do sycenia się cudzym cierpieniem, wypalając w niej to, co dotąd zamykało każdą zadaną jej ranę.
 
-Rodzice [[Orestes|Orestesa]] mieli wołać do niego zza pękniętego zwierciadła. <!-- UNSOURCED -->
-
 ## Historia
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] kosa lewitowała za [[Lutheria|Lutherią]], a z jej wnętrza dobiegały głosy wołające o pomoc; [[Orestes]] rozpoznał w nich głosy swoich rodziców.
 

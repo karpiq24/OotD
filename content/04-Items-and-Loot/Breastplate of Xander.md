@@ -6,10 +6,10 @@ aliases:
 
 ![Placeholder](../assets/placeholder.webp)
 
-_Zbroja noszona niegdyś przez Smoczego Lorda Xandera._ <!-- UNSOURCED -->
+_Zbroja noszona niegdyś przez Smoczego Lorda Xandera._
 
 ## Opis
-Starożytna zbroja, która chroniła Xandera w walkach z Tytanami. <!-- UNSOURCED -->
+Starożytna zbroja, która osłabiała ataki tytanów.
 
 ## Właściwości
 Osłabia ataki Tytanów.

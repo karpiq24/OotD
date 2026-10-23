@@ -16,12 +16,12 @@ Wnętrze budowli to labirynt luster pokrywających ściany, podłogę i sufit. O
 ## Mieszkańcy
 Szczątki mosiężnego smoka [[Hezzebal]]a i jego jeźdźca [[Gregor Huorath|Gregora Huoratha]] spoczywały tu wraz ze skarbami Smoczych Lordów. Z szkieletu Hezzebala wyłonił się jego duch, strzegący skarbca i oskarżający Zakon o zdradę i porzucenie.
 
-Z czasem towarzystwa dotrzymywały mu jedynie echa jego własnego szaleństwa i odbicia w lustrach.<!-- UNSOURCED -->
+Z czasem lustra wypaczyły Hezzebala i doprowadziły go do szaleństwa.
 
 ## Historia
 Więzienie stało się miejscem spoczynku [[Gregor Huorath|Gregora Huoratha]] i jego wierzchowca, [[Hezzebal]]a, przed wiekami. [[Estor Arkelander|Estor]] wysłał ich tu, by ukryli [[Skarby Smoczych Lordów]].
 
-Specyficzna natura [[Morze Otchłani|Morza Otchłani]] oraz gniew i niedokończone sprawy sprawiły, że Hezzebal nie odszedł w zaświaty. Jego duch pozostał w piramidzie, strzegąc skarbów i popadając w zawiść wobec Smoczych Lordów, których winił za swój los.<!-- UNSOURCED -->
+Hezzebal pozostał w piramidzie, strzegąc skarbów i oskarżając Zakon o zdradę i porzucenie.
 
 W [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] duch Estora wskazał „dawne leże Krakena” jako miejsce, gdzie spoczywają szczątki Gregora i Hezzebala wraz ze skarbami Smoczych Lordów oraz jego dawny miecz.
 

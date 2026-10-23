@@ -7,7 +7,7 @@ image_prompt:
 
 _Ruchomy kram międzywymiarowego kupca, rozłożony na grzbiecie [[Wielki Żółw|Wielkiego Żółwia]]._
 
-Bazar [[Shazum|Shazuma]] pojawia się tam, gdzie zaniesie go żółw — czasem rozłożony wprost na skorupie, czasem unoszący się nad nią w powietrzu.<!-- UNSOURCED -->
+Bazar [[Shazum|Shazuma]] rozłożony jest na grzbiecie żółwia.
 
 Z pokładu statku wygląda jak niezaznaczona na mapach wysepka. Shazum przedstawił się jako podróżnik między światami, oferujący cuda z najdalszych zakątków multiwersum.
 

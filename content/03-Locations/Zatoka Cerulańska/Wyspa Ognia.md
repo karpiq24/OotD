@@ -7,7 +7,7 @@ title: Wyspa Ognia
 Wyspa wulkaniczna w Zatoce Cerulańskiej, zdominowana przez potężny wulkan. W jego kalderze leży wioska jaszczuroludzi, podzielonych na dwa wrogie plemiona: [[Łamacze Fal]] oraz [[Chodzący w Ogniu]].
 
 ## Historia
-Miejsce, gdzie schroniła się [[Chalcia Pierwsza|Chalcia]] przed Sydonem i Lutherią. Została tam uwięziona wewnątrz wulkanu. <!-- UNSOURCED -->
+Miejsce, gdzie schroniła się [[Chalcia Pierwsza|Chalcia]] przed Sydonem i Lutherią. Została tam uwięziona wewnątrz wulkanu.
 
 W [[Sesja 36 - Królowa, Dziedzic i Generał]] uwolniony cyklop wskazał Wyspę Ognia jako cel podróży Ultrosa.
 

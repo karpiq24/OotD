@@ -9,12 +9,12 @@ aliases:
 _Magiczne owoce z Drzewa Serca_
 
 ## Opis
-Owoce przypominające jabłka, ale lśniące złotem. <!-- UNSOURCED -->
+Owoce przypominające jabłka, ale lśniące złotem.
 
 Rosną na [[Drzewo Serca|Drzewie Serca]] na [[Wyspa Złotego Serca|Wyspie Złotego Serca]].
 
 ## Właściwości
-Mają potężne właściwości lecznicze. Mówi się, że potrafią uleczyć każdą chorobę. <!-- UNSOURCED -->
+Mają potężne właściwości lecznicze. Mówi się, że potrafią uleczyć każdą chorobę.
 
 Sternik małego stateczku, [[Laios]], prosił drużynę o pomoc w zdobyciu owoców, które miały uzdrowić jego chorą żonę.
 

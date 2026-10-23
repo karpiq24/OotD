@@ -7,7 +7,7 @@ title: Zguba Tytanów (Titansbane)
 _Weapon (longsword), legendary (requires attunement)_
 
 ## Opis
-Zguba Tytanów to potężny, czarny miecz, który zdaje się pochłaniać światło. <!-- UNSOURCED -->
+Zguba Tytanów to potężny, czarny miecz, który zdaje się pochłaniać światło.
 
 Został wykuty przez [[Talieus Pierwszy|Talieusa]] i jest bronią o własnej świadomości, o potencjale kruszenia boskich dusz. Ukończył go [[Volkan]], a nosił [[Versir]]. Po śmierci [[Sydon|Sydona]] i [[Lutheria|Lutherii]] Versir zwrócił miecz [[Hexia|Hexii]], jak jej obiecał. Zob. też [[Titansbane]].
 
@@ -16,15 +16,15 @@ Został wykuty przez [[Talieus Pierwszy|Talieusa]] i jest bronią o własnej św
 ### Legenda Stworzenia
 Historia miecza sięga czasów przed Zdradą Tytanów. Według wizji z [[Sesja 56 - Dedal i Ikar]] **[[Versi|Versi Pierwsza]]** przewidziała nadchodzącą ciemność i udała się do **[[Talieus|Talieusa]]**, Mistrza Rzemiosła pośród Tytanów. Błagała go, by wykuł broń zdolną nie tylko złamać ciało boga, ale unicestwić samą jego duszę.
 
-Talieus rozpoczął pracę, tworząc **Titansbane** – "śpiącego boga zniszczenia". <!-- UNSOURCED -->
+Talieus rozpoczął pracę, tworząc **Titansbane** – "śpiącego boga zniszczenia".
 
 ### Nieudane Próby
-Miecz był używany w wojnach przeciwko Tytanom, ale nigdy nie został ukończony, co przesądziło o losach jego posiadaczy: <!-- UNSOURCED -->
+Miecz był używany w wojnach przeciwko Tytanom, ale nigdy nie został ukończony, co przesądziło o losach jego posiadaczy:
 
 1.  **[[Hergeron]]**: Próbował władać nim przeciwko [[Sydon|Sydonowi]]. Choć zranił Pana Burz, nie zdołał oddzielić jego duszy od świata (wizja z [[Sesja 56 - Dedal i Ikar]]).
 2.  **[[Ochos Arkelander]]**: Jeździec smoczycy [[Hexia|Hexii]]. Razem zaatakowali Sydona podczas wielkiego sztormu. Ciemne ostrze trafiło Tytana w pierś, zadając mu ból „psychiczny i fizyczny", ale rana się zasklepiła. Sydon, wściekły, uderzył Ochosa czarnym piorunem z morza, zabijając go na miejscu (wizja z [[Sesja 56 - Dedal i Ikar]]).
 
-Ochos był ostatnim Smoczym Lordem, który dzierżył miecz. <!-- UNSOURCED -->
+Ochos był ostatnim Smoczym Lordem, który dzierżył miecz.
 
 ### Wizja Arevona (Sesja 64)
 W [[Sesja 56 - Dedal i Ikar]] [[Arevon Elorrenthi|Arevon]] przeżył wizję oczami Hexii, a w [[Sesja 64 - Pieśń dla Smoczycy]] **[[Felicjan Janus Twardowski|Felicjan]]** użył zaklęcia czytania myśli, by wejrzeć w umysł **[[Arevon Elorrenthi|Arevona]]**, który nosił w sobie piętno tej wizji. Elf i czarodziej doświadczyli wspomnienia smoczycy:

@@ -9,7 +9,7 @@ image_prompt:
 
 _Prastary, gigantyczny żółw morski, którego grzbiet uchodzi za wyspę._
 
-Stworzenie tak wielkie, że z pokładu statku jego grzbiet wygląda jak niezaznaczona na żadnej mapie wysepka. Prastary i powolny, przemierza [[Zapomniane Morze]], nosząc na sobie to, co ludzie zdążą na nim postawić.<!-- UNSOURCED -->
+Stworzenie tak wielkie, że z pokładu statku jego grzbiet wygląda jak niezaznaczona na żadnej mapie wysepka. Prastary żółw morski.
 
 ## Ciekawe Miejsca
 - **[[Wędrowny Bazar Shazuma]]**: Kram międzywymiarowego kupca [[Shazum|Shazuma]], rozłożony wprost na skorupie żółwia.

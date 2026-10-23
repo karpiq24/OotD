@@ -6,10 +6,10 @@ title: Zatoka Cerulańska
 
 Zatoka z rozsianymi wyspami, w tym [[Wyspa Złotego Serca|Wyspą Złotego Serca]] i [[Wyspa Yonder|Yonder]].
 
-Plemiona barbarzyńców żyją na jej wyspach. Są postrzegani jako niebezpieczni na równi z plemionami [[Centaur z Thylei|centaurów]]. <!-- UNSOURCED -->
+Plemiona barbarzyńców żyją na jej wyspach.
 
 ## Historia
-Obszar działań [[Estor Arkelander|Estora Arkelandera]]. <!-- UNSOURCED -->
+Obszar działań [[Estor Arkelander|Estora Arkelandera]].
 
 W [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] po zatoce gnał wiatr burzy wywołanej przez [[Sydon|Sydona]]. W [[Sesja 54 - Wyznanie Chondrusa]] [[Ultros]] płynął nią w drodze powrotnej do [[Mytros]].
 

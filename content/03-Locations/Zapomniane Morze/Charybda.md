@@ -11,9 +11,9 @@ _Gigantyczny wir wodny na krańcu znanego świata, stanowiący śmiertelne zagro
 ## Opis
 Charybda to potężny, nieskończony wir morski na krańcu znanego świata, tworzony przez gigantyczne, kamienne dłonie wyłaniające się z oceanu, które metodycznie mieszają wodę. Wir jest bramą prowadzącą do [[Morze Otchłani|Morza Otchłani]]: wpłynięcie w jego środek jest aktem szaleństwa — prawa fizyki przestają obowiązywać, a góra staje się dołem.
 
-Początkowo wydawała się jedynie zagrożeniem nawigacyjnym.<!-- UNSOURCED -->
+Początkowo wydawała się jedynie zagrożeniem nawigacyjnym.
 
-Kamienne dłonie to prawdopodobnie dłonie [[Kentimane]] lub jego manifestacje.<!-- UNSOURCED -->
+Kamienne dłonie to prawdopodobnie dłonie [[Kentimane]] lub jego manifestacje.
 
 ## Historia
 W [[Sesja 18 - Cienie Mytros]] [[Arevon Elorrenthi|Arevon]] usłyszał na Rybim Targu o statku z [[Arezja|Arezji]], pełnym młodych mnichów wojowników, który został wciągnięty przez wir Charybda w drodze na [[Wyspa Skorpiona|Wyspę Skorpionów]].

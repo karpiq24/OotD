@@ -10,7 +10,7 @@ Wyspa położona w Zatoce Cerulańskiej, znana z wielkich skorpionów oraz miesz
 
 ## Ciekawe Miejsca
 - **[[Wieża Wiedźmy Lotosu]]**: Wieża otoczona polem kwiatów lotosu, gdzie czas płynie w zawrotnym tempie.
-- **Obóz Arezyjczyków**: Tymczasowy obóz wojowników z Arezji, nadzorujących rytuał inicjacji. <!-- UNSOURCED -->
+- **Obóz Arezyjczyków**: Tymczasowy obóz wojowników z Arezji, nadzorujących rytuał inicjacji.
 
 ## Mieszkańcy
 - [[Wiedźma Lotosu]]

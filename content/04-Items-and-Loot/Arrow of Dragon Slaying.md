@@ -10,7 +10,7 @@ _Magiczna strzała przeznaczona do zabijania smoków._
 Pojedyncza magiczna strzała, zaklęta specjalnie do polowania na smoki.
 
 ## Właściwości
-Trafienie smoka tą strzałą zadaje dodatkowe potężne obrażenia — o ile zdoła przebić łuski. <!-- UNSOURCED -->
+Trafienie smoka tą strzałą zadaje dodatkowe potężne obrażenia — o ile zdoła przebić łuski.
 
 ## Historia
 Strzała była szczególnym reliktem kołczana [[Orestes|Orestesa]].

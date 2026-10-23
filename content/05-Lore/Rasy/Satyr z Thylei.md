@@ -5,13 +5,13 @@ aliases:
   - Satyry
 ---
 
-Satyry to rasa fey z ciałem kozła od pasa w dół. Kochają muzykę, wino i przyjemności cielesne. <!-- UNSOURCED -->
+Satyry to rasa fey z ciałem kozła od pasa w dół. Kochają muzykę, wino i przyjemności cielesne.
 
 ## Culture (Kultura)
-Są hedonistami, chcącymi doświadczyć każdej emocji z wyjątkiem nudy. W przeciwieństwie do centaurów, satyry mają dobre relacje z cywilizowanymi rasami i często odwiedzają miasta dla wina i muzyki. Są jednak traktowani podejrzliwie z powodu legend o uwodzeniu i deprawacji. <!-- UNSOURCED -->
+Są hedonistami, chcącymi doświadczyć każdej emocji z wyjątkiem nudy. W przeciwieństwie do centaurów, satyry mają dobre relacje z cywilizowanymi rasami i często odwiedzają miasta dla wina i muzyki. Są jednak traktowani podejrzliwie z powodu legend o uwodzeniu i deprawacji.
 
 ## Goat Men (Ludzie-Kozły)
-Często golą futro na torsach. Ich rogi mogą być małe lub ogromne. Imiona czerpią z legend i mitów. <!-- UNSOURCED -->
+Często golą futro na torsach. Ich rogi mogą być małe lub ogromne. Imiona czerpią z legend i mitów.
 
 ## Historia
 - [[Sesja 59 - Koniec Imprezy]]: satyrowie tańczyli w tłumie w fortecy [[Talieus|Talieusa]].

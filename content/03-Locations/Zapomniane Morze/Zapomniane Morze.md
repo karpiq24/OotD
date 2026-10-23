@@ -13,7 +13,7 @@ _Domena wroga, do której serca poprowadzić bohaterów mieli [[Ultros]] i [[Ant
 - [[Typhon]]: wulkaniczna wyspa z bramą do [[Hades|Hadesu]]
 
 ## Historia
-Wspomniane w liście Sydona w kontekście "sekretnych ścieżek". <!-- UNSOURCED -->
+Wspomniane w liście Sydona w kontekście "sekretnych ścieżek".
 
 W [[Sesja 54 - Wyznanie Chondrusa]] [[Ultros]] i [[Antikythera]] mieli poprowadzić bohaterów do serca domeny wroga. Podczas podróży opisanej w [[Sesja 56 - Dedal i Ikar]] załoga Ultrosa przemierzała bezkresne, niezbadane wody Zapomnianego Morza.
 

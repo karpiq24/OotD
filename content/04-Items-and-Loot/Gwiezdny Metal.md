@@ -12,7 +12,7 @@ _Materiał Rzemieślniczy, Rzadki_
 
 Gwiezdny Metal (Star Metal) to niezwykle rzadki i cenny surowiec, występujący w postaci rudy i odłamków rozrzuconych po [[Thylea|Thylei]]; jedna z jego brył to fragment meteorytu.
 
-Jest to materiał o niezwykłej wytrzymałości i właściwościach magicznych, pożądany przez kowali i czarodziejów do tworzenia potężnych artefaktów. <!-- UNSOURCED -->
+Jest to rzadki i cenny materiał, używany do tworzenia magicznych przedmiotów.
 
 Zgodnie z odkryciami dokonanymi na [[Wyspa Złotego Serca|Wyspie Złotego Serca]], w odłamkach tego metalu uwięziona jest rozbita dusza Tytanki [[Versi Pierwsza|Versi Pierwszej]], prorokini, która została zniszczona przez meteoryt sprowadzony przez [[Lutheria|Lutherię]]. Ruda wchłonięta przez [[Versir|Versira]] w [[Sesja 57 - Ogród Heliosa]] nie jest już osobnym przedmiotem — jej moc wtopiła się w jego duszę.
 

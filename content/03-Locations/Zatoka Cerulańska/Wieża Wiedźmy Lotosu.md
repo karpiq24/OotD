@@ -15,7 +15,7 @@ Wysoka wieża zamieszkana przez [[Wiedźma Lotosu|Wiedźmę Lotosu]], stojąca n
 - Dzieci
 
 ## Historia
-Drzwi wieży otworzyły się przed bohaterami same. <!-- UNSOURCED -->
+Drzwi wieży otworzyły się przed bohaterami same.
 
 W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] bohaterowie dotarli do wieży, doświadczając zakrzywień czasu na polach lotosu.
 
