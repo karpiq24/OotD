@@ -5,7 +5,7 @@ image_prompt:
 
 ![Placeholder](../assets/placeholder.png)
 
-Oniryczna domena [[Lutheria|Lutherii]], Pani Snów — jej dom i jej zasady. Nie jest to miejsce w zwykłym rozumieniu: nie ma tu podłoża, a mimo to nikt nie spada, a wokół kłębi się nieskończona przestrzeń bąbli — światów, wspomnień i koszmarów — fioletowych, złotych, krwistoczerwonych i zielonych jak zaraza. Widziane z wnętrza niebo przybiera barwy krwistej czerwieni i chorobliwej, zaraźliwej zieleni, a grunt pod stopami jest miękki i nieszczery.
+Oniryczna domena [[Lutheria|Lutherii]], Pani Snów — jej dom i jej zasady; po śmierci bogini już nie istnieje. Nie jest to miejsce w zwykłym rozumieniu: nie ma tu podłoża, a mimo to nikt nie spada, a wokół kłębi się nieskończona przestrzeń bąbli — światów, wspomnień i koszmarów — fioletowych, złotych, krwistoczerwonych i zielonych jak zaraza. Widziane z wnętrza niebo przybiera barwy krwistej czerwieni i chorobliwej, zaraźliwej zieleni, a grunt pod stopami jest miękki i nieszczery.
 
 Bogini może wciągnąć do swojej domeny tych, z którymi walczy, przenosząc starcie na własne warunki. Wewnątrz otacza się identycznymi projekcjami samej siebie, a przestrzeń poddaje się jej woli — potrafi ją wypaczyć tak, by dowolnie przerzucać przeciwników z miejsca na miejsce.
 
@@ -13,7 +13,7 @@ Bogini może wciągnąć do swojej domeny tych, z którymi walczy, przenosząc s
 - **Krąg Odbić**: unoszące się w kręgu kopie [[Lutheria|Lutherii]], każda z [[Kryształowa Kosa Lutherii|kryształową kosą]], każda uśmiechnięta tym samym uśmiechem, przemawiające naraz jednym głosem rozszczepionym na wiele.
 
 ## Mieszkańcy
-[[Lutheria]] i jej odbicia. Domena jest z nią nierozerwalnie związana — nie przetrwała jej śmierci.
+[[Lutheria]] i jej odbicia. Domena była z nią nierozerwalnie związana i załamała się wraz z ostatnim odbiciem bogini.
 
 ## Historia
 W [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów]] [[Lutheria]] wciągnęła [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] do Świata Snów w środku walki na [[Targ Minotaurów|Targu Minotaurów]], otaczając się siedmioma identycznymi sylwetkami. [[Klonicjan]] wraz z [[Kolos Pythora|Kolosem Pythora]] nie przeszedł do onirycznej domeny i został po drugiej stronie.
