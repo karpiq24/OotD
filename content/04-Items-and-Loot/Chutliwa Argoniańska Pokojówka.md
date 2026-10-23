@@ -4,13 +4,13 @@ title: Chutliwa Argoniańska Pokojówka
 
 ![Placeholder](../assets/placeholder.webp)
 
-_Tomik o wątpliwej wartości literackiej, lecz dużej wartości rozrywkowej._
+_Tomik o wątpliwej wartości literackiej, lecz dużej wartości rozrywkowej._ <!-- UNSOURCED -->
 
 ## Opis
-Książka "pożyczona" przez [[Felicjan Janus Twardowski|Felicjana]] z wozu zmierzającego do Biblioteki Yonder. 
+Książka "pożyczona" przez [[Felicjan Janus Twardowski|Felicjana]] z wozu zmierzającego do Biblioteki Yonder.
 
 ## Treść
-Zawiera pikantne opowieści o argoniańskiej pokojówce. Popularna literatura wśród żołnierzy.
+Zawiera pikantne opowieści o argoniańskiej pokojówce. Popularna literatura wśród żołnierzy. <!-- UNSOURCED -->
 
 ## Historia
 Zdobyta w [[Sesja 51 - Desant na Yonder]].

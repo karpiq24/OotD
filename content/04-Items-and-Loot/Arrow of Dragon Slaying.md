@@ -10,9 +10,9 @@ _Magiczna strzała przeznaczona do zabijania smoków._
 Pojedyncza magiczna strzała, zaklęta specjalnie do polowania na smoki.
 
 ## Właściwości
-Trafienie smoka tą strzałą zadaje dodatkowe potężne obrażenia — o ile zdoła przebić łuski.
+Trafienie smoka tą strzałą zadaje dodatkowe potężne obrażenia — o ile zdoła przebić łuski. <!-- UNSOURCED -->
 
 ## Historia
-Strzała znajduje się w kołczanie [[Orestes|Orestesa]].
+Strzała była szczególnym reliktem kołczana [[Orestes|Orestesa]].
 
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] barbarzyńca wystrzelił ją w zmutowanego [[Icarus|Icarusa]] na arenie [[Stadion Mytros|kolosseum]]. Strzała trafiła w łuskę bestii, lecz nie zdołała się przebić i odbiła się bezsilnie, opadając na piasek.
