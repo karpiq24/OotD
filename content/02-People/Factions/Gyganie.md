@@ -4,7 +4,7 @@ title: Gyganie
 
 ![Gyganie](../../assets/placeholder.webp)
 
-_Jednookie, sześciorękie olbrzymy, niegdyś władcy własnego imperium, w kampanii słudzy Sydona._
+_Jednookie, sześciorękie olbrzymy, niegdyś władcy własnego imperium, w czasie wojny z Tytanami słudzy Sydona._
 
 ## Opis
 Potężna rasa zamieszkująca Thyleę przed przybyciem Smoczych Lordów, mająca własne Imperium. Gyganie to giganci o jednym centralnym oczodole i sześciu ramionach ([[Sesja 47 - Wyspa Mojr]]). Byli ulubionym ludem Sydona. Ruiny tego imperium można znaleźć na niezliczonych wyspach [[Zatoka Cerulańska|Zatoki Cerulańskiej]].
@@ -12,10 +12,10 @@ Potężna rasa zamieszkująca Thyleę przed przybyciem Smoczych Lordów, mająca
 Nieliczni ocalali gyganie służyli w siłach [[Zakon Sydona|Zakonu Sydona]] i w armii [[Sydon|Sydona]]: strzegli obozów, świątyni i biblioteki na [[Wyspa Yonder|Yonder]], pełnili wartę w Praxys, a w Bitwie o Mytros walczyli po jego stronie. Byli to wieloręcy giganci o nienaturalnej sile, umiejący latać ([[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]]).
 
 ## Cele
-Dawniej zemsta na osadnikach. W kampanii służyli Sydonowi; po jego śmierci w [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] ich dalsze losy nie są opisane.
+Dawniej zemsta na osadnikach. W czasie wojny z Tytanami służyli Sydonowi; po jego śmierci w [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] ich dalsze losy pozostają nieznane.
 
 ## Siedziba
-Dawniej rozproszeni po wyspach [[Zatoka Cerulańska|Zatoki Cerulańskiej]]. W kampanii mieli koszary w [[Praxys]] na piętrze Heavens, gdzie trenowali w sali treningowej ([[Sesja 74 - Matka Smoków]]), oraz posterunki na Yonder.
+Dawniej rozproszeni po wyspach [[Zatoka Cerulańska|Zatoki Cerulańskiej]]. W czasie wojny z Tytanami mieli koszary w [[Praxys]] na piętrze Heavens, gdzie trenowali w sali treningowej ([[Sesja 74 - Matka Smoków]]), oraz posterunki na Yonder.
 
 ## Członkowie
 Jednookie, sześciorękie olbrzymy. Do ich szeregów należał m.in. Gygan-mag, który w Praxys ciskał zaklęcia z trzech kierunków i został pożarty przez [[Nephele (Smok)|Nephele]] ([[Sesja 75 - Koniec Przysięgi]]).

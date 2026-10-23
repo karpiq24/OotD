@@ -12,7 +12,7 @@ _Tkaczki ludzkiego losu. Po wojnie ich krosna stały puste, a [[Versir]] szukał
 Trzy starożytne istoty, które plotą nici przeznaczenia: [[Morta]], [[Decima]] i [[Nona]], zwane Paniami Losu ([[Sesja 47 - Wyspa Mojr]], [[Sesja 48 - Pakty z Mojrami i Zew Chimery]]). Do Thylei sprowadziła je sama [[Thylea]], Matka Bogini, by strzegły nici losu; później uznały, że należy im się za to zapłata. Targują się i potrafią odebrać to, czego normalnie nie można oddać (nadzieje, miłość, dumę) lub zlecić zadanie podważające moralność. Oferują pakty: potęgę w zamian za cenne rzeczy, takie jak szczęście, ostatni oddech, zdrowie, szybkość, życie czy fragment duszy.
 
 ## Cele
-Przędzenie nici losu. W kampanii sprzyjały Tytanom i sprzedawały swoje usługi za cenę ([[Sesja 47 - Wyspa Mojr]]).
+Przędzenie nici losu. W czasie wojny z Tytanami sprzyjały Tytanom i sprzedawały swoje usługi za cenę ([[Sesja 47 - Wyspa Mojr]]).
 
 ## Siedziba
 [[Wyspa Mojr]] (Głębiny Thylei). Mieszkają w jaskini z kotłem, krosnem i podejrzanie żółtym jeziorem; siedziba roi się od bestii, które niegdyś były śmiertelnikami łamiącymi słowo ([[Sesja 47 - Wyspa Mojr]]).

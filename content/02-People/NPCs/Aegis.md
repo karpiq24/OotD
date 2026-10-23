@@ -4,7 +4,7 @@ title: Aegis
 
 ![Aegis](../../assets/sessions/039/039_aegis.webp)
 
-_Tajemniczy starzec znaleziony w brzuchu martwego wieloryba. Po [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] nie ma o nim w kampanii więcej wzmianek._
+_Tajemniczy starzec znaleziony w brzuchu martwego wieloryba. Po [[Sesja 39 - Tajemnice Wyspy Złotego Serca]] jego dalsze losy pozostają nieznane._
 
 ## Opis
 Dziwaczny starzec, niezwykle zwinny jak na swój wiek — wszedł na statek zwinnymi ruchami. Znaleziony wewnątrz gnijącego wieloryba.

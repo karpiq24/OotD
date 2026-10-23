@@ -10,7 +10,7 @@ aliases:
 _Rękawice, Rzadki (Wymaga dostrojenia)_
 
 ## Opis
-Magiczne rękawice znalezione w [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]], noszone odtąd przez [[Versir|Versira]] — w kampanii nazywane po prostu **Rękawicą Versira**. Na jej powierzchni znajdują się wgłębienia (kliny), z których każde może przyjąć jeden kryształ; puste czekają na kolejne dusze.
+Magiczne rękawice znalezione w [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]], noszone odtąd przez [[Versir|Versira]] — przez drużynę nazywane po prostu **Rękawicą Versira**. Na jej powierzchni znajdują się wgłębienia (kliny), z których każde może przyjąć jeden kryształ; puste czekają na kolejne dusze.
 
 ## Właściwości
 Przedmiot kluczowy dla [[Versir|Versira]]. Został on poinstruowany przez [[Versi|Wyrocznię]], aby odnalazł ten artefakt.

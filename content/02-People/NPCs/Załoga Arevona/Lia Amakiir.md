@@ -7,7 +7,7 @@ image_prompt: "A female wood elf fighter with coppery skin and sharp emerald gre
 
 ![Lia Amakiir](../../../assets/people/lia_amakiir.webp)
 
-_Wojowniczka z załogi Arevona, pochodząca z Sharn w Eberronie. Po kampanii odpłynęła do Eberronu._
+_Wojowniczka z załogi Arevona, pochodząca z Sharn w Eberronie. Po wojnie odpłynęła do Eberronu._
 
 ## Opis
 **Lia Amakiir** to elfka leśna o miedzianej skórze i przenikliwym spojrzeniu zielonych oczu. W przeciwieństwie do wielu swoich pobratymców, wychowała się w metropolii Sharn (Breland), co nadało jej miejskiego sznytu i praktycznego podejścia do walki. Jako wojowniczka specjalizuje się w walce łukiem oraz szybkimi ostrzami, łącząc elficką grację z bezwzględnością niezbędną do przetrwania na ulicach Miasta Wież.

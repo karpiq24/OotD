@@ -20,4 +20,4 @@ W [[Sesja 16 - Świątynia Lutherii]] kanały posłużyły drużynie jako drugie
 
 W [[Sesja 19 - Pojedynek z Rozpruwaczem]] [[Maximus]] zgodził się na spotkanie w kanałach, gdzie drużyna zastawiła na niego pułapkę, a w [[Sesja 20 - Noc Długich Rogów]] poległ on tam wraz z dwoma ochroniarzami.
 
-W [[Sesja 84 - Świt Nowej Ery]] zamknięto (nie rozwiązując) jedną z najstarszych zagadek kampanii: niebieskiej tiefling, której bohaterowie szukali przez pół kampanii, nigdy nie znaleźli i nigdy już nie znajdą — a kryła się za kolejnymi drzwiami w Kanałach, tymi, przez które nie odważyli się kiedyś przejść.
+W [[Sesja 84 - Świt Nowej Ery]] zamknięto (nie rozwiązując) jedną z najstarszych zagadek wyprawy bohaterów: niebieskiej tiefling, której bohaterowie szukali przez pół wyprawy, nigdy nie znaleźli i nigdy już nie znajdą — a kryła się za kolejnymi drzwiami w Kanałach, tymi, przez które nie odważyli się kiedyś przejść.

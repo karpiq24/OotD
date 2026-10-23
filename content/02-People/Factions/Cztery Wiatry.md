@@ -4,7 +4,7 @@ title: Cztery Wiatry
 
 ![Placeholder](../../assets/placeholder.webp)
 
-_Legendarna grupa czterech bardów-posłańców. W czasie kampanii żył już tylko jeden z nich, [[Boreas]]._
+_Legendarna grupa czterech bardów-posłańców. W czasach Bohaterów Przepowiedni żył już tylko jeden z nich, [[Boreas]]._
 
 ## Opis
 Legendarna grupa czterech bardów-posłańców, którzy złożyli przysięgę braterstwa, by szerzyć idee pokoju w całej Thylei.
@@ -17,7 +17,7 @@ Brak stałej siedziby. Działali w całej Thylei.
 
 ## Członkowie
 Grupa składała się z czterech istot: [[Kyrah]] (jako Notos) i trzech [[Nimfa z Thylei|Fey]]:
-- **[[Boreas]]** (Północny Wiatr Zimy) – szerzył mądrość wśród centaurów na [[Wielkie Stepy|Wielkich Stepach]]; w czasie kampanii ostatni z Czterech Wiatrów.
+- **[[Boreas]]** (Północny Wiatr Zimy) – szerzył mądrość wśród centaurów na [[Wielkie Stepy|Wielkich Stepach]]; w czasach Bohaterów Przepowiedni ostatni z Czterech Wiatrów.
 - **[[Zephyrus]]** (Zachodni Wiatr Wiosny) – niósł umiarkowanie na wyspy zachodu, m.in. na [[Wyspa Indygo|Wyspę Indygo]].
 - **[[Euria]]** (Wschodni Wiatr Jesieni) – poszukiwała nowego oblicza odwagi na [[Półwysep Arezyjski|Półwyspie Arezyjskim]].
 - **[[Kyrah]]** (Południowy Wiatr Lata) – podróżowała po [[Zatoka Cerulańska|Zatoce Cerulańskiej]].

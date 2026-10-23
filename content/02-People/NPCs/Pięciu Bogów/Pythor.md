@@ -27,7 +27,7 @@ W [[Sesja 31 - Wyprawa na Themis]] opowiedział, jak amazonki przegnały go z Th
 ## Historia
 "Odsuń się, siostro. Jeśli to pójdzie źle, możesz jutro prawić kazania moim zwłokom." — do [[Vallus]].
 
-Przed kampanią, jako król [[Estoria|Estorii]], był związany [[Przysięga Pokoju|Przysięgą Pokoju]], która zabraniała mu bezpośredniej walki z Tytanami. Gdy [[Sydon]] zażądał ofiary z jego córki, [[Anora|Anory]], Pythor nie mógł ani sprzeciwić się Tytanowi, ani pozwolić na śmierć dziecka; jego jedyną nadzieją byli Wybrańcy Wyroczni.
+Zanim bohaterowie przybyli do Mytros, jako król [[Estoria|Estorii]], był związany [[Przysięga Pokoju|Przysięgą Pokoju]], która zabraniała mu bezpośredniej walki z Tytanami. Gdy [[Sydon]] zażądał ofiary z jego córki, [[Anora|Anory]], Pythor nie mógł ani sprzeciwić się Tytanowi, ani pozwolić na śmierć dziecka; jego jedyną nadzieją byli Wybrańcy Wyroczni.
 
 W [[Sesja 3 - Skradziony Róg]] i [[Sesja 5 - Skała Estora]] mowa jest o planowanej ofierze z córki króla Pythora. W [[Sesja 7 - Uratować Księżniczkę]] po uratowaniu Anory przekazał [[Orion Xul|Orionowi]] swój legendarny [[Młot Pythora|Młot]] i zadanie pokonania [[Hexia|Hexii]].
 

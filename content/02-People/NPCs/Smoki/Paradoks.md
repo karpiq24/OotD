@@ -9,7 +9,7 @@ aliases:
 _Niebieski smok wykluty ze Smoczego Jaja na pokładzie Ultrosa._
 
 ## Opis
-Młode smoczątko o niebieskawych łuskach i charakterystycznych, wielobarwnych rogach. Wykluł się z jaja zwanego "Paradoksem". Do końca kampanii rósł zupełnie standardowo i jest już niewiele mniejszy od [[Kairos|Kairosa]]; teoretycznie ktoś mógłby na nim zasiąść.
+Młode smoczątko o niebieskawych łuskach i charakterystycznych, wielobarwnych rogach. Wykluł się z jaja zwanego "Paradoksem". Do końca wyprawy rósł zupełnie standardowo i jest już niewiele mniejszy od [[Kairos|Kairosa]]; teoretycznie ktoś mógłby na nim zasiąść.
 
 ## Osobowość
 Od urodzenia wykazuje wysoką inteligencję i zdolność mowy. Jest chętny do walki, "palenia wrogów i jedzenia ich ciał". Zadeklarował lojalność wobec załogi [[Ultros|Ultrosa]]. Według [[Felicjan Janus Twardowski|Felicjana]] wymaga wyjątkowo mądrego jeźdźca.

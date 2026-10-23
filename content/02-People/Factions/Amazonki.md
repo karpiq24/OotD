@@ -32,7 +32,7 @@ Tradycyjnie izolacjonistyczne. Przybycie delegacji do Mytros na Igrzyska, po raz
 ## Historia
 Pochodzą z wyspy Themis. Według legend, [[Aella]] i jej brat [[Arybas]] sprzeciwili się okrutnym tradycjom, co doprowadziło do ich śmierci i powstania Konstelacji Bliźniąt.
 
-Kilkanaście lat przed kampanią [[Moxena]] wraz z siostrami dokonała na Themis przewrotu i przejęła władzę; królowa została zastąpiona przez fałszywą królową, meduzę [[Nastura|Nasturę]] ([[Sesja 22 - Taniec z Meduzą]], [[Sesja 32 - Kieł]], [[Sesja 36 - Królowa, Dziedzic i Generał]]). Prawowita dziedziczka, [[Darien]], została uwięziona w [[Więzienie Kieł|Kle]]. Nastura podszywała się pod zmarłą królową [[Thessilea|Thessileę]].
+Kilkanaście lat przed przybyciem bohaterów [[Moxena]] wraz z siostrami dokonała na Themis przewrotu i przejęła władzę; królowa została zastąpiona przez fałszywą królową, meduzę [[Nastura|Nasturę]] ([[Sesja 22 - Taniec z Meduzą]], [[Sesja 32 - Kieł]], [[Sesja 36 - Królowa, Dziedzic i Generał]]). Prawowita dziedziczka, [[Darien]], została uwięziona w [[Więzienie Kieł|Kle]]. Nastura podszywała się pod zmarłą królową [[Thessilea|Thessileę]].
 
 W [[Sesja 21 - Ukryte pragnienia Ismene]] do [[Mytros]] przybyła delegacja Amazonek, po raz pierwszy w historii Igrzysk.
 

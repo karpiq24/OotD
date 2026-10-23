@@ -6,7 +6,7 @@ aliases:
 
 ![Ivello](../../../assets/sessions/034/ivello.webp)
 
-_Dawny towarzysz Arevona, odnaleziony spetryfikowany na Themis. Po kampanii wrócił do Eberronu, do syna._
+_Dawny towarzysz Arevona, odnaleziony spetryfikowany na Themis. Po wojnie wrócił do Eberronu, do syna._
 
 ## Historia
 W [[Sesja 34 - Ivello i Drapaczka do Pleców]] [[Arevon Elorrenthi|Arevon]] odnalazł jego kamienny posąg przy fortecy na [[Themis]]; [[Felicjan Janus Twardowski|Felicjan]] przeniósł go zaklęciem lotu na statek, gdzie Arevon ożywił go za pomocą Oil of Softening. Ivello opowiedział o swoich przeżyciach na Themis, gdzie wylądował razem z [[Baltia|Baltią]], i dopytywał się o jej los.

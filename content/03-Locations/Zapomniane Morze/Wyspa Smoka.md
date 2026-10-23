@@ -13,7 +13,7 @@ Wyspa ma kształt przypominający śpiącego gada i porasta ją gęsta, duszna d
 
 Wyspa Smoka leży na Zapomnianym Morzu. Jej wybrzeża są usiane licznymi zatoczkami i piaszczystymi plażami, dogodnymi do lądowania. Dżungla jest nienaturalnie gęsta i splątana, co jest efektem wpływu Hexii. Flora jest bujna, ale złowroga.
 
-Na koniec kampanii wciąż mieszka tu [[Hexia]].
+Po wojnie wciąż mieszka tu [[Hexia]].
 
 ## Ciekawe Miejsca
 -   **Leże Hexii**: Polana w centrum wyspy, ze skarbcem smoczycy i krystalicznie czystym jeziorem zasilanym wodospadem; drzewa wokół „udekorowano" kośćmi ofiar.  

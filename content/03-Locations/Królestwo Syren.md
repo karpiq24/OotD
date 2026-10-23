@@ -6,7 +6,7 @@ aliases:
 
 ![Placeholder](../assets/placeholder.webp)
 
-Zatopione królestwo syren, zniszczone przez gniew [[Sydon|Sydona]] i do końca kampanii nieodnalezione mimo piętnastu lat poszukiwań.
+Zatopione królestwo syren, zniszczone przez gniew [[Sydon|Sydona]] i do upadku Tytanów nieodnalezione mimo piętnastu lat poszukiwań.
 
 ## Ciekawe Miejsca
 - **Miejsce spoczynku [[Goloron Pierwszy|Golorona]]**: Tytan Mądrości ukryty pod postacią posągu.

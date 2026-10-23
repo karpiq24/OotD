@@ -11,7 +11,7 @@ _Gnom, pokładowy mag ocalałych z Eberronu, członek załogi Arevona._
 ## Opis
 Gnom, który służył na statku "The Tranquility" razem z [[Arevon Elorrenthi|Arevonem]].
 
-Pokładowy mag grupy ocalałych z [[Eberron|Eberronu]]. Po zakończeniu kampanii został w [[Kontynent Thylea|Thylei]].
+Pokładowy mag grupy ocalałych z [[Eberron|Eberronu]]. Po wojnie został w [[Kontynent Thylea|Thylei]].
 
 ## Historia
 Zaginął, gdy statek został roztrzaskany na morzu.

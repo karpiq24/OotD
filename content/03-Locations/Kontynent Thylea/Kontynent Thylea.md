@@ -2,7 +2,7 @@
 title: Kontynent Thylea
 ---
 
-Kontynent, na którym rozgrywa się kampania. [[Thylea]] jest kieszonkowym planem, odizolowanym od reszty świata, a droga do niej z rodzinnego świata [[Arevon Elorrenthi|Arevona]], [[Eberron|Eberronu]], jest zamknięta. Elfów jest tu bardzo niewiele: [[Plemię Delfina]] to niemal jedyne elfy w całej Thylei.
+Kontynent, na którym rozgrywają się losy bohaterów. [[Thylea]] jest kieszonkowym planem, odizolowanym od reszty świata, a droga do niej z rodzinnego świata [[Arevon Elorrenthi|Arevona]], [[Eberron|Eberronu]], jest zamknięta. Elfów jest tu bardzo niewiele: [[Plemię Delfina]] to niemal jedyne elfy w całej Thylei.
 
 ## Ciekawe Miejsca
 - [[Estoria]]

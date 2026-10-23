@@ -7,7 +7,7 @@ title: Wyspa Indygo
 _Wyspa położona na zachód od kontynentu, w obrębie [[Zatoka Cerulańska|Zatoki Cerulańskiej]]. Znajduje się pod Konstelacją Królowej._
 
 ## Opis
-Wyspa Indygo jest domem czterech plemion barbarzyńców, wśród których przemoc i wojna są głęboko zakorzenione w kulturze. Na koniec kampanii mieszka tu [[Plemię Delfina]] — niemal jedyne elfy w całej [[Kontynent Thylea|Thylei]] — oraz w górach w głębi wyspy [[Plemię Wieloryba]], strzegące [[Kopalnia Żelaza|Kopalni Żelaza]].
+Wyspa Indygo jest domem czterech plemion barbarzyńców, wśród których przemoc i wojna są głęboko zakorzenione w kulturze. Po wojnie mieszka tu [[Plemię Delfina]] — niemal jedyne elfy w całej [[Kontynent Thylea|Thylei]] — oraz w górach w głębi wyspy [[Plemię Wieloryba]], strzegące [[Kopalnia Żelaza|Kopalni Żelaza]].
 
 ## Mieszkańcy
 Wyspa jest domem dla czterech głównych plemion, z których każde charakteryzuje się innym usposobieniem i składem rasowym:

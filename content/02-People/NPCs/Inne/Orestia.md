@@ -11,7 +11,7 @@ image_prompt:
 _Satyryca uwięziona na Wyspie Krzywoprzysięstwa za złamanie przysięgi podczas Wielkich Igrzysk._
 
 ## Opis
-Orestia to satyryca, była magini [[Akademia Mytros|Akademii w Mytros]], pochodząca z Mytros. Mimo ponad stu lat spędzonych na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]] zachowała pewną bystrość umysłu. Po końcu kampanii wciąż jest tam więźniem w łańcuchach – drużyna nie wynegocjowała jej uwolnienia.
+Orestia to satyryca, była magini [[Akademia Mytros|Akademii w Mytros]], pochodząca z Mytros. Mimo ponad stu lat spędzonych na [[Wyspa Krzywoprzysięstwa|Wyspie Krzywoprzysięstwa]] zachowała pewną bystrość umysłu. Po wojnie wciąż jest tam więźniem w łańcuchach – drużyna nie wynegocjowała jej uwolnienia.
 
 Ma imię podobne do [[Orestes|Orestesa]], co mogło sugerować pokrewieństwo, jednak nie są spokrewnieni.
 

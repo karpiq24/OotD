@@ -19,6 +19,6 @@ Osada na [[Kontynent Thylea|kontynencie Thylei]], znana wcześniej jako **Rosos*
 - [[Volkan]] — bóg kowalstwa, który po latach kierowania odbudową [[Mytros]] osiadł tu u boku minotaura.
 
 ## Historia
-W trakcie kampanii mówiono już o browarze Orestesa w Rosos, którego piwo trafiało do Estorii i Mytros (wzmianki w [[Sesja 41 - Wiedźma Lotosu]] i [[Sesja 70 - Audiencja u Pani Snów]]).
+W czasie wyprawy bohaterów mówiono już o browarze Orestesa w Rosos, którego piwo trafiało do Estorii i Mytros (wzmianki w [[Sesja 41 - Wiedźma Lotosu]] i [[Sesja 70 - Audiencja u Pani Snów]]).
 
 W [[Sesja 84 - Świt Nowej Ery]] [[Volkan]] — po tym, jak przez pierwsze lata kierował odbudową i naprawami — znalazł dla siebie miejsce u boku [[Orestes|Orestesa]] w osadzie zwanej niegdyś Rosos, przemianowanej z czasem na cześć minotaura i jego rzemiosła: Orestessos Zythikē, czyli Orestesja Piwowarska. Nazwy nikt nie potrafił wymówić, ale trafiła na mapy.

@@ -6,7 +6,7 @@ aliases:
 
 ![Placeholder](../../assets/placeholder.webp)
 
-_Trzy boginie zemsty, strażniczki praw, starsze niż Sydon i Lutheria; w kampanii przebywały w Praxys i na Hypnosie._
+_Trzy boginie zemsty, strażniczki praw, starsze niż Sydon i Lutheria; w czasie wojny z Tytanami przebywały w Praxys i na Hypnosie._
 
 ## Opis
 Furie (Erynie) to skrzydlate, opancerzone boginie zemsty i strażniczki praw: trzy siostry Megara, Alecto i Tyzyfone ([[Sesja 57 - Ogród Heliosa]], [[Sesja 75 - Koniec Przysięgi]]). Zostały stworzone przez samą [[Thylea|Thyleę]] na początku świata, więc są starsze niż [[Sydon]] i [[Lutheria]] ([[Sesja 75 - Koniec Przysięgi]]).

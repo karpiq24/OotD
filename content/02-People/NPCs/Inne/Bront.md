@@ -15,7 +15,7 @@ Głęboko religijny, wierny wyznawca [[Sydon|Sydona]]; w więzieniu początkowo 
 Jest dumny ze swojego kunsztu i wdzięczny za ratunek.
 
 ## Historia
-Przed rozpoczęciem kampanii wykuł magiczną tarczę z symbolem [[Lutheria|Lutherii]] na urodziny królowej [[Thessilea|Thessilei]].
+Zanim bohaterowie przybyli do Mytros, wykuł magiczną tarczę z symbolem [[Lutheria|Lutherii]] na urodziny królowej [[Thessilea|Thessilei]].
 
 W [[Sesja 32 - Kieł]] bohaterowie spotkali go w więzieniu Kieł, przykutego do podłogi. Początkowo myślał, że to Bóg Mórz wysłał ich na jego ratunek, i poprosił o uwolnienie, ale drużyna nie była w stanie go wtedy uwolnić. W [[Sesja 33 - W Szponach Bazyliszków]] bohaterowie postanowili wrócić do fortecy po uwięzionego cyklopa, a w [[Sesja 34 - Ivello i Drapaczka do Pleców]] uwolnili go z więzienia (z pomocą zaklęć [[Arevon Elorrenthi|Arevona]]) i przenieśli na statek.
 

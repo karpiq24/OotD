@@ -8,12 +8,12 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Kapitan statku "Tranquility", półelf z Eberronu. Po kampanii został w Thylei._
+_Kapitan statku "Tranquility", półelf z Eberronu. Po wojnie został w Thylei._
 
 ## Opis
 Półelf o niezwykłej odporności, posiadający świetliste znaki na skórze.
 
-Jako jedyny nosił Znamię Burzy, które normalnie pozwala prowadzić statek [[Tranquility]] bez żagli i wioseł. Po kampanii został na lądzie w [[Kontynent Thylea|Thylei]], gdzie poznał ludzi i uznał to miejsce za swoje.
+Jako jedyny nosił Znamię Burzy, które normalnie pozwala prowadzić statek [[Tranquility]] bez żagli i wioseł. Po wojnie został na lądzie w [[Kontynent Thylea|Thylei]], gdzie poznał ludzi i uznał to miejsce za swoje.
 
 ## Osobowość
 Hardy i zdeterminowany, by przeżyć. Lojalny wobec [[Arevon Elorrenthi|Arevona Elorrenthi]].

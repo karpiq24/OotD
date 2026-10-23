@@ -12,7 +12,7 @@ Rajski ogród na płaskowyżu wyspy ukrytej we mgle, siedziba [[Helios|Heliosa]]
 - **Zrujnowane starożytne budowle** i stada pasących się hefalumpów.
 
 ## Mieszkańcy
-- [[Helios]] — gospodarz ogrodu, który w czasie kampanii został wygnany przez Furie (późniejsze losy: [[Wyspa Krzywoprzysięstwa]]).
+- [[Helios]] — gospodarz ogrodu, który w czasie wojny z Tytanami został wygnany przez Furie (późniejsze losy: [[Wyspa Krzywoprzysięstwa]]).
 - Cyklopy, „dzieci” Heliosa, m.in. dowódca [[Arges]] i ślepy [[Tolyphemus]].
 - Hefalumpy — stworzenia z długimi trąbami i wielkimi uszami.
 

@@ -24,6 +24,6 @@ Po przybyciu na te tereny zawarł wieczystą przysięgę z lokalnym [[Satyr z Th
 
 W [[Sesja 8 - Ścieżka Umarłych]] bohaterowie oglądali jego grobowiec w [[Nekropolia w Telamok|Nekropolii w Telamok]], wśród grobowców innych Smoczych Lordów.
 
-W [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] Mistrz Gry, omawiając drzewo genealogiczne Smoczych Lordów, wskazał, że Telamok i Estor byli braćmi.
+W [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] bohaterowie dowiedzieli się, że Telamok i Estor byli braćmi.
 
 W [[Sesja 70 - Audiencja u Pani Snów]] wizja Arevona przeniosła go w chwilę upadku [[Praxys]], w którym Arevon wcielił się w Telamoka. Telamok krzyczał do swoich ludzi, że może to być ich ostatni dzień pod słońcem, a wrogowie ciskali włóczniami wielkości masztów, przebijając żołnierzy po trzech naraz. Razem z Adonisem i garstką ocalałych wyważył brutalną siłą adamantowe wrota wieży, zapieczętowane magią Thylei. Walka zakończyła się jego śmiercią: Glewia Sydona zakończyła życie legendarnego wojownika.

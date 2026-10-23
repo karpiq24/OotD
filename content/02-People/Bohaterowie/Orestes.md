@@ -24,7 +24,7 @@ W [[Sesja 13 - Wezwani przez Króla]] przyśniła mu się wyprawa statkiem na [[
 
 W [[Sesja 19 - Pojedynek z Rozpruwaczem]] otrzymał od [[Volkan|Volkana]] ulepszony [[Topór Xandera]]; powalony przez [[Rakas Rozpruwacz|Rakasa]], nagle się przebudził i w ostatniej chwili go dobił. W [[Sesja 21 - Ukryte pragnienia Ismene]] zebrał liczne plotki o Arezji, Amazonkach i [[Stavros|Stavrosie]] podczas imprezy w Akademii. W [[Sesja 22 - Taniec z Meduzą]] znalazł na statku [[Varkon|Varkona]] cztery posągi (w tym córkę [[Maximus|Maximusa]]), po czym wyrąbał dziurę w dnie statku i uciekł.
 
-W [[Sesja 24 - Ultros]], po śmierci [[Estor Arkelander|Estora]], został mianowany nowym kapitanem [[Ultros|Ultrosa]]. [[Delphia]] dała mu wybór między ścieżką żywych a ścieżką umarłych; wybrał ścieżkę żywych, wskutek czego cała nieumarła załoga opuściła statek. Kapitanem pozostał do końca kampanii.
+W [[Sesja 24 - Ultros]], po śmierci [[Estor Arkelander|Estora]], został mianowany nowym kapitanem [[Ultros|Ultrosa]]. [[Delphia]] dała mu wybór między ścieżką żywych a ścieżką umarłych; wybrał ścieżkę żywych, wskutek czego cała nieumarła załoga opuściła statek. Kapitanem pozostał do końca wojny z Tytanami.
 
 W [[Sesja 25 - Inauguracja Wielkich Igrzysk]] usłyszał z wnętrza kosy [[Lutheria|Lutherii]] głosy swoich rodziców, których nie słyszał od lat. W [[Sesja 30 - Zakończenie Igrzysk]] zatańczył z [[Vallus]] na uczcie, a po niej męczył go koszmar o Wyspie Mojr i trzech postaciach.
 

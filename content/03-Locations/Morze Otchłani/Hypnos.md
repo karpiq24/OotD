@@ -4,7 +4,7 @@ title: "Hypnos - Statek Lutherii"
 
 # Hypnos, Tron Snów
 
-Hypnos to osobisty okręt (barka) [[Lutheria|Lutherii]] — gigantyczny, pływający pałac z brązu, porośnięty bujną, niepokojącą roślinnością. Po końcu kampanii stoi zacumowany niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]], porzucony, pod opieką [[Versir|Versira]]; ciągnący go dotąd [[Talieus Pierwszy|Talieus]] został uwolniony z łańcuchów i nie żyje (szczegóły w sekcji „Los okrętu”).
+Hypnos to osobisty okręt (barka) [[Lutheria|Lutherii]] — gigantyczny, pływający pałac z brązu, porośnięty bujną, niepokojącą roślinnością. Po wojnie stoi zacumowany niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]], porzucony, pod opieką [[Versir|Versira]]; ciągnący go dotąd [[Talieus Pierwszy|Talieus]] został uwolniony z łańcuchów i nie żyje (szczegóły w sekcji „Los okrętu”).
 
 Okręt ciągnął po Morzu Otchłani zniewolony Tytan [[Talieus Pierwszy|Talieus]], przykuty do kadłuba. Cały pokład to **Wiszące Ogrody**, pełne egzotycznych, pięknych, ale i przerażających roślin.
 

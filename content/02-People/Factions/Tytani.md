@@ -6,7 +6,7 @@ aliases:
 
 ![Konstelacja Centaura](../../assets/placeholder.webp)
 
-_Bogowie-Stwórcy oraz ich pierwsze dzieci, które ukształtowały świat. Pod koniec kampanii [[Sydon]] i [[Lutheria]] zginęli w bitwie o [[Mytros]], a [[Kentimane]] odszedł ku morzu._
+_Bogowie-Stwórcy oraz ich pierwsze dzieci, które ukształtowały świat. Pod koniec wojny z Tytanami [[Sydon]] i [[Lutheria]] zginęli w bitwie o [[Mytros]], a [[Kentimane]] odszedł ku morzu._
 
 ## Opis
 Mianem Tytanów (lub Pierwszych Tytanów) określa się starożytne, boskie istoty, które władały zapomnianym lądem przed nadejściem Smoczych Lordów. Do grupy tej zalicza się dwoje pierwotnych stwórców: [[Thylea]] i [[Kentimane]], a także ich pierwsze potomstwo zrodzone z owoców [[Drzewo Serca|Drzewa Serca]].

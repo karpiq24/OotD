@@ -6,7 +6,7 @@ aliases:
 
 ![Delphia](../../../assets/placeholder.webp)
 
-_Duch driady związany z masztem Ultrosa. Po zakończeniu kampanii odeszła ze statku._
+_Duch driady związany z masztem Ultrosa. Po wojnie odeszła ze statku._
 
 Królowa Driad ze Starego Lasu, władczyni leśnych ludów Fey w czasach przybycia [[Smoczy Lordowie|Smoczych Lordów]].
 

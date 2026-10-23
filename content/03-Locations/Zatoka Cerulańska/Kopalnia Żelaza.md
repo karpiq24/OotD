@@ -7,7 +7,7 @@ title: Kopalnia Żelaza
 _Jedyna kopalnia żelaza w Thylei, znajdująca się w górach w głębi Wyspy Indygo i strzeżona przez Plemię Wieloryba._
 
 ## Opis
-Kopalnia Żelaza to rozległy kompleks tuneli wydrążonych w górach [[Wyspa Indygo|Wyspy Indygo]]. Jest to miejsce o strategicznym znaczeniu, będące jedynym znanym źródłem żelaza w całej krainie. Na koniec kampanii wciąż pozostaje pod strażą krasnoludzkiego [[Plemię Wieloryba|Plemienia Wieloryba]].
+Kopalnia Żelaza to rozległy kompleks tuneli wydrążonych w górach [[Wyspa Indygo|Wyspy Indygo]]. Jest to miejsce o strategicznym znaczeniu, będące jedynym znanym źródłem żelaza w całej krainie. Po wojnie wciąż pozostaje pod strażą krasnoludzkiego [[Plemię Wieloryba|Plemienia Wieloryba]].
 
 ## Mieszkańcy
 Kopalnia jest domem i miejscem pracy dla [[Plemię Wieloryba|Plemienia Wieloryba]] (krasnoludów).
