@@ -245,15 +245,15 @@
 * Pierwsze starcie ze smoczycą w osadzie Węgorzy – [[Orestes]] walczy na jej grzbiecie, bestia ucieka ranna.
 
 ## Sesja 43 - Kopalnia Żelaza (03.03.2025)
-* Rozmowy z [[Plemię Delfina|plemieniem Delfina]] i uzyskanie informacji o porwaniu [[Brenna|Brenny]], córki wodza krasnoludów.
-* Wyprawa do kopalni plemienia Wieloryba – spotkanie z zagadkowym [[Borinn Bystre Oko|Borinnem Bystrym Okiem]].
+* Rozmowy z [[Plemię Delfina|plemieniem Delfina]] i uzyskanie informacji o smoczycy [[Ventis]] oraz o milczeniu [[Plemię Wieloryba|plemienia Wieloryba]].
+* Wyprawa do kopalni plemienia Wieloryba – spotkanie z zagadkowym [[Borinn Bystre Oko|Borinnem Bystrym Okiem]] i wodzem [[Delg|Delgiem]], który opowiada o porwaniu [[Brenna|Brenny]], swojej córki.
 * Walka z żywiołakami i magicznymi strażnikami w kopalni.
 * Opracowanie planu odbicia zakładniczki z leża smoczycy.
 
 ## Sesja 44 - Ventis (19.02.2025)
 * Udana akcja ratunkowa – [[Versir]] i [[Felicjan Janus Twardowski|Felicjan]] teleportują [[Brenna|Brennę]] w bezpieczne miejsce.
 * Finałowa bitwa z miedzianą smoczycą [[Ventis]] w jej leżu – bestia zostaje zgładzona przez [[Orestes|Orestesa]] i [[Versir|Versira]].
-* Zdobycie cennych surowców (smocze części, [[Gwiezdny Metal]]) i zawarcie sojuszy z krasnoludami, elfami i niziołkami z [[Wyspa Indygo]].
+* Zdobycie cennych surowców (smocze części, [[Gwiezdny Metal]]) i zawarcie sojuszy z plemionami Wieloryba, [[Plemię Delfina|Delfina]] i [[Plemię Węgorza|Węgorza]] na [[Wyspa Indygo]].
 * Porażka [[Orestes|Orestesa]] w pojedynku z aroganckim wodzem [[Plemię Rekina|plemienia Rekina]], [[Gorac|Goracem]].
 
 ## Sesja 45 - Tajemnica Wyspy Wygnańców (24.03.2025)
@@ -267,14 +267,15 @@
 * Zawarcie sojuszu z wygnańcami i zabranie [[Idylla|Idylli]] na pokład [[Ultros|Ultrosa]].
 
 ## Sesja 47 - Wyspa Mojr (13.05.2025)
-* Przybycie na złowieszczą [[Wyspa Mojr]] i konfrontacja z wizjami własnej śmierci w ruinach wieży [[Gyganie|Gyganów]].
+* Przybycie na złowieszczą [[Wyspa Mojr]] i konfrontacja z wizjami własnej śmierci ukazanymi przez gobeliny nad jeziorem, po eksploracji ruin wieży [[Gyganie|Gyganów]].
 * Starcie z potwornymi strażnikami przed jaskiniami i audiencja u trzech [[Mojry|Mojr]].
 * [[Orion Xul]] zawiera pakt z [[Nona|Noną]] w zamian za wzmocnienie swojej włóczni.
 
 ## Sesja 48 - Pakty z Mojrami i Zew Chimery (19.05.2025)
-* **Zdjęcie klątwy ze smoczych jaj** przez [[Mojry]] w zamian za poświęcenie potężnych artefaktów.
+* **Zdjęcie klątwy ze smoczych jaj** przez [[Mojry]] w zamian za Kostur [[Sydon|Sydona]] [[Versir|Versira]] i różdżkę [[Felicjan Janus Twardowski|Felicjana]].
 * [[Arevon Elorrenthi|Arevon]] i [[Felicjan Janus Twardowski|Felicjan]] zawierają osobiste pakty z Mojrami, oddając część siebie w zamian za potęgę.
 * Narodziny brązowego smoka [[Kairos|Kairosa]] z jaja Felicjana po zdjęciu klątwy.
+* Prawda Mojr o pochodzeniu [[Felicjan Janus Twardowski|Felicjana]] – jego prababka [[Despina]] miała być siostrą Smoczego Lorda [[Adonis Neurdagon|Adonisa Neurdagona]].
 * Przybycie na [[Wyspa Forlorn]] i walka z płonącymi czaszkami wysypanymi z magicznego worka.
 
 ## Sesja 49 - Wielkie Gęsie Powstanie (26.05.2025)
@@ -301,7 +302,7 @@
 
 ## Sesja 53 - Koniec Yonder (14.07.2025)
 * Finałowa bitwa z dowódcą [[Gaius|Gaiusem]] i jego srebrną smoczycą [[Argyn]] na zboczach wyspy.
-* Śmierć [[Gaius|Gaiusa]] i zdobycie jego artefaktów (zbroja Xandera) oraz **[[Plany Naprawy Magicznego Kompasu|planów naprawy kompasu]]**.
+* Śmierć [[Gaius|Gaiusa]] – zrzuconego w przepaść przez [[Orestes|Orestesa]] i dobitego przez [[Felicjan Janus Twardowski|Felicjana]] – oraz pokonanie [[Argyn]]; zdobycie jego artefaktów ([[Breastplate of Xander|zbroja Xandera]]) oraz **[[Plany Naprawy Magicznego Kompasu|planów naprawy kompasu]]**.
 * Nawiązanie kontaktu z istotą znaną jako [[Kustosz]] poprzez magiczną misę.
 
 ## Sesja 54 - Wyznanie Chondrusa (28.07.2025)
@@ -312,7 +313,7 @@
 ## Sesja 55 - Egida Mytros (04.08.2025)
 * Powrót do [[Mytros]] i przekazanie planów wojennych królowej [[Vallus]].
 * Prezentacja **Egidy Mytros** przez króla [[Acastus|Akastusa]] – armii automatonów mającej zastąpić bohaterów.
-* Naprawa [[Antikythera|Antikythery]] przez [[Volkan|Volkana]] i wypłynięcie na [[Zapomniane Morze]] ku [[Wyspa Czasu]].
+* Naprawa [[Antikythera|Antikythery]] przez [[Volkan|Volkana]] i wypłynięcie na [[Zapomniane Morze]] ku wyspie wskazanej przez [[Konstelacja Nimfy|konstelację Nimfy]].
 
 ## Sesja 56 - Dedal i Ikar (11.08.2025)
 * Spotkanie wynalazcy [[Dedal|Dedala]] i odzyskanie artefaktu [[Heart of the Gale]] z gniazda Roków.
@@ -322,12 +323,14 @@
 ## Sesja 57 - Ogród Heliosa (18.08.2025)
 * Przybycie do [[Ogród Heliosa|Ogrodu Heliosa]] i konfrontacja z "bogiem" [[Helios|Heliosem]], który transformuje się w złotego smoka.
 * Interwencja [[Megara|Megary]] i Furii – [[Helios]] zostaje skazany na wygnanie za naruszenie praw gościnności.
-* Pokonanie wpływu przeklętej statuetki [[Pożeracz Nadziei|Pożeracza Nadziei]] przez [[Orestes|Orestesa]].
+* Klątwa przeklętej statuetki ([[Pożeracz Nadziei]]) – [[Orestes]] próbuje rzucić się za nią do morza, ale zostaje powstrzymany przez drużynę i uzdrowiony przez [[Melania Twardowska|Melanię]].
+* [[Helios]] wyjawia, że jest zmuszony do paktu z [[Sydon|Sydonem]].
 
 ## Sesja 58 - Wyspa Czasu (08.09.2025)
 * Zdobycie skarbów [[Helios|Heliosa]], w tym latającego rydwanu [[Chariot of Dawn]] i [[Smoczy Talizman|Smoczego Talizmanu]].
-* Uwięzienie bohaterów w pętli czasu na [[Wyspa Czasu]].
-* Doświadczenie wizji własnej przyszłości w Wieży na Skraju Czasu.
+* Dyplomatyczne zażegnanie konfliktu z cyklopami po zniknięciu [[Helios|Heliosa]], który poświęcił się, by ich ocalić.
+* Uwięzienie bohaterów w pętli czasu na [[Wyspa Czasu]] i sąd nad androsfinksem [[Kartos|Kartosem]].
+* Doświadczenie wizji własnej przyszłości przez magiczny teleskop.
 
 ## Sesja 59 - Koniec Imprezy (15.09.2025)
 * Przełamanie pętli czasu, demaskacja zdrajcy [[Noland|Nolanda]] i ocalenie sfinksa [[Kartos|Kartosa]].
@@ -337,6 +340,7 @@
 
 ## Sesja 60 - Typhon: Brama do Hadesu (27.10.2025)
 * Przejęcie kontroli nad latającą fortecą.
+* Wizja [[Versir|Versira]] od matki, wskazująca [[Yala Pierwsza|Yalę]] uwięzioną w [[Hades|Hadesie]] i wejście do zaświatów na [[Typhon|Typhonie]].
 * Wyprawa na wulkaniczny [[Typhon]] i pokonanie [[Piekielny Dyrygent|Piekielnego Dyrygenta]] w upiornej katedrze.
 * Wejście do [[Hades|Hadesu]] przez portal w paszczy Ojca Wszelkich Potworów.
 * Spotkanie duszy [[Gaius|Gaiusa]] czekającej nad rzeką [[Styks]].
@@ -353,7 +357,7 @@
 
 ## Sesja 63 - Werdykt Arezji (08.12.2025)
 * Zdobycie poparcia Mistrzów [[Taureus|Taureusa]] (minotaury) i [[Laertes|Laertesa]].
-* Pakt z tajemniczym [[Mistrz Cieni|Mistrzem Cieni]] i pozyskanie Słonecznego Granatu dla kapryśnego boga [[Narsus|Narsusa]].
+* Pakt z tajemniczym [[Mistrz Cieni|Mistrzem Cieni]] – [[Słoneczny Granat]] dla kapryśnego boga [[Narsus|Narsusa]] w zamian za przyszłą kradzież księgi z [[Praxys]].
 * Zakup [[Portret Karpathosa|portretu-filakterium]] za 50 000 sztuk złota.
 * Oficjalna decyzja Rady Arezji o dołączeniu do wojny przeciwko Tytanom.
 
@@ -375,12 +379,12 @@
 
 ## Sesja 67 - Zguba Estora (27.01.2026)
 * Wyprawa do [[Lustrzane Więzienie|Lustrzanego Więzienia]] i pokonanie ducha mosiężnego smoka [[Hezzebal|Hezzebala]].
-* **Ostateczna zgładzenie [[Estor Arkelander|Estora Arkelandera]]** – [[Orestes]] przebija ducha jego własnym mieczem [[Xiphos of Slaughter]], który pożera duszę tyrana.
+* **Zniszczenie ducha [[Estor Arkelander|Estora Arkelandera]]** – [[Orestes]] przebija go jego własnym mieczem [[Xiphos of Slaughter]], który pożera duszę Smoczego Lorda. <!-- CONFLICT: Sesja 70 pokazuje Estora jeszcze raz, ostatecznie uśmierconego przez Lutherię; tu wg recapu 67. -->
 * Zdobycie legendarnego skarbu Smoczych Lordów.
 
 ## Sesja 68 - Arena Krzywoprzysięstwa (02.02.2026)
 * Przybycie na [[Wyspa Krzywoprzysięstwa|Wyspę Krzywoprzysięstwa]] i spotkanie z uwięzioną satyrzycą [[Orestia|Orestią]].
-* Negocjacje z [[The Keeper|Zarządcą (The Keeper)]] – obietnica uwolnienia jednej duszy ([[Helios|Heliosa]]) w zamian za widowisko na arenie.
+* Negocjacje z [[The Warden|Zarządcą (The Warden)]] – obietnica uwolnienia jednej duszy ([[Helios|Heliosa]]) w zamian za widowisko na arenie.
 * Rozpoczęcie serii walk z "Duchami Przeszłości" na arenie.
 * Pokonanie **I Fali**: Wiedźmy [[Heleka|Heleki]] na [[Wielki Dzik|Wielkim Dziku]], [[Braeca]] i ożywionych mieczy.
 * Pokonanie **II Fali**: Cerbera, Króla Troglodytów i Cockatrice'a.
@@ -399,7 +403,7 @@
 * Zwiedzanie okrętu [[Hypnos|Hypnosa]] i spotkanie z [[Furie|Furiami]].
 * Ostateczna, nieodwracalna śmierć [[Estor Arkelander|Estora Arkelandera]] z rąk [[Lutheria|Lutherii]].
 * Audiencja u Pani Snów i poznanie sekretu [[Praxys]] (gwiazda i [[Hergeron]]).
-* Odrzucenie paktu [[Lutheria|Lutherii]] i pozostawienie [[Chondrus|Chondrusa]] na jej łasce.
+* Okrutna oferta [[Lutheria|Lutherii]] (jej Kosa z uwięzionymi duszami za glewię i głowę [[Sydon|Sydona]]), odrzucona przez bohaterów, i pozostawienie [[Chondrus|Chondrusa]] na jej łasce.
 * Przybycie [[Volkan|Volkana]] na morze i przekazanie [[Titansbane]] oraz innych darów.
 * Wizja [[Arevon Elorrenthi|Arevona]] o upadku [[Praxys]] i śmierci Telamoka.
 * Opracowanie planu infiltracji wieży [[Sydon|Sydona]] pod postacią wiatru.
@@ -438,123 +442,70 @@
 * Krwawe starcie z kamiennymi gargulcami oraz faworytami [[Chalcia|Chalcii]] w Komnacie Rozkoszy.
 * Audiencja u Furii ([[Megara|Megary]], [[Alecto]] i [[Tyzyfone]]), które wyjawiły sekrety dotyczące zdrady Mojr i przekazały ostrzeżenia dla [[Arevon Elorrenthi|Arevona]] dotyczące jego ojczystego świata.
 * Rytualne uwolnienie uwięzionej gwiazdy na szczycie wieży, co doprowadziło do widowiskowej destrukcji [[Praxys]].
-* Ostatnie spotkanie [[Versir|Versira]] z wujem [[Hergeron|Hergeronem]] i przejęcie przez bohatera tytanicznej esencji siły.
+* Ostatnie spotkanie [[Versir|Versira]] z wujem [[Hergeron Pierwszy|Hergeronem Pierwszym]] i przejęcie przez bohatera tytanicznej esencji siły.
 * Oficjalne wygaśnięcie Przysięgi Pokoju, skutkujące odzyskaniem pełnej mocy przez [[Sydon|Sydona]] i [[Lutheria|Lutherię]].
 * Ujawnienie prawdziwej tożsamości Pięciorga Bogów jako smoków (m.in. [[Sybolkorax]], [[Arkyrania|Arkyrani]]) i poznanie pełnej historii o krwawej ofierze [[Balmytria|Balmytrii]] podczas Królewskiej Gry ([[09 Gra Bogów]]).
 * Podjęcie decyzji o natychmiastowej żegludze do [[Mytros]] w celu dołączenia do ostatecznej wojny.
 
 ## Sesja 76 - Bitwa o Mytros: Pierwsza Fala (04.05.2026)
-* Rozmowa z [[Kyrah|Kyrą]] na pokładzie [[Ultros|Ultrosa]] – [[Versir]] wyznał smoczycy, że jej brat [[Narsus]] jest większym głupcem, ale to ona popełniła większe błędy; różnica polega na tym, że ona próbuje się na nich uczyć. Zaoferował też zniszczenie miecza Estora.
-* Trzy *Scrying* [[Arevon Elorrenthi|Arevona]] – nieudane na [[Hergeron|Hergeronie]], na Dokach [[Mytros]] (obraz chaosu i blokady morskiej) oraz na [[Yala|Yali]] (siedzi samotnie na klifie patrząc na [[Mytros]]).
-* Smoki-bogowie ciągną [[Ultros|Ultrosa]] na linach, by przyspieszyć rejs do [[Mytros]].
-* Cud [[Delphia|Delphi]] – driada [[Ultros|Ultrosa]] naprawia statek pnączami po trafieniu trebusza, a okręt-taran przebija blokadę [[Zakon Sydona]].
-* [[Acastus|Akastus]] przebija swoją zdradziecką włócznią szyję [[Icarus|Icarusa]], mutując smoka, który zamraża tsunami [[Sydon|Sydona]] w lodową górę nad miastem.
-* [[Apasia]] na miedzianym smoku ratuje spadającego [[Acastus|Akastusa]] w ostatniej chwili.
-* Smoki-bogowie podejmują walkę z oszalałym [[Icarus|Icarusem]], prosząc drużynę o skupienie się na obronie ulic.
-* Pierwsza runda Bitwy o [[Mytros]]: zwycięstwa Krasnoludów z [[Estoria|Estorii]], Amazonek przy Dokach; przegrane Magów z [[Akademia Mytros|Akademii]] i [[Centurioni z Mytros|Mytros Centurions]]; tragiczna śmierć [[Steros|Sterosa]].
-* Śmierć królowej [[Darien]] – władczyni Amazonek poległa w obronie [[Mytros]], dowodząc obroną Doków wraz z [[Hippolyta|Hippolytą]]; uwolniona przez drużynę po 13 latach w celi i osadzona na tronie w [[Sesja 36 - Królowa, Dziedzic i Generał|sesji 36]], oddała życie za cudze miasto, pozostawiając otwartą kwestię sukcesji na [[Themis]].
-* [[Felicjan Janus Twardowski|Felicjan]] ujawnia stworzone wcześniej Simulacrum, wprowadzając do walki klona jako drugiego maga w drużynie.
-* [[Hergeron]] rzuca Steel Wind Strike na całą drużynę, zadając potężne obrażenia m.in. [[Orion Xul|Orionowi]] i klonowi [[Felicjan Janus Twardowski|Felicjana]].
-* [[Orestes]] wznosi się w powietrze i zadaje [[Hergeron|Hergeronowi]] krytyczny cios z połączeniem Rage, Reckless Attack i Great Weapon Master.
-* Epickie kombo leczące: [[Versir]] rzuca *Beacon of Hope* wymuszając maksymalne leczenie, co [[Arevon Elorrenthi|Arevon]] od razu wykorzystuje potężnym zaklęciem leczącym, przywracając każdemu około 50 HP.
+* Rejs [[Ultros|Ultrosa]] do [[Mytros]] ciągniętego na linach przez smoki-bogów; cud [[Delphia|Delphi]] naprawia statek, a okręt-taran przebija blokadę [[Zakon Sydona|Zakonu Sydona]].
+* [[Acastus|Akastus]] wbija zdradziecką włócznię w szyję swojego smoka [[Icarus|Icarusa]], mutując go; smok zamraża tsunami [[Sydon|Sydona]] w lodową górę, a [[Apasia]] na miedzianym smoku ratuje spadającego króla.
+* Smoki-bogowie podejmują walkę z oszalałym [[Icarus|Icarusem]], a drużyna skupia się na obronie ulic.
+* Pierwsza runda Bitwy o [[Mytros]]: zwycięstwa krasnoludów z [[Estoria|Estorii]] i Amazonek przy dokach, porażki magów z [[Akademia Mytros|Akademii]] i [[Centurioni z Mytros|centurionów]], śmierć cyklopa [[Steros|Sterosa]].
+* Starcie z empyreanem [[Hergeron|Hergeronem]]: [[Felicjan Janus Twardowski|Felicjan]] ujawnia Simulacrum, Hergeron uderza w drużynę Steel Wind Strike, a [[Orestes]] zadaje mu krytyczny cios.
 
 ## Sesja 77 - Bitwa o Mytros: Upadek Icarusa (12.05.2026)
-* **Śmierć [[Hergeron|Hergerona]]** — [[Arevon Elorrenthi|Arevon]] wezwał fey'a (Conjure Fey), który teleportował się za plecy empyreana w [[Świątynia Pięciu|Świątyni Pięciu]] i wbił mu dwa widmowe sztylety w pośladki; syn [[Sydon|Sydona]] i [[Lutheria|Lutherii]] padł martwy. [[Arevon Elorrenthi|Arevon]] odzyska [[Złota Moneta Hergerona|złotą monetę-klucz do Praxys]] ze zwłok.
-* **[[Orestes]] zadaje 66 obrażeń** jednym atakiem na minotaura (krytyk + Reckless Attack), czyszcząc [[Świątynia Pięciu|Świątynię Pięciu]] z resztek eskorty [[Hergeron|Hergerona]].
-* **Trzecia runda Bitwy o [[Mytros]]** — [[Corinna]] obejmuje dowództwo nad jednym z legionów; [[Felicjan Janus Twardowski|Felicjan]] osobiście prowadzi magów; obrońcy odepchnęli kolejne fale [[Sydon|Sydona]], ale doki w gruzach, 150 obrońców poległo.
-* **Hold Monster bumerangiem** — [[Icarus]] rzuca Hold Monster na drużynę; [[Felicjan Janus Twardowski|Felicjan]] przekierowuje zaklęcie z powrotem na smoka, paraliżując go własną mocą.
-* **[[Arevon Elorrenthi|Arevon]] tworzy Wall of Fire** odgradzając [[Icarus|Icarusa]]; [[Orestes]] nieskutecznie próbuje [[Arrow of Dragon Slaying]] (strzała się nie przebija); [[Tysophale]], [[Raspytrion]] i [[Arkyrania]] gryzą i drapią mutanta.
-* **Drugi paraliżujący oddech [[Icarus|Icarusa]]** — [[Arevon Elorrenthi|Arevon]] i Klonicjan zinkapacytowani; [[Versir]] wytrzymuje, trzykrotnie [[Icarus]] wyrzuca jedynkę na atakach na [[Versir|Versira]]; [[Versir]] leczy [[Arevon Elorrenthi|Arevona]] Lesser Restoration.
-* **[[Orestes]] powala [[Icarus|Icarusa]] Strike of the Hill Giant** — mimo monstrualnych rozmiarów smoka sprowadza go do parteru.
-* **[[Arevon Elorrenthi|Arevon]] zabija [[Icarus|Icarusa]]** — odpala Wrath of the Dragon Gods (Mytros Action), po czym trafia radiantnym ostrzem rozbijając aurę ciemności mutanta; **[[Mytros (Bogini)|Bogini Mytros]]** przyznaje drużynie 2 nowe Miracle Pointy.
-* **[[Sybolkorax]] ujawnia plan [[Kolos Pythora|Kolosa Pythora]]** — wielką statuę boga wojny można obudzić jak mecha-boga; kluczem jest [[Rod of Rulership]] dzierżone przez [[Acastus|Acastusa]] w [[Pałac Królewski w Mytros|pałacu królewskim]]. Drużyna rozważa [[Ismene Neurdagon|Ismenę Neurdagon]] lub [[Moxena|Moxenę]] jako pilotkę.
+* **Śmierć [[Hergeron|Hergerona]]** w [[Świątynia Pięciu|Świątyni Pięciu]] – fey wezwany przez [[Arevon Elorrenthi|Arevona]] wbija empyreanowi widmowe sztylety; z jego zwłok Arevon bierze [[Złota Moneta Hergerona|złotą monetę-klucz]] do [[Praxys]].
+* Trzecia runda Bitwy o [[Mytros]]: [[Corinna]] obejmuje dowództwo nad legionem, obrońcy odpierają fale [[Sydon|Sydona]], ale doki leżą w gruzach.
+* Walka ze zmutowanym [[Icarus|Icarusem]]: [[Felicjan Janus Twardowski|Felicjan]] odbija Hold Monster na smoka, a [[Orestes]] powala go Strike of the Hill Giant.
+* **Śmierć [[Icarus|Icarusa]]** – [[Arevon Elorrenthi|Arevon]] zadaje ostateczny cios radiantnym ostrzem; bogini [[Mytros (Bogini)|Mytros]] przyznaje drużynie nowe Miracle Pointy.
+* [[Sybolkorax]] ujawnia plan [[Kolos Pythora|Kolosa Pythora]] – statuę boga wojny można obudzić dzięki [[Rod of Rulership]] dzierżonemu przez [[Acastus|Acastusa]].
 
 ## Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa (25.05.2026)
-* **Koordynacja obrony Mytros** — Bohaterowie przejęli strategiczne dowodzenie nad obroną stolicy w Świątyni Pięciu, kierując ocalałe siły przeciwko automatonom [[Sydon|Sydona]] i barbarzyńcom z [[Wyspa Indygo|plemion Indygo]].
-* **Konfrontacja z szalonym Acastusem** — Przebicie się do sali tronowej Pałacu Królewskiego i odparcie oskarżeń zdesperowanego monarchy. Dzięki presji [[Versir|Versira]] i autorytetowi jego matki [[Idylla|Idylli]], król [[Acastus]] odłożył dumę i przekazał drużynie [[Rod of Rulership|Berło Władzy]].
-* **Zdrada i śmierć Tarchona** — W trakcie nagłej zasadzki jeźdźców Sydona pod wodzą [[Leopardas|Leopardasa]] w sali tronowej, [[Tarchon]] zdradził Mytros, atakując [[Orestes|Orestesa]] ze słowami „Chwała Sydonowi!”. Został obezwładniony przez minotaura i zgładzony przez [[Orion Xul|Oriona Xula]], który z pogardą przebił jego gardło włócznią.
-* **Likwidacja napastników w pałacu** — Zacięta walka w sali tronowej: [[Felicjan Janus Twardowski|Felicjan]] rzucił *Smoczą Transformację (Draconic Transformation)*, jego klon [[Klonicjan]] ciskał *Chromatycznymi Kulami*, [[Arevon Elorrenthi|Arevon]] walczył w gwiezdnej formie, a król [[Acastus]] zabił jednego z wrogów swoim magicznym mieczem wysysającym życie.
-* **Przebudzenie Kolosa Pythora** — Przelot na sprzymierzonych smokach ([[Sybolkorax]], [[Arkyrania]], [[Tysophale]], [[Raspytrion]]) do portu i włożenie [[Rod of Rulership|Berła Władzy]] w mechanizm kontrolny głowy Kolosa. Ożywienie gigantycznej machiny jako mecha-boga odmieniło losy bitwy na lądzie i dało obrońcom nową nadzieję.
-* **Zatopienie Ultrosa i przybycie Sydona** — Pojawienie się gigantycznych węży morskich Sydona w [[Zatoka Cerulańska|Zatoce Cerulańskiej]], które zaatakowały i zatopiły [[Ultros|Ultrosa]]. Chwilę później sam tytan [[Sydon]] wkroczył na pole bitwy, zwiastując zbliżającą się ostateczną konfrontację.
+* Przejęcie strategicznego dowodzenia nad obroną [[Mytros]] i konfrontacja z królem [[Acastus|Acastusem]], który pod presją [[Versir|Versira]] i [[Idylla|Idylli]] oddaje drużynie [[Rod of Rulership|Berło Władzy]].
+* Zasadzka jeźdźców [[Zakon Sydona|Zakonu Sydona]] w sali tronowej i zdrada [[Tarchon|Tarchona]] („Chwała Sydonowi!”), którego zabija [[Orion Xul|Orion]].
+* Aktywacja [[Kolos Pythora|Kolosa Pythora]] za pomocą [[Rod of Rulership|Berła Władzy]], co odwraca losy bitwy na lądzie.
+* Atak gigantycznych węży morskich na [[Ultros|Ultrosa]] i wejście [[Sydon|Sydona]] na pole bitwy.
 
 ## Sesja 79 - Bitwa o Mytros: Gniew Pana Burz (08.06.2026)
-* **Skoordynowane uderzenie na Sydona** — Drużyna na grzbietach smoków ([[Raspytrion]], [[Sybolkorax]]) oraz sterowany przez [[Klonicjan|Klonicjana]] (klona [[Felicjan Janus Twardowski|Felicjana]]) i przyspieszony magią [[Kolos Pythora]] rozpoczynają bezpośredni szturm na [[Sydon|Sydona]] w zrujnowanym porcie [[Mytros]].
-* **Starcie z sługami tytana** — Jeden z cyklopów próbuje obrzucać herosów głazami, ale zostaje odcięty przez [[Felicjan Janus Twardowski|Felicjana]] kręgiem *Ściany Ognia*. Wieloręki [[Gyganie|Gygan]] łapie w locie za ogon smoka [[Sybolkorax|Sybolkoraxa]], unieruchamiając go w miejscu i paraliżując ruch [[Orestes|Orestesa]].
-* **Teleportacja i klątwa Versira** — [[Versir]] leczy rany swoje oraz swojego magicznego wierzchowca [[Trąba|Tromby]], po czym obaj teleportują się w błysku magii wprost przed twarz [[Sydon|Sydona]]. Versir zadaje dwa cięcia swym mieczem, nakładając na tytana klątwę odcinającą go od wszelkiego leczenia, oraz nawiązuje z nim dialog o przyczynach nienawiści do śmiertelników.
-* **Legendarna odpowiedź Sydona** — Władca Burz odpowiada pogardą i wyprowadza potężne cięcie swoją [[Glewia Sydona|glewią]], poważnie raniąc smoka [[Raspytrion|Raspytriona]] (wierzchowca [[Orion Xul|Oriona Xula]]), który jednak utrzymuje się w locie.
-* **Przerwanie starcia** — Pojedynek zostaje zawieszony w połowie pierwszej rundy z przyczyn losowych (nagłe odejście mistrza gry od stołu); starcie pozostaje nierozstrzygnięte.
+* Skoordynowany atak bohaterów, dosiadających smoków i wspieranych przez [[Kolos Pythora|Kolosa Pythora]] sterowanego przez [[Klonicjan|Klonicjana]], na [[Sydon|Sydona]].
+* [[Versir]] teleportuje się przed oblicze [[Sydon|Sydona]] i nakłada na niego klątwę odcinającą od uzdrowień.
+* [[Sydon]] ciężko rani smoka [[Raspytrion|Raspytriona]] [[Glewia Sydona|glewią]]; starcie pozostaje nierozstrzygnięte do następnej sesji.
 
 ## Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz (07.07.2026)
-* **Powietrzno-morskie starcie z Sydonem** — Bohaterowie kontynuują walkę z tytanem [[Sydon|Sydonem]] nad wodami zatoki [[Mytros]] przy okręcie [[Tranquility]], dosiadając smoków ([[Arkyrania]], [[Sybolkorax]], [[Nephele (Smok)|Nephele]]) i sterując [[Kolos Pythora|Kolosem Pythora]] wraz z [[Klonicjan|Klonicjanem]].
-* **Śmierć smoczycy Nephele** — [[Sydon]] skupia furię na srebrnołuskiej [[Nephele (Smok)|Nephele]], powala ją i bezlitośnie dobija; martwe ciało smoczycy dryfuje ku plaży.
-* **Burzowy żywiołak i ginące inkarnacje Trąby** — Sydon przywołuje burzową chmurę siejącą palącym kwasem i pierwotnymi gromami; kolejne inkarnacje niebiańskiego wierzchowca [[Versir|Versira]], [[Trąba|Trąby]], giną jedna po drugiej, lecz mag wciąż przyzywa je na nowo.
-* **Odwrócona grawitacja i dezintegracja** — [[Felicjan Janus Twardowski|Felicjan]] odwraca grawitację magicznym zwojem, wyrywając [[Lewiatan|Lewiatana]] z wody wysoko w powietrze, a później dezintegruje burzowego żywiołaka szmaragdowym promieniem.
-* **Zguba Lewiatana** — [[Orestes]] w szale zabija gigantycznego [[Lewiatan|Lewiatana]] serią cięć [[Topór Xandera|Toporem Xandera]].
-* **Śmierć Sydona** — [[Orestes]], szarżując na smoczym grzbiecie, zadaje tytanowi cios ostateczny — [[Topór Xandera]] rozcina trzecie oko [[Sydon|Sydona]]; Władca Burz rozsypuje się w popiół i złoty pył, pozostawiając jedynie [[Glewia Sydona|glewię]]. Nienaturalna burza nad [[Mytros]] milknie.
-* **Przebudzenie Góry Volkana** — Śmierć boga wywołuje tąpnięcie i trzęsienie ziemi, a wygasły wulkan [[Kuźnia Volkana|Góra Volkana]] budzi się do życia, plując dymem i ogniem.
-* **Nadejście Lutherii (cliffhanger)** — Tuż po zwycięstwie przybywa [[Lutheria]] z koszmarną świtą nieumarłych, zamienia ocalałych mieszkańców w bydło i pogrąża miasto w obłędzie, posyłając bohaterom nieme, mroczne zaproszenie.
+* Dalsza walka z [[Sydon|Sydonem]] nad zatoką [[Mytros]]; tytan zabija smoczycę [[Nephele (Smok)|Nephele]].
+* Sydon przywołuje burzowego żywiołaka, który zabija kolejne inkarnacje [[Trąba|Trąby]]; [[Felicjan Janus Twardowski|Felicjan]] dezintegruje żywiołaka, a [[Orestes]] zabija [[Lewiatan|Lewiatana]] [[Topór Xandera|Toporem Xandera]].
+* **Śmierć [[Sydon|Sydona]]** – [[Orestes]] rozcina Toporem Xandera trzecie oko tytana; Władca Burz rozsypuje się w popiół i złoty pył, zostawiając [[Glewia Sydona|glewię]].
+* Przebudzenie [[Kuźnia Volkana|Góry Volkana]] po śmierci boga.
+* Przybycie [[Lutheria|Lutherii]] z nieumarłą świtą, która zamienia ocalałych mieszkańców w bydło.
 
 ## Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów (13.07.2026)
-* **Uzdrowienie smoczycy Nephele i nowe naczynie Despiny** — [[Arevon Elorrenthi|Arevon]] rzuca zaklęcie *Revivify* na martwą smoczycę [[Nephele (Smok)|Nephele]]; pęknięcie amuletu [[Felicjan Janus Twardowski|Felicjana]] uwalnia duszę prababki [[Despina|Despiny]], która zasiedla puste ciało smoka.
-* **Obrona miasta** — Stabilizacja chaosu w płonącym [[Mytros]] po śmierci tytana Sydona; reorganizacja dowództwa (mężny [[Brax|Brax]] zastępuje [[Boreas|Boreasa]]) i frontu obronnego.
-* **Odlot smoczycy** — Po krótkim odpoczynku na plaży, smoczyca [[Nephele (Smok)|Nephele]] (z duszą Despiny) odlatuje na południowy wschód, żegnając się z bohaterami.
-* **Makabryczny bankiet** — Dotarcie na [[Targ Minotaurów|Targ Minotaurów]], gdzie [[Lutheria]] więzi i mutuje mieszkańców w obłędzie.
-* **Zasadzka Orestesa i wybuch walki** — [[Orestes]] próbuje podstępnego ataku z zaskoczenia na boginię, lecz zostaje obezwładniony zaklęciem *Tasha's Hideous Laughter*.
-* **Likwidacja sług i upadek bariery** — [[Versir]] zabija [[Chondrus|Chondrusa]] czarem *Toll the Dead*, niszcząc barierę *Wall of Force*. [[Orion Xul|Orion]] i [[Arevon Elorrenthi|Arevon]] uśmiercają trójgłowego Cerbera i Lamię.
-* **Śmierć Orestesa i powstanie jako zombie** — [[Lutheria]] zabija [[Orestes|Orestesa]] zaklęciem *Finger of Death*. Minotaur powstaje jako zombie, lecz pokonuje jej wolę i wspomaga drużynę ostrzałem z łuku.
-* **Odparcie bogini i gniew Kolosa** — Ciężko ranna w starciu z bohaterami, [[Kolos Pythora|Kolosem Pythora]] oraz smokiem [[Sybolkorax]] bogini teleportuje się z pola walki.
-* **Ostrzeżenie przed Kentimanem** — Przed ucieczką [[Lutheria]] ostrzega przed nadejściem sturękiego tytana [[Kentimane|Kentimane'a]], pragnącego pomścić śmierć swojego syna Sydona, podczas gdy budzi się wulkan.
+* [[Arevon Elorrenthi|Arevon]] wskrzesza [[Nephele (Smok)|Nephele]] (Revivify); w jej ciele zamieszkuje dusza [[Despina|Despiny]] uwolniona z amuletu [[Felicjan Janus Twardowski|Felicjana]], po czym smoczyca odlatuje.
+* Dotarcie na [[Targ Minotaurów]], gdzie [[Lutheria]] więzi i mutuje mieszkańców.
+* Walka ze sługami bogini: [[Versir]] zabija [[Chondrus|Chondrusa]], a [[Orion Xul|Orion]] i [[Arevon Elorrenthi|Arevon]] uśmiercają Cerbera.
+* **Śmierć [[Orestes|Orestesa]]** od Finger of Death rzuconego przez Lutherię i jego powstanie jako zombie, który mimo to wspiera drużynę z łuku.
+* Ranna Lutheria teleportuje się z pola walki, ostrzegając przed [[Kentimane|Kentimanem]], który chce pomścić syna [[Sydon|Sydona]].
 
 ## Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów (20.07.2026)
-* **Taniec świni** — [[Felicjan Janus Twardowski|Felicjan]] przekierowuje zaklęcie [[Lutheria|Lutherii]] wymierzone w [[Klonicjan|Klonicjana]] na przypadkową świnię, a [[Orion Xul|Orion]] dobija Lamię [[Odkupienie Pythora|Odkupieniem Pythora]], pozbawiając boginię ostatniego wsparcia.
-* **Cios Kolosa** — [[Klonicjan]], sterujący [[Kolos Pythora|Kolosem Pythora]], przebija [[Lutheria|Lutherię]] na wylot gigantyczną włócznią mecha-boga; okazuje się jednak, że bogini nie padnie od zwykłego oręża — ostateczny cios musi zadać broń godna Tytanki.
-* **Powrót muzyki** — Po wygaśnięciu [[Przysięga Pokoju|Przysięgi Pokoju]] [[Lutheria]] odzyskuje odebraną jej przed wiekami domenę muzyki i przez całe starcie śpiewa, poświęcając osobną, szyderczą pieśń każdemu z [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].
-* **Wciągnięcie do Świata Snów** — Uderzenie [[Topór Xandera|Topora Xandera]] rozrywa rzeczywistość: [[Lutheria]] przenosi drużynę do [[Świat Snów|Świata Snów]], swojej domeny, otaczając się siedmioma identycznymi odbiciami. [[Klonicjan]] i [[Kolos Pythora]] zostają po drugiej stronie.
-* **Odnalezienie prawdziwej bogini** — [[Felicjan Janus Twardowski|Felicjan]] serią kul żywiołowej energii wygasza kolejne fantazmaty i odnajduje prawdziwą [[Lutheria|Lutherię]] wśród jej odbić.
-* **Psioniczny krzyk i ciemność** — Bogini paraliżuje naraz [[Orestes|Orestesa]], [[Arevon Elorrenthi|Arevona]] i [[Orion Xul|Oriona]], po czym spowija pole bitwy kulą magicznej ciemności. [[Felicjan Janus Twardowski|Felicjan]] jako jedyny zachowuje swobodę ruchu i uwalnia minotaura magią rozpraszającą.
-* **Aura Czystości** — Uwolniony z ochronnej sfery [[Versir]] spala resztki mocy na Aurę Czystości, która stawia sparaliżowanych towarzyszy na nogi; [[Orestes|Orestesa]] przed iluzjami chroni [[Pierścień Orestesa]].
-* **Dar Mytros** — Drużyna spala wszystkie pozostałe Punkty Cudów, dar bogini [[Mytros (Bogini)|Mytros]], by [[Arevon Elorrenthi|Arevon]] odzyskał w środku bitwy pełnię magii.
-* **Słowa rzucone w pustkę** — Wygnany do wielowymiarowego labiryntu [[Versir]] przemawia w pustkę, wytykając bogini strach przed samotnością: „Nie boję się spotkać z matką. Ty od tysięcy lat boisz się samotności".
-* **Pułapka na ścianie mocy** — [[Arevon Elorrenthi|Arevon]] zamyka drużynę w niewidzialnej ścianie mocy, lecz [[Lutheria]] przerywa koncentrację na labiryncie, ściąga [[Versir|Versira]] z powrotem poza barierę i atakuje go, zmuszając druida do zniesienia ochrony.
-* **Słup światła i koniec regeneracji** — [[Felicjan Janus Twardowski|Felicjan]] przywołuje słup palącego światła, systematycznie wygaszający klony bogini, a uderzenie [[Versir|Versira]] [[Zguba Tytanów|Zgubą Tytanów]] dławi zdolność [[Lutheria|Lutherii]] do leczenia się cudzymi ranami.
-* **Załamanie domeny** — Gdy pękają ostatnie odbicia, [[Świat Snów]] rozpada się i odsyła drużynę na [[Targ Minotaurów]]; [[Lutheria]] wraca z nimi, kurcząc się do rozmiarów zwykłej kobiety.
-* **Śmierć Lutherii** — Bogini dobrowolnie przerywa walkę, siada na podeście i żegna bohaterów („No to była dobra partia. Na pewno was wszystkich zapamiętam"). [[Orestes]] chybia pierwszym ciosem, po czym drugim cięciem [[Topór Xandera|Topora Xandera]] **odcina jej głowę**. Ciało rozsypuje się w złoty pył, zostawiając jedynie [[Kryształowa Kosa Lutherii|kryształową kosę]].
-* **Rozwianie klątwy** — Magia bogini rozpływa się nad [[Mytros]]: zwierzęta odzyskują ludzkie kształty, szaleńcy zmysły, a mgła znika.
-* **Erupcja wulkanu (cliffhanger)** — Nim triumf zdąży wybrzmieć, horyzont rozdziera potężny huk erupcji — zapowiedź nadejścia sturękiego [[Kentimane|Kentimane'a]].
+* [[Orion Xul|Orion]] dobija Lamię, a [[Klonicjan]] przebija [[Lutheria|Lutherię]] włócznią [[Kolos Pythora|Kolosa Pythora]]; bogini nie padnie jednak od zwykłego oręża, tylko od broni godnej Tytanki.
+* Lutheria wciąga drużynę do [[Świat Snów|Świata Snów]], otaczając się siedmioma odbiciami; [[Felicjan Janus Twardowski|Felicjan]] odnajduje prawdziwą boginię.
+* Walka w domenie bogini: psioniczny krzyk, Aura Czystości [[Versir|Versira]], słup światła Felicjana i uderzenie [[Zguba Tytanów|Zgubą Tytanów]] dławiące jej regenerację, aż [[Świat Snów]] się załamuje.
+* **Śmierć [[Lutheria|Lutherii]]** – po dobrowolnym zakończeniu walki [[Orestes]] odcina jej głowę [[Topór Xandera|Toporem Xandera]]; po bogini zostaje [[Kryształowa Kosa Lutherii|kryształowa kosa]], a jej klątwa nad [[Mytros]] się rozwiewa.
+* Erupcja wulkanu zwiastuje nadejście [[Kentimane|Kentimane'a]].
 
 ## Sesja 83 - Zmierzch Ery Tytanów (03.08.2026)
-* **Łaska Mytros i godzina oddechu** — Po śmierci [[Lutheria|Lutherii]] na [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] spływa łaska bogini [[Mytros (Bogini)|Mytros]]. [[Arkyrania]] pierwsza wypatruje nadchodzącego od wschodu [[Kentimane|Kentimane'a]] i ocenia, że mimo ogromu jest powolny — zostaje im może godzina.
-* **Identyfikacja kosy** — [[Klonicjan]] odczytuje z [[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]], że broń jest potężna, ale jej długotrwałe używanie niesie wyniszczające skutki; [[Orestes]] odkłada ją bez żalu i zostaje przy [[Topór Xandera|Toporze Xandera]].
-* **Trzy drogi Yali** — [[Yala]] przylatuje do [[Mytros]] i staje po stronie miasta przeciw własnemu ojcu, wskazując trzy wyjścia: poddać się, kruszyć [[Kentimane|Sturękiego]] siłą wszystkich sojuszników, albo okazać mu potęgę i godnie rozkazać mu odejść.
-* **Mowa Felicjana** — [[Felicjan Janus Twardowski|Felicjan]] przemawia do garstki ocalałych; zamiast uciekać, mieszkańcy zostają, schodzą się ochotnicy, a rozproszone oddziały zbierają się w [[Latająca Forteca Smoczych Lordów|Latającej Fortecy Smoczych Lordów]].
-* **Nadejście Sturękiego** — Bitwa rozgrywa się nad polami na wschód od [[Mytros]]. Drużyna walczy ze smoczych grzbietów, wspierana przez [[Kolos Pythora|Kolosa Pythora]] pilotowanego przez [[Klonicjan|Klonicjana]], złotego smoka [[Helios|Heliosa]] i [[Yala|Yalę]].
-* **Trzech w trzewiach Tytana** — [[Kentimane]] połyka kolejno [[Versir|Versira]], [[Orion Xul|Oriona]] i [[Arevon Elorrenthi|Arevona]]. [[Versir]] tnie wnętrzności [[Zguba Tytanów|Zgubą Tytanów]] i teleportuje się do nieprzytomnego [[Orion Xul|Oriona]], by wlać mu miksturę leczącą, zamiast uciekać samemu.
-* **Żniwo stu ramion** — Sto kamiennych ramion pustoszy pole bitwy: [[Yala]] traci przytomność w miażdżącym uścisku i zostaje wleczona za [[Kentimane|Tytanem]], [[Helios]] zostaje przygwożdżony, a [[Arkyrania]] ledwo utrzymuje się w powietrzu.
-* **Miecz losu i nieudane wygnanie** — [[Felicjan Janus Twardowski|Felicjan]] zawiesza nad [[Kentimane|Kentimane'em]] widmowy miecz losu z wykrzyczanym warunkiem, a następnie próbuje wygnać [[Tytani|Tytana]] z tego świata — magia rozpływa się po nim jak fala na skale.
-* **Amok minotaura** — [[Orestes]] wykrzykuje [[Kentimane|Kentimane'owi]] w twarz, że to on zabił [[Sydon|Sydona]] i [[Lutheria|Lutherię]]; groźba nie robi wrażenia, ale jedna z pięćdziesięciu głów odwraca się ku niemu.
-* **Wymiotujący Tytan** — [[Arevon Elorrenthi|Arevon]] uwalnia z wnętrza [[Tytani|Tytana]] falę czystej siły; [[Kentimane]] zwymiotował i wyrzucił druida z powrotem na pola.
-* **Pięść, która się zatrzymała** — [[Versir]] wyrywa siebie i [[Orion Xul|Oriona]] z trzewi, staje przed obliczem [[Kentimane|Kentimane'a]] ze [[Zlote Owoce|złotym owocem]] i w imię woli [[Thylea|Thylei]] rozkazuje mu odejść. Pięść wielkości okrętu zatrzymuje się o włos nad jego głową. **Tytan uznaje w bohaterach dzieci [[Thylea|Thylei]], które się nie ugięły, i bez słowa odchodzi na wschód ku morzu** — bitwa o [[Mytros]] dobiega końca.
-* **Bilans wojny** — [[Mytros]] ocalało: z około pięćdziesięciu tysięcy mieszkańców zginęło ponad trzy tysiące, prawdopodobnie najlepszy wynik bitwy przeciwko [[Tytani|Tytanom]] w dziejach [[Kontynent Thylea|Thylei]]. Wśród poległych [[Darien]], królowa Amazonek. Wylew lawy poszedł na północ i oszczędził miasto.
-* **Narodziny legendy** — [[Brax]] na grzbiecie [[Nessa|Nessy]] dopada [[Orestes|Orestesa]] z już podkoloryzowaną opowieścią o śmierci [[Lutheria|Lutherii]]; minotaur jej nie prostuje, tylko dorzuca własne przechwałki.
-* **Igrzyska pogrzebowe** — Wobec braku drewna na stosy i kapłanów przez dwadzieścia dni trwają igrzyska pogrzebowe, a [[Kyrah]] w ludzkiej postaci śpiewa rosnącą z tygodnia na tydzień pieśń o odysei bohaterów.
-* **Kult Bohaterów Przepowiedni** — W [[Mytros]], [[Estoria|Estorii]] i okolicznych osadach wyrastają pomniki i kapliczki; pierwsza, poświęcona [[Orestes|Orestesowi]], staje na [[Targ Minotaurów|Targu Minotaurów]] cztery tygodnie po bitwie.
-* **Spłacony dług** — [[Mistrz Cieni]] zjawia się w prowizorycznym [[Super Bar|Super Barze]] i odbiera [[Traktat o Prawach i Zobowiązaniach Krwi]] ze skarbca [[Praxys]], nie wyjaśniając, co czyni księgę tak cenną.
-* **Oferta za powrót do życia** — [[Mistrz Cieni]] proponuje [[Orestes|Orestesowi]] powrót do świata żywych w zamian za [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]] dostarczoną do [[Arezja|Arezji]] (wystarczą odłamki, byle komplet); oferta ważna przez rok. [[Vallus]] przyznaje, że poza tym pomóc mogłyby chyba tylko [[Mojry]].
+* Łaska bogini [[Mytros (Bogini)|Mytros]]; [[Yala]] staje po stronie miasta, a [[Felicjan Janus Twardowski|Felicjan]] przemawia do ocalałych i zbiera ochotników.
+* Bitwa z [[Kentimane|Kentimanem]] na polach na wschód od [[Mytros]]: tytan połyka [[Versir|Versira]], [[Orion Xul|Oriona]] i [[Arevon Elorrenthi|Arevona]], a nieudane wygnanie go przez Felicjana nie przynosi skutku.
+* **Koniec Bitwy o [[Mytros]]** – [[Versir]] ze [[Zlote Owoce|złotym owocem]] rozkazuje Kentimane'owi odejść; tytan zatrzymuje pięść i odchodzi na wschód.
+* Bilans wojny: zginęło ponad trzy tysiące z około pięćdziesięciu tysięcy mieszkańców, w tym [[Darien]], królowa Amazonek.
+* Igrzyska pogrzebowe i narodziny kultu [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].
+* [[Mistrz Cieni]] odbiera dług ([[Traktat o Prawach i Zobowiązaniach Krwi]]) i oferuje [[Orestes|Orestesowi]] powrót do życia w zamian za [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]].
 
 ## Sesja 84 - Świt Nowej Ery (10.08.2026)
-* **Narada nad kosą** — [[Orestes]] forsuje rozbicie [[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]] i oddanie odłamków [[Mistrz Cieni|Mistrzowi Cieni]]. [[Felicjan Janus Twardowski|Felicjan]] ostrzega, że ktoś w [[Arezja|Arezji]] systematycznie zbiera relikwie po dawnych bogach, a puste domeny kuszą pretendentów. Zapada kompromis: najpierw kosa idzie w drzazgi, potem rozmowa o odłamkach.
-* **Tranquility bez Znamienia Burzy** — Poharatany [[Ultros]] zostaje w porcie. Okazuje się, że przerobiony przez [[Sydon|Sydona]] żywiołak [[Tranquility]] słucha także [[Arevon Elorrenthi|Arevona]], mimo braku Znamienia Burzy — dzięki temu [[Tars d’Lyrandar|Tars]] zostaje na lądzie.
-* **Rozbicie kosy** — Na wysepce [[Morze Otchłani|Morza Otchłani]] [[Orestes]] roztrzaskuje kosę jednym ciosem [[Topór Xandera|Topora Xandera]]. Z pękniętego kryształu ulatują tysiące dusz; dwie zatrzymują się przy minotaurze — jego rodzice. Z resztek artefaktu wypełza na moment mroczna, półmaterialna postać górująca nad drużyną, po czym rozwiewa się bez słowa.
-* **Uwolnienie Talieusa Pierwszego** — Przy ujściu [[Rzeka Lethe|rzeki Lethe]] drużyna odnajduje [[Hypnos|Hypnosa]]; barka nie miała innego napędu niż przykuty [[Talieus Pierwszy]]. [[Versir]] zbija okowy, wkłada mu w dłoń ostatnie wykute przez niego ostrze i wchłania jego esencję magiczną rękawicą, kończąc mękę trwającą stulecia. Przejmuje też opiekę nad barką i [[Glewia Sydona|Glewię Sydona]].
-* **Powrót Orestesa do życia** — Dziewięciogodzinny, rozczarowująco nudny rytuał w [[Świątynia Cieni|Świątyni Cieni]] w [[Arezja|Arezji]] przywraca minotaura do świata żywych. Na zewnątrz [[Arevon Elorrenthi|Arevon]] dźga go w dłoń, sprawdzając czy krwawi, i podaje ciepłe, wygazowane piwo — najlepsze, jakie [[Orestes]] pił w życiu.
-* **Ultros zostaje barem** — Pozbawiony magicznych właściwości okręt zostaje na stałe zacumowany w porcie [[Mytros]] i przerobiony na bar z muzeum. [[Delphia]] odchodzi z masztu, a [[Volkan]] dołącza do [[Orestes|Orestesa]] w browarze w [[Orestessos Zythikē]] (dawnym Rosos); [[Pholon|Pholonowi]] przypada dwanaście i pół procent udziałów.
-* **Abdykacja Acastusa** — [[Acastus]] wchodzi do sali tronowej ubrany do drogi i przekazuje koronę [[Vallus]]. Prosi jedynie, by stronników [[Sydon|Sydona]] nie wieszano („Dość już nakarmiliśmy Otchłań"). Czystki wychodzą umiarkowane, a [[Vallus]] rządzi dalej z [[Mytros]], stopniowo dzieląc władzę z radą.
-* **Cień Neurdagonów** — [[Taran Neurdagon]] finansuje odbudowę stolicy, wchodzi do rady i po cichu opłaca część jej członków — nigdy jednak nie zdobywając większości. [[Felicjan Janus Twardowski|Felicjan]] przypomina, czym rodzina zajmowała się naprawdę: bioautomatonami i [[Egida Mytros|Egidą Mytros]].
-* **Nowa wiara** — Kult dawnych bogów zanika na rzecz [[Mytros (Bogini)|Bogini Mytros]], a [[Świątynia Pięciu]] staje się jej świątynią i kaplicą pamięci. Wokół stolicy wyrastają kapliczki wszystkich [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] — najszybciej te poświęcone [[Orestes|Orestesowi]] — przy których [[Felicjan Janus Twardowski|Felicjan]] chce wyławiać magiczne talenty dla [[Akademia Mytros|Akademii Mytros]].
-* **Odbudowa Zakonu** — [[Felicjan Janus Twardowski|Felicjan]] odbudowuje [[Smoczy Lordowie|Zakon Smoczych Lordów]] i bierze na siedzibę [[Wyspa Yonder|Wyspę Yonder]] wraz z tamtejszą biblioteką glinianych tabliczek. [[Paradoks]] dorasta niemal do rozmiarów [[Kairos|Kairosa]], a dla nowo wyklutej smoczycy szuka się jeźdźca — pada propozycja [[Corinna|Corinny]].
-* **Rozejm po pięciuset latach** — Za namową [[Orion Xul|Oriona]] [[Pythor]] staje przed [[Hexia|Hexią]]. Wychodzi z jaskini ze świeżym śladem po ugryzieniu i z rozejmem — smoczyca obiecuje zaniechać zemsty. Ojciec i syn zaczynają wspólnie wędrować po [[Kontynent Thylea|Thylei]].
-* **Cena Wiecznego** — Po kilku latach wspólnego życia [[Versir]] odkrywa, że [[Astra]] się starzeje, a on nie. [[Arevon Elorrenthi|Arevon]] wspomina o eliksirze młodości ze swoich zbiorów, ale sprawa pozostaje otwarta.
-* **Zostawiona Lyra** — [[Orion Xul|Orion]] zostawia [[Lyra|Lyrę]] bez rozmowy, bez wyjaśnienia i bez zamknięcia — dokładnie tak, jak [[Pythor]] przed wiekami zostawił [[Hexia|Hexię]].
-* **Wyspy po wojnie** — [[Themis]] rządzi jako regentka [[Hippolyta]]; [[Yala]] nie przyjmuje władzy nad [[Amazonki|Amazonkami]]. W [[Arezja|Arezji]] narasta niezadowolenie po stracie tysiąca dwustu żołnierzy i wojna handlowa o żelazo. Na wyspie [[Helios|Heliosa]] cyklopy rozwijają ruch pacyfistyczny. Obowiązki [[Volkan|Volkana]] przy kowadle przejmuje [[Bront]] — jego syn [[Steros]] zginął w pierwszej fali [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala|Bitwy o Mytros]].
-* **Sprawy niedokończone** — Piętnaście lat poszukiwań [[Królestwo Syren|Zatopionego Królestwa Syren]] kończy się niczym. [[Versir]] szuka ochotniczek na nowe [[Mojry]] — [[Wiedźma Lotosu]] wstępnie chętna, pada też kandydatura [[Versi|Versi Wyroczni]]. Niebieskiej tiefling nigdy nie znaleziono; kryła się za drzwiami w [[Kanały Mytros|Kanałach Mytros]], przez które drużyna nie odważyła się przejść.
-* **Kurs Antikythery** — [[Antikythera]] ożywa sama z siebie i wyznacza kurs do [[Eberron|Eberronu]]. [[Arevon Elorrenthi|Arevon]] przekonuje ocalałych, by nie wracali do domu, ale ostatecznie buduje niepozorny wiosłowy statek i wysyła nim [[Ivello Ostren|Ivella Ostrena]] oraz [[Lia Amakiir|Lię Amakiir]] w niemal samobójczy rejs powrotny.
+* [[Orestes]] rozbija [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]]; z pękniętego kryształu ulatują tysiące dusz, w tym rodzice minotaura.
+* [[Versir]] uwalnia [[Talieus Pierwszy|Talieusa Pierwszego]] z okowów [[Hypnos|Hypnosa]] i przejmuje opiekę nad barką i [[Glewia Sydona|Glewią Sydona]].
+* Rytuał w [[Świątynia Cieni|Świątyni Cieni]] w [[Arezja|Arezji]] przywraca [[Orestes|Orestesa]] do życia; [[Ultros]] zostaje na stałe barem w porcie [[Mytros]].
+* [[Acastus]] abdykuje, a koronę przejmuje [[Vallus]]; kult dawnych bogów ustępuje wierze w [[Mytros (Bogini)|Boginię Mytros]].
+* [[Felicjan Janus Twardowski|Felicjan]] odbudowuje [[Smoczy Lordowie|Zakon Smoczych Lordów]] z siedzibą na [[Wyspa Yonder|Wyspie Yonder]].
+* [[Pythor]] zawiera z [[Hexia|Hexią]] rozejm po pięciuset latach; [[Orion Xul|Orion]] porzuca [[Lyra|Lyrę]].
+* [[Antikythera]] ożywa i wyznacza kurs do [[Eberron|Eberronu]]; [[Arevon Elorrenthi|Arevon]] wysyła [[Ivello Ostren|Ivella Ostrena]] i [[Lia Amakiir|Lię Amakiir]] w rejs powrotny.
