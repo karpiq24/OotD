@@ -6,7 +6,7 @@ aliases:
 image_prompt: middle-aged male, muscular build, ancient Greek king, stern expression, dark intense eyes, furrowed brow, short dark hair, a thick black beard and mustache, wearing a golden laurel wreath crown, an ornate golden cuirass with a pauldron shaped like a snarling lion's head, a red cape over his shoulder.
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Acastus](../../../assets/people/acastus.webp)
 
 _Były król Mytros, potomek Estora Arkelandera. Po abdykacji w [[Sesja 84 - Świt Nowej Ery|sesji 84]] opuścił miasto, a koronę przekazał żonie, [[Vallus]]._
 

@@ -6,7 +6,7 @@ aliases:
 image_prompt: young adult female, beautiful ancient Greek goddess, slender build, olive skin, long wavy black hair styled in a braid, loose curls framing her face, captivating green eyes, light freckles across her nose, gentle smile, wearing a white chiton and a dark teal-green himation, adorned with ornate gold jewelry, golden Greek key armband, gold pendant necklace, golden hair clip, dangling gold earrings, anime art style.
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Kyrah](../../../assets/people/kyrah.webp)
 
 _Dawna Bogini Muzyki i Podstępu, jedna z [[Moce Thylei#Pięciu Bogów|Pięciu Bogów]], znana jako Muza. W rzeczywistości brązowa smoczyca [[Arkyrania]], która po pęknięciu Przysięgi Pokoju straciła boską moc; dla mieszkańców Thylei pozostaje boginią._
 

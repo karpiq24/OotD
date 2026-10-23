@@ -4,7 +4,7 @@ aliases:
   - Kronos
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Cronos](../../../assets/people/cronos.webp)
 
 _Zmarły, poprzedni król Wyspy Wygnańców, brutalny tyran._
 

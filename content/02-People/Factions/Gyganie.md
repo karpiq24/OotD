@@ -2,7 +2,7 @@
 title: Gyganie
 ---
 
-![Gyganie](../../assets/placeholder.webp)
+![Gyganie](../../assets/people/gyganie.webp)
 
 _Jednookie, sześciorękie olbrzymy, niegdyś władcy własnego imperium, w czasie wojny z Tytanami słudzy Sydona._
 

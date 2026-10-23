@@ -7,7 +7,7 @@ aliases:
   - Ramzus
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Ramsus](../../../assets/people/ramsus.webp)
 
 _Szef kuchni w Praxys, który pomógł drużynie i został uwolniony z wieży._
 

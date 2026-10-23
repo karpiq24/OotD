@@ -2,6 +2,8 @@
 title: Thadeus Sznukides
 ---
 
+![Thadeus Sznukides](../../../assets/people/thadeus_sznukides.webp)
+
 ## Opis
 Prowadzący konkurs wiedzy "Enas apo Deka" (Jeden z Dziesięciu).
 

@@ -4,6 +4,8 @@ aliases:
   - Minotaury
 ---
 
+![Minotaur z Thylei](../../assets/people/minotaur_z_thylei.webp)
+
 Minotaury to potomkowie starożytnego plemienia ludzi, którzy zostali przeklęci przez bogów (Sydona) i przemienieni w pół-ludzi, pół-byki.
 
 ## Legend of the Minotaurs (Legenda Minotaurów)

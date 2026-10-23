@@ -4,7 +4,7 @@ aliases:
   - Bóg Piękna
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Narsus](../../../assets/people/narsus.webp)
 
 _Bóg Piękna, więzień Arezji; brat Pythora, Kyrah i Vallus_
 

@@ -5,7 +5,7 @@ aliases:
   - Wyrocznia
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Versi](../../../assets/people/versi.webp)
 
 _Słynna nimfa wodna obdarzona darem proroctwa i miłością do śmiertelnych ras. Córka Sydona, która sprzeciwiła się ojcu, wywróżywszy mu upadek._
 

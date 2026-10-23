@@ -2,7 +2,7 @@
 title: Calliope
 ---
 
-![Calliope](../../../assets/placeholder.webp)
+![Calliope](../../../assets/people/calliope.webp)
 
 _Królowa Arezji._
 

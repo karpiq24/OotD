@@ -6,7 +6,7 @@ occupation: Strażnik
 image_prompt:
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Cerber](../../assets/people/cerber.webp)
 
 _Piekielny pies o trzech głowach — w czasie wędrówki bohaterów spotkali oni kilka różnych cerberów; wszystkie zginęły._
 

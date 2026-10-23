@@ -3,7 +3,7 @@ title: Volkan
 image_prompt: elderly male dwarf, god of the forge, stocky build, wrinkled face, intense blue eyes, a golden monocle over one eye, prominent nose, an immense and bushy black beard with a white mustache, receding black and grey hair, wearing a heavy, ornate golden pauldron, fantasy blacksmith aesthetic, digital painting style.
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Volkan](../../../assets/people/volkan.webp)
 
 _Dawny Bóg Kuźni, jeden z Pięciu Bogów Thylei; w rzeczywistości brązowy smok [[Sybolkorax]], który po pęknięciu Przysięgi Pokoju stracił boską moc. Po wojnie osiadł u boku [[Orestes|Orestesa]] w [[Orestessos Zythikē]], gdzie razem budują kadzie do browaru; dla mieszkańców Thylei pozostaje Bogiem Kuźni._
 

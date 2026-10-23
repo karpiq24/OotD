@@ -4,7 +4,7 @@ aliases:
   - Wiosenny Wiatr
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Zephyrus](../../../assets/people/zephyrus.webp)
 
 _Oceanid, Wiosenny Wiatr, były Kyrah; zabity przez drużynę_
 

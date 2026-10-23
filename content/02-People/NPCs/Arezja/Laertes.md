@@ -4,7 +4,7 @@ aliases:
   - Mistrz Spokoju
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Laertes](../../../assets/people/laertes.webp)
 
 _Wielki Mistrz Spokoju (Tranquility), starzec poszukujący idealnej oliwki._
 

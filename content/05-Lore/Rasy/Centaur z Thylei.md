@@ -4,6 +4,8 @@ aliases:
   - Centaury
 ---
 
+![Centaur z Thylei](../../assets/people/centaur_z_thylei.webp)
+
 Thyleańskie centaury to dumna rasa koczowników przemierzająca wielkie równiny. Centaury wierzą, że są potomkami boga wojny, który zstąpił pod postacią ogiera. Są dumni z tego boskiego dziedzictwa i żądają szacunku.
 
 ## Culture (Kultura)

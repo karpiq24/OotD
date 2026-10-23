@@ -5,6 +5,8 @@ aliases:
   - Satyry
 ---
 
+![Satyr z Thylei](../../assets/people/satyr_z_thylei.webp)
+
 Satyry to rasa fey z ciałem kozła od pasa w dół. Kochają muzykę, wino i przyjemności cielesne.
 
 ## Culture (Kultura)

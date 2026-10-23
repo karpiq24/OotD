@@ -2,7 +2,7 @@
 title: Mateusz
 ---
 
-![Placeholder](../../../assets/placeholder.jpeg)
+![Mateusz](../../../assets/people/mateusz.webp)
 
 _Kruk Kolekcjoner_
 

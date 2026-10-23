@@ -2,7 +2,7 @@
 title: Sulla
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Sulla](../../../assets/people/sulla.webp)
 
 _Najmłodszy syn Tarana Neurdagona, zakochany w bogini Vallus._
 

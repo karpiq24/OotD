@@ -2,7 +2,7 @@
 title: Trellus
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Trellus](../../../assets/people/trellus.webp)
 
 _Kapłan Śmierci i winiarz, pokonany przez bohaterów w Świątyni Lutherii._
 

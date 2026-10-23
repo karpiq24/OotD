@@ -3,7 +3,7 @@ title: Pythor
 image_prompt: adult male, god of battle, very muscular build, long and thick wavy brown hair with blonde highlights, a full beard and mustache, bright blue eyes, a wide confident grin, wearing a bronze or gold-colored cuirass and heavy, dark metal pauldrons, powerful bare arms, fantasy warrior, Greco-Roman style with Norse warrior influences.
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Pythor](../../../assets/people/pythor.webp)
 
 _Dawny Bóg Bitwy, jeden z [[Pięciu Bogów]] i były król [[Estoria|Estorii]]; w rzeczywistości brązowy smok [[Raspytrion]], który po pęknięciu Przysięgi Pokoju stracił boską moc. Tron zostawił córce [[Anora|Anorze]], a po wojnie wędruje z synem po Thylei; dla mieszkańców pozostaje Bogiem Bitwy._
 

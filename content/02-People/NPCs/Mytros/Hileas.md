@@ -2,7 +2,7 @@
 title: Hileas
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Hileas](../../../assets/people/hileas.webp)
 
 _Dowódca obozu wojskowego Mytros_
 

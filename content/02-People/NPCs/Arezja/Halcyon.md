@@ -4,7 +4,7 @@ aliases:
   - Mistrzyni Tarczy
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Halcyon](../../../assets/people/halcyon.webp)
 
 _Wielka Mistrzyni Tarczy w Arezji, pani Świątyni Tarczy i jedna z pięciu Wielkich Mistrzów Arezji._
 

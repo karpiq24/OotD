@@ -8,7 +8,7 @@ character_personality:
 voice_characteristics:
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Lewiatan](../../../assets/people/lewiatan.webp)
 
 _Gigantyczna morska bestia, która wsparła [[Sydon|Sydona]] w Bitwie o Mytros i zginęła z ręki [[Orestes|Orestesa]]._
 

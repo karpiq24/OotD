@@ -2,7 +2,7 @@
 title: Myrmeki
 ---
 
-![Placeholder](../../assets/placeholder.webp)
+![Myrmeki](../../assets/people/myrmeki.webp)
 
 _Insektoidalna rasa śmiertelników. Ich Królowa zginęła w Praxys, a wezwany na pomoc rój został wybity w Sesji 71._
 

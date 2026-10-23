@@ -2,7 +2,7 @@
 title: Septia
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Septia](../../../assets/people/septia.webp)
 
 _Kapłanka Snów, pokonana przez bohaterów w Świątyni Lutherii._
 

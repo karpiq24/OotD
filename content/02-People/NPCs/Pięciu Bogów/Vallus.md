@@ -3,7 +3,7 @@ title: Vallus
 image_prompt: young adult female, regal bearing, Greek goddess, slender build, tan skin, voluminous dark brown curly hair, intense green eyes, high cheekbones, wearing a white chiton with ornate golden trim and shoulder straps, adorned with a large golden laurel crown, extravagant gold earrings with pearl details, a golden leaf-motif armband, and a gold bracelet, red painted fingernails, Greco-Roman aesthetic, fantasy queen.
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Vallus](../../../assets/people/vallus.webp)
 
 _Królowa Mytros, dawna Bogini Mądrości i jedna z bóstw Piątki; w rzeczywistości brązowa smoczyca [[Tysophale]]. Po abdykacji męża, [[Acastus|Acastusa]], przejęła koronę i rządzi miastem wraz z coraz ważniejszą radą._
 

@@ -2,7 +2,7 @@
 title: Versi Pierwsza
 ---
 
-![Placeholder](../../../../assets/placeholder.webp)
+![Versi Pierwsza](../../../../assets/people/versi_pierwsza.webp)
 
 _Tytanka Jasnowidzenia, matka Versira. Zgładzona przez Lutherię; jej dusza rozproszyła się w gwiezdnym metalu._
 

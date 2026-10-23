@@ -2,7 +2,7 @@
 title: Grimhilda
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Grimhilda](../../../assets/people/grimhilda.webp)
 
 _Przywódczyni krasnoludów_
 

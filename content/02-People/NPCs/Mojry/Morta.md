@@ -5,7 +5,7 @@ aliases:
   - Babuszka Morta
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Morta](../../../assets/people/morta.webp)
 
 _Liderka Mojr, najstarsza z trzech sióstr._
 

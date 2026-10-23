@@ -4,7 +4,7 @@ aliases:
   - Jesienny Wschodni Wiatr
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Euria](../../../assets/people/euria.webp)
 
 _Nimfa, Jesienny Wiatr, wyznawczyni Heliosa; zabita przez drużynę_
 
