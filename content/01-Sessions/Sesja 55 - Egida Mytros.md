@@ -7,7 +7,7 @@ title: "Sesja 55: Egida Mytros"
 
 ## Podsumowanie
 
-Na pokładzie legendarnego [[Ultros|Ultrosa]], prującego fale [[Zatoka Cerulańska|Zatoki Cerulańskiej]] w drodze powrotnej do [[Mytros]], panowała atmosfera ulgi zmieszanej z niepokojem. [[Bohaterowie Przepowiedni]], po brawurowej i niezwykle ryzykownej infiltracji wyspy [[Wyspa Yonder|Yonder]], dzierżyli w dłoniach bezcenny skarb – [[Konspekt Strategiczny Tytanów|strategiczny konspekt wojenny]] samego [[Sydon|Sydona]]. Jednak triumf ten miał gorzki posmak, gdyż na pokładzie statku znajdował się również [[Chondrus]], były doradca króla [[Acastus|Akastusa]] i, jak podejrzewano, sługa mrocznej [[Lutheria|Lutherii]], a w sercu miasta czekał na nich nieprzewidywalny król [[Acastus|Akastus]].
+Rejs powrotny [[Ultros|Ultrosa]] przez [[Zatoka Cerulańska|Zatokę Cerulańską]] dobiegał końca, a im bliżej było do [[Mytros]], tym wyraźniej ulgę mieszał niepokój. [[Bohaterowie Przepowiedni]], po brawurowej i niezwykle ryzykownej infiltracji wyspy [[Wyspa Yonder|Yonder]], dzierżyli w dłoniach bezcenny skarb – [[Konspekt Strategiczny Tytanów|strategiczny konspekt wojenny]] samego [[Sydon|Sydona]]. Jednak triumf ten miał gorzki posmak, gdyż na pokładzie statku znajdował się również [[Chondrus]], były doradca króla [[Acastus|Acastusa]] i, jak podejrzewano, sługa mrocznej [[Lutheria|Lutherii]], a w sercu miasta czekał na nich nieprzewidywalny król [[Acastus]].
 
 ![Powitanie](../assets/sessions/055/055_welcome.webp)
 
