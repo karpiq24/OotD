@@ -41,7 +41,7 @@ Na ten akt agresji błyskawicznie odpowiedział **[[Felicjan Janus Twardowski]]*
 ![Teleportacja Versira i Trąby](../assets/sessions/079/confrontation_1.webp)
 [Prompt](../assets/sessions/079/confrontation_1.txt)
 
-![Pojedynek z Tytanem](../assets/sessions/079/confrontation_2.png)
+![Pojedynek z Tytanem](../assets/sessions/079/confrontation_2.webp)
 [Prompt](../assets/sessions/079/confrontation_2.txt)
 
 Podczas gdy żywioły szalały na polu bitwy, **[[Versir]]**, znalazł się w opałach — jego wierny wierzchowiec, **[[Trąba|Tromba]]**, wciąż tkwił spętany nienaturalnymi wirami powietrza z poprzedniej rundy. Nie tracąc rezonu, Versir przywołał potężne zaklęcie Leczenia Ran (Cure Wounds), kierując uzdrawiającą energię na samego siebie; mocą swego boskiego dziedzictwa ta sama fala mistycznego światła zasklepiła również rany **[[Trąba|Tromby]]**, przywracając wierzchowca do pełni sił. Wzmocniony, Versir wykorzystał mistyczną więź i teleportował się wraz z [[Trąba|Trombą]] tuż przed oblicze samego [[Sydon|Władcy Burz]]. Powietrze wokół nich zgęstniało od magii, gdy Versir dwukrotnie ciął [[Sydon|Tytana]] swym ostrzem, a następnie spojrzał mu prosto w oczy. „Inaczej cię zapamiętałem, Sydonie” – przemówił spokojnym, lecz stanowczym głosem, który przebił się przez zgiełk bitwy. „Powiedz mi, dlaczego tak bardzo nienawidzisz śmiertelników?”.

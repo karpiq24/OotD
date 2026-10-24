@@ -94,7 +94,7 @@ Wtedy nadszedł czas **[[Arevon Elorrenthi|Arevona]]**. Druid sięgnął najpier
 ![Arevon leczy smoki po bitwie](../assets/sessions/077/077_arevon_healing.webp)
 [Prompt](../assets/sessions/077/077_arevon_healing.txt)
 
-![Sybolkorax wskazuje na kolosa Pythora](../assets/sessions/077/077_sybolkorax_prophecy.png)
+![Sybolkorax wskazuje na kolosa Pythora](../assets/sessions/077/077_sybolkorax_prophecy.webp)
 [Prompt](../assets/sessions/077/077_sybolkorax_prophecy.txt)
 
 Gdy ciało [[Icarus|Icarusa]] zastygło wreszcie na zakrwawionym piasku, **[[Arevon Elorrenthi|Arevon]]** pochylił się nad zwłokami, kalkulując zimno — róg, łuski, składniki ciała, wszystko warte zachowania na późniejsze rytuały. Sama **[[Mytros (Bogini)|Mytros, Bogini Świtu]]**, uhonorowała zwycięstwo darem dwóch nowych **Miracle Pointów**, dosypując drużynie świeżych zasobów na to, co miało jeszcze nadejść. **[[Sybolkorax]]** wciąż leżał na granicy śmierci, a **[[Raspytrion]]** dychał ciężko opodal. [[Arevon Elorrenthi|Arevon]] podjął decyzję rozpoczęcia maratonu uzdrowień: kolejne czary leczące lały się z jego rąk raz po raz, wlewając życie kolejno w smoki, w **[[Felicjan Janus Twardowski|Felicjana]]**, w [[Orestes|Orestesa]].
