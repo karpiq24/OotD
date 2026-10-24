@@ -64,6 +64,11 @@ async function _navigate(url: URL, isBack: boolean = false) {
   p = p || new DOMParser()
   const contents = await fetchCanonical(url)
     .then((res) => {
+      // GitHub Pages redirects folder pages to a trailing slash; keep it so relative links resolve
+      const finalUrl = new URL(res.url)
+      if (finalUrl.origin === url.origin && finalUrl.pathname !== url.pathname) {
+        url = new URL(finalUrl.pathname + url.search + url.hash, url.origin)
+      }
       const contentType = res.headers.get("content-type")
       if (contentType?.startsWith("text/html")) {
         return res.text()
