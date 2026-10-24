@@ -4,7 +4,7 @@ aliases:
   - Mistrz Żywiołów
 ---
 
-![Taureus](../../../assets/sessions/063/taureus.png)
+![Taureus](../../../assets/sessions/063/063_taureus.webp)
 
 _Wielki Mistrz Żywiołów, potężny minotaur z Arezji._
 

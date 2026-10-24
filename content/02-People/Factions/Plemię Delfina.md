@@ -2,7 +2,7 @@
 title: Plemię Delfina
 ---
 
-![Delfin](../../../content/assets/sessions/043/043_dolphin.webp)
+![Delfin](../../assets/sessions/043/043_dolphin.webp)
 
 _Elfickie plemię z Wyspy Indygo, ceniące izolację i tradycję; sojusznik bohaterów w wojnie z Tytanami i, po wojnie, jedni z niewielu elfów w całej Thylei._
 

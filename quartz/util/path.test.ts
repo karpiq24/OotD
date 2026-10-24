@@ -257,6 +257,10 @@ describe("link strategies", () => {
       assert.strictEqual(path.transformLink(cur, "index.png", opts), "../../index.png")
       assert.strictEqual(path.transformLink(cur, "test.png", opts), "../../a/test.png")
       assert.strictEqual(path.transformLink(cur, "index#abc", opts), "../../#abc")
+      // file-relative links stay relative to the source file
+      assert.strictEqual(path.transformLink(cur, "../../e/g/h.png", opts), "../../e/g/h.png")
+      assert.strictEqual(path.transformLink(cur, "../test.png", opts), "../test.png")
+      assert.strictEqual(path.transformLink(cur, "./d", opts), "./d")
     })
 
     test("from a/b/index", () => {

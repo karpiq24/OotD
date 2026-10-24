@@ -2,7 +2,7 @@
 title: Pierścień Orestesa
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Pierścień, legendarny (wymaga dostrojenia przez Zgubionego)_
 

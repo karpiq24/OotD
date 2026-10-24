@@ -2,7 +2,7 @@
 title: Morze Astralne
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 Kosmiczna przestrzeń, z której pochodzą gwiazdy-istoty.
 

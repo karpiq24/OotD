@@ -2,7 +2,7 @@
 title: Kryształowa Kosa Lutherii
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Broń, artefakt_
 

@@ -2,7 +2,7 @@
 title: Nyx (Morze Astralne)
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 Kosmiczna otchłań pełna mgławic i nieskończonej pustki.
 

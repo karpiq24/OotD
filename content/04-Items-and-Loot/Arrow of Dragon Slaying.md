@@ -2,7 +2,7 @@
 title: Arrow of Dragon Slaying
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Magiczna strzała przeznaczona do zabijania smoków._
 

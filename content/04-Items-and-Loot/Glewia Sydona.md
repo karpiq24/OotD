@@ -2,7 +2,7 @@
 title: Glewia Sydona
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Broń Tytanów, Legendarne_
 

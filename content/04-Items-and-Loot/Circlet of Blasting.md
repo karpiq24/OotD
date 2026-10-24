@@ -2,7 +2,7 @@
 title: Circlet of Blasting
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Wondrous Item, Uncommon_
 

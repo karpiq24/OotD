@@ -2,7 +2,7 @@
 title: Przeklęte Plemię
 ---
 
-![Placeholder](../../assets/placeholder.png)
+![Placeholder](../../assets/placeholder.webp)
 
 _Plemię centaurów z [[Wyspa Skorpiona|Wyspy Skorpiona]], naznaczone klątwą skorpiona._
 

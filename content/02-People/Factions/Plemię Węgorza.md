@@ -2,7 +2,7 @@
 title: Plemię Węgorza
 ---
 
-![Loopywoopy](../../../content/assets/sessions/042/042_loopywoopy.webp)
+![Loopywoopy](../../assets/sessions/042/042_loopywoopy.webp)
 
 _Jedno z czterech plemion barbarzyńskich z Wyspy Indygo, znane z gościnności i otwartości — sojusznik Bohaterów Przepowiedni od czasu pokonania [[Ventis]]._
 

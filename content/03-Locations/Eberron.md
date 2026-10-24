@@ -2,7 +2,7 @@
 title: Eberron
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 Rodzinny świat [[Arevon Elorrenthi|Arevona]], odległy od [[Kontynent Thylea|Thylei]], która jest kieszonkowym planem odizolowanym od reszty świata.
 

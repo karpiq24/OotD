@@ -2,7 +2,7 @@
 title: Złota Moneta Hergerona
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Wielka, zdobiona złota moneta — w istocie klucz do wieży Praxys._
 

@@ -3,7 +3,7 @@ title: Świat Snów
 image_prompt:
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 Oniryczna domena [[Lutheria|Lutherii]], Pani Snów — jej dom i jej zasady; po śmierci bogini już nie istnieje. Nie jest to miejsce w zwykłym rozumieniu: nie ma tu podłoża, a mimo to nikt nie spada, a wokół kłębi się nieskończona przestrzeń bąbli — światów, wspomnień i koszmarów — fioletowych, złotych, krwistoczerwonych i zielonych jak zaraza. Widziane z wnętrza niebo przybiera barwy krwistej czerwieni i chorobliwej, zaraźliwej zieleni, a grunt pod stopami jest miękki i nieszczery.
 

@@ -4,7 +4,7 @@ aliases:
   - Egida
 ---
 
-![Placeholder](../../../assets/placeholder.webp)
+![Placeholder](../../assets/placeholder.webp)
 
 _Armia automatonów króla [[Acastus|Acastusa]], dzieło [[Ismene Neurdagon]]. Rozbita w Bitwie o Mytros, ale pomogła obronić miasto._
 

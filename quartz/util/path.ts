@@ -229,7 +229,9 @@ export interface TransformOptions {
 export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
   let targetSlug = transformInternalLink(target)
 
-  if (opts.strategy === "relative") {
+  // explicitly relative links (./x, ../x) resolve against the source file whatever the strategy;
+  // a page's URL has the same directory as its file, so the browser resolves them the same way
+  if (opts.strategy === "relative" || /^\.\.?\//.test(target)) {
     return targetSlug as RelativeURL
   } else {
     const folderTail = isFolderPath(targetSlug) ? "/" : ""
