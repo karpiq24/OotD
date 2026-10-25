@@ -85,7 +85,7 @@ These rules come from the full audit that brought all 490 entity pages in line w
 -   **Ambiguous Names**: If "The Captain" is mentioned and you know who it is, link it: `[[Orestes|The Captain]]`.
 -   **Variant Spellings**: Fix spelling only if it's clearly a typo of a known name, and link it.
 -   **Missing Data**: If creating an NPC and you only know their name, fill the template with known info and drop the empty sections (no "TBD" or placeholder text left on the page). Do NOT invent information.
--   **Checks before finishing**: run `uv run python scripts/update_indexes.py` after creating or renaming pages. If the private repo is present, `uv run python build/canon-audit/phase4_check.py` reports broken wikilinks and alias collisions across `content/` (writes `build/canon-audit/reports/phase4_*.txt`).
+-   **Checks before finishing**: run `uv run python scripts/update_indexes.py` after creating or renaming pages. `uv run python scripts/check_wikilinks.py` reports broken wikilinks and alias collisions across `content/`.
 
 ## 5. Standard Directories for New Entities
 When creating NEW entities, always use these target directories:

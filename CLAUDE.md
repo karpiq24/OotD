@@ -130,6 +130,7 @@ Everything lives under `scripts/` (run via `uv run python scripts/...`):
 - `update_indexes.py` — regenerates all `index.md` files under `content/`
 - `import_session.py` — imports an rpgnotes session package and assembles the note (`--snapshot` saves the pre-edit baseline)
 - `export_context.py` — writes `campaign/campaign_context.json` for rpgnotes
+- `check_wikilinks.py` — reports broken wikilinks and alias collisions in `content/`
 - `fix_image_paths.py` — repairs broken image paths in Markdown
 - `convert_assets.py` (compress images/videos), `get_prompts.py` (collect `image_prompt` fields), `find_and_zip.py` (zip the files mentioning given names) — maintenance utilities
 - `pdf2md/` — PDF → markdown-vault pipeline (see below)

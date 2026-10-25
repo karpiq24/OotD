@@ -262,8 +262,8 @@ def update_root_index_file(output_path, current_items):
     # Add banner image if configured
     banner_markdown = ""
     # We assume the script is run from project root, so we check if the file exists
-    if os.path.exists(os.path.join(ROOT_DIR, EXCLUDED_DIR, "ootd_background.png")):
-         banner_markdown = f"![Banner]({EXCLUDED_DIR}/ootd_background.png)\n\n"
+    if os.path.exists(os.path.join(ROOT_DIR, EXCLUDED_DIR, "ootd_background.webp")):
+         banner_markdown = f"![Banner]({EXCLUDED_DIR}/ootd_background.webp)\n\n"
 
     new_content = f"{frontmatter}\n\n{banner_markdown}{body}\n"
     
