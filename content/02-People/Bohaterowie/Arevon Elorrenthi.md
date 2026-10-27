@@ -81,4 +81,17 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]] przed bitwą zaleczył rany [[Orion Xul|O
 
 W [[Sesja 84 - Świt Nowej Ery]] odkrył, że przerobiony przez [[Sydon|Sydona]] żywiołak [[Tranquility]] słucha także jego, choć nie nosi Znamienia Burzy - dzięki temu drużyna popłynęła do [[Morze Otchłani|Morza Otchłani]] bez wciągania w to [[Tars d’Lyrandar|Tarsa]]. To on czekał na murze [[Świątynia Cieni|Świątyni Cieni]], aż [[Orestes]] wyjdzie z rytuału żywy, i sprawdził to sztyletem, po czym uleczył ranę i podał minotaurowi piwo.
 
-Głównym celem następnych piętnastu lat stało się dla niego [[Królestwo Syren|Zatopione Królestwo Syren]] - wyprawa za wyprawą, bez rezultatu; zapał przygasł, ale poszukiwań nigdy nie porzucił całkowicie. Rozważał dołączenie do odbudowanego [[Smoczy Lordowie|Zakonu Smoczych Lordów]] (skłaniał się ku „tak", ale najpierw chciał przeczytać wszystkie szczegóły umowy), zaprzyjaźnił się z [[Plemię Delfina|Plemieniem Delfina]] na [[Wyspa Indygo|Wyspie Indygo]] i postanowił spisać wszystkie dzieje, których był świadkiem. Gdy [[Antikythera]] ożyła sama z siebie, rozpoznał w jej wskazaniu kurs do [[Eberron|Eberronu]]. Przekonywał [[Tars d’Lyrandar|Tarsa]] i [[Garrick Vanalan|Garricka Vanalana]], by nie wracali do domu, i ostatecznie zbudował niepozorny wiosłowy statek, którym odesłał do Eberronu [[Ivello Ostren|Ivella Ostrena]] i [[Lia Amakiir|Lię Amakiir]], po wykładach o tym, o czym nie wolno im mówić, i po najostrzejszej przestrodze, na jaką było go stać.
+## Po wojnie
+
+| ![Kurs Antikythery](../../assets/sessions/084/084_theme_new_course.webp) | ![Nad Zatopionym Królestwem](../../assets/sessions/084/084_sec12_the_sunken_kingdom.webp) |
+|:---:|:---:|
+| Kurs Antikythery | Nad Zatopionym Królestwem |
+
+Po bitwie porozmawiał ze wszystkimi, którzy zostali z załogi [[Tranquility]], i ustalił, kto co chce robić i kto chce wracać do domu. [[Antikythera]] została przy nim.
+
+- **Zatopione Królestwo Syren.** Głównym celem następnych lat stało się dla niego [[Królestwo Syren|Zatopione Królestwo Syren]], gdzie ma czekać ostatni zaginiony krewny [[Versir|Versira]]. Wyprawa za wyprawą, z ochotnikami na pokładzie Tranquility i z Versirem u boku — bez rezultatu. Po kilku latach zapał przygasł i zajął się także innymi sprawami, ale poszukiwań nigdy nie porzucił całkowicie.
+- **Eberron.** Długo badał, czy da się przedostać do [[Eberron|Eberronu]] i wrócić. Gdy [[Antikythera]] ożyła sama z siebie, rozpoznał w jej wskazaniu kurs do domu. Przekonał [[Tars d’Lyrandar|Tarsa]] i [[Garrick Vanalan|Garricka Vanalana]], by zostali w Thylei, a [[Ivello Ostren|Ivella Ostrena]] i [[Lia Amakiir|Lię Amakiir]] odesłał niepozornym wiosłowym statkiem, po wykładach o tym, czego nie wolno im mówić, i po najostrzejszej przestrodze, na jaką było go stać.
+- **Wyspy i sąsiedzi.** Najbardziej upodobał sobie [[Wyspa Indygo|Wyspę Indygo]] i zaprzyjaźnił się z elfami z [[Plemię Delfina|Plemienia Delfina]]. Uważa, że [[Mytros]] jest dłużne [[Arezja|Arezji]] i należy jej pomóc, choćby po cichu — jeśli tylko Arezyjczycy poproszą.
+- **Zakon Smoczych Lordów.** Rozważał dołączenie do odbudowanego przez [[Felicjan Janus Twardowski|Felicjana]] [[Smoczy Lordowie|Zakonu]]. Skłaniał się ku „tak", ale najpierw chciał przeczytać wszystkie szczegóły umowy.
+- **Kronika.** Postanowił poświęcić część swoich lat na spisanie wszystkich dziejów, których był świadkiem, zamykając tym swoją najdawniejszą obietnicę.
+- **Elfie lata.** Ma w zbiorach eliksir młodości, którego jako elf nie potrzebuje. Półżartem przyznał, że szuka partnerki wśród elfów właśnie po to, by nie mieć problemu Versira — choć elfiego wyboru w [[Kontynent Thylea|Thylei]] jest niewiele.

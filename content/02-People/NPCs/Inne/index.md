@@ -38,3 +38,4 @@ title: Inne
 - [[Klonicjan]]
 - [[Lewiatan]]
 - [[Bioautomaton Soldier]]
+- [[Edran]]

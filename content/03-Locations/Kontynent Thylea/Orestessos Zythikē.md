@@ -13,7 +13,7 @@ Osada na [[Kontynent Thylea|kontynencie Thylei]], znana wcześniej jako **Rosos*
 ## Ciekawe Miejsca
 - **Browar Orestesa**: serce osady i powód jej nowej nazwy. [[Orestes]] rozdzielał w nim udziały między towarzyszy — [[Pholon|Pholonowi]] przypadło jakieś dwanaście i pół procent, co [[Arevon Elorrenthi|Arevon]] skwitował uwagą o rodzącym się komunizmie.
 - **Kadzie Volkana**: [[Volkan]] i [[Orestes]] wspólnie budują tu kadzie do browaru.
-- **Bar przyzakładowy**: kuchnią rządzi kozioł Gordon, który ułożył menu oparte na łączeniu potraw z różnymi gatunkami piwa.
+- **Bar przyzakładowy**: kuchnią rządzi kozioł [[Ramsus|Gordon]], który ułożył menu oparte na łączeniu potraw z różnymi gatunkami piwa.
 - Browar prowadzi też interesy z rodziną [[Taran Neurdagon|Neurdagonów]].
 - Stąd rozchodzi się po całej Thylei sieć pubów **Warlock Circus Super Bar** (WCSB), której prezesem jest [[Orestes]].
 
