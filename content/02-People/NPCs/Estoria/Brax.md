@@ -20,3 +20,8 @@ W [[Sesja 40 - Uciechy na Wyspie Skorpiona]] Orestes pchnął ku swojemu kuzynow
 W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]], gdy po śmierci [[Sydon|Sydona]] drużyna przejęła koordynację obrońców [[Mytros]], Brax zastąpił [[Boreas|Boreasa]] na stanowisku dowódczym.
 
 W [[Sesja 83 - Zmierzch Ery Tytanów]] przedarł się przez ruiny [[Mytros]] na grzbiecie [[Nessa|Nessy]] wprost do [[Orestes|Orestesa]], by rozgorączkowany opowiedzieć mu zasłyszaną — już mocno podkoloryzowaną — historię o tym, jak minotaur zabił [[Lutheria|Panią Snów]]. Później wraz z pomocnikami sklecił w ruinach prowizoryczny [[Super Bar]], do którego [[Orestes]] zaglądał niemal co wieczór, choć jako nieumarły nie czuł już smaku piwa. To tam [[Mistrz Cieni]] odebrał od [[Arevon Elorrenthi|Arevona]] swój dług.
+
+## Po wojnie
+![Brax i Nessa przed swoim Warlock Circus Super Barem](../../../assets/people/brax_i_nessa.webp)
+
+Związał się z [[Nessa|Nessą]] i doczekali się dzieci. Prowadzą własny lokal sieci Warlock Circus Super Bar w Mythrion, gdzie chętnie zagląda „wujek" [[Orestes]].

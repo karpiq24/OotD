@@ -12,3 +12,4 @@ title: Amazonki
 - [[Leah]]
 - [[Nastura]]
 - [[Thessilea]]
+- [[Alkippe]]

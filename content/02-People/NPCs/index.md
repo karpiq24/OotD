@@ -40,3 +40,4 @@ title: Lista postaci niezależnych
 - [[02-People/NPCs/Załoga Arevona|Załoga Arevona]]
 - [[02-People/NPCs/Świątynia Wyroczni|Świątynia Wyroczni]]
 - [[Cerber]]
+- [[02-People/NPCs/Orestessos|Orestessos]]

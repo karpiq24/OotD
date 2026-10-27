@@ -1,0 +1,6 @@
+---
+title: Orestessos
+---
+
+- [[Krithon]]
+- [[Zythion]]

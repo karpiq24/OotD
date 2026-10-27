@@ -67,3 +67,17 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]] odrzucił [[Kryształowa Kosa Lutherii|Kr
 W [[Sesja 84 - Świt Nowej Ery]] dopiął swoje. Przeforsował rozbicie [[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]] i na wysepce [[Morze Otchłani|Morza Otchłani]] roztrzaskał ją jednym ciosem [[Topór Xandera|Topora Xandera]] — z pękniętego kryształu uleciały tysiące dusz, a dwie z nich zatrzymały się przy nim: poczuł dłoń na barku i pocałunek w czoło, i rozpoznał gesty rodziców, mówiąc, że są wreszcie wolni. Odłamki trafiły do [[Mistrz Cieni|Mistrza Cieni]]; wcześniej wymógł na gospodarzach twardą gwarancję, że rytuał zadziała aż do śmierci, a dziewięciogodzinny (i rozczarowująco nudny) rytuał w [[Świątynia Cieni|Świątyni Cieni]] w [[Arezja|Arezji]] przywrócił minotaura do świata żywych. Na zewnątrz czekał [[Arevon Elorrenthi|Arevon]] ze sztyletem i kuflem: dźgnął go w dłoń, sprawdził, że krwawi, uleczył ranę i podał piwo. Było ciepłe i wygazowane — i było najlepszym trunkiem, jaki Orestes pił w życiu.
 
 W kolejnych latach zamienił [[Ultros|Ultrosa]] — pozbawionego już magicznych właściwości — w zacumowany na stałe bar z muzeum, pożegnał [[Delphia|Delphię]] z masztu, zapraszając ją na pożegnalne piwo, a sam osiadł w [[Orestessos Zythikē]], osadzie przemianowanej na cześć jego browaru, gdzie razem z [[Volkan|Volkanem]] budował kadzie ([[Pholon|Pholonowi]] przypadło jakieś dwanaście i pół procent udziałów). Wokół [[Mytros]] najszybciej rósł właśnie jego kult — minotaur sam się do tego przykładał. Propozycji własnego smoka odmówił bez wahania: ma browar, smok jest mu do szczęścia zbędny. Niegdyś wskazywał [[Paradoks|Paradoksa]] jako swojego wierzchowca, lecz smok go nie chciał.
+
+## Po wojnie
+
+| ![Orestes jako patron Orestessos](../../assets/people/orestes_toga.webp) | ![Orestes w szale](../../assets/people/orestes_szal.webp) | ![Orestes jako kapitan](../../assets/people/orestes_kapitan.webp) |
+|:---:|:---:|:---:|
+| Patron Orestessos | W szale | Kapitan |
+
+Wrócił do Rosos i jako bohater przejął nad nim patronat, oficjalnie zmieniając jego nazwę na [[Orestessos Zythikē]] (Orestesja Piwowarska). Miasto rozkwitło i stało się stolicą rzemiosła piwowarskiego. Orestes jest jego patronem i prezesem sieci pubów **Warlock Circus Super Bar** (WCSB), która oplata całą Thyleę. Gdy jeździ od lokalu do lokalu, zwykle z dostawami piwa, gra na dudach i keyboardzie i śpiewa ballady o drużynie i Odysei. Dla dawnej drużyny zawsze ma czas, ale najwyżej na cztery do sześciu tygodni — tyle trwa warzenie jednej warki.
+
+- **Rodzina.** Z romansu z Amazonką [[Alkippe]] ma nieślubnego syna [[Zythion|Zythiona]], którego wychowuje sam w browarze. Chętnie odwiedza też dzieci [[Nessa|Nessy]] i [[Brax|Braxa]] w ich WCSB.
+- **Załoga browaru.** [[Pholon]] jest współudziałowcem z dokładnie 12,5% udziałów, [[Volkan]] projektuje z nim nowe kadzie, a kozioł Gordon został szefem kuchni przyzakładowego baru. Pod skrzydła wziął dalekiego kuzyna [[Krithon|Krithona]].
+- **Porażka i wrogowie.** Jedna z eksperymentalnych kadzi wybuchła i zalała część miasta gorącą brzeczką. Nie cierpią go winiarze z innych miast, których moda na jego piwo doprowadza do bankructwa.
+- **Smoki.** Najlepiej układa mu się z [[Volkan|Volkanem]] i [[Kyrah]]; [[Pythor|Pythora]] uznaje za towarzysza broni (o ile da się namówić na piwo), a [[Vallus]] szanuje. [[Yala]] jest mu raczej obojętna.
+- **Brzuszek.** Dorobił się małego piwno-przekąskowego brzuszka i nauczył się odstawiać na nim kufel, a także pracować obiema rękami bez rozlewania piwa.
