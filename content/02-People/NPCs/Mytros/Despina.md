@@ -29,3 +29,6 @@ W [[Sesja 74 - Matka Smoków]] amulet Despiny ożył i mentalnie przekazał Feli
 W [[Sesja 81 - Bitwa o Mytros: Koszmar na Targu Minotaurów]] po rzuceniu przez [[Arevon Elorrenthi|Arevona]] zaklęcia *Revivify* na martwą smoczycę [[Nephele (Smok)|Nephele]] okazało się, że dusza smoczycy nie może wrócić do ciała. Chętną duszą była Despina: amulet Felicjana pękł, a jej dusza wstąpiła w puste naczynie. Odzyskawszy siły na plaży, smoczyca odleciała na południowy wschód. Despina przekazała Felicjanowi magiczną wiadomością, że nie może walczyć z [[Lutheria|Lutherią]], przeprosiła i dodała, że być może jeszcze kiedyś się spotkają. Podziękowała też bohaterom za ocalenie.
 
 W [[Sesja 84 - Świt Nowej Ery]] odleciała i przepadła gdzieś bez śladu, nie paląc się do powrotu.
+
+## Po wojnie
+[[Felicjan Janus Twardowski|Felicjan]] szukał prababki, ale wyraźnie nie chciała zostać odnaleziona, więc zostawił ją w spokoju. Nie żywi do niej urazy, chciałby tylko, żeby wytłumaczyła, dlaczego odeszła.

@@ -32,6 +32,24 @@ Inni:
 
 Potomkiem Smoczych Lordów jest [[Taran Neurdagon]] ([[Sesja 49 - Wielkie Gęsie Powstanie]]). Odnowiony zakon prowadzi [[Felicjan Janus Twardowski|Felicjan]]; rozważał dołączenie [[Arevon Elorrenthi|Arevon]].
 
+## Odnowiony Zakon
+Po wojnie z [[Tytani|Tytanami]] [[Felicjan Janus Twardowski|Felicjan]] odbudował Zakon z siedzibą na [[Wyspa Yonder|Wyspie Yonder]]. Ma on strzec pokoju i rozwoju: ludy [[Kontynent Thylea|Thylei]], żyjąc w zgodzie, mają razem stawić czoła zagrożeniom z zewnątrz. Mimo więzów założyciela z [[Mytros]] Zakon stara się być neutralny.
+
+Co wie o Zakonie każdy zainteresowany:
+- **Siedziba i biblioteka.** Siedziba jest na Yonder, a jej wielka biblioteka glinianych tabliczek służy też [[Akademia Mytros|Akademii Mytros]]. W kolejnych miastach powstają filie; w planach są [[Estoria]], [[Arezja]], [[Wyspa Indygo|Indygo]] i [[Amazonki]]. Filię na początku prowadzi ktoś z Yonder, a obok stoi miejscowy przyjaciel Zakonu jako jego twarz w mieście. Filia rekrutuje miejscowych adeptów, którzy szkolą się na Yonder i z czasem ją przejmują.
+- **Otwartość.** Każdy chętny może się w Zakonie uczyć nauki, magii, religii i sprawności fizycznej. Pełne członkostwo i awans są dla wybranych.
+- **Władza.** Zakonem kieruje rada, której przewodniczy Felicjan.
+- **Usługi.** Magia, doradztwo, ochrona, dyplomacja, wiedza z Akademii i transport [[Latająca Forteca Smoczych Lordów|latającą fortecą]].
+- **Proksenoi.** Zakon można wspierać. Jego przyjaciele w miastach (proksenoi) dostają honory: dostęp do biblioteki, pierwszeństwo usług i imię na steli na Yonder.
+- **Ślub.** Wstępujący składa ślub bez mocy magicznej: nikogo nie trzyma się siłą ani magią. Z Zakonu można odejść bez kary, tracąc tylko przywileje członka, a za zgodą można też wrócić. Kto działa na jego szkodę, zostaje wygnany.
+- **Wojny.** W wojnach między miastami Thylei Zakon nie bierze stron. Członek może bronić własnego domu, ale na ten czas zawiesza członkostwo; kto użyje ludzi, wiedzy lub tajemnic Zakonu przeciw innemu ludowi Thylei, zostaje wygnany. Wobec zagrożenia z zewnątrz Zakon staje razem.
+
+**Kodeks.** *Siła zobowiązuje* — kto może ochronić słabszego, powinien to zrobić. *Wiedza zobowiązuje* — nauką i mądrością, które mogą komuś pomóc, należy się dzielić. *Władza zobowiązuje* — władca nie posiada poddanych, tylko za nich odpowiada. *Pokój nie oznacza bierności* — w sporach Zakon mediuje, ale staje przeciw temu, kto napada na bezbronnych lub łamie zawarty pokój.
+
+**Leiturgia.** Każdy członek pracuje na rzecz Zakonu: początkujący w kuchni, na polu i przy połowie, bardziej zaawansowani przy smokach, fortecy i glinianych tabliczkach, najstarsi przy nauczaniu i służbie na zewnątrz. Kilka godzin dziennie albo jeden dzień w tygodniu, tak żeby praca nie zjadała nauki; wolno pomagać sobie magią. Dotyczy to wszystkich, także Felicjana, gdy jest na miejscu, i jego dzieci. Kontroli nie ma: Zakon ufa, że każdy zrobi swoje, a kto tego zaufania nadużywa, szybko traci je u innych.
+
+**Smoki Zakonu.** [[Kairos]] Felicjana, [[Paradoks]], mosiężny [[Chh'Krtak]] i wykluta po wojnie brązowa smoczyca [[Ataraksja]]. Byli bogowie — [[Kyrah]], [[Pythor]], [[Volkan]] i [[Vallus]] — są na Yonder zawsze mile widziani.
+
 ## Relacje
 - **Sojusznicy**: [[Pięciu Bogów]] (którzy pojawili się w czasie Pierwszej Wojny).
 - **Wrogowie**: [[Sydon]], [[Lutheria]], [[Gyganie]].

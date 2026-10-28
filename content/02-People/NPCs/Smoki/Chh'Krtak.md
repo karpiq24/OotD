@@ -22,3 +22,6 @@ Bohaterowie napotkali Chh'Krtaka w wiosce jaszczuroludzi w kalderze wulkanu ([[S
 Chh'Krtak dołączył do załogi [[Ultros|Ultrosa]] jako smoczy towarzysz Felicjana. W [[Sesja 42 - Plemię Węgorza]] Felicjan, chcąc umilić mu podróż, zgromadził zapas przysmaków i planował opowiadać mu o dawnych, mitycznych czasach i o [[Balmytria|Balmytrii]]. Gdy [[Versi|Wyrocznia Versi]] opowiedziała o smoczych jajach skażonych mocą [[Mojry|Mojr]] i o klątwie ciążącej nad młodymi smokami, załoga, obserwując jego szybki wzrost, uznała go za potwierdzenie jej słów.
 
 W [[Sesja 65 - Wyprawa w Otchłań]] Felicjan zapytał Chh'Krtaka, czy chciałby znaleźć partnera, z którym będą walczyć o lepszą przyszłość. Smok, choć zdezorientowany, szybko zadeklarował chęć walki u boku bohaterów i zapytał o możliwość „palenia wrogów i jedzenia ich ciał”.
+
+## Po wojnie
+Należy do smoków odbudowanego [[Smoczy Lordowie|Zakonu Smoczych Lordów]] na [[Wyspa Yonder|Yonder]]. Czy znajdzie się dla niego jeździec, jeszcze się nie rozstrzygnęło.

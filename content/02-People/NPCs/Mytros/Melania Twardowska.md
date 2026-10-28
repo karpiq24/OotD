@@ -21,3 +21,6 @@ W [[Sesja 41 - Wiedźma Lotosu]] w wizji z Korytarza Światów leżała martwa o
 W [[Sesja 59 - Koniec Imprezy]] towarzyszyła bohaterom wznoszącym się ku latającej fortecy, razem z [[Astra|Astrą]] i [[Lyra|Lyrą]]. W [[Sesja 65 - Wyprawa w Otchłań]] zaalarmowała Felicjana o pękaniu smoczego jaja w jego kajucie.
 
 W [[Sesja 73 - Praxys - Skarbiec Sydona]] towarzyszyła drużynie jako kapłanka i rozpoznała w czaszce szczątki [[Balmytria|Balmytrii]]. W [[Sesja 74 - Matka Smoków]] zapytała Felicjana, jak „oni" zareagują na widok [[Nephele (Smok)|Nephele]]; przyglądała się smoczycy, czaszce Balmytrii i Felicjanowi, a między nią a Felicjanem wywiązała się enigmatyczna wymiana, jakby łączyła w głowie puzzle niewidoczne dla reszty drużyny.
+
+## Po wojnie
+Mieszka z dziećmi, [[Triya Twardowska|Triyą]] i [[Aleksander Twardowski|Aleksandrem]], na [[Wyspa Yonder|Wyspie Yonder]], w siedzibie odbudowanego [[Smoczy Lordowie|Zakonu Smoczych Lordów]]. Założyła tam świątynię Mytros i opiekuje się nią, a w Zakonie uczy religii. Na wyspę przenieśli się też rodzice i rodzeństwo [[Felicjan Janus Twardowski|Felicjana]], więc przy dzieciach nie brakuje rąk do pomocy.

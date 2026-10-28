@@ -39,3 +39,4 @@ title: Inne
 - [[Lewiatan]]
 - [[Bioautomaton Soldier]]
 - [[Edran]]
+- [[Anisadora]]

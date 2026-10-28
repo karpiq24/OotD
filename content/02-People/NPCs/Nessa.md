@@ -25,4 +25,4 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]] pojawiła się w [[Mytros]] tuż po odej�
 ## Po wojnie
 ![Brax i Nessa przed swoim Warlock Circus Super Barem](../../assets/people/brax_i_nessa.webp)
 
-Związała się z [[Brax|Braxem]] i doczekali się dzieci. Prowadzą własny lokal sieci Warlock Circus Super Bar w Mythrion, gdzie chętnie zagląda „wujek" [[Orestes]].
+Związała się z [[Brax|Braxem]] i doczekali się dzieci. Prowadzą własny lokal sieci Warlock Circus Super Bar w [[Mytros]], gdzie chętnie zagląda „wujek" [[Orestes]].

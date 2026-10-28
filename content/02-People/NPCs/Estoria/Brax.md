@@ -24,4 +24,4 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]] przedarł się przez ruiny [[Mytros]] na 
 ## Po wojnie
 ![Brax i Nessa przed swoim Warlock Circus Super Barem](../../../assets/people/brax_i_nessa.webp)
 
-Związał się z [[Nessa|Nessą]] i doczekali się dzieci. Prowadzą własny lokal sieci Warlock Circus Super Bar w Mythrion, gdzie chętnie zagląda „wujek" [[Orestes]].
+Związał się z [[Nessa|Nessą]] i doczekali się dzieci. Prowadzą własny lokal sieci Warlock Circus Super Bar w [[Mytros]], gdzie chętnie zagląda „wujek" [[Orestes]].

@@ -21,3 +21,6 @@ W [[Sesja 41 - Wiedźma Lotosu]] [[Arevon Elorrenthi|Arevon]] rozpoznał go jako
 Był tam zmuszony do pracy.
 
 W [[Sesja 84 - Świt Nowej Ery]] dał się przekonać [[Arevon Elorrenthi|Arevonowi]], że ocalali z [[Eberron|Eberronu]] nie powinni wracać do domu: jeden nieostrożny język wystarczyłby, by wpływowi ludzie wyciągnęli drogę do [[Kontynent Thylea|Thylei]], a wtedy przypłynęłaby tu nie garstka rozbitków, lecz flota chętnych, by podzielić ten świat między siebie.
+
+## Po wojnie
+Pływa jako oficer [[Arevon Elorrenthi|Arevona]] na odbudowanym *Tranquility*. [[Felicjan Janus Twardowski|Felicjan]] chciałby, żeby pomagał też [[Smoczy Lordowie|Zakonowi Smoczych Lordów]]: Zakon potrzebuje magów, a Garrick pochodzi ze świata, w którym teleportacja i obce floty są codziennością, więc nikt lepiej nie rozumie zagrożenia z zewnątrz.

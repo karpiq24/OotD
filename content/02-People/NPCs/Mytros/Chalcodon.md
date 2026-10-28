@@ -13,3 +13,6 @@ Mistrz Chalcodon to sędziwy filozof i nauczyciel w Akademii. Chalcodon to elfic
 
 ## Historia
 W [[Sesja 15 - W kanałach Mytros]] Mistrz Chalcodon, który znał osobiście ponad 100 lat temu prababkę [[Felicjan Janus Twardowski|Felicjana]], [[Despina|Despinę]], przekazał drużynie informacje o jej zainteresowaniach i historii.
+
+## Po wojnie
+[[Felicjan Janus Twardowski|Felicjan]] chciałby pozyskać go dla [[Smoczy Lordowie|Zakonu Smoczych Lordów]]. Chalcodon daje Zakonowi dwie rzeczy naraz: trop do zagadki [[Despina|Despiny]], którą znał osobiście, i to, czego Felicjan sam nie może zapewnić — czas. Elf przeżyje go o stulecia i może strzec ciągłości nauk Zakonu, kiedy założyciela już nie będzie.

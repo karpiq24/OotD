@@ -21,3 +21,6 @@ W [[Sesja 54 - Wyznanie Chondrusa]] został opisany jako młody, brązowy smok F
 W [[Sesja 71 - Infiltracja Praxys]] jest wspomniany jako młody smok, z którym Felicjan już jakiś czas temu związał się przysięgą Smoczych Lordów.
 
 W [[Sesja 84 - Świt Nowej Ery]] jest większy od Paradoksa, który mimo to jest już niewiele od niego mniejszy.
+
+## Po wojnie
+Jajo, z którego się wykluł, było darem [[Vallus]]; [[Felicjan Janus Twardowski|Felicjan]] dostał je od [[Kyrah]] we właściwym momencie ([[Sesja 36 - Królowa, Dziedzic i Generał|Sesja 36]]). Felicjan traktuje go trochę jak jedno ze swoich dzieci: najpierw jako nauczyciel i ojciec, a gdy Kairos dorośnie, jak partner. Mieszka na [[Wyspa Yonder|Yonder]], w siedzibie odbudowanego [[Smoczy Lordowie|Zakonu]], razem z [[Paradoks|Paradoksem]], [[Chh'Krtak|Chh'Krtakiem]] i młodą smoczycą [[Ataraksja|Ataraksją]].

@@ -40,3 +40,6 @@ W [[Sesja 36 - Królowa, Dziedzic i Generał]] zgodziła się na obcięcie głow
 W [[Sesja 64 - Pieśń dla Smoczycy]] przybyła na [[Wyspa Smoka|Wyspę Smoka]] na wezwanie, zgodnie z umową, jako Pani Monet; jej statek nosił barwy Themis, a podróżowała w towarzystwie amazońskich wojowniczek. Przekazała bohaterom informacje o topografii i mieszkańcach wyspy i pozostała w gotowości do wsparcia. Po pomyślnych negocjacjach ze smokiem zgodziła się zabrać na swój statek "bardziej użytecznych" uchodźców z [[Latająca Forteca Smoczych Lordów|latającej fortecy]].
 
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] została wymieniona jako kandydatka na pilota Kolosa.
+
+### Po wojnie
+[[Felicjan Janus Twardowski|Felicjan]] chciał ją zwerbować do [[Smoczy Lordowie|Zakonu Smoczych Lordów]]: mało kto w Thylei wie tyle co ona i mało kto potrafi tak długo milczeć. Moxena odmówiła i została na [[Themis]], choć [[Darien]], której doradzała, zginęła w wojnie. Z Zakonem łączą ją jednak przyjacielskie stosunki.
