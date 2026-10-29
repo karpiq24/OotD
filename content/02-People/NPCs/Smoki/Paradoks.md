@@ -26,3 +26,7 @@ W [[Sesja 65 - Wyprawa w Otchłań]] jajo zaczęło pękać w kajucie Felicjana 
 W [[Sesja 71 - Infiltracja Praxys]] [[Orestes]] próbował zyskać jego lojalność, kusząc go darmowym piwem i ciepłym leżem na zapleczu rzemieślniczego browaru. Paradoks zapytał, czy dla uwarzenia idealnego piwa Orestes cofnąłby się w czasie i namieszał w czasoprzestrzeni. Po radosnym przyznaniu się Orestesa do takiego pomysłu, uznał jego ambicje za nieodpowiedzialne i mizerne i stanowczo odrzucił umowę.
 
 W [[Sesja 84 - Świt Nowej Ery]], mimo swojego osobliwego pochodzenia i imienia, rósł zupełnie standardowo. Jedyny, który kiedyś go sobie wybrał, spotkał się z odmową: Orestes wskazał wtedy na Paradoksa, a Paradoks minotaura nie chciał. Felicjan złośliwie przypominał, że Orestes wybrał sobie najtrudniejszego z możliwych wierzchowców.
+
+## Po wojnie
+
+![Paradoks piętnaście lat później](../../../assets/people/paradoks.webp)

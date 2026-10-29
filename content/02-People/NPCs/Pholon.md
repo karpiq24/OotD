@@ -39,3 +39,7 @@ W [[Sesja 73 - Praxys - Skarbiec Sydona]] posłużył za wierzchowca do transpor
 W [[Sesja 83 - Zmierzch Ery Tytanów]] jego kuzynka [[Nessa]] niosła [[Brax|Braxa]] przez rumowisko [[Mytros]].
 
 W [[Sesja 84 - Świt Nowej Ery]] został udziałowcem browaru [[Orestes|Orestesa]] w [[Orestessos Zythikē]] — przypadło mu jakieś dwanaście i pół procent, co [[Arevon Elorrenthi|Arevon]] skwitował uwagą, że oto rodzi się komunizm.
+
+## Po wojnie
+
+![Pholon piętnaście lat po wojnie](../../../assets/people/pholon_po_wojnie.webp)

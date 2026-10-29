@@ -17,4 +17,7 @@ W [[Sesja 43 - Kopalnia Żelaza]] okazało się, że smoczyca [[Ventis]], która
 W [[Sesja 44 - Ventis]] kpiła z Ventis i kwestionowała jej przekonania. Gdy bohaterowie ruszyli na pomoc, [[Versir]] teleportował ją w objęcia [[Felicjan Janus Twardowski|Felicjana]], który zaklęciem Dimension Door przeniósł ją na szczyt góry, z dala od pola walki. Jej uratowanie pozwoliło bohaterom skupić się na walce z Ventis, a plemię Wieloryba zawarło z nimi sojusz.
 
 ## Po wojnie
+
+![Brenna piętnaście lat po wojnie](../../../assets/people/brenna_po_wojnie.webp)
+
 Została pierwszą adeptką [[Smoczy Lordowie|Zakonu Smoczych Lordów]] z [[Wyspa Indygo|Indygo]], a dziś prowadzi tamtejszą filię i dosiada mosiężnego smoka [[Chh'Krtak|Chh'Krtaka]]. To najlepsza odpowiedź na nieufność wyspy wobec starego Zakonu, w którego imię terroryzowała ją [[Ventis]]: Smoczy Lordowie nie przychodzą już na Indygo z zewnątrz, bo jedna z nich stamtąd pochodzi. Córka strażników jedynej kopalni żelaza w Zakonie to jednak też powód, by posądzać Zakon, że trzyma rękę na żelazie.

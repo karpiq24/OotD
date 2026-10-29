@@ -4,6 +4,8 @@ aliases:
   - Ataraxia
 ---
 
+![Ataraksja](../../../assets/people/ataraksja.webp)
+
 _Brązowa smoczyca z [[Wyspa Yonder|Yonder]], która wykluła się po wojnie z Tytanami._
 
 ## Opis

@@ -24,4 +24,7 @@ Chh'Krtak dołączył do załogi [[Ultros|Ultrosa]] jako smoczy towarzysz Felicj
 W [[Sesja 65 - Wyprawa w Otchłań]] Felicjan zapytał Chh'Krtaka, czy chciałby znaleźć partnera, z którym będą walczyć o lepszą przyszłość. Smok, choć zdezorientowany, szybko zadeklarował chęć walki u boku bohaterów i zapytał o możliwość „palenia wrogów i jedzenia ich ciał”.
 
 ## Po wojnie
+
+![Chh'Krtak piętnaście lat później](../../../assets/people/chh_krtak_po_wojnie.webp)
+
 Należy do smoków odbudowanego [[Smoczy Lordowie|Zakonu Smoczych Lordów]] na [[Wyspa Yonder|Yonder]]. Dosiada go [[Brenna]], pierwsza adeptka Zakonu z [[Wyspa Indygo|Indygo]].
