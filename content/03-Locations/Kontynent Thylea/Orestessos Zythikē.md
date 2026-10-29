@@ -11,7 +11,7 @@ aliases:
 Osada na [[Kontynent Thylea|kontynencie Thylei]], znana wcześniej jako **Rosos**, po wojnie przemianowana na cześć [[Orestes|Orestesa]] i jego rzemiosła — nazwę można tłumaczyć jako „Orestesja Piwowarska". Nikt nie potrafił jej poprawnie wymówić, ale trafiła na mapy. Pod patronatem minotaura miasto rozkwitło, rośnie w siłę i bogactwo, i stało się stolicą rzemiosła piwowarskiego całej Thylei.
 
 ## Ciekawe Miejsca
-- **Browar Orestesa**: serce osady i powód jej nowej nazwy. [[Orestes]] rozdzielał w nim udziały między towarzyszy — [[Pholon|Pholonowi]] przypadło jakieś dwanaście i pół procent, co [[Arevon Elorrenthi|Arevon]] skwitował uwagą o rodzącym się komunizmie.
+- **Browar Orestesa**: serce osady i powód jej nowej nazwy. Założył go [[Silenos]], który pozostaje głównym udziałowcem, ale browarem i siecią WCSB zarządza [[Orestes]]. [[Orestes]] rozdzielał w nim udziały między towarzyszy — [[Pholon|Pholonowi]] przypadło jakieś dwanaście i pół procent, co [[Arevon Elorrenthi|Arevon]] skwitował uwagą o rodzącym się komunizmie.
 - **Kadzie Volkana**: [[Volkan]] i [[Orestes]] wspólnie budują tu kadzie do browaru.
 - **Bar przyzakładowy**: kuchnią rządzi kozioł [[Ramsus|Gordon]], który ułożył menu oparte na łączeniu potraw z różnymi gatunkami piwa.
 - Browar prowadzi też interesy z rodziną [[Taran Neurdagon|Neurdagonów]].

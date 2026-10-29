@@ -31,3 +31,6 @@ W [[Sesja 63 - Werdykt Arezji]] przyjął bohaterów w [[Wiszące Ogrody|Wisząc
 W [[Sesja 75 - Koniec Przysięgi]] okazało się, że Narsus jest jednym z dzieci [[Balmytria|Balmytrii]], którym przypadła moc wykradziona tytanom — razem z [[Vallus]], [[Pythor|Pythorem]], [[Kyrah]] i [[Volkan|Volkanem]], mężem Balmytrii, stanowił Piątkę.
 
 W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]] nazwał go największym głupcem, który patrzy w lustro, widzi swoją piękną mordę i się uśmiecha — w porównaniu z [[Kyrah]], której błędy były większe, lecz która próbuje się na nich uczyć.
+
+## Po wojnie
+Z dawnych bogów najciszej jest o nim. Siedzi schowany w [[Arezja|Arezji]] i ubolewa nad utratą Piękna.

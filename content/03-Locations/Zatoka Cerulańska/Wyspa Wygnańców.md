@@ -36,3 +36,6 @@ W [[Sesja 45 - Tajemnica Wyspy Wygnańców]] bohaterowie odkryli serię rytualny
 W [[Sesja 46 - Morderca z Wyspy Wygnańców]] drużyna zdemaskowała mordercę, [[Keelan|Keelana]], którego wygnańcy skazali na śmierć; wyrok wykonał [[Orestes]]. Wygnańcy przysięgli stanąć po stronie Bohaterów Przepowiedni w konflikcie z [[Sydon|Sydonem]] i [[Lutheria|Lutherią]].
 
 W [[Sesja 55 - Egida Mytros]] bohaterowie przywieźli z wyspy [[Idylla|Idyllę]], matkę [[Acastus|Acastusa]]. Stavrosa nazwano w [[Sesja 73 - Praxys - Skarbiec Sydona]] dawnym samozwańczym królem wyspy.
+
+## Po wojnie
+Przy kamiennym doku działa portowa speluna sieci [[Super Bar|Warlock Circus Super Bar]] [[Orestes|Orestesa]].

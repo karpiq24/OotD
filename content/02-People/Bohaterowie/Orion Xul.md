@@ -72,6 +72,6 @@ W [[Sesja 84 - Świt Nowej Ery]] zajął się swoim ojcem. Zadawał [[Pythor|Pyt
 Był żołnierzem, który zabijał na rozkaz, potem przestał nim być, a skończył jako najemnik bogów — po wojnie chce wreszcie znaleźć drogę, na której nie chodzi o zabijanie.
 
 - **Ojciec.** Przez kolejne lata wędruje z [[Pythor|Pythorem]] po [[Kontynent Thylea|Thylei]] i spędzają razem coraz więcej czasu. Dla Pythora, który nie odnalazł się w świecie bez wojny, to jedyna rzecz, która naprawdę wyszła. Orion namówił go też, by po pięciuset latach stanął przed [[Hexia|Hexią]]: skończyło się śladem po ugryzieniu i rozejmem, a Hexia zaniechała zemsty.
-- **Matka.** Dopytuje o [[Ophea|Opheę]]. Po rozejmie z Hexią rozmowa z matką stała się teoretycznie możliwa, ale [[Pythor]] boi się tłumaczyć, czemu nie ruszył jej na ratunek od razu.
+- **Matka.** Po rozejmie z Hexią rozmowa z [[Ophea|Opheą]] stała się możliwa. [[Pythor]] długo bał się tłumaczyć, czemu nie ruszył jej na ratunek od razu, ale przez piętnaście lat nabrał odwagi i nie raz z nią rozmawiał. Romantycznej miłości między nimi już nie ma, ale jest zrozumienie.
 - **Kapliczki.** Własnych kapliczek ani nie zwalcza, ani się z nich nie cieszy — mogą sobie stać.
 - **[[Lyra]].** Jednej rzeczy nie naprawił. Lyrę, której lojalność wobec niego nigdy nie miała granic, zostawił bez rozmowy, bez wyjaśnienia i bez zamknięcia — dokładnie tak, jak [[Pythor]] zostawił [[Hexia|Hexię]]. Syn, który przez całą wyprawę pchał ojca do naprawiania dawnych krzywd, popełnił ten sam błąd.

@@ -49,6 +49,6 @@ Driada **[[Delphia]]**, która przez wcześniejsze miesiące żeglugi leczyła k
 ## Obecny stan: bar z muzeum
 W [[Sesja 84 - Świt Nowej Ery]] wrak wyciągnięto z wody i rozpoczęto żmudny, długi proces napraw — ale prawda była taka, że okręt **utracił swoje magiczne, ochronne właściwości** i stał się po prostu bardzo dużym, mało praktycznym statkiem. Do wyprawy na [[Morze Otchłani]] drużyna wzięła zamiast niego [[Tranquility]], która wygrywała z Ultrosem pod każdym względem; do wyjścia w morze Ultros wymagałby zwołania od nowa ogromnej załogi.
 
-[[Orestes]] miał na to własną odpowiedź, do której szykował się chyba od pierwszego dnia na pokładzie: legendarny okręt zacumował w porcie [[Mytros]] **na stałe i stał się barem**. Barem z magazynem piwa pod pokładem, z kącikiem pamiątek i z muzeum — mobilnym wyłącznie w tym sensie, że w razie czego zawsze można go przesunąć.
+[[Orestes]] miał na to własną odpowiedź, do której szykował się chyba od pierwszego dnia na pokładzie: legendarny okręt zacumował w porcie [[Mytros]] **na stałe i stał się barem**. Barem z magazynem piwa pod pokładem, z kącikiem pamiątek i z muzeum — mobilnym wyłącznie w tym sensie, że w razie czego zawsze można go przesunąć. Skarbiec z kajuty kapitana drużyna zabezpieczyła i odzyskała, a [[Orestes]] rozliczył się z niego z ocalałą załogą i rodzinami poległych.
 
 Przy tej okazji [[Orestes]] pożegnał się z [[Delphia|Delphią]]: uznał, że i ona może wreszcie odejść ze statku. Podziękował jej za owocną współpracę, zaprosił na pożegnalne piwo i wypił jej zdrowie, życząc szerokiej drogi.

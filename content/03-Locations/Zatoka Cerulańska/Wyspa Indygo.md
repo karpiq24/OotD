@@ -33,3 +33,6 @@ Sydon uznał barbarzyńców z tej wyspy za zbyt nieprzewidywalnych, dlatego wys�
 W [[Sesja 42 - Plemię Węgorza]] Ultros dotarł do wyspy i zakotwiczył u jej wybrzeży. Bohaterowie dowiedzieli się, że wyspa jest domem czterech plemion i że jedyną kopalnią żelaza w Thylei strzeże plemię Wieloryba. Ventis terroryzowała mieszkańców, powołując się na chwałę Smoczych Lordów, a pod koniec sesji pojawiła się nad osadą Węgorza. W [[Sesja 43 - Kopalnia Żelaza]] i [[Sesja 44 - Ventis]] drużyna pokonała smoczycę i zawarła sojusze z plemionami Wieloryba, Delfina i Węgorza.
 
 W [[Sesja 84 - Świt Nowej Ery]] okazała się ulubioną wyspą [[Arevon Elorrenthi|Arevona]]. Mieszkało tam Plemię Delfina — sympatyczne i wyluzowane, może nawet odrobinę zbyt wyluzowane — a druid postanowił się z nimi zakolegować. W górach w głębi wyspy siedziało z kolei krasnoludzkie Plemię Wieloryba, wciąż trzymające straż nad Kopalnią Żelaza.
+
+## Po wojnie
+Działa tu bar sieci [[Super Bar|Warlock Circus Super Bar]] [[Orestes|Orestesa]] i filia [[Smoczy Lordowie|Zakonu Smoczych Lordów]], którą prowadzi [[Brenna]].

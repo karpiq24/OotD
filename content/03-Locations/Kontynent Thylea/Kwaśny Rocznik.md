@@ -21,3 +21,6 @@ Wewnątrz panuje przytulna atmosfera przesycona zapachem tytoniu. Jest to ulubio
 To tutaj rozpoczęła się historia Bohaterów Przepowiedni. W [[Sesja 1 - Wielki Dzik]] [[Kyrah]] zebrała bohaterów w gospodzie i zleciła im upolowanie dzika, który siał postrach wśród okolicznych ziem.
 
 W [[Sesja 24 - Ultros]] drużyna, podążając za mapą od króla [[Acastus|Acastusa]] w stronę [[Martwe Wodospady|Martwych Wodospadów]], zatrzymała się w gospodzie i zebrała plotki o [[Ultros|Ultrosie]] i wodospadach.
+
+## Po wojnie
+Tutejszy lokal był pierwszą partnerską franczyzą sieci [[Super Bar|Warlock Circus Super Bar]] [[Orestes|Orestesa]].

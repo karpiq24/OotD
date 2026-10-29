@@ -71,3 +71,6 @@ Gdy [[Felicjan Janus Twardowski|Felicjan]] wypowiedział treść klauzuli na gł
 W [[Sesja 83 - Zmierzch Ery Tytanów]], w ludzkiej postaci, śpiewała na igrzyskach pogrzebowych pieśń o czynach obrońców, ładnie, ale nie tak jak niegdyś. W [[Sesja 84 - Świt Nowej Ery]] okazało się, że ma znajomości w [[Arezja|Arezji]], o które [[Versir]] zaproponował ją wypytać.
 
 **Drużyna postanowiła nie ujawniać tego publicznie.** Dla mieszkańców Thylei Kyrah pozostaje Boginią Muzyki.
+
+## Po wojnie
+Jak pozostali dawni bogowie jest smokiem bez boskiej mocy, często w ludzkiej postaci. Regularnie odwiedza każdego z [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].

@@ -26,3 +26,9 @@ W [[Sesja 7 - Uratować Księżniczkę]] [[Bohaterowie Przepowiedni|Bohaterowie 
 [[Hergeron Pierwszy|Hergeron]] planował wysłać centaury, aby oblężyły jej miasto i odciągnęły ją od pomocy dla [[Mytros]].
 
 W [[Sesja 84 - Świt Nowej Ery]] wyszło na jaw, że tron [[Estoria|Estorii]] [[Pythor]] zostawił jej jeszcze zanim [[Ultros]] wypłynął w Wielką Odyseję — po wojnie bóg bitwy nigdzie nie osiadł i nie miał już ani korony, ani wojny, ani pomysłu na siebie.
+
+## Po wojnie
+
+![Anora piętnaście lat po wojnie](../../../assets/people/anora_po_wojnie.webp)
+
+Od piętnastu lat rządzi [[Estoria|Estorią]] i nikt już nie nazywa jej młodą królową. Jej ojciec, [[Pythor]], wędruje po [[Kontynent Thylea|Thylei]] z [[Orion Xul|Orionem]], jej przyrodnim bratem.

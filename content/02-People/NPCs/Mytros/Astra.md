@@ -8,11 +8,13 @@ image_prompt: young adult female, slender build, long wavy hair in a half-up sty
 _Członkini Kultu Węża, sojuszniczka i towarzyszka życia Versira._
 
 ## Opis
+
 Astra to członkini **[[Kult Węża|Kultu Węża]]**, która początkowo była nieufna wobec **[[Versir|Versira]]**, gdy ten dołączył do organizacji. Ich relacja zmieniła się w sojusz i przyjaźń po wydarzeniach na cmentarzu, gdzie Astra odwiedzała grób swojego brata.
 
-Żyje szczęśliwie z Versirem od kilku lat, ale to ona się starzeje, a półtytan nie. Sprawa tego rozziewu pozostała otwarta ([[Sesja 84 - Świt Nowej Ery]]).
+Żyje szczęśliwie z Versirem od kilku lat, ale to ona się starzeje, a półtytan nie. Mimo to wybrała drogę z nim: kocha go i trzyma się blisko niego ([[Sesja 84 - Świt Nowej Ery]]).
 
 ## Historia
+
 Jej brat został złożony w ofierze Tytanom (**[[Sydon]]** i **[[Lutheria]]**), co napełniło ją głęboką nienawiścią do nich. Gdy Versir wyjawił jej swoją prawdziwą naturę i cel zemsty nad grobem jej brata, przysięgła mu wierność w walce z Tytanami.
 
 W [[Sesja 19 - Pojedynek z Rozpruwaczem]] [[Versir]] rozglądał się za nią.
@@ -39,4 +41,8 @@ W [[Sesja 58 - Wyspa Czasu]] pojawiła się w wizji Versira z teleskopu.
 
 W [[Sesja 59 - Koniec Imprezy]] towarzyszyła bohaterom wznoszącym się ku latającej fortecy.
 
-W [[Sesja 84 - Świt Nowej Ery]] po kilku latach wspólnego, szczęśliwego życia z [[Versir|Versirem]] wyszło na jaw to, czego żadne z nich nie przewidziało: Astra się starzeje, a półtytan nie. [[Arevon Elorrenthi|Arevon]] skomentował to ze smutną znajomością rzeczy — to problem, z którym elfy zmagają się od tysiącleci, ilekroć zwiążą się z ludźmi — i przyznał, że ma w swoich zbiorach eliksir młodości o potencjalnych skutkach ubocznych. Sprawa pozostała otwarta.
+W [[Sesja 84 - Świt Nowej Ery]] po kilku latach wspólnego, szczęśliwego życia z [[Versir|Versirem]] wyszło na jaw to, czego żadne z nich nie przewidziało: Astra się starzeje, a półtytan nie. [[Arevon Elorrenthi|Arevon]] skomentował to ze smutną znajomością rzeczy — to problem, z którym elfy zmagają się od tysiącleci, ilekroć zwiążą się z ludźmi — i przyznał, że ma w swoich zbiorach eliksir młodości o potencjalnych skutkach ubocznych.
+
+## Po wojnie
+
+Versir powiedział jej wprost, że chciałby, by dzieliła z nim życie w drodze, ale nie będzie jej zatrzymywał, jeśli wybierze spokojny dom. Astra wybrała drogę z nim. Kocha go i trzyma się blisko niego, choć z każdym rokiem widać po niej upływ czasu.
