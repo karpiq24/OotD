@@ -28,7 +28,7 @@ Co wie o Zakonie każdy zainteresowany:
 Strzec pokoju między ludami Thylei, pośredniczyć w sporach (Felicjan od lat pośredniczy w sporze o żelazo z [[Wyspa Indygo|Indygo]]), dzielić się wiedzą i przygotować Thyleę na zagrożenia z zewnątrz.
 
 ## Siedziba
-[[Wyspa Yonder]], dawna warownia [[Zakon Sydona|Zakonu Sydona]]. Na wyspie stoją Wielka Biblioteka glinianych tabliczek, którą Zakon dzieli z [[Akademia Mytros|Akademią Mytros]], świątynia Mytros założona przez [[Melania Twardowska|Melanię]], kuźnia ojca Felicjana, lądowisko smoków na południowym urwisku, bar [[Super Bar|WCSB]] i stela proksenów.
+[[Wyspa Yonder]], dawna warownia [[Zakon Sydona|Zakonu Sydona]]. Na wyspie stoją Wielka Biblioteka glinianych tabliczek, którą Zakon dzieli z [[Akademia Mytros|Akademią Mytros]], świątynia Mytros założona przez [[Melania Twardowska|Melanię]], kuźnia ojca Felicjana, bar [[Super Bar|WCSB]] i stela proksenów.
 
 **Filie.** Działają w [[Estoria|Estorii]], [[Arezja|Arezji]], na [[Wyspa Indygo|Indygo]] (prowadzi ją [[Brenna]]) i u [[Amazonki|Amazonek]] na [[Themis]]; Zakon ściśle współpracuje też z Akademią w [[Mytros]]. Filię na początku prowadzi ktoś z Yonder, a obok stoi miejscowy przyjaciel Zakonu jako jego twarz w mieście. Filia rekrutuje miejscowych adeptów, którzy szkolą się na Yonder i z czasem ją przejmują. Gdzie się da, filia i bar [[Orestes|Orestesa]] stoją pod jednym dachem, a Zakon wozi jego piwo fortecą.
 
