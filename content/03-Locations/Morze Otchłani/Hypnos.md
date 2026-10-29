@@ -4,7 +4,7 @@ title: "Hypnos - Statek Lutherii"
 
 # Hypnos, Tron Snów
 
-Hypnos to osobisty okręt (barka) [[Lutheria|Lutherii]] — gigantyczny, pływający pałac z brązu, porośnięty bujną, niepokojącą roślinnością. Po wojnie stoi zacumowany niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]], porzucony, pod opieką [[Versir|Versira]]; ciągnący go dotąd [[Talieus Pierwszy|Talieus]] został uwolniony z łańcuchów i nie żyje (szczegóły w sekcji „Los okrętu”).
+Hypnos to osobisty okręt (barka) [[Lutheria|Lutherii]] — gigantyczny, pływający pałac z brązu, porośnięty bujną, niepokojącą roślinnością. Po wojnie przeszedł pod opiekę [[Versir|Versira]]; ciągnący go dotąd [[Talieus Pierwszy|Talieus]] został uwolniony z łańcuchów i nie żyje, a jego miejsce zajęły martwe wieloryby z [[Morze Otchłani|Morza Otchłani]] (szczegóły w sekcji „Los okrętu”).
 
 Okręt ciągnął po Morzu Otchłani zniewolony Tytan [[Talieus Pierwszy|Talieus]], przykuty do kadłuba. Cały pokład to **Wiszące Ogrody**, pełne egzotycznych, pięknych, ale i przerażających roślin.
 
@@ -125,3 +125,5 @@ W [[Sesja 70 - Audiencja u Pani Snów]] drużyna zwiedziła Komnatę Erinii, Sal
 W [[Sesja 84 - Świt Nowej Ery]] drużyna odnalazła Hypnosa zacumowanego niedaleko ujścia [[Rzeka Lethe|rzeki Lethe]]. Okazało się, że barka nigdy nie miała innego napędu niż [[Talieus Pierwszy]] — oślepiony Tytan Rzemiosła, przykuty do kadłuba i zaprzęgnięty w łańcuchy, ciągnął ją za sobą jak zwierzę pociągowe. [[Versir]] zbił okowy, wyprzągł go i zakończył jego mękę, wchłaniając jego esencję magiczną rękawicą.
 
 Sam porzucony okręt [[Versir]] zadeklarował się przygarnąć — razem z [[Glewia Sydona|Glewią Sydona]], jeśli nikt inny nie zgłosi pretensji. Skoro miał doglądać Hypnosa, obiecał też przez najbliższe miesiące, a może i lata, zaglądać do więziennych [[Sześcian Więzienny|Sześcianów]]; nic tam się nie zmieniało i nic nie zapowiadało zmiany.
+
+W latach po wojnie Hypnosa zamiast Talieusa ciągną nieumarłe wieloryby: te same przegniłe, wielookie walenie, które w [[Sesja 65 - Wyprawa w Otchłań]] popłynęły za [[Ultros|Ultrosem]], a w [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] szukały celu, którego nikt nie umiał im dać. Versir co roku płynie nimi na inspekcję Sześcianów.
