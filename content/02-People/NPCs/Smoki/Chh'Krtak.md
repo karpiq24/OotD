@@ -27,4 +27,4 @@ W [[Sesja 65 - Wyprawa w Otchłań]] Felicjan zapytał Chh'Krtaka, czy chciałby
 
 ![Chh'Krtak piętnaście lat później](../../../assets/people/chh_krtak_po_wojnie.webp)
 
-Należy do smoków odbudowanego [[Smoczy Lordowie|Zakonu Smoczych Lordów]] na [[Wyspa Yonder|Yonder]]. Dosiada go [[Brenna]], pierwsza adeptka Zakonu z [[Wyspa Indygo|Indygo]].
+Należy do smoków odbudowanego [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]] na [[Wyspa Yonder|Yonder]]. Dosiada go [[Brenna]], pierwsza adeptka Zakonu z [[Wyspa Indygo|Indygo]].

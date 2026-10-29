@@ -42,4 +42,4 @@ W [[Sesja 64 - Pieśń dla Smoczycy]] przybyła na [[Wyspa Smoka|Wyspę Smoka]] 
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] została wymieniona jako kandydatka na pilota Kolosa.
 
 ### Po wojnie
-[[Felicjan Janus Twardowski|Felicjan]] chciał ją zwerbować do [[Smoczy Lordowie|Zakonu Smoczych Lordów]]: mało kto w Thylei wie tyle co ona i mało kto potrafi tak długo milczeć. Moxena odmówiła i została na [[Themis]], choć [[Darien]], której doradzała, zginęła w wojnie. Z Zakonem łączą ją jednak przyjacielskie stosunki.
+[[Felicjan Janus Twardowski|Felicjan]] chciał ją zwerbować do [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]]: mało kto w Thylei wie tyle co ona i mało kto potrafi tak długo milczeć. Moxena odmówiła i została na [[Themis]], choć [[Darien]], której doradzała, zginęła w wojnie. Z Zakonem łączą ją jednak przyjacielskie stosunki.

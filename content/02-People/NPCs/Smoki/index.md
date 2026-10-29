@@ -7,3 +7,5 @@ title: Smoki
 - [[Paradoks]]
 - [[Nephele (Smok)]]
 - [[Ataraksja]]
+- [[Aithon]]
+- [[Erythra]]

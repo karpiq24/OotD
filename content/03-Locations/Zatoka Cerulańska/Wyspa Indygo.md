@@ -35,4 +35,4 @@ W [[Sesja 42 - Plemię Węgorza]] Ultros dotarł do wyspy i zakotwiczył u jej w
 W [[Sesja 84 - Świt Nowej Ery]] okazała się ulubioną wyspą [[Arevon Elorrenthi|Arevona]]. Mieszkało tam Plemię Delfina — sympatyczne i wyluzowane, może nawet odrobinę zbyt wyluzowane — a druid postanowił się z nimi zakolegować. W górach w głębi wyspy siedziało z kolei krasnoludzkie Plemię Wieloryba, wciąż trzymające straż nad Kopalnią Żelaza.
 
 ## Po wojnie
-Działa tu bar sieci [[Super Bar|Warlock Circus Super Bar]] [[Orestes|Orestesa]] i filia [[Smoczy Lordowie|Zakonu Smoczych Lordów]], którą prowadzi [[Brenna]].
+Działa tu bar sieci [[Super Bar|Warlock Circus Super Bar]] [[Orestes|Orestesa]] i filia [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]], którą prowadzi [[Brenna]].

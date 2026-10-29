@@ -26,4 +26,4 @@ W [[Sesja 84 - Świt Nowej Ery]] jest większy od Paradoksa, który mimo to jest
 
 ![Kairos piętnaście lat później](../../../assets/people/kairos.webp)
 
-Jajo, z którego się wykluł, było darem [[Vallus]]; [[Felicjan Janus Twardowski|Felicjan]] dostał je od [[Kyrah]] we właściwym momencie ([[Sesja 36 - Królowa, Dziedzic i Generał|Sesja 36]]). Felicjan traktuje go trochę jak jedno ze swoich dzieci: najpierw jako nauczyciel i ojciec, a gdy Kairos dorośnie, jak partner. Mieszka na [[Wyspa Yonder|Yonder]], w siedzibie odbudowanego [[Smoczy Lordowie|Zakonu]], razem z [[Paradoks|Paradoksem]], [[Chh'Krtak|Chh'Krtakiem]] i młodą smoczycą [[Ataraksja|Ataraksją]].
+Jajo, z którego się wykluł, było darem [[Vallus]]; [[Felicjan Janus Twardowski|Felicjan]] dostał je od [[Kyrah]] we właściwym momencie ([[Sesja 36 - Królowa, Dziedzic i Generał|Sesja 36]]). Felicjan traktuje go trochę jak jedno ze swoich dzieci: najpierw jako nauczyciel i ojciec, a gdy Kairos dorośnie, jak partner. Mieszka na [[Wyspa Yonder|Yonder]], w siedzibie odbudowanego [[Zakon Smoczych Lordów|Zakonu]], razem z [[Paradoks|Paradoksem]], [[Chh'Krtak|Chh'Krtakiem]] i młodą smoczycą [[Ataraksja|Ataraksją]].

@@ -31,7 +31,7 @@ Pierwszy Super Bar [[Brax|Braxa]] w [[Estoria|Estorii]] dał początek sieci **W
 - [[Kwaśny Rocznik|Kwaśnym Roczniku]], pierwszej partnerskiej franczyzie;
 - u [[Amazonki|Amazonek]], dzięki [[Alkippe]];
 - na [[Wyspa Wygnańców|Wyspie Wygnańców]], jako portowa speluna przy kamiennym doku;
-- na [[Wyspa Yonder|Yonder]], przy twierdzy [[Smoczy Lordowie|Zakonu]];
+- na [[Wyspa Yonder|Yonder]], przy twierdzy [[Zakon Smoczych Lordów|Zakonu]];
 - na [[Wyspa Indygo|Indygo]];
 - w [[Arezja|Arezji]], gdzie bar ledwo zipie.
 

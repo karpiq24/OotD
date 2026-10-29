@@ -1,13 +1,13 @@
 ---
 title: Smoczy Lordowie
 aliases:
-  - Zakon Smoczych Lordów
   - Zakon Smoczych Jeźdźców
+  - Dawny Zakon
 ---
 
 ![Smoczy Lordowie](../../assets/placeholder.webp)
 
-_Legendarny zakon bohaterów, którzy przybyli do Thylei dosiadając potężnych smoków. Po wojnie z Sydonem odbudowany przez [[Felicjan Janus Twardowski|Felicjana]], który za jego siedzibę obrał [[Wyspa Yonder|Wyspę Yonder]]._
+_Legendarny zakon bohaterów, którzy przybyli do Thylei dosiadając potężnych smoków. Zakon odbudowany po wojnie przez [[Felicjan Janus Twardowski|Felicjana]] opisuje strona [[Zakon Smoczych Lordów]]._
 
 ## Opis
 Smoczy Lordowie to starożytny zakon bohaterskich jeźdźców smoków, którzy przybyli do Thylei pięć wieków temu. Każdy z lordów był związany z potężnym smokiem.
@@ -17,7 +17,7 @@ Lordowie wiązali się ze smokami starożytną przysięgą, wypowiadaną przy tw
 ## Siedziba
 Historycznie założyli pierwsze królestwa, w tym [[Mytros]].
 
-Grobowce Smoczych Lordów znajdują się w Nekropolii w Telamok ([[Sesja 8 - Ścieżka Umarłych]]). Niegdyś potężną machiną wojenną zakonu była [[Latająca Forteca Smoczych Lordów|latająca forteca]] ([[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]]). Siedzibą odbudowanego zakonu jest [[Wyspa Yonder]], dawna warownia [[Zakon Sydona|Zakonu Sydona]] ([[Sesja 84 - Świt Nowej Ery]]).
+Grobowce Smoczych Lordów znajdują się w Nekropolii w Telamok ([[Sesja 8 - Ścieżka Umarłych]]). Niegdyś potężną machiną wojenną zakonu była [[Latająca Forteca Smoczych Lordów|latająca forteca]] ([[Sesja 60 - Typhon Symfonia Potępienia i Brama do Hadesu]]).
 
 ## Członkowie
 Dawni Lordowie, których grobowce oglądali bohaterowie w [[Sesja 8 - Ścieżka Umarłych|Nekropolii w Telamok]]:
@@ -30,25 +30,11 @@ Inni:
 - [[Xander]] (przywódca zakonu)
 - [[Damon]]
 
-Potomkiem Smoczych Lordów jest [[Taran Neurdagon]] ([[Sesja 49 - Wielkie Gęsie Powstanie]]). Odnowiony zakon prowadzi [[Felicjan Janus Twardowski|Felicjan]]; rozważał dołączenie [[Arevon Elorrenthi|Arevon]].
+Potomkami Smoczych Lordów są [[Taran Neurdagon]] ([[Sesja 49 - Wielkie Gęsie Powstanie]]) i [[Corinna]].
 
-## Odnowiony Zakon
-Po wojnie z [[Tytani|Tytanami]] [[Felicjan Janus Twardowski|Felicjan]] odbudował Zakon z siedzibą na [[Wyspa Yonder|Wyspie Yonder]]. Ma on strzec pokoju i rozwoju: ludy [[Kontynent Thylea|Thylei]], żyjąc w zgodzie, mają razem stawić czoła zagrożeniom z zewnątrz. Mimo więzów założyciela z [[Mytros]] Zakon stara się być neutralny.
+## Jeźdźcy Acastusa
+Król [[Acastus]] stworzył własnych „Smoczych Lordów” na młodych miedzianych smokach z jaj, które w tajemnicy dał mu [[Sydon]]; sam nazwał się Pierwszym wśród Smoczych Lordów. Nie byli częścią dawnego zakonu. Jego srebrny [[Icarus]] zginął w [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]], a [[Tarchon]] okazał się zdrajcą. [[Apasia]] na [[Erythra|Erythrze]] i [[Alexandros]] na [[Aithon|Aithonie]] przeszli po wojnie do [[Zakon Smoczych Lordów|Zakonu]] Felicjana.
 
-Co wie o Zakonie każdy zainteresowany:
-- **Siedziba i biblioteka.** Siedziba jest na Yonder, a jej wielka biblioteka glinianych tabliczek służy też [[Akademia Mytros|Akademii Mytros]]. Filie działają w [[Estoria|Estorii]], [[Arezja|Arezji]], na [[Wyspa Indygo|Indygo]] i u [[Amazonki|Amazonek]]; na Indygo prowadzi ją [[Brenna]]. Filię na początku prowadzi ktoś z Yonder, a obok stoi miejscowy przyjaciel Zakonu jako jego twarz w mieście. Filia rekrutuje miejscowych adeptów, którzy szkolą się na Yonder i z czasem ją przejmują.
-- **Otwartość.** Każdy chętny może się w Zakonie uczyć nauki, magii, religii i sprawności fizycznej. Pełne członkostwo i awans są dla wybranych.
-- **Władza.** Zakonem kieruje rada, której przewodniczy Felicjan.
-- **Usługi.** Magia, doradztwo, ochrona, dyplomacja, wiedza z Akademii i transport [[Latająca Forteca Smoczych Lordów|latającą fortecą]].
-- **Proksenoi.** Zakon można wspierać. Jego przyjaciele w miastach (proksenoi) dostają honory: dostęp do biblioteki, pierwszeństwo usług i imię na steli na Yonder.
-- **Ślub.** Wstępujący składa ślub bez mocy magicznej: nikogo nie trzyma się siłą ani magią. Z Zakonu można odejść bez kary, tracąc tylko przywileje członka, a za zgodą można też wrócić. Kto działa na jego szkodę, zostaje wygnany.
-- **Wojny.** W wojnach między miastami Thylei Zakon nie bierze stron. Członek może bronić własnego domu, ale na ten czas zawiesza członkostwo; kto użyje ludzi, wiedzy lub tajemnic Zakonu przeciw innemu ludowi Thylei, zostaje wygnany. Wobec zagrożenia z zewnątrz Zakon staje razem.
-
-**Kodeks.** *Siła zobowiązuje* — kto może ochronić słabszego, powinien to zrobić. *Wiedza zobowiązuje* — nauką i mądrością, które mogą komuś pomóc, należy się dzielić. *Władza zobowiązuje* — władca nie posiada poddanych, tylko za nich odpowiada. *Pokój nie oznacza bierności* — w sporach Zakon mediuje, ale staje przeciw temu, kto napada na bezbronnych lub łamie zawarty pokój.
-
-**Leiturgia.** Każdy członek pracuje na rzecz Zakonu: początkujący w kuchni, na polu i przy połowie, bardziej zaawansowani przy smokach, fortecy i glinianych tabliczkach, najstarsi przy nauczaniu i służbie na zewnątrz. Kilka godzin dziennie albo jeden dzień w tygodniu, tak żeby praca nie zjadała nauki; wolno pomagać sobie magią. Dotyczy to wszystkich, także Felicjana, gdy jest na miejscu, i jego dzieci. Kontroli nie ma: Zakon ufa, że każdy zrobi swoje, a kto tego zaufania nadużywa, szybko traci je u innych.
-
-**Smoki Zakonu.** [[Kairos]] Felicjana, [[Paradoks]], mosiężny [[Chh'Krtak]] (dosiada go [[Brenna]]) i wykluta po wojnie brązowa smoczyca [[Ataraksja]], której jeźdźczynią jest [[Corinna]], potomkini dawnych Lordów. Byli bogowie — [[Kyrah]], [[Pythor]], [[Volkan]] i [[Vallus]] — są na Yonder zawsze mile widziani.
 
 ## Relacje
 - **Sojusznicy**: [[Pięciu Bogów]] (którzy pojawili się w czasie Pierwszej Wojny).
@@ -63,4 +49,4 @@ W [[Sesja 43 - Kopalnia Żelaza]] powoływanie się [[Ventis]] na Smoczych Lord�
 
 W [[Sesja 71 - Infiltracja Praxys]] [[Felicjan Janus Twardowski|Felicjan]] związał się ze smokiem [[Kairos|Kairosem]] przysięgą Smoczych Lordów.
 
-W [[Sesja 84 - Świt Nowej Ery]] [[Felicjan Janus Twardowski|Felicjan]] przystąpił do prawdziwej odbudowy Zakonu: smoki były, potężni ludzie byli, brakowało tylko siedziby — i tę znalazł na [[Wyspa Yonder|Wyspie Yonder]], w dawnej warowni [[Zakon Sydona|Zakonu Sydona]]. W dyskusjach o ustroju [[Mytros]] padła propozycja, by Zakon pozostał neutralnym arbitrem, ponad polityką. [[Arevon Elorrenthi|Arevon]] rozważał dołączenie — skłaniał się ku „tak", ale zastrzegał, że najpierw przeczyta wszystkie szczegóły umowy. Rosło też nowe pokolenie smoków: wykluła się smoczyca, dla której po piętnastu latach trzeba było znaleźć jeźdźca (została nim [[Corinna]]), a [[Paradoks]] dorósł niemal do rozmiarów [[Kairos|Kairosa]].
+Po wojnie [[Felicjan Janus Twardowski|Felicjan]] odbudował Zakon na [[Wyspa Yonder|Wyspie Yonder]]: zob. [[Zakon Smoczych Lordów]].

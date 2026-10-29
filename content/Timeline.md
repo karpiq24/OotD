@@ -506,6 +506,6 @@
 * [[Versir]] uwalnia [[Talieus Pierwszy|Talieusa Pierwszego]] z okowów [[Hypnos|Hypnosa]] i przejmuje opiekę nad barką i [[Glewia Sydona|Glewią Sydona]].
 * Rytuał w [[Świątynia Cieni|Świątyni Cieni]] w [[Arezja|Arezji]] przywraca [[Orestes|Orestesa]] do życia; [[Ultros]] zostaje na stałe barem w porcie [[Mytros]].
 * [[Acastus]] abdykuje, a koronę przejmuje [[Vallus]]; kult dawnych bogów ustępuje wierze w [[Mytros (Bogini)|Boginię Mytros]].
-* [[Felicjan Janus Twardowski|Felicjan]] odbudowuje [[Smoczy Lordowie|Zakon Smoczych Lordów]] z siedzibą na [[Wyspa Yonder|Wyspie Yonder]].
+* [[Felicjan Janus Twardowski|Felicjan]] odbudowuje [[Zakon Smoczych Lordów]] z siedzibą na [[Wyspa Yonder|Wyspie Yonder]].
 * [[Pythor]] zawiera z [[Hexia|Hexią]] rozejm po pięciuset latach; [[Orion Xul|Orion]] porzuca [[Lyra|Lyrę]].
 * [[Antikythera]] ożywa i wyznacza kurs do [[Eberron|Eberronu]]; [[Arevon Elorrenthi|Arevon]] wysyła [[Ivello Ostren|Ivella Ostrena]] i [[Lia Amakiir|Lię Amakiir]] w rejs powrotny.

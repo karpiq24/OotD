@@ -29,4 +29,4 @@ W [[Sesja 52 - Infiltracja Yonder]] bohaterowie, przebrani za żołnierzy Sydona
 
 W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] zakon zablokował wejście do portu Mytros morską barykadą ze statków, nad którą krążyły smoki z jeźdźcami, ale [[Ultros]] roztrzaskał galeon zakonu na pół i przebił blokadę. W [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa]] elitarni jeźdźcy zakonu na trzech młodych smokach wpadli przez sklepienie do sali tronowej pałacu, a ich dowódca [[Leopardas]] zginął w walce. [[Sydon]] zginął w [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]]
 
-W [[Sesja 84 - Świt Nowej Ery]] [[Acastus]], abdykując, prosił o łagodne kary dla stronników Sydona, a [[Felicjan Janus Twardowski|Felicjan]] zamierzał zdobyć niemal pustą warownię na Yonder jako siedzibę odbudowywanego [[Smoczy Lordowie|Zakonu Smoczych Lordów]].
+W [[Sesja 84 - Świt Nowej Ery]] [[Acastus]], abdykując, prosił o łagodne kary dla stronników Sydona, a [[Felicjan Janus Twardowski|Felicjan]] zamierzał zdobyć niemal pustą warownię na Yonder jako siedzibę odbudowywanego [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]].

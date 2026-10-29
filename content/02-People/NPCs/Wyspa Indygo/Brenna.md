@@ -20,4 +20,4 @@ W [[Sesja 44 - Ventis]] kpiła z Ventis i kwestionowała jej przekonania. Gdy bo
 
 ![Brenna piętnaście lat po wojnie](../../../assets/people/brenna_po_wojnie.webp)
 
-Została pierwszą adeptką [[Smoczy Lordowie|Zakonu Smoczych Lordów]] z [[Wyspa Indygo|Indygo]], a dziś prowadzi tamtejszą filię i dosiada mosiężnego smoka [[Chh'Krtak|Chh'Krtaka]]. To najlepsza odpowiedź na nieufność wyspy wobec starego Zakonu, w którego imię terroryzowała ją [[Ventis]]: Smoczy Lordowie nie przychodzą już na Indygo z zewnątrz, bo jedna z nich stamtąd pochodzi. Córka strażników jedynej kopalni żelaza w Zakonie to jednak też powód, by posądzać Zakon, że trzyma rękę na żelazie.
+Została pierwszą adeptką [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]] z [[Wyspa Indygo|Indygo]], a dziś prowadzi tamtejszą filię i dosiada mosiężnego smoka [[Chh'Krtak|Chh'Krtaka]]. To najlepsza odpowiedź na nieufność wyspy wobec starego Zakonu, w którego imię terroryzowała ją [[Ventis]]: Smoczy Lordowie nie przychodzą już na Indygo z zewnątrz, bo jedna z nich stamtąd pochodzi. Córka strażników jedynej kopalni żelaza w Zakonie to jednak też powód, by posądzać Zakon, że trzyma rękę na żelazie.
