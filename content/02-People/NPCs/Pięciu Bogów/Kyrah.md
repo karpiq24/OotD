@@ -1,5 +1,8 @@
 ---
 title: Kyrah
+also_in:
+  - Smoki
+  - Cztery Wiatry
 aliases:
   - Kyra
   - Notos

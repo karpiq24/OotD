@@ -1,14 +1,15 @@
 ---
 title: Lista postaci niezależnych
+groups:
+  - Bogowie i Tytani
+  - Miasta i krainy
+  - Wyspy i wieże
+  - Zakony i kulty
+  - Załogi i statki
+  - Istoty
+  - Inne
 ---
 
-- [[Aegis]]
-- [[Althaia]]
-- [[Laios]]
-- [[Nersus|Kapitan Nersus]]
-- [[Nessa]]
-- [[Pholon]]
-- [[Wiedźma Lotosu]]
 - [[02-People/NPCs/Amazonki|Amazonki]]
 - [[02-People/NPCs/Arezja|Arezja]]
 - [[02-People/NPCs/Centaury|Centaury]]
@@ -39,5 +40,9 @@ title: Lista postaci niezależnych
 - [[02-People/NPCs/Zakon Sydona|Zakon Sydona]]
 - [[02-People/NPCs/Załoga Arevona|Załoga Arevona]]
 - [[02-People/NPCs/Świątynia Wyroczni|Świątynia Wyroczni]]
-- [[Cerber]]
 - [[02-People/NPCs/Orestessos|Orestessos]]
+- [[02-People/NPCs/Mithralowa Kuźnia|Mithralowa Kuźnia]]
+- [[02-People/NPCs/Potwory|Potwory]]
+- [[02-People/NPCs/Praxys|Praxys]]
+- [[02-People/NPCs/Typhon|Typhon]]
+- [[02-People/NPCs/Wyspa Krzywoprzysięstwa|Wyspa Krzywoprzysięstwa]]

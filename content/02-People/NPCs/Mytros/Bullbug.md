@@ -1,5 +1,7 @@
 ---
 title: Bullbug
+also_in:
+  - Arezja
 ---
 
 ![Bullbug](../../../assets/people/bullbug.webp)

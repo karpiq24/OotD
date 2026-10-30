@@ -1,5 +1,6 @@
 ---
 title: Tytani
+group: Bogowie i Tytani
 ---
 
 - [[Kentimane]]

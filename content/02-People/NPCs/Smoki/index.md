@@ -1,5 +1,6 @@
 ---
 title: Smoki
+group: Istoty
 ---
 
 - [[Chh'Krtak]]
@@ -9,3 +10,14 @@ title: Smoki
 - [[Ataraksja]]
 - [[Aithon]]
 - [[Erythra]]
+- [[Arkyrania]]
+- [[Arystonar]]
+- [[Balmytria]]
+- [[Chaeristis]]
+- [[Hexia]]
+- [[Hezzebal]]
+- [[Orichalkos]]
+- [[Raspytrion]]
+- [[Sybolkorax]]
+- [[Tysophale]]
+- [[Zarmulax]]

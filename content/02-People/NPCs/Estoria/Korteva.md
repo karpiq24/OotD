@@ -1,5 +1,7 @@
 ---
 title: Korteva
+also_in:
+  - Kult Węża
 ---
 
 ![Korteva](../../../assets/people/korteva.webp)

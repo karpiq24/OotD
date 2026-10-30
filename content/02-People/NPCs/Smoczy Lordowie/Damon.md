@@ -1,5 +1,7 @@
 ---
 title: Damon
+also_in:
+  - Nekropolia
 ---
 
 ![Damon](../../../assets/people/damon.webp)

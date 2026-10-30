@@ -2,7 +2,7 @@
 title: 04 Wielka Odyseja
 ---
 
-- [[Chutliwa argoniańska pokojówka]]
+- [[Chutliwa argoniańska pokojówka (fragment sztuki)]]
 - [[Dziennik Gaiusa]]
 - [[Dziennik Hergerona]]
 - [[Dziennik Keelana]]

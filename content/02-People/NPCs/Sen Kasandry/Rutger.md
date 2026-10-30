@@ -1,5 +1,7 @@
 ---
 title: Rutger
+also_in:
+  - Ultros
 ---
 
 ![Rutger](../../../assets/people/rutger.webp)

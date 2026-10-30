@@ -1,5 +1,7 @@
 ---
 title: Ataraksja
+also_in:
+  - Estoria
 aliases:
   - Ataraxia
 ---

@@ -10,7 +10,7 @@ Pozostali Tytani stworzyli centaury, satyry i nimfy, które szybko rozprzestrzen
 
 Sydon i Lutheria patrzyli na te nowe rasy śmiertelników z pogardą. Stali się zgorzkniali i pełni nienawiści, izolując się na ostatniej niezamieszkanej wyspie Thylei, gdzie ich gniew narastał.
 
-W tym czasie [[Versi Pierwsza|Versi]], Bogini Proroctwa, pogrążyła się w głębokiej medytacji, próbując odczytać przyszłość Thylei. Ujrzała w niej mrok i zniszczenie, ale dostrzegła też nadzieję. Odnalazła Talieusa i opowiedziała mu o swoich wizjach. Talieus, początkowo niechętny, w końcu przystąpił do wykuwania [[Titansbane|Ostrza]]. Versi przekazała mu cząstkę samej siebie – fragment jej boskiej iskry – aby stworzył broń zdolną do niemożliwego.
+W tym czasie [[Versi Pierwsza|Versi]], Bogini Proroctwa, pogrążyła się w głębokiej medytacji, próbując odczytać przyszłość Thylei. Ujrzała w niej mrok i zniszczenie, ale dostrzegła też nadzieję. Odnalazła Talieusa i opowiedziała mu o swoich wizjach. Talieus, początkowo niechętny, w końcu przystąpił do wykuwania [[Zguba Tytanów|Ostrza]]. Versi przekazała mu cząstkę samej siebie – fragment jej boskiej iskry – aby stworzył broń zdolną do niemożliwego.
 
 Ostrze było już prawie gotowe, gdy pewnego dnia zjawiła się Lutheria, twierdząc, że ona i jej brat znudzili się samotnością. Oferując pochwały i pochlebstwa, nakłoniła Talieusa do stworzenia nowej rasy, wspanialszej niż wszystkie inne.
 

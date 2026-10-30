@@ -1,5 +1,7 @@
 ---
 title: Wiedza o Świecie
+description: Historia, mitologia i kultura Thylei.
+cover: ../assets/sessions/067/067_pyramid.webp
 ---
 
 - [[Epickie Ścieżki]]

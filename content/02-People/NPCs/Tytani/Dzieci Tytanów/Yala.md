@@ -1,5 +1,8 @@
 ---
 title: Yala
+also_in:
+  - Amazonki
+  - Bohaterowie
 ---
 
 ![Yala](../../../../assets/people/yala.webp)

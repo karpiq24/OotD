@@ -1,5 +1,8 @@
 ---
 title: Silenos
+also_in:
+  - Orestessos
+  - Bohaterowie
 ---
 
 ![Silenos](../../../assets/people/silenos.webp)

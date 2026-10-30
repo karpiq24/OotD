@@ -1,5 +1,7 @@
 ---
 title: Demetria
+also_in:
+  - Kult Lutherii
 ---
 
 ![Demetria](../../../assets/sessions/004/004_demetria.webp)

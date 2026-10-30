@@ -1,5 +1,7 @@
 ---
 title: Baltia
+also_in:
+  - Amazonki
 aliases:
   - Baltia Rhuli
 ---

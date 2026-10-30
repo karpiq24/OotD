@@ -1,5 +1,7 @@
 ---
 title: Przedmioty i Łupy
+description: Magiczne artefakty i zdobyte skarby.
+cover: ../assets/sessions/053/053_bowl.webp
 ---
 
 - [[Antikythera]]
@@ -27,11 +29,10 @@ title: Przedmioty i Łupy
 - [[Smoczy Talizman]]
 - [[Słoneczny Granat]]
 - [[Tarcza Xandera]]
-- [[Titansbane]]
+- [[Zguba Tytanów|Zguba Tytanów (Titansbane)]]
 - [[Topór Xandera]]
 - [[Wielka Księga Zasad]]
 - [[Xiphos of Slaughter]]
-- [[Zguba Tytanów|Zguba Tytanów (Titansbane)]]
 - [[Zlote Owoce|Złote Owoce]]
 - [[04-Items-and-Loot/Spellbooks|Spellbooks]]
 - [[Circlet of Blasting]]

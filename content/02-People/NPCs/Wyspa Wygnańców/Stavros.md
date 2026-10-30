@@ -1,5 +1,7 @@
 ---
 title: Stavros
+also_in:
+  - Arezja
 aliases:
   - Lord Stavros
 ---

@@ -1,5 +1,7 @@
 ---
 title: Lyra
+also_in:
+  - Bohaterowie
 race:
 gender: kobieta
 occupation: Wojowniczka

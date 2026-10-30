@@ -1,5 +1,6 @@
 ---
 title: Wyspa Wygnańców
+group: Wyspy i wieże
 ---
 
 - [[Cronos]]

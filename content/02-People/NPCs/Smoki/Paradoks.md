@@ -1,5 +1,7 @@
 ---
 title: Paradoks
+also_in:
+  - Wyspa Czasu
 aliases:
   - Paradox
 ---

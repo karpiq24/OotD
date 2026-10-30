@@ -1,5 +1,7 @@
 ---
 title: Telamok Arkelander
+also_in:
+  - Mytros
 aliases:
   - Telamok
   - Telamok Arakelander

@@ -1,5 +1,6 @@
 ---
 title: Mytros
+group: Miasta i krainy
 ---
 
 - [[Acastus]]
@@ -8,7 +9,6 @@ title: Mytros
 - [[Anteia]]
 - [[Apasia]]
 - [[Archadina]]
-- [[Astra]]
 - [[Atreus]]
 - [[Avys]]
 - [[Bella]]
@@ -22,7 +22,6 @@ title: Mytros
 - [[Fekaliusz]]
 - [[Fryxon]]
 - [[Gnotor]]
-- [[Greciosa]]
 - [[Grimmik]]
 - [[Halie]]
 - [[Hileas]]
@@ -40,7 +39,6 @@ title: Mytros
 - [[Melania Twardowska]]
 - [[Moxena]]
 - [[Nephele]]
-- [[Nera]]
 - [[Ophea]]
 - [[Rakas Rozpruwacz]]
 - [[Rhea]]
@@ -61,3 +59,4 @@ title: Mytros
 - [[Meroppe]]
 - [[Aleksander Twardowski]]
 - [[Triya Twardowska]]
+- [[Braz]]

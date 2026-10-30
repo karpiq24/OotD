@@ -1,5 +1,7 @@
 ---
 title: Septia
+also_in:
+  - Mytros
 ---
 
 ![Septia](../../../assets/people/septia.webp)

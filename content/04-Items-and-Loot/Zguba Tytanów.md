@@ -1,27 +1,31 @@
 ---
 title: Zguba Tytanów (Titansbane)
+aliases:
+  - Titansbane
 ---
 
 ![Placeholder](../assets/placeholder.webp)
+
+_Niedokończone ostrze zdolne unicestwić duszę boga, wykute przeciw Sydonowi i ukończone przez Volkana; po wojnie zwrócone [[Hexia|Hexii]]._
 
 _Weapon (longsword), legendary (requires attunement)_
 
 ## Opis
 Zguba Tytanów to potężny, czarny miecz, który zdaje się pochłaniać światło.
 
-Został wykuty przez [[Talieus Pierwszy|Talieusa]] i jest bronią o własnej świadomości, o potencjale kruszenia boskich dusz. Ukończył go [[Volkan]], a nosił [[Versir]]. Po śmierci [[Sydon|Sydona]] i [[Lutheria|Lutherii]] Versir zwrócił miecz [[Hexia|Hexii]], jak jej obiecał. Zob. też [[Titansbane]].
+Został wykuty przez [[Talieus Pierwszy|Talieusa]] i jest bronią o własnej świadomości, o potencjale kruszenia boskich dusz. Ukończył go [[Volkan]], a nosił [[Versir]]. Po śmierci [[Sydon|Sydona]] i [[Lutheria|Lutherii]] Versir zwrócił miecz [[Hexia|Hexii]], jak jej obiecał.
 
 ## Historia
 
 ### Legenda Stworzenia
-Historia miecza sięga czasów przed Zdradą Tytanów. Według wizji z [[Sesja 56 - Dedal i Ikar]] **[[Versi|Versi Pierwsza]]** przewidziała nadchodzącą ciemność i udała się do **[[Talieus|Talieusa]]**, Mistrza Rzemiosła pośród Tytanów. Błagała go, by wykuł broń zdolną nie tylko złamać ciało boga, ale unicestwić samą jego duszę.
+Historia miecza sięga czasów przed Zdradą Tytanów. Według wizji z [[Sesja 56 - Dedal i Ikar]] **[[Versi Pierwsza]]** przewidziała nadchodzącą ciemność i udała się do **[[Talieus Pierwszy|Talieusa]]**, Mistrza Rzemiosła pośród Tytanów. Błagała go, by wykuł broń zdolną nie tylko złamać ciało boga, ale unicestwić samą jego duszę.
 
-Talieus rozpoczął pracę, tworząc **Titansbane** – "śpiącego boga zniszczenia".
+Talieus rozpoczął pracę, tworząc **Titansbane** – "śpiącego boga zniszczenia". Versi poświęciła cząstkę siebie, by dać ostrzu moc dokonywania rzeczy niemożliwych, więc miecz nosi w sobie fragment duszy matki [[Versir|Versira]].
 
 ### Nieudane Próby
 Miecz był używany w wojnach przeciwko Tytanom, ale nigdy nie został ukończony, co przesądziło o losach jego posiadaczy:
 
-1.  **[[Hergeron]]**: Próbował władać nim przeciwko [[Sydon|Sydonowi]]. Choć zranił Pana Burz, nie zdołał oddzielić jego duszy od świata (wizja z [[Sesja 56 - Dedal i Ikar]]).
+1.  **[[Hergeron Pierwszy|Hergeron]]**: Próbował władać nim przeciwko [[Sydon|Sydonowi]]. Choć zranił Pana Burz, nie zdołał oddzielić jego duszy od świata (wizja z [[Sesja 56 - Dedal i Ikar]]).
 2.  **[[Ochos Arkelander]]**: Jeździec smoczycy [[Hexia|Hexii]]. Razem zaatakowali Sydona podczas wielkiego sztormu. Ciemne ostrze trafiło Tytana w pierś, zadając mu ból „psychiczny i fizyczny", ale rana się zasklepiła. Sydon, wściekły, uderzył Ochosa czarnym piorunem z morza, zabijając go na miejscu (wizja z [[Sesja 56 - Dedal i Ikar]]).
 
 Ochos był ostatnim Smoczym Lordem, który dzierżył miecz.
@@ -35,7 +39,9 @@ W [[Sesja 56 - Dedal i Ikar]] [[Arevon Elorrenthi|Arevon]] przeżył wizję ocza
 Smoczyca przekazała miecz bohaterom dopiero gdy [[Orestes]] odtworzył pieśń jej ukochanego. Zgodziła się oddać im miecz pod warunkiem przysięgi, że po zabiciu Sydona broń do niej wróci, a bohaterowie ją złożyli. Miecz został wysłany magicznym połączeniem do **[[Mithralowa Kuźnia|Mithralowej Kuźni]]**, by bóg kowali [[Volkan]] dokończył dzieło Talieusa.
 
 ### Ukończony miecz w bitwie o Mytros
-W [[Sesja 70 - Audiencja u Pani Snów]] Volkan przekazał ukończony miecz Versirowi.
+W [[Sesja 69 - Ogród Lutherii]] Versir wiązał z odzyskaniem miecza nadzieję na bezpośrednią konfrontację z [[Lutheria|Lutherią]].
+
+W [[Sesja 70 - Audiencja u Pani Snów]] Volkan przekazał ukończony miecz Versirowi, a [[Lutheria]] wymieniła Zgubę Tytanów i [[Topór Xandera]] jako bronie skuteczne przeciwko Sydonowi.
 
 W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] Versir dzierżył go w walce z Sydonem; cięcia Zguby Tytanów wypalały w ciele Pana Burz rany, które nie chciały się już zasklepić, i dławiły jego regenerację.
 

@@ -1,5 +1,7 @@
 ---
 title: Delphia
+also_in:
+  - Ultros
 aliases:
   - Delphi
 ---

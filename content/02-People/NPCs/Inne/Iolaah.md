@@ -1,5 +1,7 @@
 ---
 title: Iolaah
+also_in:
+  - Ultros
 ---
 
 ![Iolaah](../../../assets/people/iolaah.webp)

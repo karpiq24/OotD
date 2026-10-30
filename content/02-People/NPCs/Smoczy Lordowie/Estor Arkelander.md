@@ -1,5 +1,7 @@
 ---
 title: Estor Arkelander
+also_in:
+  - Ultros
 aliases:
   - Estor
 image_prompt: young adult male, athletic muscular build, heroic ancient Greek warrior, long wavy blonde hair, strong jawline, wearing an ornate golden Corinthian helmet with a white plume, a sculpted golden muscle cuirass over a white tunic, a brown leather pteruges skirt, ornate golden greaves with swirling patterns, and leather sandals, a long flowing orange cape draped over his shoulders.

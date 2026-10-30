@@ -1,5 +1,7 @@
 ---
 title: Heliope
+also_in:
+  - Ultros
 ---
 
 ![Heliope](../../../assets/people/heliope.webp)

@@ -1,5 +1,6 @@
 ---
 title: Arezja
+group: Miasta i krainy
 ---
 
 - [[Aketa]]

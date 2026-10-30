@@ -1,5 +1,7 @@
 ---
 title: Goloron
+also_in:
+  - Praxys
 image_prompt: adult male, mythological god, imposing muscular build, dark skin, glowing blank white eyes, horizontal third eye on the forehead with a teal iris, short dark beard and mustache, mid-length straight black hair, golden spiked crown, form-fitting dark bronze muscle cuirass armor, glowing cyan magical lines tracing the armor and skin, matching bronze bracers and pointed leg greaves, white pleated kilt with cyan trim, ornate gold belt with a sunburst and teal center, structured bronze shoulder collar, massive flowing two-tone cape dark on the outside and white on the inside with cyan geometric borders, long golden staff with trident-like prongs encompassing a glowing cyan geometric sphere, techno-magical ancient Greek aesthetic, dark fantasy
 ---
 

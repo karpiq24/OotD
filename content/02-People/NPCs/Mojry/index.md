@@ -1,5 +1,6 @@
 ---
 title: Mojry
+group: Bogowie i Tytani
 ---
 
 - [[Decima]]

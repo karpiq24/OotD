@@ -1,5 +1,6 @@
 ---
 title: Wyspa Czasu
+group: Wyspy i wieże
 ---
 
 - [[Bilatro]]

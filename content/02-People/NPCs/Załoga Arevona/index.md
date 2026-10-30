@@ -1,5 +1,6 @@
 ---
 title: Załoga Arevona
+group: Załogi i statki
 ---
 
 - [[Baltia]]

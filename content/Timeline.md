@@ -363,7 +363,7 @@
 
 ## Sesja 64 - Pieśń dla Smoczycy (29.12.2025)
 * Spacyfikowanie starożytnej zielonej smoczycy [[Hexia|Hexii]] poprzez odśpiewanie jej pieśni [[Ochos Arkelander|Ochosa]].
-* Odzyskanie potężnego miecza **[[Titansbane]]** oraz uwolnienie matki [[Orion Xul|Oriona]], [[Ophea|Ophei]].
+* Odzyskanie potężnego miecza **[[Zguba Tytanów|Titansbane]]** oraz uwolnienie matki [[Orion Xul|Oriona]], [[Ophea|Ophei]].
 * Odkrycie symbolu [[Kraken|Krakena]] na brzegach [[Wyspa Smoka]].
 
 ## Sesja 65 - Wyprawa w Otchłań (05.01.2026)
@@ -404,7 +404,7 @@
 * Ostateczna, nieodwracalna śmierć [[Estor Arkelander|Estora Arkelandera]] z rąk [[Lutheria|Lutherii]].
 * Audiencja u Pani Snów i poznanie sekretu [[Praxys]] (gwiazda i [[Hergeron]]).
 * Okrutna oferta [[Lutheria|Lutherii]] (jej Kosa z uwięzionymi duszami za glewię i głowę [[Sydon|Sydona]]), odrzucona przez bohaterów, i pozostawienie [[Chondrus|Chondrusa]] na jej łasce.
-* Przybycie [[Volkan|Volkana]] na morze i przekazanie [[Titansbane]] oraz innych darów.
+* Przybycie [[Volkan|Volkana]] na morze i przekazanie [[Zguba Tytanów|Titansbane]] oraz innych darów.
 * Wizja [[Arevon Elorrenthi|Arevona]] o upadku [[Praxys]] i śmierci Telamoka.
 * Opracowanie planu infiltracji wieży [[Sydon|Sydona]] pod postacią wiatru.
 

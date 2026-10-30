@@ -1,5 +1,7 @@
 ---
 title: Triya Twardowska
+also_in:
+  - Bohaterowie
 aliases:
   - Triya
 race: Człowiek

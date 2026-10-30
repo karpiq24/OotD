@@ -1,5 +1,7 @@
 ---
 title: Alkippe
+also_in:
+  - Bohaterowie
 race: Człowiek
 gender: Kobieta
 occupation: Amazonka, wojowniczka

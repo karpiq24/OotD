@@ -42,7 +42,7 @@ Gdy **[[Ultros]]** płynął ku swojemu przeznaczeniu, **[[Kyrah]]** zebrała dr
 *   **[[Felicjan Janus Twardowski|Felicjan]]** skupił się na wywiadzie – pragnął poznać jej intencje i plany, by wiedzieć, czy zamierza pokrzyżować ich szyki, twierdząc, że ma przygotowaną "strategię wyjścia".
 *   **[[Orion Xul|Orion]]** z typową dla siebie bezpośredniością stwierdził krótko: "Albo ją przekonać, albo walczyć.".
 *   **[[Orestes]]** nie krył nienawiści, wspominając o chęci "zdjęcia z niej skalpu". Jednak pod tą maską brutalności krył się pragmatyzm – był gotów oddać jedno ze swoich żyć w zamian za uwolnienie dusz swoich rodziców.
-*   **[[Versir]]**, pamiętający swoją matkę, pragnął odzyskać **[[Talieus Pierwszy|Talieusa]]** i zabrać go ze sobą. Wyraził głęboki sceptycyzm co do jakichkolwiek umów z **[[Lutheria|Lutherią]]**. Wierzy, że po odzyskaniu [[Titansbane]], będzie lepsza okazja do bardziej bezpośredniej konfrontacji z nią.
+*   **[[Versir]]**, pamiętający swoją matkę, pragnął odzyskać **[[Talieus Pierwszy|Talieusa]]** i zabrać go ze sobą. Wyraził głęboki sceptycyzm co do jakichkolwiek umów z **[[Lutheria|Lutherią]]**. Wierzy, że po odzyskaniu [[Zguba Tytanów|Titansbane]], będzie lepsza okazja do bardziej bezpośredniej konfrontacji z nią.
 
 Rozmowa zeszła również na temat tego, co mogą zaoferować w zamian. Drużyna zdała sobie sprawę, że ich karty przetargowe są skromne, a cena za pakt z Panią Śmierci może być wyższa, niż są gotowi zapłacić.
 

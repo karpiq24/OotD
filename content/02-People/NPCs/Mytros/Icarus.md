@@ -1,5 +1,7 @@
 ---
 title: Icarus
+also_in:
+  - Smoki
 ---
 
 ![Icarus](../../../assets/people/icarus.webp)

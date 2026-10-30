@@ -1,5 +1,7 @@
 ---
 title: Klonicjan
+also_in:
+  - Bohaterowie
 race: Człowiek (Simulacrum)
 gender: Mężczyzna
 occupation: Magiczny klon, wsparcie drużyny

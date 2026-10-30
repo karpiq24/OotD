@@ -1,5 +1,8 @@
 ---
 title: Steros
+also_in:
+  - Praxys
+  - Mytros
 ---
 
 ![Steros](../../../assets/people/steros.webp)

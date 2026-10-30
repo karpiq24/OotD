@@ -1,5 +1,7 @@
 ---
 title: Lutheria
+also_in:
+  - Kult Lutherii
 aliases:
   - Pani Snów
   - Pani Śmierci

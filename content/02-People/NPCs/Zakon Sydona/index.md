@@ -1,5 +1,6 @@
 ---
 title: Zakon Sydona
+group: Zakony i kulty
 ---
 
 - [[Ajax]]

@@ -1,5 +1,8 @@
 ---
 title: Moxena
+also_in:
+  - Kult Węża
+  - Amazonki
 aliases:
   - Pani Monet
 ---

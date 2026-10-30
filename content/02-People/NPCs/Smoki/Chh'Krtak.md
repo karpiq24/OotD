@@ -1,5 +1,8 @@
 ---
 title: Chh'Krtak
+also_in:
+  - Wyspa Indygo
+  - Wyspa Ognia
 ---
 
 ![Chh'Krtak](../../../assets/people/chh_krtak.webp)

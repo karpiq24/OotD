@@ -1,5 +1,7 @@
 ---
 title: Argyn
+also_in:
+  - Smoki
 ---
 
 ![Argyn](../../../assets/people/argyn.webp)

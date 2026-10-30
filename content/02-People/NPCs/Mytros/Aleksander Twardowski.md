@@ -1,5 +1,7 @@
 ---
 title: Aleksander Twardowski
+also_in:
+  - Bohaterowie
 aliases:
   - Aleksander
 race: Człowiek

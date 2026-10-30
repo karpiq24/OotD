@@ -1,5 +1,6 @@
 ---
 title: Orestessos Zythikē
+people: Orestessos
 image_prompt:
 aliases:
   - Rosos

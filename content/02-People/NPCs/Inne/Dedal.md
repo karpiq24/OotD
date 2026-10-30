@@ -1,5 +1,7 @@
 ---
 title: Dedal
+also_in:
+  - Mytros
 ---
 
 ![Dedal](../../../assets/people/dedal.webp)

@@ -1,0 +1,18 @@
+---
+title: Arystonar
+also_in:
+  - Smoczy Lordowie
+---
+
+![Arystonar](../../../assets/people/arystonar.webp)
+
+_Brązowy smok, wierzchowiec Jaseny Ventrak_
+
+## Opis
+Jeden ze szlachetnych brązowych smoków Zakonu.
+
+## Osobowość
+Cechy charakteru, motywacje, ideały.
+
+## Historia
+Zginął podczas Pierwszej Wojny, co doprowadziło jego jeźdźca, Jasenę Ventrak, do desperackich kroków i zniknięcia.

@@ -10,7 +10,7 @@ _Tomik o wątpliwej wartości literackiej, lecz dużej wartości rozrywkowej._
 Książka "pożyczona" przez [[Felicjan Janus Twardowski|Felicjana]] z wozu zmierzającego do Biblioteki Yonder.
 
 ## Treść
-Zawiera fragment komediowej, pikantnej sztuki [[Crassius Curio|Crassiusa Curio]] o argoniańskiej pokojówce.
+Zawiera fragment komediowej, pikantnej sztuki [[Crassius Curio|Crassiusa Curio]] o argoniańskiej pokojówce: [[Chutliwa argoniańska pokojówka (fragment sztuki)|przeczytaj fragment]].
 
 ## Historia
 Zdobyta w [[Sesja 51 - Desant na Yonder]].

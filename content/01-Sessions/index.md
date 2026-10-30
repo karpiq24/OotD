@@ -1,5 +1,7 @@
 ---
 title: Sesje
+description: Logi z naszych przygód w Thylei.
+cover: ../assets/sessions/082/082_theme_seven_reflections.webp
 ---
 
 - [[Sesja 1 - Wielki Dzik|Sesja 1: Wielki Dzik]]

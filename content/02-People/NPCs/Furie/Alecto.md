@@ -1,5 +1,7 @@
 ---
 title: Alecto
+also_in:
+  - Praxys
 race: Furia
 gender: Kobieta
 occupation: Furia, Strażniczka Praw

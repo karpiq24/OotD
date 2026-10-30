@@ -1,5 +1,7 @@
 ---
 title: Erythra
+also_in:
+  - Mytros
 image_prompt: female copper dragon, young adult big enough to carry a rider, lean and agile, gleaming copper scales shading to reddish-copper on the back with turquoise verdigris patina on scale edges and horn tips, long backswept segmented horns, sharp clever turquoise eyes, sly playful expression, warm copper wing membranes, slim leather Dragonlord saddle with copper fittings
 ---
 

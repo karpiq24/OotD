@@ -1,5 +1,8 @@
 ---
 title: Sydon
+also_in:
+  - Praxys
+  - Zakon Sydona
 aliases:
   - Władca Burz
   - Pan Burz

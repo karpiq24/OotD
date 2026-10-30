@@ -1,5 +1,7 @@
 ---
 title: Trellus
+also_in:
+  - Mytros
 ---
 
 ![Trellus](../../../assets/people/trellus.webp)

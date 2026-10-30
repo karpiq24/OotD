@@ -1,5 +1,7 @@
 ---
 title: Patrea
+also_in:
+  - Ultros
 ---
 
 ![Patrea](../../../assets/people/patrea.webp)

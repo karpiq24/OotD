@@ -25,7 +25,7 @@ Przesuwa dłonią po płaskiej stronie głowni. Czujesz drżenie ogromnej, surow
 
 *(Głos [[Ochos Arkelander|Ochosa]] kontunuuje)* „[[Hergeron]] próbował nim władać przeciwko [[Sydon|Sydonowi]], ale nie był jeszcze ukończony. Zranił Pana Burz, owszem, ale nie zdołał oddzielić jego duszy od tego świata. To nie wystarczyło.” Spogląda na ciebie, a jego oczy płoną desperacką nadzieją, którą czujesz jako własną. „Ale teraz... my go mamy. Nie możemy go dokończyć, nie bez boskiego kowala. Ale być może, tylko być może... jego moc wystarczy. W ten sposób ich ocalimy, Hexio. Tak to zakończymy. Razem.”
 
-Opiera się o ciebie i znów zaczyna nucić swoją pieśń. W tej chwili, pod ciepłym słońcem, z jego pieśnią w powietrzu i obietnicą [[Titansbane]] w waszym wspólnym uścisku, wierzysz mu. Czujesz iskrę emocji, której nie potrafisz nazwać. Czuje się jak nadzieja.
+Opiera się o ciebie i znów zaczyna nucić swoją pieśń. W tej chwili, pod ciepłym słońcem, z jego pieśnią w powietrzu i obietnicą [[Zguba Tytanów|Titansbane]] w waszym wspólnym uścisku, wierzysz mu. Czujesz iskrę emocji, której nie potrafisz nazwać. Czuje się jak nadzieja.
 
 ---
 
@@ -33,7 +33,7 @@ Opiera się o ciebie i znów zaczyna nucić swoją pieśń. W tej chwili, pod ci
 
 Pikujesz w dół przez sam środek huraganu. Deszcz, gęsty i zimny jak solanka, kłuje cię w oczy. Błyskawice, nie z nieba, lecz z samego morza, rozrywają kłębiące się wokół ciebie chmury. Ogłuszający ryk, który słyszysz, to nie grzmot — to śmiech [[Sydon|Sydona]].
 
-Jest przed tobą, góra wściekłości nosząca twarz boga, jego obsydianowa glewia rozcina samo powietrze. [[Ochos Arkelander|Ochos]] jest na twoich plecach, krzyczy bojowy okrzyk, który natychmiast zostaje pochłonięty przez burzę. Czujesz znajomy ciężar [[Titansbane]] w jego uścisku, gdy nurkujecie.
+Jest przed tobą, góra wściekłości nosząca twarz boga, jego obsydianowa glewia rozcina samo powietrze. [[Ochos Arkelander|Ochos]] jest na twoich plecach, krzyczy bojowy okrzyk, który natychmiast zostaje pochłonięty przez burzę. Czujesz znajomy ciężar [[Zguba Tytanów|Titansbane]] w jego uścisku, gdy nurkujecie.
 
 On uderza.
 
@@ -53,7 +53,7 @@ Nucenie w twej duszy ucichło. Świat jest krzyczącą pustką wiatru i deszczu,
 
 **Wizja zmienia się po raz ostatni. Burza jest wspomnieniem.**
 
-Jesteś w ciemnej, wilgotnej jaskini, głęboko w dżungli. Jesteś ranna, twoje ciało boli, ale ból jest tępym echem w porównaniu z ziejącą raną w twej duszy. Przed tobą, spoczywający na posłaniu z mchu i zebranych jedwabi, leży [[Titansbane]]. Przyniosłaś go tutaj. To wszystko, co ci po nim zostało.
+Jesteś w ciemnej, wilgotnej jaskini, głęboko w dżungli. Jesteś ranna, twoje ciało boli, ale ból jest tępym echem w porównaniu z ziejącą raną w twej duszy. Przed tobą, spoczywający na posłaniu z mchu i zebranych jedwabi, leży [[Zguba Tytanów|Titansbane]]. Przyniosłaś go tutaj. To wszystko, co ci po nim zostało.
 
 Teraz rozumiesz. Miecz jest niedokończony. Arcydzieło zapomnianej epoki, ale niekompletne. Potrzebuje dotyku boskiego kowala, istoty o boskim rzemiośle, aby obudzić jego prawdziwe przeznaczenie – by wykuć ostatnie nuty jego pieśni. Ale nie ma już takich bogów, którzy by się na to odważyli.
 

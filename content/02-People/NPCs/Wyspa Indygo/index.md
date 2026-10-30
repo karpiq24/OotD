@@ -1,5 +1,6 @@
 ---
 title: Wyspa Indygo
+group: Wyspy i wieże
 ---
 
 - [[Borinn Bystre Oko]]

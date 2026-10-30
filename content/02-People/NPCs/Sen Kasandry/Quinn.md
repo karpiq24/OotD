@@ -1,5 +1,7 @@
 ---
 title: Quinn
+also_in:
+  - Ultros
 ---
 
 ![Quinn](../../../assets/sessions/036/quinn.webp)

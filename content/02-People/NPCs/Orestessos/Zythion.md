@@ -1,5 +1,7 @@
 ---
 title: Zythion
+also_in:
+  - Bohaterowie
 race: Człowiek
 gender: Mężczyzna
 occupation: Syn Orestesa

@@ -1,0 +1,19 @@
+---
+title: Góra Telamok
+---
+
+![Placeholder](../../../assets/placeholder.webp)
+
+Martwe miasto i góra będąca miejscem ostatecznego spoczynku Smoczych Lordów.
+
+## Ciekawe Miejsca
+- **Nekropolia**: Miasto umarłych na szczycie góry, będące miejscem spoczynku legendarnego [[Telamok Arkelander|Telamoka Arkelandera]] oraz innych [[Historia Thylei#Arrival of the Dragonlords (Przybycie Smoczych Władców)|Smoczych Lordów]].
+    - **Grobowce Smoczych Lordów**: Szereg monumentalnych krypt, w tym grobowce [[Tomb of Xander|Xandera]], [[Grobowiec Balmytrii|Balmytrii]], [[Tomb of Estor|Estora]] i wielu innych.
+- **Ścieżka Umarłych**: Niebezpieczna droga prowadząca do Nekropolii.
+
+## Mieszkańcy
+- **Damon**: Strażnik Nekropolii.
+- **Pustelnicy**: Ludzie szukający samotności na zboczach góry.
+
+## Historia
+Zbudowana przez Telamoka jako forteca, później stała się jego grobowcem.

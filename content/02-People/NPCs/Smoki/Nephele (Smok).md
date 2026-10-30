@@ -1,5 +1,8 @@
 ---
 title: Nephele (Smok)
+also_in:
+  - Praxys
+  - Mytros
 aliases:
   - Matka Smoków
 ---

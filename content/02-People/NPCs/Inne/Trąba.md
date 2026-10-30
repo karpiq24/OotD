@@ -1,5 +1,7 @@
 ---
 title: Trąba
+also_in:
+  - Bohaterowie
 aliases:
   - Tromba
 ---

@@ -1,5 +1,6 @@
 ---
 title: Sen Kasandry
+group: Załogi i statki
 ---
 
 - [[Dengran]]

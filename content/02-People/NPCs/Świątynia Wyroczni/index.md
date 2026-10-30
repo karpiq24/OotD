@@ -1,5 +1,6 @@
 ---
 title: Świątynia Wyroczni
+group: Miasta i krainy
 ---
 
 - [[Proteus]]

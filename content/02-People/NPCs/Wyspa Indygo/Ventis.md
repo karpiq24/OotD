@@ -1,5 +1,7 @@
 ---
 title: Ventis
+also_in:
+  - Smoki
 ---
 
 ![Ventis](../../../assets/sessions/042/042_dragon.webp)

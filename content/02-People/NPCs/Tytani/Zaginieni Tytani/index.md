@@ -1,5 +1,6 @@
 ---
 title: Zaginieni Tytani
+group: Bogowie i Tytani
 ---
 
 - [[Chalcia Pierwsza]]

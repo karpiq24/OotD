@@ -1,5 +1,7 @@
 ---
 title: Karpathos
+also_in:
+  - Arezja
 aliases:
   - Wilczy Lord
 ---

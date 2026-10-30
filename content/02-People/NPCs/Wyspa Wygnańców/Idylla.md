@@ -1,5 +1,7 @@
 ---
 title: Idylla
+also_in:
+  - Mytros
 ---
 
 ![Idylla](../../../assets/sessions/045/045_idylla.webp)

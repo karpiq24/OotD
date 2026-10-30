@@ -1,5 +1,7 @@
 ---
 title: Lyssis Arkelander
+also_in:
+  - Smoczy Lordowie
 aliases:
   - Lysis Arkelander
   - Lysis

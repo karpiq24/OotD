@@ -1,5 +1,6 @@
 ---
 title: Bohaterowie
+also_label: Rodzina i towarzysze
 ---
 
 - [[Arevon Elorrenthi]]

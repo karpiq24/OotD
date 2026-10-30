@@ -1,5 +1,7 @@
 ---
 title: Helios
+also_in:
+  - Smoki
 ---
 
 ![Helios](../../../assets/people/helios.webp)

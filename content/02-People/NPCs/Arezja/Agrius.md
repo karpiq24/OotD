@@ -1,5 +1,7 @@
 ---
 title: Agrius
+also_in:
+  - Centaury
 race: Centaur
 gender: Mężczyzna
 occupation: Król druidów centaurów

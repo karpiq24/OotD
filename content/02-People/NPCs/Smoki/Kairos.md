@@ -1,5 +1,7 @@
 ---
 title: Kairos
+also_in:
+  - Bohaterowie
 ---
 
 ![Narodziny Smoka](../../../assets/sessions/048/048_kairos.webp)

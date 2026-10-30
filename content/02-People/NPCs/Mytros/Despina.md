@@ -1,5 +1,8 @@
 ---
 title: Despina
+also_in:
+  - Bohaterowie
+  - Smoczy Lordowie
 ---
 
 ![Despina](../../../assets/people/despina.webp)

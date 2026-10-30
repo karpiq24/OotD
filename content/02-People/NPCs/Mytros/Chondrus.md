@@ -1,5 +1,7 @@
 ---
 title: Chondrus
+also_in:
+  - Kult Lutherii
 ---
 
 ![Chondrus](../../../assets/people/chondrus.webp)

@@ -1,5 +1,8 @@
 ---
 title: Brax
+also_in:
+  - Mytros
+  - Bohaterowie
 ---
 
 ![Brax](../../../assets/people/brax.webp)

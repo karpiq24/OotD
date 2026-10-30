@@ -1,5 +1,7 @@
 ---
 title: Versi Pierwsza
+also_in:
+  - Bohaterowie
 ---
 
 ![Versi Pierwsza](../../../../assets/people/versi_pierwsza.webp)

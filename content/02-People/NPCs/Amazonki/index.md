@@ -1,5 +1,6 @@
 ---
 title: Amazonki
+group: Miasta i krainy
 ---
 
 - [[Aella]]

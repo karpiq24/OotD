@@ -1,5 +1,7 @@
 ---
 title: Hukar
+also_in:
+  - Mithralowa Kuźnia
 ---
 
 ![Hukar](../../../assets/people/hukar.webp)

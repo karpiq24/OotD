@@ -1,5 +1,7 @@
 ---
 title: Dengran
+also_in:
+  - Ultros
 ---
 
 ![Dengran](../../../assets/people/dengran.webp)

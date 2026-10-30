@@ -1,5 +1,6 @@
 ---
 title: Wyspa Ognia
+group: Wyspy i wieże
 ---
 
 - [[Jankor]]

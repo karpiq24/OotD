@@ -1,5 +1,7 @@
 ---
 title: Aithon
+also_in:
+  - Mytros
 image_prompt: male copper dragon, young adult big enough to carry a rider, stockier and heavier than usual, deep burnished-copper scales with darker bronze-brown bands across the back, old battle scars on the chest and one notched wing, thick backswept segmented horns, heavy jaw, calm watchful amber eyes with a hint of mischief, worn leather Dragonlord saddle with copper fittings
 ---
 

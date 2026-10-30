@@ -1,5 +1,7 @@
 ---
 title: Hoobert
+also_in:
+  - Bohaterowie
 aliases:
   - Hooobert
   - Hoooobert

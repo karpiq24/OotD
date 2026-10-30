@@ -1,5 +1,7 @@
 ---
 title: Ophea
+also_in:
+  - Bohaterowie
 ---
 
 ![Ophea](../../../assets/people/ophea.webp)
