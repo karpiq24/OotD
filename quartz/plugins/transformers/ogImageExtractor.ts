@@ -2,6 +2,8 @@ import { QuartzTransformerPlugin } from "../types"
 import { Root } from "mdast"
 import { visit } from "unist-util-visit"
 
+const isPlaceholder = (url: string) => /(^|\/)placeholder\.(webp|png)$/.test(url)
+
 interface Options {
   priority: number
 }
@@ -22,14 +24,15 @@ export const OgImageExtractor: QuartzTransformerPlugin<Partial<Options>> = () =>
             visit(tree, (node: any) => {
               if (foundImage) return
 
+              // the placeholder image isn't the page's picture; keep looking past it
               if (node.type === "image") {
-                foundImage = node.url
+                if (!isPlaceholder(node.url)) foundImage = node.url
                 return
               }
 
               if (node.type === "html" && node.value.includes("<img")) {
                 const srcMatch = node.value.match(/src=["'](.*?)["']/)
-                if (srcMatch) {
+                if (srcMatch && !isPlaceholder(srcMatch[1])) {
                   foundImage = srcMatch[1]
                   return
                 }
@@ -37,25 +40,25 @@ export const OgImageExtractor: QuartzTransformerPlugin<Partial<Options>> = () =>
 
               // Check for text/raw nodes that might contain wikilinks
               if (node.type === "text" || node.type === "raw") {
-                 const wikiMatch = node.value.match(/!\[\[(.*?)\]\]/)
-                 if (wikiMatch) {
-                   let potentialImage = wikiMatch[1]
-                   if (potentialImage.includes("|")) {
-                     potentialImage = potentialImage.split("|")[0]
-                   }
-                   foundImage = potentialImage
-                   return
-                 }
+                const wikiMatch = node.value.match(/!\[\[(.*?)\]\]/)
+                if (wikiMatch) {
+                  let potentialImage = wikiMatch[1]
+                  if (potentialImage.includes("|")) {
+                    potentialImage = potentialImage.split("|")[0]
+                  }
+                  foundImage = potentialImage
+                  return
+                }
               }
             })
 
             if (foundImage) {
-               if (!file.data.frontmatter) {
-                   // Cast to any to avoid strict type checks on partial frontmatter during init
-                   file.data.frontmatter = { title: "Untitled", socialImage: foundImage } as any
-               } else {
-                   file.data.frontmatter.socialImage = foundImage
-               }
+              if (!file.data.frontmatter) {
+                // Cast to any to avoid strict type checks on partial frontmatter during init
+                file.data.frontmatter = { title: "Untitled", socialImage: foundImage } as any
+              } else {
+                file.data.frontmatter.socialImage = foundImage
+              }
             }
           }
         },

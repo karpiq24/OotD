@@ -1,7 +1,16 @@
 import { QuartzEmitterPlugin } from "../types"
 import { i18n } from "../../i18n"
 import { unescapeHTML } from "../../util/escape"
-import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from "../../util/path"
+import {
+  FilePath,
+  FullSlug,
+  getFileExtension,
+  isAbsoluteURL,
+  joinSegments,
+  QUARTZ,
+  slugifyFilePath,
+} from "../../util/path"
+import { coverImage } from "../../components/ootd/data"
 import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
@@ -116,7 +125,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const fonts = await getSatoriFonts(headerFont, bodyFont)
 
       for (const [_tree, vfile] of content) {
-        if (vfile.data.frontmatter?.socialImage !== undefined) continue
+        if (coverImage(vfile.data)) continue
         yield processOgImage(ctx, vfile.data, fonts, fullOptions)
       }
     },
@@ -129,7 +138,7 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       // find all slugs that changed or were added
       for (const changeEvent of changeEvents) {
         if (!changeEvent.file) continue
-        if (changeEvent.file.data.frontmatter?.socialImage !== undefined) continue
+        if (coverImage(changeEvent.file.data)) continue
         if (changeEvent.type === "add" || changeEvent.type === "change") {
           yield processOgImage(ctx, changeEvent.file.data, fonts, fullOptions)
         }
@@ -145,46 +154,24 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
         additionalHead: [
           (pageData) => {
             const isRealFile = pageData.filePath !== undefined
-            let userDefinedOgImagePath = pageData.frontmatter?.socialImage
-
-            if (userDefinedOgImagePath) {
-              if (isAbsoluteURL(userDefinedOgImagePath)) {
-                userDefinedOgImagePath = userDefinedOgImagePath
-              } else if (userDefinedOgImagePath.startsWith("/")) {
-                 userDefinedOgImagePath = `https://${baseUrl}${userDefinedOgImagePath}`
-              } else {
-                 // Handle relative paths
-                 const isRelative = userDefinedOgImagePath.startsWith("./") || userDefinedOgImagePath.startsWith("../")
-                 
-                 if (isRelative) {
-                     // Resolve relative path against the page slug
-                     let currentDirParts = pageData.slug!.split("/").slice(0, -1)
-                     const imageParts = userDefinedOgImagePath.split("/")
-                     
-                     for (const part of imageParts) {
-                         if (part === ".") continue
-                         if (part === "..") {
-                             currentDirParts.pop()
-                         } else {
-                             currentDirParts.push(part)
-                         }
-                     }
-                     
-                     const resolvedPath = currentDirParts.join("/")
-                     userDefinedOgImagePath = `https://${baseUrl}/${resolvedPath}`
-                 } else {
-                     // Default fallback behavior for non-relative paths (assume static)
-                     userDefinedOgImagePath = `https://${baseUrl}/static/${userDefinedOgImagePath}`
-                 }
-              }
-            }
+            // the page's own image (frontmatter cover/socialImage, else its first image), resolved
+            // against the page's file like the browser does and slugified like the emitted asset;
+            // the placeholder doesn't count, so such pages get a generated card instead
+            const cover = coverImage(pageData)
+            const userDefinedOgImagePath = cover
+              ? isAbsoluteURL(cover)
+                ? cover
+                : `https://${baseUrl}/${slugifyFilePath(cover as FilePath)}`
+              : undefined
 
             const generatedOgImagePath = isRealFile
               ? `https://${baseUrl}/${pageData.slug!}-og-image.webp`
               : `https://${baseUrl}/static/og-image.png`
 
             const ogImagePath = userDefinedOgImagePath ?? generatedOgImagePath
-            const extension = userDefinedOgImagePath ? getFileExtension(userDefinedOgImagePath) : getFileExtension(generatedOgImagePath)
+            const extension = userDefinedOgImagePath
+              ? getFileExtension(userDefinedOgImagePath)
+              : getFileExtension(generatedOgImagePath)
             const ogImageMimeType = `image/${extension ?? "png"}`
 
             return (
