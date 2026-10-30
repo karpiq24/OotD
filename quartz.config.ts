@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import * as Component from "./quartz/components"
 
 /**
  * Quartz 4 Configuration
@@ -31,33 +32,36 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
+      // "Brąz i Patyna": Cinzel capitals like carved stelae; marble, bronze (tertiary)
+      // and verdigris (secondary). Extra tokens are in quartz/styles/custom.scss.
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: { name: "Cinzel", weights: [500, 700] },
+        // Alegreya Sans has no 600, so name the weights it does have
+        body: { name: "Alegreya Sans", weights: [400, 500, 700], includeItalic: true },
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f1efea",
+          lightgray: "#d9d3c7",
+          gray: "#8f877a",
+          darkgray: "#3a3731",
+          dark: "#23211c",
+          secondary: "#2d6a5f",
+          tertiary: "#94632a",
+          highlight: "rgba(148, 99, 42, 0.10)",
+          textHighlight: "#e9c57c88",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#111614",
+          lightgray: "#2b3532",
+          gray: "#7d8a84",
+          darkgray: "#d6d0c3",
+          dark: "#ece5d6",
+          secondary: "#63b2a0",
+          tertiary: "#d39a50",
+          highlight: "rgba(211, 154, 80, 0.10)",
+          textHighlight: "#a4772f88",
         },
       },
     },
@@ -89,7 +93,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({ pageBody: Component.CardFolderContent() }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,

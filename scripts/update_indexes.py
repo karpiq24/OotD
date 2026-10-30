@@ -35,8 +35,8 @@ def get_clean_folder_title(folder_name):
     name = re.sub(r'^\d+[-_]', '', folder_name)
     # Replace remaining dashes/underscores with spaces
     name = name.replace('-', ' ').replace('_', ' ')
-    # Capitalize words
-    return name.title()
+    # Capitalize only the first letter: Polish titles keep "i", "z", "w" lowercase
+    return name[:1].upper() + name[1:]
 
 def extract_file_data(file_path):
     """
@@ -361,6 +361,8 @@ def main():
             dirs.remove(EXCLUDED_DIR)
         if '99-DM-Corner' in dirs:
             dirs.remove('99-DM-Corner')
+        # hidden folders (.obsidian, .trash) are editor state, not content
+        dirs[:] = [d for d in dirs if not d.startswith('.')]
         process_directory(root, dirs, files)
 
 if __name__ == "__main__":

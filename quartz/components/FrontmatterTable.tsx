@@ -19,7 +19,23 @@ interface FrontmatterTableOptions {
 }
 
 const defaultOptions: FrontmatterTableOptions = {
-  excludeFields: ["title", "tags", "aliases", "cssclasses", "draft"],
+  excludeFields: [
+    "title",
+    "tags",
+    "aliases",
+    "cssclasses",
+    "draft",
+    "cover",
+    "description",
+    "socialImage",
+    "also_in",
+    "also_label",
+    "group",
+    "groups",
+    "expand",
+    "people",
+    "catalog",
+  ],
   hideWhenEmpty: true,
   title: "Metadane",
 }

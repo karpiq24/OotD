@@ -108,14 +108,37 @@ Two kinds of skill live side by side here. **Capability skills** do one focused 
 ```
 content/
   01-Sessions/      # Session recap Markdown files + index.md
-  02-People/        # PCs, NPCs, Factions
-  03-Locations/     # Places and geography
+  02-People/        # Bohaterowie (PCs), Factions, NPCs/<group folder>/, Katalog postaci.md
+  03-Locations/     # Kontynent Thylea/, the seas, Zaświaty i Plany/, Statki i Ruchome Wyspy/
   04-Items-and-Loot/
   05-Lore/
   assets/sessions/{000}/  # Per-session: transcript, chat log, quotes, images, prompt .txt files
   Timeline.md       # Chronological campaign events
   Campaign_Context.md  # Running concise campaign summary
 ```
+
+**Look and navigation ("Brąz i Patyna").** Palette and fonts (Cinzel headers, Alegreya Sans body) are in `quartz.config.ts`; extra tokens, the meander band and page-wide rules in `quartz/styles/custom.scss`; component styles in `quartz/components/styles/ootd.scss`. Our own components, all built at build time from the content:
+
+- `HomePage` (home only): banner hero with live counts, latest session with an excerpt, hero portraits, section tiles.
+- `pages/CardFolderContent` (every folder page): an image card per page, each with its first image and its italic lead line as the subtitle; a live filter box on folders with more than 8 cards. The `index.md` bullet list that `update_indexes.py` writes stays for Obsidian and is hidden on the site. The sessions folder groups cards by the story arcs, read from the `### Name: subtitle (Sesje X-Y)` headings of `Campaign_Context.md`, so those headings must keep that form.
+- `RelatedPeople` (faction and location pages): a "Postacie" section with the people of the NPC folder of the same name (`Factions/Kult Węża.md` ↔ `NPCs/Kult Węża/`, `Mytros.md` ↔ `NPCs/Mytros/`).
+- `PeopleCatalog` (a page with `catalog: true`, i.e. `02-People/Katalog postaci.md`): every person in one grid with search and folder/group filter chips.
+
+Frontmatter fields they read (all hidden from the Metadane table):
+
+| Field | Where | Effect |
+|---|---|---|
+| `description`, `cover` | folder `index.md` | tile subtitle and image on the home page and in folder listings (`cover` is also the link-preview image) |
+| `group` | NPC folder `index.md` | the section the folder appears under (Bogowie i Tytani, Miasta i krainy, Wyspy i wieże, Zakony i kulty, Załogi i statki, Istoty, Inne) |
+| `groups` | `02-People/NPCs/index.md` | order of those sections |
+| `expand` | `02-People/index.md` | lists the subfolders (Bohaterowie, Factions, NPCs) shown inline on that page |
+| `also_in` | any person page | other folders (by folder name, same section) where the person also appears, under "Również tutaj"; e.g. Astra lives in `Kult Węża/` with `also_in: [Mytros, Bohaterowie]`. A person has one home folder; never copy a page into a second folder |
+| `also_label` | folder `index.md` | heading for that section (`Bohaterowie` uses "Rodzina i towarzysze") |
+| `people` | faction/location page | the NPC folder to show when its name differs (`Orestessos Zythikē` → `Orestessos`) |
+
+The site icon is `quartz/static/icon.svg` (also used for the favicon and the generated preview images).
+
+**Quartz version.** We run the latest Quartz **v4** (upstream `jackyzha0/quartz`, branch `v4`) with local patches: the components above, the `SessionAssets` and `OgImageExtractor` transformers, `FrontmatterTable`, relative-link resolution in `util/path.ts`, the GitHub Pages trailing-slash fix in `spa.inline.ts`, og-image path resolution, and the svg icon. To pick up upstream v4 fixes, diff the upstream commit range over `quartz/` and apply it, keeping those patches. Quartz 5 replaces the plugin system (plugins as separate git packages); moving there means rewriting all of the above as plugins, so it has not been done.
 
 **Session "Metadane" list.** The `SessionAssets` transformer (`quartz/plugins/transformers/sessionAssets.ts`) scans `content/assets/sessions/{000}/` at build time for any recap file named `Sesja {N} - …` and lists every file in that directory — grouped into categories (Transkrypty, Logi czatu, Dane, Wideo, Obrazki, Prompty) — under the **Metadane** section rendered by `quartz/components/FrontmatterTable.tsx`. Do **not** add `transcript_*` / `chat_log` / `video_script` links to session frontmatter by hand; drop a file in the asset directory and it appears automatically. rpgnotes' working files (`draft*`, `validation_report*`, `details.json`, `manifest.json`) are never listed, and `quartz.config.ts`'s `ignorePatterns` keep them off the site; they belong in `private/sessions/{000}/`.
 

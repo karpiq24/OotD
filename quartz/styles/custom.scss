@@ -1,3 +1,130 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// "Brąz i Patyna": marble ground, cast-bronze headings, verdigris links.
+// Base palette and fonts are in quartz.config.ts; these are the extra tokens.
+:root {
+  --ootd-surface: #f8f7f3;
+  --ootd-glow: rgba(148, 99, 42, 0.55);
+  --ootd-scrim: rgba(16, 13, 9, 0.88);
+  --ootd-on-art: #f6f1e7;
+  --ootd-kicker-on-art: #e9c27e;
+  --ootd-monogram: rgba(148, 99, 42, 0.55);
+  --ootd-monogram-bg: linear-gradient(160deg, #e3ddcf, #cfc6b3);
+  // darker in light mode so small bronze titles (sidebar) keep their contrast on marble
+  --ootd-metal: linear-gradient(180deg, #8f5a22 0%, #6b3f14 46%, #47280b 54%, #7a4a1a 100%);
+  --ootd-meander: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M0 22.5H24M0 1.5H24M2.5 22.5V5H19.5V18H7V9.5H15V13.5' fill='none' stroke='black' stroke-width='2.4'/%3E%3C/svg%3E");
+  --ootd-search-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%238f877a' stroke-width='2.2' stroke-linecap='round'%3E%3Ccircle cx='10.5' cy='10.5' r='6.5'/%3E%3Cpath d='M15.5 15.5 21 21'/%3E%3C/svg%3E");
+  --ootd-meander-faint: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 24 24'%3E%3Cpath d='M0 22.5H24M0 1.5H24M2.5 22.5V5H19.5V18H7V9.5H15V13.5' fill='none' stroke='%2394632a' stroke-opacity='.12' stroke-width='1.6'/%3E%3C/svg%3E");
+}
+
+:root[saved-theme="dark"] {
+  --ootd-surface: #19201d;
+  --ootd-glow: rgba(211, 154, 80, 0.5);
+  --ootd-monogram: rgba(211, 154, 80, 0.5);
+  --ootd-monogram-bg: linear-gradient(160deg, #1d2623, #121816);
+  --ootd-metal: linear-gradient(
+    180deg,
+    #fbe2a8 0%,
+    #d9a254 40%,
+    #8a5420 52%,
+    #c88d44 72%,
+    #f2cf8a 100%
+  );
+}
+
+.ootd-metal {
+  background: var(--ootd-metal);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+// ---------- typography ----------
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: 0.02em;
+}
+
+.page article {
+  h2 {
+    color: var(--tertiary);
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+  h3 {
+    color: var(--dark);
+  }
+}
+
+h1.article-title {
+  background: var(--ootd-metal);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+// a meander band closes every page header
+.page .page-header::after {
+  content: "";
+  display: block;
+  height: 10px;
+  margin-top: 1rem;
+  background: var(--tertiary);
+  opacity: 0.45;
+  mask: var(--ootd-meander) repeat-x 0 50% / auto 100%;
+  -webkit-mask: var(--ootd-meander) repeat-x 0 50% / auto 100%;
+}
+
+.page-title a {
+  background: var(--ootd-metal);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+// art inside recaps and entity pages gets a thin bronze frame
+.page article img {
+  border-radius: 4px;
+  border: 1px solid var(--lightgray);
+  box-shadow: 0 6px 24px -14px rgba(0, 0, 0, 0.45);
+}
+
+// ---------- home and folder pages use the full width ----------
+// (they have no right-hand sidebar, so its column is dropped)
+body[data-slug="index"],
+body[data-slug$="/index"] {
+  .page > #quartz-body {
+    @media all and ($desktop) {
+      grid-template-columns: #{$sidePanelWidth} minmax(0, 1fr) 0;
+    }
+  }
+}
+
+// the home page renders HomePage instead of index.md's link list (kept for Obsidian)
+body[data-slug="index"] {
+  .page .page-header {
+    margin-top: 2rem;
+    &::after {
+      display: none;
+    }
+  }
+  .center > article,
+  .center > hr {
+    display: none;
+  }
+}
+
+// the people catalog needs the whole width too
+body:has(.ootd-catalog) {
+  .page > #quartz-body {
+    @media all and ($desktop) {
+      grid-template-columns: #{$sidePanelWidth} minmax(0, 1fr) 0;
+    }
+  }
+  .sidebar.right {
+    display: none;
+  }
+}

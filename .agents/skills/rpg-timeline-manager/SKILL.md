@@ -34,6 +34,6 @@ Use this skill to keep the `content/Timeline.md` and `content/Campaign_Context.m
     *   If the session fits an existing group (e.g., "S69-S71"), update that line.
     *   Otherwise, add a new bullet point:
         `* **{Topic} (S{number}):** {Summary}`
-    *   Ensure the session range in the chapter header is up to date (e.g., update `(Sesje 56-68)` to `(Sesje 56-72)` if applicable).
+    *   Ensure the session range in the chapter header is up to date (e.g., update `(Sesje 56-68)` to `(Sesje 56-72)` if applicable). These `### Name: subtitle (Sesje X-Y)` headings are the story arcs the wiki's Sessions page groups its cards by, so keep exactly that form (a one-session arc is `(Sesja 84)`); a session outside every range lands under "Pozostałe sesje". Start a new arc heading when the story clearly moves to a new chapter, and tell the user.
     *   **Keep the character and faction entries current**: if the session killed, crowned, freed, imprisoned or turned someone listed under "Ważne Postacie" / "Frakcje", update that entry too (present tense = state now; finished goals in past tense). The file is the summary rpgnotes reads, so a stale entry ("obecnie więzień drużyny" for someone already dead) misleads the next draft.
     *   Save the file.

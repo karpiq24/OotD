@@ -89,7 +89,8 @@ These rules come from the full audit that brought all 490 entity pages in line w
 
 ## 5. Standard Directories for New Entities
 When creating NEW entities, always use these target directories:
--   **NPCs**: `content/02-People/NPCs/` (or specific subfolder if known, e.g. `Mytros/`)
+-   **NPCs**: always a subfolder of `content/02-People/NPCs/`, never the folder itself. Pick the one place or group the person mainly belongs to (`Mytros/`, `Praxys/`, `Kult Węża/`, `Smoki/`, `Potwory/`…); `Inne/` only when nothing fits. If the person also belongs elsewhere (a cult member living in Mytros, a hero's family, a god's dragon form, a crew member), keep one file and add `also_in:` with those other folder names (e.g. `also_in: [Mytros, Bohaterowie]`); the site then lists them there too. A hero's partner, children, parents or closest companion get `Bohaterowie` in `also_in`. A new NPC folder needs an `index.md` with `title:` and `group:` (one of the sections in `02-People/NPCs/index.md` `groups:`).
+-   **Lead line**: the first italic line under the image (`_Złodziejka i członkini Kultu Węża._`) is shown as the subtitle on every card listing, so keep it one short sentence that says who or what this is.
 -   **PCs**: `content/02-People/Bohaterowie/`
 -   **Locations**: `content/03-Locations/` (use `Kontynent Thylea/` or appropriate region if known)
 -   **Items**: `content/04-Items-and-Loot/`

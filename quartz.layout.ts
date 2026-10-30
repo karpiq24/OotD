@@ -1,15 +1,18 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { QuartzComponentProps } from "./quartz/components/types"
+
+const isHome = (page: QuartzComponentProps) => page.fileData.slug === "index"
+const notHome = (page: QuartzComponentProps) => !isHome(page)
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.FrontmatterTable()],
+  afterBody: [Component.RelatedPeople(), Component.PeopleCatalog(), Component.FrontmatterTable()],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "Wiki na GitHubie": "https://github.com/karpiq24/OotD",
     },
   }),
 }
@@ -19,11 +22,12 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => !isHome(page),
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ConditionalRender({ component: Component.ArticleTitle(), condition: notHome }),
+    Component.ConditionalRender({ component: Component.ContentMeta(), condition: notHome }),
     Component.TagList(),
+    Component.ConditionalRender({ component: Component.HomePage(), condition: isHome }),
   ],
   left: [
     Component.PageTitle(),
@@ -42,10 +46,14 @@ export const defaultContentPageLayout: PageLayout = {
       filterFn: (node) => !["tags", "assets"].includes(node.slugSegment),
     }),
   ],
+  // the home page uses the full width, so it has no right-hand sidebar
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({ component: Component.Graph(), condition: notHome }),
+    Component.ConditionalRender({
+      component: Component.DesktopOnly(Component.TableOfContents()),
+      condition: notHome,
+    }),
+    Component.ConditionalRender({ component: Component.Backlinks(), condition: notHome }),
   ],
 }
 

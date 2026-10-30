@@ -24,6 +24,10 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import FrontmatterTable from "./FrontmatterTable"
+import HomePage from "./HomePage"
+import RelatedPeople from "./RelatedPeople"
+import PeopleCatalog from "./PeopleCatalog"
+import CardFolderContent from "./pages/CardFolderContent"
 
 export {
   ArticleTitle,
@@ -52,4 +56,8 @@ export {
   Flex,
   ConditionalRender,
   FrontmatterTable,
+  HomePage,
+  RelatedPeople,
+  PeopleCatalog,
+  CardFolderContent,
 }

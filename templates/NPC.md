@@ -1,5 +1,6 @@
 ---
 title: Imię Nazwisko
+also_in:
 race:
 gender:
 occupation:
