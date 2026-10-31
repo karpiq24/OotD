@@ -59,7 +59,7 @@ Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3d. Pure style edits → style-rule amendment
 1. Collect style edits and look for a **consistent** pattern (e.g. the user always trims superlatives, always shortens multi-clause sentences, always cuts a stock phrase).
-2. Only if the same pattern appears **repeatedly** in this diff (or matches a pattern seen before), propose a short style bullet for `campaign/learned_rules.md` capturing that preference.
+2. Only if the same pattern appears **repeatedly** in this diff (or matches a pattern seen before), and `campaign/proza.md` does not already cover it, propose a short bullet for `campaign/proza.md` section B (session recaps) capturing that preference. Style rules go there, not to `learned_rules.md`, which is for campaign facts and names. After an approved change, run `scripts/export_context.py`.
 3. A one-off rewording is not a pattern — record nothing.
 
 ## Step 4: Present proposals for confirmation

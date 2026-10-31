@@ -17,6 +17,8 @@ What goes in:
                         and from each page's frontmatter `aliases:`
   phonetic_corrections  campaign/phonetic_corrections.md
   learned_rules         campaign/learned_rules.md (HTML comments stripped)
+  prose_rules           campaign/proza.md, only the sections for session summaries
+                        (A, shared rules, and B, summaries; HTML comments stripped)
   hotwords              campaign/whisper_hotwords.txt
   campaign_context      content/Campaign_Context.md
   timeline_preamble,    content/Timeline.md, split into its `## Sesja` sections,
@@ -135,6 +137,17 @@ def parse_hotwords(text):
     return [name for name in names if name]
 
 
+def summary_prose_rules(text):
+    """The parts of campaign/proza.md that apply to session summaries.
+
+    Keeps the title and intro plus the `## A.` and `## B.` sections; the wiki
+    (C) and book (D) sections and the sources list stay out of the prompts.
+    """
+    parts = re.split(r'(?m)^(?=## )', HTML_COMMENT_RE.sub('', text))
+    keep = [parts[0]] + [p for p in parts[1:] if p.startswith(('## A.', '## B.'))]
+    return '\n'.join(part.strip() + '\n' for part in keep if part.strip()).strip()
+
+
 def split_timeline(text):
     parts = re.split(r'(?m)^(?=## )', text)
     sessions = []
@@ -157,6 +170,7 @@ def build_context():
         'entities': collect_entities(collect_aliases()),
         'phonetic_corrections': read(CAMPAIGN / 'phonetic_corrections.md').strip(),
         'learned_rules': HTML_COMMENT_RE.sub('', read(CAMPAIGN / 'learned_rules.md')).strip(),
+        'prose_rules': summary_prose_rules(read(CAMPAIGN / 'proza.md')),
         'hotwords': parse_hotwords(read(CAMPAIGN / 'whisper_hotwords.txt')),
         'campaign_context': read(CONTENT / 'Campaign_Context.md').strip(),
         'timeline_preamble': preamble,

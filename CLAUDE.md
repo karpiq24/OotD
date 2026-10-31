@@ -44,7 +44,7 @@ The campaign runs on Foundry at https://dnd.klima-kar.pl (world `odyssey-of-the-
 The sibling repo `../rpgnotes` turns a game's audio and Foundry log into a session draft. The two repos touch through exactly two files, each with a `schema_version` that both sides check:
 
 - **Session package** (rpgnotes → wiki): `../rpgnotes/output/{NNN}/` with `manifest.json` (override the location with `RPGNOTES_OUTBOX`). `scripts/import_session.py` copies the `publish` files into `content/assets/sessions/{NNN}/` and the `working` files (`draft0.md`, `details.json`, `validation_report.json`) into `private/sessions/{NNN}/`, then fills `templates/Session.md`. rpgnotes never writes into this repo.
-- **Campaign context** (wiki → rpgnotes): `campaign/campaign_context.json`, written by `scripts/export_context.py` (gitignored, regenerate any time). It carries the party (from `content/02-People/Bohaterowie/`), entity names and aliases, `Campaign_Context.md`, the timeline, and the three hand-kept files in `campaign/`: `phonetic_corrections.md`, `learned_rules.md`, `whisper_hotwords.txt`. rpgnotes reads nothing else from the wiki.
+- **Campaign context** (wiki → rpgnotes): `campaign/campaign_context.json`, written by `scripts/export_context.py` (gitignored, regenerate any time). It carries the party (from `content/02-People/Bohaterowie/`), entity names and aliases, `Campaign_Context.md`, the timeline, and the hand-kept files in `campaign/`: `phonetic_corrections.md`, `learned_rules.md`, `whisper_hotwords.txt`, and the summary sections of `proza.md` (the campaign's prose rules, sent as `prose_rules` and appended to rpgnotes' summary style prompt). rpgnotes reads nothing else from the wiki.
 
 Draft quality is rpgnotes' job: there is no summarizer here. Corrections flow back through `campaign/` (`/harvest-corrections`) and reach rpgnotes on the next export.
 
@@ -59,6 +59,7 @@ Imported below so their full text is always in context for Claude Code too (mirr
 @.agents/rules/indexes.md
 @.agents/rules/wikilinks.md
 @.agents/rules/use_venv.md
+@.agents/rules/proza.md
 
 ### `skills/` — capabilities and pipelines
 
