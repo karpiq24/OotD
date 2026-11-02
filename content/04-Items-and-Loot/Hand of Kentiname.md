@@ -47,6 +47,11 @@ Klejnot centralny, mieszczący Kule Versi (*Orbs of Versi*), jest zawsze uznawan
 - **Zdolność bierna:** Zyskujesz prędkość wspinaczki równą bazowej prędkości chodzenia. Ponadto twoja siła dźwigni jest znacznie lepsza: masz ułatwienie w testach Siły (Atletyka) wykonywanych, by odepchnąć stworzenie, a także by oprzeć się odepchnięciu.
 - **Zdolność aktywna, "Seismic Upheaval":** Akcją uderzasz rękawicą w ziemię, wyzwalając gwałtownie rozszerzającą się falę uderzeniową surowej potęgi Hergerona. Każde stworzenie stojące na ziemi w odległości do 15 stóp od ciebie musi wykonać rzut obronny na Siłę (ST = 8 + twoja premia z biegłości + twój modyfikator Siły). Przy nieudanym rzucie stworzenie otrzymuje 4k8 obrażeń obuchowych, zostaje odepchnięte o 10 stóp od ciebie i przewrócone. Przy udanym otrzymuje o połowę mniej obrażeń i nie jest ani odepchnięte, ani przewrócone. Ziemia w tym 15-stopowym promieniu staje się trudnym terenem.
 
+### Talieus, Tytan Rzemiosła (gniazdo palca serdecznego)
+- **Klejnot:** Sadzoczarny granat ze stopionym rdzeniem, widocznym tylko z zamkniętymi oczami.
+- **Zdolność bierna:** Zyskujesz biegłość w narzędziach kowalskich i w jednym innym rodzaju narzędzi rzemieślniczych, a do testów nimi dodajesz podwójną premię z biegłości. Znasz sztuczkę *mending*. Bestie, istoty leśne (*fey*), olbrzymy i potworności mają utrudnienie w rzutach obronnych przeciw *dominate monster* z rękawicy (Talieus ukształtował pierwsze z nich).
+- **Zdolność aktywna, "Wyrok Ślepego Kowala":** Gdy trafisz stworzenie atakiem bronią w walce wręcz, możesz zadać dodatkowe 6k8 obrażeń energetycznych (*force*). Cel musi zdać rzut obronny na Kondycję (ST = 8 + twoja premia z biegłości + twój modyfikator Siły), bo inaczej jest oślepiony do końca swojej następnej tury.
+
 ## Historia
 W [[Sesja 4 - Mroczne sekrety Świątyni]] bohaterowie znaleźli ją wewnątrz [[Świątynia w Starym Lesie|Świątyni w Starym Lesie]], gdzie czaiła się [[Demetria]], i zdobyli.
 
@@ -64,4 +69,4 @@ W [[Sesja 75 - Koniec Przysięgi]] [[Hergeron]] uznał w [[Versir|Versirze]] pó
 
 W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]], z nową dłonią przywróconą magią [[Arevon Elorrenthi|Arevona]], zbadał replikę rękawicy zdobytą u [[Sydon|Sydona]]: pod *Identify* wszystko wskazywało, że jest sprawna, ale próba aktywacji nie powiodła się — jej magia była uśpiona, więc ją zdjął. W walce używał własnej, oryginalnej rękawicy i jej zdolności — *Dominate Monster* — próbując przejąć kontrolę nad jednym z centaurów, lecz bestia oparła się magii.
 
-W [[Sesja 84 - Świt Nowej Ery]] [[Versir]] uruchomił swoją oryginalną rękawicę i wchłonął esencję uwolnionego [[Talieus Pierwszy|Talieusa Pierwszego]], kończąc jego mękę.
+W [[Sesja 84 - Świt Nowej Ery]] [[Versir]] uruchomił swoją oryginalną rękawicę i wchłonął esencję uwolnionego [[Talieus Pierwszy|Talieusa Pierwszego]], kończąc jego mękę. Jego esencja zajęła gniazdo palca serdecznego.
