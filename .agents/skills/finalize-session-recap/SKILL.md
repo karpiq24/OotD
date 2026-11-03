@@ -57,7 +57,8 @@ The user does not review prompts. Render right after Step 3:
 Run Steps 5–6 once the render has finished (in Claude Code: after its completion notification).
 
 1. Run `uv run python scripts/update_indexes.py` and `uv run python scripts/check_wikilinks.py`; fix any broken link this session introduced.
-2. Commit in the public repo: the session note, its asset folder, the entity pages, `Timeline.md`, `Campaign_Context.md`, `campaign/` — message `Sesja {number}: {Title}`. Commit any private-repo changes with `git -C private`. Do not push unless the user has asked for pushes.
+2. Commit in the public repo: the session note, its asset folder, the entity pages, `Timeline.md`, `Campaign_Context.md`, `campaign/` — message `Sesja {number}: {Title}`. Do not push unless the user has asked for pushes.
+3. **After the push** of the finished session, remove rpgnotes' working files from `content/assets/sessions/{000}/`: `draft_pre_edit.md`, `draft0.md`, `manifest.json`, `validation_report.json`, `visual_log.json`. Commit that alone (`Sesja {number}: pliki robocze usunięte`) and push it too. They stay in git history (and in rpgnotes' outbox), which is where `harvest-corrections` reads earlier snapshots from. Keep `details.json`, `quotes.json`, the transcripts and chat logs.
 
 ## Step 6: Completion
 

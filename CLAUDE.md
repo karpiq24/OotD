@@ -100,7 +100,7 @@ Two kinds of skill live side by side here. **Capability skills** do one focused 
 2. Activate `rpg-illustrator` (`Session Recap - Prompts Only`) → save `{000}_*.txt` prompt files + insert `.webp` image links into the session file.
 3. Activate `rpg-timeline-manager`, then run `scripts/export_context.py` so the next rpgnotes run sees the new entities, timeline and harvested corrections.
 4. `scripts/render_session_images.py {N}` in the background renders every prompt through agy into `{stem}.webp`; Claude looks at the results and redoes broken ones.
-5. Commit (no push unless asked) and report once: harvest writes, entity pages, images.
+5. Commit (no push unless asked) and report once: harvest writes, entity pages, images. After the push, a separate commit removes rpgnotes' working files (`draft_pre_edit.md`, `draft0.md`, `manifest.json`, `validation_report.json`, `visual_log.json`) from the asset folder; git history keeps them.
 
 **`generate-video-script`** (on-demand only, invoked explicitly — not part of finalization):
 1. Ask for session number → locate the recap file.
