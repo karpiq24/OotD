@@ -33,7 +33,7 @@ uv run python scripts/pdf2md/convert.py <PDF> <OUTDIR>
 
 ## Private repo (`private/`)
 
-`input/`, `build/`, `content/99-DM-Corner/` and the pre-edit draft snapshots (`private/sessions/{NNN}/draft_pre_edit.md`) are **not** part of this public repo. They live in the private repo `karpiq24/OotD-private`, cloned into `private/` (gitignored), and are reached through gitignored symlinks: `input → private/input`, `build → private/build`, `content/99-DM-Corner → ../private/DM-Corner`. Commit changes to anything under those paths from inside `private/` (`git -C private ...`), never from the public repo. Anything copyrighted (sourcebook text, Nowa Era PDF build) or DM-only goes there. The two sourcebook PDFs in `input/` are local only (over GitHub's 100 MB limit). Setup on a fresh machine is in `private/README.md`.
+`input/`, `build/` and `content/99-DM-Corner/` are **not** part of this public repo. They live in the private repo `karpiq24/OotD-private`, cloned into `private/` (gitignored), and are reached through gitignored symlinks: `input → private/input`, `build → private/build`, `content/99-DM-Corner → ../private/DM-Corner`. Commit changes to anything under those paths from inside `private/` (`git -C private ...`), never from the public repo. Anything copyrighted (sourcebook text, Nowa Era PDF build) or DM-only goes there. The two sourcebook PDFs in `input/` are local only (over GitHub's 100 MB limit). Setup on a fresh machine is in `private/README.md`.
 
 ## Foundry VTT
 
@@ -92,7 +92,7 @@ Two kinds of skill live side by side here. **Capability skills** do one focused 
 1. Session number from the user or `scripts/session_status.py`; `git pull`; run `scripts/import_session.py {N}`: checks the package's manifest (rpgnotes' outbox, else the staged `content/assets/sessions/{000}/`), copies its files into the asset folder, assembles `content/01-Sessions/Sesja {N} - {Title}.md` from `templates/Session.md` + `draft0.md` + `details.json`. Stops on a missing or incomplete package, an unknown schema version, or an existing note (`--force` only with the user's consent).
 2. **Verification without questions**: open `validation_report.json` findings, ambiguous identities and abandoned actions are settled from targeted transcript greps and `chat_events.txt` (via `rpg-chatlog-analyst`); what the evidence cannot settle gets `<!-- UNVERIFIED: ... -->` and goes on a "do sprawdzenia" list for the user.
 3. Weave 4–7 verified lines from `quotes.json` into the text as `> [!quote] Speaker` callouts (the `QuoteBubbles` transformer draws them as speech bubbles with the speaker's portrait); fix evident ASR mishearings, never rephrase.
-4. `scripts/import_session.py {N} --snapshot` saves the note to `private/sessions/{000}/draft_pre_edit.md` for the learning loop (committed in `private/`); hand the draft over with the UNVERIFIED list.
+4. `scripts/import_session.py {N} --snapshot` saves the note to `content/assets/sessions/{000}/draft_pre_edit.md` for the learning loop (off the site, like `draft0.md`); hand the draft over with the UNVERIFIED list.
 
 **`finalize-session-recap`** (Part 2, as soon as the user approves the text; no questions, no prompt review):
 0. **Harvest corrections** → `/harvest-corrections` in auto-apply mode (writes, then reports); skips silently if there is nothing to harvest.
@@ -108,7 +108,7 @@ Two kinds of skill live side by side here. **Capability skills** do one focused 
 3. Save to `content/assets/sessions/{000}/video_script.md` (auto-listed under **Metadane** by the `SessionAssets` transformer — no frontmatter link needed), run `update_indexes.py`, and echo clips in chat.
 
 **`harvest-corrections`** (learning loop; auto-runs as `finalize-session-recap` Step 0, or on-demand):
-1. Diff `private/sessions/{000}/draft_pre_edit.md` against the user-edited session file. Skip gracefully if the pre-edit snapshot is missing.
+1. Diff `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file. Skip gracefully if the pre-edit snapshot is missing.
 2. Classify each change: name correction → `campaign/phonetic_corrections.md`; deleted claim → candidate rule (propose a bullet for `campaign/learned_rules.md` if the pattern repeats across ≥2 sessions); entity fact fix → propose the same fix to the wiki entity file; pure style edit → propose a style bullet for `learned_rules.md` if consistent.
 3. Present all proposed writes to the user for confirmation; write only what is approved.
 

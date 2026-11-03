@@ -17,13 +17,13 @@ The drafts are written by rpgnotes, which learns only through `campaign/campaign
 
 1. Determine `session_number` (padded 3 digits → `{000}`): from the invocation argument, the calling skill, or by asking the user.
 2. Locate the two files to diff:
-   - **Pre-edit baseline**: `private/sessions/{000}/draft_pre_edit.md` (saved by `/import-session` Step 4).
+   - **Pre-edit baseline**: `content/assets/sessions/{000}/draft_pre_edit.md` (saved by `/import-session` Step 4).
    - **User-edited final**: `content/01-Sessions/Sesja {number} - *.md` (the current session file). If multiple match, ask which one.
 3. **Graceful skip**: If `draft_pre_edit.md` does not exist, say so plainly — "No `draft_pre_edit.md` for session {number}; nothing to harvest (this draft predates the learning loop, or the import was not finished)." — and stop. This is not an error; when called from `finalize-session-recap` Step 0, continue silently.
 
 ## Step 1: Diff
 
-1. Diff the pre-edit baseline against the user-edited file, e.g. `diff private/sessions/{000}/draft_pre_edit.md "content/01-Sessions/Sesja {number} - ....md"`, or read both and compare.
+1. Diff the pre-edit baseline against the user-edited file, e.g. `diff content/assets/sessions/{000}/draft_pre_edit.md "content/01-Sessions/Sesja {number} - ....md"`, or read both and compare.
 2. If there is no meaningful difference (only whitespace / frontmatter housekeeping), report "No substantive edits to harvest." and stop.
 3. Otherwise collect each substantive change as a `(before → after)` pair (or a pure deletion / pure addition). Ignore any `<!-- UNVERIFIED: ... -->` markers the user simply removed without other change — that is just accepting the sentence.
 
@@ -51,7 +51,7 @@ Build a set of proposed file updates. **Do not write anything yet.**
 
 ### 3b. Deleted claims → learned rule
 1. Collect each deleted claim as a candidate anti-hallucination example (the exact text the user cut, plus a one-line reason if inferable — invented spell, uncited number, etc.).
-2. **Cross-session pattern check**: compare against earlier sessions — `private/sessions/*/draft_pre_edit.md` next to their final `content/01-Sessions/` notes (read only the pairs you need). If the *same kind* of hallucination has now been deleted by the user across **≥2 sessions**, propose a **new rule** for `campaign/learned_rules.md`: one bullet in Polish, phrased as a hard prohibition covering that class, matching the existing bullets. First check the rule is not already covered by `learned_rules.md` or by rpgnotes' generic rules (`../rpgnotes/prompts/anti_hallucination.txt`, read-only from here); if the rule is generic rather than about this campaign, say so in the proposal — the user may prefer to add it to rpgnotes' prompts by hand.
+2. **Cross-session pattern check**: compare against earlier sessions — `content/assets/sessions/*/draft_pre_edit.md` next to their final `content/01-Sessions/` notes (read only the pairs you need). If the *same kind* of hallucination has now been deleted by the user across **≥2 sessions**, propose a **new rule** for `campaign/learned_rules.md`: one bullet in Polish, phrased as a hard prohibition covering that class, matching the existing bullets. First check the rule is not already covered by `learned_rules.md` or by rpgnotes' generic rules (`../rpgnotes/prompts/anti_hallucination.txt`, read-only from here); if the rule is generic rather than about this campaign, say so in the proposal — the user may prefer to add it to rpgnotes' prompts by hand.
 3. A single-session deletion is recorded as a candidate only; do not propose a rule change for a one-off.
 
 ### 3c. Entity fact fixes → wiki entity file

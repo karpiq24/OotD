@@ -80,14 +80,13 @@ The `QuoteBubbles` transformer (`quartz/plugins/transformers/quoteBubbles.ts`) r
 
 ## Step 4: Snapshot and hand over
 
-1. Run `uv run python scripts/import_session.py {N} --snapshot` — it saves the note as it stands to `private/sessions/{000}/draft_pre_edit.md`, the baseline `/harvest-corrections` diffs the user's edits against. From here on, every change to the note (the user's own edits and the corrections they ask for in chat) counts as a user edit.
-2. Commit the snapshot in the private repo: `git -C private add sessions/{000} && git -C private commit -m "Sesja {N}: pre-edit snapshot"`.
-3. Tell the user, briefly, in Polish:
+1. Run `uv run python scripts/import_session.py {N} --snapshot` — it saves the note as it stands to `content/assets/sessions/{000}/draft_pre_edit.md`, the baseline `/harvest-corrections` diffs the user's edits against. From here on, every change to the note (the user's own edits and the corrections they ask for in chat) counts as a user edit.
+2. Tell the user, briefly, in Polish:
    - "Szkic gotowy: `content/01-Sessions/Sesja {N} - {Title}.md`."
    - **Do sprawdzenia przy czytaniu**: one numbered line per `UNVERIFIED` marker ("§{section}: {what is uncertain} — {likely alternative}").
    - What you fixed on your own (one line each, with the evidence), so the user can veto it.
    - The quotes placed (speaker, section), one line.
    - The 2.4 edit, concretely: "Redakcja: {X} sekcji → {Y}; scalone: „{A}” + „{B}” → „{C}”, …; akapity zredagowane według proza.md ({what kind, e.g. merged cut paragraphs, removed repeated introductions})." These edits happen before the `draft_pre_edit.md` snapshot, so `harvest-corrections` never sees them; this line is their only record.
    - "Napisz, co jest nie tak (albo popraw plik sam). Gdy tekst będzie OK, napisz „OK” — resztę (wiki, oś czasu, obrazki) zrobię sam."
-4. While the user reviews: each correction they write in chat is applied right away with the method of skill `iterate-recap` (targeted transcript greps, rewrite only the affected part). Remove an `UNVERIFIED` marker once the user settles it. No confirmation questions; just apply and say in one line what changed.
-5. When the user approves the text ("OK", "akceptuję", "finalizuj", "dalej", or similar), go straight on to skill `finalize-session-recap` without asking.
+3. While the user reviews: each correction they write in chat is applied right away with the method of skill `iterate-recap` (targeted transcript greps, rewrite only the affected part). Remove an `UNVERIFIED` marker once the user settles it. No confirmation questions; just apply and say in one line what changed.
+4. When the user approves the text ("OK", "akceptuję", "finalizuj", "dalej", or similar), go straight on to skill `finalize-session-recap` without asking.

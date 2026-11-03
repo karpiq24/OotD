@@ -11,7 +11,7 @@ This skill processes a user-reviewed session recap draft, adding wikilinks, imag
 
 Before finalizing, mine the edits the user just made to the draft so the same errors do not recur. This step is **non-blocking**: if there is nothing to harvest, continue silently to Step 1.
 
-1. Take the `session_number` from the conversation (the draft just approved) or from `uv run python scripts/session_status.py` (the one session in `draft`); ask only if neither names exactly one. Activate skill `harvest-corrections` for it in **auto-apply mode**: it diffs `private/sessions/{000}/draft_pre_edit.md` against the user-edited session file and writes the `campaign/` / wiki updates itself, without a confirmation round. Keep its report for Step 6.
+1. Take the `session_number` from the conversation (the draft just approved) or from `uv run python scripts/session_status.py` (the one session in `draft`); ask only if neither names exactly one. Activate skill `harvest-corrections` for it in **auto-apply mode**: it diffs `content/assets/sessions/{000}/draft_pre_edit.md` against the user-edited session file and writes the `campaign/` / wiki updates itself, without a confirmation round. Keep its report for Step 6.
 2. If `draft_pre_edit.md` is missing (e.g. an older draft), harvest-corrections skips gracefully — do not treat this as an error; proceed to Step 1.
 
 ## Step 1: Initialization

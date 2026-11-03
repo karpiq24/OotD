@@ -35,7 +35,7 @@ def stage(d: Path) -> str | None:
     if note is None:
         return f"session {n}: staged, no note yet -> import it now (skill import-session)"
     prompts = list(d.glob(f"{num}_*.txt"))
-    snapshot = ROOT / "private" / "sessions" / num / "draft_pre_edit.md"
+    snapshot = d / "draft_pre_edit.md"
     if not prompts:
         snap = "" if snapshot.exists() else " (no pre-edit snapshot!)"
         return (f"session {n}: draft '{note.name}' waiting for the user's review{snap} -> apply the "

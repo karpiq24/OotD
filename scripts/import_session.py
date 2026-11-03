@@ -25,8 +25,8 @@ the outbox is not there.
 The outbox defaults to ../rpgnotes/output next to this repo; set RPGNOTES_OUTBOX
 or pass --outbox to use another one.
 
---snapshot copies the note, as it stands now, to private/sessions/<NNN>/
-draft_pre_edit.md: the baseline /harvest-corrections diffs your edits against.
+--snapshot copies the note, as it stands now, to
+content/assets/sessions/<NNN>/draft_pre_edit.md (off the site, like draft0.md): the baseline /harvest-corrections diffs your edits against.
 Run it after the yes/no check, before you edit the note.
 """
 
@@ -44,7 +44,6 @@ SCHEMA_VERSION = 1
 ROOT = Path(__file__).resolve().parent.parent
 SESSIONS_DIR = ROOT / 'content' / '01-Sessions'
 ASSETS_DIR = ROOT / 'content' / 'assets' / 'sessions'
-PRIVATE_SESSIONS_DIR = ROOT / 'private' / 'sessions'
 TEMPLATE = ROOT / 'templates' / 'Session.md'
 DEFAULT_OUTBOX = ROOT.parent / 'rpgnotes' / 'output'
 IMPORTED_MARKER = '.imported'
@@ -216,7 +215,7 @@ def snapshot(number):
     notes = existing_notes(number)
     if len(notes) != 1:
         fail(f'Expected one note for session {number} in {SESSIONS_DIR.relative_to(ROOT)}, found {len(notes)}.')
-    target = PRIVATE_SESSIONS_DIR / f'{number:03d}' / 'draft_pre_edit.md'
+    target = ASSETS_DIR / f'{number:03d}' / 'draft_pre_edit.md'
     target.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(notes[0], target)
     print(f'Saved {notes[0].relative_to(ROOT)} → {target.relative_to(ROOT)}')
