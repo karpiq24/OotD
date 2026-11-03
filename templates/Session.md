@@ -11,18 +11,3 @@ title: "Sesja {number}: {Title}"
 
 ## Kluczowe wydarzenia
 * {Event 1}
-
-## Cytaty
-* {Quote 1}
-
-## Postacie
-* {NPC List}
-
-## Lokacje
-* {Location List}
-
-## Przedmioty
-* {Item List}
-
-## Filmy
-<!-- Video placeholders or links if any -->

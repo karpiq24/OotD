@@ -54,7 +54,7 @@ In the background, a powerful lizardfolk with a lightning staff and a medusa arc
 ```
 
 ### 3. Visual Styles
-- **Allowed Styles**: *High quality digital fantasy art, Dark Fantasy Oil Painting (Frazetta style), Watercolor and Ink, Vibrant Comic Book Style, Stained Glass illustration, Woodcut print, Tarot Card aesthetic, Abstract Ethereal Concept Art, 80s Dark Fantasy Anime, Nouveau Art Style.*
+- **Allowed Styles**: *High quality digital fantasy art, Dark Fantasy Oil Painting (heavy brushwork; never name a painter, the model then paints his signature into the image), Watercolor and Ink, Vibrant Comic Book Style, Stained Glass illustration, Woodcut print, Tarot Card aesthetic, Abstract Ethereal Concept Art, 80s Dark Fantasy Anime, Nouveau Art Style.*
 
 ### 4. Character Inclusion & Context
 - **Do NOT Include Everyone**: Only include characters that are *essential* to the specific scene. If a scene focuses on 2 characters, do not list all 5 party members just because they exist.
@@ -73,37 +73,40 @@ Use this mode to generate and save all image prompts without rendering any image
 1.  **Read & Parse**: Read the content of the markdown file.
 2.  **Scan for Entities**: Identify `[[wikilinks]]` in the text to find relevant entity files for descriptions.
 3.  **Generate Prompts**:
-    -   **Main Header**: Create 3 distinct prompts representing the overall session themes/events.
-    -   **Section Headers**: For *each* `### Header` in the body, create 1 prompt representing that specific section.
+    -   **Main Header**: Create exactly 1 prompt representing the session as a whole (its central event or theme). One image per slot, never alternative variants or options to choose from.
+    -   **Section Headers**: For *each* `### Header` in the body, create exactly 1 prompt representing that specific section.
 4.  **Save Prompts**:
     -   Save each **Full Refined Prompt** to a text file: `content/assets/sessions/{000}/{filename}.txt`.
 5.  **Update File**:
     -   Insert image placeholder blocks into the markdown file *immediately* after the headers (Main and Sections).
     -   **Format**:
         ```markdown
-        ![{Short Description of Scene}](../assets/sessions/{000}/{filename}.png)
+        ![{Short Description of Scene}](../assets/sessions/{000}/{filename}.webp)
         [Prompt](../assets/sessions/{000}/{filename}.txt)
         ```
     -   **Alt Text**: Use a short, readable description in **Polish** (e.g., "Bitwa na Arenie", "Spotkanie z Zarządcą"). Do NOT put the full prompt here.
-    -   **Path**: Use `../assets/sessions/{000}/` relative path.
-6.  **Stop here.** Do NOT call `generate_image`. Return a summary of all saved `.txt` file paths so the user knows what to review.
+    -   **Path**: Use `../assets/sessions/{000}/` relative path. Images are stored as `.webp`.
+    -   **Filename**: every prompt file is named `{000}_theme_{slug}.txt` or `{000}_sec{n}_{slug}.txt` (English snake_case slug); the renderer only picks up files starting with `{000}_`.
+6.  **Stop here.** Do NOT call `generate_image`. Return the list of saved `.txt` files to the caller (`finalize-session-recap` renders them next; the user does not review prompts).
 
 ## Workflow 1b: Session Recap - Generate Images
 **Input**: `Input Data` = Path to the session assets folder (`content/assets/sessions/{000}/`).
 
 Use this mode after the user has reviewed and approved the prompts. It reads every `.txt` file in the assets folder and renders the corresponding image.
 
-1.  **Find Prompts**: List all `.txt` files in the given assets folder.
+**In Claude Code** there is no `generate_image` tool: run `uv run python scripts/render_session_images.py {number}` with `run_in_background` (it drives agy, one image at a time, and writes the `.webp` files). Follow `finalize-session-recap` Step 4 for exit codes and checking the results. The steps below are for Antigravity.
+
+1.  **Find Prompts**: List all `{000}_*.txt` files in the given assets folder that have no `.webp` yet.
 2.  **Generate Images**:
     -   For each `.txt` file, read its content and call `generate_image`.
-    -   **Target File**: Same path as the `.txt` file but with `.png` extension.
+    -   **Target File**: Same path as the `.txt` file with `.png` extension, then convert it to `.webp` (quality 80) and delete the `.png`.
     -   **Error Handling**: If generation fails, do NOT revert the markdown. The placeholders remain valuable — skip the failed image and continue.
 
 ## Workflow 2: Single Image Mode
 **Input**: `Input Data` = Description string.
 
 1.  **Refine Prompt**: Apply Core Logic (No Names -> `image_prompt` or bio, added Style, detailed setting, SOTA structure).
-2.  **Generate Image**: Call `generate_image`.
+2.  **Generate Image**: Call `generate_image` (Antigravity). In Claude Code, use agy as described in the user's global CLAUDE.md (`prompt.txt` in its own folder, `agy --mode accept-edits`, check `image.png` exists, then look at it).
 3.  **Result**: Return the path to the generated image.
 
 ## Workflow 3: Prompt Generation Mode

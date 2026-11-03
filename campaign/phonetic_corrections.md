@@ -36,7 +36,7 @@ Lista rośnie po każdej sesji — dopisuj nowe pomyłki, gdy je zauważysz.
 
 ## Cytaty z `quotes.json` też są surowym ASR
 
-`quotes.json` jest wklejany do sekcji `Cytaty` "verbatim", ale to nadal
+Cytaty z `quotes.json` trafiają do treści notatki (callout `[!quote]`), ale to nadal
 transkrypcja głosowa — regularnie gubi końcówki i myli podobnie brzmiące słowa.
 **Przed wklejeniem sprawdź każdy cytat pod kątem polskiej gramatyki**: jeśli
 zdanie jest niegramatyczne albo bez sensu, popraw oczywistą pomyłkę ASR.

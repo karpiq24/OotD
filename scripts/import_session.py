@@ -148,10 +148,6 @@ def fill_template(number, date, title, narrative, details, quotes):
         ('{Date}', date),
         ('{Narrative Summary}', narrative.strip()),
         ('* {Event 1}', bullets(details['events'])),
-        ('* {Quote 1}', bullets(quotes)),
-        ('* {NPC List}', bullets(details['npcs'])),
-        ('* {Location List}', bullets(details['locations'])),
-        ('* {Item List}', bullets(details['items'])),
     ]
     for placeholder, value in replacements:
         if placeholder not in text:

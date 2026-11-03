@@ -9,7 +9,9 @@ When the user hand-edits a recap draft, their fixes (corrected names, removed ha
 
 The drafts are written by rpgnotes, which learns only through `campaign/campaign_context.json`. Everything this skill writes lands in files that export carries: `campaign/phonetic_corrections.md`, `campaign/learned_rules.md`, and the wiki's entity pages. `/finalize-session-recap` re-runs the export at its end; when running this skill on its own, finish with `uv run python scripts/export_context.py`.
 
-All file writes in this skill are **proposals** — nothing is written until the user confirms.
+**Two modes.**
+- **Auto-apply** (when called from `finalize-session-recap`, and whenever the user runs it without asking for proposals): write the changes from Step 3 directly, skip Step 4, and report what was written in Step 5. The user reviews only recap text and vetoes harvest writes afterwards (everything is in git). Still apply the thresholds: a learned rule needs the pattern in ≥2 sessions, a style rule a repeated pattern; one-offs are recorded only in the report.
+- **Proposals** (only when the user asks to see them first): nothing is written until the user confirms (Step 4).
 
 ## Step 0: Initialization
 
@@ -62,13 +64,13 @@ Build a set of proposed file updates. **Do not write anything yet.**
 2. Only if the same pattern appears **repeatedly** in this diff (or matches a pattern seen before), and `campaign/proza.md` does not already cover it, propose a short bullet for `campaign/proza.md` section B (session recaps) capturing that preference. Style rules go there, not to `learned_rules.md`, which is for campaign facts and names. After an approved change, run `scripts/export_context.py`.
 3. A one-off rewording is not a pattern — record nothing.
 
-## Step 4: Present proposals for confirmation
+## Step 4: Present proposals for confirmation (proposals mode only)
 
 1. Show the user a single, compact summary grouped by bucket. For each proposed write show: the target file, and the exact before/after (the row to add, the rule text to insert, the entity-file line to change).
 2. If a bucket produced nothing, say so in one line ("No name corrections found.").
 3. **Wait for explicit confirmation.** The user may approve all, approve a subset (by number), or reject. Apply **only** what the user approves.
 
-## Step 5: Apply approved writes
+## Step 5: Apply the writes (all of them in auto-apply mode, the approved ones otherwise)
 
 1. Write each approved change to its target file, preserving that file's existing format exactly (table layout, numbering, Polish wording).
 2. After writing, if any `content/` file was changed (an entity file in 3c), run `uv run python scripts/update_indexes.py` per the indexes rule. Changes to `campaign/` do not need index regeneration.

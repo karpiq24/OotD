@@ -128,3 +128,103 @@ body:has(.ootd-catalog) {
     display: none;
   }
 }
+
+// ---------- quotes in session recaps: `> [!quote] Speaker` (QuoteBubbles transformer) ----------
+// portrait of the speaker beside a bubble; consecutive quotes alternate sides
+.callout.ootd-voice {
+  --voice-size: 58px;
+  display: grid;
+  grid-template-columns: var(--voice-size) minmax(0, 1fr);
+  gap: 0.9rem;
+  align-items: start;
+  margin: 1.1rem 0;
+  padding: 0;
+  border: none;
+  background: none;
+  overflow: visible;
+
+  & + .callout.ootd-voice {
+    margin-top: -0.2rem;
+  }
+
+  .ootd-voice-portrait {
+    width: var(--voice-size);
+    height: var(--voice-size);
+    margin: 0;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: 50% 15%;
+    box-shadow:
+      0 0 0 2px var(--light),
+      0 0 0 3.5px var(--tertiary);
+  }
+
+  .ootd-voice-bubble {
+    position: relative;
+    margin: 0;
+    padding: 0.6rem 1rem 0.65rem;
+    background: var(--ootd-surface);
+    border: 1px solid var(--lightgray);
+    border-radius: 10px;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: -7px;
+      top: 20px;
+      width: 12px;
+      height: 12px;
+      background: var(--ootd-surface);
+      border-left: 1px solid var(--lightgray);
+      border-bottom: 1px solid var(--lightgray);
+      transform: rotate(45deg);
+    }
+  }
+
+  .callout-title {
+    padding: 0;
+    gap: 0;
+  }
+  .callout-icon {
+    display: none;
+  }
+  .callout-title-inner,
+  .callout-title-inner p {
+    margin: 0;
+    font-family: var(--headerFont);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: var(--tertiary);
+  }
+  .callout-content,
+  .callout-content p {
+    margin: 0.15rem 0 0;
+    font-style: italic;
+    color: var(--dark);
+  }
+
+  &.ootd-voice-right {
+    grid-template-columns: minmax(0, 1fr) var(--voice-size);
+    .ootd-voice-portrait {
+      order: 2;
+    }
+    .ootd-voice-bubble::before {
+      left: auto;
+      right: -7px;
+      transform: rotate(-135deg);
+    }
+  }
+
+  &.ootd-voice-noportrait {
+    grid-template-columns: minmax(0, 1fr);
+    .ootd-voice-bubble::before {
+      display: none;
+    }
+  }
+
+  @media (max-width: 480px) {
+    --voice-size: 44px;
+    gap: 0.6rem;
+  }
+}

@@ -48,6 +48,19 @@ The sibling repo `../rpgnotes` turns a game's audio and Foundry log into a sessi
 
 Draft quality is rpgnotes' job: there is no summarizer here. Corrections flow back through `campaign/` (`/harvest-corrections`) and reach rpgnotes on the next export.
 
+## Session workflow: Claude drives it
+
+The user does not type skill names and reviews only the recap text. Read what they say and run the right step yourself:
+
+| The user says / the state is | Do |
+|---|---|
+| "draft N jest", "sesja N", or a draft mentioned without a number (then `scripts/session_status.py` says which one is `staged`) | `import-session` for N, start to finish, no questions |
+| Anything is wrong or missing in a draft ("X tego nie zrobił", "brakuje walki z…") | fix it right away (`iterate-recap` method), one line on what changed |
+| "OK", "akceptuję", "finalizuj", "dalej" about a draft | `finalize-session-recap`, start to finish, images included |
+| "co z obrazkami", or `session_status.py` shows `rendering` (images missing) | rerun `scripts/render_session_images.py N` in the background |
+
+Ask only when a step cannot go on without the user (no package, an existing note to overwrite). Everything else goes into the one report at the end of a step; the user vetoes there.
+
 ## The `.agents/` directory
 
 This is the AI automation layer, shared between Antigravity (native `.agents/rules`, `.agents/skills` support) and Claude Code. `.agents/` is the single source of truth; `.claude/skills` is a symlink into it (`.claude/skills → ../.agents/skills`), so Claude Code's native Skill tool (e.g. `/finalize-session-recap`) picks up the exact same files Antigravity uses — nothing is duplicated. There is no `workflows/` directory: multi-step pipelines are skills too (both agents resolve `/<skill-name>` for any skill), distinguished only by role below. It contains two subdirectories:
@@ -73,21 +86,21 @@ Two kinds of skill live side by side here. **Capability skills** do one focused 
 | `rpg-video-scripter` | Generates a paste-ready, per-clip Google Flow video script from a session recap. Invoked on-demand via `generate-video-script`, never automatically. |
 | `rpg-chatlog-analyst` | Answers precise mechanics questions (exact damage, who cast what, hit/miss) by grepping the session's `chat_events.txt` / `chat_log.json` (imported from rpgnotes into `content/assets/sessions/{NNN}/`). All timeline sources share one clock: seconds since the Craig recording start. Never loads whole logs into context. |
 
-**Pipeline skills** are the multi-step, user-facing entry points — invoked explicitly as `/<skill-name>` (Claude Code) or from the Antigravity Skills panel. Two main ones for processing a new session, plus three on-demand:
+**Pipeline skills** are the multi-step entry points. In Claude Code they run on their own from what the user says (see "Session workflow" above); `/<skill-name>` and the Antigravity Skills panel still work. Two main ones for processing a new session, plus three on-demand:
 
 **`import-session`** (Part 1; the only way a new session enters the wiki):
-1. Ask for the session number; `git pull`; run `scripts/import_session.py {N}`: checks the package's manifest (rpgnotes' outbox, else the staged `content/assets/sessions/{000}/`), copies its files into the asset folder, assembles `content/01-Sessions/Sesja {N} - {Title}.md` from `templates/Session.md` + `draft0.md` + `details.json` + `quotes.json`. Stops on a missing or incomplete package, an unknown schema version, or an existing note (`--force` only with the user's consent).
-2. **Interactive verification** — open `validation_report.json` findings, ambiguous identities and abandoned actions, each checked with targeted greps of the transcript, become ≤10 pick-one questions in one message; mechanics questions are first answered from `chat_events.txt` via `rpg-chatlog-analyst`; answers are applied to the note, skipped ones marked `<!-- UNVERIFIED: ... -->`.
-3. Fix evident ASR mishearings in `## Cytaty` (never rephrase).
-4. `scripts/import_session.py {N} --snapshot` saves the note to `private/sessions/{000}/draft_pre_edit.md` for the learning loop; report unresolved findings and UNVERIFIED markers.
+1. Session number from the user or `scripts/session_status.py`; `git pull`; run `scripts/import_session.py {N}`: checks the package's manifest (rpgnotes' outbox, else the staged `content/assets/sessions/{000}/`), copies its files into the asset folder, assembles `content/01-Sessions/Sesja {N} - {Title}.md` from `templates/Session.md` + `draft0.md` + `details.json`. Stops on a missing or incomplete package, an unknown schema version, or an existing note (`--force` only with the user's consent).
+2. **Verification without questions**: open `validation_report.json` findings, ambiguous identities and abandoned actions are settled from targeted transcript greps and `chat_events.txt` (via `rpg-chatlog-analyst`); what the evidence cannot settle gets `<!-- UNVERIFIED: ... -->` and goes on a "do sprawdzenia" list for the user.
+3. Weave 4–7 verified lines from `quotes.json` into the text as `> [!quote] Speaker` callouts (the `QuoteBubbles` transformer draws them as speech bubbles with the speaker's portrait); fix evident ASR mishearings, never rephrase.
+4. `scripts/import_session.py {N} --snapshot` saves the note to `private/sessions/{000}/draft_pre_edit.md` for the learning loop (committed in `private/`); hand the draft over with the UNVERIFIED list.
 
-**`finalize-session-recap`** (Part 2, after user edits the draft):
-0. **Harvest corrections** (non-blocking) → run `/harvest-corrections`; skips silently if there is nothing to harvest.
+**`finalize-session-recap`** (Part 2, as soon as the user approves the text; no questions, no prompt review):
+0. **Harvest corrections** → `/harvest-corrections` in auto-apply mode (writes, then reports); skips silently if there is nothing to harvest.
 1. Activate `rpg-wiki-manager` → apply wikilinks, update/create entity files.
-2. Activate `rpg-illustrator` (`Session Recap - Prompts Only`) → save `.txt` prompt files + insert placeholder image links into the session file.
+2. Activate `rpg-illustrator` (`Session Recap - Prompts Only`) → save `{000}_*.txt` prompt files + insert `.webp` image links into the session file.
 3. Activate `rpg-timeline-manager`, then run `scripts/export_context.py` so the next rpgnotes run sees the new entities, timeline and harvested corrections.
-4. **Pause** — notify user to review `.txt` prompt files in `content/assets/sessions/{000}/`.
-5. After user confirms → activate `rpg-illustrator` (`Session Recap - Generate Images`).
+4. `scripts/render_session_images.py {N}` in the background renders every prompt through agy into `{stem}.webp`; Claude looks at the results and redoes broken ones.
+5. Commit (no push unless asked) and report once: harvest writes, entity pages, images.
 
 **`generate-video-script`** (on-demand only, invoked explicitly — not part of finalization):
 1. Ask for session number → locate the recap file.
@@ -122,6 +135,7 @@ content/
 
 - `HomePage` (home only): banner hero with live counts, latest session with an excerpt, hero portraits, section tiles.
 - `pages/CardFolderContent` (every folder page): an image card per page, each with its first image and its italic lead line as the subtitle; a live filter box on folders with more than 8 cards. The `index.md` bullet list that `update_indexes.py` writes stays for Obsidian and is hidden on the site. The sessions folder groups cards by the story arcs, read from the `### Name: subtitle (Sesje X-Y)` headings of `Campaign_Context.md`, so those headings must keep that form.
+- `QuoteBubbles` (transformer, session notes): `> [!quote] Speaker` callouts become speech bubbles with the portrait from the speaker's person page; consecutive quotes alternate sides. Styles in `custom.scss`.
 - `RelatedPeople` (faction and location pages): a "Postacie" section with the people of the NPC folder of the same name (`Factions/Kult Węża.md` ↔ `NPCs/Kult Węża/`, `Mytros.md` ↔ `NPCs/Mytros/`).
 - `PeopleCatalog` (a page with `catalog: true`, i.e. `02-People/Katalog postaci.md`): every person in one grid with search and folder/group filter chips.
 
@@ -154,6 +168,8 @@ Everything lives under `scripts/` (run via `uv run python scripts/...`):
 - `update_indexes.py` — regenerates all `index.md` files under `content/`
 - `import_session.py` — imports an rpgnotes session package and assembles the note (`--snapshot` saves the pre-edit baseline)
 - `export_context.py` — writes `campaign/campaign_context.json` for rpgnotes
+- `session_status.py` — where each rpgnotes session stands in the pipeline (run it when the user mentions a session without naming it)
+- `render_session_images.py` — renders a session's `{000}_*.txt` prompts with agy into `.webp` (work folders in `.cache/render/`)
 - `check_wikilinks.py` — reports broken wikilinks and alias collisions in `content/`
 - `fix_image_paths.py` — repairs broken image paths in Markdown
 - `convert_assets.py` (compress images/videos), `get_prompts.py` (collect `image_prompt` fields), `find_and_zip.py` (zip the files mentioning given names) — maintenance utilities

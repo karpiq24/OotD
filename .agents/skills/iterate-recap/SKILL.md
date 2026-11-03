@@ -1,6 +1,6 @@
 ---
 name: iterate-recap
-description: Targeted fix pass for an existing session recap. Given a session number and a free-form complaint, re-reads only the relevant transcript slices and rewrites only the affected sections. Tool-agnostic — usable from Claude Code or Antigravity.
+description: Targeted fix pass for an existing session recap. Given a session number and a free-form complaint, re-reads only the relevant transcript slices and rewrites only the affected sections. Use it without being asked whenever the user says something in a recap is wrong or missing ("to się nie zgadza", "X nie było", "brakuje…"), applying the fix directly; also /iterate-recap. Tool-agnostic — usable from Claude Code or Antigravity.
 ---
 
 # Iterate Recap
@@ -11,7 +11,7 @@ This skill is deliberately **tool-agnostic**: it uses only *read*, *search/grep*
 
 ## Step 0: Inputs
 
-1. **Session number** (`{number}`, padded to `{000}`) — from the invocation argument or ask the user.
+1. **Session number** (`{number}`, padded to `{000}`) — from the invocation argument or the conversation (the draft under review); ask only if unclear.
 2. **Complaint** — the user's free-form description of what is wrong or missing (e.g. "the fight with Versir is in the wrong order", "you dropped the part where Orion found the amulet", "Raspytrion's name is misspelled in the second half").
 3. Locate the recap file: `content/01-Sessions/Sesja {number} - *.md`. If several match, ask which. Locate the transcript: `content/assets/sessions/{000}/transcript.txt`.
 
