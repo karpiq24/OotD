@@ -10,10 +10,11 @@ rpgnotes is the only author of a session draft: it transcribes, writes the narra
 ## Step 1: Import the package
 
 1. Ask the user for the `session_number` (unless given).
-2. Run `uv run python scripts/import_session.py {N}`.
-   - It reads `../rpgnotes/output/{000}/manifest.json` (or `$RPGNOTES_OUTBOX`), copies the published files into `content/assets/sessions/{000}/` and the working files (`draft0.md`, `details.json`, `validation_report.json`) into `private/sessions/{000}/`, and assembles `content/01-Sessions/Sesja {N} - {Title}.md` from `templates/Session.md`.
+2. Pull first (`git pull`): rpgnotes' `./run.sh` usually staged the package already, on whichever machine ran it, as a commit "{N} init" holding `content/assets/sessions/{000}/` (no note yet).
+3. Run `uv run python scripts/import_session.py {N}`.
+   - It reads `../rpgnotes/output/{000}/manifest.json` (or `$RPGNOTES_OUTBOX`), else the staged copy in `content/assets/sessions/{000}/`, copies every file the manifest lists into `content/assets/sessions/{000}/` (the working files `draft0.md`, `details.json`, `validation_report.json` and `manifest.json` stay off the site through `quartz.config.ts`'s `ignorePatterns`), and assembles `content/01-Sessions/Sesja {N} - {Title}.md` from `templates/Session.md`.
    - If it stops with an error (no package, incomplete package, unknown schema version, note already exists), relay the message to the user and stop. Only pass `--force` when the user explicitly agrees to replace an existing note.
-3. Run `uv run python scripts/update_indexes.py` (a session note was created).
+4. Run `uv run python scripts/update_indexes.py` (a session note was created).
 
 ## Step 2: Interactive verification
 
@@ -23,7 +24,7 @@ Run one short structured Q&A to resolve claims that only a human can decide. Man
 
 Gather candidates into one pool:
 
-1. **Validation findings** — every finding in `private/sessions/{000}/validation_report.json` (`quote`, `issue`, `severity`, `suggested_fix`). `error`-severity findings rpgnotes could apply automatically are already gone; what remains needs judgement.
+1. **Validation findings** — every finding in `content/assets/sessions/{000}/validation_report.json` (`quote`, `issue`, `severity`, `suggested_fix`). `error`-severity findings rpgnotes could apply automatically are already gone; what remains needs judgement.
 2. **Ambiguous identities** — a name in the note that the glossary (`campaign/phonetic_corrections.md`, the entity names in `content/`) cannot decisively map to one canonical entity, or that `campaign/learned_rules.md` warns about.
 3. **Abandoned-action ambiguity** — the note says a character did something, but the transcript shows them only considering it ("chyba odpuszczę", "może rzucę…").
 
@@ -77,4 +78,4 @@ If there are no candidates at all, ask nothing and go on to Step 3.
    - Validation findings that were neither asked about nor resolved in Step 2 (quote, issue, suggested fix) as a short list, or "No unresolved validation findings."
    - The number of `UNVERIFIED` markers, if any ("search the note for `UNVERIFIED`").
    - "Draft created at `content/01-Sessions/Sesja {N} - {Title}.md`. Review and edit it, then run `/finalize-session-recap` for wikilinks, images and the timeline."
-3. Remind the user that `private/sessions/{000}/` holds new files to commit in the private repo (`git -C private add sessions/{000}`).
+3. Remind the user that `private/sessions/{000}/draft_pre_edit.md` is new in the private repo (`git -C private add sessions/{000}`).

@@ -21,8 +21,7 @@ const config: QuartzConfig = {
       "templates",
       ".obsidian",
       "99-DM-Corner",
-      // rpgnotes working files: /import-session keeps them in private/, this
-      // keeps one that slips into a session's asset folder off the site.
+      // rpgnotes working files, kept in each session's asset folder: off the site.
       "assets/sessions/*/draft*",
       "assets/sessions/*/validation_report*",
       "assets/sessions/*/details.json",

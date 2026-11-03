@@ -37,9 +37,9 @@ const KNOWN_FILES: Record<string, { category: string; label: string }> = {
   "video_script.md": { category: "Wideo", label: "Skrypt wideo" },
 }
 
-// rpgnotes' working files and bookkeeping. /import-session keeps them in
-// private/; one that slips in here is not listed (and quartz.config.ts's
-// ignorePatterns keeps it off the site).
+// rpgnotes' working files and bookkeeping: they sit in the session's asset
+// folder but are not listed (and quartz.config.ts's ignorePatterns keeps them
+// off the site).
 const NEVER_PUBLISHED = [
   /^draft/,
   /^validation_report/,
