@@ -4,6 +4,7 @@ also_in:
   - Bohaterowie
 aliases:
   - Tromba
+image_prompt: winged elephant, huge body with dark blue-grey wrinkled hide, great bat-like leathery wings with dark red membranes and clawed tips, large ears with glowing orange veined membranes, long curved ivory tusks, glowing orange eyes, a shaggy dark mane along the head and back, a long tail ending in a lion-like tuft, a heavy chain around the neck.
 ---
 
 ![Trąba](../../../assets/sessions/062/062_traba.webp)

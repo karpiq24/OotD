@@ -77,3 +77,5 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]], w ludzkiej postaci, śpiewała na igrzys
 
 ## Po wojnie
 Jak pozostali dawni bogowie jest smokiem bez boskiej mocy, często w ludzkiej postaci. Regularnie odwiedza każdego z [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]].
+
+W [[Sesja 85 - Cienie nad Arezją]] od czterech dni towarzyszyła [[Arevon Elorrenthi|Arevonowi]] na [[Wyspa Indygo|Wyspie Indygo]] i zauważyła, że spory o żelazo z każdym rokiem przybierają na sile. Spisuje pieśni z różnych wysp, choć muzyka nie przychodzi jej już z dawną łatwością, i nie zamierza szukać bohaterów nowej epoki. Jej informatorzy nie zdołali przeniknąć do [[Świątynia Cieni|Świątyni Cieni]]. Przeszła z [[Versir|Versirem]] i skutym [[Taran Neurdagon|Taranem Neurdagonem]] przez krąg teleportacyjny do [[Mytros]], a potem jako smoczyca zaniosła Versira z powrotem pod [[Arezja|Arezję]].

@@ -1,5 +1,6 @@
 ---
 title: Kustosz
+image_prompt: otherworldly spirit appearing as a disembodied face, a fox-like head with reddish-brown fur and a pale grey ruff, large pointed ears, two short curved dark horns, a silver crest on the forehead set with a glowing green gem like a third eye, narrowed glowing green eyes, a wide grin full of sharp white fangs.
 ---
 
 ![Kustosz](../../../assets/sessions/053/053_bowl.webp)

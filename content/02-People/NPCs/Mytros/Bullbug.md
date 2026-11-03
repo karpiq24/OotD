@@ -2,6 +2,7 @@
 title: Bullbug
 also_in:
   - Arezja
+image_prompt: female minotaur in her thirties, huge muscular build, reddish-brown fur, bovine face with a pink muzzle and warm amber eyes, long curved dark-tipped horns, a shaggy auburn mane tied in a low ponytail, wearing a dark leather breastplate with a shoulder strap over a teal under-tunic, a red coral bead necklace, leather armbands and bracers, a belt hung with knives, tools and a pouch, a long red and purple wrap skirt, carrying a battle-axe.
 ---
 
 ![Bullbug](../../../assets/people/bullbug.webp)

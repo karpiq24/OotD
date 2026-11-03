@@ -3,6 +3,7 @@ title: Arkyrania
 also_in:
   - Smoczy Lordowie
   - Pięciu Bogów
+image_prompt: adult female bronze dragon, slender graceful build, gleaming metallic bronze scales, bright green eyes, a crown of swept-back bronze horns and spiky frills, a row of small dark spines along the neck and back, large bat-like wings with bronze outer skin and teal-green inner membranes, long curled tail, sharp dark claws.
 ---
 
 ![Arkyrania](../../../assets/people/arkyrania.webp)

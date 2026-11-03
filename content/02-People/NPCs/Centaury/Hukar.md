@@ -2,6 +2,7 @@
 title: Hukar
 also_in:
   - Mithralowa Kuźnia
+image_prompt: male centaur chieftain around forty, powerful lean muscular build, human torso on a dark bay brown horse body, tanned skin, a stern proud face with dark eyes, a birthmark on his forehead shaped like a staring eye, long dark brown hair with tight braids along the sides of the head and a small ear ring, wearing a bronze helmet, crossed leather straps and a bone pendant on a bare chest, a red cloth sash and red saddle cloth across the horse back, wrapped linen bracers, holding a long wooden spear decorated with a feather and cords.
 ---
 
 ![Hukar](../../../assets/people/hukar.webp)

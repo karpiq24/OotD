@@ -1,5 +1,6 @@
 ---
 title: Javon
+image_prompt: human male in his twenties, lean wiry build, sun-tanned skin, smooth youthful face, short tousled brown hair, grey-green eyes, a fresh scratch on one cheek, wearing a torn green short-sleeved tunic with a green scarf, a brown scaled leather breastplate, a black belt, brown studded leather trousers, tall laced brown boots, a leather quiver at his hip, carrying a long recurved wooden bow.
 ---
 
 ![Javon](../../../assets/people/javon.webp)

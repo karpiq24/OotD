@@ -3,6 +3,7 @@ title: Silenos
 also_in:
   - Orestessos
   - Bohaterowie
+image_prompt: satyr male in his sixties, stout barrel-chested build with a round belly and strong forearms, ruddy tanned skin, a cheerful wrinkled face with warm eyes and a broad smile, large curled ram horns, pointed ears, short white hair, a long white beard woven into a thick braid tied with a leather cord, goat legs covered in dark brown fur ending in cloven hooves, wearing a short-sleeved off-white shirt with leather suspenders, a worn brown leather brewing apron, leather bracers, a garland of green hop cones around the neck and sprigs of wheat hanging from his belt.
 ---
 
 ![Silenos](../../../assets/people/silenos.webp)
@@ -21,3 +22,5 @@ W [[Sesja 55 - Egida Mytros]] konsultował z Orestesem interesy piwne, a na piwo
 
 ## Po wojnie
 Jest założycielem browaru w [[Orestessos Zythikē]] i pozostaje jego głównym udziałowcem. Bieżące rządy nad browarem i całą siecią **Warlock Circus Super Bar** sprawuje jednak [[Orestes]] jako jej prezes. To Silenos przedstawił Orestesowi dalekiego kuzyna, [[Krithon|Krithona]].
+
+W [[Sesja 85 - Cienie nad Arezją]] wyszedł Orestesowi naprzeciw z dwoma kuflami na święcie browaru w [[Orestessos Zythikē]]. To od niego pochodzi daleki kuzyn Orestesa, [[Krithon]].

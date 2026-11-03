@@ -1,5 +1,6 @@
 ---
 title: Aetala
+image_prompt: human female in her sixties, stout sturdy strong build, fair ruddy skin, round matronly face, grey hair pinned up under a white kerchief, small round spectacles, wearing a dark brown laced bodice over a white blouse with rolled sleeves, a long white apron, a green overskirt over a beige skirt, black shoes.
 ---
 
 ![Aetala](../../../assets/people/aetala.webp)

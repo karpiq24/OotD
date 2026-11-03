@@ -2,6 +2,7 @@
 title: Garrick Vanalan
 aliases:
   - Garrick
+image_prompt: male gnome wizard, small stocky build, middle-aged, tanned skin, long pointed ears, cheerful grin, bright blue eyes under bushy black brows, short black hair slicked back with shaved sides, a full neatly trimmed black beard, wearing a long purple robe with gold trim and a high collar over a dark grey embroidered tunic with silver spiral clasps, a brown leather belt with a round silver buckle and a side pouch, brown boots, carrying a gnarled wooden staff topped with a glowing violet orb.
 ---
 
 ![Garrick Vanalan](../../../assets/people/garrick_vanalan.webp)

@@ -2,6 +2,7 @@
 title: Korteva
 also_in:
   - Kult Węża
+image_prompt: human female in her thirties, lean athletic build, pale skin, hard cold face with high cheekbones, full lips and a steady merciless gaze, chin-length straight auburn hair cut in a bob, wearing a high-collared dark grey-brown leather jerkin closed with many buckled straps, buckled leather bracers, dark leather trousers, worn folded-down boots, a ragged dark green cloak, a belt hung with leather pouches, carrying a long slender dagger.
 ---
 
 ![Korteva](../../../assets/people/korteva.webp)

@@ -1,5 +1,6 @@
 ---
 title: Zorin
+image_prompt: gnome male, old and small with a slight stoop, wrinkled face with a long pointed nose, small round spectacles, a long bushy white beard, wearing a tall drooping wide-brimmed burgundy wizard hat and a long heavy burgundy robe embroidered with gold patterns at the cuffs and hem, a belt hung with tiny vials.
 ---
 
 ![Zorin](../../../assets/people/zorin.webp)

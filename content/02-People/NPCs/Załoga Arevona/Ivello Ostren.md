@@ -2,6 +2,7 @@
 title: Ivello Ostren
 aliases:
   - Ivello
+image_prompt: male elf, appears in his thirties, lean athletic build, fair skin, long pointed ears, handsome face with a warm crooked smile, a small scar on one cheek, shoulder-length wavy dark brown hair, sea-green eyes, wearing a dark green cloak wrapped around the shoulders, a cream shirt collar under brown studded leather armour with buckled straps, a silver engraved spiked pauldron on one shoulder, a quiver of white-fletched arrows on his back.
 ---
 
 ![Ivello](../../../assets/sessions/034/ivello.webp)

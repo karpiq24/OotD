@@ -1,5 +1,6 @@
 ---
 title: Davos
+image_prompt: undead dwarf male, ancient ghostly sailor dead for about five centuries, short broad stocky build, bald head, pallid grey skin streaked with blood, glowing pale amber eyes, snarling mouth with broken teeth, a very long thick beard matted red with blood, dozens of white-fletched arrows sticking out of his body and shoulders, wearing a heavy grey fur mantle over a dark blue tunic, a wide leather belt and a mail skirt, everything soaked and dripping with blood.
 ---
 
 ![Davos](../../../assets/people/davos.webp)

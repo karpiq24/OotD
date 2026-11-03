@@ -2,6 +2,7 @@
 title: Boreas
 aliases:
   - Północny Wiatr Zimy
+image_prompt: male satyr in his fifties, lean muscular build, tanned olive skin, a weathered face with a sardonic half smile, dark eyes, long wavy unruly hair of olive brown streaked with grey, long pointed goat-like ears, a pair of long straight pale cream horns rising from his brow, goat legs with shaggy fur and hooves, wearing a white chiton draped over one shoulder, carrying a red lacquered long-necked stringed instrument.
 ---
 
 ![Boreas](../../../assets/people/boreas.webp)

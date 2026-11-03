@@ -2,6 +2,7 @@
 title: Iolaah
 also_in:
   - Ultros
+image_prompt: young merfolk female, slender build, very pale white skin, delicate face with a small nose, large teal-green eyes with red markings around them, red coral growths forming a crown on her head, pale finned ears and frilled fins at her cheeks, red and white lionfish-striped arms ending in webbed hands, a long red and white banded fish tail with spiny lionfish fins and a broad translucent spotted tail fin, wearing a green seaweed-like vest with shell pauldrons and a coral pendant on a chain, a green satchel with a shell clasp and small potion vials at her hip.
 ---
 
 ![Iolaah](../../../assets/people/iolaah.webp)

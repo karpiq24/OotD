@@ -1,8 +1,11 @@
 ---
 title: Corinna
+image_prompt: middle-aged female, athletic build, olive skin, fine lines around the eyes, shoulder-length wavy black hair streaked with grey, warm amber-brown eyes, a slight confident smile, a narrow gold headband with a red gem across her forehead, wearing a white wrapped chiton with a deep neckline, ornate bronze pauldrons and a bronze gorget set with red gems, a red sash and a dark patterned belt, dark armbands, a red cloak behind her shoulders, Greek warrior.
 ---
 
-![Corinna](../../../assets/people/corinna.webp)
+| ![Corinna piętnaście lat po wojnie](../../../assets/people/corinna_po_wojnie.webp) | ![Corinna w czasie wojny](../../../assets/people/corinna.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Córka Thericlesa z [[Estoria]], towarzyszka drużyny i dowódczyni legionu w Bitwie o Mytros_
 

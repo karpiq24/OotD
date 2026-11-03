@@ -46,3 +46,4 @@ groups:
 - [[02-People/NPCs/Praxys|Praxys]]
 - [[02-People/NPCs/Typhon|Typhon]]
 - [[02-People/NPCs/Wyspa Krzywoprzysięstwa|Wyspa Krzywoprzysięstwa]]
+- [[02-People/NPCs/Półwysep Arezyjski|Półwysep Arezyjski]]

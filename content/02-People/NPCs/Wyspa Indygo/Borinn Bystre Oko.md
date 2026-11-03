@@ -1,5 +1,6 @@
 ---
 title: Borinn Bystre Oko
+image_prompt: dwarf male, elderly, short stocky broad build, ruddy weathered deeply wrinkled skin, bulbous red nose, bushy grey eyebrows, one eye milky white and blind and the other pale blue, long hair and a huge thick braided beard streaked with pink, teal, yellow and violet, two side braids bound in brass wire rings, wearing a dented riveted dark iron miner's helmet with a round brass-rimmed glass lens on the front, a ragged sleeveless olive-brown leather jerkin over a torn shirt, leather harness straps with iron buckles, a heavy belt with pouches, a ring on one finger, a scar on one forearm.
 ---
 
 ![Borinn Bystre Oko](../../../assets/sessions/043/043_borinn.webp)

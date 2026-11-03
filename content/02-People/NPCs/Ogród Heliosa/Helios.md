@@ -2,6 +2,7 @@
 title: Helios
 also_in:
   - Smoki
+image_prompt: ancient gold dragon, colossal and majestic, gleaming golden scales that shine like the sun, a long sinuous neck and tail, a crown of swept-back golden horns and spiky frills around the head, glowing amber eyes, wide golden membranous wings with darker amber veins, powerful clawed legs, a pale gold ridged belly, flames gathering in the open fanged jaws, radiant golden light emanating from the body.
 ---
 
 ![Helios](../../../assets/people/helios.webp)

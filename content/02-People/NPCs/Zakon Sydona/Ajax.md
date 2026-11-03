@@ -1,5 +1,6 @@
 ---
 title: Ajax
+image_prompt: human man around thirty, tall powerfully muscular build, fair skin, handsome square-jawed face, long wavy golden-blond hair, blue eyes burning with fanatical zeal, wearing ornate bronze plate armour engraved with swirling wave patterns, a sculpted breastplate, layered pauldrons and greaves, a skirt of leather pteruges over a crimson tunic, a long crimson cape, carrying a massive engraved iron warhammer, swirling ribbons of water magic coil around him.
 ---
 
 ![Ajax](../../../assets/sessions/052/052_ajax.webp)

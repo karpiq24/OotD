@@ -14,3 +14,5 @@ Oprócz ludzi z [[Arezja|Arezji]], półwysep zamieszkują również [[Centaur z
 
 ## Historia
 [[Euria]], Wschodni Wiatr, przybyła tutaj z misją przyniesienia nowego oblicza odwagi, oddzielonego od tradycyjnego wojennego męstwa. Została jednak odrzucona przez mieszkańców, którzy uznali jej słowa za zbyt naiwne.
+
+Po wojnie półwysep nękały centaury z minotaurami. W [[Sesja 85 - Cienie nad Arezją]] na jego północy minotaur [[Zakroth]] zebrał kilkuset minotaurów, fey, satyrów, centaurów i gigantów, zbudował w gęstym lesie na ziemiach przygranicznych drewniano-ziemny fort i palił majątki oligarchów z [[Mytros]] oraz arezyjskie folwarki i spichlerze. Na północy stacjonują arezyjscy żołnierze. Szlakiem między Mytros a [[Arezja|Arezją]] jeżdżą transporty piwa [[Orestes|Orestesa]], które ludzie Zakrotha napadają; po zwinięciu [[Obóz pod Arezją|obozu pod Arezją]] Orestes opłacił oddział [[Flavius|Flaviusa]], który ruszył na północ chronić szlaki.

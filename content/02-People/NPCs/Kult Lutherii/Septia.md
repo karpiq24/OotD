@@ -2,6 +2,7 @@
 title: Septia
 also_in:
   - Mytros
+image_prompt: human female in her twenties, slender willowy build, very pale porcelain skin, delicate face with dark lips, very long straight black hair, a gold leaf circlet, wearing a flowing white silk gown with long wide trailing sleeves edged in pink, threads of glowing pink arcane magic swirling around her hands.
 ---
 
 ![Septia](../../../assets/people/septia.webp)

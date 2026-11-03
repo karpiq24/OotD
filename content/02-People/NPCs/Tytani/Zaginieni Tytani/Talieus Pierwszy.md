@@ -2,6 +2,7 @@
 title: Talieus Pierwszy
 aliases:
   - Tytan Rzemiosła
+image_prompt: gigantic primordial titan male of ageless appearance, enormous heavily muscled build, pale grey stone-like skin with faint swirling engraved patterns over the shoulders and chest, pointed ears, short tousled white hair, clean-shaven angular face with a weary broken expression, eyes covered by a wrapped strip of dirty bandage, lips sewn shut with coarse black thread, a white linen cloth draped over one shoulder and wrapped at the waist, a plain metal cuff on one wrist, heavy iron shackles with hanging chain links on his wrists and neck.
 ---
 
 ![Talieus Pierwszy](../../../../assets/people/talieus_pierwszy.webp)

@@ -2,6 +2,7 @@
 title: Icarus
 also_in:
   - Smoki
+image_prompt: enormous adult silver dragon, the largest dragon on the continent, gleaming silver-grey metallic scales with a pale ridged chest and throat, a crown of long backswept horns and a frill of spines down the neck, sharp toothy jaws, amber eyes, vast wings with darker leathery membranes, heavy clawed forelimbs, a long spiked tail.
 ---
 
 ![Icarus](../../../assets/people/icarus.webp)

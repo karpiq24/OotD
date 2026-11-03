@@ -1,5 +1,6 @@
 ---
 title: Braeca
+image_prompt: human man, young adult, slender build, very pale skin, gaunt narrow face, long straight silver-blond hair, cold eyes, wearing a deep navy-blue hooded priestly robe with teal-green panels and a dark fur-trimmed collar, a black sash with a silver clasp and hanging chains, a bronze holy symbol of the angry face of a storm god, black boots, carrying a rolled scroll.
 ---
 
 ![Braeca](../../../assets/people/braeca.webp)

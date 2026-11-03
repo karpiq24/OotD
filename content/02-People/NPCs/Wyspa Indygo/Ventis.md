@@ -2,6 +2,7 @@
 title: Ventis
 also_in:
   - Smoki
+image_prompt: large copper dragon, female, long sinuous body with dark bronze scales on the back and a coppery orange-brown underbelly, enormous bat-like wings with copper-red membranes, an angular horned head with backswept dark horns and spiky frills, glowing amber eyes, a gaping maw with a red throat and rows of sharp teeth, acid dripping from the jaws, powerful clawed legs, a long spiny curling tail.
 ---
 
 ![Ventis](../../../assets/sessions/042/042_dragon.webp)

@@ -4,6 +4,7 @@ aliases:
   - Tars
   - Kapitan Tars
   - Tars d'Lyrandar
+image_prompt: male half-elf ship captain in his forties, lean hardy build, tanned weathered skin, pointed ears, long dark brown hair swept back and windblown, a short dark beard, piercing pale blue eyes, stern determined expression, glowing blue storm-mark sigils of circles and runes on the back of one hand and the forearm, wearing a long black leather sea coat with a high collar, leather straps and buckles across the chest, dark gloves and bracers.
 ---
 
 ![Tars d’Lyrandar](../../../assets/people/tars_dlyrandar.webp)

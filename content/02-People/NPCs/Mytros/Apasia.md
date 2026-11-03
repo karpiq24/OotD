@@ -1,5 +1,6 @@
 ---
 title: Apasia
+image_prompt: human female around forty, athletic warrior build, fair skin, fierce face with high cheekbones, wind-tossed shoulder-length platinum blonde hair, blue-grey eyes, wearing dark brown leather armour with riveted pauldrons and crossing straps, a thick fur collar, long leather coat skirts, wielding a long spear with a broad gleaming blade.
 ---
 
 ![Apasia](../../../assets/people/apasia.webp)

@@ -1,5 +1,6 @@
 ---
 title: Darien
+image_prompt: young human female Amazon queen in her mid twenties, lean wiry athletic build with defined abdomen, pale skin covered in white body paint with red swirling ritual markings on her face, shoulders and arms, red paint around large dark eyes, short tousled black hair, a delicate gold filigree headband with fine gold chains running down to a nose ring, layered gold necklaces, a crimson patterned sash draped over one shoulder across her chest, a short dark green skirt embroidered with gold under an ornate bronze studded belt with hanging leather tabs, ornate bronze bracers, red leather sandals laced up to the knees, holding a slim ornate bronze dagger.
 ---
 
 ![Darien](../../../assets/sessions/032/darien.webp)

@@ -13,3 +13,4 @@ title: Arezja
 - [[Świątynia Spokoju]]
 - [[Świątynia Tarczy]]
 - [[Świątynia Żywiołów]]
+- [[Obóz pod Arezją]]

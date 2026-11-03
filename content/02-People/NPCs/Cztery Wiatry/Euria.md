@@ -2,6 +2,7 @@
 title: Euria
 aliases:
   - Jesienny Wschodni Wiatr
+image_prompt: female nymph, youthful and ageless, slender build, dark ebony skin, a calm distant face with high cheekbones, golden eyes with shimmering gold dust on the lids, long fine braids gathered into a high ponytail bound with a gold band, wearing a fitted strapless gown made of clustered glowing golden orbs and bubbles that spill from one shoulder down over her body.
 ---
 
 ![Euria](../../../assets/people/euria.webp)

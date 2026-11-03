@@ -5,12 +5,12 @@ image_prompt: ancient Greek trireme battleship, majestic and formidable. It has 
 
 ![Placeholder](../../assets/placeholder.webp)
 
-_Legendarny okręt bojowy, niegdyś statek widmo [[Estor Arkelander|Estora Arkelandera]], następnie pod dowództwem [[Orestes|Orestesa]]. Zatopiony w porcie [[Mytros]] podczas bitwy o Mytros; po wyciągnięciu z wody stracił magiczne właściwości i na stałe cumuje w porcie jako bar z muzeum._
+_Legendarny okręt bojowy, niegdyś statek widmo [[Estor Arkelander|Estora Arkelandera]], następnie pod dowództwem [[Orestes|Orestesa]]. Zatopiony w porcie [[Mytros]] podczas bitwy o Mytros; po wyciągnięciu z wody stracił magiczne właściwości i stoi na stałe w suchym doku w porcie jako bar z muzeum._
 
 ## Opis
 Ultros to potężny statek, który przemierzał morza Thylei od wieków.
 Niegdyś obsadzony przez duchy, został oczyszczony i służył nowym kapitanom. Maszt wykonano z drzewa, z którym była związana driada [[Delphia]] ([[Sesja 24 - Ultros]]). Był statkiem-taranem z dziobem-taranem ([[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]]).
-Dziś jest po prostu bardzo dużym, mało praktycznym statkiem, który utracił swoje magiczne, ochronne właściwości, i stoi przycumowany w porcie [[Mytros]] jako bar z magazynem piwa pod pokładem, kącikiem pamiątek i muzeum.
+Dziś jest po prostu bardzo dużym, mało praktycznym statkiem, który utracił swoje magiczne, ochronne właściwości, i stoi na granitowych zrębach w suchym doku w porcie [[Mytros]], obwieszony lampionami i gałązkami chmielu, jako bar z magazynem piwa pod pokładem, kącikiem pamiątek i muzeum. Wśród pamiątek z dawnych wypraw wiszą repliki mosiężnego diabełka i [[Kryształowa Kosa Lutherii|Kryształowej Kosy Lutherii]] ([[Sesja 85 - Cienie nad Arezją]]).
 
 ## Właściwości
 Dawniej statek był artefaktem o niezwykłej mocy:
@@ -18,9 +18,12 @@ Dawniej statek był artefaktem o niezwykłej mocy:
 
 ## Ciekawe Miejsca
 - **Kajuta Kapitana**
+- **Główna sala**: Od [[Sesja 85 - Cienie nad Arezją]] wisi tu portret [[Orestes|Orestesa]] z czasów, gdy był szczuplejszy.
 
 ## Mieszkańcy
 - **Kapitan [[Orestes]]**: Ostatni dowódca statku, dziś właściciel baru.
+- **[[Brax]]**: Zarządza barem.
+- **[[Zythion]]**: Syn Orestesa, praktykuje za szynkiem pod okiem Braxa.
 - **Dawny Kapitan [[Estor Arkelander]]**: Poprzedni pan i władca statku (pokonany w [[Sesja 24 - Ultros|sesji 24]] i ostatecznie w [[Sesja 67 - Zguba Estora]]).
 - **[[Delphia]]**: Driada związana z masztem; pożegnana przez Orestesa w sesji 84.
 
@@ -52,3 +55,5 @@ W [[Sesja 84 - Świt Nowej Ery]] wrak wyciągnięto z wody i rozpoczęto żmudny
 [[Orestes]] miał na to własną odpowiedź, do której szykował się chyba od pierwszego dnia na pokładzie: legendarny okręt zacumował w porcie [[Mytros]] **na stałe i stał się barem**. Barem z magazynem piwa pod pokładem, z kącikiem pamiątek i z muzeum — mobilnym wyłącznie w tym sensie, że w razie czego zawsze można go przesunąć. Skarbiec z kajuty kapitana drużyna zabezpieczyła i odzyskała, a [[Orestes]] rozliczył się z niego z ocalałą załogą i rodzinami poległych.
 
 Przy tej okazji [[Orestes]] pożegnał się z [[Delphia|Delphią]]: uznał, że i ona może wreszcie odejść ze statku. Podziękował jej za owocną współpracę, zaprosił na pożegnalne piwo i wypił jej zdrowie, życząc szerokiej drogi.
+
+W [[Sesja 85 - Cienie nad Arezją]] czterech podejrzanych typów próbowało po zamknięciu włamać się do kajuty kapitańskiej, w której wisiały tylko dwa stare obrazy. Nakrył ich pijany [[Kalistor]], który zasnął na ławie i wyszedł za potrzebą na rufę; dźgnęli go sztyletami i uciekli. Nic nie zginęło. [[Felicjan Janus Twardowski|Felicjan]] zabrał z kajuty [[Portret Karpathosa]] i ukrył go na [[Wyspa Yonder|Wyspie Yonder]], a [[Orestes]] przeniósł swój portret do głównej sali i dał [[Brax|Braxowi]] złoto na wynajęcie ochrony. Pod pokładem zebrali się tej nocy [[Bohaterowie Przepowiedni]] przed audiencją u [[Vallus]].

@@ -1,5 +1,6 @@
 ---
 title: Nona
+image_prompt: monstrous witch who looks like a young woman, slender curvy body with smooth slate-grey skin, a cyclopean face with a single glowing red eye in the middle of her forehead, pointed ears, full dark lips, long straight dark hair, a golden crescent-shaped headdress with crown points from which a pair of large dark brown feathered wings rise and flutter, bare-chested, a golden pendant at the collarbone, a gold armband, a deep red skirt slung low on the hips with a thin chain belt.
 ---
 
 ![Nona i Orion](../../../assets/sessions/047/047_nona.webp)

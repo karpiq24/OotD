@@ -1,5 +1,6 @@
 ---
 title: Maximus
+image_prompt: human male in his forties, huge heavyset build with a big belly and thick arms, former gladiator, tanned weathered skin, broad brutal face with a heavy jaw and cold small eyes, short reddish-brown hair, wearing a long coat of bronze-gold scale armour over a padded tunic, massive bronze gauntlets, a heavy deep purple cloak draped over the shoulders and around the neck, an iron slave chain wrapped around one forearm and hanging from his fist.
 ---
 
 ![Maximus](../../../assets/people/maximus.webp)
@@ -27,3 +28,5 @@ W [[Sesja 41 - Wiedźma Lotosu]] w wizji Hadesu został odesłany na koniec kole
 W [[Sesja 63 - Werdykt Arezji]] wspomniano go jako znienawidzonego przez [[Taureus|Taureusa]], zgładzonego przez bohaterów.
 
 W [[Sesja 68 - Arena Krzywoprzysięstwa]] pojawił się na arenie w czwartej fali jako duch przeszłości i dawny wróg drużyny; [[Versir]] teleportował go (wraz z [[Trellus|Trellusem]]) w ścianę ognia [[Felicjan Janus Twardowski|Felicjana]].
+
+W [[Sesja 85 - Cienie nad Arezją]] [[Dolios]], dyplomata [[Taran Neurdagon|Tarana Neurdagona]], wspominał dawną pracę dla niego; w jego wersji Maximus przed laty przepadł bez wieści.

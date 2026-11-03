@@ -2,6 +2,7 @@
 title: Chalcodon
 aliases:
   - Mistrz Chalcodon
+image_prompt: elf male, centuries old but ageless, tall lean build, pale skin, long pointed ears, stern angular face with a long white goatee beard and moustache, swept-back silver-white hair, dark eyes, wearing long green scholar robes with gold embroidered vine patterns, a high-collared green mantle, a brown leather belt and crossing strap with a bronze buckle, an embroidered bracer, holding an open book.
 ---
 
 ![Chalcodon](../../../assets/people/chalcodon.webp)

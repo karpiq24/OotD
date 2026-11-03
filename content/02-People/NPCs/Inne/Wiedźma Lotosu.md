@@ -3,6 +3,7 @@ title: Wiedźma Lotosu
 also_in:
   - Mojry
   - Wyspa Czasu
+image_prompt: gynosphinx, the body of a great lion with dark charcoal-grey fur faintly spotted like a leopard, large feathered wings folded along her back, a long tufted tail, the upper torso and head of a regal human woman, pale grey skin, long straight black hair falling over her shoulders, a band of dark red paint across her eyes, dark lips, a gold clasp at her chest and a thin gold cord around her waist.
 ---
 
 ![Wiedźma Lotosu](../../../assets/sessions/041/041_witch.webp)
@@ -33,3 +34,5 @@ W [[Sesja 47 - Wyspa Mojr]] przestrzegała Orestesa przed przyjmowaniem ofert od
 W [[Sesja 59 - Koniec Imprezy]] otrzymała przeprosiny od sfinksów i zgodnie z umową zdjęła klątwę z centaurów z Wyspy Skorpiona.
 
 W [[Sesja 84 - Świt Nowej Ery]] przypomniano, że [[Versir]] zapytał ją dawno temu, czy zostałaby nową [[Mojry|Mojrą]] — i że wstępnie była chętna. Półtytan prowadził w kolejnych latach własną, długofalową grę o obsadzenie pustych krosien losu; jako drugą kandydatkę wskazywano [[Versi|Versi Wyrocznię]].
+
+W [[Sesja 85 - Cienie nad Arezją]] [[Melania Twardowska|Melanii]] przyśnił się płonący [[Mytros]] i czarna postać z baranimi rogami wychodząca z kipiącej zatoki; [[Felicjan Janus Twardowski|Felicjan]] rozpoznał w tym co do szczegółu wizję, którą dostał od Wiedźmy.

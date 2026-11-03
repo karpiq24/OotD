@@ -1,5 +1,6 @@
 ---
 title: Arges
+image_prompt: cyclops male, giant towering muscular warrior, ruddy tanned skin crossed with scars, a single large red eye in the middle of the forehead, short dark beard, wearing a crested bronze helmet with a single eye opening, ornate ivory-white breastplate and pauldrons with engraved bronze edges, a large bronze lion-head belt buckle, a scaled bronze war skirt over a ragged dark red cloth, engraved bronze bracers and greaves, heavy sandals, carrying a massive stone-and-bronze war hammer with a spiked haft over one shoulder.
 ---
 
 ![Arges](../../../assets/people/arges.webp)

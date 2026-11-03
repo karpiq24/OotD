@@ -1,5 +1,6 @@
 ---
 title: Claus
+image_prompt: human male grave robber in his thirties, gaunt emaciated starved build with hollow cheeks and sunken haunted eyes, sickly sallow grey skin, a desperate frightened expression, cracked lips, matted dark hair under a dirty cloth headband, wearing tattered filthy rags, a threadbare reddish scarf, frayed cloth wraps around his shins and forearms, clutching a glittering emerald necklace.
 ---
 
 ![Claus](../../../assets/people/claus.webp)

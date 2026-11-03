@@ -2,6 +2,7 @@
 title: Althaia
 aliases:
   - Gęguza
+image_prompt: half-elf female, appears in her early twenties, slender build, fair skin, slightly slanted pointed ears, long straight dark brown hair with loose strands, large grey-brown melancholic eyes, wearing a simple long white off-the-shoulder linen dress with short puffed sleeves, a wide brown leather belt with a hanging strap, leather bracers, a layered necklace with a small crystal pendant, leather sandals, in her true monstrous form her hair is made of dozens of small honking goose heads.
 ---
 
 ![Świątynia i Althaia](../../../assets/sessions/049/049_temple.webp)

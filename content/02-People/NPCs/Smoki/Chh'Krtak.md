@@ -3,9 +3,13 @@ title: Chh'Krtak
 also_in:
   - Wyspa Indygo
   - Wyspa Ognia
+image_prompt: 'a brass dragon (Dungeons & Dragons metallic brass dragon), broad, plate-like head frill and horn pattern and red-orange eyes. He is now a young adult big enough to carry a rider: warm polished-brass scales, a long sinuous neck, a talkative, curious, friendly expression, mouth slightly open as if in the middle of a sentence. He wears a sturdy leather riding saddle with brass fittings, sized for a dwarf.'
 ---
 
-![Chh'Krtak](../../../assets/people/chh_krtak.webp)
+| ![Chh'Krtak piętnaście lat później](../../../assets/people/chh_krtak_po_wojnie.webp) | ![Chh'Krtak w czasie wojny](../../../assets/people/chh_krtak.webp) |
+|:---:|:---:|
+| Piętnaście lat później | W czasie wojny |
+
 **Rasa:** Mosiężny Smok (młody)
 **Lokalizacja:** Ostatnio wspomniany na statku [[Ultros]] ([[Sesja 65 - Wyprawa w Otchłań]])
 **Powiązania:** [[Felicjan Janus Twardowski]], [[Jankor]] (były pan), [[Wyspa Ognia]]
@@ -27,7 +31,5 @@ Chh'Krtak dołączył do załogi [[Ultros|Ultrosa]] jako smoczy towarzysz Felicj
 W [[Sesja 65 - Wyprawa w Otchłań]] Felicjan zapytał Chh'Krtaka, czy chciałby znaleźć partnera, z którym będą walczyć o lepszą przyszłość. Smok, choć zdezorientowany, szybko zadeklarował chęć walki u boku bohaterów i zapytał o możliwość „palenia wrogów i jedzenia ich ciał”.
 
 ## Po wojnie
-
-![Chh'Krtak piętnaście lat później](../../../assets/people/chh_krtak_po_wojnie.webp)
 
 Należy do smoków odbudowanego [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]] na [[Wyspa Yonder|Yonder]]. Dosiada go [[Brenna]], pierwsza adeptka Zakonu z [[Wyspa Indygo|Indygo]].

@@ -2,6 +2,7 @@
 title: Strażniczka Kuźni (The Forge Keeper)
 aliases:
   - The Forge Keeper
+image_prompt: fire elemental salamander with a feminine form, lean wiry humanoid body of charred black and dark red stone-like skin cracked with inner glow, jagged spiky ridges on the shoulders, forearms and shins, a head of roaring flames streaming upward like wild hair, narrow glowing white-hot eyes, a wide fierce burning grin, dark bronze bands around the wrists, the whole body wreathed in flickering flame.
 ---
 
 ![Strażniczka Kuźni](../../../assets/people/strazniczka_kuzni.webp)

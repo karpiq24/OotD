@@ -1,5 +1,6 @@
 ---
 title: Tarchon
+image_prompt: human male in his early thirties, tall and lean athletic build, tanned bronze skin, handsome chiseled face with a strong jaw and light stubble, sharp vivid blue eyes, thick tousled black hair, self-assured half-smile, wearing a dark navy military coat with gold trim and a gilded layered pauldron on one shoulder, a wide navy blue cloak wrapped high around the neck like a scarf, a thin gold chain across the chest.
 ---
 
 ![Tarchon](../../../assets/people/tarchon.webp)

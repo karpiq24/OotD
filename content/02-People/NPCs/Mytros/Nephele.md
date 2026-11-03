@@ -1,5 +1,6 @@
 ---
 title: Nephele
+image_prompt: human female in her forties, tall and slender, olive skin, a long elegant face with fine lines and a worried, sorrowful expression, long wavy black hair with a streak of grey falling over the shoulders, striking amber-gold eyes, wearing a sleeveless cream linen chiton gathered at one shoulder and a heavy dark teal himation draped around the body and over one arm, thin gold bangles on both wrists.
 ---
 
 ![Nephele](../../../assets/people/nephele.webp)

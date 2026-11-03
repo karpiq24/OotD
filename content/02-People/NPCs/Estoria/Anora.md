@@ -1,8 +1,11 @@
 ---
 title: Anora
+image_prompt: adult female in her early thirties, slender build, fair skin, long curly auburn hair falling past her shoulders, a golden diadem band engraved with runes across her head, golden leaves and small blue flowers tucked into her hair above the ears, striking green eyes, faint fine lines at the eyes, a calm, confident and authoritative expression, a small green stud earring, a delicate gold chain necklace, wearing a white Greek chiton with a lavender-blue drape over one shoulder, regal young queen.
 ---
 
-![Anora](../../../assets/people/anora.webp)
+| ![Anora piętnaście lat po wojnie](../../../assets/people/anora_po_wojnie.webp) | ![Anora w czasie wojny](../../../assets/people/anora.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Władczyni Estorii, córka [[Pythor|Pythora]], która przejęła tron po ojcu._
 
@@ -28,7 +31,5 @@ W [[Sesja 7 - Uratować Księżniczkę]] [[Bohaterowie Przepowiedni|Bohaterowie 
 W [[Sesja 84 - Świt Nowej Ery]] wyszło na jaw, że tron [[Estoria|Estorii]] [[Pythor]] zostawił jej jeszcze zanim [[Ultros]] wypłynął w Wielką Odyseję — po wojnie bóg bitwy nigdzie nie osiadł i nie miał już ani korony, ani wojny, ani pomysłu na siebie.
 
 ## Po wojnie
-
-![Anora piętnaście lat po wojnie](../../../assets/people/anora_po_wojnie.webp)
 
 Od piętnastu lat rządzi [[Estoria|Estorią]] i nikt już nie nazywa jej młodą królową. Jej ojciec, [[Pythor]], wędruje po [[Kontynent Thylea|Thylei]] z [[Orion Xul|Orionem]], jej przyrodnim bratem.

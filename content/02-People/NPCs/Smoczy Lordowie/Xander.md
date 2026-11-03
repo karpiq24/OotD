@@ -3,6 +3,7 @@ title: Xander Huorath
 aliases:
   - Xander Hourath
   - Xander Huorath
+image_prompt: undead ghostly dragonlord king, male, tall, ashen blue-grey skin cracked and dried like old parchment, gaunt skull-like face with sunken cheeks, deep-set pale violet eyes, pointed ears, long wild pale blue-grey hair, a spiked iron crown with a riveted gold band and dark drips running down the forehead, wearing dark ornate armour with studded gold pauldrons bearing a star emblem and a jewelled collar with a gold filigree clasp.
 ---
 
 ![Xander](../../../assets/people/xander.webp)

@@ -127,3 +127,5 @@ W [[Sesja 84 - Świt Nowej Ery]] drużyna odnalazła Hypnosa zacumowanego niedal
 Sam porzucony okręt [[Versir]] zadeklarował się przygarnąć — razem z [[Glewia Sydona|Glewią Sydona]], jeśli nikt inny nie zgłosi pretensji. Skoro miał doglądać Hypnosa, obiecał też przez najbliższe miesiące, a może i lata, zaglądać do więziennych [[Sześcian Więzienny|Sześcianów]]; nic tam się nie zmieniało i nic nie zapowiadało zmiany.
 
 W latach po wojnie Hypnosa zamiast Talieusa ciągną nieumarłe wieloryby: te same przegniłe, wielookie walenie, które w [[Sesja 65 - Wyprawa w Otchłań]] popłynęły za [[Ultros|Ultrosem]], a w [[Sesja 66 - Przebudzenie Bestii i Cienie Otchłani]] szukały celu, którego nikt nie umiał im dać. Versir co roku płynie nimi na inspekcję Sześcianów.
+
+W [[Sesja 85 - Cienie nad Arezją]] barka, wciąż porośnięta ogrodami [[Lutheria|Lutherii]], zawiozła [[Versir|Versira]], [[Astra|Astrę]] i [[Edran|Edrana]] do [[Sześcian Więzienny|Sześcianu Więziennego]].

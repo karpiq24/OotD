@@ -45,3 +45,4 @@ cover: ../assets/sessions/053/053_bowl.webp
 - [[Pierścień Orestesa]]
 - [[Oszczepy Błyskawic]]
 - [[Eye of the Galactic Dragon]]
+- [[Amfora Zakrotha]]

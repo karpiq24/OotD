@@ -6,6 +6,7 @@ aliases:
   - Hooobert
   - Hoooobert
   - Hubert
+image_prompt: long-eared owl, a small slender owl with tall dark-tipped ear tufts, a tawny-orange facial disc rimmed in dark brown, large round bright orange eyes, a small dark hooked beak, buff and cream plumage streaked with dark brown and black.
 ---
 
 ![Hoobert](../../../assets/people/hoobert.webp)

@@ -1,5 +1,6 @@
 ---
 title: Aesop
+image_prompt: male elder elf, tall slender build, pale ivory skin, an ageless serene face with faint fine lines around the eyes, calm golden brown eyes, long pointed ears, straight dark brown shoulder-length hair with a fringe, a dark curved circlet with small horn-like points on his brow, wearing a high-collared brown and ochre mantle with gold dragon-head emblems on both shoulders, a spiked collar necklace of gold dragon teeth, a dark tunic beneath, a striped leather bracer on one wrist.
 ---
 
 ![Aesop](../../../assets/people/aesop.webp)

@@ -1,5 +1,6 @@
 ---
 title: Rhea
+image_prompt: tiefling female in her thirties, athletic build, brick-red skin, small dark backswept horns, pointed ears, sharp confident smirking face, dark hair pulled back, golden eyes, a long red tail ending in a spade tip, wearing a flowing royal blue robe with wide sleeves and fur-trimmed hem, a thick white fur collar over the shoulders, an ornate copper-red embroidered bodice, carrying a long dark rod tipped with a carved red ornamental head, blue arcane flame swirling around one hand.
 ---
 
 ![Rhea](../../../assets/people/rhea.webp)

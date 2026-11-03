@@ -2,6 +2,7 @@
 title: Keledone
 aliases:
   - Keledon
+image_prompt: golden automaton with a feminine form, tall slender build, a smooth polished gold mask-like face with serene features and glowing pale eyes, a blue gem set in the forehead, a tall ornate golden crest headdress with spiral scrolls and radiating fins, gold armoured plating over silver-white limbs with exposed mechanical knee and elbow joints, gold clawed fingers, huge stiff golden wings veined like a butterfly, a tattered black cloak hanging from the shoulders.
 ---
 
 ![Keledone](../../../assets/people/keledone.webp)

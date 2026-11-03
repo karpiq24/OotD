@@ -4,6 +4,7 @@ also_in:
   - Ultros
 aliases:
   - Delphi
+image_prompt: ethereal female dryad spirit, ageless young-looking face, slender build, pale sea-green translucent skin with faint freckles and green vein-like markings, long wild tangled green hair woven with leaves, vines and tiny white flowers, glowing aqua eyes without pupils, very long pointed ears with reddish inner edges, clothed in a mantle of green leaves and vines.
 ---
 
 ![Delphia](../../../assets/people/delphia.webp)

@@ -3,6 +3,7 @@ title: Królowa Myrmeków
 race: Myrmek
 gender: Samica
 occupation: Matka Roju
+image_prompt: colossal female insectoid queen, monstrous hive mother, humanoid upper torso rising from a huge spider-like abdomen on long spindly segmented legs, hard blue-black chitinous carapace cracked with glowing deep red patches, a ridged reddish belly, several pairs of enormous ragged translucent insect wings with dark honeycomb veining, a horned head with two curved ram-like horns and a gaping fanged maw, sharp spikes along the shoulders, long clawed forelimbs.
 ---
 
 ![Królowa Myrmeków](../../../assets/sessions/071/071_myrmekes_queen.webp)

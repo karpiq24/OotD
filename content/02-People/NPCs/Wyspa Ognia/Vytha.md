@@ -1,5 +1,6 @@
 ---
 title: Vytha
+image_prompt: female lizardfolk tribal queen and shaman, tall and lean, teal-blue scales patterned with darker diamond markings and faintly glowing turquoise spots, long narrow reptilian snout, a crest of swept-back blue spines and frills along the head and neck, pale yellow eyes, bead and feather ornaments hanging from the crest, layered necklaces of shells, teeth and a round copper pendant, a mantle of jungle leaves and patterned hide over the shoulders, a dark teal patterned robe with a leather belt hung with pouches and charms, holding a gnarled dark wooden staff hung with glowing blue charms and beads.
 ---
 
 ![Vytha](../../../assets/people/vytha.webp)

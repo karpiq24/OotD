@@ -1,5 +1,6 @@
 ---
 title: Loopywoopy
+image_prompt: gnome female, middle-aged, tiny sturdy build, tanned rosy skin with smile lines, large pointed ears, bright blue-grey eyes, red war-paint marks on her forehead and dots on her cheeks, two long black braids tied with turquoise feather tassels, an elaborate headdress of a gold crest set with a red gem and a fan of tall purple, teal and white feathers over a purple zigzag headband, gold hoop earrings, a necklace of bone teeth and red beads, a mustard-yellow sleeveless wrap top with a grey fur-edged shoulder cape, leather arm wraps, a wide belt with pouches and silver skull charms, a patterned sash, baggy brown trousers, fur-cuffed boots, stuffed pale eel tails hanging from her belt.
 ---
 
 ![Loopywoopy](../../../assets/sessions/042/042_loopywoopy.webp)

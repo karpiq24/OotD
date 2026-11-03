@@ -3,6 +3,7 @@ title: Krok
 race: Cyklop
 gender: Mężczyzna
 occupation: Konserwator Powierzchni Płaskich w Praxys
+image_prompt: cyclops male of middle age with two eyes instead of one, hulking stocky slightly hunched build, grey-green skin, pointed ears, worried round eyes behind small round spectacles, brown hair tied in a topknot, a long brown beard ending in a thick braid, wearing a dark blue work shirt with rolled sleeves, a stained and patched leather janitor apron, a tool belt with pouches and a ring of iron keys, patched trousers and heavy leather boots, holding a long wooden mop.
 ---
 
 ![Krok](../../../assets/people/krok.webp)

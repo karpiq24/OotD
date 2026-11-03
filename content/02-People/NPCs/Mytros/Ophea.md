@@ -2,6 +2,7 @@
 title: Ophea
 also_in:
   - Bohaterowie
+image_prompt: half-elf female in her sixties, slight and slender, softly lined face with noble features and a gentle, weary smile, faintly pointed ears, a thick mass of curly silver-grey hair falling to the shoulders, dark eyes, light olive skin, wearing a flowing pastel pink gown with puffed sleeves tied with small bows and a lilac-purple sash at the waist, a harpist.
 ---
 
 ![Ophea](../../../assets/people/ophea.webp)
@@ -22,3 +23,5 @@ W [[Sesja 84 - Świt Nowej Ery]] Orion dopytywał o matkę; po pogodzeniu się P
 
 ## Po wojnie
 [[Pythor]] przez lata po wojnie nabrał w końcu odwagi i nie raz z nią rozmawiał, także o tym, czemu nie ruszył jej na ratunek od razu. Romantycznej miłości między nimi już nie ma, ale jest zrozumienie. Jej syn, [[Orion Xul|Orion]], wędruje z ojcem po [[Kontynent Thylea|Thylei]].
+
+W [[Sesja 85 - Cienie nad Arezją]] [[Pythor]] opowiedział Orionowi, że odwiedził ją w pałacu: przez godzinę łuskał z nią bób pod cyprysami i słuchał narzekań na wiatr niszczący róże i przesolone jedzenie, aż zaprosiła ich obu na kolację.

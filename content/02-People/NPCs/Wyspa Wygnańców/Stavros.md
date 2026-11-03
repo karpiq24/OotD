@@ -4,6 +4,7 @@ also_in:
   - Arezja
 aliases:
   - Lord Stavros
+image_prompt: human man in his fifties, tall slim build, fair weathered skin, long wavy auburn-red hair worn loose past the shoulders, light stubble, pale blue eyes, a charming slightly sly smile, small silver hoop earrings, wearing a loose white linen shirt open to mid-chest with rolled sleeves, a pendant with a small crystal on a cord, a long crimson silk sash tied at the waist under a brown leather belt with a large round brass buckle, leather wrist bands, dark trousers and tall cuffed brown leather boots with buckles.
 ---
 
 ![Stavros](../../../assets/sessions/045/045_stavros.webp)

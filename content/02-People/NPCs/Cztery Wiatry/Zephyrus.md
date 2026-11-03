@@ -2,6 +2,7 @@
 title: Zephyrus
 aliases:
   - Wiosenny Wiatr
+image_prompt: male oceanid, youthful and ageless, tall athletic muscular build, deep brown skin marked with flowing teal blue stripes and green fin-like frills along the forearms and shins, a handsome solemn face with teal markings around the eyes, short tousled black hair, a thin gold circlet with a gem on the brow, gold earrings, many layered gold necklaces and chains with green gems across his bare chest, gold armbands and anklets, a white linen loincloth with gold embroidered hem, barefoot.
 ---
 
 ![Zephyrus](../../../assets/people/zephyrus.webp)

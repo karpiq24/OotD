@@ -1,5 +1,6 @@
 ---
 title: Jankor
+image_prompt: huge male lizardfolk king, massively built with broad heavy shoulders and thick limbs, dark charcoal-brown pebbled scales, crocodilian snout with jagged pale teeth jutting from the jaws, a ridge of short spiked crests atop the head, small glowing amber eyes, wearing a crimson sash and loincloth embroidered with gold geometric tribal patterns draped over one shoulder, ornate gold bracers on the forearms, a gold plaque belt buckle, carrying a staff that crackles with lightning.
 ---
 
 ![Jankor](../../../assets/people/jankor.webp)

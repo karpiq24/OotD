@@ -2,6 +2,7 @@
 title: Demetria
 also_in:
   - Kult Lutherii
+image_prompt: female dryad corrupted by hatred, strikingly beautiful, slender build, pale bark-tinted skin, red mask-like markings across the eyes and face, pale glowing eyes, long dark auburn hair flowing like roots, a crown of dark antler-like branches with leaves sprouting from the head, wearing a fitted bodice of carved bronze-gold leaf plates, a mantle of moss and leaves, long dark vine-wrapped sleeves and leggings, thorny vines trailing from her arms, holding a leafy branch staff.
 ---
 
 ![Demetria](../../../assets/sessions/004/004_demetria.webp)

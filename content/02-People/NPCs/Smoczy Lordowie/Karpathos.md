@@ -4,6 +4,7 @@ also_in:
   - Arezja
 aliases:
   - Wilczy Lord
+image_prompt: undead vampire lord male, appearing in his forties, tall powerful build, ashen grey skin, gaunt face, pointed ears, glowing pale blue eyes, bared fangs, dark hair slicked back from a widow's peak, wearing ornate black plate armour with round engraved shoulder bosses and a belt buckle shaped like a dragon skull, a high-collared torn crimson cloak, holding a dark staff of two intertwined serpentine dragons with glowing red eyes.
 ---
 
 ![Karpathos](../../../assets/people/karpathos.webp)

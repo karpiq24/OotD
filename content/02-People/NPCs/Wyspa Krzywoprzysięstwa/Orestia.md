@@ -3,7 +3,7 @@ title: Orestia
 race: Satyryca
 gender: Kobieta
 occupation: Była Magini Akademii Mytros
-image_prompt:
+image_prompt: satyr female, ageless-looking woman around thirty despite more than a century of imprisonment, curvy shapely build, warm brown skin, a pair of large curled ram horns, small pointed goat-like ears, long voluminous curly dark brown hair, dark eyes with a sly confident look, wearing a draped orange and cream chiton with a high slit and a flowing orange shawl, a broad gold collar necklace, gold armbands and bracelets, a gold fringed belt, gold earrings, embroidered leather boots, iron shackles with chains on her wrists.
 ---
 
 ![Orestia](../../../assets/people/orestia.webp)

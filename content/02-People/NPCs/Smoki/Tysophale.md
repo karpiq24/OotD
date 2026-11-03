@@ -3,6 +3,7 @@ title: Tysophale
 also_in:
   - Smoczy Lordowie
   - Pięciu Bogów
+image_prompt: adult female bronze dragon, powerful yet graceful build, warm copper-bronze scales, bright green eyes, two long horns curving backwards and a crest of scaled frills, a row of spines along the back, large bronze wings with clawed joints, a long tail ending in a spiked curl.
 ---
 
 ![Tysophale](../../../assets/people/tysophale.webp)

@@ -1,5 +1,6 @@
 ---
 title: Noland
+image_prompt: criosphinx, male, ram-headed winged sphinx with the body of a lean lion with grey-brown fur and a shaggy rust-brown mane on the neck and chest, a goat-like ram head with a grey muzzle, two tall ridged backswept horns and a pair of curled ram horns at the sides, large ragged grey-brown feathered wings, a long lion tail ending in a pale tuft, stern grim expression.
 ---
 
 ![Noland](../../../assets/people/noland.webp)

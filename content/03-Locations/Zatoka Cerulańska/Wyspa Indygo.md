@@ -36,3 +36,5 @@ W [[Sesja 84 - Świt Nowej Ery]] okazała się ulubioną wyspą [[Arevon Elorren
 
 ## Po wojnie
 Działa tu bar sieci [[Super Bar|Warlock Circus Super Bar]] [[Orestes|Orestesa]] i filia [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]], którą prowadzi [[Brenna]].
+
+W [[Sesja 85 - Cienie nad Arezją]] przy plaży, niedaleko zakotwiczonej [[Tranquility]], cumowały dwie galery Neurdagonów i płaskodenny statek z [[Arezja|Arezji]]: oba miasta negocjowały z [[Plemię Wieloryba|Plemieniem Wieloryba]] dostawy żelaza, a wódz [[Delg]] utrzymał podział urobku między nie.

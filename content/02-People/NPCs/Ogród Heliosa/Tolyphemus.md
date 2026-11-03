@@ -1,5 +1,6 @@
 ---
 title: Tolyphemus
+image_prompt: cyclops male, very old and large, deeply wrinkled cracked ruddy-brown skin, a single huge blind eye in the middle of the face, milky white with no pupil, a long vertical scar across the bald forehead and smaller cracks and scars on the cheeks, heavy grey brows, a broad bulbous nose, large pointed ears, long thick grey-white hair at the sides, a huge flowing grey beard and mustache with two braids bound by engraved square gold beads.
 ---
 
 ![Tolyphemus](../../../assets/people/tolyphemus.webp)

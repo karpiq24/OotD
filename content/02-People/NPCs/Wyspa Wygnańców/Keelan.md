@@ -1,5 +1,6 @@
 ---
 title: Keelan
+image_prompt: human man around forty, broad strong former soldier build, weathered tanned skin, short messy dark brown hair, a short dark beard, a fresh red scar slashing down across the forehead and eyebrow, cold hard amber eyes under a heavy brow, hateful scowl, wearing a worn sleeveless olive-green tunic with a high open collar over a dark shirt, crossed leather straps with iron buckles, frayed sleeves, cuts on the arms, brown leather wraps on the forearms with iron bands, baggy patched brown trousers and leather-wrapped boots.
 ---
 
 ![Keelan](../../../assets/people/keelan.webp)

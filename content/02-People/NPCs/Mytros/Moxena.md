@@ -5,6 +5,7 @@ also_in:
   - Amazonki
 aliases:
   - Pani Monet
+image_prompt: medusa female who looks in her thirties, slender, pale fair skin, delicate face with red lipstick, a few small dark dots painted across the forehead, cold crimson-red eyes with dark lashes, blonde hair barely visible at the brow, small golden-scaled serpents with red eyes emerging from under her hood and coiling around her neck and shoulders, wearing a deep white hood and cloak, a sheer dark veil covering the lower half of the face, and a black high-collared robe beneath.
 ---
 
 ![Moxena](../../../assets/sessions/022/022_moxena.webp)
@@ -46,3 +47,5 @@ W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] została wymieniona jako kandyda
 
 ### Po wojnie
 [[Felicjan Janus Twardowski|Felicjan]] chciał ją zwerbować do [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]]: mało kto w Thylei wie tyle co ona i mało kto potrafi tak długo milczeć. Moxena odmówiła i została na [[Themis]], choć [[Darien]], której doradzała, zginęła w wojnie. Z Zakonem łączą ją jednak przyjacielskie stosunki.
+
+Odmówiła też pomocy w budowie siatki szpiegowskiej Felicjana w [[Arezja|Arezji]], która bez niej radzi sobie słabo ([[Sesja 85 - Cienie nad Arezją]]).

@@ -1,5 +1,6 @@
 ---
 title: Bilatro
+image_prompt: elder sphinx, female, tall winged sphinx with a lithe humanoid torso and feline lion legs and paws, smooth blue-grey skin, stern ageless face with pale blank eyes, long flowing grey-green hair, huge feathered wings in dark brown and fiery orange, a long thin lion tail with a pale tuft, wearing silver-grey armoured vestments with engraved runic bands, large oval sapphire cabochons on the chest, shoulders and hips, a jeweled headdress with a blue stone on her brow, long engraved ribbon-like sashes.
 ---
 
 ![Bilatro](../../../assets/people/bilatro.webp)

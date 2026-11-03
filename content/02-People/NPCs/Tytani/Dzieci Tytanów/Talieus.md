@@ -1,5 +1,6 @@
 ---
 title: Talieus
+image_prompt: titan male, handsome and arrogant, looking like a young man of about thirty, tall powerful build, bronzed skin, long black hair gathered in a high topknot bound with a pale blue band, loose strands framing the face, black painted markings around the eyes and down the nose, a glowing red third eye with a slit pupil in the centre of the forehead, green eyes, a black mustache and long pointed goatee, wearing a dark robe with a pale blue patterned collar and black diamond-shaped studs.
 ---
 
 ![Talieus](../../../../assets/people/talieus.webp)

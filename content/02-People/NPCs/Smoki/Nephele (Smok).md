@@ -5,6 +5,7 @@ also_in:
   - Mytros
 aliases:
   - Matka Smoków
+image_prompt: huge adult female silver dragon, majestic powerful build, gleaming silver scales, a crown of tall golden-tipped horns and spikes, overlapping gold-edged plates along the neck, chest and spine, fierce amber eyes, broad pale silver wings with clawed tips, frost crystals forming around the claws.
 ---
 
 ![Nephele (Smok)](../../../assets/people/nephele_smok.webp)

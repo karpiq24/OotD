@@ -1,5 +1,6 @@
 ---
 title: Fekaliusz
+image_prompt: huge sewage elemental, a hulking humanoid torso rising from a swirling pool of filth, its body made of dripping brown sludge and excrement streaked with green slime and clumps of moss and muck, long arms ending in clawed dripping hands, a lumpy head with glowing green eyes and a gaping mouth, filth splattering off its body.
 ---
 
 ![Fekaliusz](../../../assets/people/fekaliusz.webp)

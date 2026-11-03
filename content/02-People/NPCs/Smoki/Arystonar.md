@@ -2,6 +2,7 @@
 title: Arystonar
 also_in:
   - Smoczy Lordowie
+image_prompt: adult male bronze dragon, noble proud build, polished golden-bronze scales, bright green eyes, crystal-like faceted bronze spikes on the head, shoulders and tail, glowing turquoise spiral rune markings on the forelegs and flank, large wings with deep blue inner membranes edged with gold wave-pattern filigree.
 ---
 
 ![Arystonar](../../../assets/people/arystonar.webp)

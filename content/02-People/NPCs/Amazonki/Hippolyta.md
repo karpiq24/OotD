@@ -2,9 +2,12 @@
 title: Hippolyta
 aliases:
   - Hipolita
+image_prompt: middle-aged female elf, tall, powerfully muscular build with defined abs and old scars, pointed ears, short swept-back silver-blond hair, a weathered lined face, a fierce scowl, wearing dark spiked armour of leather and steel with gold edging, a strapped chest wrap, spiked pauldrons and spiked vambraces, a blue patterned loincloth, quilted thigh guards and wrapped leggings, barefoot, wielding two long curved sickle-like blades, Amazon warrior.
 ---
 
-![Hippolyta](../../../assets/people/hippolyta.webp)
+| ![Hippolyta piętnaście lat po wojnie](../../../assets/people/hippolyta_po_wojnie.webp) | ![Hippolyta w czasie wojny](../../../assets/people/hippolyta.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Przywódczyni plemienia Lwicy, po śmierci [[Darien]] regentka [[Themis]]._
 

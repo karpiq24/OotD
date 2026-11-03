@@ -1,5 +1,6 @@
 ---
 title: Samuel
+image_prompt: dwarf male, very old, in his late age, deeply wrinkled weathered ruddy skin covered with age spots, a big bulbous red nose, small pale blue watery eyes under bushy white brows, balding head with wispy long white hair at the sides, a long thin wispy white beard and drooping mustache, a small silver ring in one ear, wearing a heavy dark fur-trimmed cloak over a worn leather jerkin and an old rusty chain-mail shirt.
 ---
 
 ![Samuel](../../../assets/people/samuel.webp)

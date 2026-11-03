@@ -1,5 +1,6 @@
 ---
 title: Heleka
+image_prompt: female sea hag, gaunt hunched skeletal build, slick sickly grey-green skin, a hideous wrinkled face with a wide mouth full of jagged teeth and a cruel grin, glowing pale blue eyes, very long tangled dark green hair hanging like wet seaweed, long bony arms with clawed hooked fingers, wearing a tattered dark blue-grey shift draped with strands of seaweed.
 ---
 
 ![Heleka](../../../assets/people/heleka.webp)

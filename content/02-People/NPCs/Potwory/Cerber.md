@@ -3,7 +3,7 @@ title: Cerber
 race: Piekielny Pies
 gender: 
 occupation: Strażnik
-image_prompt:
+image_prompt: cerberus, a huge three-headed hellhound, massive wolf-like body covered in shaggy jagged black fur and spines, glowing molten orange-gold cracks and embers showing through the fur, three snarling heads with long jaws full of jagged teeth, burning yellow eyes, fiery breath glowing in the mouths, a long thin whip-like tail, broken iron chains hanging from its neck and legs.
 ---
 
 ![Cerber](../../../assets/people/cerber.webp)

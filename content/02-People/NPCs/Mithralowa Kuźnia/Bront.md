@@ -1,5 +1,6 @@
 ---
 title: Bront
+image_prompt: cyclops male, elderly huge giant, massive heavy build, weathered grey-tan skin, a single large glowing yellow eye in the middle of his forehead, heavy brow, a long thick white-grey beard and moustache, wearing a dark iron helmet with large curved crescent horns, heavy dark plate armour with layered pauldrons and a black mantle.
 ---
 
 ![Bront](../../../assets/people/bront.webp)

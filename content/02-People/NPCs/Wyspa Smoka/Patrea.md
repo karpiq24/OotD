@@ -2,6 +2,7 @@
 title: Patrea
 also_in:
   - Ultros
+image_prompt: female wood elf jungle warrior, athletic muscular build, tanned skin, fierce face with bared teeth, long pointed ears, black hair pulled back into two long braids bound with cord and tufted ends, a feather in the hair, piercing amber-orange eyes, bold black war-paint stripes across the forehead, eyes and chin, wearing dark scaled leather armour with spiked pauldrons trimmed with green leaves, a skirt of ragged leaf-covered strips, dark leather bracers and knee guards, carrying a long iron-headed spear.
 ---
 
 ![Patrea](../../../assets/people/patrea.webp)

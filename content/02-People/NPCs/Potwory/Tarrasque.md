@@ -1,5 +1,6 @@
 ---
 title: Tarrasque
+image_prompt: tarrasque, a colossal bipedal reptilian monster as tall as a castle tower, thick rust-red armoured scales on the back, limbs and tail, a pale grey-white leathery belly and throat, enormous long reddish horns sweeping back from the head and a crest of huge spikes along the spine and shoulders, small glowing amber eyes, a wide jaw full of jagged teeth, massive clawed forearms, a long spiked tail.
 ---
 
 ![Tarrasque](../../../assets/sessions/065/065_tarrasque.webp)

@@ -1,5 +1,6 @@
 ---
 title: Decima
+image_prompt: ancient hag woman of monstrous nature, powerfully built body, ashen grey skin hard and cracked like granite, one empty eye socket in a grinning face, a mouth of metallic teeth, a crown of writhing metallic serpents coiled through wild dark hair, wearing a ragged dark sleeveless tunic crossed with studded leather straps and belts, tattered black cloth trailing behind her, bare feet.
 ---
 
 ![Decima](../../../assets/people/decima.webp)

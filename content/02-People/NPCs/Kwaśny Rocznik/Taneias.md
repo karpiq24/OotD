@@ -1,5 +1,6 @@
 ---
 title: Taneias
+image_prompt: human male in his thirties, strong lean build, sun-tanned weathered skin, rugged handsome face with a stern piercing look, striking violet eyes, long wavy dark brown hair, short stubble beard, wearing a dark weathered leather cloak and armour patched with reddish-brown scaly boar-like hide, a necklace of animal fangs and claws, a quiver of grey-feathered arrows on his back, a curved hunting knife at his belt, carrying a longbow.
 ---
 
 ![Taneias](../../../assets/people/taneias.webp)

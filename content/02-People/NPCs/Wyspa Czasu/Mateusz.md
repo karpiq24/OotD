@@ -1,5 +1,6 @@
 ---
 title: Mateusz
+image_prompt: large talking raven, glossy blue-black plumage with a faint purple sheen, sharp curved black beak, bright glowing sapphire-blue eyes, ruffled throat feathers, strong dark talons, an alert shrewd look.
 ---
 
 ![Mateusz](../../../assets/people/mateusz.webp)

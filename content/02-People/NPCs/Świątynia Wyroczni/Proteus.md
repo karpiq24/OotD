@@ -1,5 +1,6 @@
 ---
 title: Proteus
+image_prompt: elderly human man in his eighties, sturdy slightly stooped build, weathered deeply wrinkled skin, bald head, a long grey-white beard, gentle but piercing dark eyes, wise grave expression, wearing layered robes of deep red and rust with a hood, a gold-embroidered ochre mantle over the shoulders, a white inner tunic, a bronze amulet on a chain, carrying an open book and a scroll.
 ---
 
 ![Proteus](../../../assets/people/proteus.webp)

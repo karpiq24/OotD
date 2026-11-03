@@ -1,5 +1,6 @@
 ---
 title: Aegis
+image_prompt: human male, extremely old, gaunt emaciated but wiry build with visible ribs and long bony limbs, wrinkled leathery grey-brown skin, bald crown with wisps of long thin white hair at the sides, long scraggly white beard, deep-set dark tired eyes under heavy brows, wearing only a ragged greenish loincloth, barefoot.
 ---
 
 ![Aegis](../../../assets/sessions/039/039_aegis.webp)

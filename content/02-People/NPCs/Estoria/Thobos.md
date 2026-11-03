@@ -1,5 +1,6 @@
 ---
 title: Thobos
+image_prompt: halfling male, middle-aged, small stocky build, light tan skin, round face with ruddy cheeks, a thin curled moustache and a small goatee, short wavy black hair, dark eyes, wearing a long dark purple-grey frock coat with green piping, an embroidered olive-gold waistcoat over a teal ruffled shirt and a red patterned cravat, black and olive vertically striped knee breeches, embroidered gaiters, large bare hairy feet.
 ---
 
 ![Thobos](../../../assets/sessions/006/006_thobos.webp)

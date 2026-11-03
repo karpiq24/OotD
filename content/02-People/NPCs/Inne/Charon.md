@@ -1,5 +1,6 @@
 ---
 title: Charon
+image_prompt: towering gaunt skeletal undead figure, a deep hood shadowing a dark skull-like face lit by glowing violet eyes, wisps of violet smoke curling from the mouth, long robes of deep purple and black with gold trim, a heavy gold collar and breastplate hung with a braided gold chain and many gold obol coins, pale bony grey hands with gold bracelets, a coin pouch with a skull ornament at the belt, carrying a tall oar with a long gilded blade.
 ---
 
 ![Charon](../../../assets/people/charon.webp)

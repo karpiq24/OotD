@@ -3,6 +3,7 @@ title: Steros
 also_in:
   - Praxys
   - Mytros
+image_prompt: male cyclops of the rare small jancan kind, only slightly taller than a man, stocky craftsman build, ten fingers on each hand, a single large amber eye in the middle of his face, weathered ruddy skin, swept-back grey-white hair, a thick full grey beard and moustache, a red chevron mark painted on the forehead above the eye, a brass-rimmed magical monocle lens on a braided leather headband pushed up on the brow, wearing a hooded tan-brown smithing cloak over a dark tunic, a tooled red-leather baldric with knotwork pattern and a silver horned-skull buckle with heavy rings.
 ---
 
 ![Steros](../../../assets/people/steros.webp)

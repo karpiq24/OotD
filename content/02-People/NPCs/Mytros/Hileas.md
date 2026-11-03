@@ -1,5 +1,6 @@
 ---
 title: Hileas
+image_prompt: human male, ancient Greek hoplite commander, muscular build, tanned skin, face hidden by a bronze Corinthian helmet with a tall transverse horsehair crest in maroon and cream, bronze muscle cuirass and shoulder guards, bronze greaves, carrying a large round bronze aspis shield with a red and white sawtooth rim and a red stripe, and a short leaf-bladed sword.
 ---
 
 ![Hileas](../../../assets/people/hileas.webp)

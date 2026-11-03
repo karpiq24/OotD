@@ -2,6 +2,7 @@
 title: Cronos
 aliases:
   - Kronos
+image_prompt: androsphinx with the body of a great tawny lion and huge feathered wings in magenta, purple and coral tones that shimmer with a starry night-sky glow, a stern bearded human male face with pale grey-blue skin and deep-set eyes, a long white beard braided and threaded with many orange and white beads, a bronze crested headdress with a tall golden crescent rising behind the head, a deep blue tabard with pale lunar symbols draped over the chest.
 ---
 
 ![Cronos](../../../assets/people/cronos.webp)

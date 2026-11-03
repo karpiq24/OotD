@@ -1,5 +1,6 @@
 ---
 title: The Keeper
+image_prompt: ultroloth fiend, tall thin humanoid, smooth mottled olive-green skin, elongated bulbous hairless head, a featureless face without nose or mouth, two glowing pale yellow eyes, long thin limbs with clawed fingers and bare clawed feet, wearing a long tattered lavender-purple open robe with gold geometric trim, a brown leather mantle over the shoulders, a pale blue cloth wrap at the waist, a fang pendant on a cord, a metal gauntlet on one forearm.
 ---
 
 ![Ultroloth](../../../assets/sessions/066/066_ultroloth.webp)

@@ -2,6 +2,7 @@
 title: Taureus
 aliases:
   - Mistrz Żywiołów
+image_prompt: male minotaur, huge and wide even for a minotaur, mountainous muscular build, reddish brown fur, a bull head with large cream-coloured upswept horns, small fierce eyes and an old scar over one eye, a gold hoop earring in one ear, a wide loud laughing grin, wearing a long maroon tunic richly embroidered with gold scrollwork, polished golden pauldrons and golden bracers, a broad leather belt hung with fat coin pouches, a tufted bull tail, holding a twisted wooden staff topped with a glowing blue crystal.
 ---
 
 ![Taureus](../../../assets/sessions/063/063_taureus.webp)

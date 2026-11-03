@@ -1,5 +1,6 @@
 ---
 title: Haidee
+image_prompt: female halfling shopkeeper in her thirties, small petite build, fair skin with rosy cheeks, large bright blue eyes, an eager wide-eyed curious expression, shoulder-length curly auburn hair, slightly pointed ears, wearing a white linen shirt with rolled sleeves under a laced brown leather vest, loose olive green trousers rolled at the ankles, bare feet.
 ---
 
 ![Haidee](../../../assets/sessions/062/062_Haidee.webp)

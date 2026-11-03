@@ -1,5 +1,6 @@
 ---
 title: Skathon
+image_prompt: undead elf male, ghostly scholar, tall gaunt emaciated build, decaying pallid grey-violet skin with rotting patches, ribs exposed through torn flesh on the chest, long pointed ears, long straight white hair, blank white eyes, sunken cheeks and bared yellowed teeth, wearing tattered layered green and beige robes covered in dry autumn leaves and moss, a woven cord belt, a ring on one finger, carrying a twisted gnarled wooden staff sprouting leaves and twigs.
 ---
 
 ![Skathon](../../../assets/people/skathon.webp)

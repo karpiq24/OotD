@@ -1,5 +1,6 @@
 ---
 title: Talos
+image_prompt: colossal bronze construct many times the height of a man, shaped like a heroic hoplite warrior with a perfectly sculpted muscular body, burnished bronze surface with a golden sheen, a Corinthian helmet with a tall crest hiding the face, a muscled bronze cuirass with spiral motifs, a skirt of bronze pteruges, bronze bracers and greaves, holding an enormous long bronze spear.
 ---
 
 ![Talos](../../../assets/people/talos.webp)

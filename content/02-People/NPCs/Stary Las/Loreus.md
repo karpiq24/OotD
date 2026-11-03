@@ -1,5 +1,6 @@
 ---
 title: Loreus
+image_prompt: young adult male satyr, slim boyish build, fair skin, gentle lovesick expression, soft blue eyes, a faint reddish stubble beard, thick tousled golden-brown hair, a pair of dark curved ram horns with reddish tint, furry goat ears, bare chest with fuzzy brown fur on the shoulders and lower body, goat legs and hooves, a dark green cloth at the waist, holding a single red rose.
 ---
 
 ![Loreus](../../../assets/people/loreus.webp)

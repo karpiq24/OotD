@@ -2,9 +2,12 @@
 title: Laertes
 aliases:
   - Mistrz Spokoju
+image_prompt: elderly male, lean frame, deeply wrinkled weathered tan skin, long white hair, a long white beard and mustache ending in a braid, calm pale grey eyes, a serene expression, wearing a dark olive-green robe with gold-embroidered trim over loose ochre trousers, a long wooden prayer-bead necklace with a round bronze medallion, barefoot, holding a small olive between two fingers, contemplative monk master.
 ---
 
-![Laertes](../../../assets/people/laertes.webp)
+| ![Laertes piętnaście lat po wojnie](../../../assets/people/laertes_po_wojnie.webp) | ![Laertes w czasie wojny](../../../assets/people/laertes.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Wielki Mistrz Spokoju (Tranquility), starzec poszukujący idealnej oliwki._
 

@@ -1,5 +1,6 @@
 ---
 title: Kalisto
+image_prompt: human female in her thirties, curvy build, warm lightly tanned skin, soft oval face with a faint smile, hazel-brown eyes, thick golden-blonde hair in two long braids crowned with a gold laurel wreath, wearing a sleeveless white chiton with a deep neckline and gold trim, bronze disc clasps on the shoulders, an ornate bronze belt under the bust, a long white cape falling from the shoulders.
 ---
 
 ![Kalisto](../../../assets/sessions/066/066_kalisto.webp)

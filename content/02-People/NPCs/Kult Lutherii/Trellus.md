@@ -2,6 +2,7 @@
 title: Trellus
 also_in:
   - Mytros
+image_prompt: human male in his thirties, tall slim build, pale skin, sharp handsome face with a cold stern gaze, long straight black hair, a gold diadem with an arched crest over the brow and spiral ram-like curls at the temples, wearing a fitted high-collared deep violet coat with silver piping, a dark purple cloak with a thick grey fur mantle over one shoulder, black leather bracers and a heavy black belt with an ornate buckle.
 ---
 
 ![Trellus](../../../assets/people/trellus.webp)

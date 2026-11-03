@@ -28,3 +28,5 @@ W [[Sesja 84 - Świt Nowej Ery]] [[Felicjan Janus Twardowski|Felicjan]] zdobył 
 
 ## Po wojnie
 Wyspa jest siedzibą odbudowanego [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]]. Wielką bibliotekę glinianych tabliczek Zakon dzieli z [[Akademia Mytros|Akademią Mytros]]. Mieszka tu [[Felicjan Janus Twardowski|Felicjan]] z rodziną: [[Melania Twardowska|Melania]] założyła na wyspie świątynię Mytros, a kuźnia ojca Felicjana pracuje dla Zakonu. Nad urwiskami krążą smoki Zakonu: [[Kairos]], [[Paradoks]], [[Chh'Krtak]] i młoda [[Ataraksja]]. Działa tu też bar [[Super Bar|WCSB]] [[Orestes|Orestesa]]. Na steli stoją imiona przyjaciół Zakonu z różnych miast (proksenoi).
+
+W [[Sesja 85 - Cienie nad Arezją]] na dziedzińcu Zakonu lądowała [[Ataraksja]] z [[Corinna|Corinną]], a [[Aleksander Twardowski|Aleksander]] siedział na grzbiecie [[Paradoks|Paradoksa]]. [[Felicjan Janus Twardowski|Felicjan]] ukrył na wyspie [[Portret Karpathosa]], zabezpieczony zaklęciem *Sequester* i hasłem, a [[Edran]] został tu, by korzystać z biblioteki.

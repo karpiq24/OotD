@@ -2,6 +2,7 @@
 title: Dengran
 also_in:
   - Ultros
+image_prompt: human male in his forties, lean wiry build, weathered tanned skin with deep laugh lines, a small scar on one cheek, sly lopsided grin, narrowed pale blue-grey eyes, long wavy black hair slicked back with loose unkempt strands falling over the forehead, a thin black mustache and a small goatee with dark stubble, scruffy and unwashed, wearing a dark red coat with a high collar over a loose open-necked off-white shirt, a worn leather bandolier with brass buckles across the chest and a scuffed steel pauldron.
 ---
 
 ![Dengran](../../../assets/people/dengran.webp)

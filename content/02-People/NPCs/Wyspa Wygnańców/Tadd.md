@@ -1,5 +1,6 @@
 ---
 title: Tadd
+image_prompt: male halfling, small stocky build, middle-aged, ruddy weathered skin, wild unkempt brown hair sticking out in all directions, a long bushy tangled brown beard, wide staring bloodshot green eyes, a frantic manic expression, a small scar on one cheek, wearing a ragged patched brown leather jerkin laced at the front over a torn olive shirt, a wide leather belt with an iron buckle, worn leather wrist straps, smudges of wood dust on his clothes.
 ---
 
 ![Tadd](../../../assets/sessions/045/045_tad.webp)

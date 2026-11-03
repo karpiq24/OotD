@@ -3,6 +3,7 @@ title: Garzoon
 race: Cyklop
 gender: Mężczyzna
 occupation: Strażnik Kuźni w Praxys
+image_prompt: giant one-eyed cyclops male of middle age, towering hugely muscular build, weathered grey-brown skin, bald head, a single large suspicious green eye in the middle of the forehead framed by an ornate golden brow band, wide snarling mouth with jagged teeth, a few lank grey strands at the back of the head, a single spiked leather pauldron on one shoulder, a scaled iron arm guard and spiked gauntlet on one arm, a gold bracer on the other wrist, a chain necklace, a ragged dark red loincloth on a belt with a skull buckle, heavy leather boots, carrying a huge iron forge hammer and a crucible of molten metal.
 ---
 
 ![Garzoon](../../../assets/people/garzoon.webp)

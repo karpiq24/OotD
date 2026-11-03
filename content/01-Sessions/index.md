@@ -88,3 +88,4 @@ cover: ../assets/sessions/082/082_theme_seven_reflections.webp
 - [[Sesja 82 - Bitwa o Mytros: Śmierć Pani Snów|Sesja 82: Bitwa o Mytros: Śmierć Pani Snów]]
 - [[Sesja 83 - Zmierzch Ery Tytanów|Sesja 83: Zmierzch Ery Tytanów]]
 - [[Sesja 84 - Świt Nowej Ery|Sesja 84: Świt Nowej Ery]]
+- [[Sesja 85 - Cienie nad Arezją|Sesja 85: Cienie nad Arezją]]

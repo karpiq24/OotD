@@ -3,6 +3,7 @@ title: Sybolkorax
 also_in:
   - Smoczy Lordowie
   - Pięciu Bogów
+image_prompt: ancient male bronze dragon, massive heavy armoured build, thick dark bronze scales textured like hammered cast metal, glowing bright blue eyes, a broad head crowned with many curved horns, heavy spiked crest, thick spiked tail, large dark wings with rusty red inner membranes, huge clawed feet.
 ---
 
 ![Sybolkorax](../../../assets/people/sybolkorax.webp)

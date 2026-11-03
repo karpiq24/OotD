@@ -1,5 +1,6 @@
 ---
 title: Groonar
+image_prompt: goat-headed satyr male, tall lean build, white-furred goat face with a short muzzle, glowing amber-orange eyes, large golden ridged curling ram horns, shaggy brown mane, wearing a dark tunic with a chevron pattern, ornate black and gold pauldrons and gold-trimmed bracers, a long black loincloth panel embroidered with gold, shaggy dark brown furred goat legs ending in cloven hooves, large headphones hanging around his neck.
 ---
 
 ![Groonar](../../../assets/people/groonar.webp)

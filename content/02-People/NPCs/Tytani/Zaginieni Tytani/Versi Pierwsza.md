@@ -2,6 +2,7 @@
 title: Versi Pierwsza
 also_in:
   - Bohaterowie
+image_prompt: primordial titan female, tall regal woman of ageless appearance around forty, statuesque build, pale blue skin, glowing pale blue eyes without pupils, dark blue lips, stern serene face, very long straight white hair falling past her waist, a thin gold circlet with a central ornament on her brow, wearing a flowing deep blue pleated gown with wide draped sleeves and a long cape, a broad engraved gold collar, gold shoulder clasps set with turquoise stones, a wide sculpted gold belt with spiral motifs, gold-trimmed hems, thin gold bracelets.
 ---
 
 ![Versi Pierwsza](../../../../assets/people/versi_pierwsza.webp)

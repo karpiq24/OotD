@@ -3,6 +3,7 @@ title: Hexia
 also_in:
   - Smoczy Lordowie
   - Wyspa Smoka
+image_prompt: ancient female green dragon, enormous long serpentine body, emerald and jade scales overgrown with moss in places, a narrow horned head with a crest of long spikes and frills, a row of leaf-like spines running down the back and the very long coiling tail, huge green membranous wings with dark claws at the joints, long curved black talons.
 ---
 
 ![Hexia](../../../assets/people/hexia.webp)

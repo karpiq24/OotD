@@ -2,6 +2,7 @@
 title: Wielki Dzik
 aliases:
   - Mroczny Dzik
+image_prompt: giant boar, ancient and monstrous, huge as a bull, coarse black bristly hide, a fiery purple mane running along its spine, four long curved sickly green tusks, mad glowing yellow eyes, a scarred snout, many broken spears and arrows still stuck in its back from failed hunts.
 ---
 
 ![Wielki Dzik](../../../assets/people/wielki_dzik.webp)

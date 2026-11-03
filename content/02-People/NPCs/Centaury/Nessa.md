@@ -2,6 +2,7 @@
 title: Nessa
 also_in:
   - Mytros
+image_prompt: female centaur in her early thirties, slim graceful build, human torso on a chestnut brown horse body with white socks and a dark brown tail, fair skin with a light tan, a warm cheerful smile, hazel eyes, long wavy chestnut brown hair worked into one long thick side braid tied with a ribbon, a wreath of wildflowers in her hair, wearing a short-sleeved cream linen tunic with gold Greek key embroidery on the hem and neckline, a braided gold cord sash tied at the waist, gold bangles and bracelets on her wrists.
 ---
 
 ![Nessa](../../../assets/people/nessa.webp)

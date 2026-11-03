@@ -2,6 +2,7 @@
 title: Idylla
 also_in:
   - Mytros
+image_prompt: human woman in her seventies, slender and upright with a dignified bearing, still strikingly beautiful and well-kept, fair lightly lined skin, short wavy silver-white hair, grey-green eyes, composed calculating expression, wearing a white chiton with a thin shoulder strap and a deep blue and ochre himation draped over one shoulder, an ornate filigree gold collar necklace with a teardrop green-blue stone pendant and matching gold drop earrings.
 ---
 
 ![Idylla](../../../assets/sessions/045/045_idylla.webp)

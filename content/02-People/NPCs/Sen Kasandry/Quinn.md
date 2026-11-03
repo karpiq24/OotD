@@ -2,6 +2,7 @@
 title: Quinn
 also_in:
   - Ultros
+image_prompt: elf or half-elf male in his thirties, slim build, pale skin, pointed ears, smug self-satisfied smile, dark narrowed eyes, sharp cheekbones, shoulder-length wavy black hair, clean-shaven, wearing a once-grand nobleman's outfit, a navy blue long coat with gold embroidered lapels over a crimson waistcoat with brass buttons, a frilled white cravat and lace cuffs and dark leather gloves, now frayed, salt-stained and hung with strands of seaweed.
 ---
 
 ![Quinn](../../../assets/sessions/036/quinn.webp)

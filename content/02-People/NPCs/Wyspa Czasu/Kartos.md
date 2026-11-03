@@ -1,5 +1,6 @@
 ---
 title: Kartos
+image_prompt: androsphinx, male, body of a white lion with pale grey fur, a stern male face with sharp bird-like features and a hooked beak-like nose, glowing pale blue eyes, wearing a green and gold striped nemes headdress topped with a gold crescent moon, a gold scale collar over the chest, gold cuffs on his forelegs, large tattered wings of white and lilac feathers darkening to grey at the tips.
 ---
 
 ![Kartos](../../../assets/people/kartos.webp)

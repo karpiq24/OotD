@@ -2,6 +2,7 @@
 title: Narsus
 aliases:
   - Bóg Piękna
+image_prompt: male god of beauty with the look of a youth of about twenty, slender lithe build, flawless smooth fair skin, an inhumanly beautiful face with a cool aloof vain expression, striking bright green eyes, tousled curly golden blond hair, swirling teal tattoos along one arm, wearing a draped emerald green chiton, a golden pauldron of overlapping feathers on one shoulder fastened with a round gold brooch, a long royal blue cloak, a gold armband, and a blue and gold embroidered belt with tassels and small gold pendants.
 ---
 
 ![Narsus](../../../assets/people/narsus.webp)
@@ -34,3 +35,5 @@ W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]] nazwał go największy
 
 ## Po wojnie
 Z dawnych bogów najciszej jest o nim. Siedzi schowany w [[Arezja|Arezji]] i ubolewa nad utratą Piękna.
+
+W [[Sesja 85 - Cienie nad Arezją]] jego dawne legowisko w [[Wiszące Ogrody|Wiszących Ogrodach]], niegdyś pełne darów, stało puste, a pod [[Galeria Sztuki|Galerią Sztuki]] ludzie wołali: „Gdzie jest Narsus? Chcemy zobaczyć Narsusa!”. Mieszkańcy [[Arezja|Arezji]] domyślają się po wieściach z [[Mytros]], że stracił boskość, ale od pięciuset lat składają mu kwiaty na schodach i wciąż uważają go za boga. Według informatora [[Vallus]] Arezyjczycy pracują nad przywróceniem mu boskości. [[Królowa Helena]] wyjawiła bohaterom, że Narsus doznał objawienia, a jednym z elementów potrzebnych do zaczerpnięcia mocy z pustych boskich domen jest [[Amfora Zakrotha|amfora]] minotaura [[Zakroth|Zakrotha]]. Umówiła ich z Narsusem pod [[Świątynia Tarczy|Świątynią Tarczy]].

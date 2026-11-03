@@ -3,10 +3,12 @@ title: Acastus
 aliases:
   - Akastus
   - Acastus Arkelander
-image_prompt: middle-aged male, muscular build, ancient Greek king, stern expression, dark intense eyes, furrowed brow, short dark hair, a thick black beard and mustache, wearing a golden laurel wreath crown, an ornate golden cuirass with a pauldron shaped like a snarling lion's head, a red cape over his shoulder.
+image_prompt: male in his sixties, muscular broad-shouldered build, a little heavier, former ancient Greek king, stern and shrewd expression, dark intense brown eyes, furrowed brow, deep lines on the forehead and around the eyes, short tousled black hair streaked with grey, a thick black beard and mustache shot through with grey and silver, bareheaded with no crown, wearing a deep red himation with gold borders and a pattern of golden keys draped over both shoulders.
 ---
 
-![Acastus](../../../assets/people/acastus.webp)
+| ![Acastus piętnaście lat po wojnie](../../../assets/people/acastus_po_wojnie.webp) | ![Acastus w czasie wojny](../../../assets/people/acastus.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Były król Mytros, potomek Estora Arkelandera. Po abdykacji w [[Sesja 84 - Świt Nowej Ery|sesji 84]] opuścił miasto, a koronę przekazał żonie, [[Vallus]]._
 
@@ -53,7 +55,5 @@ W [[Sesja 78 - Bitwa o Mytros: Przebudzenie Kolosa]] bohaterowie zastali go w sa
 W [[Sesja 84 - Świt Nowej Ery]] abdykował. Wszedł do sali tronowej już ubrany do drogi, z tobołkiem w ręku, i przekazał koronę [[Mytros]] swojej żonie [[Vallus]]. Miał tylko jedną prośbę — nie prośbę króla, lecz człowieka, który wie, że nie ma już prawa niczego żądać: by ludzi, którzy stanęli po stronie [[Sydon|Sydona]], nie wieszano. Sądy, grzywny, mniej drastyczne kary — cokolwiek, byle nie kolejne trupy. *„Dość już nakarmiliśmy Otchłań"* — stwierdził, dodając od razu, że nikt nie musi tej prośby respektować. Drużyna przystała na umiarkowane czystki, a [[Felicjan Janus Twardowski|Felicjan]] pilnował, by kary nie kończyły się śmiercią. [[Versir]] zasugerował jeszcze, by ustępujący władca oficjalnie uznał [[Felicjan Janus Twardowski|Felicjana]] za odnowiciela [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]] (tytuł, który Acastus sam sobie kiedyś przypisał), ale sam czarodziej machnął na ceremonię ręką i pożegnał Acastusa niemal rozgrzeszeniem: że wykazał się rozsądkiem i schował dumę do kieszeni. Potem były król po prostu odszedł z Mytros.
 
 ## Po wojnie
-
-![Acastus piętnaście lat po wojnie](../../../assets/people/acastus_po_wojnie.webp)
 
 [[Felicjan Janus Twardowski|Felicjan]] pozyskał go dla [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]] jako dyplomatę: były król ma to, czego Felicjanowi brakuje — charyzmę, wyczucie sceny i dar zjednywania ludzi. Jest w tym coś z odkupienia: człowiek, który kiedyś nazwał się Pierwszym wśród Smoczych Lordów, służy wreszcie prawdziwemu Zakonowi. Na zaufanie musiał pracować latami. Nie wszystkim się to podoba: [[Apasia|Apasię]] i [[Alexandros|Alexandrosa]] kiedyś oszukał, a w Zakonie byli przed nim, [[Vallus]] zaś niechętnie patrzy na byłego męża jako twarz Zakonu.

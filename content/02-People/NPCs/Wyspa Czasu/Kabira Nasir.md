@@ -2,6 +2,7 @@
 title: Kabira Nasir
 aliases:
   - Mechaniczny anioł
+image_prompt: mechanical angel construct, female, towering humanoid golem of riveted bronze and brass plates, massive hunched shoulders and long heavy arms ending in clawed metal hands, thick armoured legs, a small domed head set low into the chest armour with a single round glowing white lens eye, a large round amber glass disc on the chest, small spikes along the shoulders, small metal feathered wings sprouting from the upper back.
 ---
 
 ![Kabira Nasir](../../../assets/people/kabira_nasir.webp)

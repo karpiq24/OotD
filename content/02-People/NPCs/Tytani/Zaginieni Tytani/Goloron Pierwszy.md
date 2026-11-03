@@ -12,3 +12,5 @@ Jedno z ośmiorga pierwotnych Tytanów, dzieci [[Thylea|Thylei]] i [[Kentimane|K
 W [[Sesja 61 - Yala, Arezja i Żółw]] we wspomnieniu raju siłował się w braterskiej zabawie z [[Hergeron Pierwszy|Hergeronem]].
 
 W [[Sesja 65 - Wyprawa w Otchłań]] [[Versir]] rozpoznał wyspę z wizji — [[Wyspa Złotego Serca]] z czerwonym jeziorem, gdzie [[Lutheria]] zastawiła pułapkę na swoje rodzeństwo. [[Yala Pierwsza|Yala]] i Goloron zostali tam przemienieni w kamień krwią tysiąca bazyliszków z jeziora.
+
+Po wojnie z Tytanami [[Versir]] szuka go od piętnastu lat i wciąż go nie odnalazł ([[Sesja 85 - Cienie nad Arezją]]).

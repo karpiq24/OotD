@@ -16,3 +16,5 @@ Urodził się po wojnie z [[Tytani|Tytanami]]. Na początku Nowej Ery ma dwanaś
 
 ## Historia
 Tak jak siostra pracuje na rzecz Zakonu (leiturgia), bo zasada obowiązuje wszystkich na wyspie, także dzieci założyciela.
+
+W [[Sesja 85 - Cienie nad Arezją]] wstał przed słońcem i na dziedzińcu Zakonu, siedząc na grzbiecie [[Paradoks|Paradoksa]], czytał na głos list siostry do pracownika z [[Ultros|Ultrosa]], który sam wnosi z nabrzeża pełne beczki. Uciszył ich ojciec.

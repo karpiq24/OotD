@@ -2,6 +2,7 @@
 title: Damon
 also_in:
   - Nekropolia
+image_prompt: undead male wizard, tall gaunt skeletal figure, a skull-like face half veiled by pale wrappings under a deep ragged hood, bony clawed hands, wearing long tattered black robes that fray into shadow at the hem, a dark red stole running down the chest, a collar of bone and gold pendants, holding a tall dark staff topped with a hooked forked blade.
 ---
 
 ![Damon](../../../assets/people/damon.webp)

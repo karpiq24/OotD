@@ -1,5 +1,6 @@
 ---
 title: Aketa
+image_prompt: female tiefling merchant in her late forties, slim confident posture, crimson red skin with a light dusting of freckles, glowing golden eyes, pointed ears, short curly copper auburn hair, a pair of short curved dark brown horns sweeping back from her temples, a small silver drop earring, a sly self-assured smile, wearing a fitted deep blue frock coat embroidered with gold scrollwork on the collar, cuffs and shoulders, a brown brocade waistcoat, a white shirt with a ruffled cravat, a leather belt with a buckle and several leather pouches.
 ---
 
 ![Aketa](../../../assets/sessions/062/062_Aketa.webp)

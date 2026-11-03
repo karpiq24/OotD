@@ -4,9 +4,12 @@ also_in:
   - Wyspa Czasu
 aliases:
   - Paradox
+image_prompt: 'a blue dragon (Dungeons & Dragons chromatic blue dragon). He is now a young adult, almost as big as an adult bronze dragon, sleek and powerful: deep sapphire-blue scales with lighter sky-blue edges, one large nose horn and swept-back horns with an iridescent violet, teal and gold sheen, sharp intelligent yellow eyes, a proud, slightly mischievous look. No saddle: he has never accepted a rider.'
 ---
 
-![Paradoks](../../../assets/sessions/065/065_paradox.webp)
+| ![Paradoks piętnaście lat później](../../../assets/people/paradoks.webp) | ![Paradoks w czasie wojny](../../../assets/sessions/065/065_paradox.webp) |
+|:---:|:---:|
+| Piętnaście lat później | W czasie wojny |
 
 _Niebieski smok wykluty ze Smoczego Jaja na pokładzie Ultrosa._
 
@@ -29,6 +32,4 @@ W [[Sesja 71 - Infiltracja Praxys]] [[Orestes]] próbował zyskać jego lojalno�
 
 W [[Sesja 84 - Świt Nowej Ery]], mimo swojego osobliwego pochodzenia i imienia, rósł zupełnie standardowo. Jedyny, który kiedyś go sobie wybrał, spotkał się z odmową: Orestes wskazał wtedy na Paradoksa, a Paradoks minotaura nie chciał. Felicjan złośliwie przypominał, że Orestes wybrał sobie najtrudniejszego z możliwych wierzchowców.
 
-## Po wojnie
-
-![Paradoks piętnaście lat później](../../../assets/people/paradoks.webp)
+W [[Sesja 85 - Cienie nad Arezją]], już wyrośnięty, nosił na grzbiecie [[Aleksander Twardowski|Aleksandra Twardowskiego]], który na dziedzińcu Zakonu na [[Wyspa Yonder|Wyspie Yonder]] czytał na głos list swojej siostry.

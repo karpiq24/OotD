@@ -2,6 +2,7 @@
 title: Rutger
 also_in:
   - Ultros
+image_prompt: dwarf male in his sixties, short broad stocky build, ruddy weathered skin, a large red bulbous nose, deep forehead wrinkles, heavy bushy grey eyebrows over small grumpy eyes, shaved sides of the head with a short spiky grey crest on top, a long thick grey beard with two small braids, wearing dark worn leather armour with riveted steel pauldrons and a fur collar, leather bracers over thick scarred hands.
 ---
 
 ![Rutger](../../../assets/people/rutger.webp)

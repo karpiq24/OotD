@@ -1,5 +1,6 @@
 ---
 title: Laios
+image_prompt: human male in his forties, lean wiry build of a sailor, weathered tanned skin, lined face with a furrowed brow, wild shoulder-length curly dark brown hair streaked with grey, a short grizzled dark beard and moustache, grey-blue eyes, wearing a torn dark navy sailor tunic with a wide striped collar and a knotted navy neckerchief, sleeves rolled up, carrying a boat hook.
 ---
 
 ![Laios](../../../assets/sessions/039/039_laios.webp)

@@ -1,5 +1,6 @@
 ---
 title: Kraken
+image_prompt: kraken, colossal ancient sea monster, a huge bulbous octopus-like head and mantle with mottled olive-green and brown skin, glowing icy blue eyes under heavy ridged brows, a hooked yellowish beak and a gaping mouth ringed with long jagged fangs, dozens of enormous thick tentacles with pale purple suckers, slimy algae-covered skin.
 ---
 
 ![Kraken](../../../assets/people/kraken.webp)

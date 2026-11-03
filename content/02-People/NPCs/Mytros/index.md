@@ -60,3 +60,5 @@ group: Miasta i krainy
 - [[Aleksander Twardowski]]
 - [[Triya Twardowska]]
 - [[Braz]]
+- [[Dolios]]
+- [[Flavius]]

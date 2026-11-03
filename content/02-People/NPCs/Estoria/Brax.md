@@ -3,6 +3,7 @@ title: Brax
 also_in:
   - Mytros
   - Bohaterowie
+image_prompt: male satyr brewer and innkeeper in his early forties, sturdy friendly build, tanned skin, a broad cheerful grin, warm brown eyes, curly brown hair, a short brown beard, small curled ram horns, furry goat legs with dark hooves, wearing a cream linen shirt with rolled sleeves under a worn brown leather apron with pockets and leather shoulder straps, usually carrying a tray of foaming mugs of beer.
 ---
 
 ![Brax](../../../assets/people/brax.webp)
@@ -28,3 +29,5 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]] przedarł się przez ruiny [[Mytros]] na 
 ![Brax i Nessa przed swoim Warlock Circus Super Barem](../../../assets/people/brax_i_nessa.webp)
 
 Związał się z [[Nessa|Nessą]] i doczekali się dzieci. Prowadzą własny lokal sieci Warlock Circus Super Bar w [[Mytros]], gdzie chętnie zagląda „wujek" [[Orestes]].
+
+W [[Sesja 85 - Cienie nad Arezją]] zarządzał barem na [[Ultros|Ultrosie]] w porcie [[Mytros]], gdzie pod jego opieką praktykował [[Zythion]]. Na widok [[Orestes|Orestesa]] poprawił fartuch i zakrzyknął: „Kapitan na pokładzie!”. Po nieudanym włamaniu do kajuty kapitańskiej dostał od Orestesa złoto na wynajęcie ochrony i polecenie, by rozpuścił wici za sprawcami. O zniknięciu [[Krithon|Krithona]] nie umiał nic powiedzieć.

@@ -1,5 +1,6 @@
 ---
 title: Bella
+image_prompt: human female in her late thirties, slender curvaceous build, fair sun-kissed skin, beautiful soft face, long straight golden-blonde hair crowned with a delicate gold laurel wreath, wearing a short sheer white silk chiton edged with gold embroidery and gold cords, low neckline and bare shoulders, a gold necklace and drop earrings, a gold anklet, barefoot, dressed far too revealingly for the royal court.
 ---
 
 ![Bella](../../../assets/people/bella.webp)

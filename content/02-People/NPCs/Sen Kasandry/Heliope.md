@@ -2,6 +2,7 @@
 title: Heliope
 also_in:
   - Ultros
+image_prompt: human female wizard in her late thirties, slender build, pale fair skin, troubled inquisitive expression with a furrowed brow, large grey-blue eyes, wavy shoulder-length auburn red hair, wearing a deep purple hooded robe draped over the head and shoulders and trimmed with feathers, fastened at the shoulder with a round engraved bronze brooch.
 ---
 
 ![Heliope](../../../assets/people/heliope.webp)

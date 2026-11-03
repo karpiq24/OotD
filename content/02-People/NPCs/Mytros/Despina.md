@@ -3,6 +3,7 @@ title: Despina
 also_in:
   - Bohaterowie
   - Smoczy Lordowie
+image_prompt: human female in her late twenties, slender build, fair skin, beautiful oval face with full red lips, grey-green eyes, thick dark brows, chin-length wavy black hair with a small gold leaf tiara, a haughty look, wearing a slate-blue patterned bodice with a draped grey-violet chiton, an ornate bronze and blue enamel collar necklace, a dark leather wrist cuff.
 ---
 
 ![Despina](../../../assets/people/despina.webp)

@@ -2,6 +2,7 @@
 title: Hezzebal
 also_in:
   - Smoczy Lordowie
+image_prompt: ghost of an adult male brass dragon, translucent ethereal body dissolving into wisps of sickly pale green-grey mist, a faint brass sheen beneath the glow, a horned angular head with glowing green eyes and a jagged jaw, ragged misty wings and a long trailing tail of smoke, sometimes manifesting beside it as an animated brass dragon skeleton.
 ---
 
 ![Hezzebal](../../../assets/people/hezzebal.webp)

@@ -65,3 +65,5 @@ W [[Sesja 84 - Świt Nowej Ery]] ustępujący [[Acastus]] uznał Felicjana za pr
 
 ## Po wojnie
 Przez piętnaście lat Zakon się rozrósł: działają filie, a ludzie, których Felicjan chciał pozyskać, są w Zakonie. Jeźdźcy byłego króla, Apasia i Alexandros, przeszli do niego ze swoimi miedzianymi smokami, Erythrą i Aithonem.
+
+W [[Sesja 85 - Cienie nad Arezją]] [[Taran Neurdagon]], obiecując dalsze finansowanie skrzydła biblioteki, prosił Zakon o smoka z jeźdźcem do ochrony konwojów na [[Półwysep Arezyjski|Półwyspie Arezyjskim]], w rzeczywistości dla pokazu siły pod murami [[Arezja|Arezji]]. [[Felicjan Janus Twardowski|Felicjan]] poleciał tam sam, uprzedziwszy przez człowieka z arezyjskiej filii Zakonu władze miasta, że drużyna przybywa w pokojowych zamiarach; przedstawiciel ostrzegł, że widok smoków na horyzoncie może wzbudzić w napiętym mieście emocje. Z biblioteki Zakonu na [[Wyspa Yonder|Wyspie Yonder]] korzysta [[Edran]].

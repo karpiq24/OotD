@@ -3,10 +3,12 @@ title: Astra
 also_in:
   - Mytros
   - Bohaterowie
-image_prompt: young adult female, slender build, long wavy hair in a half-up style, defined cheekbones, intense dark eyes, a serious expression, wearing a dark high-collared tunic under a dark hooded cloak draped over her shoulders, holding a small glass vial, mysterious mage, dark fantasy character, black and white illustration.
+image_prompt: middle-aged female, slender build, long wavy hair worn loose with a side parting and streaks of grey, defined cheekbones, fine lines around the eyes and mouth, intense light eyes, a faint knowing smile, wearing a dark high-collared tunic under a dark hooded cloak draped over her shoulders, holding a small glass vial between her fingers, mysterious mage, dark fantasy character.
 ---
 
-![Astra](../../../assets/people/astra.webp)
+| ![Astra piętnaście lat po wojnie](../../../assets/people/astra_po_wojnie.webp) | ![Astra w czasie wojny](../../../assets/people/astra.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Członkini Kultu Węża, sojuszniczka i towarzyszka życia Versira._
 
@@ -49,3 +51,5 @@ W [[Sesja 84 - Świt Nowej Ery]] po kilku latach wspólnego, szczęśliwego życ
 ## Po wojnie
 
 Versir powiedział jej wprost, że chciałby, by dzieliła z nim życie w drodze, ale nie będzie jej zatrzymywał, jeśli wybierze spokojny dom. Astra wybrała drogę z nim. Kocha go i trzyma się blisko niego, choć z każdym rokiem widać po niej upływ czasu.
+
+W [[Sesja 85 - Cienie nad Arezją]] w jej włosach widać już srebrne nitki. Na dziobie [[Hypnos|Hypnosa]], przy [[Sześcian Więzienny|Sześcianie Więziennym]], pokazała Versirowi gliniany posążek zabrany z jego nowej kapliczki na nabrzeżu [[Mytros]]. Powiedziała, że nie zawsze będzie przy nim i że to on jest najbardziej godny, by sięgnąć po puste domeny, a przynajmniej powinien zwolnić i odpocząć od poszukiwań [[Goloron Pierwszy|Golorona Pierwszego]] i nowych [[Mojry|Mojr]]. Versir odparł, że nie sięgnie po żadną domenę i nie zatrzyma się, póki nie znajdzie Golorona. Gdy na [[Ultros|Ultrosie]] [[Orestes]] zapytał Versira o potomstwo, zamilkł pod jej świdrującym wzrokiem. Razem z drużyną ruszyła pod [[Arezja|Arezję]] i weszła z nią do miasta.

@@ -16,3 +16,5 @@ Urodziła się po wojnie z [[Tytani|Tytanami]]. Na początku Nowej Ery ma cztern
 
 ## Historia
 Jak każdy na Yonder, także ona i jej brat pracują na rzecz Zakonu (leiturgia): kilka godzin dziennie albo jeden dzień w tygodniu, tak żeby praca nie zjadała nauki.
+
+W [[Sesja 85 - Cienie nad Arezją]] [[Aleksander Twardowski|Aleksander]] czytał na głos na dziedzińcu Zakonu jej list do pracownika z [[Ultros|Ultrosa]], który sam wnosi z nabrzeża pełne beczki. Uciszył ich ojciec.

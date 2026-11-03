@@ -1,5 +1,6 @@
 ---
 title: Machaon
+image_prompt: half-orc male in his fifties, tall and solidly built, grey-green skin, heavy brow, small lower tusks, short dark beard and mustache streaked with grey, deep-set dark eyes, wearing a black hooded scholarly robe over a long black tunic with cream-gold panels and trim, a wide leather belt with pouches and a strap across the chest, holding a heavy open book in one hand and a tall twisted dark wooden staff carved with a serpent and ending in an iron spike.
 ---
 
 ![Machaon](../../../assets/people/machaon.webp)

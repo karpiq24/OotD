@@ -1,5 +1,6 @@
 ---
 title: Calliope
+image_prompt: human female ancient queen in her late thirties, slender build, pale skin, a sorrowful careworn face with sad pale eyes and drawn brows, dark curly hair pinned up in an elegant classical updo, a delicate silver tiara set with pearls, wearing a simple pale draped chiton with a fine embroidered neckline and a light himation wrapped over her shoulders and across her body.
 ---
 
 ![Calliope](../../../assets/people/calliope.webp)

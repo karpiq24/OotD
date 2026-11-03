@@ -2,6 +2,7 @@
 title: Argyn
 also_in:
   - Smoki
+image_prompt: huge adult silver dragon, female, long serpentine neck, gleaming silver scales shading to darker steel grey along the back, pale ridged plates on the throat and belly, a crown of long swept-back silver horns and spines, frilled spiked jaw, rows of sharp white fangs, glowing icy blue eyes, vast membranous wings, frost misting from the jaws.
 ---
 
 ![Argyn](../../../assets/people/argyn.webp)

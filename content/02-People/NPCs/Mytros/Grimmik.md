@@ -1,5 +1,6 @@
 ---
 title: Grimmik
+image_prompt: human male in his eighties, retired centurion, broad but aged frame, ruddy deeply wrinkled skin, bald crown with tufts of wild curly grey-white hair at the sides, heavy furrowed brow, large nose, pale blue eyes, a short white beard and stubble, a stern scowl, wearing a dark red tunic with a leather shoulder strap, a worn heavy war hammer resting on his shoulder.
 ---
 
 ![Grimmik](../../../assets/people/grimmik.webp)

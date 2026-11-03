@@ -5,6 +5,7 @@ also_in:
   - Amazonki
 aliases:
   - Grecosia
+image_prompt: adult female in her thirties, athletic build, fair skin with freckles across the cheeks, slightly pointed ears, sharp face with strong brows and a sly confident look, grey-blue eyes, long wild silver-white hair fading to pink at the tips with a thin side braid, a spiky metal leaf ornament and a red feather in her hair, wearing dark leather armour with riveted pauldrons, one painted turquoise, a high leather collar and a silver chain necklace.
 ---
 
 ![Greciosa](../../../assets/people/greciosa.webp)

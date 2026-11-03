@@ -3,6 +3,7 @@ title: Yala
 also_in:
   - Amazonki
   - Bohaterowie
+image_prompt: titan-born female of towering stature, youthful-looking woman in her twenties, athletic muscular amazon build, tanned olive skin, fierce narrow violet eyes, stern full lips, long windswept silver-white hair with the sides shaved and a spiky crest on top, a dark leather headband with a large red gemstone across her forehead, a dangling chain earring, fiery tattoos burned into the skin of her back, wearing amazon war gear of a sleeveless olive linen tunic with a slit skirt, a bronze lattice breastplate and collar, a single spiked pauldron of bronze plates and dark feathers on one shoulder, leather armbands, a belt with pouches and a red jewel buckle, wrapped bracers and fingerless gloves with bronze claw tips.
 ---
 
 ![Yala](../../../../assets/people/yala.webp)

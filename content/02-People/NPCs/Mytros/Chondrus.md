@@ -2,6 +2,7 @@
 title: Chondrus
 also_in:
   - Kult Lutherii
+image_prompt: tiefling male, adult, lean build, pale blue skin, sharp angular face with pointed elf-like ears, narrow red eyes, shaggy shoulder-length black hair, a pair of large curved black ridged horns sweeping back from his forehead, an arrogant expression, wearing elegant black clothing with high grey shoulder pieces trimmed with a gold Greek-key pattern and a red eye emblem on the chest.
 ---
 
 ![Chondrus](../../../assets/people/chondrus.webp)

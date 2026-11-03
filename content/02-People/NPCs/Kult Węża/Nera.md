@@ -2,6 +2,7 @@
 title: Nera
 also_in:
   - Mytros
+image_prompt: adult female in her thirties, lean build, fair skin, hard serious face, piercing green eyes, strands of silver-grey hair escaping her hood, wearing a deep dark grey hood with embroidered silver trim, a grey scarf around the neck, engraved silver steel pauldrons over a dark blue-black leather coat, brown leather straps across the chest, a quiver of crossbow bolts on her back.
 ---
 
 ![Nera](../../../assets/people/nera.webp)

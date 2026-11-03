@@ -1,5 +1,6 @@
 ---
 title: Varkon
+image_prompt: half-orc male in his thirties, tall heavily muscular build, grey-green skin, strong jaw with prominent lower tusks and a wide cocky grin, pointed ears with gold hoop earrings, shaggy dark hair, swirling tribal tattoos covering both forearms, wearing a large cream and black bicorne pirate hat with a white feather, a blue high-collared waistcoat, a black long coat with gold buttons and cuffs, white breeches, tall black boots, and a long blue, white and gold sash with heavy gold tassels over one shoulder.
 ---
 
 ![Varkon](../../../assets/people/varkon.webp)

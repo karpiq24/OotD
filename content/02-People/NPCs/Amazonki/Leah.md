@@ -2,6 +2,7 @@
 title: Leah
 aliases:
   - Lea
+image_prompt: female medusa, adult, slender athletic build, smooth pale grey lilac skin, a sharp beautiful face with a cold hostile expression, glowing yellow serpent eyes ringed with dark shadow, thin dark streaks like blood tears running down from her eyes, full dark lips, a mass of writhing dark green snakes for hair with red eyes and bared fangs, wearing an ornate engraved silver helmet with a pointed crest and swept-back spikes framing her face, a wide engraved silver collar with an amber teardrop gem at the throat, and dark silver-trimmed armour.
 ---
 
 ![Leah](../../../assets/sessions/035/leah.webp)

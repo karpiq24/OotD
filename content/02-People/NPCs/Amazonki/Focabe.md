@@ -1,5 +1,6 @@
 ---
 title: Focabe
+image_prompt: half-elf female Amazon scout in her late thirties, athletic curvy build, warm light brown skin, slightly pointed ears, almond-shaped blue grey eyes with dark winged lashes, long dark brown hair shaved on one side and gathered into long braids threaded with gold rings and gold cuffs, fine dark tattoos on her arms, wearing a cream linen halter wrap top with a large gold ring at the front, a cream wrap skirt over dark shorts with gold scale ornaments on the hip, wrapped forearms and shins, sharp golden claw gauntlets on both hands, and a gold feline mask she can pull over her face.
 ---
 
 ![Focabe](../../../assets/people/focabe.webp)

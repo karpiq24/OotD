@@ -19,3 +19,5 @@ Wiszące Ogrody w [[Arezja|Arezji]] są rezydencją boga [[Narsus|Narsusa]], kt�
 W [[Sesja 63 - Werdykt Arezji]] bohaterowie stanęli tu przed [[Narsus|Narsusem]], który obiecał wstawić się za nimi u królowej, jeśli przyniosą mu [[Słoneczny Granat|Słoneczny Granat]]. Tuż za bramą ogrodów czekał na nich [[Mistrz Cieni]], który zaoferował im owoc w zamian za wykradzenie księgi z [[Praxys]]. [[Narsus]] pozwolił też bohaterom zabrać dowolny przedmiot ze stosu darów, a [[Orion Xul|Orion]] wybrał magiczną zbroję płytową.
 
 W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Mistrz Cieni]] upomnął się o dług, za który zapłacił z góry jeszcze przed bramą Wiszących Ogrodów: księgę ze skarbca [[Praxys]].
+
+W [[Sesja 85 - Cienie nad Arezją]] dawne legowisko [[Narsus|Narsusa]] w ogrodach, niegdyś pełne darów, stało całkowicie puste.

@@ -178,6 +178,7 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 *   **[[Tarrasque]]:** Niszczyciel Światów, potężna bestia uśpiona w Sześcianie Więziennym.
 *   **[[The Keeper|Zarządca]] (The Keeper):** Tajemnicza istota strzegąca Sześcianu Więziennego i Tarrasque'a.
 *   **[[Ventis]] (Miedziana Smoczyca):** Smoczyca Sydona terroryzująca Wyspę Indygo. Zabita w S44.
+*   **[[Zakroth]]:** Minotaur, zbieg z Mytros z Nocy Długich Rogów. Z fortu w lesie na północy Półwyspu Arezyjskiego dowodzi co najmniej pięciuset ludźmi, fey i minotaurami, pali folwarki Mytros i Arezji, ciężko ranił Hiero i odebrał mu miecz. Ma amforę, którą Narsus chce zdobyć (S85).
 
 ### Ważni NPC - Sojusznicy i Inni
 *   **[[Moxena]]:** Meduza, dawna członkini Kultu Węża. Przeszła na stronę herosów i została doradczynią Darien.
@@ -194,9 +195,9 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 *   **[[Dedal]]:** Genialny wynalazca, twórca Ikara. Dołączył do załogi Ultrosa; po wojnie uczy artificerstwa w Akademii Mytros.
 *   **[[Bullbug]]:** Minotaurzyca uratowana przez Orestesa, wierna towarzyszka.
 *   **[[Hukar]]:** Wódz centaurów z Mithralowej Kuźni, dowodził nimi w Bitwie o Mytros.
-*   **[[Królowa Helena]]:** Władczyni Arezji, po dyplomacji dołączyła do wojny; nadal na tronie.
+*   **[[Królowa Helena]]:** Władczyni Arezji, po dyplomacji dołączyła do wojny; nadal na tronie. W S85 wyjawiła drużynie plan przywrócenia boskości Narsusowi i zaproponowała współpracę.
 *   **[[Mistrz Cieni]]:** Pan Świątyni Cieni w Arezji, wspierał herosów z ukrycia; w S84 przywrócił Orestesa do życia w zamian za odłamki Kryształowej Kosy Lutherii (cel nieznany).
-*   **[[Taran Neurdagon]]:** Kupiec z Mytros, potomek Smoczych Lordów. Sojusznik; sfinansował odbudowę i zasiadł w radzie Mytros.
+*   **[[Taran Neurdagon]]:** Kupiec z Mytros, potomek Smoczych Lordów. Sfinansował odbudowę i zasiadł w radzie Mytros; w S85 samowolnie wyprowadził wojsko pod Arezję, został aresztowany przez Versira i czeka w Mytros na sąd rady. Jego córka [[Ismene Neurdagon|Ismene]] odcięła się od działań ojca.
 *   **[[Anora]]:** Córka Pythora, uratowana przed ofiarą dla Sydona; władczyni Estorii.
 *   **[[Stavros]]:** Dawny król Wygnańców, uwolniony z lochów Praxys, dowodził więźniami.
 *   **[[Idylla]]:** Matka Acastusa, sprowadzona z wygnania (S55), mieszka w pałacu w Mytros.
@@ -260,3 +261,6 @@ Starożytna rasa sześciorękich olbrzymów, pierwotni wrogowie bogów i smoków
 
 ### Epilog: Świt Nowej Ery (Sesja 84)
 *   **Świt Nowej Ery (S84):** Epilog kampanii. Drużyna roztrzaskuje [[Kryształowa Kosa Lutherii|Kryształową Kosę Lutherii]] na wysepce [[Morze Otchłani|Morza Otchłani]], uwalniając tysiące dusz (w tym rodziców [[Orestes|Orestesa]]), a odłamki oddaje [[Mistrz Cieni|Mistrzowi Cieni]] w zamian za dziewięciogodzinny rytuał, który przywraca minotaura do życia. [[Versir]] uwalnia z okowów [[Hypnos|Hypnosa]] ostatniego z Zaginionych Tytanów, [[Talieus Pierwszy|Talieusa Pierwszego]], i kończy jego mękę. **[[Acastus]] abdykuje**, oddając koronę [[Vallus]], która rządzi [[Mytros]] przez kolejne piętnaście lat, stopniowo dzieląc władzę z radą — w której z czasem zasiada [[Taran Neurdagon]]. Kult dawnych bogów zanika na rzecz [[Mytros (Bogini)|Bogini Mytros]], a wokół stolicy wyrastają kapliczki [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]]. [[Felicjan Janus Twardowski|Felicjan]] odbudowuje [[Zakon Smoczych Lordów]] z siedzibą na [[Wyspa Yonder|Wyspie Yonder]], [[Orestes]] zamienia [[Ultros|Ultrosa]] w bar z muzeum i zakłada browar w [[Orestessos Zythikē]], [[Orion Xul|Orion]] godzi [[Pythor|Pythora]] z [[Hexia|Hexią]] po pięciuset latach (ale sam porzuca [[Lyra|Lyrę]] dokładnie tak, jak ojciec porzucił smoczycę), a [[Versir]] odkrywa, że [[Astra]] się starzeje, a on nie. Sprawy nierozwiązane: puste boskie domeny, nowe [[Mojry]], [[Królestwo Syren|Zatopione Królestwo Syren]] i niebieska tiefling z [[Kanały Mytros|Kanałów Mytros]]. Na koniec **[[Antikythera]] ożywa sama z siebie i wyznacza kurs do [[Eberron|Eberronu]]** — [[Arevon Elorrenthi|Arevon]] wysyła tam niepozornym wiosłowym statkiem [[Ivello Ostren|Ivella Ostrena]] i [[Lia Amakiir|Lię Amakiir]].
+
+### Nowa Era: Cienie nad Arezją (Sesja 85)
+*   **Cienie nad Arezją (S85):** Piętnaście lat po wojnie [[Vallus]] wzywa [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] do [[Mytros]]. [[Taran Neurdagon]] samowolnie rozbił obóz najemników i żołnierzy pod murami [[Arezja|Arezji]], pod pretekstem napaści ludzi minotaura [[Zakroth|Zakrotha]], a Arezja według informatora Vallus szuka sposobu na przejęcie pustych boskich domen dla [[Narsus|Narsusa]]. Po nieudanym włamaniu na [[Ultros|Ultrosa]] [[Felicjan Janus Twardowski|Felicjan]] ukrywa [[Portret Karpathosa]] zaklęciem *Sequester* na [[Wyspa Yonder|Wyspie Yonder]]. W obozie [[Versir]] i [[Arevon Elorrenthi|Arevon]] zmuszają Tarana do poddania się, a Versir oddaje go w kajdanach Vallus; [[Orestes]] wynajmuje część najemników do ochrony szlaków. W Arezji [[Królowa Helena]] przyznaje, że [[Narsus]] doznał objawienia, a amfora Zakrotha jest jednym z przedmiotów potrzebnych do zaczerpnięcia mocy z domen; drużyna przyjmuje zlecenie na Zakrotha i ma się spotkać z Narsusem pod [[Świątynia Tarczy|Świątynią Tarczy]].

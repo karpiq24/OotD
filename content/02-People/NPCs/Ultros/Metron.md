@@ -1,5 +1,6 @@
 ---
 title: Metron
+image_prompt: ghost of a human male navigator, middle-aged, enormously obese massive build, bald head, pallid sickly skin with a grey-green undertone, pale glowing milky eyes, heavy jowls and a double chin, one cheek torn open exposing teeth and gums, deep bloody claw gashes across one shoulder, a huge long scar across his belly from a fatal wound, wearing only a loincloth.
 ---
 
 ![Metron](../../../assets/people/metron.webp)

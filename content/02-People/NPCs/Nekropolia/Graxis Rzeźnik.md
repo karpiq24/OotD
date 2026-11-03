@@ -2,6 +2,7 @@
 title: Graxis Rzeźnik
 aliases:
   - Graxis
+image_prompt: minotaur male, huge hulking brute, hide like cracked dark grey stone with seams of glowing sickly green light running through it, a massive bull head with long curved horns whose tips burn with green fire, glowing green eyes, a gaping fanged maw dripping green ectoplasm, oversized clawed hands, heavy iron belt with dangling plates over a loincloth, wielding a huge jagged greataxe.
 ---
 
 ![Graxis Rzeźnik](../../../assets/people/graxis_rzeznik.webp)

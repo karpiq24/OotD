@@ -27,9 +27,9 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]] [[Brax]] wraz z pomocnikami sklecił prow
 Pierwszy Super Bar [[Brax|Braxa]] w [[Estoria|Estorii]] dał początek sieci **Warlock Circus Super Bar** (WCSB), którą jako prezes prowadzi [[Orestes]]. Po piętnastu latach lokale stoją w:
 - [[Orestessos Zythikē]], przy browarze;
 - [[Estoria|Estorii]] (pierwszy Super Bar Braxa);
-- [[Mytros]]: [[Ultros]] jako bar z muzeum i drugi lokal Braxa i [[Nessa|Nessy]];
+- [[Mytros]]: [[Ultros]] jako bar z muzeum, którym zarządza Brax, i drugi lokal Braxa i [[Nessa|Nessy]];
 - [[Kwaśny Rocznik|Kwaśnym Roczniku]], pierwszej partnerskiej franczyzie;
-- u [[Amazonki|Amazonek]], dzięki [[Alkippe]];
+- u [[Amazonki|Amazonek]] na [[Themis]], prowadzony przez [[Alkippe]];
 - na [[Wyspa Wygnańców|Wyspie Wygnańców]], jako portowa speluna przy kamiennym doku;
 - na [[Wyspa Yonder|Yonder]], przy twierdzy [[Zakon Smoczych Lordów|Zakonu]];
 - na [[Wyspa Indygo|Indygo]];

@@ -17,3 +17,5 @@ Czerwony Lotos to gospoda w [[Arezja|Arezji]], w której barmanką jest [[Jocast
 
 ## Historia
 W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie zbierali w mieście plotki, a [[Jocasta]], barmanka z Czerwonego Lotosu, przybliżyła im sylwetki Wielkich Mistrzów: [[Halcyon]], [[Taureus|Taureusa]], [[Hiero]], [[Laertes|Laertesa]] i tajemniczego [[Mistrz Cieni|Mistrza Cieni]].
+
+W [[Sesja 85 - Cienie nad Arezją]] bohaterowie przenocowali tu po audiencji u [[Królowa Helena|Królowej Heleny]].

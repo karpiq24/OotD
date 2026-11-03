@@ -1,5 +1,6 @@
 ---
 title: Waywa
+image_prompt: gynosphinx, female, lithe winged sphinx with a feline body covered in vivid blue feathers fading to white on the chest and forelegs, a pale blue-grey woman's face with pointed ears and glowing pink-violet eyes, stoic sorrowful expression, a spiky crest of blue feathers instead of hair, huge blue feathered wings with darker tips, a long feathered lion tail.
 ---
 
 ![Waywa](../../../assets/people/waywa.webp)

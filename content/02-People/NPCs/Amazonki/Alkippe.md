@@ -10,10 +10,10 @@ image_prompt: athletic Amazon warrior woman with tanned skin, long dark braids d
 
 ![Alkippe](../../../assets/people/alkippe.webp)
 
-_[[Amazonki|Amazonka]], matka [[Zythion|Zythiona]], syna [[Orestes|Orestesa]]._
+_[[Amazonki|Amazonka]], matka [[Zythion|Zythiona]], syna [[Orestes|Orestesa]]; prowadzi [[Super Bar]] na [[Themis]]._
 
 ## Opis
 Wysportowana wojowniczka o długich ciemnych warkoczach przetykanych piórami, w brązowym pancerzu, z włócznią i okrągłą tarczą. Na tarczy wymalowany jest pienisty kufel piwa.
 
 ## Historia
-Po wojnie z [[Tytani|Tytanami]] wdała się w romans z [[Orestes|Orestesem]]; owocem tego związku jest ich nieślubny syn [[Zythion]]. Nie zamieszkała w mieście — jak to Amazonka, poszła swoją drogą — więc chłopca wychowuje sam Orestes, w browarze w [[Orestessos Zythikē]].
+Z [[Orestes|Orestesem]] zeszła się podczas walk o [[Mytros]], gdy minotaur pomagał [[Amazonki|Amazonkom]]; owocem tego związku jest ich nieślubny syn [[Zythion]]. Po wykarmieniu syna wróciła na [[Themis]], gdzie prowadzi tamtejszy [[Super Bar]], a chłopca wychowuje Orestes w browarze w [[Orestessos Zythikē]]. Z Orestesem utrzymuje przyjazny kontakt listowny ([[Sesja 85 - Cienie nad Arezją]]).

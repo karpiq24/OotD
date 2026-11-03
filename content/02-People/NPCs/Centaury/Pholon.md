@@ -2,10 +2,12 @@
 title: Pholon
 also_in:
   - Ultros
-image_prompt: male centaur, muscular and powerful build, ripped abs, lower body of a brown horse, shoulder-length wavy golden blonde hair, a full blonde beard and mustache, wearing a golden laurel wreath crown, bare-chested with a brown fur pelt draped over his shoulders, a heavy gold chain necklace with large circular medallions, a studded brown leather harness joining his human and horse halves, mythological creature, fantasy character, Greco-Roman style.
+image_prompt: mature male centaur, muscular and powerful build, ripped abs, lower body of a brown horse, long wavy golden blonde hair, a full blonde beard and mustache, a weathered face with lines around the blue-grey eyes, wearing a golden laurel wreath crown, bare-chested with a brown fur pelt draped over his shoulders, a heavy gold chain necklace with large circular medallions, a studded brown leather harness joining his human and horse halves, holding a red tankard of beer, mythological creature, fantasy character, Greco-Roman style.
 ---
 
-![Pholon](../../../assets/people/pholon.webp)
+| ![Pholon piętnaście lat po wojnie](../../../assets/people/pholon_po_wojnie.webp) | ![Pholon w czasie wojny](../../../assets/people/pholon.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Centaur z [[Przeklęte Plemię|Przeklętego Plemienia]], towarzysz załogi [[Ultros|Ultrosa]]; po wojnie udziałowiec browaru [[Orestes|Orestesa]]._
 
@@ -42,6 +44,4 @@ W [[Sesja 83 - Zmierzch Ery Tytanów]] jego kuzynka [[Nessa]] niosła [[Brax|Bra
 
 W [[Sesja 84 - Świt Nowej Ery]] został udziałowcem browaru [[Orestes|Orestesa]] w [[Orestessos Zythikē]] — przypadło mu jakieś dwanaście i pół procent, co [[Arevon Elorrenthi|Arevon]] skwitował uwagą, że oto rodzi się komunizm.
 
-## Po wojnie
-
-![Pholon piętnaście lat po wojnie](../../../assets/people/pholon_po_wojnie.webp)
+W [[Sesja 85 - Cienie nad Arezją]] pilnował stołów na święcie browaru w [[Orestessos Zythikē]] i swojego udziału w wysokości dwunastu i pół procent utargu.

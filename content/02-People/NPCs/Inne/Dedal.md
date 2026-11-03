@@ -2,9 +2,12 @@
 title: Dedal
 also_in:
   - Mytros
+image_prompt: elderly male in his sixties, lean wiry build, weathered tanned skin, deep laugh lines, wild unruly silver-white hair, a short white stubble beard, bright twinkling eyes and a mischievous smile, wearing a loose cream linen shirt with rolled sleeves under a worn grey buttoned waistcoat, a leather strap across his chest, a belt hung with pouches and tools, patched brown trousers and tall worn leather boots, holding a small oil lamp, eccentric inventor.
 ---
 
-![Dedal](../../../assets/people/dedal.webp)
+| ![Dedal piętnaście lat po wojnie](../../../assets/people/dedal_po_wojnie.webp) | ![Dedal w czasie wojny](../../../assets/people/dedal.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Wynalazca z samotnej wyspy na Zapomnianym Morzu, po wojnie nauczyciel artificerstwa w [[Akademia Mytros|Akademii Mytros]]._
 

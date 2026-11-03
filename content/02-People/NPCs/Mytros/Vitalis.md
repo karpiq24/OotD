@@ -1,5 +1,6 @@
 ---
 title: Vitalis
+image_prompt: halfling male in his fifties, extremely fat and round with a huge belly and short stubby limbs, filthy greasy pale skin, a fleshy jowly face with small squinting eyes and a smug pout, pointed ears, messy curly brown hair, bare dirty hairy feet, wearing a stained dark green tunic stretched over the belly, cracked leather straps and belts across the chest with a tag hanging from them, a wine bottle in one hand.
 ---
 
 ![Vitalis](../../../assets/people/vitalis.webp)

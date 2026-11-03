@@ -1,5 +1,6 @@
 ---
 title: Halie
+image_prompt: medusa female in her early thirties, slender build, very pale porcelain skin, beautiful face with full rosy lips and strong dark brows, glowing violet eyes, hair a mass of glossy black-scaled snakes with glowing violet eyes, wearing a dark strapless bodice with gold trim, a twisted gold collar necklace with round gold medallions, a wide gold armband, a purple cloak.
 ---
 
 ![Halie](../../../assets/people/halie.webp)

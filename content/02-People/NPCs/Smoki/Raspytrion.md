@@ -3,6 +3,7 @@ title: Raspytrion
 also_in:
   - Smoczy Lordowie
   - Pięciu Bogów
+image_prompt: adult male bronze dragon, lean strong build, gleaming fine bronze scales, bright blue eyes, swept-back horns and a ridged crest, a patch of dark teal-green scales at the shoulder, row of spines down the back, large bronze wings, long tail curving down.
 ---
 
 ![Raspytrion](../../../assets/people/raspytrion.webp)

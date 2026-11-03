@@ -1,5 +1,6 @@
 ---
 title: Darok
+image_prompt: male wood elf warrior-monk, appears around forty, lean wiry muscular build, weathered tanned olive skin, long pointed ears, gaunt hard face with a stern suspicious look, small scars across the face and many old scars on the arms, long straight black hair loose past the shoulders, grey-green eyes, faded tattoos on the forearms, wearing a ragged tunic covered in overlapping green leaves, crossed brown leather straps over the chest, a wide leather belt with pouches, leaf-covered bracers and wrapped forearm guards, a quiver of arrows on his back and a longbow in hand.
 ---
 
 ![Darok](../../../assets/people/darok.webp)

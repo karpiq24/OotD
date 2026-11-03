@@ -3,6 +3,7 @@ title: Babcia Morta
 aliases:
   - Babcia Morta
   - Babuszka Morta
+image_prompt: ancient crone hag, the eldest of three witch sisters, gaunt sinewy body with ashen grey skin, sagging bare breasts, a withered face with one empty eye socket, a golden mask-crown with curling ram horns and a ring of spikes, extremely long dark hair in thin braids hanging to her knees, studded leather belts over a ragged black skirt, long tattered black veils, bare feet, holding a large pair of rusty shears.
 ---
 
 ![Morta](../../../assets/people/morta.webp)

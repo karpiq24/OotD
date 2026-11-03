@@ -509,3 +509,10 @@
 * [[Felicjan Janus Twardowski|Felicjan]] odbudowuje [[Zakon Smoczych Lordów]] z siedzibą na [[Wyspa Yonder|Wyspie Yonder]].
 * [[Pythor]] zawiera z [[Hexia|Hexią]] rozejm po pięciuset latach; [[Orion Xul|Orion]] porzuca [[Lyra|Lyrę]].
 * [[Antikythera]] ożywa i wyznacza kurs do [[Eberron|Eberronu]]; [[Arevon Elorrenthi|Arevon]] wysyła [[Ivello Ostren|Ivella Ostrena]] i [[Lia Amakiir|Lię Amakiir]] w rejs powrotny.
+
+## Sesja 85 - Cienie nad Arezją (02.11.2026)
+* Piętnaście lat po wojnie [[Vallus]] wzywa [[Bohaterowie Przepowiedni|Bohaterów Przepowiedni]] do [[Mytros]]: [[Taran Neurdagon]] bez jej zgody rozbił obóz najemników i żołnierzy pod murami [[Arezja|Arezji]], a jego statki zablokowały ujście Thrake.
+* Nieudane włamanie do kajuty kapitańskiej [[Ultros|Ultrosa]], w którym ranny zostaje [[Kalistor]]; [[Felicjan Janus Twardowski|Felicjan]] ukrywa [[Portret Karpathosa]] zaklęciem *Sequester* na [[Wyspa Yonder|Wyspie Yonder]].
+* [[Krithon]] znika z Ultrosa; [[Zythion]] obawia się, że satyr ruszył na półwysep do kogoś, kto „naprostowuje historyczne krzywdy” ras fey.
+* **Aresztowanie [[Taran Neurdagon|Tarana Neurdagona]]** – [[Versir]] i [[Arevon Elorrenthi|Arevon]] zmuszają go do poddania się w jego namiocie; Versir oddaje go w kajdanach Vallus, a generał Flavius zwija obóz.
+* [[Królowa Helena]] wyjawia, że [[Narsus]] chce sięgnąć po puste boskie domeny, a jednym z potrzebnych do tego przedmiotów jest amfora minotaura [[Zakroth|Zakrotha]]; drużyna przyjmuje zlecenie na Zakrotha.

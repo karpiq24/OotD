@@ -1,5 +1,6 @@
 ---
 title: Tyrone
+image_prompt: human man in his forties, big burly heavyset build with a large belly and thick powerful arms, ruddy skin, dark brown hair slicked back, a short dark beard and moustache, heavy brows, grey eyes, a loud arrogant expression, wearing a dark charcoal short-sleeved tunic with a high collar and laced front, a gold brooch on a leather shoulder strap, thick brown leather bracers, a wide belt with several pouches and a silver buckle, dark trousers and boots, a gold ring on one finger.
 ---
 
 ![Tyrone](../../../assets/sessions/045/045_tyrone.webp)

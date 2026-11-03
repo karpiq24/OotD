@@ -2,9 +2,12 @@
 title: Ismene Neurdagon
 aliases:
   - Ismene
+image_prompt: middle-aged female, slender build, pale fair skin, high cheekbones, fine lines around the eyes and mouth, blue-grey eyes, voluminous wavy hair in mixed honey-blond and grey tones swept up into a loose chignon with curls falling to her shoulders, a gold laurel-leaf hair ornament with blue glass beads, a thin gold circlet with a blue gem on her brow, long blue-gem drop earrings, a composed, knowing half-smile, wearing a white chiton under a deep red drape and a dark blue mantle, a gold collar necklace with a round brooch on the shoulder, a wide engraved bronze cuff, scholar and inventor.
 ---
 
-![Ismene Neurdagon](../../../assets/people/ismene_neurdagon.webp)
+| ![Ismene Neurdagon piętnaście lat po wojnie](../../../assets/people/ismene_neurdagon_po_wojnie.webp) | ![Ismene Neurdagon w czasie wojny](../../../assets/people/ismene_neurdagon.webp) |
+|:---:|:---:|
+| Piętnaście lat po wojnie | W czasie wojny |
 
 _Córka Tarana Neurdagona, architektka Egidy Mytros i doradczyni króla Acastusa._
 
@@ -23,3 +26,5 @@ W [[Sesja 55 - Egida Mytros]] król Acastus przedstawił ją jako swoją nową d
 W [[Sesja 77 - Bitwa o Mytros: Upadek Icarusa]] jako córka Tarana Neurdagona została wymieniona jako kandydatka na pilota Kolosa.
 
 W [[Sesja 84 - Świt Nowej Ery]] doczekała się cichej satysfakcji: [[Egida Mytros|Egida]], zlecenie, którego bohaterowie nigdy nie dokończyli, ostatecznie pomogła ocalić [[Mytros]]. [[Felicjan Janus Twardowski|Felicjan]] przypominał przy tym, na czym naprawdę polegało rzemiosło Neurdagonów — bioautomatony, fuzja brązu i ludzkiego ciała — i że geneza tych konstruktów pozostawała moralnie więcej niż wątpliwa.
+
+W [[Sesja 85 - Cienie nad Arezją]], gdy jej ojciec samowolnie wyprowadził wojsko pod [[Arezja|Arezję]], została w [[Mytros]] i odcięła się od jego działań. [[Versir]] uznał, że z pragmatyczną Ismene będzie można się dogadać.

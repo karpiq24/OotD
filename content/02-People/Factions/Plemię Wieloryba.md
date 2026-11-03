@@ -31,3 +31,5 @@ W [[Sesja 42 - Plemię Węgorza]] bohaterowie usłyszeli, że plemię Wieloryba 
 W [[Sesja 44 - Ventis]] bohaterowie uratowali Brennę i zabili Ventis, a plemię Wieloryba zawarło z nimi sojusz i zaoferowało pomoc w nadchodzącej wojnie z Tytanami. Otrzymało też część złota ze smoczego leża.
 
 W [[Sesja 84 - Świt Nowej Ery]] plemię nadal trzymało straż nad jedyną Kopalnią Żelaza w Thylei.
+
+W [[Sesja 85 - Cienie nad Arezją]] [[Mytros]] i [[Arezja]] licytowały się o udziały w kopalni, przez co ceny rudy rosły co sezon. Na plaży przed wodzem [[Delg|Delgiem]] i starszyzną wysłannicy Neurdagonów wyłożyli skrzynię srebra za pięcioletnią wyłączność, a kupcy z Arezji oferowali więcej w ratach. Delg odrzucił wyłączność i utrzymał podział urobku między oba miasta.

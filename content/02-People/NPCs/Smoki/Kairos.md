@@ -2,9 +2,12 @@
 title: Kairos
 also_in:
   - Bohaterowie
+image_prompt: 'a bronze dragon (Dungeons & Dragons metallic bronze dragon). He is now a young adult dragon, big enough to carry a rider: powerful, sleek body covered in lustrous polished-bronze scales with a greenish-bronze patina at the edges, a pale ridged belly, a crest of swept-back horns and frills, intelligent warm amber eyes, bat-like wings with bronze membranes catching the light. He wears a simple leather riding saddle of a Dragonlord.'
 ---
 
-![Narodziny Smoka](../../../assets/sessions/048/048_kairos.webp)
+| ![Kairos piętnaście lat później](../../../assets/people/kairos.webp) | ![Kairos w czasie wojny](../../../assets/sessions/048/048_kairos.webp) |
+|:---:|:---:|
+| Piętnaście lat później | W czasie wojny |
 
 _Młody smok Felicjana, związany z nim przysięgą Smoczych Lordów._
 
@@ -26,6 +29,6 @@ W [[Sesja 84 - Świt Nowej Ery]] jest większy od Paradoksa, który mimo to jest
 
 ## Po wojnie
 
-![Kairos piętnaście lat później](../../../assets/people/kairos.webp)
-
 Jajo, z którego się wykluł, było darem [[Vallus]]; [[Felicjan Janus Twardowski|Felicjan]] dostał je od [[Kyrah]] we właściwym momencie ([[Sesja 36 - Królowa, Dziedzic i Generał|Sesja 36]]). Felicjan traktuje go trochę jak jedno ze swoich dzieci: najpierw jako nauczyciel i ojciec, a gdy Kairos dorośnie, jak partner. Mieszka na [[Wyspa Yonder|Yonder]], w siedzibie odbudowanego [[Zakon Smoczych Lordów|Zakonu]], razem z [[Paradoks|Paradoksem]], [[Chh'Krtak|Chh'Krtakiem]] i młodą smoczycą [[Ataraksja|Ataraksją]].
+
+W [[Sesja 85 - Cienie nad Arezją]], już wyrośnięty, zajrzał o świcie przez okno do [[Felicjan Janus Twardowski|Felicjana]] i [[Melania Twardowska|Melanii]], pytając o krzyk, i ostrzegł, że [[Aleksander Twardowski|Aleksander]] wstał przed słońcem. Felicjan zabrał go pod [[Arezja|Arezję]]: Kairos wszedł z drużyną do [[Obóz pod Arezją|obozu]] i czekał przed namiotem [[Taran Neurdagon|Tarana]], a w Arezji kazano dla niego szerzej otworzyć bramę.

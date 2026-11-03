@@ -4,6 +4,7 @@ also_in:
   - Amazonki
 aliases:
   - Baltia Rhuli
+image_prompt: human woman in her forties, athletic build, warm deep brown skin, small pale-gold freckle-like markings on the cheeks and a tiny gold mark on the forehead, shoulder-length curly black hair with small gold leaf clips, amber-gold eyes, confident friendly smile, gold dangling earring and ear cuffs, wearing a sailing coat of leather with riveted steel pauldrons and a navy-blue high collar over a blue-and-white striped shirt, dark brown leather gloves and bracers.
 ---
 
 ![Baltia](../../../assets/people/baltia.webp)
