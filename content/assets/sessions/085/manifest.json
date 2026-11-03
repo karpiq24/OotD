@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "session_number": 85,
+  "session_date": "2026-11-02",
+  "generated_at": "2026-11-03T16:05:20+00:00",
+  "rpgnotes_version": "0.3.0",
+  "models": {
+    "summary": "gemini-4-argon",
+    "flash": "gemini-3.8-flash"
+  },
+  "complete": true,
+  "files": {
+    "transcript.txt": "publish",
+    "transcript.json": "publish",
+    "transcript_enriched.txt": "publish",
+    "chat_log.json": "publish",
+    "chat_events.json": "publish",
+    "chat_events.txt": "publish",
+    "visual_log.json": "publish",
+    "quotes.json": "publish",
+    "draft0.md": "working",
+    "details.json": "working",
+    "validation_report.json": "working"
+  }
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "offset_secs": 0.0,
+    "caption": "Mapa regionu Thylea z Zatoką Cerulańską (The Cerulean Gulf) i Zapomnianym Morzem (The Forgotten Sea) w centralnej części. Na lądzie widać podpisane miejsca: Estoria, Mytros, Orestessos Zythikē oraz Aresia, a także Mithral Mountains i The Oldwoods. Na mapie rozmieszczono ponumerowane znaczniki (1–8) przy wyspach oraz kilka żetonów postaci.",
+    "path": "/data/temp/foundry_snapshots/shot_1793640965.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 590.0,
+    "caption": "Ta sama mapa po przesunięciu widoku: Zatoka Cerulańska i Zapomniane Morze w środku, a wyspy ponumerowane od 1 do 8. Widoczne podpisy to Mytros, Orestessos Zythikē, The Oldwoods oraz Aresia po prawej stronie. Scena w Foundry: Thylea.",
+    "path": "/data/temp/foundry_snapshots/shot_1793641564.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4190.0,
+    "caption": "Scena w Foundry: Bar-muzeum Ultros. Widać drewnianą podłogę wnętrza z kamienną ścianą po lewej stronie i kilkoma żetonami postaci przy stołach oraz pod ścianami. Jeden żeton, podpisany „Astra”, jest podświetlony i ma etykietę „Unharmed”.",
+    "path": "/data/temp/foundry_snapshots/shot_1793645164.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4285.0,
+    "caption": "Handout pokazany graczom, opatrzony tytułem „Zythion”. Przedstawia młodego mężczyznę o krótkich, kręconych czarnych włosach, ubranego w białą tunikę, z naszyjnikiem z zawieszką w kształcie głowy byka. W tle widać kolumny, drzewa oliwne i morze na tle wzgórz.",
+    "path": "/data/temp/foundry_snapshots/shot_1793645259_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 4294.0,
+    "caption": "Handout pokazany graczom, opatrzony tytułem „Orestes”. Przedstawia postać z głową byka, z rogami ozdobionymi złotymi opaskami i wieńcem z kłosów zboża oraz chmielu. Ubrana jest w białą szatę z zielonym wzorem chmielu i złotymi greckimi ornamentami, trzyma złoty puchar z pianą, a w tle widać nadmorskie miasto i kolumny.",
+    "path": "/data/temp/foundry_snapshots/shot_1793645268_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 4790.0,
+    "caption": "Scena w Foundry: Bar-muzeum Ultros. Widok z góry na drewnianą podłogę tego wnętrza, z kilkoma żetonami postaci przy stołach i pod ścianą. Część żetonów ma zielone paski zdrowia, a przy niektórych widoczne są niebieskie ikony tarczy.",
+    "path": "/data/temp/foundry_snapshots/shot_1793645764.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 5390.0,
+    "caption": "Scena w Foundry: Bar-muzeum Ultros. Przesunięty widok drewnianego wnętrza z rzędami żetonów postaci, m.in. przy stołach po prawej stronie. Z lewej widać kamienną ścianę, a w dolnej części obrazu okrągłą beczkę.",
+    "path": "/data/temp/foundry_snapshots/shot_1793646364.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 5710.0,
+    "caption": "Handout pokazany graczom, opatrzony tytułem „Edran”. Przedstawia mężczyznę o kręconych ciemnych włosach i zaroście, z szeroko otwartymi oczami i uśmiechem, który trzyma i pokazuje palcem popękaną glinianą tabliczkę z rzędami znaków. W tle widać półki z zwojami i tabliczkami, a przy nim torbę z zwojami.",
+    "path": "/data/temp/foundry_snapshots/shot_1793646684_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 5726.0,
+    "caption": "Ilustracja przedstawia uśmiechniętego koźlonoga z zakręconymi rogami i czarnymi lokami, ubranego w skórzany fartuch. Na ramieniu niesie lirę korbową z niebieskimi runami i napisem VOLKANIC, a w drugiej ręce trzyma topór. Stoi w kamiennej piwnicy pełnej beczek, na których widać greckie napisy, m.in. ΛΗΝΟΣ i ΘΥΛΕΑ, a w tle płonie palenisko i świece.",
+    "path": "/data/temp/foundry_snapshots/shot_1793646700_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 5990.0,
+    "caption": "Widok mapy sceny Bar-muzeum Ultros przedstawia długą drewnianą salę z rzędami stołów i ław, na których siedzą okrągłe żetony postaci z zielonymi paskami zdrowia. Na środku po prawej stoi duża beczka, a obok niej leży mały żeton przypominający dokument. Po lewej stronie widać kilka pojedynczych stolików i skrzyń.",
+    "path": "/data/temp/foundry_snapshots/shot_1793646964.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6590.0,
+    "caption": "Widok mapy sceny Bar-muzeum Ultros przedstawia szerszą część długiej drewnianej sali z kilkoma rzędami stołów i ław, przy których siedzą żetony postaci z zielonymi paskami zdrowia. Na ścianach stoją beczki, a w górnej części sali widać lampę. Po bokach znajdują się dodatkowe skrzynie i pojedyncze stoliki.",
+    "path": "/data/temp/foundry_snapshots/shot_1793647564.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7223.0,
+    "caption": "Pokazany graczom handout Makhaila przedstawia kobietę o długich, falujących włosach, z wieńcem z liści i metalową opaską na czole. Ma na sobie białą, zwiewną szatę z brązowymi, zdobionymi okuciami, a jedną rękę wyciąga przed siebie. W tle widać ogromny księżyc w pełni, a w prawym górnym rogu przelatuje ptak.",
+    "path": "/data/temp/foundry_snapshots/shot_1793648197_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 7269.0,
+    "caption": "Widok z góry na wnętrze drewnianego budynku, wyglądającego jak karczma lub bar, z kominkiem, beczkami z napisem RUM, ladą i długimi stołami. Na mapie jest wiele okrągłych tokenów postaci z zielonymi paskami życia, rozmieszczonych przy stołach w głównej sali oraz grupa tokenów w lewej części pomieszczenia. Nad mapą widać podpisy kursorów: maciek, keszu, adam i miłosz.",
+    "path": "/data/temp/foundry_snapshots/shot_1793648243.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7790.0,
+    "caption": "Widok mapy sceny Vallus Chambers: po lewej stronie znajduje się zielony dywan i prostokątny stół, a w centrum okrągły stół otoczony ośmioma krzesłami. W górnej części mapy, na dywanie ze złotą ramą, stoją żetony postaci. Przy ścianach widać regały z książkami i kilka drobnych przedmiotów.",
+    "path": "/data/temp/foundry_snapshots/shot_1793648764.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 8390.0,
+    "caption": "Widok mapy sceny Vallus Chambers: w górnej części pomieszczenia stoi łóżko z czerwonym baldachimem, a przed nim zielony dywan i zdobiona ramka. Na środku widać okrągły stół z ośmioma krzesłami, przy którym stoi kilka żetonów postaci. Po prawej stronie znajdują się regały z książkami.",
+    "path": "/data/temp/foundry_snapshots/shot_1793649364.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 8990.0,
+    "caption": "Widok mapy sceny Vallus Chambers przedstawia okrągły stół z ośmioma krzesłami, wokół którego stoi kilka żetonów postaci z zielonymi paskami zdrowia. Obok stołu widoczny jest pomarańczowy prostokątny obrys, prawdopodobnie zaznaczenie pola na mapie. Po prawej stronie znajdują się regały z książkami, a w górze zielony dywan.",
+    "path": "/data/temp/foundry_snapshots/shot_1793649964.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 9337.0,
+    "caption": "Handout dla graczy o tytule Kairos przedstawia brązowego smoka z siodłem, stojącego na skalistym klifie nad morzem. Po prawej stronie widać biały budynek z kolumnami i schodami w antycznym stylu. Niebo jest jasne, a woda w tle ma głęboki niebieski odcień.",
+    "path": "/data/temp/foundry_snapshots/shot_1793650311_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 9590.0,
+    "caption": "Mapa sceny Vallus Chambers przedstawia wnętrze z kafelkową podłogą, zielonym dywanem i okrągłym stołem z krzesłami. Kilkanaście żetonów postaci jest zgrupowanych w środkowej części pomieszczenia. Po prawej stronie widać kolejne pomieszczenia i donice z roślinami.",
+    "path": "/data/temp/foundry_snapshots/shot_1793650564.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 9845.0,
+    "caption": "Handout dla graczy o tytule Lyra przedstawia uśmiechniętą kobietę o brązowych, półdługich włosach i szerokim uśmiechu. Ubrana jest w turkusową koszulkę, a za nią na korkowej tablicy wiszą fotografie.",
+    "path": "/data/temp/foundry_snapshots/shot_1793650819_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 9942.0,
+    "caption": "Handout dla graczy o tytule Dolios przedstawia mężczyznę o ciemnych, zaczesanych włosach, ubranego w czarny płaszcz i szal z srebrnym haftem. Przy pasie wisi miecz z ozdobną rękojeścią. W tle widać jasne kolumny i łukowe arkady.",
+    "path": "/data/temp/foundry_snapshots/shot_1793650916_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 10170.0,
+    "caption": "Handout dla graczy o tytule Taran Neurdagon przedstawia brodatego mężczyznę o siwiejących, falujących włosach. Opiera się na długim, zdobionym mieczu i ma na sobie jasną szatę z brązowym narzutem. Za nim widać niebieskie zasłony i okno z widokiem na słoneczne miasto.",
+    "path": "/data/temp/foundry_snapshots/shot_1793651144_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 10190.0,
+    "caption": "Mapa sceny Obóz Mytros pod Arezją przedstawia pokój z czerwonym dywanem i fioletowymi lamperiami wzdłuż ścian. Pośrodku stoi drewniany stół z rozłożoną mapą, a wokół niego rozstawione są krzesła. Przez otwór po prawej stronie widać zielony teren.",
+    "path": "/data/temp/foundry_snapshots/shot_1793651164.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 10261.0,
+    "caption": "Handout dla graczy o tytule Flavius przedstawia siwowłosego mężczyznę o surowym wyrazie twarzy. Ma na sobie czerwony płaszcz i metalową zbroję płytową, a w tle widać namiot obozowy.",
+    "path": "/data/temp/foundry_snapshots/shot_1793651235_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 10790.0,
+    "caption": "Mapa sceny Obóz Mytros pod Arezją pokazuje czerwony pokój z fioletową obwódką i długim stołem z mapą pośrodku. Część żetonów postaci stoi wzdłuż stołu i przy ścianach. Z prawej strony, za ścianą pokoju, rozciąga się zielony teren.",
+    "path": "/data/temp/foundry_snapshots/shot_1793651764.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 11390.0,
+    "caption": "Widok z góry na obóz wojskowy Mytros pod Arezją. Na środku stoi purpurowo-czerwony pawilon z długim drewnianym stołem i rozłożoną na nim mapą, przy którym ustawiono żetony postaci. Po lewej stronie widać dwa duże namioty, a po rogach mapy płonące paleniska.",
+    "path": "/data/temp/foundry_snapshots/shot_1793652364.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 11964.0,
+    "caption": "Portret starszego mężczyzny o siwych, krótko przyciętych włosach i surowym, zmarszczonym obliczu. Ubrany jest w czerwony płaszcz i zdobioną brązową zbroję płytową, a za nim widać białe płótno namiotu podtrzymywane linami. Handout pokazany graczom, zatytułowany Flavius.",
+    "path": "/data/temp/foundry_snapshots/shot_1793652938_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 11967.0,
+    "caption": "Portret ciemnowłosego mężczyzny o poważnym wyrazie twarzy, ubranego w czarny płaszcz ze srebrnymi zdobieniami i szal. U pasa ma zdobiony miecz, a w tle widać jasne kolumny i łuki w architektonicznej scenerii. Handout pokazany graczom, zatytułowany Dolios.",
+    "path": "/data/temp/foundry_snapshots/shot_1793652941_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 11990.0,
+    "caption": "Widok z góry na obóz Mytros pod Arezją, z purpurowym pawilonem pośrodku, w którym przy stole stoją żetony postaci. Wokół rozstawiono szeregi namiotów, a po prawej stronie widać drewniane kłody i ogniska na trawie. Na skraju mapy rozproszone są kolejne żetony postaci.",
+    "path": "/data/temp/foundry_snapshots/shot_1793652964.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12315.0,
+    "caption": "Zmiana sceny na obóz Mytros pod Arezją. Po lewej stronie widać rzędy szarych namiotów, a centralnie ustawiony purpurowy pawilon z mapą na stole. Po prawej stronie kadru widać jeszcze szare, niezapełnione pole poza granicą mapy.",
+    "path": "/data/temp/foundry_snapshots/shot_1793653289.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12590.0,
+    "caption": "Widok mapy obozu Mytros pod Arezją z purpurowym pawilonem pośrodku, w którym przy stole stoją żetony postaci. Dookoła rozstawione są namioty, a po lewej stronie widać wóz z ładunkiem na szlaku. Po prawej stronie szare pole kończy się przy krawędzi mapy.",
+    "path": "/data/temp/foundry_snapshots/shot_1793653564.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12703.0,
+    "caption": "Portret mężczyzny w złoto-czerwonym pancerzu z herbem orła i lwów, ze splecionymi metalowymi dłońmi w rękawicach i mieczem przed sobą. Za nim wznoszą się mury obronne z czerwonymi chorągwiami, a na dziedzińcu stoją uzbrojeni żołnierze. Handout pokazany graczom, zatytułowany Leandros.",
+    "path": "/data/temp/foundry_snapshots/shot_1793653677_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 12810.0,
+    "caption": "Zmiana sceny na Arezję: widok z góry na miasto o gęstej zabudowie z ceglanymi dachami, przeciętej rzeką i kanałami. Brzegi łączą mosty, a po obrzeżach widać lasy i skaliste klify. Na mapie rozmieszczone są ikony budynków i punktów zainteresowania.",
+    "path": "/data/temp/foundry_snapshots/shot_1793653784.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12989.0,
+    "caption": "Mapa rezydencji Heleny widziana z góry. Po lewej stronie znajduje się jadalnia z długim stołem i krzesłami, a w centrum dziedziniec z czerwonym dywanem, prostokątnym basenem i okrągłymi stolikami. Po prawej widać okrągłe, spiralne schody, a na mapie rozstawiono kilka tokenów postaci, m.in. przy stole i przy wejściu.",
+    "path": "/data/temp/foundry_snapshots/shot_1793653963.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13012.0,
+    "caption": "Dolna część rezydencji Heleny z bliska: grupa kilku postaci stoi na schodach prowadzących do wejścia, a po obu stronach drzwi palą się lampy. Po lewej stronie widać prostokątne schody na zewnątrz, a w górnej części kadru fragment dziedzińca z dywanem i basenem.",
+    "path": "/data/temp/foundry_snapshots/shot_1793653986.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13190.0,
+    "caption": "Mapa rezydencji Heleny w ciemnym oświetleniu: większość terenu pokrywa cień, a jasno pozostają jadalnia z długim stołem i fragment dziedzińca. Przy stole i w pobliżu wejścia stoi kilkanaście tokenów postaci. Na prawo od jadalni widać basen i czerwony dywan na dziedzińcu.",
+    "path": "/data/temp/foundry_snapshots/shot_1793654164.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13790.0,
+    "caption": "Zbliżenie na jadalnię rezydencji Heleny: długi drewniany stół z pieczywem i naczyniami otoczony jest krzesłami, przy których stoi kilka tokenów postaci. Po prawej stronie widać smoka na okrągłym tokenie oraz basen przy ścianie. U góry po prawej stoi rudowłosa kobieta.",
+    "path": "/data/temp/foundry_snapshots/shot_1793654764.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 14122.0,
+    "caption": "Mapa świata z nazwami krain, oznaczona jako scena Thylea. Na morzu widać napisy Zatoka Cerulańska i Półwysep Arezyjski, a w górnej części lądy opisane jako The Oldwoods oraz Estoria i Mytros. Na mapie są numerowane punkty, a przy zielonej części lądu stoi token postaci.",
+    "path": "/data/temp/foundry_snapshots/shot_1793655096.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 14390.0,
+    "caption": "Bliższe ujęcie mapy Thylei: u góry napis The Oldwoods, po prawej Półwysep Arezyjski, a po lewej Zatoka Cerulańska. Na zachodnim wybrzeżu zatoki, przy numerowanym punkcie 1, stoi token postaci z zieloną obwódką. Pozostała część mapy to morze i wyspy bez widocznych postaci.",
+    "path": "/data/temp/foundry_snapshots/shot_1793655364.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 15006.0,
+    "caption": "Ilustracja pokazana graczom jako handout o tytule Jocasta: uśmiechnięta kobieta o długim, splecionym warkoczu i spiczastych uszach stoi za drewnianym barem i wyciera go białą szmatką. W tle widać karczmę z kamiennym kominkiem, półkami z butelkami i kilkoma mężczyznami z kuflami. Na blacie leży zwinięty zwój, a na zielonym fartuchu widać emblemat kruka.",
+    "path": "/data/temp/foundry_snapshots/shot_1793655980_key.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 15036.0,
+    "caption": "Rozległy ogród z żywopłotami i kwietnymi klombami, a w centrum ośmiokątny kamienny plac z promienistym wzorem. Po lewej stronie widać ogromną kulę ognia, a po prawej zielonego smoka przy krawędzi mapy. Na mapie stoi bardzo dużo tokenów postaci, głównie w grupach w ogrodzie i na placu.",
+    "path": "/data/temp/foundry_snapshots/shot_1793656010.webp",
+    "is_key": false
+  }
+]

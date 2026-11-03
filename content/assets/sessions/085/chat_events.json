@@ -1,0 +1,182 @@
+[
+  {
+    "offset_secs": -9.746000051498413,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 92.40199995040894,
+    "speaker": "maciek",
+    "kind": "chat",
+    "text": "(OOC) update discorda"
+  },
+  {
+    "offset_secs": 106.18700003623962,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Orion Xul pada (0 PW)"
+  },
+  {
+    "offset_secs": 216.24000000953674,
+    "speaker": "maciek",
+    "kind": "chat",
+    "text": "(OOC) ja słysze"
+  },
+  {
+    "offset_secs": 1555.5810000896454,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 2 = 11"
+  },
+  {
+    "offset_secs": 3782.239000082016,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Bar-muzeum Ultros"
+  },
+  {
+    "offset_secs": 4285.688999891281,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Zythion"
+  },
+  {
+    "offset_secs": 4294.414999961853,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Orestes"
+  },
+  {
+    "offset_secs": 5710.230999946594,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Edran"
+  },
+  {
+    "offset_secs": 5726.782999992371,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Krithon"
+  },
+  {
+    "offset_secs": 7223.273000001907,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Makhaila"
+  },
+  {
+    "offset_secs": 7285.408999919891,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Vallus Chambers"
+  },
+  {
+    "offset_secs": 9089.786000013351,
+    "speaker": "maciek",
+    "kind": "chat",
+    "text": "(OOC) By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells. If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older. You can set a condition for the spell to end early. The condition can be anyth…"
+  },
+  {
+    "offset_secs": 9337.301000118256,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Kairos"
+  },
+  {
+    "offset_secs": 9530.338000059128,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "(szept do: Claude, karpiq) (ukryty rzut) rzuty: 1d100 = 96"
+  },
+  {
+    "offset_secs": 9823.450000047684,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Obóz Mytros pod Arezją"
+  },
+  {
+    "offset_secs": 9845.690999984741,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Lyra"
+  },
+  {
+    "offset_secs": 9942.183000087738,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Dolios"
+  },
+  {
+    "offset_secs": 10170.174999952316,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Taran Neurdagon"
+  },
+  {
+    "offset_secs": 10261.283999919891,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Flavius"
+  },
+  {
+    "offset_secs": 10458.789000034332,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "(OOC) Dimensional Shackles Wondrous item, Rare You can take a Utilize action to place these shackles on a creature that has the Incapacitated condition. The shackles adjust to fit a creature of Small to Large size. The shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don’t prevent the creature from passing through an interdimensional portal. You and any creature you designate when yo…"
+  },
+  {
+    "offset_secs": 11964.154000043869,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Flavius"
+  },
+  {
+    "offset_secs": 11967.911000013351,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Dolios"
+  },
+  {
+    "offset_secs": 12703.167000055313,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Leandros"
+  },
+  {
+    "offset_secs": 12807.197999954224,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Arezja"
+  },
+  {
+    "offset_secs": 12851.049000024796,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 31"
+  },
+  {
+    "offset_secs": 12985.191999912262,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Rezydencja Heleny"
+  },
+  {
+    "offset_secs": 14119.404000043869,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 15006.061000108719,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Jocasta"
+  },
+  {
+    "offset_secs": 15031.588999986649,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Poczekalnia"
+  }
+]

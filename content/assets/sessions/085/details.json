@@ -1,0 +1,54 @@
+{
+  "title": "Cienie nad Arezją",
+  "events": [
+    "Piętnaście lat po wojnie z Tytanami królowa Vallus wzywa Bohaterów Przepowiedni do Mytros w obliczu narastających napięć politycznych z Arezją.",
+    "Bohaterowie spotykają się na pokładzie Ultrosa, gdzie dowiadują się o udaremnionej próbie włamania oraz o ucieczce Krithona na północ.",
+    "Felicjan zabezpiecza Portret Karpathosa za pomocą czaru Sequester i ukrywa go na Wyspie Yonder.",
+    "Drużyna dociera do obozu wojskowego pod murami Arezji, gdzie Versir i Arevon zmuszają Tarana Neurdagona do kapitulacji i aresztują go za samowolę militarną.",
+    "Versir teleportuje uwięzionego Tarana do Mytros i oddaje go w ręce królowej Vallus, po czym rusza w drogę powrotną.",
+    "Orestes dobija targu z Doliosem, przekierowując zwijany oddział najemników do ochrony szlaków handlowych na Półwyspie Arezyjskim.",
+    "Drużyna wkracza do Arezji na audiencję u królowej Heleny, dowiadując się o rebelii minotaura Zarkowa oraz o tajemniczej amforze powiązanej z boskimi domenami Narsusa."
+  ],
+  "npcs": [
+    "Vallus",
+    "Taran Neurdagon",
+    "Królowa Helena",
+    "Pythor",
+    "Kyrah",
+    "Astra",
+    "Edran",
+    "Zythion",
+    "Brax",
+    "Kalistor",
+    "Leandros",
+    "Halcyon",
+    "Lyra",
+    "Dolios",
+    "Flavius",
+    "Jocasta"
+  ],
+  "locations": [
+    "Mytros",
+    "Akademia Mytros",
+    "Pałac Królewski w Mytros",
+    "Ultros",
+    "Wyspa Yonder",
+    "Orestessos Zythikē",
+    "Wyspa Indygo",
+    "Obóz wojskowy Mytros",
+    "Arezja",
+    "Pałac Królewski w Arezji",
+    "Wiszące Ogrody",
+    "Czerwony Lotos",
+    "Morze Otchłani",
+    "Sześcian Więzienny"
+  ],
+  "items": [
+    "Portret Karpathosa",
+    "Hand of Kentiname",
+    "Antikythera",
+    "Kryształowa Kosa Lutherii",
+    "Kajdany blokujące magię wymiarową",
+    "Magiczna amfora"
+  ]
+}

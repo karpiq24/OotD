@@ -1,0 +1,553 @@
+{
+  "format": "rpgnotes-foundry",
+  "version": 1,
+  "title": "session85",
+  "archiveDate": "2026-11-02",
+  "session": 85,
+  "world": "Odyssey of the Dragonlords",
+  "foundry": "14.369",
+  "system": "dnd5e 6.0.6",
+  "startedAt": "2026-11-02T17:36:04.242Z",
+  "endedAt": "2026-11-02T21:46:59.767Z",
+  "gameTime": {
+    "start": 16241414400,
+    "end": 16241526908
+  },
+  "players": [
+    {
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "user": "keszu",
+      "character": "Versir"
+    },
+    {
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "user": "miłosz",
+      "character": "Orestes"
+    }
+  ],
+  "events": [
+    {
+      "t": "2026-11-02T17:36:04.246Z",
+      "kind": "session_start"
+    },
+    {
+      "t": "2026-11-02T17:36:04.252Z",
+      "kind": "player_join",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-02T17:36:04.252Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-02T17:36:04.253Z",
+      "kind": "player_join",
+      "user": "keszu",
+      "character": "Versir"
+    },
+    {
+      "t": "2026-11-02T17:36:04.253Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-02T17:36:04.253Z",
+      "kind": "player_join",
+      "user": "miłosz",
+      "character": "Orestes"
+    },
+    {
+      "t": "2026-11-02T17:36:04.254Z",
+      "kind": "scene",
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-02T17:37:46.402Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "maciek",
+      "user": "maciek",
+      "text": "update discorda"
+    },
+    {
+      "t": "2026-11-02T17:38:00.187Z",
+      "kind": "down",
+      "actor": "Orion Xul",
+      "type": "character"
+    },
+    {
+      "t": "2026-11-02T17:39:50.240Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "maciek",
+      "user": "maciek",
+      "text": "ja słysze"
+    },
+    {
+      "t": "2026-11-02T18:02:09.581Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "rolls": [
+        {
+          "formula": "1d20 + 2",
+          "total": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-02T18:38:11.621Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-02T18:38:20.071Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-02T18:39:16.239Z",
+      "kind": "scene",
+      "scene": "Bar-muzeum Ultros"
+    },
+    {
+      "t": "2026-11-02T18:47:39.689Z",
+      "kind": "handout",
+      "title": "Zythion",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/zythion.webp?v=3"
+    },
+    {
+      "t": "2026-11-02T18:47:48.415Z",
+      "kind": "handout",
+      "title": "Orestes",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/orestes-toga.webp"
+    },
+    {
+      "t": "2026-11-02T19:11:24.231Z",
+      "kind": "handout",
+      "title": "Edran",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/edran.webp?v=3"
+    },
+    {
+      "t": "2026-11-02T19:11:40.783Z",
+      "kind": "handout",
+      "title": "Krithon",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/krithon.webp?v=3"
+    },
+    {
+      "t": "2026-11-02T19:36:37.273Z",
+      "kind": "handout",
+      "title": "Makhaila",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/makhaila.Avatar.webp?1714908714981"
+    },
+    {
+      "t": "2026-11-02T19:37:39.409Z",
+      "kind": "scene",
+      "scene": "Vallus Chambers"
+    },
+    {
+      "t": "2026-11-02T20:07:43.786Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "maciek",
+      "user": "maciek",
+      "text": "By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells. If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older. You can set a condition for the spell to end early. The condition can be anyth…"
+    },
+    {
+      "t": "2026-11-02T20:11:51.301Z",
+      "kind": "handout",
+      "title": "Kairos",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/kairos.webp?v=1"
+    },
+    {
+      "t": "2026-11-02T20:15:04.338Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "whisperTo": [
+        "Claude",
+        "karpiq"
+      ],
+      "blind": true,
+      "rolls": [
+        {
+          "formula": "1d100",
+          "total": 96
+        }
+      ]
+    },
+    {
+      "t": "2026-11-02T20:19:57.450Z",
+      "kind": "scene",
+      "scene": "Obóz Mytros pod Arezją"
+    },
+    {
+      "t": "2026-11-02T20:20:19.691Z",
+      "kind": "handout",
+      "title": "Lyra",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/lyra-aged.webp?v=2"
+    },
+    {
+      "t": "2026-11-02T20:21:56.183Z",
+      "kind": "handout",
+      "title": "Dolios",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/dolios.webp?v=1"
+    },
+    {
+      "t": "2026-11-02T20:25:44.175Z",
+      "kind": "handout",
+      "title": "Taran Neurdagon",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/taran-aged.webp?v=2"
+    },
+    {
+      "t": "2026-11-02T20:27:15.284Z",
+      "kind": "handout",
+      "title": "Flavius",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/flavius.webp?v=1"
+    },
+    {
+      "t": "2026-11-02T20:30:32.789Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "text": "Dimensional Shackles Wondrous item, Rare You can take a Utilize action to place these shackles on a creature that has the Incapacitated condition. The shackles adjust to fit a creature of Small to Large size. The shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don’t prevent the creature from passing through an interdimensional portal. You and any creature you designate when yo…"
+    },
+    {
+      "t": "2026-11-02T20:55:38.154Z",
+      "kind": "handout",
+      "title": "Flavius",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/flavius.webp?v=1"
+    },
+    {
+      "t": "2026-11-02T20:55:41.911Z",
+      "kind": "handout",
+      "title": "Dolios",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/dolios.webp?v=1"
+    },
+    {
+      "t": "2026-11-02T21:07:57.167Z",
+      "kind": "handout",
+      "title": "Leandros",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/leandros.avatar.webp?1761751282670"
+    },
+    {
+      "t": "2026-11-02T21:09:41.198Z",
+      "kind": "scene",
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-02T21:10:25.049Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 31
+        }
+      ]
+    },
+    {
+      "t": "2026-11-02T21:12:39.192Z",
+      "kind": "scene",
+      "scene": "Rezydencja Heleny"
+    },
+    {
+      "t": "2026-11-02T21:31:33.404Z",
+      "kind": "scene",
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-02T21:46:20.061Z",
+      "kind": "handout",
+      "title": "Jocasta",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/jocasta.avatar.webp?1761750696084"
+    },
+    {
+      "t": "2026-11-02T21:46:45.589Z",
+      "kind": "scene",
+      "scene": "Poczekalnia"
+    },
+    {
+      "t": "2026-11-02T21:46:59.751Z",
+      "kind": "session_end"
+    }
+  ],
+  "snapshots": [
+    {
+      "t": "2026-11-02T17:36:05.313Z",
+      "reason": "start",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-02T17:46:04.313Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-02T18:46:04.324Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bar-muzeum Ultros"
+    },
+    {
+      "t": "2026-11-02T18:47:39.743Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Zythion"
+    },
+    {
+      "t": "2026-11-02T18:47:48.443Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Orestes"
+    },
+    {
+      "t": "2026-11-02T18:56:04.324Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bar-muzeum Ultros"
+    },
+    {
+      "t": "2026-11-02T19:06:04.324Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bar-muzeum Ultros"
+    },
+    {
+      "t": "2026-11-02T19:11:24.273Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Edran"
+    },
+    {
+      "t": "2026-11-02T19:11:40.806Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Krithon"
+    },
+    {
+      "t": "2026-11-02T19:16:04.324Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bar-muzeum Ultros"
+    },
+    {
+      "t": "2026-11-02T19:26:04.328Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bar-muzeum Ultros"
+    },
+    {
+      "t": "2026-11-02T19:36:37.362Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Makhaila"
+    },
+    {
+      "t": "2026-11-02T19:37:23.391Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Bar-muzeum Ultros"
+    },
+    {
+      "t": "2026-11-02T19:46:04.320Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Vallus Chambers"
+    },
+    {
+      "t": "2026-11-02T19:56:04.321Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Vallus Chambers"
+    },
+    {
+      "t": "2026-11-02T20:06:04.324Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Vallus Chambers"
+    },
+    {
+      "t": "2026-11-02T20:11:51.349Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Kairos"
+    },
+    {
+      "t": "2026-11-02T20:16:04.324Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Vallus Chambers"
+    },
+    {
+      "t": "2026-11-02T20:20:19.730Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Lyra"
+    },
+    {
+      "t": "2026-11-02T20:21:56.228Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Dolios"
+    },
+    {
+      "t": "2026-11-02T20:25:44.207Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Taran Neurdagon"
+    },
+    {
+      "t": "2026-11-02T20:26:04.327Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Obóz Mytros pod Arezją"
+    },
+    {
+      "t": "2026-11-02T20:27:15.309Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Flavius"
+    },
+    {
+      "t": "2026-11-02T20:36:04.331Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Obóz Mytros pod Arezją"
+    },
+    {
+      "t": "2026-11-02T20:46:04.332Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Obóz Mytros pod Arezją"
+    },
+    {
+      "t": "2026-11-02T20:55:38.177Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Flavius"
+    },
+    {
+      "t": "2026-11-02T20:55:41.933Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Dolios"
+    },
+    {
+      "t": "2026-11-02T20:56:04.332Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Obóz Mytros pod Arezją"
+    },
+    {
+      "t": "2026-11-02T21:01:29.751Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Obóz Mytros pod Arezją"
+    },
+    {
+      "t": "2026-11-02T21:06:04.339Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Obóz Mytros pod Arezją"
+    },
+    {
+      "t": "2026-11-02T21:07:57.271Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Leandros"
+    },
+    {
+      "t": "2026-11-02T21:09:44.686Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-02T21:12:43.270Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Rezydencja Heleny"
+    },
+    {
+      "t": "2026-11-02T21:12:46.076Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Rezydencja Heleny"
+    },
+    {
+      "t": "2026-11-02T21:13:06.423Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Rezydencja Heleny"
+    },
+    {
+      "t": "2026-11-02T21:16:04.336Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Rezydencja Heleny"
+    },
+    {
+      "t": "2026-11-02T21:26:04.334Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Rezydencja Heleny"
+    },
+    {
+      "t": "2026-11-02T21:31:36.689Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-02T21:36:04.330Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-02T21:46:20.140Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Jocasta"
+    },
+    {
+      "t": "2026-11-02T21:46:50.121Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Poczekalnia"
+    }
+  ]
+}
