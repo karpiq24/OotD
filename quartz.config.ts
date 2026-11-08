@@ -17,10 +17,8 @@ const config: QuartzConfig = {
     locale: "pl-PL",
     baseUrl: "karpiq24.github.io/OotD",
     ignorePatterns: [
-      "private",
       "templates",
       ".obsidian",
-      "99-DM-Corner",
       // rpgnotes working files, kept in each session's asset folder: off the site.
       "assets/sessions/*/draft*",
       "assets/sessions/*/validation_report*",

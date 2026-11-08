@@ -10,11 +10,6 @@ tsconfig.tsbuildinfo
 replit.nix
 *.pyc
 
-# Private repo (karpiq24/OotD-private), cloned into private/ and reached via symlinks
-private/
-/input
-/build
-/content/99-DM-Corner
 
 # Derived from the wiki by scripts/export_context.py; rpgnotes reads it
 campaign/campaign_context.json

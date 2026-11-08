@@ -25,19 +25,17 @@ uv run python scripts/update_indexes.py
 uv venv && uv pip install -r requirements.txt   # create or repair .venv
 uv run python scripts/<script>.py               # run anything
 
-# Convert the source PDFs in input/ into a markdown vault
-uv run python scripts/pdf2md/convert.py <PDF> <OUTDIR>
+# Convert a source PDF into a markdown vault (the PDFs and the vault are in the private repo)
+uv run python scripts/pdf2md/convert.py ../OotD-private/input/<PDF> ../OotD-private/input/vault/<Book>
 ```
 
-`input/` is a staging area for raw source material (sourcebook PDFs, the `pdf2md` vault, files to import into the wiki). Sessions never go there: they come only from rpgnotes, through `/import-session` (see below).
+## The private repo (`../OotD-private`)
 
-## Private repo (`private/`)
-
-`input/`, `build/` and `content/99-DM-Corner/` are **not** part of this public repo. They live in the private repo `karpiq24/OotD-private`, cloned into `private/` (gitignored), and are reached through gitignored symlinks: `input → private/input`, `build → private/build`, `content/99-DM-Corner → ../private/DM-Corner`. Commit changes to anything under those paths from inside `private/` (`git -C private ...`), never from the public repo. Anything copyrighted (sourcebook text, Nowa Era PDF build) or DM-only goes there. The two sourcebook PDFs in `input/` are local only (over GitHub's 100 MB limit). Setup on a fresh machine is in `private/README.md`.
+This public repo is one half of the campaign. The other half is the private repo `karpiq24/OotD-private`, a sibling folder (`~/Code/OotD/OotD-private`), never nested in here and never linked from here. It holds the campaign settings (`campaign.yaml`: players, Discord, Foundry, prep book, maps), the Nowa Era book (`build/nowa-era-pdf`), the Foundry import (`build/foundry-import`), the sourcebooks and the `pdf2md` vault (`input/`), and the rpgmaps projects (`maps/`). Anything copyrighted or DM-only goes there; nothing from it is ever copied into this repo. Commit there with `git -C ../OotD-private ...`. Sessions come only from rpgnotes, through `/import-session` (see below).
 
 ## Foundry VTT
 
-The campaign runs on Foundry at https://dnd.klima-kar.pl (world `odyssey-of-the-dragonlords`, files mounted at `/mnt/beholder/appdata/Foundry/Data/worlds/odyssey-of-the-dragonlords/`). To create or update actors (stat blocks, art, tokens), follow `build/foundry-import/README.md`: stat blocks go in through Plutonium's API in the browser, never by editing the world's LevelDB.
+The campaign runs on Foundry at https://dnd.klima-kar.pl (world `odyssey-of-the-dragonlords`, files mounted at `/mnt/beholder/appdata/Foundry/Data/worlds/odyssey-of-the-dragonlords/`). To create or update actors (stat blocks, art, tokens), follow `../OotD-private/build/foundry-import/README.md`: stat blocks go in through Plutonium's API in the browser, never by editing the world's LevelDB.
 
 ## rpgnotes and this wiki
 
