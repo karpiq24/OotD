@@ -1,0 +1,980 @@
+[
+  {
+    "offset_secs": -6.1559998989105225,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 287.6579999923706,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Arezja"
+  },
+  {
+    "offset_secs": 436.3250000476837,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Jocasta"
+  },
+  {
+    "offset_secs": 825.1870000362396,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Aketa"
+  },
+  {
+    "offset_secs": 1022.2490000724792,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 - 1 = 1"
+  },
+  {
+    "offset_secs": 1092.4849998950958,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Zanner"
+  },
+  {
+    "offset_secs": 1281.4010000228882,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Komnata Piękna Narsusa"
+  },
+  {
+    "offset_secs": 1424.441999912262,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Komnata Piękna (dziennik: Rozdział 7: Arezja na Krawędzi)"
+  },
+  {
+    "offset_secs": 1469.0889999866486,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Pyrrha"
+  },
+  {
+    "offset_secs": 1475.6970000267029,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Arystonar"
+  },
+  {
+    "offset_secs": 1790.9530000686646,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 5"
+  },
+  {
+    "offset_secs": 1826.292000055313,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "(OOC) Blessing of Prophecy Feat Divine Blessing: Blessing of Prophecy When you finish a long rest, roll one d20 d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with this roll. Timeless Nature: Your body is completely immune to magical aging and does not age naturally."
+  },
+  {
+    "offset_secs": 1857.279000043869,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 - 1 = 1"
+  },
+  {
+    "offset_secs": 2579.710000038147,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  6 = 17"
+  },
+  {
+    "offset_secs": 2834.5940001010895,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Arezja"
+  },
+  {
+    "offset_secs": 3603.74799990654,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 27"
+  },
+  {
+    "offset_secs": 3618.5230000019073,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 6"
+  },
+  {
+    "offset_secs": 3630.822000026703,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 4 = 23"
+  },
+  {
+    "offset_secs": 3923.996999979019,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Lennicus"
+  },
+  {
+    "offset_secs": 4268.838999986649,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Hiero, Wielki Mistrz Miecza"
+  },
+  {
+    "offset_secs": 5810.746000051498,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Taureus, Wielki Mistrz Żywiołów"
+  },
+  {
+    "offset_secs": 8767.00200009346,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Regenerate Legacy • 7th Level Transmutation (Cast at 7th Level) Casting Time 1 minute Duration 1 hour Components V, S, M(a prayer wheel and holy water) Range Touch You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute). The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2…"
+  },
+  {
+    "offset_secs": 8773.191999912262,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 4d8  +  15 = 27; 1 = 1"
+  },
+  {
+    "offset_secs": 8966.941999912262,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 9391.433000087738,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Spalony folwark (dziennik: Rozdział 8: Półwysep Arezyjski)"
+  },
+  {
+    "offset_secs": 9619.197999954224,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Aktywny gem w rekawicy Versira to gem Yali"
+  },
+  {
+    "offset_secs": 9683.631999969482,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 29"
+  },
+  {
+    "offset_secs": 9691.197999954224,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 1 = 6"
+  },
+  {
+    "offset_secs": 9697.319999933243,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 4 = 12"
+  },
+  {
+    "offset_secs": 9703.884999990463,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 6 = 18"
+  },
+  {
+    "offset_secs": 9773.480000019073,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 3"
+  },
+  {
+    "offset_secs": 9787.897000074387,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 3 = 19"
+  },
+  {
+    "offset_secs": 9813.27999997139,
+    "speaker": "Satyr",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 0 + 0 = 15"
+  },
+  {
+    "offset_secs": 10334.915999889374,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "(OOC) Tityros"
+  },
+  {
+    "offset_secs": 10810.93499994278,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  16 = 32"
+  },
+  {
+    "offset_secs": 11118.091000080109,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "(OOC) Cheironis"
+  },
+  {
+    "offset_secs": 11828.743000030518,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 18"
+  },
+  {
+    "offset_secs": 12061.263000011444,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Bór Thrake"
+  },
+  {
+    "offset_secs": 12212.846999883652,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 0 = 7"
+  },
+  {
+    "offset_secs": 12324.904000043869,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  -  1 = 15"
+  },
+  {
+    "offset_secs": 12328.24699997902,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Felicjan Janus Twardowski rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 3.14"
+  },
+  {
+    "offset_secs": 12330.838000059128,
+    "speaker": "Hoooooooobert",
+    "kind": "roll",
+    "text": "Hoooooooobert rolls for Initiative! | rzuty: 1d20[Initiative] + 1 + 0.13 = 8.13"
+  },
+  {
+    "offset_secs": 12333.00200009346,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Kairos rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 3 + 0.1 = 15.1"
+  },
+  {
+    "offset_secs": 12335.27999997139,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Orestes rolls for Initiative! | rzuty: 2d20adv[Initiative] + 2 + 0.14 = 13.14"
+  },
+  {
+    "offset_secs": 12416.993999958038,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom dziennik: Drużyna B: Zasady Drużyny B — Zdolności towarzyszy: @UUID[JournalEntry.op1GUpS6ERMZOEWx.JournalEntryPage.tHShHvOmsJJYw5F2]{Towarzysze}. Dawny skład: @UUID[JournalEntry.op1GUpS6ERMZOEWx.JournalEntryPage.pQ5dsqjikWzarhnh]{Towarzysze Ery Tytanów}. Zasady Skład. Drużyna B liczy najwyżej tylu towarzyszy, ilu jest graczy. Na początku Nowej Ery są w niej Kyrah, Pythor i Astra. Rekrutacja. Nowego towarzysza drużyna przyjmuje albo wymienia podczas długiego odpoczynku w dużym mieście lub na pokładzie swojego statku. Nowi towarzysze pojawiają się w trakcie Nowej Ery, a dawni wracają, gdy pozwoli na to fabuła. Poza składem. Towarzysz spoza składu może dalej podróżować z drużyną, ale nie można go wezwać. Pythor wędruje z Orionem, a Astra z Versirem, niezależnie od tego, czy są w składzie. Wezwanie. Każdy gracz może wezwać towarzysza ze składu, by użył swojej zdolności. Kosztuje to reakcję albo nic ( free action ), zgodnie z opisem zdolności. Raz na długi odpoczynek. Każda zdolność działa raz na długi odpoczynek, bez względu na to, kto ją wezwał. W pobliżu. Towarzysz pomaga, gdy jest przy drużynie. Gdy drużyna się rozdziela, każdy towarzysz zostaje z jedną z grup: wybierają gracze, chyba że przesądza fabuła. Towarzysza wysłanego na osobną misję nie można wzywać, dopóki nie wróci. Poza mapą. Towarzysz, który tylko używa zdolności, nie stoi na mapie i nie ma inicjatywy. Kyrah i Pythor mogą być na mapie jako smoki wierzchowce (@UUID[JournalEntry.nv4jzxhcBWxAb61j]{Latanie na smokach}). Ich zdolność działa wtedy tak samo, a wezwanie nie zabiera akcji jeźdźcowi. Bez doświadczenia. Towarzysze nie zdobywają doświadczenia ani poziomów. Czasowy awans. Gdy wymaga tego fabuła, towarzysz dołącza na pewien czas do drużyny jako pełnoprawny NPC i walczy razem z nią."
+  },
+  {
+    "offset_secs": 12456.821000099182,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 2d20 = 29"
+  },
+  {
+    "offset_secs": 12486.710000038147,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Prophecy Rolle Astra 18 Versir 18"
+  },
+  {
+    "offset_secs": 12510.414000034332,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 16"
+  },
+  {
+    "offset_secs": 12572.352999925613,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Orion Xul rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 0.11 = 14.11"
+  },
+  {
+    "offset_secs": 12581.073999881744,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Minotaur Warrior rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 18.14"
+  },
+  {
+    "offset_secs": 12691.973999977112,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "początek walki: Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Versir, Kairos, Orion Xul, Felicjan Janus Twardowski, Arevon Elorrenthi, Orestes, Hoooooooobert"
+  },
+  {
+    "offset_secs": 12692.289000034332,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round Start"
+  },
+  {
+    "offset_secs": 12744.158999919891,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  13 = 23"
+  },
+  {
+    "offset_secs": 12762.505000114441,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 4d6 = 14"
+  },
+  {
+    "offset_secs": 12851.573999881744,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Gore (Attack: 2d8 Piercing Damage)"
+  },
+  {
+    "offset_secs": 12852.990999937057,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Gore - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 13"
+  },
+  {
+    "offset_secs": 12860.12400007248,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Greataxe (Attack)"
+  },
+  {
+    "offset_secs": 12869.19000005722,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 22"
+  },
+  {
+    "offset_secs": 12882.368999958038,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Greataxe (Attack)"
+  },
+  {
+    "offset_secs": 12888.859999895096,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Damage Roll | rzuty: 2d12 + 5 = 21 slashing"
+  },
+  {
+    "offset_secs": 12939.21799993515,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Lightning Breath (Save)"
+  },
+  {
+    "offset_secs": 12967.141999959946,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath - Damage Roll | rzuty: 9d10 = 50 lightning"
+  },
+  {
+    "offset_secs": 12996.414000034332,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 14 (ST 15)"
+  },
+  {
+    "offset_secs": 12997.433000087738,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 8 (ST 15)"
+  },
+  {
+    "offset_secs": 12998.12700009346,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 10 (ST 15)"
+  },
+  {
+    "offset_secs": 13000.171999931335,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 3 (ST 15) PORAŻKA"
+  },
+  {
+    "offset_secs": 13000.83999991417,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 15 (ST 15)"
+  },
+  {
+    "offset_secs": 13221.865000009537,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "(OOC) Wall of Fire Legacy • 4th Level Evocation (Cast at 5th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(a small piece of phosphorus) Range 120ft. Concentration Requires Concentration You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration. When the wall appears, each creature …"
+  },
+  {
+    "offset_secs": 13324.677000045776,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Place Wall)"
+  },
+  {
+    "offset_secs": 13328.677999973297,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Place Ring)"
+  },
+  {
+    "offset_secs": 13370.798000097275,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 13384.480999946594,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 13392.349999904633,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 13402.194999933243,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 13411.553999900818,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 13440.486000061035,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Sorcerous Burst (Initial Damage)"
+  },
+  {
+    "offset_secs": 13446.769000053406,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 13"
+  },
+  {
+    "offset_secs": 13448.387000083923,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 6"
+  },
+  {
+    "offset_secs": 13449.796999931335,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 5"
+  },
+  {
+    "offset_secs": 13451.631000041962,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 4"
+  },
+  {
+    "offset_secs": 13455.888999938965,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Sorcerous Burst - Attack Roll | rzuty: 1d20 + 6 + 5 = 22"
+  },
+  {
+    "offset_secs": 13479.37199997902,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 28"
+  },
+  {
+    "offset_secs": 13487.75,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Warrior pada (0 PW)"
+  },
+  {
+    "offset_secs": 13524.880000114441,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 3d8 = 15"
+  },
+  {
+    "offset_secs": 13534.644000053406,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Warrior pada (0 PW)"
+  },
+  {
+    "offset_secs": 13556.16000008583,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 25"
+  },
+  {
+    "offset_secs": 13589.803999900818,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 14; 2d6 = 8"
+  },
+  {
+    "offset_secs": 13598.648999929428,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d6 = 1"
+  },
+  {
+    "offset_secs": 13614.693000078201,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 5 = 25 KRYTYK"
+  },
+  {
+    "offset_secs": 13639.605000019073,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 22"
+  },
+  {
+    "offset_secs": 13647.71799993515,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 10; 2d6 = 9"
+  },
+  {
+    "offset_secs": 13658.200000047684,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 8"
+  },
+  {
+    "offset_secs": 13675.509999990463,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 23"
+  },
+  {
+    "offset_secs": 13681.102999925613,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 15; 2d6 = 4"
+  },
+  {
+    "offset_secs": 13688.573999881744,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Warrior pada (0 PW)"
+  },
+  {
+    "offset_secs": 13699.667999982834,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 21"
+  },
+  {
+    "offset_secs": 13710.197000026703,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d4  +  9 = 11"
+  },
+  {
+    "offset_secs": 13715.209000110626,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 3"
+  },
+  {
+    "offset_secs": 13718.546999931335,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Warrior pada (0 PW)"
+  },
+  {
+    "offset_secs": 13835.822000026703,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 19; 1d20 + 13 = 21; 1d12 + 8 = 17; 2d6 = 5; 1d6 = 4"
+  },
+  {
+    "offset_secs": 13915.193000078201,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 14; 1d12 + 8 = 19; 2d6 = 5; 1d6 = 1"
+  },
+  {
+    "offset_secs": 13926.426000118256,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 5"
+  },
+  {
+    "offset_secs": 14029.289000034332,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Fireball (Legacy) (Save)"
+  },
+  {
+    "offset_secs": 14046.380000114441,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Fireball (Legacy) - Damage Roll | rzuty: 8d6 = 29 fire"
+  },
+  {
+    "offset_secs": 14080.763000011444,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 22 (ST 18) KRYTYK"
+  },
+  {
+    "offset_secs": 14081.482000112534,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 8 (ST 18)"
+  },
+  {
+    "offset_secs": 14082.190999984741,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 14 (ST 18)"
+  },
+  {
+    "offset_secs": 14082.917000055313,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 3 (ST 18) PORAŻKA"
+  },
+  {
+    "offset_secs": 14127.884999990463,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 2"
+  },
+  {
+    "offset_secs": 14202.191999912262,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Wither and Bloom Legacy • 2nd Level Necromancy (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a withered vine twisted into a loop) Range 60ft. Area of Effect 10ft. AoE Shape Sphere You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical ve…"
+  },
+  {
+    "offset_secs": 14205.267999887466,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 3d6 = 6"
+  },
+  {
+    "offset_secs": 14225.546999931335,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 4 = 6"
+  },
+  {
+    "offset_secs": 14226.825000047684,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 4 = 21"
+  },
+  {
+    "offset_secs": 14248.71499991417,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 13"
+  },
+  {
+    "offset_secs": 14275.440999984741,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 23"
+  },
+  {
+    "offset_secs": 14298.536000013351,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 14315.947999954224,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Greataxe (Attack)"
+  },
+  {
+    "offset_secs": 14317.115999937057,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 19"
+  },
+  {
+    "offset_secs": 14317.730000019073,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Greataxe (Attack)"
+  },
+  {
+    "offset_secs": 14318.815999984741,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 27"
+  },
+  {
+    "offset_secs": 14335.163000106812,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Damage Roll | rzuty: 2d12 + 5 = 13 slashing"
+  },
+  {
+    "offset_secs": 14337.417000055313,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Damage Roll | rzuty: 2d12 + 5 = 20 slashing"
+  },
+  {
+    "offset_secs": 14367.545000076294,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Warrior pada (0 PW)"
+  },
+  {
+    "offset_secs": 14375.516999959946,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Greataxe (Attack)"
+  },
+  {
+    "offset_secs": 14376.875,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 25"
+  },
+  {
+    "offset_secs": 14378.661000013351,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Greataxe (Attack)"
+  },
+  {
+    "offset_secs": 14379.87599992752,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 28 KRYTYK"
+  },
+  {
+    "offset_secs": 14400.44000005722,
+    "speaker": "Minotaur Warrior",
+    "kind": "event",
+    "text": "używa: Greataxe (Attack)"
+  },
+  {
+    "offset_secs": 14401.846999883652,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Attack Roll | rzuty: 1d20 + 5 + 3 = 21"
+  },
+  {
+    "offset_secs": 14418.87299990654,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Damage Roll | rzuty: 2d12 + 5 = 18 slashing"
+  },
+  {
+    "offset_secs": 14421.84200000763,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "Greataxe - Damage Roll | rzuty: 4d12 + 5 = 26 slashing KRYTYK"
+  },
+  {
+    "offset_secs": 14439.806999921799,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 14441.31299996376,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Wall of Fire (Legacy) (Damage)"
+  },
+  {
+    "offset_secs": 14441.957999944687,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 4 (ST 5)"
+  },
+  {
+    "offset_secs": 14470.857000112534,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 14473.269000053406,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10"
+  },
+  {
+    "offset_secs": 14488.473999977112,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 14491.21499991417,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10 (ST 16)"
+  },
+  {
+    "offset_secs": 14496.900000095367,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 14498.862999916077,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 24 (ST 16)"
+  },
+  {
+    "offset_secs": 14510.336999893188,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 2d10 + 5 = 12 slashing"
+  },
+  {
+    "offset_secs": 14524.803999900818,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 14526.384999990463,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 17 (ST 16)"
+  },
+  {
+    "offset_secs": 14538.651000022888,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 2d10 + 5 = 10 slashing"
+  },
+  {
+    "offset_secs": 14554.845999956131,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Warrior pada (0 PW)"
+  },
+  {
+    "offset_secs": 14578.835999965668,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  8 = 16; 1d20  +  8 = 9"
+  },
+  {
+    "offset_secs": 14586.720999956131,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d10  +  3 = 9; 4d6 = 23"
+  },
+  {
+    "offset_secs": 14602.043999910355,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Warrior pada (0 PW)"
+  },
+  {
+    "offset_secs": 14623.426000118256,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "koniec walki po 2 rundach"
+  },
+  {
+    "offset_secs": 14623.512000083923,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round End"
+  },
+  {
+    "offset_secs": 14623.608000040054,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 3 (ST 5)"
+  },
+  {
+    "offset_secs": 14677.003999948502,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 2nd Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 14687.602999925613,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 2d8  +  6 = 8"
+  },
+  {
+    "offset_secs": 14693.75099992752,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 4d8  +  6 = 34"
+  },
+  {
+    "offset_secs": 14699.551000118256,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d4 = 3"
+  },
+  {
+    "offset_secs": 14823.897000074387,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 2d8 + 6 = 10"
+  },
+  {
+    "offset_secs": 14901.428999900818,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 2 (ST 5)"
+  },
+  {
+    "offset_secs": 14904.744999885559,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 2 (ST 5)"
+  },
+  {
+    "offset_secs": 14907.348000049591,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 4 (ST 5)"
+  },
+  {
+    "offset_secs": 14910.859999895096,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)"
+  },
+  {
+    "offset_secs": 14913.96900010109,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - success! | rzuty: 1d6 = 6 (ST 5)"
+  },
+  {
+    "offset_secs": 14954.164999961853,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 14980.15499997139,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Fort Zakrotha (dziennik: Rozdział 8: Półwysep Arezyjski)"
+  }
+]

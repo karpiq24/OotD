@@ -1,0 +1,163 @@
+[PRZED NAGRANIEM] Scena: aktywna scena: Thylea
+[00:04:47] Scena: aktywna scena: Arezja
+[00:07:16] Handout: pokazano graczom obraz: Jocasta
+[00:13:45] Handout: pokazano graczom obraz: Aketa
+[00:17:02] Orestes (rzut): (OOC) rzuty: 1d20 - 1 = 1
+[00:18:12] Handout: pokazano graczom obraz: Zanner
+[00:21:21] Scena: aktywna scena: Komnata Piękna Narsusa
+[00:23:44] Handout: pokazano graczom obraz: Komnata Piękna (dziennik: Rozdział 7: Arezja na Krawędzi)
+[00:24:29] Handout: pokazano graczom obraz: Pyrrha
+[00:24:35] Handout: pokazano graczom obraz: Arystonar
+[00:29:50] Versir (rzut): rzuty: 1d20 = 5
+[00:30:26] Versir: (OOC) Blessing of Prophecy Feat Divine Blessing: Blessing of Prophecy When you finish a long rest, roll one d20 d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with this roll. Timeless Nature: Your body is completely immune to magical aging and does not age naturally.
+[00:30:57] Felicjan Janus Twardowski (rzut): (OOC) rzuty: 1d20 - 1 = 1
+[00:42:59] Arevon Elorrenthi (rzut): (OOC) rzuty: 1d20  +  6 = 17
+[00:47:14] Scena: aktywna scena: Arezja
+[01:00:03] Arevon Elorrenthi (rzut): (OOC) rzuty: 1d20  +  11 = 27
+[01:00:18] karpiq (rzut): rzuty: 1d20 = 6
+[01:00:30] Orestes (rzut): (OOC) rzuty: 1d20 + 4 = 23
+[01:05:23] Handout: pokazano graczom obraz: Lennicus
+[01:11:08] Handout: pokazano graczom obraz: Hiero, Wielki Mistrz Miecza
+[01:36:50] Handout: pokazano graczom obraz: Taureus, Wielki Mistrz Żywiołów
+[02:26:07] Arevon Elorrenthi: (OOC) Regenerate Legacy • 7th Level Transmutation (Cast at 7th Level) Casting Time 1 minute Duration 1 hour Components V, S, M(a prayer wheel and holy water) Range Touch You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute). The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2…
+[02:26:13] Arevon Elorrenthi (rzut): (OOC) rzuty: 4d8  +  15 = 27; 1 = 1
+[02:29:26] Scena: aktywna scena: Thylea
+[02:36:31] Handout: pokazano graczom obraz: Spalony folwark (dziennik: Rozdział 8: Półwysep Arezyjski)
+[02:40:19] Versir: Aktywny gem w rekawicy Versira to gem Yali
+[02:41:23] Arevon Elorrenthi (rzut): (OOC) rzuty: 1d20  +  11 = 29
+[02:41:31] Felicjan Janus Twardowski (rzut): (OOC) rzuty: 1d20 + 1 = 6
+[02:41:37] Orestes (rzut): (OOC) rzuty: 1d20 + 4 = 12
+[02:41:43] Orion Xul (rzut): (OOC) rzuty: 1d20 + 6 = 18
+[02:42:53] Versir (rzut): rzuty: 1d20 = 3
+[02:43:07] Minotaur Warrior (rzut): Wisdom Saving Throw | rzuty: 1d20 + 3 = 19
+[02:43:33] Satyr (rzut): Wisdom Saving Throw | rzuty: 1d20 + 0 + 0 = 15
+[02:52:14] karpiq: (OOC) Tityros
+[03:00:10] Versir (rzut): (OOC) rzuty: 1d20  +  16 = 32
+[03:05:18] karpiq: (OOC) Cheironis
+[03:17:08] Versir (rzut): rzuty: 1d20 = 18
+[03:21:01] Scena: aktywna scena: Bór Thrake
+[03:23:32] Orion Xul (rzut): (OOC) rzuty: 1d20 + 0 = 7
+[03:25:24] Versir (rzut): (OOC) rzuty: 1d20  -  1 = 15
+[03:25:28] Felicjan Janus Twardowski (rzut): Felicjan Janus Twardowski rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 3.14
+[03:25:30] Hoooooooobert (rzut): Hoooooooobert rolls for Initiative! | rzuty: 1d20[Initiative] + 1 + 0.13 = 8.13
+[03:25:33] Kairos (rzut): Kairos rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 3 + 0.1 = 15.1
+[03:25:35] Orestes (rzut): Orestes rolls for Initiative! | rzuty: 2d20adv[Initiative] + 2 + 0.14 = 13.14
+[03:26:56] Handout: pokazano graczom dziennik: Drużyna B: Zasady Drużyny B — Zdolności towarzyszy: @UUID[JournalEntry.op1GUpS6ERMZOEWx.JournalEntryPage.tHShHvOmsJJYw5F2]{Towarzysze}. Dawny skład: @UUID[JournalEntry.op1GUpS6ERMZOEWx.JournalEntryPage.pQ5dsqjikWzarhnh]{Towarzysze Ery Tytanów}. Zasady Skład. Drużyna B liczy najwyżej tylu towarzyszy, ilu jest graczy. Na początku Nowej Ery są w niej Kyrah, Pythor i Astra. Rekrutacja. Nowego towarzysza drużyna przyjmuje albo wymienia podczas długiego odpoczynku w dużym mieście lub na pokładzie swojego statku. Nowi towarzysze pojawiają się w trakcie Nowej Ery, a dawni wracają, gdy pozwoli na to fabuła. Poza składem. Towarzysz spoza składu może dalej podróżować z drużyną, ale nie można go wezwać. Pythor wędruje z Orionem, a Astra z Versirem, niezależnie od tego, czy są w składzie. Wezwanie. Każdy gracz może wezwać towarzysza ze składu, by użył swojej zdolności. Kosztuje to reakcję albo nic ( free action ), zgodnie z opisem zdolności. Raz na długi odpoczynek. Każda zdolność działa raz na długi odpoczynek, bez względu na to, kto ją wezwał. W pobliżu. Towarzysz pomaga, gdy jest przy drużynie. Gdy drużyna się rozdziela, każdy towarzysz zostaje z jedną z grup: wybierają gracze, chyba że przesądza fabuła. Towarzysza wysłanego na osobną misję nie można wzywać, dopóki nie wróci. Poza mapą. Towarzysz, który tylko używa zdolności, nie stoi na mapie i nie ma inicjatywy. Kyrah i Pythor mogą być na mapie jako smoki wierzchowce (@UUID[JournalEntry.nv4jzxhcBWxAb61j]{Latanie na smokach}). Ich zdolność działa wtedy tak samo, a wezwanie nie zabiera akcji jeźdźcowi. Bez doświadczenia. Towarzysze nie zdobywają doświadczenia ani poziomów. Czasowy awans. Gdy wymaga tego fabuła, towarzysz dołącza na pewien czas do drużyny jako pełnoprawny NPC i walczy razem z nią.
+[03:27:36] Versir (rzut): rzuty: 2d20 = 29
+[03:28:06] Versir: Prophecy Rolle Astra 18 Versir 18
+[03:28:30] Arevon Elorrenthi (rzut): rzuty: 1d20 = 16
+[03:29:32] Orion Xul (rzut): Orion Xul rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 0.11 = 14.11
+[03:29:41] Minotaur Warrior (rzut): (szept do: karpiq) Minotaur Warrior rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 18.14
+[03:31:31] Walka: początek walki: Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Minotaur Warrior, Versir, Kairos, Orion Xul, Felicjan Janus Twardowski, Arevon Elorrenthi, Orestes, Hoooooooobert
+[03:31:32] karpiq: Round Start
+[03:32:24] Arevon Elorrenthi (rzut): (OOC) rzuty: 1d20  +  13 = 23
+[03:32:42] Arevon Elorrenthi (rzut): (OOC) rzuty: 4d6 = 14
+[03:34:11] Minotaur Warrior: używa: Gore (Attack: 2d8 Piercing Damage)
+[03:34:12] Minotaur Warrior (rzut): Gore - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 13
+[03:34:20] Minotaur Warrior: używa: Greataxe (Attack)
+[03:34:29] Minotaur Warrior (rzut): Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 22
+[03:34:42] Minotaur Warrior: używa: Greataxe (Attack)
+[03:34:48] Minotaur Warrior (rzut): Greataxe - Damage Roll | rzuty: 2d12 + 5 = 21 slashing
+[03:35:39] Kairos: używa: Lightning Breath (Save)
+[03:36:07] Kairos (rzut): Lightning Breath - Damage Roll | rzuty: 9d10 = 50 lightning
+[03:36:36] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 14 (ST 15)
+[03:36:37] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 8 (ST 15)
+[03:36:38] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 10 (ST 15)
+[03:36:40] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 3 (ST 15) PORAŻKA
+[03:36:40] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 15 (ST 15)
+[03:40:21] Versir: (OOC) Wall of Fire Legacy • 4th Level Evocation (Cast at 5th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(a small piece of phosphorus) Range 120ft. Concentration Requires Concentration You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration. When the wall appears, each creature …
+[03:42:04] Versir: używa: Wall of Fire (Legacy) (Place Wall)
+[03:42:08] Versir: używa: Wall of Fire (Legacy) (Place Ring)
+[03:42:50] Versir: używa: Wall of Fire (Legacy) (Damage)
+[03:43:04] Versir: używa: Wall of Fire (Legacy) (Damage)
+[03:43:12] Versir: używa: Wall of Fire (Legacy) (Damage)
+[03:43:22] Versir: używa: Wall of Fire (Legacy) (Damage)
+[03:43:31] Versir: używa: Wall of Fire (Legacy) (Damage)
+[03:44:00] Versir: używa: Sorcerous Burst (Initial Damage)
+[03:44:06] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 13
+[03:44:08] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 6
+[03:44:09] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 5
+[03:44:11] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 4
+[03:44:15] Versir (rzut): Sorcerous Burst - Attack Roll | rzuty: 1d20 + 6 + 5 = 22
+[03:44:39] Versir (rzut): rzuty: 6d8 = 28
+[03:44:47] Walka: Minotaur Warrior pada (0 PW)
+[03:45:24] Versir (rzut): rzuty: 3d8 = 15
+[03:45:34] Walka: Minotaur Warrior pada (0 PW)
+[03:45:56] Orion Xul (rzut): (OOC) rzuty: 1d20 + 12 = 25
+[03:46:29] Orion Xul (rzut): (OOC) rzuty: 1d8  +  9 = 14; 2d6 = 8
+[03:46:38] Orion Xul (rzut): (OOC) rzuty: 1d6 = 1
+[03:46:54] Minotaur Warrior (rzut): Strength Saving Throw | rzuty: 1d20 + 5 = 25 KRYTYK
+[03:47:19] Orion Xul (rzut): (OOC) rzuty: 1d20 + 12 = 22
+[03:47:27] Orion Xul (rzut): (OOC) rzuty: 1d8  +  9 = 10; 2d6 = 9
+[03:47:38] Orion Xul (rzut): rzuty: 1d8 = 8
+[03:47:55] Orion Xul (rzut): (OOC) rzuty: 1d20 + 12 = 23
+[03:48:01] Orion Xul (rzut): (OOC) rzuty: 1d8  +  9 = 15; 2d6 = 4
+[03:48:08] Walka: Minotaur Warrior pada (0 PW)
+[03:48:19] Orion Xul (rzut): (OOC) rzuty: 1d20 + 12 = 21
+[03:48:30] Orion Xul (rzut): (OOC) rzuty: 1d4  +  9 = 11
+[03:48:35] Orion Xul (rzut): rzuty: 2d6 = 3
+[03:48:38] Walka: Minotaur Warrior pada (0 PW)
+[03:50:35] Orestes (rzut): (OOC) rzuty: 1d20 + 13 = 19; 1d20 + 13 = 21; 1d12 + 8 = 17; 2d6 = 5; 1d6 = 4
+[03:51:55] Orestes (rzut): (OOC) rzuty: 1d20 + 13 = 14; 1d12 + 8 = 19; 2d6 = 5; 1d6 = 1
+[03:52:06] Orestes (rzut): rzuty: 1d20 = 5
+[03:53:49] Felicjan Janus Twardowski: używa: Fireball (Legacy) (Save)
+[03:54:06] Felicjan Janus Twardowski (rzut): Fireball (Legacy) - Damage Roll | rzuty: 8d6 = 29 fire
+[03:54:40] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 22 (ST 18) KRYTYK
+[03:54:41] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 8 (ST 18)
+[03:54:42] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 14 (ST 18)
+[03:54:42] Minotaur Warrior (rzut): Dexterity Saving Throw | rzuty: 1d20 + 2 + 0 = 3 (ST 18) PORAŻKA
+[03:55:27] karpiq: Round 2
+[03:56:42] Arevon Elorrenthi: (OOC) Wither and Bloom Legacy • 2nd Level Necromancy (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a withered vine twisted into a loop) Range 60ft. Area of Effect 10ft. AoE Shape Sphere You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical ve…
+[03:56:45] Arevon Elorrenthi (rzut): (OOC) rzuty: 3d6 = 6
+[03:57:05] Minotaur Warrior (rzut): Constitution Saving Throw | rzuty: 1d20 + 4 = 6
+[03:57:06] Minotaur Warrior (rzut): Constitution Saving Throw | rzuty: 1d20 + 4 = 21
+[03:57:28] Arevon Elorrenthi (rzut): (OOC) rzuty: 1d20  +  11 = 13
+[03:57:55] Versir (rzut): rzuty: 6d8 = 23
+[03:58:18] Versir: używa: Wall of Fire (Legacy) (Damage)
+[03:58:35] Minotaur Warrior: używa: Greataxe (Attack)
+[03:58:37] Minotaur Warrior (rzut): Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 19
+[03:58:37] Minotaur Warrior: używa: Greataxe (Attack)
+[03:58:38] Minotaur Warrior (rzut): Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 27
+[03:58:55] Minotaur Warrior (rzut): Greataxe - Damage Roll | rzuty: 2d12 + 5 = 13 slashing
+[03:58:57] Minotaur Warrior (rzut): Greataxe - Damage Roll | rzuty: 2d12 + 5 = 20 slashing
+[03:59:27] Walka: Minotaur Warrior pada (0 PW)
+[03:59:35] Minotaur Warrior: używa: Greataxe (Attack)
+[03:59:36] Minotaur Warrior (rzut): Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 25
+[03:59:38] Minotaur Warrior: używa: Greataxe (Attack)
+[03:59:39] Minotaur Warrior (rzut): Greataxe - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 28 KRYTYK
+[04:00:00] Minotaur Warrior: używa: Greataxe (Attack)
+[04:00:01] Minotaur Warrior (rzut): Greataxe - Attack Roll | rzuty: 1d20 + 5 + 3 = 21
+[04:00:18] Minotaur Warrior (rzut): Greataxe - Damage Roll | rzuty: 2d12 + 5 = 18 slashing
+[04:00:21] Minotaur Warrior (rzut): Greataxe - Damage Roll | rzuty: 4d12 + 5 = 26 slashing KRYTYK
+[04:00:39] Versir: używa: Wall of Fire (Legacy) (Damage)
+[04:00:41] Versir: używa: Wall of Fire (Legacy) (Damage)
+[04:00:41] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 4 (ST 5)
+[04:01:10] Kairos: używa: Rend (Attack)
+[04:01:13] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10
+[04:01:28] Kairos: używa: Rend (Attack)
+[04:01:31] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10 (ST 16)
+[04:01:36] Kairos: używa: Rend (Attack)
+[04:01:38] Kairos (rzut): Rend - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 24 (ST 16)
+[04:01:50] Kairos (rzut): Rend - Damage Roll | rzuty: 2d10 + 5 = 12 slashing
+[04:02:04] Kairos: używa: Rend (Attack)
+[04:02:06] Kairos (rzut): Rend - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 17 (ST 16)
+[04:02:18] Kairos (rzut): Rend - Damage Roll | rzuty: 2d10 + 5 = 10 slashing
+[04:02:34] Walka: Minotaur Warrior pada (0 PW)
+[04:02:58] Versir (rzut): (OOC) rzuty: 1d20  +  8 = 16; 1d20  +  8 = 9
+[04:03:06] Versir (rzut): (OOC) rzuty: 1d10  +  3 = 9; 4d6 = 23
+[04:03:22] Walka: Minotaur Warrior pada (0 PW)
+[04:03:43] Walka: koniec walki po 2 rundach
+[04:03:43] karpiq: Round End
+[04:03:43] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 3 (ST 5)
+[04:04:37] Arevon Elorrenthi: (OOC) Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 2nd Level Components: : V, S Roll Damages
+[04:04:47] Arevon Elorrenthi (rzut): (OOC) rzuty: 2d8  +  6 = 8
+[04:04:53] Arevon Elorrenthi (rzut): (OOC) rzuty: 4d8  +  6 = 34
+[04:04:59] Arevon Elorrenthi (rzut): rzuty: 1d4 = 3
+[04:07:03] Trąba (rzut): rzuty: 2d8 + 6 = 10
+[04:08:21] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 2 (ST 5)
+[04:08:24] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 2 (ST 5)
+[04:08:27] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 4 (ST 5)
+[04:08:30] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)
+[04:08:33] Kairos (rzut): Lightning Breath recharge check - success! | rzuty: 1d6 = 6 (ST 5)
+[04:09:14] Scena: aktywna scena: Thylea
+[04:09:40] Handout: pokazano graczom obraz: Fort Zakrotha (dziennik: Rozdział 8: Półwysep Arezyjski)

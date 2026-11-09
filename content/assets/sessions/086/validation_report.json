@@ -1,0 +1,10 @@
+{
+  "findings": [
+    {
+      "quote": "i z jednym z nich, którego jeden sięgnął celu z pełną siłą.",
+      "issue": "Nie dotyczy (sprawdzenie dokładnego cytatu poniżej).",
+      "severity": "suspicious",
+      "suggested_fix": ""
+    }
+  ]
+}

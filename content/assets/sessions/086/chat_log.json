@@ -1,0 +1,2904 @@
+{
+  "format": "rpgnotes-foundry",
+  "version": 2,
+  "title": "session86",
+  "archiveDate": "2026-11-09",
+  "session": 86,
+  "world": "Odyssey of the Dragonlords",
+  "foundry": "14.369",
+  "system": "dnd5e 6.0.6",
+  "adapter": "dnd5e",
+  "startedAt": "2026-11-09T17:23:47.824Z",
+  "endedAt": "2026-11-09T21:35:10.479Z",
+  "gameTime": {
+    "start": 16241527327,
+    "end": 16241762029
+  },
+  "players": [
+    {
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "user": "keszu",
+      "character": "Versir"
+    },
+    {
+      "user": "miłosz",
+      "character": "Orestes"
+    },
+    {
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    }
+  ],
+  "events": [
+    {
+      "t": "2026-11-09T17:23:47.842Z",
+      "kind": "session_start"
+    },
+    {
+      "t": "2026-11-09T17:23:47.843Z",
+      "kind": "player_join",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T17:23:47.843Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T17:23:47.843Z",
+      "kind": "player_join",
+      "user": "keszu",
+      "character": "Versir"
+    },
+    {
+      "t": "2026-11-09T17:23:47.844Z",
+      "kind": "player_join",
+      "user": "miłosz",
+      "character": "Orestes"
+    },
+    {
+      "t": "2026-11-09T17:23:47.844Z",
+      "kind": "scene",
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T17:24:06.262Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-09T17:28:41.658Z",
+      "kind": "scene",
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T17:31:10.325Z",
+      "kind": "handout",
+      "title": "Jocasta",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/jocasta.avatar.webp?1761750696084"
+    },
+    {
+      "t": "2026-11-09T17:37:39.187Z",
+      "kind": "handout",
+      "title": "Aketa",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/aketa.avatar.webp?1761751737497"
+    },
+    {
+      "t": "2026-11-09T17:40:56.249Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 - 1",
+          "total": 1,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T17:41:06.371Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T17:41:08.263Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T17:42:06.485Z",
+      "kind": "handout",
+      "title": "Zanner",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/zanner.avatar.webp?1761751963828"
+    },
+    {
+      "t": "2026-11-09T17:45:15.401Z",
+      "kind": "scene",
+      "scene": "Komnata Piękna Narsusa"
+    },
+    {
+      "t": "2026-11-09T17:47:38.442Z",
+      "kind": "handout",
+      "title": "Komnata Piękna",
+      "src": "campaigns/odyssey-of-the-dragonlords/illustrations/narsus_komnata_piekna.webp?v=1792917313",
+      "journal": "Rozdział 7: Arezja na Krawędzi"
+    },
+    {
+      "t": "2026-11-09T17:48:23.089Z",
+      "kind": "handout",
+      "title": "Pyrrha",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/pyrrha.avatar.webp?1761751206793"
+    },
+    {
+      "t": "2026-11-09T17:48:29.697Z",
+      "kind": "handout",
+      "title": "Arystonar",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/Narsus.webp"
+    },
+    {
+      "t": "2026-11-09T17:53:44.953Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 5,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T17:54:20.292Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "text": "Blessing of Prophecy Feat Divine Blessing: Blessing of Prophecy When you finish a long rest, roll one d20 d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with this roll. Timeless Nature: Your body is completely immune to magical aging and does not age naturally."
+    },
+    {
+      "t": "2026-11-09T17:54:51.279Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "maciek",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "rolls": [
+        {
+          "formula": "1d20 - 1",
+          "total": 1,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T18:06:53.710Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  6",
+          "total": 17,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T18:11:08.594Z",
+      "kind": "scene",
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T18:23:57.748Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 27,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T18:24:12.523Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 6,
+          "key_die": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T18:24:24.822Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 4",
+          "total": 23,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T18:29:17.997Z",
+      "kind": "handout",
+      "title": "Lennicus",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/lennicus.avatar.webp?1761751917245"
+    },
+    {
+      "t": "2026-11-09T18:35:02.839Z",
+      "kind": "handout",
+      "title": "Hiero, Wielki Mistrz Miecza",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/hiero-aged.webp?v=2"
+    },
+    {
+      "t": "2026-11-09T19:00:44.746Z",
+      "kind": "handout",
+      "title": "Taureus, Wielki Mistrz Żywiołów",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/taureus.avatar.webp?1761751539947"
+    },
+    {
+      "t": "2026-11-09T19:50:01.002Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "text": "Regenerate Legacy • 7th Level Transmutation (Cast at 7th Level) Casting Time 1 minute Duration 1 hour Components V, S, M(a prayer wheel and holy water) Range Touch You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute). The target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2…"
+    },
+    {
+      "t": "2026-11-09T19:50:07.192Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "4d8  +  15",
+          "total": 27
+        },
+        {
+          "formula": "1",
+          "total": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T19:53:20.942Z",
+      "kind": "scene",
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T20:00:25.433Z",
+      "kind": "handout",
+      "title": "Spalony folwark",
+      "src": "campaigns/odyssey-of-the-dragonlords/illustrations/ne-s12.webp?v=1793126219",
+      "journal": "Rozdział 8: Półwysep Arezyjski"
+    },
+    {
+      "t": "2026-11-09T20:04:13.198Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ic",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "text": "Aktywny gem w rekawicy Versira to gem Yali"
+    },
+    {
+      "t": "2026-11-09T20:05:17.632Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 29,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:05:25.198Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "maciek",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 6,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:05:31.320Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 4",
+          "total": 12,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:05:37.885Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 6",
+          "total": 18,
+          "key_die": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:06:47.480Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 3,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:07:01.897Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 3",
+          "total": 19,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:07:27.280Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Satyr",
+      "actor": "Satyr",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 0 + 0",
+          "total": 15,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:16:08.916Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "text": "Tityros"
+    },
+    {
+      "t": "2026-11-09T20:24:04.935Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  16",
+          "total": 32,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:29:12.091Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "text": "Cheironis"
+    },
+    {
+      "t": "2026-11-09T20:41:02.743Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 18,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:44:55.263Z",
+      "kind": "scene",
+      "scene": "Bór Thrake"
+    },
+    {
+      "t": "2026-11-09T20:46:00.531Z",
+      "kind": "player_leave",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T20:46:01.773Z",
+      "kind": "player_join",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T20:46:16.154Z",
+      "kind": "player_leave",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T20:46:17.468Z",
+      "kind": "player_join",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T20:46:31.247Z",
+      "kind": "player_leave",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T20:46:32.722Z",
+      "kind": "player_join",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T20:46:47.149Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:46:49.929Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:47:26.847Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 0",
+          "total": 7,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:48:41.980Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:48:44.281Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:49:18.904Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  -  1",
+          "total": 15,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:49:22.247Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Felicjan Janus Twardowski rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 0.14",
+          "total": 3.14,
+          "key_die": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:49:24.838Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Hoooooooobert",
+      "actor": "Hoooooooobert",
+      "user": "maciek",
+      "flavor": "Hoooooooobert rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 1 + 0.13",
+          "total": 8.13,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:49:27.002Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Kairos rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 0 + 3 + 0.1",
+          "total": 15.1,
+          "key_die": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:49:29.280Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "flavor": "Orestes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "2d20adv[Initiative] + 2 + 0.14",
+          "total": 13.14,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:50:12.857Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:50:29.040Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:50:50.994Z",
+      "kind": "journal",
+      "title": "Drużyna B: Zasady Drużyny B",
+      "text": "Zdolności towarzyszy: @UUID[JournalEntry.op1GUpS6ERMZOEWx.JournalEntryPage.tHShHvOmsJJYw5F2]{Towarzysze}. Dawny skład: @UUID[JournalEntry.op1GUpS6ERMZOEWx.JournalEntryPage.pQ5dsqjikWzarhnh]{Towarzysze Ery Tytanów}. Zasady Skład. Drużyna B liczy najwyżej tylu towarzyszy, ilu jest graczy. Na początku Nowej Ery są w niej Kyrah, Pythor i Astra. Rekrutacja. Nowego towarzysza drużyna przyjmuje albo wymienia podczas długiego odpoczynku w dużym mieście lub na pokładzie swojego statku. Nowi towarzysze pojawiają się w trakcie Nowej Ery, a dawni wracają, gdy pozwoli na to fabuła. Poza składem. Towarzysz spoza składu może dalej podróżować z drużyną, ale nie można go wezwać. Pythor wędruje z Orionem, a Astra z Versirem, niezależnie od tego, czy są w składzie. Wezwanie. Każdy gracz może wezwać towarzysza ze składu, by użył swojej zdolności. Kosztuje to reakcję albo nic ( free action ), zgodnie z opisem zdolności. Raz na długi odpoczynek. Każda zdolność działa raz na długi odpoczynek, bez względu na to, kto ją wezwał. W pobliżu. Towarzysz pomaga, gdy jest przy drużynie. Gdy drużyna się rozdziela, każdy towarzysz zostaje z jedną z grup: wybierają gracze, chyba że przesądza fabuła. Towarzysza wysłanego na osobną misję nie można wzywać, dopóki nie wróci. Poza mapą. Towarzysz, który tylko używa zdolności, nie stoi na mapie i nie ma inicjatywy. Kyrah i Pythor mogą być na mapie jako smoki wierzchowce (@UUID[JournalEntry.nv4jzxhcBWxAb61j]{Latanie na smokach}). Ich zdolność działa wtedy tak samo, a wezwanie nie zabiera akcji jeźdźcowi. Bez doświadczenia. Towarzysze nie zdobywają doświadczenia ani poziomów. Czasowy awans. Gdy wymaga tego fabuła, towarzysz dołącza na pewien czas do drużyny jako pełnoprawny NPC i walczy razem z nią."
+    },
+    {
+      "t": "2026-11-09T20:51:30.821Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "2d20",
+          "total": 29,
+          "key_die": 29
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:51:31.665Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:51:43.954Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-09T20:52:00.710Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ic",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "text": "Prophecy Rolle Astra 18 Versir 18"
+    },
+    {
+      "t": "2026-11-09T20:52:24.414Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 16,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:53:26.353Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "flavor": "Orion Xul rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 0 + 0.11",
+          "total": 14.11,
+          "key_die": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:53:35.074Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Minotaur Warrior rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 0.14",
+          "total": 18.14,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:55:25.974Z",
+      "kind": "combat_start",
+      "combatants": [
+        "Minotaur Warrior",
+        "Minotaur Warrior",
+        "Minotaur Warrior",
+        "Minotaur Warrior",
+        "Minotaur Warrior",
+        "Minotaur Warrior",
+        "Minotaur Warrior",
+        "Minotaur Warrior",
+        "Versir",
+        "Kairos",
+        "Orion Xul",
+        "Felicjan Janus Twardowski",
+        "Arevon Elorrenthi",
+        "Orestes",
+        "Hoooooooobert"
+      ]
+    },
+    {
+      "t": "2026-11-09T20:55:26.289Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round Start"
+    },
+    {
+      "t": "2026-11-09T20:56:18.159Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  13",
+          "total": 23,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:56:36.505Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "4d6",
+          "total": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:58:05.574Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Gore",
+      "action": "Attack: 2d8 Piercing Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T20:58:06.991Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Gore - Attack Roll (Advantage)",
+      "item": "Gore",
+      "action": "Attack: 2d8 Piercing Damage",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 13,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:58:14.124Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T20:58:23.190Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Attack Roll (Advantage)",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 22,
+          "key_die": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:58:36.369Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T20:58:42.860Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Damage Roll",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d12 + 5",
+          "total": 21,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T20:58:57.313Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T20:58:59.212Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T20:58:59.711Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T20:59:00.472Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T20:59:01.139Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T20:59:01.887Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T20:59:02.382Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T20:59:02.964Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Kairos"
+    },
+    {
+      "t": "2026-11-09T20:59:33.218Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Lightning Breath",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:00:01.142Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Lightning Breath - Damage Roll",
+      "item": "Lightning Breath",
+      "action": "Save",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "9d10",
+          "total": 50,
+          "damage_type": "lightning"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:00:30.414Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Lightning Breath",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 14,
+          "key_die": 12,
+          "target": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:00:31.433Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Lightning Breath",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 8,
+          "key_die": 6,
+          "target": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:00:32.127Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Lightning Breath",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 10,
+          "key_die": 8,
+          "target": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:00:34.172Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Lightning Breath",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 3,
+          "key_die": 1,
+          "outcome": "fumble",
+          "target": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:00:34.840Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Lightning Breath",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 15,
+          "key_die": 13,
+          "target": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:02:24.819Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Versir"
+    },
+    {
+      "t": "2026-11-09T21:04:15.865Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "text": "Wall of Fire Legacy • 4th Level Evocation (Cast at 5th Level) Casting Time 1 action Duration up to 1 minute Components V, S, M(a small piece of phosphorus) Range 120ft. Concentration Requires Concentration You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration. When the wall appears, each creature …"
+    },
+    {
+      "t": "2026-11-09T21:05:58.677Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Place Wall",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:06:02.678Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Place Ring",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:06:44.798Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:06:58.481Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:07:06.350Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:07:16.195Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:07:25.554Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:07:54.486Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "item": "Sorcerous Burst",
+      "action": "Initial Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:08:00.769Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 13,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:08:02.387Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 6,
+          "key_die": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:08:03.797Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 5,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:08:05.631Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 4,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:08:09.889Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "flavor": "Sorcerous Burst - Attack Roll",
+      "item": "Sorcerous Burst",
+      "action": "Initial Damage",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 6 + 5",
+          "total": 22,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:08:33.372Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 28
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:08:41.750Z",
+      "kind": "resource",
+      "actor": "Minotaur Warrior",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-09T21:09:18.880Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "3d8",
+          "total": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:09:28.644Z",
+      "kind": "resource",
+      "actor": "Minotaur Warrior",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-09T21:09:33.088Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Orion Xul"
+    },
+    {
+      "t": "2026-11-09T21:09:50.160Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 25,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:10:23.804Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 14
+        },
+        {
+          "formula": "2d6",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:10:32.649Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:10:48.693Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Strength Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 5",
+          "total": 25,
+          "key_die": 20,
+          "outcome": "critical"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:11:13.605Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 22,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:11:21.718Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 10
+        },
+        {
+          "formula": "2d6",
+          "total": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:11:32.200Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:11:49.510Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 23,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:11:55.103Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 15
+        },
+        {
+          "formula": "2d6",
+          "total": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:12:02.574Z",
+      "kind": "resource",
+      "actor": "Minotaur Warrior",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-09T21:12:13.668Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 21,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:12:24.197Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d4  +  9",
+          "total": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:12:29.209Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "2d6",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:12:32.547Z",
+      "kind": "resource",
+      "actor": "Minotaur Warrior",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-09T21:12:43.320Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Orestes"
+    },
+    {
+      "t": "2026-11-09T21:14:29.822Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 19,
+          "key_die": 6
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 21,
+          "key_die": 8
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 17
+        },
+        {
+          "formula": "2d6",
+          "total": 5
+        },
+        {
+          "formula": "1d6",
+          "total": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:15:49.193Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 14,
+          "key_die": 1
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 19
+        },
+        {
+          "formula": "2d6",
+          "total": 5
+        },
+        {
+          "formula": "1d6",
+          "total": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:16:00.426Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 5,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:17:18.856Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Hoooooooobert"
+    },
+    {
+      "t": "2026-11-09T21:17:43.289Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "item": "Fireball (Legacy)",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:18:00.380Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Fireball (Legacy) - Damage Roll",
+      "item": "Fireball (Legacy)",
+      "action": "Save",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "8d6",
+          "total": 29,
+          "damage_type": "fire"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:18:34.763Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Fireball (Legacy)",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 22,
+          "key_die": 20,
+          "outcome": "critical",
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:18:35.482Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Fireball (Legacy)",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 8,
+          "key_die": 6,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:18:36.191Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Fireball (Legacy)",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 14,
+          "key_die": 12,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:18:36.917Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Dexterity Saving Throw",
+      "item": "Fireball (Legacy)",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 3,
+          "key_die": 1,
+          "outcome": "fumble",
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:19:21.885Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round 2"
+    },
+    {
+      "t": "2026-11-09T21:20:36.192Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "text": "Wither and Bloom Legacy • 2nd Level Necromancy (Cast at 3rd Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a withered vine twisted into a loop) Range 60ft. Area of Effect 10ft. AoE Shape Sphere You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical ve…"
+    },
+    {
+      "t": "2026-11-09T21:20:39.268Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "3d6",
+          "total": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:20:59.547Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Constitution Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 4",
+          "total": 6,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:21:00.825Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Constitution Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 4",
+          "total": 21,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:21:22.715Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 13,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:21:49.441Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 23
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:22:12.536Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:22:29.948Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:22:31.116Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Attack Roll (Advantage)",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 19,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:22:31.730Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:22:32.816Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Attack Roll (Advantage)",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 27,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:22:49.163Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Damage Roll",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d12 + 5",
+          "total": 13,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:22:51.417Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Damage Roll",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d12 + 5",
+          "total": 20,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:23:21.545Z",
+      "kind": "resource",
+      "actor": "Minotaur Warrior",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-09T21:23:29.517Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:23:30.875Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Attack Roll (Advantage)",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 25,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:23:32.661Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:23:33.876Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Attack Roll (Advantage)",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 28,
+          "key_die": 20,
+          "outcome": "critical"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:23:54.440Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:23:55.847Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Attack Roll",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 3",
+          "total": 21,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:24:12.873Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Damage Roll",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d12 + 5",
+          "total": 18,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:24:15.842Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "flavor": "Greataxe - Damage Roll",
+      "item": "Greataxe",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "4d12 + 5",
+          "total": 26,
+          "outcome": "critical",
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:24:33.496Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T21:24:33.807Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:24:35.070Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Minotaur Warrior"
+    },
+    {
+      "t": "2026-11-09T21:24:35.313Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "karpiq",
+      "item": "Wall of Fire (Legacy)",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:24:35.876Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Kairos"
+    },
+    {
+      "t": "2026-11-09T21:24:35.958Z",
+      "kind": "chat",
+      "type": "recharge",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "karpiq",
+      "flavor": "Lightning Breath recharge check - failure!",
+      "item": "Lightning Breath",
+      "category": "recharge",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 4,
+          "target": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:25:04.857Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:25:07.269Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 3",
+          "total": 10,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:25:22.474Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:25:25.215Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 3",
+          "total": 10,
+          "key_die": 2,
+          "target": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:25:30.900Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:25:32.863Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll (Advantage)",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 24,
+          "key_die": 16,
+          "target": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:25:44.337Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Damage Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 5",
+          "total": 12,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:25:58.804Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-09T21:26:00.385Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll (Advantage)",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 17,
+          "key_die": 9,
+          "target": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:26:12.651Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Damage Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 5",
+          "total": 10,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:26:28.846Z",
+      "kind": "resource",
+      "actor": "Minotaur Warrior",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-09T21:26:52.836Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  8",
+          "total": 16,
+          "key_die": 8
+        },
+        {
+          "formula": "1d20  +  8",
+          "total": 9,
+          "key_die": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:27:00.721Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d10  +  3",
+          "total": 9
+        },
+        {
+          "formula": "4d6",
+          "total": 23
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:27:16.044Z",
+      "kind": "resource",
+      "actor": "Minotaur Warrior",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-09T21:27:37.426Z",
+      "kind": "combat_end",
+      "rounds": 2
+    },
+    {
+      "t": "2026-11-09T21:27:37.512Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round End"
+    },
+    {
+      "t": "2026-11-09T21:27:37.608Z",
+      "kind": "chat",
+      "type": "recharge",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "karpiq",
+      "flavor": "Lightning Breath recharge check - failure!",
+      "item": "Lightning Breath",
+      "category": "recharge",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 3,
+          "target": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:28:31.004Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "text": "Cure Wounds 1st Level Abjuration (Cast at 2nd Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 2nd Level Components: : V, S Roll Damages"
+    },
+    {
+      "t": "2026-11-09T21:28:41.603Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "2d8  +  6",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:28:47.751Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "4d8  +  6",
+          "total": 34
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:28:53.551Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d4",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:30:57.897Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "2d8 + 6",
+          "total": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:32:15.429Z",
+      "kind": "chat",
+      "type": "recharge",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Lightning Breath recharge check - failure!",
+      "item": "Lightning Breath",
+      "category": "recharge",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 2,
+          "target": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:32:18.745Z",
+      "kind": "chat",
+      "type": "recharge",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Lightning Breath recharge check - failure!",
+      "item": "Lightning Breath",
+      "category": "recharge",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 2,
+          "target": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:32:21.348Z",
+      "kind": "chat",
+      "type": "recharge",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Lightning Breath recharge check - failure!",
+      "item": "Lightning Breath",
+      "category": "recharge",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 4,
+          "target": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:32:24.860Z",
+      "kind": "chat",
+      "type": "recharge",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Lightning Breath recharge check - failure!",
+      "item": "Lightning Breath",
+      "category": "recharge",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 1,
+          "target": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:32:27.969Z",
+      "kind": "chat",
+      "type": "recharge",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Lightning Breath recharge check - success!",
+      "item": "Lightning Breath",
+      "category": "recharge",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 6,
+          "target": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-09T21:33:08.165Z",
+      "kind": "scene",
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T21:33:34.155Z",
+      "kind": "handout",
+      "title": "Fort Zakrotha",
+      "src": "campaigns/odyssey-of-the-dragonlords/illustrations/ne-s13.webp?v=1793098183",
+      "journal": "Rozdział 8: Półwysep Arezyjski"
+    },
+    {
+      "t": "2026-11-09T21:35:10.457Z",
+      "kind": "session_end"
+    }
+  ],
+  "snapshots": [
+    {
+      "t": "2026-11-09T17:23:48.897Z",
+      "reason": "start",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T17:28:45.408Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T17:31:10.507Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Jocasta"
+    },
+    {
+      "t": "2026-11-09T17:33:47.896Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T17:37:39.209Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Aketa"
+    },
+    {
+      "t": "2026-11-09T17:42:06.540Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Zanner"
+    },
+    {
+      "t": "2026-11-09T17:43:47.898Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T17:47:38.471Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Komnata Piękna"
+    },
+    {
+      "t": "2026-11-09T17:48:23.127Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Pyrrha"
+    },
+    {
+      "t": "2026-11-09T17:48:29.820Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Arystonar"
+    },
+    {
+      "t": "2026-11-09T17:53:49.141Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Komnata Piękna Narsusa"
+    },
+    {
+      "t": "2026-11-09T18:03:47.912Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Komnata Piękna Narsusa"
+    },
+    {
+      "t": "2026-11-09T18:11:09.530Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T18:13:47.922Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T18:23:47.917Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T18:29:18.020Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Lennicus"
+    },
+    {
+      "t": "2026-11-09T18:33:47.940Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T18:35:02.904Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Hiero, Wielki Mistrz Miecza"
+    },
+    {
+      "t": "2026-11-09T18:43:47.941Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T18:53:47.941Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T19:00:44.827Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Taureus, Wielki Mistrz Żywiołów"
+    },
+    {
+      "t": "2026-11-09T19:03:47.939Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T19:13:47.947Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T19:43:48.189Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Arezja"
+    },
+    {
+      "t": "2026-11-09T19:53:25.575Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T19:53:48.199Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T20:00:25.456Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Spalony folwark"
+    },
+    {
+      "t": "2026-11-09T20:03:48.216Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T20:17:26.211Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T20:23:48.199Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T20:33:48.199Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T20:53:48.249Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bór Thrake"
+    },
+    {
+      "t": "2026-11-09T20:55:26.027Z",
+      "reason": "combat",
+      "key": true,
+      "scene": "Bór Thrake"
+    },
+    {
+      "t": "2026-11-09T21:03:48.269Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bór Thrake"
+    },
+    {
+      "t": "2026-11-09T21:13:48.264Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bór Thrake"
+    },
+    {
+      "t": "2026-11-09T21:23:48.268Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Bór Thrake"
+    },
+    {
+      "t": "2026-11-09T21:33:12.268Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-09T21:33:34.178Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Fort Zakrotha"
+    }
+  ]
+}
