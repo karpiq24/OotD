@@ -1,7 +1,7 @@
 // Image-first card: the art fills the card, the title sits on a dark scrim at the bottom.
 // Pages without art get a bronze monogram instead. Plain <a> (no `internal` class) so
 // SPA navigation still works but hovering a card doesn't open a popover preview.
-// `search` and `tags` feed the client-side filter (ootdFilter.inline.ts).
+// `search` and `tags` feed the client-side filter (cardFilter.inline.ts).
 interface CardProps {
   href: string
   title: string

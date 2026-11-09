@@ -10,7 +10,8 @@ import {
   QUARTZ,
   slugifyFilePath,
 } from "../../util/path"
-import { coverImage } from "../../components/ootd/data"
+import { coverImage } from "../../components/rpg/data"
+import { ICON_FILE } from "../../util/site"
 import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
@@ -39,7 +40,7 @@ async function generateSocialImage(
   userOpts: SocialImageOptions,
 ): Promise<Readable> {
   const { width, height } = userOpts
-  const iconPath = joinSegments(QUARTZ, "static", "icon.svg")
+  const iconPath = joinSegments(QUARTZ, "static", ICON_FILE)
   let iconBase64: string | undefined = undefined
   try {
     const iconData = await fs.readFile(iconPath)

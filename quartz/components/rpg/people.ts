@@ -1,13 +1,17 @@
-// Links between NPC folders and the faction/location pages of the same name:
-// 02-People/NPCs/Kult Węża/ <-> 02-People/Factions/Kult Węża.md, NPCs/Mytros/ <-> 03-Locations/.../Mytros.
+// Links between NPC folders and the faction/location pages of the same name (OotD:
+// 02-People/NPCs/Kult Węża/ <-> 02-People/Factions/Kult Węża.md, NPCs/Mytros/ <-> 03-Locations/.../Mytros).
 // A page whose name differs from its NPC folder sets `people: <folder name>`.
+// The folder names come from site.json.
 import path from "path"
 import { alsoIn, folderName, pageTitle } from "./data"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { byTitle, Listing } from "./listing"
+import { layout, t } from "../../util/site"
 
-export const NPC_ROOT = "02-People/NPCs/"
-const BRIDGED = ["02-People/Factions/", "03-Locations/"]
+export const PEOPLE_ROOT = layout.people_dir + "/"
+export const NPC_ROOT = PEOPLE_ROOT + layout.npcs_subdir + "/"
+const FACTIONS_ROOT = PEOPLE_ROOT + layout.factions_subdir + "/"
+const BRIDGED = [FACTIONS_ROOT, layout.locations_dir + "/"]
 
 // The NPC folder name a faction/location page or folder pairs with.
 export function peopleKey(file: QuartzPluginData): string | undefined {
@@ -43,9 +47,7 @@ export function membersOf(
   const guests = l.allFiles
     .filter(
       (f) =>
-        f.relativePath?.startsWith("02-People/") &&
-        !members.includes(f) &&
-        alsoIn(f).includes(name),
+        f.relativePath?.startsWith(PEOPLE_ROOT) && !members.includes(f) && alsoIn(f).includes(name),
     )
     .sort(sort)
   return { members, guests }
@@ -73,5 +75,5 @@ export function isBridged(file: QuartzPluginData): boolean {
 }
 
 export function bridgeKind(file: QuartzPluginData): string {
-  return file.relativePath?.startsWith("02-People/Factions/") ? "frakcja" : "miejsce"
+  return file.relativePath?.startsWith(FACTIONS_ROOT) ? t("kind_faction") : t("kind_place")
 }

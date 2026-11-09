@@ -2,7 +2,7 @@
 title: Nazwa Przedmiotu
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Typ, Rzadkość_
 

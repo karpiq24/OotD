@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import style from "../styles/ootd.scss"
-import { Card } from "../ootd/Card"
+import style from "../styles/theme.scss"
+import { Card } from "../rpg/Card"
 import {
   Arc,
   coverImage,
@@ -14,7 +14,7 @@ import {
   SessionInfo,
   stringList,
   summaryLine,
-} from "../ootd/data"
+} from "../rpg/data"
 import {
   ChildCards,
   descendants,
@@ -29,20 +29,21 @@ import {
   SectionNav,
   sortedChildren,
   TrieNode,
-} from "../ootd/listing"
-import { bridgeKind, NPC_ROOT, pagesAbout } from "../ootd/people"
+} from "../rpg/listing"
+import { bridgeKind, NPC_ROOT, pagesAbout } from "../rpg/people"
 // @ts-ignore
-import script from "../scripts/ootdFilter.inline"
+import script from "../scripts/cardFilter.inline"
 import { Element, ElementContent, Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { trieFromAllFiles } from "../../util/ctx"
 import { FullSlug, resolveRelative } from "../../util/path"
+import { t } from "../../util/site"
 
 // A folder page: the index.md prose (minus the bullet list of links that the cards
 // replace — update_indexes.py keeps that list for Obsidian), then an image card per page.
-// The sessions folder groups its cards by the story arcs in Campaign_Context.md.
+// The sessions folder groups its cards by the story arcs in the campaign context file.
 
 function textOutsideLinks(node: ElementContent): string {
   if (node.type === "text") return node.value
@@ -78,7 +79,7 @@ function groupByArc(sessions: SessionEntry[], arcs: Arc[]) {
   if (rest.length > 0) {
     const numbers = rest.map((s) => s.info.number)
     groups.push({
-      arc: { name: "Pozostałe sesje", from: Math.min(...numbers), to: Math.max(...numbers) },
+      arc: { name: t("other_sessions"), from: Math.min(...numbers), to: Math.max(...numbers) },
       sessions: rest,
     })
   }
@@ -119,11 +120,11 @@ export default (() => {
 
     if (sessions.length > 0 && sessions.length === pages.length) {
       const groups = groupByArc(sessions, readArcs(ctx))
-      const arcId = (arc: Arc) => `luk-${arc.from}`
+      const arcId = (arc: Arc) => `${t("arc_id_prefix")}${arc.from}`
       return (
         <div class="popover-hint ootd-folder">
           {content && <article class={classes}>{content}</article>}
-          <nav class="ootd-arc-nav" aria-label="Łuki fabularne">
+          <nav class="ootd-arc-nav" aria-label={t("arcs_nav")}>
             {groups.map(({ arc }) => (
               <a href={`#${arcId(arc)}`}>{arc.name}</a>
             ))}
@@ -136,7 +137,9 @@ export default (() => {
                   {arc.subtitle && <p>{arc.subtitle}</p>}
                 </div>
                 <span class="ootd-kicker">
-                  {arc.from === arc.to ? `Sesja ${arc.from}` : `Sesje ${arc.from}–${arc.to}`}
+                  {arc.from === arc.to
+                    ? t("session_label", { n: arc.from })
+                    : t("sessions_range", { from: arc.from, to: arc.to })}
                 </span>
               </header>
               <div class="ootd-grid ootd-grid-sessions">
@@ -145,7 +148,7 @@ export default (() => {
                     href={href(file.slug!)}
                     title={info.title}
                     image={img(file)}
-                    kicker={`Sesja ${info.number}`}
+                    kicker={t("session_label", { n: info.number })}
                     meta={info.date}
                     class="ootd-card-wide"
                   />
@@ -161,13 +164,13 @@ export default (() => {
     const name = folderName(fileData)
     const section = fileData.relativePath?.split("/")[0] ?? ""
     const guests = name ? guestsOf(l, name, section) : []
-    const guestLabel = (fileData.frontmatter?.also_label as string | undefined) ?? "Również tutaj"
+    const guestLabel = (fileData.frontmatter?.also_label as string | undefined) ?? t("also_here")
     const about = name && fileData.relativePath?.startsWith(NPC_ROOT) ? pagesAbout(l, name) : []
     const cardCount = descendants(folder).length + guests.length
 
     const seeAlso = about.length > 0 && (
       <p class="ootd-see-also">
-        Zobacz też:{" "}
+        {t("see_also")}{" "}
         {about.map((page, i) => (
           <>
             {i > 0 && ", "}
@@ -207,7 +210,7 @@ export default (() => {
             </a>
           ))}
           <SectionNav names={subs.map(nodeTitle)} />
-          <FilterBox total={cardCount} label="Szukaj w tym dziale…" />
+          <FilterBox total={cardCount} label={t("search_section")} />
           {subs.map((sub) => {
             const groups = groupChildren(l, sub)
             return (
@@ -215,7 +218,7 @@ export default (() => {
                 <header class="ootd-arc-head">
                   <h2>{nodeTitle(sub)}</h2>
                   <a class="ootd-kicker" href={hrefFor(l, sub.slug)}>
-                    Otwórz →
+                    {t("open_folder")}
                   </a>
                 </header>
                 {groups ? (
@@ -236,7 +239,7 @@ export default (() => {
         {content && <article class={classes}>{content}</article>}
         {seeAlso}
         {groups && <SectionNav names={groups.map((g) => g.name)} />}
-        {cardCount > 8 && <FilterBox total={cardCount} label="Szukaj w tym folderze…" />}
+        {cardCount > 8 && <FilterBox total={cardCount} label={t("search_folder")} />}
         {groups ? (
           <GroupSections l={l} groups={groups} />
         ) : (

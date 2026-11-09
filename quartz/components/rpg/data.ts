@@ -1,5 +1,6 @@
-// Build-time data for the OotD home page and the card-style folder pages:
-// cover images, session numbers/dates, story arcs and recap excerpts.
+// Build-time data for the home page and the card-style folder pages: cover images,
+// session numbers/dates, story arcs and recap excerpts. Folder names and the words the
+// regexes look for come from site.json (util/site.ts).
 import fs from "fs"
 import path from "path"
 import { QuartzPluginData } from "../../plugins/vfile"
@@ -12,6 +13,7 @@ import {
   pathToRoot,
   slugifyFilePath,
 } from "../../util/path"
+import { escapeRegex, layout, t } from "../../util/site"
 
 const PLACEHOLDER = /(^|\/)placeholder\.webp$/
 
@@ -49,8 +51,12 @@ export interface SessionInfo {
   date?: string
 }
 
-const SESSION_TITLE = /^Sesja\s+(\d+)\s*[:\-–]\s*(.*)$/
-const SESSION_DATE = /Data\W{0,4}(\d{1,2}\.\d{1,2}\.\d{4})/
+// "Sesja 84 - Title" and the "**Data:** 1.2.2026" line under it
+const SESSION_TITLE = new RegExp(
+  "^" + escapeRegex(layout.session_word) + "\\s+(\\d+)\\s*[:\\-–]\\s*(.*)$",
+)
+const DATE_LABEL = escapeRegex(t("session_date_label"))
+const SESSION_DATE = new RegExp(DATE_LABEL + "\\W{0,4}(\\d{1,2}\\.\\d{1,2}\\.\\d{4})")
 
 export function sessionInfo(file: QuartzPluginData): SessionInfo | undefined {
   const match = pageTitle(file).match(SESSION_TITLE)
@@ -60,7 +66,7 @@ export function sessionInfo(file: QuartzPluginData): SessionInfo | undefined {
 }
 
 export function isSessionPage(file: QuartzPluginData): boolean {
-  return !!file.slug?.startsWith("01-Sessions/") && !file.slug.endsWith("index")
+  return !!file.slug?.startsWith(layout.sessions_dir + "/") && !file.slug.endsWith("index")
 }
 
 export interface Arc {
@@ -70,11 +76,17 @@ export interface Arc {
   to: number
 }
 
-// Story arcs are the `### Name: subtitle (Sesje 1-10)` headings of Campaign_Context.md.
-const ARC_HEADING = /^###\s+(.+?)\s*\(Sesj[aei]\s+(\d+)(?:\s*[-–]\s*(\d+))?\)\s*$/gm
+// Story arcs are the `### Name: subtitle (Sesje 1-10)` headings of the campaign context file
+// (Campaign_Context.md); the word before the numbers is the regex `arc_sessions_regex`.
+const ARC_HEADING = new RegExp(
+  "^###\\s+(.+?)\\s*\\((?:" +
+    t("arc_sessions_regex") +
+    ")\\s+(\\d+)(?:\\s*[-–]\\s*(\\d+))?\\)\\s*$",
+  "gm",
+)
 
 export function readArcs(ctx: BuildCtx): Arc[] {
-  const raw = readContent(ctx, "Campaign_Context.md")
+  const raw = readContent(ctx, layout.campaign_context_file)
   if (!raw) return []
   return [...raw.matchAll(ARC_HEADING)].map((m) => {
     const [name, ...rest] = m[1].split(":")
@@ -96,6 +108,9 @@ function readContent(ctx: BuildCtx, relativePath: string): string | undefined {
   }
 }
 
+// headings, images, links, quotes, tables, lists and the session's date line
+const NOT_PROSE = new RegExp("^(#|!\\[|\\[|>|\\||-|\\*\\*" + DATE_LABEL + ")")
+
 // Plain text of the first prose paragraph of a page (skipping images, headings, prompt links).
 export function excerpt(
   ctx: BuildCtx,
@@ -109,7 +124,7 @@ export function excerpt(
   const paragraph = body
     .split(/\n\s*\n/)
     .map((p) => p.trim())
-    .find((p) => p.length > 80 && !/^(#|!\[|\[|>|\||-|\*\*Data)/.test(p))
+    .find((p) => p.length > 80 && !NOT_PROSE.test(p))
   if (!paragraph) return undefined
 
   const text = paragraph
@@ -122,15 +137,6 @@ export function excerpt(
   if (text.length <= maxLength) return text
   const cut = text.slice(0, maxLength)
   return cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:—–-]$/, "") + "…"
-}
-
-// Polish plural: 1 sesja, 2–4 sesje, 5+ sesji
-export function plural(n: number, one: string, few: string, many: string): string {
-  if (n === 1) return one
-  const lastTwo = n % 100
-  const last = n % 10
-  if (last >= 2 && last <= 4 && (lastTwo < 12 || lastTwo > 14)) return few
-  return many
 }
 
 // A hero's class and epic path from the two italic lines under their portrait:
@@ -244,7 +250,7 @@ export function stringList(value: unknown): string[] {
 
 export function sectionId(name: string): string {
   return (
-    "grupa-" +
+    t("section_id_prefix") +
     fold(name)
       .replace(/[^a-z0-9]+/g, "-")
       .replace(/^-|-$/g, "")

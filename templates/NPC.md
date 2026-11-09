@@ -9,7 +9,7 @@ character_personality:
 voice_characteristics:
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Krótki opis, np. Strażnik Miejski_
 

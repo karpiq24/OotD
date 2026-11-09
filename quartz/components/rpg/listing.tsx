@@ -1,5 +1,5 @@
 // Shared building blocks for card listings: folder pages, the people overview and the
-// people catalog. Cards carry `data-search` / `data-tags` for ootdFilter.inline.ts.
+// people catalog. Cards carry `data-search` / `data-tags` for cardFilter.inline.ts.
 import { JSX } from "preact"
 import { Card } from "./Card"
 import {
@@ -10,7 +10,6 @@ import {
   groupOf,
   imageHref,
   pageTitle,
-  plural,
   sectionId,
   stringList,
   summaryLine,
@@ -19,6 +18,7 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { BuildCtx, BuildTimeTrieData } from "../../util/ctx"
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative } from "../../util/path"
+import { plural, t } from "../../util/site"
 
 export type TrieNode = FileTrieNode<BuildTimeTrieData>
 
@@ -89,7 +89,7 @@ export function FolderCard({ l, node }: { l: Listing; node: TrieNode }) {
       href={href(l, node.slug)}
       title={title}
       image={cover}
-      kicker={`${inside.length} ${plural(inside.length, "wpis", "wpisy", "wpisów")}`}
+      kicker={`${inside.length} ${plural(inside.length, "entry")}`}
       meta={meta}
       class="ootd-card-folder"
       search={fold([title, meta, ...inside.map((f) => pageTitle(f))].join(" "))}
@@ -139,15 +139,16 @@ export function groupChildren(l: Listing, folder: TrieNode): Group[] | undefined
   if (!children.some((c) => groupOf(c.data))) return undefined
 
   const order = stringList(folder.data?.frontmatter?.groups)
-  const names = [...new Set(children.map((c) => groupOf(c.data) ?? "Pozostałe"))].sort((a, b) => {
+  const other = t("other_group")
+  const names = [...new Set(children.map((c) => groupOf(c.data) ?? other))].sort((a, b) => {
     const ia = order.indexOf(a)
     const ib = order.indexOf(b)
-    if (a === "Pozostałe" || b === "Pozostałe") return a === "Pozostałe" ? 1 : -1
+    if (a === other || b === other) return a === other ? 1 : -1
     return (ia < 0 ? 999 : ia) - (ib < 0 ? 999 : ib) || byTitle(l)(a, b)
   })
   return names.map((name) => ({
     name,
-    nodes: children.filter((c) => (groupOf(c.data) ?? "Pozostałe") === name),
+    nodes: children.filter((c) => (groupOf(c.data) ?? other) === name),
   }))
 }
 
@@ -167,7 +168,7 @@ export function ChildCards({ l, nodes }: { l: Listing; nodes: TrieNode[] }) {
 
 export function SectionNav({ names }: { names: string[] }) {
   return (
-    <nav class="ootd-arc-nav" aria-label="Sekcje">
+    <nav class="ootd-arc-nav" aria-label={t("sections_nav")}>
       {names.map((name) => (
         <a href={`#${sectionId(name)}`}>{name}</a>
       ))}

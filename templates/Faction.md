@@ -2,7 +2,7 @@
 title: Nazwa Frakcji
 ---
 
-![Placeholder](../assets/placeholder.png)
+![Placeholder](../assets/placeholder.webp)
 
 _Krótki opis, np. Organizacja militarna oddana Sydonowi_
 

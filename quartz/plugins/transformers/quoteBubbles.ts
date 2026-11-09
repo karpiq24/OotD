@@ -3,8 +3,8 @@
 //   > [!quote] Arevon
 //   > Jesteś oskarżony o zdradę stanu.
 //
-// The callout title is the speaker. It is looked up among the person pages in
-// content/02-People/ (file name, title, aliases); the portrait is that page's first
+// The callout title is the speaker. It is looked up among the person pages in the people
+// folder (site.json; OotD: content/02-People/) by file name, title and aliases; the portrait is that page's first
 // image, so post-war pages show the aged one. Runs after ObsidianFlavoredMarkdown,
 // which has already turned the blockquote into a callout. Consecutive quotes
 // alternate sides, like an exchange. A speaker with no page gets the bubble only.
@@ -13,8 +13,9 @@ import path from "path"
 import matter from "gray-matter"
 import { Root, Blockquote, Parent } from "mdast"
 import { QuartzTransformerPlugin } from "../types"
+import { layout } from "../../util/site"
 
-const PEOPLE_DIR = "02-People"
+const PEOPLE_DIR = layout.people_dir
 const PLACEHOLDER = /(^|\/)placeholder\.(webp|png)$/
 const MD_IMAGE = /!\[[^\]]*\]\(\s*<?([^)>]+?)>?\s*\)/
 const WIKI_IMAGE = /!\[\[([^\]|]+)(?:\|[^\]]*)?\]\]/

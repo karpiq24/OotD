@@ -1,8 +1,9 @@
 // Live filtering of card listings: any element with `data-ootd-filter` holding an
 // `input.ootd-filter-input`, optional `button.ootd-chip[data-tag]` chips and
 // `.ootd-card[data-search]` cards. Text must match `data-search` (folded the same way
-// as fold() in components/ootd/data.ts); an active chip must be in `data-tags`.
+// as fold() in components/rpg/data.ts); an active chip must be in `data-tags`.
 // Sections marked `data-ootd-section` hide when none of their cards match.
+// The "N z M" count is still Polish: a label from site.json would change the shipped script.
 
 function fold(text: string): string {
   return text

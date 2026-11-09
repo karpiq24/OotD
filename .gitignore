@@ -11,8 +11,5 @@ replit.nix
 *.pyc
 
 
-# Derived from the wiki by scripts/export_context.py; rpgnotes reads it
-campaign/campaign_context.json
-
-# Work folders of scripts/render_session_images.py (agy runs)
+# Old work folders of the image renderer (rpg-tools keeps them in its state dir now)
 .cache/

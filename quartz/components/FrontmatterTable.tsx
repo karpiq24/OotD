@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/frontmatterTable.scss"
 import { classNames } from "../util/lang"
 import { JSX } from "preact"
+import { t } from "../util/site"
 
 interface FrontmatterTableOptions {
   /**
@@ -37,7 +38,7 @@ const defaultOptions: FrontmatterTableOptions = {
     "catalog",
   ],
   hideWhenEmpty: true,
-  title: "Metadane",
+  title: t("metadata"),
 }
 
 // Format field names for display (convert camelCase/snake_case to Title Case)

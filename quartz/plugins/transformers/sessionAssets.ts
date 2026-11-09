@@ -2,6 +2,7 @@ import { QuartzTransformerPlugin } from "../types"
 import { Root } from "mdast"
 import fs from "fs"
 import path from "path"
+import { escapeRegex, layout, site, t } from "../../util/site"
 
 export interface SessionAssetLink {
   label: string
@@ -13,29 +14,24 @@ export interface SessionAssetGroup {
   files: SessionAssetLink[]
 }
 
-// Ordered category buckets. The order here is the order they render in.
-const CATEGORY_ORDER = [
-  "Transkrypty",
-  "Logi czatu",
-  "Dane",
-  "Wideo",
-  "Obrazki",
-  "Prompty",
-  "Pozostałe",
-] as const
+// Ordered category buckets (site.json strings `asset_<key>`). The order here is the order
+// they render in.
+const CATEGORY_ORDER = ["transcripts", "chat_logs", "data", "video", "images", "prompts", "other"]
 
-// Exact-name mapping: filename -> [category, label]
+// rpgnotes' session package: exact file name -> [category, label key]
 const KNOWN_FILES: Record<string, { category: string; label: string }> = {
-  "transcript.txt": { category: "Transkrypty", label: "Transkrypt (txt)" },
-  "transcript.json": { category: "Transkrypty", label: "Transkrypt (json)" },
-  "transcript_enriched.txt": { category: "Transkrypty", label: "Transkrypt wzbogacony" },
-  "chat_log.json": { category: "Logi czatu", label: "Chat log" },
-  "chat_events.json": { category: "Logi czatu", label: "Zdarzenia czatu (json)" },
-  "chat_events.txt": { category: "Logi czatu", label: "Zdarzenia czatu (txt)" },
-  "quotes.json": { category: "Dane", label: "Cytaty" },
-  "visual_log.json": { category: "Dane", label: "Log wizualny" },
-  "video_script.md": { category: "Wideo", label: "Skrypt wideo" },
+  "transcript.txt": { category: "transcripts", label: "transcript_txt" },
+  "transcript.json": { category: "transcripts", label: "transcript_json" },
+  "transcript_enriched.txt": { category: "transcripts", label: "transcript_enriched" },
+  "chat_log.json": { category: "chat_logs", label: "chat_log" },
+  "chat_events.json": { category: "chat_logs", label: "chat_events_json" },
+  "chat_events.txt": { category: "chat_logs", label: "chat_events_txt" },
+  "quotes.json": { category: "data", label: "quotes" },
+  "visual_log.json": { category: "data", label: "visual_log" },
+  "video_script.md": { category: "video", label: "video_script" },
 }
+
+const SESSION_FILE = new RegExp(escapeRegex(layout.session_word) + "\\s+(\\d+)")
 
 // rpgnotes' working files and bookkeeping: they sit in the session's asset
 // folder but are not listed (and quartz.config.ts's ignorePatterns keeps them
@@ -52,20 +48,20 @@ const NEVER_PUBLISHED = [
 function categorize(filename: string): { category: string; label: string } {
   const known = KNOWN_FILES[filename]
   if (known) {
-    return known
+    return { category: known.category, label: t(`asset_${known.label}`) }
   }
   const ext = path.extname(filename).toLowerCase()
   if (ext === ".webp") {
-    return { category: "Obrazki", label: filename }
+    return { category: "images", label: filename }
   }
   if (ext === ".txt") {
-    return { category: "Prompty", label: filename }
+    return { category: "prompts", label: filename }
   }
-  return { category: "Pozostałe", label: filename }
+  return { category: "other", label: filename }
 }
 
 // Build the ordered, grouped asset structure for a session's asset directory.
-function buildGroups(assetsDir: string, sessionId: string): SessionAssetGroup[] {
+function buildGroups(assetsDir: string, assetsUrl: string): SessionAssetGroup[] {
   const entries = fs
     .readdirSync(assetsDir, { withFileTypes: true })
     .filter((e) => e.isFile())
@@ -77,7 +73,7 @@ function buildGroups(assetsDir: string, sessionId: string): SessionAssetGroup[] 
     const { category, label } = categorize(filename)
     const link: SessionAssetLink = {
       label,
-      url: `../assets/sessions/${sessionId}/${filename}`,
+      url: `${assetsUrl}/${filename}`,
     }
     const bucket = byCategory.get(category)
     if (bucket) {
@@ -91,8 +87,8 @@ function buildGroups(assetsDir: string, sessionId: string): SessionAssetGroup[] 
   for (const category of CATEGORY_ORDER) {
     const files = byCategory.get(category)
     if (files && files.length > 0) {
-      files.sort((a, b) => a.label.localeCompare(b.label, "pl"))
-      groups.push({ category, files })
+      files.sort((a, b) => a.label.localeCompare(b.label, site.language))
+      groups.push({ category: t(`asset_${category}`), files })
     }
   }
   return groups
@@ -101,7 +97,7 @@ function buildGroups(assetsDir: string, sessionId: string): SessionAssetGroup[] 
 export const SessionAssets: QuartzTransformerPlugin = () => {
   return {
     name: "SessionAssets",
-    markdownPlugins() {
+    markdownPlugins(ctx) {
       return [
         () => {
           return (_tree: Root, file) => {
@@ -111,19 +107,25 @@ export const SessionAssets: QuartzTransformerPlugin = () => {
             }
 
             const basename = path.basename(fullFp)
-            const match = basename.match(/Sesja\s+(\d+)/)
+            const match = basename.match(SESSION_FILE)
             if (!match) {
               return
             }
 
             const sessionId = match[1].padStart(3, "0")
-            // content/01-Sessions/<file>.md -> content/assets/sessions/<NNN>
-            const assetsDir = path.join(path.dirname(fullFp), "..", "assets", "sessions", sessionId)
+            // OotD: content/01-Sessions/<file>.md -> content/assets/sessions/<NNN>
+            const assetsDir = path.join(ctx.argv.directory, layout.session_assets_dir, sessionId)
             if (!fs.existsSync(assetsDir)) {
               return
             }
 
-            const groups = buildGroups(assetsDir, sessionId)
+            // linked from the note's own folder, like the browser resolves it
+            const noteDir = path.posix.dirname(file.data.relativePath ?? fullFp)
+            const assetsUrl = path.posix.relative(
+              noteDir,
+              path.posix.join(layout.session_assets_dir, sessionId),
+            )
+            const groups = buildGroups(assetsDir, assetsUrl)
             if (groups.length > 0) {
               file.data.sessionAssets = groups
             }

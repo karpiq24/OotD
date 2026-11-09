@@ -5,6 +5,20 @@ import { QuartzComponentProps } from "./quartz/components/types"
 const isHome = (page: QuartzComponentProps) => page.fileData.slug === "index"
 const notHome = (page: QuartzComponentProps) => !isHome(page)
 
+// The home page's structure is shared (rpg-tools site/); its texts are this wiki's. The tiles
+// and their texts are the manifest's home_sections (site.json); Timeline.md stays
+// frontmatter-free (export-context hands its preamble to rpgnotes), so its cover is set here.
+const homePage = Component.HomePage({
+  covers: { Timeline: "assets/sessions/080/tapniecie_mount_volkan_1.webp" },
+  partyTitle: "Bohaterowie Przepowiedni",
+  sectionsTitle: "Kronika Thylei",
+  footerHtml:
+    "Cała wiki to pliki Markdown w publicznym repozytorium " +
+    '<a href="https://github.com/karpiq24/OotD">karpiq24/OotD na GitHubie</a>. ' +
+    "Możesz je sklonować albo wpuścić tam swojego agenta: sesje, postacie i miejsca leżą " +
+    "w katalogu <code>content/</code>.",
+})
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -27,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ConditionalRender({ component: Component.ArticleTitle(), condition: notHome }),
     Component.ConditionalRender({ component: Component.ContentMeta(), condition: notHome }),
     Component.TagList(),
-    Component.ConditionalRender({ component: Component.HomePage(), condition: isHome }),
+    Component.ConditionalRender({ component: homePage, condition: isHome }),
   ],
   left: [
     Component.PageTitle(),

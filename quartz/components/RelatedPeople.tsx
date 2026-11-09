@@ -1,12 +1,13 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/ootd.scss"
-import { folderName } from "./ootd/data"
-import { href, Listing, PageCard } from "./ootd/listing"
-import { hasOwnPage, isBridged, membersOf, npcFolder, peopleKey } from "./ootd/people"
+import style from "./styles/theme.scss"
+import { folderName } from "./rpg/data"
+import { href, Listing, PageCard } from "./rpg/listing"
+import { hasOwnPage, isBridged, membersOf, npcFolder, peopleKey } from "./rpg/people"
 import { FullSlug } from "../util/path"
+import { t } from "../util/site"
 
 // On a faction or location page: cards for the people of the NPC folder with the same
-// name (Kult Węża, Mytros, Ultros…) plus everyone who lists it in `also_in`.
+// name (OotD: Kult Węża, Mytros, Ultros…) plus everyone who lists it in `also_in`.
 const RelatedPeople: QuartzComponent = ({ fileData, allFiles, ctx, cfg }: QuartzComponentProps) => {
   if (!isBridged(fileData)) return null
   const name = peopleKey(fileData)
@@ -22,7 +23,7 @@ const RelatedPeople: QuartzComponent = ({ fileData, allFiles, ctx, cfg }: Quartz
 
   return (
     <section class="ootd-related">
-      <h2 class="ootd-label">Postacie</h2>
+      <h2 class="ootd-label">{t("people_heading")}</h2>
       <div class="ootd-grid ootd-grid-pages">
         {members.map((page) => (
           <PageCard l={l} page={page} />
@@ -33,7 +34,7 @@ const RelatedPeople: QuartzComponent = ({ fileData, allFiles, ctx, cfg }: Quartz
       </div>
       {folder && (
         <a class="ootd-more" href={href(l, folder.slug!)}>
-          Folder postaci: {name} →
+          {t("people_folder_link", { name })}
         </a>
       )}
     </section>

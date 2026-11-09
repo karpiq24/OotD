@@ -1,6 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/ootd.scss"
-import { Card } from "./ootd/Card"
+import style from "./styles/theme.scss"
+import { Card } from "./rpg/Card"
 import {
   coverImage,
   excerpt,
@@ -8,176 +8,176 @@ import {
   imageHref,
   isSessionPage,
   pageTitle,
-  plural,
   sessionInfo,
-} from "./ootd/data"
+} from "./rpg/data"
 import { FullSlug, resolveRelative } from "../util/path"
+import { layout, plural, t } from "../util/site"
 import { QuartzPluginData } from "../plugins/vfile"
 
-// Section tiles in display order; each folder's title, `description` and `cover` come
-// from its index.md frontmatter. Timeline.md stays frontmatter-free (export_context.py
-// hands its preamble to rpgnotes), so its tile is described here.
-const SECTIONS = [
-  "01-Sessions",
-  "02-People",
-  "03-Locations",
-  "04-Items-and-Loot",
-  "05-Lore",
-  "06-Rules",
-  "07-Handouts",
-  "Timeline",
-]
+// The home page: banner hero with live counts, the latest session with an excerpt, the
+// party's portraits and the section tiles. The structure is shared. The tiles are the layout's
+// `home_sections` (site.json, from the manifest): a folder's tile takes its title, description
+// and cover from its index.md, a single note's (Timeline) from home_sections and `covers`. The
+// headings and the closing paragraph are the wiki's own, passed in from quartz.layout.ts.
 
-const SECTION_OVERRIDES: Record<string, { title: string; description: string; cover: string }> = {
-  Timeline: {
-    title: "Oś Czasu",
-    description: "Chronologiczny zapis wydarzeń.",
-    cover: "assets/sessions/080/tapniecie_mount_volkan_1.webp",
-  },
+export interface HomePageOptions {
+  /** section tiles in display order (default: the layout's home_sections) */
+  sections: string[]
+  /** tile images, relative to the content root, for notes that have no cover of their own */
+  covers: Record<string, string>
+  /** heading over the party's portraits */
+  partyTitle: string
+  /** heading over the section tiles */
+  sectionsTitle: string
+  /** closing paragraph under the tiles, as HTML (none when empty) */
+  footerHtml: string
 }
-
-// How each section counts its pages; anything else counts "wpisy"
-const NOUNS: Record<string, [string, string, string]> = {
-  "01-Sessions": ["sesja", "sesje", "sesji"],
-  "02-People": ["postać", "postacie", "postaci"],
-  "03-Locations": ["miejsce", "miejsca", "miejsc"],
-  "04-Items-and-Loot": ["przedmiot", "przedmioty", "przedmiotów"],
-}
-
-const HERO_FOLDER = "02-People/Bohaterowie/"
-
-export const REPO_URL = "https://github.com/karpiq24/OotD"
 
 function isPage(file: QuartzPluginData, prefix: string): boolean {
   return !!file.slug?.startsWith(prefix) && !file.slug.endsWith("index")
 }
 
-const HomePage: QuartzComponent = ({ fileData, allFiles, ctx, cfg }: QuartzComponentProps) => {
-  const slug = fileData.slug as FullSlug
-  const href = (target: string) => resolveRelative(slug, target as FullSlug)
-  const img = (file: QuartzPluginData | undefined) => {
-    const cover = coverImage(file)
-    return cover ? imageHref(slug, cover) : undefined
-  }
-  const count = (folder: string) => allFiles.filter((f) => isPage(f, folder + "/")).length
-
-  const sessions = allFiles
-    .filter(isSessionPage)
-    .flatMap((file) => {
-      const info = sessionInfo(file)
-      return info ? [{ file, info }] : []
-    })
-    .sort((a, b) => b.info.number - a.info.number)
-  const latest = sessions[0]
-  const firstDate = sessions.at(-1)?.info.date
-  const people = count("02-People")
-  const places = count("03-Locations")
-
-  const heroes = allFiles
-    .filter((f) => isPage(f, HERO_FOLDER))
-    .sort((a, b) => pageTitle(a).localeCompare(pageTitle(b), cfg.locale))
-
-  const banner = img(fileData)
-
-  return (
-    <div class="ootd-home">
-      <header class="ootd-hero">
-        {banner && <img class="ootd-hero-art" src={banner} alt="" />}
-        <div class="ootd-hero-text">
-          <h1 class="ootd-metal">{cfg.pageTitle}</h1>
-          <p class="ootd-hero-stats">
-            <span>
-              <b>{sessions.length}</b> {plural(sessions.length, "sesja", "sesje", "sesji")}
-            </span>
-            <span>
-              <b>{people}</b> {plural(people, "postać", "postacie", "postaci")}
-            </span>
-            <span>
-              <b>{places}</b> {plural(places, "miejsce", "miejsca", "miejsc")}
-            </span>
-            {firstDate && latest?.info.date && (
-              <span>
-                {firstDate} – {latest.info.date}
-              </span>
-            )}
-          </p>
-        </div>
-      </header>
-
-      {latest && (
-        <section class="ootd-section">
-          <h2 class="ootd-label">Ostatnia sesja</h2>
-          <a class="ootd-latest" href={href(latest.file.slug!)}>
-            <div class="ootd-latest-media">
-              {img(latest.file) && <img src={img(latest.file)} alt="" />}
-            </div>
-            <div class="ootd-latest-text">
-              <span class="ootd-kicker">
-                Sesja {latest.info.number}
-                {latest.info.date && ` · ${latest.info.date}`}
-              </span>
-              <h3>{latest.info.title}</h3>
-              <p>{excerpt(ctx, latest.file)}</p>
-              <span class="ootd-more">Czytaj kronikę →</span>
-            </div>
-          </a>
-        </section>
-      )}
-
-      {heroes.length > 0 && (
-        <section class="ootd-section">
-          <h2 class="ootd-label">Bohaterowie Przepowiedni</h2>
-          <div class="ootd-grid ootd-grid-heroes">
-            {heroes.map((hero) => (
-              <Card
-                href={href(hero.slug!)}
-                title={pageTitle(hero).split(" ")[0]}
-                image={img(hero)}
-                meta={heroTagline(ctx, hero)}
-                class="ootd-card-portrait"
-              />
-            ))}
-          </div>
-        </section>
-      )}
-
-      <section class="ootd-section">
-        <h2 class="ootd-label">Kronika Thylei</h2>
-        <div class="ootd-grid ootd-grid-sections">
-          {SECTIONS.flatMap((section) => {
-            const file = allFiles.find((f) => f.slug === `${section}/index` || f.slug === section)
-            if (!file) return []
-            const override = SECTION_OVERRIDES[section]
-            const n = file.slug!.endsWith("/index") ? count(section) : 0
-            return [
-              <Card
-                href={href(file.slug!)}
-                title={override?.title ?? pageTitle(file)}
-                image={override ? imageHref(slug, override.cover) : img(file)}
-                kicker={
-                  n > 0
-                    ? `${n} ${plural(n, ...(NOUNS[section] ?? ["wpis", "wpisy", "wpisów"]))}`
-                    : undefined
-                }
-                meta={
-                  override?.description ?? (file.frontmatter?.description as string | undefined)
-                }
-                class="ootd-card-square"
-              />,
-            ]
-          })}
-        </div>
-      </section>
-
-      <p class="ootd-repo">
-        Cała wiki to pliki Markdown w publicznym repozytorium{" "}
-        <a href={REPO_URL}>karpiq24/OotD na GitHubie</a>. Możesz je sklonować albo wpuścić tam
-        swojego agenta: sesje, postacie i miejsca leżą w katalogu <code>content/</code>.
-      </p>
-    </div>
-  )
+// How each section counts its pages; anything else counts entries
+const NOUNS: Record<string, string> = {
+  [layout.sessions_dir]: "session",
+  [layout.people_dir]: "person",
+  [layout.locations_dir]: "place",
+  [layout.items_dir]: "item",
 }
 
-HomePage.css = style
+export default ((opts?: Partial<HomePageOptions>) => {
+  const options: HomePageOptions = {
+    sections: Object.keys(layout.home_sections ?? {}).length
+      ? Object.keys(layout.home_sections)
+      : [layout.sessions_dir, layout.people_dir, layout.locations_dir, layout.items_dir],
+    covers: {},
+    partyTitle: t("home_party"),
+    sectionsTitle: t("home_sections"),
+    footerHtml: "",
+    ...opts,
+  }
+  const partyFolder = `${layout.people_dir}/${layout.party_subdir}/`
 
-export default (() => HomePage) satisfies QuartzComponentConstructor
+  const HomePage: QuartzComponent = ({ fileData, allFiles, ctx, cfg }: QuartzComponentProps) => {
+    const slug = fileData.slug as FullSlug
+    const href = (target: string) => resolveRelative(slug, target as FullSlug)
+    const img = (file: QuartzPluginData | undefined) => {
+      const cover = coverImage(file)
+      return cover ? imageHref(slug, cover) : undefined
+    }
+    const count = (folder: string) => allFiles.filter((f) => isPage(f, folder + "/")).length
+
+    const sessions = allFiles
+      .filter(isSessionPage)
+      .flatMap((file) => {
+        const info = sessionInfo(file)
+        return info ? [{ file, info }] : []
+      })
+      .sort((a, b) => b.info.number - a.info.number)
+    const latest = sessions[0]
+    const firstDate = sessions.at(-1)?.info.date
+    const people = count(layout.people_dir)
+    const places = count(layout.locations_dir)
+
+    const party = allFiles
+      .filter((f) => isPage(f, partyFolder))
+      .sort((a, b) => pageTitle(a).localeCompare(pageTitle(b), cfg.locale))
+
+    const banner = img(fileData)
+
+    return (
+      <div class="ootd-home">
+        <header class="ootd-hero">
+          {banner && <img class="ootd-hero-art" src={banner} alt="" />}
+          <div class="ootd-hero-text">
+            <h1 class="ootd-metal">{cfg.pageTitle}</h1>
+            <p class="ootd-hero-stats">
+              <span>
+                <b>{sessions.length}</b> {plural(sessions.length, "session")}
+              </span>
+              <span>
+                <b>{people}</b> {plural(people, "person")}
+              </span>
+              <span>
+                <b>{places}</b> {plural(places, "place")}
+              </span>
+              {firstDate && latest?.info.date && (
+                <span>
+                  {firstDate} – {latest.info.date}
+                </span>
+              )}
+            </p>
+          </div>
+        </header>
+
+        {latest && (
+          <section class="ootd-section">
+            <h2 class="ootd-label">{t("latest_session")}</h2>
+            <a class="ootd-latest" href={href(latest.file.slug!)}>
+              <div class="ootd-latest-media">
+                {img(latest.file) && <img src={img(latest.file)} alt="" />}
+              </div>
+              <div class="ootd-latest-text">
+                <span class="ootd-kicker">
+                  {t("session_label", { n: latest.info.number })}
+                  {latest.info.date && ` · ${latest.info.date}`}
+                </span>
+                <h3>{latest.info.title}</h3>
+                <p>{excerpt(ctx, latest.file)}</p>
+                <span class="ootd-more">{t("read_recap")}</span>
+              </div>
+            </a>
+          </section>
+        )}
+
+        {party.length > 0 && (
+          <section class="ootd-section">
+            <h2 class="ootd-label">{options.partyTitle}</h2>
+            <div class="ootd-grid ootd-grid-heroes">
+              {party.map((hero) => (
+                <Card
+                  href={href(hero.slug!)}
+                  title={pageTitle(hero).split(" ")[0]}
+                  image={img(hero)}
+                  meta={heroTagline(ctx, hero)}
+                  class="ootd-card-portrait"
+                />
+              ))}
+            </div>
+          </section>
+        )}
+
+        <section class="ootd-section">
+          <h2 class="ootd-label">{options.sectionsTitle}</h2>
+          <div class="ootd-grid ootd-grid-sections">
+            {options.sections.flatMap((section) => {
+              const file = allFiles.find((f) => f.slug === `${section}/index` || f.slug === section)
+              if (!file) return []
+              const isFolder = file.slug!.endsWith("/index")
+              const text = isFolder ? undefined : layout.home_sections?.[section]
+              const cover = options.covers[section]
+              const n = isFolder ? count(section) : 0
+              return [
+                <Card
+                  href={href(file.slug!)}
+                  title={text?.title || pageTitle(file)}
+                  image={cover ? imageHref(slug, cover) : img(file)}
+                  kicker={n > 0 ? `${n} ${plural(n, NOUNS[section] ?? "entry")}` : undefined}
+                  meta={text?.description || (file.frontmatter?.description as string | undefined)}
+                  class="ootd-card-square"
+                />,
+              ]
+            })}
+          </div>
+        </section>
+
+        {options.footerHtml && (
+          <p class="ootd-repo" dangerouslySetInnerHTML={{ __html: options.footerHtml }} />
+        )}
+      </div>
+    )
+  }
+
+  HomePage.css = style
+  return HomePage
+}) satisfies QuartzComponentConstructor
