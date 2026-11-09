@@ -1,29 +1,17 @@
 ---
 title: "Zasady Drużyny B"
 ---
-## The B Team: Your Backup Squad of Legends
 
-> Every hero needs a little help sometimes. Enter the B Team! This band of quirky, capable companions is ready to leap into action at a moment's notice. Need a precognitive prediction? A divinely-enhanced attack? Maybe just a quick getaway horse? The B Team has you covered. They operate in the shadows, always nearby but rarely seen, like ninja dolphins who also happen to be expert blacksmiths. You never know when they'll pop in to save the day!
+Zdolności towarzyszy: [[Towarzysze]]. Dawny skład: [[Towarzysze Ery Tytanów]].
 
-### **Rules:**
+## Zasady
 
-1.  **Roster:** Your B Team can include a number of companions equal to the number of players in your party.
-2.  **Recruitment:** You can recruit new companions or swap out existing members while taking a long rest aboard the legendary ship, the Ultros, or within a major city.
-3.  **Calling for Backup:** Any player can call upon any member of the B Team to use their unique ability. This costs a free action or reaction, as indicated in the companion's description.
-4.  **Once a Day:** Each companion's ability can be used only once per long rest.
-5.  **No Previous Experience Needed:** Companions do not gain experience or levels.
-6.  **Always Close By:** The B Team is always lurking nearby, unless sent on a special mission by the party (at the DM's discretion). They exist in a sort of pocket dimension of helpfulness, ready to emerge dramatically when needed.
-7.  **Off-Screen Heroes:** B Team members are not represented on the battle map. They materialize just in time to use their ability, then vanish back into the ether, presumably to fight off a horde of invisible squirrels or something equally heroic.
-8.  **Temporary Promotion:** Occasionally, due to plot reasons or the whims of fate, a B Team member might join the party as a full-fledged adventurer for a limited time. This could be due to a personal quest, a need to infiltrate a specific location, or simply because the plot demands their unique skills. During this time, they function as a regular NPC party member, participating in combat and contributing to the story in a more significant way.
-
-### **Example of Play:**
-
-#### **Lyra's Timely Transformation**
-
-*   **DM:** The party is fleeing from a collapsing temple, with crumbling walls and fiery debris raining down around them. The exit is a hundred yards away, across a treacherous chasm with a rickety rope bridge.
-*   **Orion:** I start sprinting for the bridge!
-*   **DM:** Make a Dexterity (Acrobatics) check to navigate the crumbling terrain.
-*   **Orion:** (Rolls poorly) Oh no! I trip and stumble, losing precious time!
-*   **Felicjan:** "Lyra! Ironshod Trotters!"
-*   **DM:** Lyra, who was apparently hiding in your backpack, suddenly transforms into a magnificent riding horse. You can now swiftly mount Lyra and attempt to cross the chasm with increased speed.
-*   **Orion:** Yes! I leap onto Lyra's back and urge her towards the bridge!
+1. **Skład.** Drużyna B liczy najwyżej tylu towarzyszy, ilu jest graczy. Na początku Nowej Ery są w niej Kyrah, Pythor i Astra.
+2. **Rekrutacja.** Nowego towarzysza drużyna przyjmuje albo wymienia podczas długiego odpoczynku w dużym mieście lub na pokładzie swojego statku. Nowi towarzysze pojawiają się w trakcie Nowej Ery, a dawni wracają, gdy pozwoli na to fabuła.
+3. **Poza składem.** Towarzysz spoza składu może dalej podróżować z drużyną, ale nie można go wezwać. Pythor wędruje z [[Orion Xul|Orionem]], a Astra z [[Versir|Versirem]], niezależnie od tego, czy są w składzie.
+4. **Wezwanie.** Każdy gracz może wezwać towarzysza ze składu, by użył swojej zdolności. Kosztuje to reakcję albo nic (*free action*), zgodnie z opisem zdolności.
+5. **Raz na długi odpoczynek.** Każda zdolność działa raz na długi odpoczynek, bez względu na to, kto ją wezwał.
+6. **W pobliżu.** Towarzysz pomaga, gdy jest przy drużynie. Gdy drużyna się rozdziela, każdy towarzysz zostaje z jedną z grup: wybierają gracze, chyba że przesądza fabuła. Towarzysza wysłanego na osobną misję nie można wzywać, dopóki nie wróci.
+7. **Poza mapą.** Towarzysz, który tylko używa zdolności, nie stoi na mapie i nie ma inicjatywy. Kyrah i Pythor mogą być na mapie jako smoki wierzchowce ([[Latanie na smokach]]). Ich zdolność działa wtedy tak samo, a wezwanie nie zabiera akcji jeźdźcowi.
+8. **Bez doświadczenia.** Towarzysze nie zdobywają doświadczenia ani poziomów.
+9. **Czasowy awans.** Gdy wymaga tego fabuła, towarzysz dołącza na pewien czas do drużyny jako pełnoprawny NPC i walczy razem z nią.

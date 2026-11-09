@@ -8,3 +8,4 @@ cover: ../assets/sessions/038/038_jankor.webp
 - [[06-Rules/Fame|Fame]]
 - [[06-Rules/The Forge|The Forge]]
 - [[Mytros Actions]]
+- [[Latanie na smokach]]
