@@ -35,7 +35,7 @@ Następnie udali się do [[Świątynia Tarczy|Świątyni Tarczy]], domeny Mistrz
 
 ![Hiero](../assets/sessions/062/062_Hiero.webp)
 
-Kolejnym celem była skromna [[Świątynia Miecza]], gdzie rezydował mistrz [[Hiero]], półelf o stoickim spokoju. [[Hiero]], wyznający zasadę, że słowa są tanie jak liście na wietrze, zażądał dowodu ich czynów. Bohaterowie opowiedzieli o pokonaniu [[Gaius|Gaiusa]], dowódcy Zakonu Sydona, i jego smoka, a także o innych przygodach, gdzie na szali było ich własne życie. [[Hiero]], uznając wagę ich dokonań, zgodził się poprzeć ich sprawę przed królową.
+Kolejnym celem była skromna [[Świątynia Miecza]], gdzie rezydował mistrz [[Hiero]], elf o stoickim spokoju. [[Hiero]], wyznający zasadę, że słowa są tanie jak liście na wietrze, zażądał dowodu ich czynów. Bohaterowie opowiedzieli o pokonaniu [[Gaius|Gaiusa]], dowódcy Zakonu Sydona, i jego smoka, a także o innych przygodach, gdzie na szali było ich własne życie. [[Hiero]], uznając wagę ich dokonań, zgodził się poprzeć ich sprawę przed królową.
 
 ![Karpathos, Wilczy Lord](../assets/sessions/062/062_painting.webp)
 

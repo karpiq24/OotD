@@ -12,7 +12,7 @@ image_prompt: middle-aged male elf, tall lean build, pointed ears, grey hair pul
 _Wielki Mistrz Miecza, stoicki wojownik o nienagannej reputacji._
 
 ## Opis
-Półelf o stoickim spokoju, rezydujący w skromnej [[Świątynia Miecza|Świątyni Miecza]] ([[Sesja 62 - Arezyjska Dyplomacja]]).
+Elf o stoickim spokoju, rezydujący w skromnej [[Świątynia Miecza|Świątyni Miecza]] ([[Sesja 62 - Arezyjska Dyplomacja]]).
 
 Spokojne oblicze, proste szaty.
 
