@@ -1,6 +1,6 @@
 ---
 title: Versir
-image_prompt: adult male with a dark fantasy aesthetic. He has a slender build, pale alabaster skin, and short blonde hair styled in a messy quiff. His face is defined by a strong jawline, high cheekbones, and piercing cyan eyes, often held in a confident smirk. large, jagged scar runs along the side of his neck and jaw. He wears an ornate breastplate. He wears a large, magical gauntlet on one hand.
+image_prompt: adult male aasimar who looks about thirty, slender athletic build, fair skin with a warm, healthy natural complexion, short blonde hair styled in a messy swept-back quiff. His face is defined by a strong jawline, high cheekbones and piercing cyan eyes, often held in a confident smirk. A large, jagged scar runs along the side of his neck and jaw. He wears an ornate silver breastplate over dark clothing, and a large, magical gauntlet on one hand.
 ---
 
 ![Versir](../../assets/Versir.webp)

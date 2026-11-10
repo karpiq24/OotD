@@ -1,6 +1,6 @@
 ---
 title: Felicjan Janus Twardowski
-image_prompt: young adult male human wizard with a lean, rugged build. He has intense blue-grey eyes, a strong jawline, a weathered complexion, and a prominent scar across his right cheek. His short, messy dark brown hair is complemented by a full dark brown beard. He wears layered medieval clothing, a rust-brown hooded tunic over a coarse off-white linen shirt, with a thick brown leather shoulder strap and buckle. Two bronze circular geometric star emblems are visible on his chest.
+image_prompt: human wizard in his early forties with a lean, rugged build. He has intense grey-blue eyes under a furrowed brow, a strong jawline, a weathered, lined complexion and a faint old scar across his right cheek. His shoulder-length dark brown hair, streaked with grey, is swept back, and he has a full dark brown beard greying at the chin. He wears a long black high-collared wizard's coat and cloak with bronze-embroidered trim and a round ornate bronze clasp, over a cream linen shirt.
 aliases:
   - Felicjan
   - Utalentowany

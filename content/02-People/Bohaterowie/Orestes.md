@@ -2,7 +2,7 @@
 title: Orestes
 aliases:
   - Przeklęty Minotaur
-image_prompt: powerful male minotaur with a muscular build, broad shoulders, and brown fur. His bovine head features large, curved dark grey horns, piercing glowing blue eyes, and a bull snout. He has stylish, thick blonde hair swept back and a well-groomed blonde fur beard. He is dressed in a draped white toga with an ornate red sash featuring carved patterns and a textured grey shoulder strap. The aesthetic is a Greco-Roman gladiator and mythological creature.
+image_prompt: heavyset middle-aged male minotaur, still broad-shouldered with strong arms, but with a big round beer belly, brown fur. His bovine head has long curved pale grey horns wrapped with gold Greek-key bands, bright blue eyes, a bull snout with a gold nose ring. He has a long thick blonde mane swept back and a full blonde beard braided at the chin and tied with a gold bead. He wears a draped white toga with a gold Greek-key border and embroidered green hop vines, the fabric stretched over his belly. A cheerful, self-satisfied grin. The aesthetic is a Greco-Roman brewer and mythological creature.
 ---
 
 ![Orestes](../../assets/Orestes.webp)
