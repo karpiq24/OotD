@@ -13,3 +13,5 @@ Brak ozdób, jedynie symbol miecza. Wojownicy trenują tu w milczeniu, skupiają
 
 ## Historia
 W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie odwiedzili [[Hiero]], który zażądał dowodu ich czynów. Opowiedzieli o pokonaniu [[Gaius|Gaiusa]], dowódcy Zakonu Sydona, i jego smoka, a [[Hiero]] zgodził się poprzeć ich sprawę przed królową. W [[Sesja 63 - Werdykt Arezji]] zagłosował w Radzie za atakiem wyprzedzającym, doceniając siłę argumentów bohaterów.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Hiero]], który w starciu z [[Zakroth|Zakrothem]] stracił swoją lepszą rękę i miecz, opowiedział bohaterom o tej walce. Następnego ranka w świątyni [[Arevon Elorrenthi|Arevon]] przywrócił mu dłoń zaklęciem *regenerate*. Hiero od razu chwycił miecz treningowy, by wypróbować chwyt, i obiecał drużynie pomoc, gdyby kiedyś jej potrzebowała.

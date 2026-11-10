@@ -26,3 +26,6 @@ title: Kontynent Thylea
 - [[Góra Volkana]]
 - [[03-Locations/Kontynent Thylea/Nekropolia|Nekropolia]]
 - [[Rzeka Thrake]]
+- [[Bór Thrake]]
+- [[Fort Zakrotha]]
+- [[Kurhany Karpathosa]]

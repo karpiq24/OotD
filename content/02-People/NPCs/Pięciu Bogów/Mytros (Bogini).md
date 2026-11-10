@@ -7,10 +7,12 @@ aliases:
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Jedna z Pięciu Bogów Thylei, Bogini Świtu. Po upadku dawnych bogów jedyne bóstwo, któremu wierni pozostali: jej kult wchłonął kulty pozostałych, a [[Świątynia Pięciu]] stała się jej świątynią._
+_Jedna z Pięciu Bogów Thylei, Bogini Świtu; w rzeczywistości srebrna smoczyca [[Balmytria]]. Po upadku dawnych bogów jedyne bóstwo, któremu wierni pozostali: jej kult wchłonął kulty pozostałych, a [[Świątynia Pięciu]] stała się jej świątynią._
 
 ## Opis
 Mytros jest najbardziej szanowaną i znaną z [[Pięciu Bogów]], imienniczką najważniejszego królestwa w Thylei. Przypisuje się jej przetrwanie "jej" miasta podczas zniszczenia i po Pierwszej Wojnie. Kapłanom objawia się jako wojownicza królowa w lśniącej złotej zbroi. Wstąpiła do niebios po kataklizmicznej bitwie z [[Sydon|Sydonem]] i [[Lutheria|Lutherią]] i nie kroczy już wśród śmiertelników.
+
+Jej prawdziwa postać to srebrna smoczyca [[Balmytria]], żona [[Volkan|Volkana]] i matka [[Vallus]], [[Pythor|Pythora]], [[Kyrah]] i [[Narsus|Narsusa]]; z tej rodziny tylko Narsus nie jest wliczany do Piątki.
 
 Jest źródłem większości kapłańskiej magii wśród ras osadniczych w Thylei.
 

@@ -17,3 +17,5 @@ Skupiona na interesach; dba o stabilność handlu między Arezją a Mytros mimo 
 
 ## Historia
 W [[Sesja 62 - Arezyjska Dyplomacja]] na czele komitetu powitała bohaterów na nabrzeżu w porcie rzecznym. [[Orestes]] próbował nawiązać z nią relacje handlowe, promując piwo ze swojego rodzinnego browaru, co spotkało się ze szczerym zainteresowaniem.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] wyjaśniła [[Orestes|Orestesowi]], że za zatrzymywaniem jego dostaw przez celników stoi szef Gildii Winiarzy, który ich opłaca, ale odmówiła pośrednictwa, żeby nie psuć sobie interesów z winiarzami.

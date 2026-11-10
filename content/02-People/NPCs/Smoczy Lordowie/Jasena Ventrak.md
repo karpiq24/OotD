@@ -4,7 +4,7 @@ title: Jasena Ventrak
 
 ![Placeholder](../../../assets/placeholder.webp)
 
-_Jedna z pierwszych Smoczych Lordów, wierzchowiec smoka Arystonara_
+_Jedna z pierwszych Smoczych Lordów, jeźdźczyni smoka [[Arystonar|Arystonara]], czyli boga [[Narsus|Narsusa]]_
 
 ## Opis
 Tajemnicza wojowniczka znana ze swoich kontaktów z Mojrami.

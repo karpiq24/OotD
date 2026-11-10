@@ -70,3 +70,5 @@ W [[Sesja 75 - Koniec Przysięgi]] [[Hergeron]] uznał w [[Versir|Versirze]] pó
 W [[Sesja 76 - Bitwa o Mytros: Pierwsza Fala]] [[Versir]], z nową dłonią przywróconą magią [[Arevon Elorrenthi|Arevona]], zbadał replikę rękawicy zdobytą u [[Sydon|Sydona]]: pod *Identify* wszystko wskazywało, że jest sprawna, ale próba aktywacji nie powiodła się — jej magia była uśpiona, więc ją zdjął. W walce używał własnej, oryginalnej rękawicy i jej zdolności — *Dominate Monster* — próbując przejąć kontrolę nad jednym z centaurów, lecz bestia oparła się magii.
 
 W [[Sesja 84 - Świt Nowej Ery]] [[Versir]] uruchomił swoją oryginalną rękawicę i wchłonął esencję uwolnionego [[Talieus Pierwszy|Talieusa Pierwszego]], kończąc jego mękę. Jego esencja zajęła gniazdo palca serdecznego.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] przy spalonym folwarku na [[Półwysep Arezyjski|Półwyspie Arezyjskim]] [[Versir]] uaktywnił klejnot [[Yala Pierwsza|Yali]] i spróbował rzucić *dominate monster* na jednego z pojmanych minotaurów. Minotaur oparł się magii, a uległ jej siedzący obok satyr [[Tityros]], który na rozkaz Versira wskazał na mapie fort [[Zakroth|Zakrotha]] i opowiedział o jego obronie.

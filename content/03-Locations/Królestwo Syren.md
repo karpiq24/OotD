@@ -10,6 +10,7 @@ Zatopione królestwo syren, zniszczone przez gniew [[Sydon|Sydona]] i do upadku 
 
 ## Ciekawe Miejsca
 - **Miejsce spoczynku [[Goloron Pierwszy|Golorona]]**: Tytan Mądrości ukryty pod postacią posągu.
+- **Otchłań pod Królestwem**: według [[Narsus|Narsusa]] spoczywa w niej [[Ogień Prometejski]].
 
 ## Mieszkańcy
 - Wuj [[Versir|Versira]] — według [[Sesja 84 - Świt Nowej Ery]] „ktoś, o kim wiadomo, że tam jest”.
@@ -24,3 +25,5 @@ W [[Sesja 41 - Wiedźma Lotosu]] drużyna ujrzała w oknie [[Korytarz Światów|
 W [[Sesja 84 - Świt Nowej Ery]] stało się głównym celem [[Arevon Elorrenthi|Arevona]] na kolejne piętnaście lat. [[Versir]] przyłączył się do poszukiwań, ale morze nie chciało oddać sekretu: wyprawa za wyprawą, zbieranie informacji na wodzie, próby dosięgnięcia magią kogoś, o kim wiadomo, że tam jest — choćby wuja Versira — rzucanie wszystkich zaklęć, jakie przyszły do głowy. Efektów było mało, frustracji dużo. Po dwóch, trzech, pięciu latach zapał druida przygasł i zajął się także innymi sprawami, ale poszukiwań nigdy nie porzucił całkowicie. Królestwo pozostało nieodnalezione.
 
 W [[Sesja 85 - Cienie nad Arezją]] [[Edran]] wyczytał w zwojach, że niegdyś żeglowano do Królestwa pod gwiazdozbiorem syren złożonym z czterech gwiazd, dziś nieznanym, i opisał jego położenie między innymi konstelacjami. Dwa dni wcześniej [[Arevon Elorrenthi|Arevon]] widział w tym miejscu nieba dwie nieruchome, nieznane gwiazdy, które zamrugały i zniknęły. Uznał, że konstelacja wciąż tam jest, przykryta słabnącą pierwotną magią albo magią Tytanów, i postanowił obserwować niebo.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Narsus]] wyjawił, że w głębokiej otchłani pod Królestwem, w miejscu, gdzie [[Sydon]] zatopił niegdyś miasto, spoczywa [[Ogień Prometejski]], trzeci przedmiot potrzebny do rytuału [[Magia Thylei#Theogenesis (Apoteoza)|Teogenezy]]. Wiedział tylko, że Królestwo leży gdzieś w okolicach [[Zatoka Cerulańska|Zatoki Cerulańskiej]]; śpiewająca dla niego syrena nie potrafiła wskazać jego położenia, a [[Królowa Helena]] odpowiedziała [[Arevon Elorrenthi|Arevonowi]], że [[Arezja]] nie znalazła dotąd żadnych poszlak. Tego wieczoru Arevon znów dostrzegł migoczące gwiazdy, które świeciły nieco dłużej niż poprzednio, i naniósł ich położenie na swoją mapę nieba. Następnej nocy zobaczył w tym miejscu już trzy z czterech gwiazd, o których mówił [[Edran]].

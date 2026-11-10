@@ -46,3 +46,4 @@ cover: ../assets/sessions/053/053_bowl.webp
 - [[Oszczepy Błyskawic]]
 - [[Eye of the Galactic Dragon]]
 - [[Amfora Zakrotha]]
+- [[Ogień Prometejski]]

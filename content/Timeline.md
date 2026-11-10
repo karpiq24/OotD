@@ -516,3 +516,11 @@
 * [[Krithon]] znika z Ultrosa; [[Zythion]] obawia się, że satyr ruszył na półwysep do kogoś, kto „naprostowuje historyczne krzywdy” ras fey.
 * **Aresztowanie [[Taran Neurdagon|Tarana Neurdagona]]** – [[Versir]] i [[Arevon Elorrenthi|Arevon]] zmuszają go do poddania się w jego namiocie; Versir oddaje go w kajdanach Vallus, a generał Flavius zwija obóz.
 * [[Królowa Helena]] wyjawia, że [[Narsus]] chce sięgnąć po puste boskie domeny, a jednym z potrzebnych do tego przedmiotów jest amfora minotaura [[Zakroth|Zakrotha]]; drużyna przyjmuje zlecenie na Zakrotha.
+
+## Sesja 86 - Trzy Klucze Teogenezy (09.11.2026)
+* [[Narsus]] w smoczej postaci ([[Arystonar]]) wyjawia w [[Komnata Piękna|Komnacie Piękna]] wizję rytuału Teogenezy od [[Balmytria|Balmytrii]] i trzy potrzebne przedmioty: [[Kaduceusz Damona]] z [[Kurhany Karpathosa|kurhanów Karpathosa]], [[Amfora Zakrotha|Ambrozję]] [[Zakroth|Zakrotha]] i [[Ogień Prometejski]] spod zatopionego [[Królestwo Syren|Królestwa Syren]].
+* [[Królowa Helena]] wręcza list do dowódcy strażników kurhanów i przyznaje, że w razie katastrofy odpowiedzialność spadnie na drużynę.
+* Prośba [[Taureus|Taureusa]] o oszczędzenie minotaurów, satyrów i centaurów podążających za Zakrothem.
+* Odrośnięcie ręki [[Hiero]] po zaklęciu *Regenerate* [[Arevon Elorrenthi|Arevona]].
+* Zdominowany satyr [[Tityros]] wskazuje [[Fort Zakrotha]]; centaur [[Cheironis]] wyjawia, że Zakroth trzyma w forcie dzieci wodzów plemion jako zakładników.
+* Rozbicie oddziału ośmiu minotaurów w [[Bór Thrake|Borze Thrake]]; drużyna staje przed fortem, przed którym na krzyżach wiszą arezyjscy żołnierze.

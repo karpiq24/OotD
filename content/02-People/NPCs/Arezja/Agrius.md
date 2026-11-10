@@ -18,3 +18,5 @@ Agrius jest królem druidów [[Centaur z Thylei|centaurów]]. Według plotek pos
 ## Historia
 - [[Sesja 62 - Arezyjska Dyplomacja]]: w [[Arezja|Arezji]] bohaterowie dowiedzieli się od sprzedawcy oliwek, że sekret „idealnej oliwki”, której poszukuje Mistrz [[Laertes]], posiadają druidzi centaurów pod wodzą króla Agriusa. Sprzedawca nie miał takich nasion, ale oferował prawie idealne oliwki.
 - [[Sesja 63 - Werdykt Arezji]]: akolici w [[Świątynia Spokoju|Świątyni Spokoju]] narzekali, że ich zadaniem jest znalezienie „idealnej oliwki” dla swojego mistrza, [[Laertes|Laertesa]].
+
+- [[Sesja 86 - Trzy Klucze Teogenezy]]: jego syn [[Cheironis]] przedstawił się drużynie jako syn lorda Agriusa z północnych stepów. Według niego [[Zakroth]] wymusił sojusz plemion, trzymając w [[Fort Zakrotha|forcie]] jako zakładników dzieci wodzów, wśród nich drugiego syna Agriusa, Perimedesa, który częściowo przystał do buntowników z własnej woli, oraz jego córkę, wysłaną niedawno przez ojca na audiencję, z której nie wróciła.

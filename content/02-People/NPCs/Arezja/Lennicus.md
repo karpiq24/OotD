@@ -15,3 +15,5 @@ Traktuje leczenie wojowników czysto biznesowo - chce ich jak najszybciej postaw
 
 ## Historia
 W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie spotkali go w [[Sanktuarium]], pełniącym rolę łaźni, szpitala i świątyni. Opatrywał tam rannych i jednocześnie przyjmował zakłady na walki. [[Arevon Elorrenthi|Arevon]] zaimponował mu, magicznie lecząc rannego gladiatora.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] pilnował zakurzonego [[Sanktuarium]], w którym wciąż stoją zapomniane posągi [[Thylea|Thylei]], [[Sydon|Sydona]], [[Lutheria|Lutherii]] i [[Mytros (Bogini)|Mytros]]. Wyjaśnił [[Arevon Elorrenthi|Arevonowi]] i [[Orestes|Orestesowi]], że w [[Arezja|Arezji]] liczy się już właściwie tylko [[Narsus]], a jego kapłani, podobnie jak dawni kapłani pozostałych bóstw, z nieznanego powodu nadal dysponują magią. Przyznał też, że nowy, tańszy trunek powoli podbija miasto.

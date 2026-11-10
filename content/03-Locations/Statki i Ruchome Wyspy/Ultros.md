@@ -57,3 +57,5 @@ W [[Sesja 84 - Świt Nowej Ery]] wrak wyciągnięto z wody i rozpoczęto żmudny
 Przy tej okazji [[Orestes]] pożegnał się z [[Delphia|Delphią]]: uznał, że i ona może wreszcie odejść ze statku. Podziękował jej za owocną współpracę, zaprosił na pożegnalne piwo i wypił jej zdrowie, życząc szerokiej drogi.
 
 W [[Sesja 85 - Cienie nad Arezją]] czterech podejrzanych typów próbowało po zamknięciu włamać się do kajuty kapitańskiej, w której wisiały tylko dwa stare obrazy. Nakrył ich pijany [[Kalistor]], który zasnął na ławie i wyszedł za potrzebą na rufę; dźgnęli go sztyletami i uciekli. Nic nie zginęło. [[Felicjan Janus Twardowski|Felicjan]] zabrał z kajuty [[Portret Karpathosa]] i ukrył go na [[Wyspa Yonder|Wyspie Yonder]], a [[Orestes]] przeniósł swój portret do głównej sali i dał [[Brax|Braxowi]] złoto na wynajęcie ochrony. Pod pokładem zebrali się tej nocy [[Bohaterowie Przepowiedni]] przed audiencją u [[Vallus]].
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] bohaterowie zauważyli, że [[Portret Karpathosa]] wisiał przez piętnaście lat zamknięty na klucz w kajucie kapitańskiej, ale wiedziała o nim praktycznie cała stara załoga statku.

@@ -21,4 +21,6 @@ W [[Sesja 68 - Arena Krzywoprzysięstwa]] Versir latał na swojej magicznej Trą
 
 W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] tkwiła spętana wirami powietrza. Versir wyleczył siebie i ją czarem *Leczenie Ran (Cure Wounds)*, po czym teleportował się z nią przed oblicze [[Sydon|Sydona]].
 
-W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] niosła Versira w ostatecznym starciu z Sydonem nad wodami zatoki. Żrący deszcz z burzy Sydona dosięgnął ją najboleśniej, więc Versir rozwiał więź z wierzchowcem i spadł na pokład [[Tranquility]]. Przyzwał ją na nowo w niebiańskiej, promiennej postaci, ale wyładowania z burzy Sydona uśmierciły również ją. Versir przyzwał wtedy trzecią inkarnację Trąby i na jej grzbiecie zaszarżował na Sydona po falach. W kolejnych sesjach Trąba już się nie pojawia.
+W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] niosła Versira w ostatecznym starciu z Sydonem nad wodami zatoki. Żrący deszcz z burzy Sydona dosięgnął ją najboleśniej, więc Versir rozwiał więź z wierzchowcem i spadł na pokład [[Tranquility]]. Przyzwał ją na nowo w niebiańskiej, promiennej postaci, ale wyładowania z burzy Sydona uśmierciły również ją. Versir przyzwał wtedy trzecią inkarnację Trąby i na jej grzbiecie zaszarżował na Sydona po falach.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Versir]] przyzwał ją za bramą [[Arezja|Arezji]] i poleciał na niej z drużyną na północ. W [[Bór Thrake|Borze Thrake]] została z bohaterami na ziemi; Versir wskoczył na jej grzbiet i teleportował się z nią na bezpieczną odległość od szarżujących minotaurów.

@@ -7,3 +7,4 @@ group: Istoty
 - [[Krateros]]
 - [[Nessa]]
 - [[Pholon]]
+- [[Cheironis]]

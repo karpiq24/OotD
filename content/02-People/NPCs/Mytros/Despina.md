@@ -36,3 +36,5 @@ W [[Sesja 84 - Świt Nowej Ery]] odleciała i przepadła gdzieś bez śladu, nie
 
 ## Po wojnie
 [[Felicjan Janus Twardowski|Felicjan]] szukał prababki, ale wyraźnie nie chciała zostać odnaleziona, więc zostawił ją w spokoju. Nie żywi do niej urazy, chciałby tylko, żeby wytłumaczyła, dlaczego odeszła.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Felicjan Janus Twardowski|Felicjan]] przyznał [[Versir|Versirowi]], że słał do niej wiadomości, ale nigdy nie odpowiedziała. Uznał, że znała [[Narsus|Narsusa]] i zapewne [[Karpathos|Karpathosa]], a jeśli jej moce czarodziejki przetrwały w ciele smoczycy, mogła zesłać Narsusowi sen o [[Magia Thylei#Theogenesis (Apoteoza)|Teogenezie]]. Podejrzewa, że ukrywa się gdzieś w pobliżu albo w samej [[Arezja|Arezji]].

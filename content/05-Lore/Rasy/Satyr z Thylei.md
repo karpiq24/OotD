@@ -19,3 +19,4 @@ Często golą futro na torsach. Ich rogi mogą być małe lub ogromne. Imiona cz
 - [[Sesja 59 - Koniec Imprezy]]: satyrowie tańczyli w tłumie w fortecy [[Talieus|Talieusa]].
 - [[Sesja 74 - Matka Smoków]]: w [[Praxys]] trzej satyrowie-bardowie grali radosną melodię o piwie i dołączyli do drużyny, towarzysząc jej w windzie.
 - [[Sesja 75 - Koniec Przysięgi]]: satyrowie-bardowie zostali uwolnieni z Praxys i załadowani na statek.
+- [[Sesja 86 - Trzy Klucze Teogenezy]]: satyrowie są wśród ludzi minotaura [[Zakroth|Zakrotha]] na [[Półwysep Arezyjski|Półwyspie Arezyjskim]]. Oddział [[Flavius|Flaviusa]] pojmał dwóch z nich przy spalonym folwarku, a jeden, [[Tityros]], pracujący w kuchni obozu, wskazał bohaterom drogę do [[Fort Zakrotha|fortu]].

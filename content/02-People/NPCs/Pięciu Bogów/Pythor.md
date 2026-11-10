@@ -49,6 +49,8 @@ W [[Sesja 84 - Świt Nowej Ery]] okazało się, że tron [[Estoria|Estorii]] zos
 
 W [[Sesja 85 - Cienie nad Arezją]] wędrował z [[Orion Xul|Orionem]]. Snu syna nie umiał wyjaśnić. Opowiedział mu, jak odwiedził w pałacu [[Ophea|Opheę]]: przez godzinę łuskał z nią bób pod cyprysami, słuchając narzekań na wiatr niszczący róże i przesolone jedzenie, aż zaprosiła ich obu na kolację. Przybył z Orionem na [[Ultros|Ultrosa]], gdzie jego syn [[Kalistor]] dopiero co udaremnił włamanie, a potem, ciekaw rozprawy z [[Taran Neurdagon|Taranem Neurdagonem]], ruszył z drużyną pod [[Arezja|Arezję]] i wszedł z nią do miasta.
 
+W [[Sesja 86 - Trzy Klucze Teogenezy]] razem z [[Kyrah]] niechętnie zgodził się odwiedzić [[Narsus|Narsusa]], brata niewidzianego od pięciuset lat. W [[Komnata Piękna|Komnacie Piękna]] Narsus powitał go jako [[Raspytrion|Raspytriona]] uwagą, że skłamałby, mówiąc, że rodzeństwo dobrze wygląda, a Pythor odpowiedział mu chłodnym skinieniem głowy.
+
 ## Prawdziwa tożsamość: Raspytrion
 W [[Sesja 75 - Koniec Przysięgi]] wyszło na jaw, że **bogowie Thylei są smokami**. Pythor jest w rzeczywistości **[[Raspytrion|Raspytrionem]]** — brązowym smokiem, niegdyś zaprzysiężonym [[Adonis Neurdagon|Adonisowi Neurdagonowi]], synem [[Sybolkorax|Sybolkoraxa]] (czyli [[Volkan|Volkana]]) i srebrnej smoczycy [[Balmytria|Balmytrii]].
 

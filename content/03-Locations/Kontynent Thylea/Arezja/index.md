@@ -14,3 +14,4 @@ title: Arezja
 - [[Świątynia Tarczy]]
 - [[Świątynia Żywiołów]]
 - [[Obóz pod Arezją]]
+- [[Komnata Piękna]]

@@ -5,7 +5,9 @@ title: Magia Thylei
 W Thylei magia często wiąże się z ofiarami, przysięgami i boską ingerencją. Oto kilka unikalnych form magii znanych w tej krainie:
 
 ## Theogenesis (Apoteoza)
-Potężne zaklęcie, które umieszcza "boską iskrę" w śmiertelniku, otwierając mu drogę do stania się bogiem. Wymaga ofiar o ogromnej wartości oraz trzech Boskich Artefaktów (Kadyceusz, Ambrozja, Ogień Prometejski). Ostatecznie to jeden z Wielkich Bogów musi zdecydować, czy przyznać iskrę.
+Potężne zaklęcie, które umieszcza "boską iskrę" w śmiertelniku, otwierając mu drogę do stania się bogiem. Wymaga ofiar o ogromnej wartości oraz trzech Boskich Artefaktów (Kaduceusz, Ambrozja, Ogień Prometejski). Ostatecznie to jeden z Wielkich Bogów musi zdecydować, czy przyznać iskrę.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Narsus]] oznajmił, że rytuał ukazała mu we śnie [[Balmytria]], która wskazała też trzy potrzebne przedmioty i miejsca, w których spoczywają: [[Kaduceusz Damona]] w [[Kurhany Karpathosa|kurhanach Karpathosa]], Ambrozję z [[Amfora Zakrotha|amfory]] minotaura [[Zakroth|Zakrotha]] i [[Ogień Prometejski]] w otchłani pod zatopionym [[Królestwo Syren|Królestwem Syren]] w okolicach [[Zatoka Cerulańska|Zatoki Cerulańskiej]]. Obiecał, że jeśli bohaterowie mu je dostarczą, przekaże im przebieg obrzędu słowo w słowo, bo artefakty się nie zużywają.
 
 ## Bond of the Dragonlords (Więź Smoczych Władców)
 Magiczny rytuał wiążący duszę paladyna z nowo wyklutym smokiem metalicznym. Wymaga inkantacji w języku smoczym i ofiary z magicznego przedmiotu.

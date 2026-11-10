@@ -20,3 +20,5 @@ W [[Sesja 62 - Arezyjska Dyplomacja]] bohaterowie odwiedzili galerię. Przykuł 
 W [[Sesja 63 - Werdykt Arezji]] [[Felicjan Janus Twardowski|Felicjan]] odkrył, że portret jest filakterium z uwięzioną esencją potężnego nieumarłego. Galeria sprzedała go drużynie za 50 000 sztuk złota, a obraz dostarczono nocą na [[Ultros|Ultrosa]].
 
 W [[Sesja 85 - Cienie nad Arezją]] z okolic galerii dobiegały okrzyki protestujących: „Gdzie jest Narsus? Chcemy zobaczyć Narsusa!”.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Królowa Helena]] powiedziała, że portret sprzedano z galerii nielegalnie, i zapowiedziała, że porozmawia z pewnymi osobami.

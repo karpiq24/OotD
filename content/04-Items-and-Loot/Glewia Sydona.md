@@ -21,3 +21,5 @@ W [[Sesja 79 - Bitwa o Mytros: Gniew Pana Burz]] Sydon użył jej, by dotkliwie 
 W [[Sesja 80 - Bitwa o Mytros: Śmierć Pana Burz]] Sydon chybił nią, zamachnąwszy się na [[Trąba|Trąbę]], ranił [[Orestes|Orestesa]] i dwukrotnie ciął [[Sybolkorax|Sybolkoraxa]], ogłuszając smoka w locie. Gdy Tytan padł, po jego potędze pozostała jedynie porzucona, nietknięta glewia.
 
 W [[Sesja 84 - Świt Nowej Ery]] [[Versir]] zadeklarował, że — jeśli nikt inny nie zgłosi pretensji — przygarnie ją razem z porzuconym [[Hypnos|Hypnosem]], którym postanowił się zaopiekować.
+
+W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Versir]] nosił glewię na plecach, gdy wyszedł na rozmowę z centaurem [[Cheironis|Cheironisem]]. W starciu z ośmioma minotaurami w [[Bór Thrake|Borze Thrake]] przebił nią ostatniego z napastników.

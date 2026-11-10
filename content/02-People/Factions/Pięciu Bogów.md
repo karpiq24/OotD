@@ -27,6 +27,7 @@ Ochrona osadników przed Tytanami. Utrzymanie Przysięgi Pokoju. Oba cele należ
 
 ## Relacje
 - **Dawni wrogowie**: Tytani ([[Sydon]], [[Lutheria]]), obojga już nie ma.
+- **Spokrewniony**: [[Narsus]] ([[Arystonar]]), syn [[Balmytria|Balmytrii]] i brat Pythora, Kyrah i Vallus. Również otrzymał część wykradzionej Tytanom mocy, ale do Piątki nie jest wliczany.
 
 ## Historia
 Przybyli, by chronić osadników przed Tytanami. Podpisali Przysięgę Pokoju.
