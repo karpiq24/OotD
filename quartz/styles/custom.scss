@@ -92,6 +92,49 @@ h1.article-title {
   box-shadow: 0 6px 24px -14px rgba(0, 0, 0, 0.45);
 }
 
+// the "[Prompt](….txt)" link under a session image becomes a small pencil badge
+// in the image's bottom-right corner, shown on hover (always faint on touch screens)
+.page article p:has(> img + a[href$=".txt"]) {
+  position: relative;
+  width: fit-content;
+  max-width: 100%;
+}
+.page article p > img + a[href$=".txt"] {
+  position: absolute;
+  right: 0.6rem;
+  bottom: calc(1rem + 0.6rem); // the image's bottom margin
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border-radius: 50%;
+  background: var(--ootd-scrim);
+  color: var(--ootd-on-art);
+  font-size: 0;
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  &::before {
+    content: "✎";
+    font-size: 1rem;
+    line-height: 1;
+  }
+  &:hover {
+    background: var(--ootd-scrim);
+    opacity: 1 !important;
+  }
+}
+.page article p:has(> img + a[href$=".txt"]):hover > a[href$=".txt"],
+.page article p > img + a[href$=".txt"]:focus-visible {
+  opacity: 0.8;
+}
+@media (hover: none) {
+  .page article p > img + a[href$=".txt"] {
+    opacity: 0.45;
+  }
+}
+
 // ---------- home and folder pages use the full width ----------
 // (they have no right-hand sidebar, so its column is dropped)
 body[data-slug="index"],
