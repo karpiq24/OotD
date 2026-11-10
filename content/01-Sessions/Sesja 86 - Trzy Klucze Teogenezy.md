@@ -1,5 +1,6 @@
 ---
 title: "Sesja 86: Trzy Klucze Teogenezy"
+draft: true
 ---
 **Data**: 09.11.2026
 
