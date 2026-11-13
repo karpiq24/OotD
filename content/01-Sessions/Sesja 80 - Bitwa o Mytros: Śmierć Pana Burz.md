@@ -125,3 +125,6 @@ Z oddalonego miasta zaczęły dobiegać okrzyki triumfu. W chwilę po śmierci W
 * [[Odkupienie Pythora]]
 * [[Glewia Sydona]]
 * [[Kolos Pythora]]
+
+## Filmy
+![Śmierć Pana Burz](../assets/sessions/080/080_smierc_pana_burz.webm)
