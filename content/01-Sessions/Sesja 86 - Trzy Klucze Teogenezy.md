@@ -138,3 +138,6 @@ Drzewa w końcu się rozstąpiły, odsłaniając porośnięte mchem i trawą wzg
 * Zdominowany przez [[Versir|Versira]] satyr [[Tityros]] wskazuje na mapie [[Fort Zakrotha|fort Zakrotha]] i potwierdza, że [[Krithon]] przebywa w obozie minotaura.
 * Centaur [[Cheironis]] wyjawia, że Zakroth wymusił sojusz plemion, przetrzymując w forcie dzieci ich wodzów jako zakładników.
 * Drużyna rozbija w [[Bór Thrake|Borze Thrake]] oddział ośmiu minotaurów i staje przed [[Fort Zakrotha|Fortem Zakrotha]], przed którym wiszą na krzyżach arezyjscy żołnierze.
+
+## Filmy
+![Trzy Klucze Teogenezy](../assets/sessions/086/086_trzy_klucze_teogenezy.webm)
