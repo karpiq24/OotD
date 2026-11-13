@@ -46,13 +46,11 @@ Session logging and wiki maintenance run through agent skills and the `rpg-tools
 - **`/finalize-session-recap`**: Adds wikilinks, image prompts, and timeline events to a user-reviewed draft, then refreshes the campaign context for rpgnotes. Starts by harvesting the user's edits (see `/harvest-corrections`).
 - **`/harvest-corrections`**: Learning loop — diffs the pristine `draft_pre_edit.md` against the user's edited recap and folds each correction back into what rpgnotes reads (name fixes → the phonetic corrections, repeated deletions and style edits → the learned rules, entity facts → wiki files). All writes are confirmed by the user first. Runs automatically as Step 0 of `/finalize-session-recap`, or on-demand.
 - **`/iterate-recap`**: Targeted fix pass for an existing recap — give it a session number and a free-form complaint; it greps the transcript for the relevant names/keywords, re-reads only those slices, and rewrites only the affected sections, never the rest of the file. Tool-agnostic (usable from any agent).
-- **`/generate-video-script`**: On-demand skill that generates a paste-ready Google Flow video script for an existing session recap. Not part of finalization — invoke it explicitly only when a video is actually wanted.
 
 ### Capability skills
 - **`rpg-wiki-manager`**: Extracts entities (NPCs, Locations, Items, Lore, Handouts) from RPG session recaps and input files, updating the wiki structure.
 - **`rpg-illustrator`**: Generates detailed image prompts and renders images using Nano Banana Pro.
 - **`rpg-timeline-manager`**: Appends session events to the campaign timeline.
-- **`rpg-video-scripter`**: Generates a paste-ready, per-clip Google Flow video script from a session recap. Invoked on-demand via `/generate-video-script`, not automatically.
 - **`rpg-chatlog-analyst`**: Answers precise mechanics questions (exact damage, who cast what) by grepping the session's timeline-anchored FoundryVTT chat events imported from rpgnotes.
 
 ### Rules

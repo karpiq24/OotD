@@ -63,7 +63,6 @@ The skills come from rpg-tools (`skills/`, and `systems/dnd5e/skills/` for `dndb
 | `rpg-illustrator` | Image prompts and rendering (modes: `Session Recap - Prompts Only`, `Session Recap - Generate Images`, `Single Image`, `Prompt Generation`). |
 | `rpg-timeline-manager` | `Timeline.md` and `Campaign_Context.md`. |
 | `rpg-chatlog-analyst` | Exact mechanics (damage, who cast what, hit/miss) by grepping a session's `chat_events.txt` / `chat_log.json`; never loads whole logs. |
-| `generate-video-script`, `rpg-video-scripter` | On demand only: a paste-ready Google Flow script into `content/assets/sessions/{000}/video_script.md`. |
 
 ## Rules (always on)
 
