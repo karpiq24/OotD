@@ -16,7 +16,7 @@ export interface SessionAssetGroup {
 
 // Ordered category buckets (site.json strings `asset_<key>`). The order here is the order
 // they render in.
-const CATEGORY_ORDER = ["transcripts", "chat_logs", "data", "video", "images", "prompts", "other"]
+const CATEGORY_ORDER = ["transcripts", "chat_logs", "data", "images", "prompts", "other"]
 
 // rpgnotes' session package: exact file name -> [category, label key]
 const KNOWN_FILES: Record<string, { category: string; label: string }> = {
@@ -28,7 +28,6 @@ const KNOWN_FILES: Record<string, { category: string; label: string }> = {
   "chat_events.txt": { category: "chat_logs", label: "chat_events_txt" },
   "quotes.json": { category: "data", label: "quotes" },
   "visual_log.json": { category: "data", label: "visual_log" },
-  "video_script.md": { category: "video", label: "video_script" },
 }
 
 const SESSION_FILE = new RegExp(escapeRegex(layout.session_word) + "\\s+(\\d+)")

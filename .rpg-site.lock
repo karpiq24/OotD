@@ -151,7 +151,7 @@
   "quartz/plugins/transformers/oxhugofm.ts": "b39de6f499651c6546efcad86498159cd935f650d64db4bb06832eb9e7f99e09",
   "quartz/plugins/transformers/quoteBubbles.ts": "2d0c603bdd4151a5a2908cb64fd14ab86d6196c7d8011778d467dbb72ff348c9",
   "quartz/plugins/transformers/roam.ts": "edec0725cb36fcc4a09b363ca7c41dfdbc5f11b93034d507d92b00a858773210",
-  "quartz/plugins/transformers/sessionAssets.ts": "2aee38960cbb5c4be9fffa53ddb9af256280049323e2743463cf8ca63f796cba",
+  "quartz/plugins/transformers/sessionAssets.ts": "3cfbc811766f1dbf78fa63c60c2aa3866ff450ed1e236a0095194786cc42f8be",
   "quartz/plugins/transformers/syntax.ts": "db2758faa8629ef17df4da11e9f0c432dbeabecdd2457349aaadca4ddacae3f8",
   "quartz/plugins/transformers/toc.ts": "127731bef4f383ef1e73aedd1849f4eeec6906723d2312540981c48c7bc21023",
   "quartz/plugins/types.ts": "d1d68d08256c6d392988c2c7ab44a46e5798baaf645712d2ecfe69c43d0f577b",
@@ -186,7 +186,7 @@
   "quartz/util/theme.ts": "2850e5acf2d168d0c8f5b79b23d26a0d0621b2f99e7ebb2e23efd5acbc439e47",
   "quartz/util/trace.ts": "b8216e24985fdc0e466638b449573e2e9ac2fece4b0481ee705b9f3852db9aca",
   "quartz/worker.ts": "5cab2a42976061edf93e52fd99cb13d26e855ee25bdcf78aa25877b10f8c64bd",
-  "site.json": "87cef22263e1c8eddcc6a5811fb851996e6c3fd44853ddb5090d43e0590870ef",
+  "site.json": "33104156cc9d2977a95c4f9d84b9c8b902d333bbffff452d0eaa83f997056a03",
   "tsconfig.json": "3ae81d9be5219a5d02e9ff770d9963c544ee8c7db5c5b3fac03002b2843659cd"
  }
 }

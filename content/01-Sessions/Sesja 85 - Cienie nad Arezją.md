@@ -155,3 +155,6 @@ Felicjan zauważył, że Mytros obawia się przejęcia domen przez Arezję tak s
 * [[Versir]] teleportuje uwięzionego [[Taran Neurdagon|Tarana]] do [[Mytros]] i oddaje go w ręce królowej [[Vallus]], po czym rusza w drogę powrotną.
 * [[Orestes]] dobija targu z [[Dolios|Doliosem]], przekierowując zwijany oddział najemników do ochrony szlaków handlowych na [[Półwysep Arezyjski|Półwyspie Arezyjskim]].
 * Drużyna wkracza do [[Arezja|Arezji]] na audiencję u [[Królowa Helena|królowej Heleny]], dowiadując się o rebelii minotaura [[Zakroth|Zakrotha]] oraz o tajemniczej [[Amfora Zakrotha|amforze]] powiązanej z boskimi domenami [[Narsus|Narsusa]].
+
+## Filmy
+![Noc na Ultrosie](../assets/sessions/085/085_noc_na_ultrosie.webm)

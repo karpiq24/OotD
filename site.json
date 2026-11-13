@@ -94,7 +94,6 @@
     "asset_transcripts": "Transkrypty",
     "asset_chat_logs": "Logi czatu",
     "asset_data": "Dane",
-    "asset_video": "Wideo",
     "asset_images": "Obrazki",
     "asset_prompts": "Prompty",
     "asset_other": "Pozostałe",
@@ -105,7 +104,6 @@
     "asset_chat_events_json": "Zdarzenia czatu (json)",
     "asset_chat_events_txt": "Zdarzenia czatu (txt)",
     "asset_quotes": "Cytaty",
-    "asset_visual_log": "Log wizualny",
-    "asset_video_script": "Skrypt wideo"
+    "asset_visual_log": "Log wizualny"
   }
 }
