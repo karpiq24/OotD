@@ -2,7 +2,8 @@
 title: Ogień Prometejski
 ---
 
-![Placeholder](../assets/placeholder.webp)
+![Ogień Prometejski w otchłani](../assets/items/ogien_prometejski.webp)
+[Prompt](../assets/items/ogien_prometejski.txt)
 
 _Płomień, którym według legendy stworzono świat; jeden z trzech przedmiotów potrzebnych do rytuału [[Magia Thylei#Theogenesis (Apoteoza)|Teogenezy]]._
 

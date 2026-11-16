@@ -4,7 +4,8 @@ aliases:
   - Nektar Bogów
 ---
 
-![Placeholder](../assets/placeholder.webp)
+![Amfora z Ambrozją](../assets/items/amfora_zakrotha.webp)
+[Prompt](../assets/items/amfora_zakrotha.txt)
 
 _Amfora z Ambrozją, Nektarem Bogów, w posiadaniu minotaura [[Zakroth|Zakrotha]]; jeden z trzech przedmiotów potrzebnych do rytuału [[Magia Thylei#Theogenesis (Apoteoza)|Teogenezy]]._
 

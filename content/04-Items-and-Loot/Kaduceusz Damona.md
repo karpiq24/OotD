@@ -2,7 +2,8 @@
 title: Kaduceusz Damona
 ---
 
-![Placeholder](../assets/placeholder.webp)
+![Kaduceusz Damona w kurhanie](../assets/items/kaduceusz_damona.webp)
+[Prompt](../assets/items/kaduceusz_damona.txt)
 
 _Laska stworzona przez [[Damon|Damona]], pozwalająca odrzucić śmiertelność; jeden z trzech przedmiotów potrzebnych do rytuału [[Magia Thylei#Theogenesis (Apoteoza)|Teogenezy]]._
 
