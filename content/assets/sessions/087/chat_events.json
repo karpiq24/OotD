@@ -1,0 +1,2306 @@
+[
+  {
+    "offset_secs": -12.710000038146973,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Poczekalnia"
+  },
+  {
+    "offset_secs": 33.92199993133545,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 363.44199991226196,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Fort Zakrotha (dziennik: Rozdział 8: Półwysep Arezyjski)"
+  },
+  {
+    "offset_secs": 404.66799998283386,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Przed Fortem Zakrotha"
+  },
+  {
+    "offset_secs": 459.88499999046326,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Ugulat"
+  },
+  {
+    "offset_secs": 1274.2179999351501,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Fort Zakrotha"
+  },
+  {
+    "offset_secs": 1489.4809999465942,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Swarm of Stirges"
+  },
+  {
+    "offset_secs": 1614.6170001029968,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom (Perception) Check | rzuty: 1d20 + 6 + 5 = 31 KRYTYK"
+  },
+  {
+    "offset_secs": 1786.0729999542236,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Maenad"
+  },
+  {
+    "offset_secs": 1844.6970000267029,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d2 = 1"
+  },
+  {
+    "offset_secs": 2162.6349999904633,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 - 1 = 10; 1d20 - 1 = 18"
+  },
+  {
+    "offset_secs": 2457.8870000839233,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "(OOC) Ring of Orestes Ring, Legendary (requires attunement by a Doomed One) This simple ring seems to be created from a dragon bone. On the inside the inscription says: \"DLA UKOCHANEGO ORESTESA\". You have advantage on saving throws you make to avoid being charmed or frightened or to end those conditions on you. Ring of Orestes was enhanced by God of Crafts, Volkan himself. You gain a +1 1d20+1 bonus to AC, and you can’t be charmed or frightened. Moreover, each creature of your choice within 30 feet o…"
+  },
+  {
+    "offset_secs": 2557.7799999713898,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Charisma Saving Throw (Advantage) | rzuty: 2d20adv + 0 = 8"
+  },
+  {
+    "offset_secs": 2566.21799993515,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Charisma Ability Check (Advantage) | rzuty: 2d20adv - 1 = 1"
+  },
+  {
+    "offset_secs": 2717.8689999580383,
+    "speaker": "Maenad",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 - 1 = 8"
+  },
+  {
+    "offset_secs": 3139.8440001010895,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Murgrat"
+  },
+  {
+    "offset_secs": 3261.2060000896454,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Intelligence Ability Check | rzuty: 1d20 + 0 = 18"
+  },
+  {
+    "offset_secs": 3295.388000011444,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw (Advantage) | rzuty: 2d20adv + 1 = 12"
+  },
+  {
+    "offset_secs": 3625.8389999866486,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Wisdom (Perception) Check | rzuty: 1d20 + 6 + 5 = 17"
+  },
+  {
+    "offset_secs": 3980.861000061035,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 17"
+  },
+  {
+    "offset_secs": 3991.1589999198914,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 13"
+  },
+  {
+    "offset_secs": 4025.0460000038147,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 30"
+  },
+  {
+    "offset_secs": 4134.970999956131,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "(OOC) Patrobas"
+  },
+  {
+    "offset_secs": 4197.085999965668,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Minotaur Berserker"
+  },
+  {
+    "offset_secs": 4273.828000068665,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Arevon Elorrenthi rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 16.16"
+  },
+  {
+    "offset_secs": 4278.069999933243,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Felicjan Janus Twardowski rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 21.14"
+  },
+  {
+    "offset_secs": 4280.640000104904,
+    "speaker": "Hoooooooobert",
+    "kind": "roll",
+    "text": "Hoooooooobert rolls for Initiative! | rzuty: 1d20[Initiative] + 1 + 0.13 = 19.13"
+  },
+  {
+    "offset_secs": 4285.186000108719,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Kairos rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 3 + 0.1 = 4.1"
+  },
+  {
+    "offset_secs": 4287.499000072479,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Orion Xul rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 0.11 = 12.11"
+  },
+  {
+    "offset_secs": 4315.835000038147,
+    "speaker": "Minotaur Berserker",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Minotaur Berserker rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 22.14"
+  },
+  {
+    "offset_secs": 4319.813999891281,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Murgrat rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 15.22"
+  },
+  {
+    "offset_secs": 4324.007999897003,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Orestes rolls for Initiative! | rzuty: 2d20adv[Initiative] + 2 + 0.14 = 18.14"
+  },
+  {
+    "offset_secs": 4346.276999950409,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Versir rolls for Initiative! | rzuty: 1d20[Initiative] - 1 + 0.08 = 17.08"
+  },
+  {
+    "offset_secs": 4365.769000053406,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "początek walki: Kairos, Minotaur Berserker, Murgrat, Orion Xul, Felicjan Janus Twardowski, Versir, Orestes, Hoooooooobert, Arevon Elorrenthi"
+  },
+  {
+    "offset_secs": 4366.0940001010895,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round Start"
+  },
+  {
+    "offset_secs": 4411.8150000572205,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Centaur Hero"
+  },
+  {
+    "offset_secs": 4417.653000116348,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Perimedes"
+  },
+  {
+    "offset_secs": 4444.371999979019,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Hold Monster (Legacy) (Save)"
+  },
+  {
+    "offset_secs": 4472.861000061035,
+    "speaker": "Minotaur Berserker",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 3 + 4 = 11 (ST 18)"
+  },
+  {
+    "offset_secs": 4529.12299990654,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes Witch rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0.18 = 9.18"
+  },
+  {
+    "offset_secs": 4529.125999927521,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes Witch rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0.18 = 19.18"
+  },
+  {
+    "offset_secs": 4529.128000020981,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Centaur Hero rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 4.16"
+  },
+  {
+    "offset_secs": 4529.132999897003,
+    "speaker": "Perimedes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Perimedes rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0 + 0.18 = 13.18"
+  },
+  {
+    "offset_secs": 4529.134999990463,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Centaur Hero rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 15.16"
+  },
+  {
+    "offset_secs": 4529.137000083923,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Centaur Hero rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 12.16"
+  },
+  {
+    "offset_secs": 4648.811000108719,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 29; 1d20 + 13 = 29; 1d12 + 8 = 17; 2d6 = 6; 1d6 = 6"
+  },
+  {
+    "offset_secs": 4719.688999891281,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "(OOC) Brutal Critical Class At 13th level, you can roll two additional weapon damage dice when determining the extra damage for a critical hit with a melee attack. This increases to three additional dice at 17th level."
+  },
+  {
+    "offset_secs": 4741.4059998989105,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d6 + 3d12 = 24"
+  },
+  {
+    "offset_secs": 4769.592000007629,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 27; 1d20 + 13 = 22; 1d12 + 8 = 16; 2d6 = 9; 1d6 = 2"
+  },
+  {
+    "offset_secs": 4780.99799990654,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d6 + 3d12 = 11"
+  },
+  {
+    "offset_secs": 4802.701999902725,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 27; 1d20 + 13 = 16; 1d12 + 8 = 19; 2d6 = 3; 1d6 = 6"
+  },
+  {
+    "offset_secs": 4824.147000074387,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d6 + 3d12 = 28"
+  },
+  {
+    "offset_secs": 4890.249000072479,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  8 = 11; 1d20  +  8 = 10"
+  },
+  {
+    "offset_secs": 4902.611999988556,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  8 = 16; 1d20  +  8 = 23"
+  },
+  {
+    "offset_secs": 4958.529000043869,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d10  +  3 = 12; 4d6 = 10"
+  },
+  {
+    "offset_secs": 4967.375999927521,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d10 + 4d6 = 25"
+  },
+  {
+    "offset_secs": 4974.733999967575,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 43"
+  },
+  {
+    "offset_secs": 4989.78200006485,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Minotaur Berserker pada (0 PW)"
+  },
+  {
+    "offset_secs": 5072.43700003624,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "koniec walki po 1 rundach"
+  },
+  {
+    "offset_secs": 5072.503000020981,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round End"
+  },
+  {
+    "offset_secs": 5224.558000087738,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Perimedes"
+  },
+  {
+    "offset_secs": 5689.678999900818,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "Orion Xul rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 0.11 = 20.11"
+  },
+  {
+    "offset_secs": 5691.8440001010895,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Felicjan Janus Twardowski rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 12.14"
+  },
+  {
+    "offset_secs": 5692.417000055313,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Versir rolls for Initiative! | rzuty: 1d20[Initiative] - 1 + 0.08 = 8.08"
+  },
+  {
+    "offset_secs": 5694.328999996185,
+    "speaker": "Hoooooooobert",
+    "kind": "roll",
+    "text": "Hoooooooobert rolls for Initiative! | rzuty: 1d20[Initiative] + 1 + 0.13 = 17.13"
+  },
+  {
+    "offset_secs": 5695.493999958038,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "Arevon Elorrenthi rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 19.16"
+  },
+  {
+    "offset_secs": 5696.214999914169,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Kairos rolls for Initiative! | rzuty: 1d20[Initiative] + 0 + 3 + 0.1 = 16.1"
+  },
+  {
+    "offset_secs": 5751.137000083923,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes Witch rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0.18 = 22.18"
+  },
+  {
+    "offset_secs": 5751.140000104904,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 13.22"
+  },
+  {
+    "offset_secs": 5751.142999887466,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 21.22"
+  },
+  {
+    "offset_secs": 5751.1449999809265,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 12.22"
+  },
+  {
+    "offset_secs": 5751.148000001907,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes Witch rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0.18 = 20.18"
+  },
+  {
+    "offset_secs": 5751.151000022888,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 13.22"
+  },
+  {
+    "offset_secs": 5751.151999950409,
+    "speaker": "Perimedes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Perimedes rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0 + 0.18 = 14.18"
+  },
+  {
+    "offset_secs": 5751.1559998989105,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Centaur Hero rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 22.16"
+  },
+  {
+    "offset_secs": 5751.15700006485,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Centaur Hero rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 5.16"
+  },
+  {
+    "offset_secs": 5751.160000085831,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Centaur Hero rolls for Initiative! | rzuty: 1d20[Initiative] + 3 + 0.16 = 18.16"
+  },
+  {
+    "offset_secs": 5751.1630001068115,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 18.22"
+  },
+  {
+    "offset_secs": 5751.164999961853,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 22.22"
+  },
+  {
+    "offset_secs": 5751.167000055313,
+    "speaker": "Minotaur Warrior",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Minotaur Warrior rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0.14 = 9.14"
+  },
+  {
+    "offset_secs": 5751.168999910355,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Zakroth rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 6 + 0.14 = 13.14"
+  },
+  {
+    "offset_secs": 5751.171000003815,
+    "speaker": "Belladona",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Belladona rolls for Initiative! | rzuty: 1d20[Initiative] + 2 + 0 + 0.14 = 9.14"
+  },
+  {
+    "offset_secs": 5751.173000097275,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes Witch rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0.18 = 21.18"
+  },
+  {
+    "offset_secs": 5751.174999952316,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Gigantes Witch rolls for Initiative! | rzuty: 1d20[Initiative] + 4 + 0.18 = 7.18"
+  },
+  {
+    "offset_secs": 5781.296000003815,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 2 = 22; 1d20 + 2 = 18"
+  },
+  {
+    "offset_secs": 5808.322000026703,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "początek walki: Orestes, Orion Xul, Versir, Felicjan Janus Twardowski, Arevon Elorrenthi, Kairos, Hoooooooobert"
+  },
+  {
+    "offset_secs": 5808.608999967575,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round Start"
+  },
+  {
+    "offset_secs": 5969.957999944687,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 11 = 14; 1d20 + 11 = 28"
+  },
+  {
+    "offset_secs": 5996.963999986649,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Belladona"
+  },
+  {
+    "offset_secs": 6159.829999923706,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 31"
+  },
+  {
+    "offset_secs": 6163.618000030518,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 14; 2d6 = 11"
+  },
+  {
+    "offset_secs": 6177.073999881744,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 28"
+  },
+  {
+    "offset_secs": 6180.305000066757,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 16; 2d6 = 9"
+  },
+  {
+    "offset_secs": 6196.832000017166,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 14"
+  },
+  {
+    "offset_secs": 6204.815999984741,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 17; 2d6 = 9"
+  },
+  {
+    "offset_secs": 6213.944000005722,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Belladona pada (0 PW)"
+  },
+  {
+    "offset_secs": 6624.9909999370575,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Spirit Guardians (Legacy) (Cast)"
+  },
+  {
+    "offset_secs": 6753.326999902725,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "(szept do: karpiq) Murgrat rolls for Initiative! | rzuty: 1d20[Initiative] + 6 - 2 + 0.22 = 7.22"
+  },
+  {
+    "offset_secs": 6916.740000009537,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Zakroth"
+  },
+  {
+    "offset_secs": 7018.573999881744,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Gore (Attack: 2d10 Piercing Damage)"
+  },
+  {
+    "offset_secs": 7031.628999948502,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Gore (Attack: 6d8 Piercing Damage)"
+  },
+  {
+    "offset_secs": 7035.328999996185,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Gore - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 32 (ST 18)"
+  },
+  {
+    "offset_secs": 7061.74799990654,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Damage Roll | rzuty: 2d10 + 7 = 10 piercing"
+  },
+  {
+    "offset_secs": 7065.200000047684,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "Damage Roll | rzuty: 6d8 = 28 piercing"
+  },
+  {
+    "offset_secs": 7128.242000102997,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 7130.102999925613,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 33 (ST 18) KRYTYK"
+  },
+  {
+    "offset_secs": 7132.40499997139,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 7133.882999897003,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 28 (ST 18)"
+  },
+  {
+    "offset_secs": 7144.138999938965,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 6d8 + 7 = 30 slashing KRYTYK"
+  },
+  {
+    "offset_secs": 7169.953000068665,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 17 slashing"
+  },
+  {
+    "offset_secs": 7227.973999977112,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 19"
+  },
+  {
+    "offset_secs": 7305.526999950409,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 28"
+  },
+  {
+    "offset_secs": 7316.2119998931885,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 15"
+  },
+  {
+    "offset_secs": 7515.266999959946,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 3d6 = 13"
+  },
+  {
+    "offset_secs": 7526.987999916077,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Intelligence Saving Throw | rzuty: 1d20 + 1 = 3"
+  },
+  {
+    "offset_secs": 7605.125,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Gore (Attack: 2d10 Piercing Damage)"
+  },
+  {
+    "offset_secs": 7607.444000005722,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Gore - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 31"
+  },
+  {
+    "offset_secs": 7620.927000045776,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Gore - Damage Roll | rzuty: 2d10 + 7 = 11 piercing"
+  },
+  {
+    "offset_secs": 7623.573999881744,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Damage Roll | rzuty: 6d8 = 24 piercing"
+  },
+  {
+    "offset_secs": 7701.50200009346,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Gigantes Witch"
+  },
+  {
+    "offset_secs": 7752.839999914169,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 7761.483000040054,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  5 = 15"
+  },
+  {
+    "offset_secs": 7775.480999946594,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 41 poison"
+  },
+  {
+    "offset_secs": 7798.7190001010895,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  14 = 28"
+  },
+  {
+    "offset_secs": 7866.516999959946,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 2"
+  },
+  {
+    "offset_secs": 7866.676000118256,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 2"
+  },
+  {
+    "offset_secs": 9636.12199997902,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 11 = 27; 1d20 + 11 = 19"
+  },
+  {
+    "offset_secs": 9668.730000019073,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Strength (Athletics) Check | rzuty: 1d20 + 7 + 6 = 22"
+  },
+  {
+    "offset_secs": 9684.786000013351,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 23; 1d20 + 13 = 17; 1d12 + 8 = 18; 2d6 = 4; 1d6 = 5"
+  },
+  {
+    "offset_secs": 9710.479000091553,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 27; 1d20 + 13 = 32; 1d12 + 8 = 19; 2d6 = 5; 1d6 = 1"
+  },
+  {
+    "offset_secs": 9780.311000108719,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Retaliate (Use)"
+  },
+  {
+    "offset_secs": 9788.931999921799,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 9791.970999956131,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 28"
+  },
+  {
+    "offset_secs": 9803.051000118256,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 23 slashing"
+  },
+  {
+    "offset_secs": 9887.572000026703,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 29"
+  },
+  {
+    "offset_secs": 9889.571000099182,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 11"
+  },
+  {
+    "offset_secs": 9907.385999917984,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  5 = 7"
+  },
+  {
+    "offset_secs": 9938.483999967575,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 9942.96700000763,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 23 poison"
+  },
+  {
+    "offset_secs": 9953.299000024796,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  14 = 27"
+  },
+  {
+    "offset_secs": 9983.12199997902,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 21"
+  },
+  {
+    "offset_secs": 9998.911000013351,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 14; 2d6 = 4"
+  },
+  {
+    "offset_secs": 10008.348999977112,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d6 = 6"
+  },
+  {
+    "offset_secs": 10033.911000013351,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 7 + 6 - 1d4 = 29"
+  },
+  {
+    "offset_secs": 10046.335999965668,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 22"
+  },
+  {
+    "offset_secs": 10049.584000110626,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 11; 2d6 = 3"
+  },
+  {
+    "offset_secs": 10059.03200006485,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 8"
+  },
+  {
+    "offset_secs": 10071.707999944687,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 25"
+  },
+  {
+    "offset_secs": 10075.392999887466,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 16; 2d6 = 5"
+  },
+  {
+    "offset_secs": 10089.12299990654,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 18"
+  },
+  {
+    "offset_secs": 10100.543999910355,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d4  +  9 = 13"
+  },
+  {
+    "offset_secs": 10104.772000074387,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 7"
+  },
+  {
+    "offset_secs": 10123.105000019073,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 23"
+  },
+  {
+    "offset_secs": 10126.056999921799,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 16; 2d6 = 6"
+  },
+  {
+    "offset_secs": 10136.5,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 24"
+  },
+  {
+    "offset_secs": 10139.81200003624,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 10; 2d6 = 4"
+  },
+  {
+    "offset_secs": 10149.776000022888,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 31"
+  },
+  {
+    "offset_secs": 10152.924999952316,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 16; 2d6 = 8"
+  },
+  {
+    "offset_secs": 10219.674000024796,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Sweeping Blade (Use)"
+  },
+  {
+    "offset_secs": 10256.052999973297,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 10257.760999917984,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 14 PORAŻKA"
+  },
+  {
+    "offset_secs": 10267.647000074387,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 10268.898000001907,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 29 (ST 22)"
+  },
+  {
+    "offset_secs": 10277.56200003624,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 21 slashing"
+  },
+  {
+    "offset_secs": 10313.931999921799,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 11 = 16; 1d20 + 11 = 31"
+  },
+  {
+    "offset_secs": 10323.984999895096,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 10329.990000009537,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 27 (ST 22)"
+  },
+  {
+    "offset_secs": 10337.43499994278,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 29 slashing"
+  },
+  {
+    "offset_secs": 10369.862999916077,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  13 = 15"
+  },
+  {
+    "offset_secs": 10394.555000066757,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 20"
+  },
+  {
+    "offset_secs": 10444.882999897003,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 6d12 + 6 = 41"
+  },
+  {
+    "offset_secs": 10490.37800002098,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 20"
+  },
+  {
+    "offset_secs": 10495.78099989891,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 2d8  +  6 = 22"
+  },
+  {
+    "offset_secs": 10589.555000066757,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 8d8 + 6 = 39"
+  },
+  {
+    "offset_secs": 10605.519999980927,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 4d8 = 24"
+  },
+  {
+    "offset_secs": 10695.516999959946,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 10 = 25"
+  },
+  {
+    "offset_secs": 10698.957000017166,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Multiattack (Use)"
+  },
+  {
+    "offset_secs": 10703.03099989891,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 10 = 16"
+  },
+  {
+    "offset_secs": 10727.109999895096,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d10 + 4d6 + 6 = 20"
+  },
+  {
+    "offset_secs": 10738.042000055313,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d10 + 6 + 4d6 = 15"
+  },
+  {
+    "offset_secs": 11003.711999893188,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Break the Chains (Use)"
+  },
+  {
+    "offset_secs": 11092.048000097275,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 42"
+  },
+  {
+    "offset_secs": 11104.03200006485,
+    "speaker": "Perimedes",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 2 + 0 = 7"
+  },
+  {
+    "offset_secs": 11238.447999954224,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 11 = 14; 1d20 + 11 = 18"
+  },
+  {
+    "offset_secs": 11243.582000017166,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Strength (Athletics) Check | rzuty: 1d20 + 7 + 6 = 31"
+  },
+  {
+    "offset_secs": 11274.341000080109,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 11277.046000003815,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 21"
+  },
+  {
+    "offset_secs": 11290.763000011444,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 32"
+  },
+  {
+    "offset_secs": 11297.09299993515,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 28 slashing"
+  },
+  {
+    "offset_secs": 11323.651999950409,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 33 KRYTYK"
+  },
+  {
+    "offset_secs": 11376.293999910355,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 33 KRYTYK"
+  },
+  {
+    "offset_secs": 11386.401999950409,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 6d8 + 7 = 35 slashing KRYTYK"
+  },
+  {
+    "offset_secs": 11424.87400007248,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 + 5 = 19"
+  },
+  {
+    "offset_secs": 11431.019000053406,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 + 5 = 19"
+  },
+  {
+    "offset_secs": 11473.526000022888,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 22"
+  },
+  {
+    "offset_secs": 11480.12400007248,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 17"
+  },
+  {
+    "offset_secs": 11520.052000045776,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 11522.09299993515,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 10 PORAŻKA"
+  },
+  {
+    "offset_secs": 11526.369999885559,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 11530.167000055313,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 16"
+  },
+  {
+    "offset_secs": 11536.640000104904,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 11544.260999917984,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 13 (ST 16)"
+  },
+  {
+    "offset_secs": 11586.729000091553,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Kick (Save)"
+  },
+  {
+    "offset_secs": 11588.421999931335,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  9 = 26"
+  },
+  {
+    "offset_secs": 11598.099999904633,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[falling]"
+  },
+  {
+    "offset_secs": 11820.936000108719,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Misty Step (Legacy) (Misty Step)"
+  },
+  {
+    "offset_secs": 11977.210000038147,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Gore (Attack: 2d10 Piercing Damage)"
+  },
+  {
+    "offset_secs": 11979.095999956131,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Gore - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 33 KRYTYK"
+  },
+  {
+    "offset_secs": 11993.441999912262,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Gore - Damage Roll | rzuty: 4d10 + 7 = 14 piercing KRYTYK"
+  },
+  {
+    "offset_secs": 12099.361999988556,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 29"
+  },
+  {
+    "offset_secs": 12106.650000095367,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 12"
+  },
+  {
+    "offset_secs": 12136.167000055313,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 12137.684000015259,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 16"
+  },
+  {
+    "offset_secs": 12138.563999891281,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 12140.191999912262,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 14"
+  },
+  {
+    "offset_secs": 12140.87800002098,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 12142.025000095367,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 16"
+  },
+  {
+    "offset_secs": 12175.862999916077,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 32"
+  },
+  {
+    "offset_secs": 12184.302000045776,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 3"
+  },
+  {
+    "offset_secs": 12221.480000019073,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Incite Rage (Use)"
+  },
+  {
+    "offset_secs": 12314.976999998093,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 12321.236999988556,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 38 poison"
+  },
+  {
+    "offset_secs": 12327.815999984741,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  5 = 6"
+  },
+  {
+    "offset_secs": 12385.023999929428,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 3"
+  },
+  {
+    "offset_secs": 12385.193000078201,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 3"
+  },
+  {
+    "offset_secs": 12453.466000080109,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 19; 1d20 + 13 = 31; 1d12 + 8 = 16; 2d6 = 8; 1d6 = 1"
+  },
+  {
+    "offset_secs": 12480.384000062943,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 7 + 6 = 24"
+  },
+  {
+    "offset_secs": 12489.571000099182,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d6 = 5"
+  },
+  {
+    "offset_secs": 12536.003999948502,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 29; 1d20 + 13 = 24; 1d12 + 8 = 9; 2d6 = 4; 1d6 = 4"
+  },
+  {
+    "offset_secs": 12565.457999944687,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 25; 1d20 + 13 = 17; 1d12 + 8 = 15; 2d6 = 2; 1d6 = 5"
+  },
+  {
+    "offset_secs": 12610.62599992752,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 11 = 20; 1d20 + 11 = 21"
+  },
+  {
+    "offset_secs": 12620.388000011444,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Strength (Athletics) Check | rzuty: 1d20 + 7 + 6 = 18"
+  },
+  {
+    "offset_secs": 12701.890000104904,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 25"
+  },
+  {
+    "offset_secs": 12705.700999975204,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 3"
+  },
+  {
+    "offset_secs": 12761.404000043869,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 12766.897000074387,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 18 (ST 16)"
+  },
+  {
+    "offset_secs": 12768.470999956131,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 12769.87599992752,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 15 (ST 16)"
+  },
+  {
+    "offset_secs": 12770.644000053406,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 12772.026999950409,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 10 (ST 16) PORAŻKA"
+  },
+  {
+    "offset_secs": 12808.431999921799,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 30"
+  },
+  {
+    "offset_secs": 12813.990999937057,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 9"
+  },
+  {
+    "offset_secs": 12844.973000049591,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Claws (Damage)"
+  },
+  {
+    "offset_secs": 12861.68700003624,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 20"
+  },
+  {
+    "offset_secs": 12862.707999944687,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 10"
+  },
+  {
+    "offset_secs": 12874.819000005722,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 12880.858000040054,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  5 = 7"
+  },
+  {
+    "offset_secs": 12907.950999975204,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 37 poison"
+  },
+  {
+    "offset_secs": 12934.486000061035,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  14 = 30"
+  },
+  {
+    "offset_secs": 13024.858999967575,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 15"
+  },
+  {
+    "offset_secs": 13043.773999929428,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 15"
+  },
+  {
+    "offset_secs": 13050.237999916077,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 22"
+  },
+  {
+    "offset_secs": 13059.09400010109,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 12; 2d6 = 3"
+  },
+  {
+    "offset_secs": 13067.456000089645,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 8"
+  },
+  {
+    "offset_secs": 13080.875,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 21"
+  },
+  {
+    "offset_secs": 13088.12700009346,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d4  +  9 = 10"
+  },
+  {
+    "offset_secs": 13091.809000015259,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 8"
+  },
+  {
+    "offset_secs": 13116.09299993515,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Retaliate (Use)"
+  },
+  {
+    "offset_secs": 13126.891000032425,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 13130.433000087738,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 29"
+  },
+  {
+    "offset_secs": 13141.167000055313,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 20 slashing"
+  },
+  {
+    "offset_secs": 13147.829999923706,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 31 (ST 22)"
+  },
+  {
+    "offset_secs": 13156.630000114441,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 25 slashing"
+  },
+  {
+    "offset_secs": 13171.973000049591,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 11 = 19; 1d20 + 11 = 21"
+  },
+  {
+    "offset_secs": 13183.543999910355,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 11 = 26; 1d20 + 11 = 22"
+  },
+  {
+    "offset_secs": 13194.276000022888,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 19 (ST 22)"
+  },
+  {
+    "offset_secs": 13234.520999908447,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 22 slashing"
+  },
+  {
+    "offset_secs": 13283.911999940872,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  13 = 16; 1d20  +  13 = 28"
+  },
+  {
+    "offset_secs": 13302.917999982834,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 3d12 + 6 = 28"
+  },
+  {
+    "offset_secs": 13429.683000087738,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Erupting Earth 3rd Level Transmutation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a piece of obsidian) Range 120ft. Area of Effect 20ft. AoE Shape Cube Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 3d12 bludgeoning damage on a failed save, or half as much damage on a successfu…"
+  },
+  {
+    "offset_secs": 13483.423000097275,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  -  1 = 3"
+  },
+  {
+    "offset_secs": 13509.641000032425,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Counter Curse (Save)"
+  },
+  {
+    "offset_secs": 13810.095999956131,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 4"
+  },
+  {
+    "offset_secs": 13811.90700006485,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 19"
+  },
+  {
+    "offset_secs": 13813.618999958038,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 3"
+  },
+  {
+    "offset_secs": 13815.349999904633,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 20"
+  },
+  {
+    "offset_secs": 13816.605999946594,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 4"
+  },
+  {
+    "offset_secs": 13939.96700000763,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 15"
+  },
+  {
+    "offset_secs": 13943.87599992752,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 19"
+  },
+  {
+    "offset_secs": 13962.94000005722,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 2d10 + 12 + 8d6 = 40"
+  },
+  {
+    "offset_secs": 14044.670000076294,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 14046.398999929428,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 16 (ST 18)"
+  },
+  {
+    "offset_secs": 14052.260999917984,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 14054.776999950409,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 21 (ST 18)"
+  },
+  {
+    "offset_secs": 14072.388999938965,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 2d10 + 5 = 17 slashing"
+  },
+  {
+    "offset_secs": 14078.315999984741,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 14080.358000040054,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 3 = 22 (ST 18)"
+  },
+  {
+    "offset_secs": 14089.233000040054,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 2d10 + 5 = 15 slashing"
+  },
+  {
+    "offset_secs": 14229.490999937057,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 14231.108999967575,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 31 (ST 18)"
+  },
+  {
+    "offset_secs": 14238.131999969482,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 18 slashing"
+  },
+  {
+    "offset_secs": 14248.776000022888,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 25 (ST 18)"
+  },
+  {
+    "offset_secs": 14262.37800002098,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 11 slashing"
+  },
+  {
+    "offset_secs": 14271.631000041962,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 26 (ST 18)"
+  },
+  {
+    "offset_secs": 14277.648999929428,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 22 slashing"
+  },
+  {
+    "offset_secs": 14311.12400007248,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "(OOC) Command Legacy • 1st Level Enchantment (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V Range 60ft. You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other tha…"
+  },
+  {
+    "offset_secs": 14326.65799999237,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw (Advantage) | rzuty: 2d20adv + 1 + 5 = 18"
+  },
+  {
+    "offset_secs": 14497.841000080109,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Chromatic Orb (Attack)"
+  },
+  {
+    "offset_secs": 14500.257999897003,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 5 + 2 = 28 (ST 18)"
+  },
+  {
+    "offset_secs": 14516.966000080109,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Chromatic Orb - Damage Roll | rzuty: 3d8 = 22 acid"
+  },
+  {
+    "offset_secs": 14519.667999982834,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 3"
+  },
+  {
+    "offset_secs": 14525.289999961853,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 5"
+  },
+  {
+    "offset_secs": 14673.237999916077,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 14677.700000047684,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  5 = 18"
+  },
+  {
+    "offset_secs": 14703.009999990463,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 34"
+  },
+  {
+    "offset_secs": 14716.020999908447,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 2 PORAŻKA"
+  },
+  {
+    "offset_secs": 14718.414999961853,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 29"
+  },
+  {
+    "offset_secs": 14727.950999975204,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 1d8 + 6 = 9"
+  },
+  {
+    "offset_secs": 14798.940999984741,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  10 = 30"
+  },
+  {
+    "offset_secs": 14839.756000041962,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 4"
+  },
+  {
+    "offset_secs": 14839.960000038147,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 4"
+  },
+  {
+    "offset_secs": 14887.487999916077,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 22"
+  },
+  {
+    "offset_secs": 14901.30999994278,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 12"
+  },
+  {
+    "offset_secs": 14937.013999938965,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 15; 1d20 + 13 = 33; 1d12 + 8 = 16; 2d6 = 8; 1d6 = 1; 1d12 = 7; 2d6 = 7; 2d12 = 15"
+  },
+  {
+    "offset_secs": 14956.53500008583,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 7"
+  },
+  {
+    "offset_secs": 14977.338000059128,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d6 = 3"
+  },
+  {
+    "offset_secs": 15043.841000080109,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Roar of the Unchained (Save)"
+  },
+  {
+    "offset_secs": 15069.411999940872,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20  +  11 = 21"
+  },
+  {
+    "offset_secs": 15074.020999908447,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 + 3 = 13"
+  },
+  {
+    "offset_secs": 15085.28500008583,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 0 = 1"
+  },
+  {
+    "offset_secs": 15093.24699997902,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 2 = 16"
+  },
+  {
+    "offset_secs": 15166.900000095367,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8 = 6"
+  },
+  {
+    "offset_secs": 15179.971999883652,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Roar of the Unchained - Damage Roll | rzuty: 6d10 = 51 thunder"
+  },
+  {
+    "offset_secs": 15199.65599989891,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Orestes pada (0 PW)"
+  },
+  {
+    "offset_secs": 15239.203000068665,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 9 = 25"
+  },
+  {
+    "offset_secs": 15290.328000068665,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 30; 1d20 + 13 = 29; 1d12 + 8 = 12; 2d6 = 7; 1d6 = 6"
+  },
+  {
+    "offset_secs": 15317.413000106812,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 13 = 16; 1d12 + 8 = 17; 2d6 = 4; 1d6 = 1"
+  },
+  {
+    "offset_secs": 15325.381000041962,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 17"
+  },
+  {
+    "offset_secs": 15363.480000019073,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 15364.976999998093,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 30"
+  },
+  {
+    "offset_secs": 15373.434000015259,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 29 slashing"
+  },
+  {
+    "offset_secs": 15385.618000030518,
+    "speaker": "Zakroth",
+    "kind": "event",
+    "text": "używa: Mithral Honorblade (Humanoid Form Only) (Attack)"
+  },
+  {
+    "offset_secs": 15387.448999881744,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 30"
+  },
+  {
+    "offset_secs": 15403.224999904633,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 9 = 18"
+  },
+  {
+    "offset_secs": 15408.526999950409,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage) | rzuty: 2d20adv + 7 + 6 = 21"
+  },
+  {
+    "offset_secs": 15415.947999954224,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Mithral Honorblade (Humanoid Form Only) - Damage Roll | rzuty: 3d8 + 7 = 27 slashing"
+  },
+  {
+    "offset_secs": 15476.854000091553,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 28"
+  },
+  {
+    "offset_secs": 15479.976000070572,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 17"
+  },
+  {
+    "offset_secs": 15499.884999990463,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 29"
+  },
+  {
+    "offset_secs": 15503.91000008583,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 6"
+  },
+  {
+    "offset_secs": 15558.826999902725,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 30"
+  },
+  {
+    "offset_secs": 15591.645999908447,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 25"
+  },
+  {
+    "offset_secs": 15601.223999977112,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 12; 2d6 = 3"
+  },
+  {
+    "offset_secs": 15615.461999893188,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d6 = 3"
+  },
+  {
+    "offset_secs": 15629.174999952316,
+    "speaker": "Zakroth",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 7 + 6 = 22"
+  },
+  {
+    "offset_secs": 15639.045000076294,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 17"
+  },
+  {
+    "offset_secs": 15652.426000118256,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 27"
+  },
+  {
+    "offset_secs": 15654.757999897003,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 17; 2d6 = 5"
+  },
+  {
+    "offset_secs": 15679.84200000763,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Zakroth pada (0 PW)"
+  },
+  {
+    "offset_secs": 15784.690999984741,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d20 + 12 = 21"
+  },
+  {
+    "offset_secs": 15809.358999967575,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 1d8  +  9 = 14; 2d6 = 8"
+  },
+  {
+    "offset_secs": 15890.790999889374,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[falling]"
+  },
+  {
+    "offset_secs": 15939.336999893188,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages"
+  },
+  {
+    "offset_secs": 15958.480000019073,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 2d8 + 6 + 1d4 = 14"
+  },
+  {
+    "offset_secs": 15960.471999883652,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "(OOC) rzuty: 8d8  +  6 = 49"
+  },
+  {
+    "offset_secs": 16026.75200009346,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 26"
+  },
+  {
+    "offset_secs": 16081.082000017166,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 30"
+  },
+  {
+    "offset_secs": 16102.00200009346,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 13"
+  },
+  {
+    "offset_secs": 16172.026999950409,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 + 6 = 40"
+  },
+  {
+    "offset_secs": 16307.048000097275,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 16309.038000106812,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 15"
+  },
+  {
+    "offset_secs": 16314.303999900818,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 16316.151000022888,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 14"
+  },
+  {
+    "offset_secs": 16327.234999895096,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 2d10 + 5 = 12 slashing"
+  },
+  {
+    "offset_secs": 16341.016000032425,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Repulsion Breath (Save)"
+  },
+  {
+    "offset_secs": 16355.414999961853,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 5 = 24 (ST 15)"
+  },
+  {
+    "offset_secs": 16387.46199989319,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 4 = 23 (ST 15)"
+  },
+  {
+    "offset_secs": 16427.638000011444,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Claws (Damage)"
+  },
+  {
+    "offset_secs": 16431.427999973297,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Claws - Damage Roll | rzuty: 2d8 + 5 = 12 slashing; 4d6 = 16 poison"
+  },
+  {
+    "offset_secs": 16444.989000082016,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 23"
+  },
+  {
+    "offset_secs": 16500.90400004387,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 19"
+  },
+  {
+    "offset_secs": 16663.792999982834,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Mirror Image (Legacy) (Use)"
+  },
+  {
+    "offset_secs": 16723.237999916077,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 37"
+  },
+  {
+    "offset_secs": 16736.0569999218,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 12"
+  },
+  {
+    "offset_secs": 16754.88000011444,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 16756.611999988556,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 17"
+  },
+  {
+    "offset_secs": 16759.58899998665,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 27"
+  },
+  {
+    "offset_secs": 16765.09299993515,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 13"
+  },
+  {
+    "offset_secs": 16774.604000091553,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 13 piercing; 2d6 = 11 poison"
+  },
+  {
+    "offset_secs": 16812.267999887466,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 3 + 5 = 20 (ST 12)"
+  },
+  {
+    "offset_secs": 16845.4319999218,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 32"
+  },
+  {
+    "offset_secs": 16869.72199988365,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 5"
+  },
+  {
+    "offset_secs": 16869.8710000515,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 5"
+  },
+  {
+    "offset_secs": 16984.94099998474,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Poczekalnia"
+  }
+]

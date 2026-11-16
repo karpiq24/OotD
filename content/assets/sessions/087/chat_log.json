@@ -1,0 +1,8225 @@
+{
+  "format": "rpgnotes-foundry",
+  "version": 2,
+  "title": "session87",
+  "archiveDate": "2026-11-16",
+  "session": 87,
+  "world": "Odyssey of the Dragonlords",
+  "foundry": "14.369",
+  "system": "dnd5e 6.1.0",
+  "adapter": "dnd5e",
+  "startedAt": "2026-11-16T17:23:36.276Z",
+  "endedAt": "2026-11-16T22:07:07.765Z",
+  "gameTime": {
+    "start": 16241762041,
+    "end": 16241762065
+  },
+  "players": [
+    {
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "user": "keszu",
+      "character": "Versir"
+    },
+    {
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "user": "miłosz",
+      "character": "Orestes"
+    },
+    {
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    }
+  ],
+  "events": [
+    {
+      "t": "2026-11-16T17:23:36.290Z",
+      "kind": "session_start"
+    },
+    {
+      "t": "2026-11-16T17:23:36.290Z",
+      "kind": "player_join",
+      "user": "adam",
+      "character": "Orion Xul"
+    },
+    {
+      "t": "2026-11-16T17:23:36.290Z",
+      "kind": "player_join",
+      "user": "keszu",
+      "character": "Versir"
+    },
+    {
+      "t": "2026-11-16T17:23:36.290Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T17:23:36.290Z",
+      "kind": "player_join",
+      "user": "miłosz",
+      "character": "Orestes"
+    },
+    {
+      "t": "2026-11-16T17:23:36.290Z",
+      "kind": "scene",
+      "scene": "Poczekalnia"
+    },
+    {
+      "t": "2026-11-16T17:24:22.922Z",
+      "kind": "scene",
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-16T17:25:12.161Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:27:55.783Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:27:56.897Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:28:50.419Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:28:59.747Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:29:15.594Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:29:17.608Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:29:32.822Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:29:34.121Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:29:52.442Z",
+      "kind": "handout",
+      "title": "Fort Zakrotha",
+      "src": "campaigns/odyssey-of-the-dragonlords/illustrations/ne-s13.webp?v=1793098183",
+      "journal": "Rozdział 8: Półwysep Arezyjski"
+    },
+    {
+      "t": "2026-11-16T17:30:05.518Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:30:33.668Z",
+      "kind": "scene",
+      "scene": "Przed Fortem Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:31:28.885Z",
+      "kind": "handout",
+      "title": "Ugulat",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/ugulat.avatar.webp?1761753125756"
+    },
+    {
+      "t": "2026-11-16T17:31:37.421Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:31:38.732Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:32:48.203Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:33:04.597Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:38:08.190Z",
+      "kind": "player_leave",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T17:38:30.097Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T17:44:48.070Z",
+      "kind": "player_leave",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T17:45:03.218Z",
+      "kind": "scene",
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:48:38.481Z",
+      "kind": "handout",
+      "title": "Swarm of Stirges",
+      "src": "https://cdn.5e.tools/2024/img/bestiary/XMM/Stirges.webp"
+    },
+    {
+      "t": "2026-11-16T17:50:43.617Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "karpiq",
+      "flavor": "Wisdom (Perception) Check",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20 + 6 + 5",
+          "total": 31,
+          "key_die": 20,
+          "outcome": "critical"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T17:53:35.073Z",
+      "kind": "handout",
+      "title": "Maenad",
+      "src": "https://i.imgur.com/Jg325RA.png?1700416076397"
+    },
+    {
+      "t": "2026-11-16T17:54:33.697Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "rolls": [
+        {
+          "formula": "1d2",
+          "total": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T17:59:51.635Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 - 1",
+          "total": 10,
+          "key_die": 11
+        },
+        {
+          "formula": "1d20 - 1",
+          "total": 18,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:04:46.887Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "text": "Ring of Orestes Ring, Legendary (requires attunement by a Doomed One) This simple ring seems to be created from a dragon bone. On the inside the inscription says: \"DLA UKOCHANEGO ORESTESA\". You have advantage on saving throws you make to avoid being charmed or frightened or to end those conditions on you. Ring of Orestes was enhanced by God of Crafts, Volkan himself. You gain a +1 1d20+1 bonus to AC, and you can’t be charmed or frightened. Moreover, each creature of your choice within 30 feet o…"
+    },
+    {
+      "t": "2026-11-16T18:06:26.780Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Charisma Saving Throw (Advantage)",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "2d20adv + 0",
+          "total": 8,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:06:35.218Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "karpiq",
+      "flavor": "Charisma Ability Check (Advantage)",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "2d20adv - 1",
+          "total": 1,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:09:06.869Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Maenad",
+      "actor": "Maenad",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 - 1",
+          "total": 8,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:16:08.844Z",
+      "kind": "handout",
+      "title": "Murgrat",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/gigantes.webp"
+    },
+    {
+      "t": "2026-11-16T18:18:10.206Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Intelligence Ability Check",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20 + 0",
+          "total": 18,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:18:44.388Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw (Advantage)",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "2d20adv + 1",
+          "total": 12,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:24:14.839Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "karpiq",
+      "flavor": "Wisdom (Perception) Check",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20 + 6 + 5",
+          "total": 17,
+          "key_die": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:26:16.527Z",
+      "kind": "player_join",
+      "user": "kentos",
+      "character": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T18:30:09.861Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 17,
+          "key_die": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:30:20.159Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 13,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:30:54.046Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 30,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:32:43.971Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "text": "Patrobas"
+    },
+    {
+      "t": "2026-11-16T18:33:46.086Z",
+      "kind": "handout",
+      "title": "Minotaur Berserker",
+      "src": "https://i.imgur.com/dhuyywt.png?1722772016177"
+    },
+    {
+      "t": "2026-11-16T18:35:02.828Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "flavor": "Arevon Elorrenthi rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 16.16,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:35:07.070Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Felicjan Janus Twardowski rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 0.14",
+          "total": 21.14,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:35:09.640Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Hoooooooobert",
+      "actor": "Hoooooooobert",
+      "user": "maciek",
+      "flavor": "Hoooooooobert rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 1 + 0.13",
+          "total": 19.13,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:35:14.186Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Kairos rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 0 + 3 + 0.1",
+          "total": 4.1,
+          "key_die": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:35:16.499Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "flavor": "Orion Xul rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 0 + 0.11",
+          "total": 12.11,
+          "key_die": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:35:44.835Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Minotaur Berserker",
+      "actor": "Minotaur Berserker",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Minotaur Berserker rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 0.14",
+          "total": 22.14,
+          "key_die": 20
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:35:48.814Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Murgrat rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 15.22,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:35:53.008Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "flavor": "Orestes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "2d20adv[Initiative] + 2 + 0.14",
+          "total": 18.14,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:36:15.277Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "flavor": "Versir rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] - 1 + 0.08",
+          "total": 17.08,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:36:34.769Z",
+      "kind": "combat_start",
+      "combatants": [
+        "Kairos",
+        "Minotaur Berserker",
+        "Murgrat",
+        "Orion Xul",
+        "Felicjan Janus Twardowski",
+        "Versir",
+        "Orestes",
+        "Hoooooooobert",
+        "Arevon Elorrenthi"
+      ]
+    },
+    {
+      "t": "2026-11-16T18:36:35.094Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round Start"
+    },
+    {
+      "t": "2026-11-16T18:36:43.856Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T18:37:20.815Z",
+      "kind": "handout",
+      "title": "Centaur Hero",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/centaur-hero.webp"
+    },
+    {
+      "t": "2026-11-16T18:37:26.653Z",
+      "kind": "handout",
+      "title": "Perimedes",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/perimedes.avatar.webp?1761753059378"
+    },
+    {
+      "t": "2026-11-16T18:37:53.372Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "item": "Hold Monster (Legacy)",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T18:38:21.861Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Minotaur Berserker",
+      "actor": "Minotaur Berserker",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "item": "Hold Monster (Legacy)",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 3 + 4",
+          "total": 11,
+          "key_die": 4,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:39:18.123Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes Witch rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0.18",
+          "total": 9.18,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:39:18.126Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes Witch rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0.18",
+          "total": 19.18,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:39:18.128Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Centaur Hero rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 4.16,
+          "key_die": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:39:18.133Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Perimedes",
+      "actor": "Perimedes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Perimedes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0 + 0.18",
+          "total": 13.18,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:39:18.135Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Centaur Hero rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 15.16,
+          "key_die": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:39:18.137Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Centaur Hero rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 12.16,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:41:17.811Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 29,
+          "key_die": 16
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 29,
+          "key_die": 16
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 17
+        },
+        {
+          "formula": "2d6",
+          "total": 6
+        },
+        {
+          "formula": "1d6",
+          "total": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:42:28.689Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "text": "Brutal Critical Class At 13th level, you can roll two additional weapon damage dice when determining the extra damage for a critical hit with a melee attack. This increases to three additional dice at 17th level."
+    },
+    {
+      "t": "2026-11-16T18:42:50.406Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d6 + 3d12",
+          "total": 24
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:43:18.592Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 27,
+          "key_die": 14
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 22,
+          "key_die": 9
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 16
+        },
+        {
+          "formula": "2d6",
+          "total": 9
+        },
+        {
+          "formula": "1d6",
+          "total": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:43:29.998Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d6 + 3d12",
+          "total": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:43:51.702Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 27,
+          "key_die": 14
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 16,
+          "key_die": 3
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 19
+        },
+        {
+          "formula": "2d6",
+          "total": 3
+        },
+        {
+          "formula": "1d6",
+          "total": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:44:13.147Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d6 + 3d12",
+          "total": 28
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:44:45.501Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Versir"
+    },
+    {
+      "t": "2026-11-16T18:45:19.249Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  8",
+          "total": 11,
+          "key_die": 3
+        },
+        {
+          "formula": "1d20  +  8",
+          "total": 10,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:45:31.612Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  8",
+          "total": 16,
+          "key_die": 8
+        },
+        {
+          "formula": "1d20  +  8",
+          "total": 23,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:46:27.529Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d10  +  3",
+          "total": 12
+        },
+        {
+          "formula": "4d6",
+          "total": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:46:36.376Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d10 + 4d6",
+          "total": 25
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:46:43.734Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 43
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:46:58.782Z",
+      "kind": "resource",
+      "actor": "Minotaur Berserker",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-16T18:48:21.437Z",
+      "kind": "combat_end",
+      "rounds": 1
+    },
+    {
+      "t": "2026-11-16T18:48:21.503Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round End"
+    },
+    {
+      "t": "2026-11-16T18:50:53.558Z",
+      "kind": "handout",
+      "title": "Perimedes",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/perimedes.avatar.webp?1761753059378"
+    },
+    {
+      "t": "2026-11-16T18:58:38.679Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "flavor": "Orion Xul rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 0 + 0.11",
+          "total": 20.11,
+          "key_die": 20
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:58:40.844Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Felicjan Janus Twardowski rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 0.14",
+          "total": 12.14,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:58:41.417Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "flavor": "Versir rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] - 1 + 0.08",
+          "total": 8.08,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:58:43.329Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Hoooooooobert",
+      "actor": "Hoooooooobert",
+      "user": "maciek",
+      "flavor": "Hoooooooobert rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 1 + 0.13",
+          "total": 17.13,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:58:44.494Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "flavor": "Arevon Elorrenthi rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 19.16,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:58:45.215Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Kairos rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 0 + 3 + 0.1",
+          "total": 16.1,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.137Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes Witch rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0.18",
+          "total": 22.18,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.140Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 13.22,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.143Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 21.22,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.145Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 12.22,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.148Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes Witch rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0.18",
+          "total": 20.18,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.151Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 13.22,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.152Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Perimedes",
+      "actor": "Perimedes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Perimedes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0 + 0.18",
+          "total": 14.18,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.156Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Centaur Hero rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 22.16,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.157Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Centaur Hero rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 5.16,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.160Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Centaur Hero rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 3 + 0.16",
+          "total": 18.16,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.163Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 18.22,
+          "key_die": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.165Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 22.22,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.167Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Minotaur Warrior",
+      "actor": "Minotaur Warrior",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Minotaur Warrior rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 0.14",
+          "total": 9.14,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.169Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Zakroth rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 6 + 0.14",
+          "total": 13.14,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.171Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Belladona",
+      "actor": "Belladona",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Belladona rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 2 + 0 + 0.14",
+          "total": 9.14,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.173Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes Witch rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0.18",
+          "total": 21.18,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T18:59:40.175Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Gigantes Witch rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 4 + 0.18",
+          "total": 7.18,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:00:10.296Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 2",
+          "total": 22,
+          "key_die": 20
+        },
+        {
+          "formula": "1d20 + 2",
+          "total": 18,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:00:37.322Z",
+      "kind": "combat_start",
+      "combatants": [
+        "Orestes",
+        "Orion Xul",
+        "Versir",
+        "Felicjan Janus Twardowski",
+        "Arevon Elorrenthi",
+        "Kairos",
+        "Hoooooooobert"
+      ]
+    },
+    {
+      "t": "2026-11-16T19:00:37.609Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round Start"
+    },
+    {
+      "t": "2026-11-16T19:01:21.470Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Orestes"
+    },
+    {
+      "t": "2026-11-16T19:03:18.958Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 14,
+          "key_die": 3
+        },
+        {
+          "formula": "1d20 + 11",
+          "total": 28,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:03:45.964Z",
+      "kind": "handout",
+      "title": "Belladona",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/belladona.avatar.webp?1761752509745"
+    },
+    {
+      "t": "2026-11-16T19:05:51.257Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Orion Xul"
+    },
+    {
+      "t": "2026-11-16T19:06:28.830Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 31,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:06:32.618Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 14
+        },
+        {
+          "formula": "2d6",
+          "total": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:06:46.074Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 28,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:06:49.305Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 16
+        },
+        {
+          "formula": "2d6",
+          "total": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:07:05.832Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 14,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:07:13.816Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 17
+        },
+        {
+          "formula": "2d6",
+          "total": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:07:22.944Z",
+      "kind": "resource",
+      "actor": "Belladona",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-16T19:11:43.146Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Versir"
+    },
+    {
+      "t": "2026-11-16T19:14:13.991Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "item": "Spirit Guardians (Legacy)",
+      "action": "Cast",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T19:16:22.327Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "whisperTo": [
+        "karpiq"
+      ],
+      "flavor": "Murgrat rolls for Initiative!",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20[Initiative] + 6 - 2 + 0.22",
+          "total": 7.22,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:18:48.964Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Zakroth"
+    },
+    {
+      "t": "2026-11-16T19:19:05.740Z",
+      "kind": "handout",
+      "title": "Zakroth",
+      "src": "campaigns/odyssey-of-the-dragonlords/imports/tokenizer/npc/zakroth.avatar.webp?1761750823806"
+    },
+    {
+      "t": "2026-11-16T19:20:47.574Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Gore",
+      "action": "Attack: 2d10 Piercing Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T19:21:00.629Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Gore",
+      "action": "Attack: 6d8 Piercing Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T19:21:04.329Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Gore - Attack Roll (Advantage)",
+      "item": "Gore",
+      "action": "Attack: 6d8 Piercing Damage",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 32,
+          "key_die": 19,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:21:30.748Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "karpiq",
+      "flavor": "Damage Roll",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 7",
+          "total": 10,
+          "damage_type": "piercing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:21:34.200Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "karpiq",
+      "flavor": "Damage Roll",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 28,
+          "damage_type": "piercing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:22:37.242Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T19:22:39.103Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 33,
+          "key_die": 20,
+          "outcome": "critical",
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:22:41.405Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T19:22:42.883Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 28,
+          "key_die": 15,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:22:53.139Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "6d8 + 7",
+          "total": 30,
+          "outcome": "critical",
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:23:18.953Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 17,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:24:16.974Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 19,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:25:34.527Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 28
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:25:45.212Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 15,
+          "key_die": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:25:59.578Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T19:29:04.267Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "maciek",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "rolls": [
+        {
+          "formula": "3d6",
+          "total": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:29:14.186Z",
+      "kind": "player_leave",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T19:29:15.988Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Intelligence Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 3,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:29:17.196Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T19:30:34.125Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Gore",
+      "action": "Attack: 2d10 Piercing Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T19:30:36.444Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Gore - Attack Roll (Advantage)",
+      "item": "Gore",
+      "action": "Attack: 2d10 Piercing Damage",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 31,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:30:49.927Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Gore - Damage Roll",
+      "item": "Gore",
+      "action": "Attack: 2d10 Piercing Damage",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 7",
+          "total": 11,
+          "damage_type": "piercing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:30:52.574Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Damage Roll",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 24,
+          "damage_type": "piercing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:31:25.925Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Hoooooooobert"
+    },
+    {
+      "t": "2026-11-16T19:31:26.705Z",
+      "kind": "combat_turn",
+      "round": 1,
+      "combatant": "Murgrat"
+    },
+    {
+      "t": "2026-11-16T19:32:10.502Z",
+      "kind": "handout",
+      "title": "Gigantes Witch",
+      "src": "campaigns/odyssey-of-the-dragonlords/portraits/gigantes-witch.webp"
+    },
+    {
+      "t": "2026-11-16T19:33:01.840Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Spit",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T19:33:10.483Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  5",
+          "total": 15,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:33:24.481Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Spit - Damage Roll",
+      "item": "Spit",
+      "action": "Save",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "10d6",
+          "total": 41,
+          "damage_type": "poison"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:33:47.719Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  14",
+          "total": 28,
+          "key_die": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T19:34:55.517Z",
+      "kind": "combat_round",
+      "round": 2
+    },
+    {
+      "t": "2026-11-16T19:34:55.676Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round 2"
+    },
+    {
+      "t": "2026-11-16T19:35:12.530Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Orestes"
+    },
+    {
+      "t": "2026-11-16T20:04:25.122Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 27,
+          "key_die": 16
+        },
+        {
+          "formula": "1d20 + 11",
+          "total": 19,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:04:57.730Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Strength (Athletics) Check",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20 + 7 + 6",
+          "total": 22,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:05:13.786Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 23,
+          "key_die": 10
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 17,
+          "key_die": 4
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 18
+        },
+        {
+          "formula": "2d6",
+          "total": 4
+        },
+        {
+          "formula": "1d6",
+          "total": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:05:39.479Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 27,
+          "key_die": 14
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 32,
+          "key_die": 19
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 19
+        },
+        {
+          "formula": "2d6",
+          "total": 5
+        },
+        {
+          "formula": "1d6",
+          "total": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:06:49.311Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Retaliate",
+      "action": "Use",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:06:57.932Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:07:00.971Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 28,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:07:12.051Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 23,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:07:55.442Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T20:08:36.572Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 29
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:08:38.571Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 11,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:08:56.386Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  5",
+          "total": 7,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:09:27.484Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Spit",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:09:31.967Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Spit - Damage Roll",
+      "item": "Spit",
+      "action": "Save",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "10d6",
+          "total": 23,
+          "damage_type": "poison"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:09:42.299Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  14",
+          "total": 27,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:09:53.855Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Orion Xul"
+    },
+    {
+      "t": "2026-11-16T20:10:12.122Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 21,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:10:27.911Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 14
+        },
+        {
+          "formula": "2d6",
+          "total": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:10:37.349Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:11:02.911Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Strength Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 7 + 6 - 1d4",
+          "total": 29,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:11:15.336Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 22,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:11:18.584Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 11
+        },
+        {
+          "formula": "2d6",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:11:28.032Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:11:40.708Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 25,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:11:44.393Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 16
+        },
+        {
+          "formula": "2d6",
+          "total": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:11:58.123Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 18,
+          "key_die": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:12:09.544Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d4  +  9",
+          "total": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:12:13.772Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "2d6",
+          "total": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:12:32.105Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 23,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:12:35.057Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 16
+        },
+        {
+          "formula": "2d6",
+          "total": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:12:45.500Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 24,
+          "key_die": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:12:48.812Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 10
+        },
+        {
+          "formula": "2d6",
+          "total": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:12:58.776Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 31,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:13:01.925Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 16
+        },
+        {
+          "formula": "2d6",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:14:08.674Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Sweeping Blade",
+      "action": "Use",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:14:45.053Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:14:46.761Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 14,
+          "key_die": 1,
+          "outcome": "fumble"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:14:56.647Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:14:57.898Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 29,
+          "key_die": 16,
+          "target": 22
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:15:06.562Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 21,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:15:42.932Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 16,
+          "key_die": 5
+        },
+        {
+          "formula": "1d20 + 11",
+          "total": 31,
+          "key_die": 20
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:15:52.985Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:15:58.990Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 27,
+          "key_die": 14,
+          "target": 22
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:16:06.435Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 29,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:16:22.449Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T20:16:27.956Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Orion Xul"
+    },
+    {
+      "t": "2026-11-16T20:16:38.863Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  13",
+          "total": 15,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:16:47.630Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T20:17:03.555Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 20,
+          "key_die": 20
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:17:53.883Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "6d12 + 6",
+          "total": 41
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:18:39.378Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 20,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:18:44.781Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "2d8  +  6",
+          "total": 22
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:19:41.294Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Versir"
+    },
+    {
+      "t": "2026-11-16T20:20:18.555Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "8d8 + 6",
+          "total": 39
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:20:34.520Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "4d8",
+          "total": 24
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:22:04.517Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20 + 10",
+          "total": 25,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:22:07.957Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Multiattack",
+      "action": "Use",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:22:12.031Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20 + 10",
+          "total": 16,
+          "key_die": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:22:36.110Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d10 + 4d6 + 6",
+          "total": 20
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:22:47.042Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d10 + 6 + 4d6",
+          "total": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:23:17.520Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Trąba"
+    },
+    {
+      "t": "2026-11-16T20:23:24.135Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Kairos"
+    },
+    {
+      "t": "2026-11-16T20:27:12.712Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Break the Chains",
+      "action": "Use",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:28:41.048Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 42
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:28:53.032Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Perimedes",
+      "actor": "Perimedes",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 2 + 0",
+          "total": 7,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:29:55.175Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Zakroth"
+    },
+    {
+      "t": "2026-11-16T20:31:07.448Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 14,
+          "key_die": 3
+        },
+        {
+          "formula": "1d20 + 11",
+          "total": 18,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:31:12.582Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Strength (Athletics) Check",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20 + 7 + 6",
+          "total": 31,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:31:43.341Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:31:46.046Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 21,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:31:59.763Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 32,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:32:06.093Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 28,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:32:32.652Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 33,
+          "key_die": 20,
+          "outcome": "critical"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:33:25.294Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 33,
+          "key_die": 20,
+          "outcome": "critical"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:33:35.402Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "6d8 + 7",
+          "total": 35,
+          "outcome": "critical",
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:34:13.874Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1 + 5",
+          "total": 19,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:34:20.019Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1 + 5",
+          "total": 19,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:34:42.645Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Gigantes"
+    },
+    {
+      "t": "2026-11-16T20:35:02.526Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 22
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:35:09.124Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 17,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:35:49.052Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:35:51.093Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 4",
+          "total": 10,
+          "key_die": 1,
+          "outcome": "fumble"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:35:55.370Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:35:59.167Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 4",
+          "total": 16,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:36:05.640Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:36:13.261Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 4",
+          "total": 13,
+          "key_die": 4,
+          "target": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:36:55.729Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "item": "Kick",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:36:57.422Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  9",
+          "total": 26,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:37:06.955Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T20:37:07.100Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "karpiq",
+      "text": "Applied conditions: &Reference[falling]"
+    },
+    {
+      "t": "2026-11-16T20:40:49.936Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "item": "Misty Step (Legacy)",
+      "action": "Misty Step",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:43:26.210Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Gore",
+      "action": "Attack: 2d10 Piercing Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:43:28.096Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Gore - Attack Roll (Advantage)",
+      "item": "Gore",
+      "action": "Attack: 2d10 Piercing Damage",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 33,
+          "key_die": 20,
+          "outcome": "critical"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:43:42.442Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Gore - Damage Roll",
+      "item": "Gore",
+      "action": "Attack: 2d10 Piercing Damage",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "4d10 + 7",
+          "total": 14,
+          "outcome": "critical",
+          "damage_type": "piercing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:44:18.210Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Hoooooooobert"
+    },
+    {
+      "t": "2026-11-16T20:45:28.362Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 29
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:45:35.650Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 12,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:46:05.167Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:46:06.684Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 4",
+          "total": 16,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:46:07.564Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:46:09.192Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 4",
+          "total": 14,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:46:09.878Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:46:11.025Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 4",
+          "total": 16,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:46:36.987Z",
+      "kind": "combat_turn",
+      "round": 2,
+      "combatant": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T20:46:44.863Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 32
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:46:53.302Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 3,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:47:30.480Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Incite Rage",
+      "action": "Use",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:49:03.977Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Spit",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:49:10.237Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Spit - Damage Roll",
+      "item": "Spit",
+      "action": "Save",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "10d6",
+          "total": 38,
+          "damage_type": "poison"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:49:16.816Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  5",
+          "total": 6,
+          "key_die": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:50:14.024Z",
+      "kind": "combat_round",
+      "round": 3
+    },
+    {
+      "t": "2026-11-16T20:50:14.193Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round 3"
+    },
+    {
+      "t": "2026-11-16T20:50:41.121Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Orestes"
+    },
+    {
+      "t": "2026-11-16T20:51:22.466Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 19,
+          "key_die": 6
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 31,
+          "key_die": 18
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 16
+        },
+        {
+          "formula": "2d6",
+          "total": 8
+        },
+        {
+          "formula": "1d6",
+          "total": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:51:49.384Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Strength Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 7 + 6",
+          "total": 24,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:51:58.571Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:52:45.004Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 29,
+          "key_die": 16
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 24,
+          "key_die": 11
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 9
+        },
+        {
+          "formula": "2d6",
+          "total": 4
+        },
+        {
+          "formula": "1d6",
+          "total": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:53:14.458Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 25,
+          "key_die": 12
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 17,
+          "key_die": 4
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 15
+        },
+        {
+          "formula": "2d6",
+          "total": 2
+        },
+        {
+          "formula": "1d6",
+          "total": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:53:59.626Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 20,
+          "key_die": 9
+        },
+        {
+          "formula": "1d20 + 11",
+          "total": 21,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:54:09.388Z",
+      "kind": "chat",
+      "type": "check",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Strength (Athletics) Check",
+      "category": "check",
+      "rolls": [
+        {
+          "formula": "1d20 + 7 + 6",
+          "total": 18,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:55:30.890Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 25
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:55:34.701Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 3,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:56:30.404Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:56:35.897Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll (Disadvantage)",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20dis + 5 + 4",
+          "total": 18,
+          "key_die": 9,
+          "target": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:56:37.471Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:56:38.876Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll (Disadvantage)",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20dis + 5 + 4",
+          "total": 15,
+          "key_die": 6,
+          "target": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:56:39.644Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:56:41.027Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll (Disadvantage)",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20dis + 5 + 4",
+          "total": 10,
+          "key_die": 1,
+          "outcome": "fumble",
+          "target": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:57:01.507Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T20:57:17.432Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 30
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:57:22.991Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 9,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:57:53.973Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Claws",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:58:10.687Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "rolls": [
+        {
+          "formula": "1d20 + 9",
+          "total": 20,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:58:11.708Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "rolls": [
+        {
+          "formula": "1d20 + 9",
+          "total": 10,
+          "key_die": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:58:23.819Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Spit",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T20:58:29.858Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  5",
+          "total": 7,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:58:56.951Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Spit - Damage Roll",
+      "item": "Spit",
+      "action": "Save",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "10d6",
+          "total": 37,
+          "damage_type": "poison"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T20:59:23.486Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  14",
+          "total": 30,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:00:25.733Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Orion Xul"
+    },
+    {
+      "t": "2026-11-16T21:00:53.859Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 15,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:01:12.774Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 15,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:01:19.238Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 22,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:01:28.094Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 12
+        },
+        {
+          "formula": "2d6",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:01:36.456Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:01:49.875Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 21,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:01:57.127Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d4  +  9",
+          "total": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:02:00.809Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orion Xul",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "2d6",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:02:25.093Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Retaliate",
+      "action": "Use",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:02:35.891Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:02:39.433Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 29,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:02:50.167Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 20,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:02:56.830Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 31,
+          "key_die": 18,
+          "target": 22
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:03:05.630Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 25,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:03:20.973Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 19,
+          "key_die": 8
+        },
+        {
+          "formula": "1d20 + 11",
+          "total": 21,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:03:32.544Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 26,
+          "key_die": 15
+        },
+        {
+          "formula": "1d20 + 11",
+          "total": 22,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:03:43.276Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 19,
+          "key_die": 6,
+          "target": 22
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:04:23.521Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 22,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:04:36.552Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Arevon Elorrenthi"
+    },
+    {
+      "t": "2026-11-16T21:05:12.912Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  13",
+          "total": 16,
+          "key_die": 3
+        },
+        {
+          "formula": "1d20  +  13",
+          "total": 28,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:05:31.918Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "3d12 + 6",
+          "total": 28
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:07:38.683Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "text": "Erupting Earth 3rd Level Transmutation (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a piece of obsidian) Range 120ft. Area of Effect 20ft. AoE Shape Cube Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a 20-foot cube centered on that point. Each creature in that area must make a Dexterity saving throw. A creature takes 3d12 3d12 bludgeoning damage on a failed save, or half as much damage on a successfu…"
+    },
+    {
+      "t": "2026-11-16T21:08:32.423Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  -  1",
+          "total": 3,
+          "key_die": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:08:58.641Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Counter Curse",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:11:43.427Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Versir"
+    },
+    {
+      "t": "2026-11-16T21:13:59.096Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 4,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:14:00.907Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 19,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:14:02.619Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 3,
+          "key_die": 2
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:14:04.350Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 20,
+          "key_die": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:14:05.606Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 4,
+          "key_die": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:16:08.967Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 15,
+          "key_die": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:16:12.876Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 19,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:16:31.940Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "2d10 + 12 + 8d6",
+          "total": 40
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:17:53.670Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:17:55.399Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll (Advantage)",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 16,
+          "key_die": 8,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:18:01.261Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:18:03.777Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll (Advantage)",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 21,
+          "key_die": 13,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:18:21.389Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Damage Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 5",
+          "total": 17,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:18:27.316Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:18:29.358Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll (Advantage)",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 3",
+          "total": 22,
+          "key_die": 14,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:18:38.233Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Damage Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 5",
+          "total": 15,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:20:15.057Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Zakroth"
+    },
+    {
+      "t": "2026-11-16T21:20:58.491Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:21:00.109Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 31,
+          "key_die": 18,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:21:07.132Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 18,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:21:17.776Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 25,
+          "key_die": 12,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:21:31.378Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 11,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:21:40.631Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 26,
+          "key_die": 13,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:21:46.649Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 22,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:22:20.124Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "text": "Command Legacy • 1st Level Enchantment (Cast at 1st Level) Casting Time 1 action Duration 1 round Components V Range 60ft. You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it. Some typical commands and their effects follow. You might issue a command other tha…"
+    },
+    {
+      "t": "2026-11-16T21:22:35.658Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Wisdom Saving Throw (Advantage)",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "2d20adv + 1 + 5",
+          "total": 18,
+          "key_die": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:23:15.055Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Gigantes"
+    },
+    {
+      "t": "2026-11-16T21:24:40.872Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T21:25:26.841Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "item": "Chromatic Orb",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:25:29.258Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Chromatic Orb - Attack Roll (Advantage)",
+      "item": "Chromatic Orb",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 5 + 5 + 2",
+          "total": 28,
+          "key_die": 16,
+          "target": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:25:45.966Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "flavor": "Chromatic Orb - Damage Roll",
+      "item": "Chromatic Orb",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8",
+          "total": 22,
+          "damage_type": "acid"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:25:48.668Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "rolls": [
+        {
+          "formula": "1d8",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:25:54.290Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "rolls": [
+        {
+          "formula": "1d8",
+          "total": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:27:03.632Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Hoooooooobert"
+    },
+    {
+      "t": "2026-11-16T21:28:22.238Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "item": "Spit",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:28:26.700Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "keszu",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20  +  5",
+          "total": 18,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:28:41.915Z",
+      "kind": "combat_turn",
+      "round": 3,
+      "combatant": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T21:28:52.010Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 34
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:29:05.021Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 2,
+          "key_die": 1,
+          "outcome": "fumble"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:29:07.415Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d20 + 11",
+          "total": 29,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:29:16.951Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Trąba",
+      "actor": "Trąba",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "1d8 + 6",
+          "total": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:30:27.941Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  10",
+          "total": 30,
+          "key_die": 20
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:31:08.756Z",
+      "kind": "combat_round",
+      "round": 4
+    },
+    {
+      "t": "2026-11-16T21:31:08.960Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round 4"
+    },
+    {
+      "t": "2026-11-16T21:31:56.488Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 22
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:32:10.310Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 12,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:32:21.050Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Orestes"
+    },
+    {
+      "t": "2026-11-16T21:32:46.014Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 15,
+          "key_die": 2
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 33,
+          "key_die": 20
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 16
+        },
+        {
+          "formula": "2d6",
+          "total": 8
+        },
+        {
+          "formula": "1d6",
+          "total": 1
+        },
+        {
+          "formula": "1d12",
+          "total": 7
+        },
+        {
+          "formula": "2d6",
+          "total": 7
+        },
+        {
+          "formula": "2d12",
+          "total": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:33:05.535Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "2d6",
+          "total": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:33:26.338Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:34:32.841Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Roar of the Unchained",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:34:58.412Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d20  +  11",
+          "total": 21,
+          "key_die": 10
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:35:03.021Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1 + 3",
+          "total": 13,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:35:14.285Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 0",
+          "total": 1,
+          "key_die": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:35:22.247Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 2",
+          "total": 16,
+          "key_die": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:36:35.900Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "1d8",
+          "total": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:36:48.972Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Roar of the Unchained - Damage Roll",
+      "item": "Roar of the Unchained",
+      "action": "Save",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "6d10",
+          "total": 51,
+          "damage_type": "thunder"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:37:08.656Z",
+      "kind": "resource",
+      "actor": "Orestes",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "character"
+    },
+    {
+      "t": "2026-11-16T21:37:48.203Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 9",
+          "total": 25,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:38:39.328Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 30,
+          "key_die": 17
+        },
+        {
+          "formula": "1d20 + 13",
+          "total": 29,
+          "key_die": 16
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 12
+        },
+        {
+          "formula": "2d6",
+          "total": 7
+        },
+        {
+          "formula": "1d6",
+          "total": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:39:06.413Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 13",
+          "total": 16,
+          "key_die": 3
+        },
+        {
+          "formula": "1d12 + 8",
+          "total": 17
+        },
+        {
+          "formula": "2d6",
+          "total": 4
+        },
+        {
+          "formula": "1d6",
+          "total": 1
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:39:14.381Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Orestes",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20",
+          "total": 17,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:39:52.480Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:39:53.977Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 30,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:40:02.434Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 29,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:40:14.618Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:40:16.449Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 30,
+          "key_die": 17
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:40:32.225Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "miłosz",
+      "actor": "Orestes",
+      "user": "miłosz",
+      "rolls": [
+        {
+          "formula": "1d20 + 9",
+          "total": 18,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:40:37.527Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Attack Roll (Advantage)",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20adv + 7 + 6",
+          "total": 21,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:40:44.948Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Mithral Honorblade (Humanoid Form Only) - Damage Roll",
+      "item": "Mithral Honorblade (Humanoid Form Only)",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "3d8 + 7",
+          "total": 27,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:41:02.116Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Gigantes"
+    },
+    {
+      "t": "2026-11-16T21:41:45.854Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 28
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:41:48.976Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes",
+      "actor": "Gigantes",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 17,
+          "key_die": 16
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:41:58.673Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T21:42:08.885Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 29
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:42:12.910Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 6,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:42:35.605Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T21:43:07.827Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 30
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:43:26.985Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Orion Xul"
+    },
+    {
+      "t": "2026-11-16T21:43:40.646Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 25,
+          "key_die": 13
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:43:50.224Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 12
+        },
+        {
+          "formula": "2d6",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:44:04.462Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d6",
+          "total": 3
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:44:18.175Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Zakroth",
+      "actor": "Zakroth",
+      "user": "karpiq",
+      "flavor": "Strength Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 7 + 6",
+          "total": 22,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:44:28.045Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 17,
+          "key_die": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:44:41.426Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 27,
+          "key_die": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:44:43.758Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 17
+        },
+        {
+          "formula": "2d6",
+          "total": 5
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:45:08.842Z",
+      "kind": "resource",
+      "actor": "Zakroth",
+      "resource": "hp",
+      "value": 0,
+      "crossed": "down",
+      "type": "npc"
+    },
+    {
+      "t": "2026-11-16T21:46:53.691Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d20 + 12",
+          "total": 21,
+          "key_die": 9
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:47:18.359Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "adam",
+      "actor": "Orion Xul",
+      "user": "adam",
+      "rolls": [
+        {
+          "formula": "1d8  +  9",
+          "total": 14
+        },
+        {
+          "formula": "2d6",
+          "total": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:48:39.791Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "karpiq",
+      "text": "Applied conditions: &Reference[falling]"
+    },
+    {
+      "t": "2026-11-16T21:49:28.337Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "text": "Cure Wounds 1st Level Abjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range Touch A creature you touch regains a number of Hit Points equal to 2d8 2d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d8 2d8 for each spell slot level above 1. Range: Touch Cast at: 4th Level Components: : V, S Roll Damages"
+    },
+    {
+      "t": "2026-11-16T21:49:47.480Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Arevon Elorrenthi",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "2d8 + 6 + 1d4",
+          "total": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:49:49.472Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "ooc",
+      "speaker": "kentos",
+      "actor": "Arevon Elorrenthi",
+      "user": "kentos",
+      "rolls": [
+        {
+          "formula": "8d8  +  6",
+          "total": 49
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:50:55.752Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 26
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:51:37.426Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Centaur Hero"
+    },
+    {
+      "t": "2026-11-16T21:51:50.082Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 30
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:52:11.002Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 13,
+          "key_die": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:52:18.628Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Versir"
+    },
+    {
+      "t": "2026-11-16T21:53:21.027Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8 + 6",
+          "total": 40
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:55:36.048Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:55:38.038Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 3",
+          "total": 15,
+          "key_die": 7
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:55:43.304Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:55:45.151Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Attack Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "1d20 + 5 + 3",
+          "total": 14,
+          "key_die": 6
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:55:56.235Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "flavor": "Rend - Damage Roll",
+      "item": "Rend",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 5",
+          "total": 12,
+          "damage_type": "slashing"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:56:10.016Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Kairos",
+      "actor": "Kairos",
+      "user": "maciek",
+      "item": "Repulsion Breath",
+      "action": "Save",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:56:24.415Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Strength Saving Throw",
+      "item": "Repulsion Breath",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 5",
+          "total": 24,
+          "key_die": 19,
+          "target": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:56:56.462Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Centaur Hero",
+      "actor": "Centaur Hero",
+      "user": "karpiq",
+      "flavor": "Strength Saving Throw",
+      "item": "Repulsion Breath",
+      "action": "Save",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 4",
+          "total": 23,
+          "key_die": 19,
+          "target": 15
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:57:36.638Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "item": "Claws",
+      "action": "Damage",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T21:57:40.428Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "flavor": "Claws - Damage Roll",
+      "item": "Claws",
+      "action": "Damage",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d8 + 5",
+          "total": 12,
+          "damage_type": "slashing"
+        },
+        {
+          "formula": "4d6",
+          "total": 16,
+          "damage_type": "poison"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:57:53.989Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Gigantes Witch",
+      "actor": "Gigantes Witch",
+      "user": "karpiq",
+      "rolls": [
+        {
+          "formula": "1d20 + 9",
+          "total": 23,
+          "key_die": 14
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:58:16.929Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Perimedes"
+    },
+    {
+      "t": "2026-11-16T21:58:17.394Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Gigantes"
+    },
+    {
+      "t": "2026-11-16T21:58:49.904Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 19
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T21:59:27.295Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Gigantes"
+    },
+    {
+      "t": "2026-11-16T21:59:48.131Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T22:01:32.793Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Felicjan Janus Twardowski",
+      "actor": "Felicjan Janus Twardowski",
+      "user": "maciek",
+      "item": "Mirror Image (Legacy)",
+      "action": "Use",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T22:01:51.991Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Hoooooooobert"
+    },
+    {
+      "t": "2026-11-16T22:02:18.340Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Murgrat"
+    },
+    {
+      "t": "2026-11-16T22:02:32.238Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 37
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:02:45.057Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Wisdom Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 1",
+          "total": 12,
+          "key_die": 11
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:03:03.880Z",
+      "kind": "chat",
+      "type": "usage",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "usage"
+    },
+    {
+      "t": "2026-11-16T22:03:05.612Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll (Disadvantage)",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20dis + 5 + 4",
+          "total": 17,
+          "key_die": 8
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:03:08.589Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll (Disadvantage)",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20dis + 5 + 4",
+          "total": 27,
+          "key_die": 18
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:03:14.093Z",
+      "kind": "chat",
+      "type": "attack",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Pike - Attack Roll (Disadvantage)",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "attack",
+      "rolls": [
+        {
+          "formula": "2d20dis + 5 + 4",
+          "total": 13,
+          "key_die": 4
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:03:23.604Z",
+      "kind": "chat",
+      "type": "damage",
+      "style": "other",
+      "speaker": "Murgrat",
+      "actor": "Murgrat",
+      "user": "karpiq",
+      "flavor": "Pike - Damage Roll",
+      "item": "Pike",
+      "action": "Attack",
+      "category": "damage",
+      "rolls": [
+        {
+          "formula": "2d10 + 5",
+          "total": 13,
+          "damage_type": "piercing"
+        },
+        {
+          "formula": "2d6",
+          "total": 11,
+          "damage_type": "poison"
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:03:42.982Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T22:04:01.268Z",
+      "kind": "chat",
+      "type": "save",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "flavor": "Constitution Saving Throw",
+      "category": "save",
+      "rolls": [
+        {
+          "formula": "1d20 + 3 + 5",
+          "total": 20,
+          "key_die": 12,
+          "target": 12
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:04:11.421Z",
+      "kind": "combat_turn",
+      "round": 4,
+      "combatant": "Centaur Hero"
+    },
+    {
+      "t": "2026-11-16T22:04:28.512Z",
+      "kind": "player_leave",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T22:04:34.432Z",
+      "kind": "chat",
+      "type": "roll",
+      "style": "other",
+      "speaker": "Versir",
+      "actor": "Versir",
+      "user": "keszu",
+      "rolls": [
+        {
+          "formula": "6d8",
+          "total": 32
+        }
+      ]
+    },
+    {
+      "t": "2026-11-16T22:04:39.566Z",
+      "kind": "player_join",
+      "user": "maciek",
+      "character": "Felicjan Janus Twardowski"
+    },
+    {
+      "t": "2026-11-16T22:04:58.722Z",
+      "kind": "combat_round",
+      "round": 5
+    },
+    {
+      "t": "2026-11-16T22:04:58.871Z",
+      "kind": "chat",
+      "type": "chat",
+      "style": "other",
+      "speaker": "karpiq",
+      "user": "karpiq",
+      "flavor": "Round 5"
+    },
+    {
+      "t": "2026-11-16T22:06:53.941Z",
+      "kind": "scene",
+      "scene": "Poczekalnia"
+    },
+    {
+      "t": "2026-11-16T22:07:00.940Z",
+      "kind": "player_leave",
+      "user": "keszu",
+      "character": "Versir"
+    },
+    {
+      "t": "2026-11-16T22:07:07.707Z",
+      "kind": "session_end"
+    }
+  ],
+  "snapshots": [
+    {
+      "t": "2026-11-16T17:23:37.353Z",
+      "reason": "start",
+      "key": false,
+      "scene": "Poczekalnia"
+    },
+    {
+      "t": "2026-11-16T17:24:27.044Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Thylea"
+    },
+    {
+      "t": "2026-11-16T17:29:52.463Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:31:28.945Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Ugulat"
+    },
+    {
+      "t": "2026-11-16T17:33:36.348Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Przed Fortem Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:43:36.355Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Przed Fortem Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:44:47.998Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Przed Fortem Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:48:38.666Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Swarm of Stirges"
+    },
+    {
+      "t": "2026-11-16T17:51:23.020Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:51:34.972Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:51:36.189Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T17:53:35.313Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Maenad"
+    },
+    {
+      "t": "2026-11-16T17:53:36.372Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:03:36.372Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:11:33.852Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:11:38.055Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:11:45.478Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:13:36.380Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:14:17.283Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:14:19.708Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:14:55.203Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:16:08.898Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Murgrat"
+    },
+    {
+      "t": "2026-11-16T18:20:16.183Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:20:20.226Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:20:39.012Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:21:43.895Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:21:52.403Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:22:48.451Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:23:00.360Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:23:36.378Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:24:59.956Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:25:01.369Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:31:50.435Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:31:54.497Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:32:49.034Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:32:55.954Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:33:36.378Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:33:46.307Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Minotaur Berserker"
+    },
+    {
+      "t": "2026-11-16T18:34:17.727Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:34:22.328Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:36:34.831Z",
+      "reason": "combat",
+      "key": true,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:37:20.858Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Centaur Hero"
+    },
+    {
+      "t": "2026-11-16T18:37:26.743Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Perimedes"
+    },
+    {
+      "t": "2026-11-16T18:43:36.380Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:48:08.894Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:48:12.503Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:50:53.632Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Perimedes"
+    },
+    {
+      "t": "2026-11-16T18:53:36.379Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:55:50.518Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:55:59.253Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:56:00.746Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:56:12.987Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:56:45.121Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:57:10.147Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:57:14.920Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:57:16.551Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:57:38.655Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:57:46.369Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:57:46.722Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:57:58.619Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:58:36.597Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:58:40.553Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:58:41.610Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:59:33.929Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T18:59:35.691Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:00:06.192Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:00:23.251Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:00:37.380Z",
+      "reason": "combat",
+      "key": true,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:00:37.804Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:01:11.420Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:01:27.455Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:01:28.915Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:01:29.970Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:03:36.384Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:03:46.292Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Belladona"
+    },
+    {
+      "t": "2026-11-16T19:05:11.044Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:05:18.606Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:05:57.328Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:08:10.544Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:08:36.905Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:10:14.074Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:10:20.752Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:11:24.348Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:11:27.336Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:11:47.938Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:11:54.702Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:13:36.380Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:16:19.815Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:16:33.419Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:17:33.950Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:18:26.812Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:18:55.640Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:19:05.824Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Zakroth"
+    },
+    {
+      "t": "2026-11-16T19:23:36.371Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:24:47.997Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:24:51.833Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:25:06.451Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:26:05.081Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:31:21.116Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:31:51.101Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:32:02.242Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:32:10.545Z",
+      "reason": "handout",
+      "key": true,
+      "title": "Gigantes Witch"
+    },
+    {
+      "t": "2026-11-16T19:33:36.373Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:34:52.587Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:35:18.140Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:35:20.048Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:38:44.492Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T19:43:36.371Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:03:36.369Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:07:42.402Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:07:44.623Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:08:00.714Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:09:50.814Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:09:59.324Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:13:36.397Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:19:15.949Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:19:18.182Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:19:50.501Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:23:30.830Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:23:36.383Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:28:26.031Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:28:35.018Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:29:34.146Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:30:01.543Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:33:36.382Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:34:51.348Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:34:51.947Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:37:16.621Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:41:48.029Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:41:50.243Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:43:36.391Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:44:06.214Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:44:18.748Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:44:23.753Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:44:44.052Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:44:51.413Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:44:56.676Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:45:09.178Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:50:05.293Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:50:51.314Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:53:36.384Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:54:58.568Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:55:08.365Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:55:51.487Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:56:09.574Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:59:15.282Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:59:26.908Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:59:44.040Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T20:59:52.703Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:00:03.751Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:00:09.545Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:00:32.301Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:03:36.408Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:06:38.587Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:09:50.260Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:10:56.069Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:11:14.039Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:13:36.503Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:17:19.320Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:18:56.476Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:19:22.061Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:19:31.046Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:19:36.692Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:20:02.040Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:20:21.004Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:23:20.792Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:23:36.435Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:24:19.118Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:24:47.284Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:26:57.107Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:26:59.896Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:27:10.152Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:27:29.500Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:28:55.404Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:29:02.971Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:29:27.009Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:29:28.576Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:29:35.789Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:29:42.440Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:30:06.777Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:30:27.916Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:31:15.534Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:31:28.757Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:31:35.992Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:31:48.847Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:32:26.757Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:33:36.427Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:41:07.145Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:41:23.731Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:42:04.532Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:42:30.904Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:42:42.272Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:43:14.256Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:43:36.436Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:50:25.099Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:50:26.420Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:50:36.516Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:51:53.437Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:52:24.168Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:53:36.433Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:55:12.073Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:58:24.784Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:58:58.296Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:59:12.469Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:59:25.597Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:59:36.825Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:59:44.778Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T21:59:55.371Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:02:23.143Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:03:36.433Z",
+      "reason": "interval",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:03:53.001Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:04:10.169Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:04:19.455Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:04:24.149Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:04:26.798Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:04:29.400Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:04:42.525Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:05:53.143Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:06:01.985Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:06:04.714Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:06:05.786Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:06:07.517Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Fort Zakrotha"
+    },
+    {
+      "t": "2026-11-16T22:06:59.231Z",
+      "reason": "scene",
+      "key": false,
+      "scene": "Poczekalnia"
+    }
+  ]
+}
