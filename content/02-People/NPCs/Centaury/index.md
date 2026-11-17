@@ -8,3 +8,4 @@ group: Istoty
 - [[Nessa]]
 - [[Pholon]]
 - [[Cheironis]]
+- [[Perimedes]]

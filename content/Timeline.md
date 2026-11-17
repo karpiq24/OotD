@@ -524,3 +524,11 @@
 * Odrośnięcie ręki [[Hiero]] po zaklęciu *Regenerate* [[Arevon Elorrenthi|Arevona]].
 * Zdominowany satyr [[Tityros]] wskazuje [[Fort Zakrotha]]; centaur [[Cheironis]] wyjawia, że Zakroth trzyma w forcie dzieci wodzów plemion jako zakładników.
 * Rozbicie oddziału ośmiu minotaurów w [[Bór Thrake|Borze Thrake]]; drużyna staje przed fortem, przed którym na krzyżach wiszą arezyjscy żołnierze.
+
+## Sesja 87 - Upadek Zakrotha (16.11.2026)
+* Uratowanie krasnoludzkiego zwiadowcy [[Ugulat|Ugulata]], ostatniego żywego z ukrzyżowanych przed [[Fort Zakrotha|Fortem Zakrotha]] żołnierzy [[Arezja|Arezji]].
+* Spotkanie [[Orestes|Orestesa]] z [[Krithon|Krithonem]] w kuchni fortu; satyr broni sprawy [[Zakroth|Zakrotha]] i przyznaje, że jego oddziały zabijają opornych.
+* Uwolnienie czterech uwięzionych synów wodzów centaurów; [[Perimedes]], syn [[Agrius|Agriusa]], zaraz podnosi alarm w forcie.
+* Śmierć nimfy [[Belladona|Belladony]], ukochanej Zakrotha, z ręki [[Orion Xul|Oriona]].
+* Kradzież [[Amfora Zakrotha|Amfory Zakrotha]] przez [[Felicjan Janus Twardowski|Felicjana]]; na dnie zostaje tylko odrobina Ambrozji.
+* Śmierć Zakrotha z ręki Oriona; przeklęty przez wiedźmę [[Gigantes]] [[Versir]] broni schodów przed obrońcami fortu, którzy wciąż napierają z niższych pięter.

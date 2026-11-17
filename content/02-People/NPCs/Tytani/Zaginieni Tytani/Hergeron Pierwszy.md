@@ -9,7 +9,7 @@ aliases:
 _Tytan Siły. Po uwolnieniu z więzienia pod Praxys oddał swoją esencję Rękawicy Versira._
 
 ## Historia
-Jedno z ośmiorga pierwotnych Tytanów, dzieci [[Thylea|Thylei]] i [[Kentimane|Kentimane'a]], wuj [[Versir|Versira]] i brat [[Lutheria|Lutherii]] ([[Sesja 70 - Audiencja u Pani Snów]], [[Sesja 71 - Infiltracja Praxys]]).
+Jedno z ośmiorga pierwotnych Tytanów, dzieci [[Thylea|Thylei]] i [[Kentimane|Kentimane'a]], wuj [[Versir|Versira]] i brat [[Lutheria|Lutherii]] ([[Sesja 70 - Audiencja u Pani Snów]], [[Sesja 71 - Infiltracja Praxys]]). Stworzył rasę [[Gigantes]], olbrzymów, których nie zdążył dopracować ([[Sesja 87 - Upadek Zakrotha]]).
 
 Drugi najstarszy brat. Próbował pomścić [[Versi Pierwsza|Versi Pierwszą]], atakując [[Sydon|Sydona]], lecz został pokonany. Dzierżył nieukończone Ostrze wykute przez [[Talieus Pierwszy|Talieusa Pierwszego]].
 

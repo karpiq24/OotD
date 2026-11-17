@@ -10,3 +10,4 @@ title: Rasy
 - [[Syrena z Thylei]]
 - [[Cyklopi]]
 - [[Koźlaki]]
+- [[Gigantes]]

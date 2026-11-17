@@ -2,7 +2,7 @@
 title: Kairos
 also_in:
   - Bohaterowie
-image_prompt: 'a bronze dragon (Dungeons & Dragons metallic bronze dragon). He is now a young adult dragon, big enough to carry a rider: powerful, sleek body covered in lustrous polished-bronze scales with a greenish-bronze patina at the edges, a pale ridged belly, a crest of swept-back horns and frills, intelligent warm amber eyes, bat-like wings with bronze membranes catching the light. He wears a simple leather riding saddle of a Dragonlord.'
+image_prompt: 'a bronze dragon (Dungeons & Dragons metallic bronze dragon). He is now a young adult dragon, big enough to carry a rider: powerful, sleek body covered in lustrous polished warm golden-bronze metallic scales (bright bronze like a cast bronze statue, no green, no verdigris, no copper patina), a pale ridged belly, a crest of swept-back horns and frills, intelligent warm amber eyes, bat-like wings with bronze membranes catching the light. He wears a simple leather riding saddle of a Dragonlord.'
 ---
 
 | ![Kairos piętnaście lat później](../../../assets/people/kairos.webp) | ![Kairos w czasie wojny](../../../assets/sessions/048/048_kairos.webp) |
