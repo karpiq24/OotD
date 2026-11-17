@@ -108,3 +108,6 @@ Orestes uderzył Zakrotha z siłą wzgórzowego giganta i krytycznym ciosem zada
 * Felicjan kradnie Amforę Zakrotha, na dnie której zostało już niewiele złocistego płynu.
 * Przeklęty przez wiedźmę Gigantes Versir sam powstrzymuje na schodach obrońców fortu nadciągających z niższych pięter.
 * Orion zabija Zakrotha włócznią, lecz zaalarmowani obrońcy fortu wciąż napierają z dołu.
+
+## Filmy
+![Upadek Zakrotha](../assets/sessions/087/087_upadek_zakrotha.webm)
