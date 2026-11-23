@@ -1,0 +1,578 @@
+[
+  {
+    "offset_secs": 53.14,
+    "caption": "Scena „Poczekalnia” przedstawia widok z góry na ogród z żywopłotami i słonecznikami, z jasnym kamiennym placem pośrodku, na którym płonie wielka kula ognia przypominająca słońce. Po prawej stronie znajduje się ośmioboczna, jasna platforma oraz złote rzeźby smoków, a przy prawej krawędzi duża zielona postać smoka. Mapę zapełnia bardzo wiele okrągłych tokenów postaci i stworzeń, w tym kilka dużych portretów w rogach i w dolnym rzędzie, a przy jednym z tokenów widać podpis „Orestes”.",
+    "path": "images/181008_snapshot_caea0aef011a.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 648.936,
+    "caption": "Scena „Poczekalnia” przedstawia otwarty ogród z przystrzyżonymi żywopłotami, kwietnikami słoneczników i brukowanymi ścieżkami, pośrodku którego znajduje się ośmiokątny kamienny plac z promienistym wzorem w kształcie zegara słonecznego. Mapę gęsto zapełniają okrągłe tokeny postaci, ułożone w grupy wokół placu i po bokach, a z paskami zdrowia widocznymi pod większością z nich. Po prawej stronie widać duży token smoka o zielonej łusce, oznaczony kłódkami, a na dole i po lewej kilka większych tokenów, m.in. jasnowłosego brodatego mężczyzny otoczonego błyskawicami, postaci o jasnych włosach w ciemnym stroju oraz ciemnego smoka. Przy żywopłotach stoją też złote rzeźby smoków.",
+    "path": "images/182004_snapshot_61e7a53b45e9.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 1143.939,
+    "caption": "Scena Thylea przedstawia ilustrowaną, pergaminową mapę regionu z morzem, wyspami i półwyspami. Widoczne są podpisy m.in. Mithral Mountains, The Oldwoods, Mytros, Orestessos Zythikē, The Cerulean Gulf, The Aresian Peninsula, Aresia i The Forgotten Sea. Na morzu rozmieszczono ponumerowane znaczniki wysp z ikonami kotwic, a na Półwyspie Arezyjskim stoi jeden token postaci; w północno-wschodniej części mapy świeci się złoty znacznik.",
+    "path": "images/182819_snapshot_81018e593b0c.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 1248.932,
+    "caption": "Widok mapy świata w scenie Thylea, narysowanej w stylu ilustrowanej mapy fantasy, z podpisami regionów: The Heartlands, The Oldwoods (Stary Las), The Arezjan Peninsula (Półwysep Arezyjski), The Cerulean Gulf (Zatoka Cerulańska) i The Forgotten Sea (Zapomniane Morze). Widoczne są też miasta Estoria, Mytros i Aresia oraz napis Orestessos Zythikē. Na półwyspie, w okolicy Arezji, stoi token z portretem postaci, a we wschodniej części Starego Lasu świeci złotą poświatą wyróżniony znacznik. Na morzu widać ponumerowane wyspy z ikonami kotwic.",
+    "path": "images/183004_snapshot_3f511d3717a4.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 1530.404,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłą drewnianą budowlę podzieloną na kilka pomieszczeń, oznaczonych znacznikami Z1–Z6. W centrum, na okrągłym podeście, stoi duży token humanoidalnej postaci o zielonkawej, zgniłej skórze z czerwonym paskiem życia. W lewej części widać kilka dużych tokenów czarno-białych stworzeń oraz mniejsze tokeny w zagrodach, w prawej części tokeny przy pionowych klatkach lub rusztach, a w oświetlonym pomieszczeniu u góry długi stół suto zastawiony jedzeniem, ogniska i kilka małych tokenów. Na podłodze widać plamy krwi.",
+    "path": "images/183446_snapshot_bbbe3604068d.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 1564.476,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe wnętrze budowli widziane z góry, z drewnianą podłogą, długimi stołami z zastawą po lewej stronie, paleniskiem, beczką i snopami siana. W centralnej części, wokół schodów i oznaczeń stref Z3, Z11 i Z12, zgrupowało się kilka tokenów postaci z zielonymi paskami zdrowia. Wokół jednego z nich widać złotawy świetlisty okrąg z efektem magicznym, a po prawej stronie na podłodze znajduje się czerwona plama przypominająca krew.",
+    "path": "images/183520_snapshot_47f06237626f.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 1589.376,
+    "caption": "Scena Fort Zakrotha przedstawia ciemne, drewniane wnętrze fortu widziane z góry, z pomieszczeniami oznaczonymi jako Z3, Z11 i Z12. W centralnej komnacie Z3 skupiona jest grupa tokenów: kilka szarych, pochylonych postaci oraz większy, zniszczony stwór z rozczochranymi włosami, a w lewym górnym rogu czerwonowłosa postać. Fioletowe obszary i linie zasięgu sugerują działanie efektów czy czaru, a na podłodze w pobliżu drzwi widać czerwoną plamę krwi. Po lewej leży rozłożona mapa lub pergamin, a obok widoczne są ławy i ciemne wnętrza sąsiednich pomieszczeń.",
+    "path": "images/183544_snapshot_89fedbe9f020.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 1647.677,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze z pokładem lub podłogą z desek, po lewej stronie ze stołami zastawionymi jedzeniem. Pośrodku stoi kwadratowa konstrukcja ze schodami spiralnymi wokół pnia, a wokół niej zgromadziły się tokeny: dwaj siwowłosi wojownicy z mieczami, duża zgniła, zielonkawa kreatura z dredami oraz dwie przygarbione, blade postacie. Po lewej, na sianie z fioletowym materiałem i śladami krwi, znajduje się grupka tokenów drużyny, w tym token smoka, a na mapie widać oznaczenia stref Z3, Z13 i Z14 oraz skrzynie, beczki i skrzynki rozrzucone w otoczeniu.",
+    "path": "images/183643_snapshot_e3d82c698d5c.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 1848.916,
+    "caption": "Widok mapy sceny Fort Zakrotha: drewniany pokład lub wnętrze o okrągłym kształcie, z deskami, skrzyniami, beczkami, amforami i workami dookoła. Pośrodku, wokół okrągłego pnia oznaczonego „Z3”, stoją tokeny przeciwników: duży token zgniłego, dredowatego umarlaka, dwa tokeny białowłosego wojownika z mieczem oraz dwa tokeny przygarbionych, bladych humanoidów. Po lewej stronie skupiły się tokeny postaci graczy, m.in. podpisany „kentos” hełmiony wojownik, a poniżej token smoczej głowy; na podłodze widać słomę i plamy krwi. Po prawej stronie mapy widnieje znacznik „Z13”.",
+    "path": "images/184004_snapshot_655f52c2cb91.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 2043.435,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianego, okrągłego budynku z deskową podłogą, stołami zastawionymi jedzeniem po lewej oraz oznaczeniami stref Z3, Z11 i Z12. W centrum, przy spiralnych schodach, toczy się starcie: rudowłosa postać z uskrzydlonym stworzeniem w lewym górnym rogu, otoczona złotym świetlistym kręgiem efektu magicznego, jest otoczona przez pięć przygarbionych, bladych humanoidów i większą, zgniłą postać z długimi włosami przypominającą nieumarłego. Na podłodze po prawej widać plamę krwi, a po lewej rozłożoną mapę na pergaminie.",
+    "path": "images/184319_snapshot_8c8289b40704.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 2064.748,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianego, okrągłego pomieszczenia z deskową podłogą, skrzyniami, workami, beczkami i legowiskiem ze słomy. Pośrodku, wokół pnia z promieniście ułożonymi deskami, toczy się starcie: widać duży token pokracznej, zielonkawej istoty z roślinnością w pysku, dwa tokeny białowłosych wojowników z mieczami oraz dwa zgarbione, blade stwory. Po lewej stoją tokeny postaci graczy, w tym brodaty mężczyzna podpisany „kentos”, a w lewym dolnym rogu token smoczej głowy; na mapie widać też plamy krwi oraz znaczniki Z3 i Z13.",
+    "path": "images/184340_snapshot_42c71d4063b8.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 2448.918,
+    "caption": "Widok mapy sceny Fort Zakrotha: drewniany pokład lub wnętrze statku z deskami, skrzyniami, beczkami, workiem i linami. Pośrodku stoi okrągła platforma przypominająca pień lub koło z drewnianych klinów, oznaczona „Z3”, a po prawej widnieje znacznik „Z13”. Wokół platformy rozmieszczone są tokeny: duży zgniły, zielonkawy humanoid z dredami wymiotujący zieloną mazią, dwie postacie białowłosych mężczyzn z kosami lub włóczniami, dwie zgarbione blade postacie, wojownik w hełmie oraz kilka tokenów po lewej stronie, w tym smok i postać w ciemnych włosach. Przy tokenach widać paski zdrowia, a po lewej leży zielony splot roślinny, siano i fioletowa tkanina.",
+    "path": "images/185004_snapshot_a1c17c65af96.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 2700.536,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianego, okrągłego budynku z deskową podłogą, spiralnymi schodami pośrodku i oznaczonymi strefami Z3, Z11 i Z12. Na mapie toczy się starcie: kilka tokenów Gigantes otacza dwie postacie w lewym górnym rogu (rudowłosa postać z ciemnym stworzeniem) oraz zgarbioną, oplecioną roślinnością istotę w lewym dolnym rogu. Jeden z Gigantes jest podpisany jako „Barely Injured”, wokół bohaterów widać złocistą magiczną aureolę, a po prawej plamę krwi. Na lewej krawędzi leży fragment mapy na pergaminie.",
+    "path": "images/185416_snapshot_25dfbfe53a62.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 2911.781,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze z deskową podłogą, skrzyniami, beczkami, glinianymi dzbanami i stojakiem z włóczniami. Na środku, wokół okrągłego drewnianego podestu oznaczonego Z3, skupiły się tokeny w trakcie starcia: duży zielonkawy, obrzęknięty potwór oplatany pnączami, kilku siwowłosych wojowników z mieczami oraz hełmiony wojownik. Jeden z tokenów, podpisany „Centaur Hero”, jest oznaczony jako „Injured”. Po lewej, przy posłaniu ze słomy z plamami krwi (strefa Z14), widać także token smoka i kilka postaci, a po prawej znajduje się strefa Z13.",
+    "path": "images/185747_snapshot_8cf4693acd18.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 2955.593,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe drewniane pomieszczenie widziane z góry, z podłogą z desek, skrzyniami, beczkami, glinianymi naczyniami i workami oraz stołami zastawionymi jedzeniem po lewej stronie. Pośrodku znajduje się okrągły podest z wachlarzowym wzorem desek, otoczony drewnianą ramą, a na mapie widać oznaczenia stref Z3, Z13 i Z14. Na podeście i wokół niego stoją tokeny, wśród nich duża, odrapana postać w zielonych oplotach, biała postać z mieczem, dwie pochylone, łyse sylwetki oraz token smoka. Po lewej, na słomie z fioletowym całunem, widać plamy krwi.",
+    "path": "images/185831_snapshot_30b0354ec93a.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3031.075,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianej fortecy widziane z góry: po lewej długi stół z jedzeniem i krzesła, pośrodku duże okrągłe drewniane koło z oznaczeniem Z3, a po prawej broń, włócznie, żelazny kufer i oznaczenie Z10. Na mapie widać kilka okrągłych tokenów: minotaura z zielonym paskiem życia, dwie postacie białowłosych wojowników z mieczami, zgniłego stwora z długimi splątanymi włosami (większy token) oraz więzionego mężczyznę za kratami. Przy drzwiach widoczne są kłódki, a część ścian dzieli pomieszczenia na strefy.",
+    "path": "images/185946_snapshot_0a77a2e7c580.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3048.895,
+    "caption": "Widok mapy sceny Fort Zakrotha: okrągłe, drewniane wnętrze fortu z oznaczonymi strefami (Z3, Z8, Z9, Z10). Po lewej stoją długie stoły zastawione jedzeniem, w dolnej części widać ognisko i stogi siana, a po prawej skrzynie, stojaki z bronią i kołczanami oraz żelazną skrzynię. Na mapie znajdują się tokeny: zwierzęcy postać z rogami przy górnej lewej ścianie, zielonkawa, zgarbiona istota w lewej części, dwie jasnowłose postacie wokół okrągłego, schodkowatego elementu pośrodku, postać za kratami oraz kobieca postać w prawym dolnym rogu.",
+    "path": "images/190004_snapshot_77a7f8a8e1e8.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3071.591,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe drewniane wnętrze ukazane z góry, z długimi stołami zastawionymi jedzeniem po lewej stronie, ogniskiem w dolnym rogu, snopkami siana, poduszkami i stojakiem z bronią po prawej. W centrum, wokół schodów i prostokątnych pomieszczeń, skupiona jest grupa tokenów: kilka postaci o zielonych i żółtych paskach zdrowia oraz większy, ciemny token potwora, otoczone złotą magiczną poświatą i fioletowym obszarem działania. Na mapie widać też czerwoną plamę krwi, fragment pergaminu lub mapy przy lewej krawędzi oraz oznaczenia stref Z3, Z11 i Z12.",
+    "path": "images/190027_snapshot_4726ccd0cb5a.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3183.623,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe, drewniane wnętrze widziane z góry, z kwadratową platformą pośrodku, na której leży wachlarzowaty wzór desek i okrągły pień oznaczony „Z3”. Na platformie stoją tokeny, w tym potężny, zgniły stwór z zielonym śluzem w pysku oraz biała­włosy wojownik z mieczem. Obok, w pobliżu legowiska ze słomy z plamami krwi (oznaczonego „Z14”), widać też token smoka z pomarańczową obwódką i dwa tokeny przygarbionych, bladych humanoidów. Po bokach leżą skrzynie, beczki, worki i dzbany, a w rogu widnieje oznaczenie „Z13”.",
+    "path": "images/190219_snapshot_12d033002b03.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3293.721,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na drewniany pokład lub wnętrze fortu z deskową podłogą, przegrodami i zamkniętymi na kłódkę drzwiami. Na mapie widać duże drewniane koło (oznaczone Z3), metalowy właz, stojaki z włóczniami i oszczepami, maczugę, beczkę oraz znacznik Z10. Na planszy stoją tokeny: dwóch białowłosych wojowników z mieczem, mężczyzna za kratami oraz zgarbiona, oplątana roślinami postać przy lewej krawędzi, a w rogu częściowo widoczny kolejny token.",
+    "path": "images/190409_snapshot_b5b9db914dab.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3318.691,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze fortu z koncentrycznymi pierścieniami podłogi. Po lewej stoją długie stoły zastawione jedzeniem, na dole płonie ognisko obok beczek, a po prawej leży sprzęt i broń oraz sterty siana i worków. Na środku, w okolicy schodów oznaczonych jako Z3, skupiła się grupa kilku tokenów z paskami zdrowia, otoczona złotą świetlistą aurą jakiegoś efektu. W pobliżu widać plamę krwi, a na mapie znajdują się znaczniki stref Z11 i Z12.",
+    "path": "images/190434_snapshot_7b0224b26c0b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3400.706,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na drewniane, okrągłe pomieszczenie z podłogą z desek, podzielone na strefy oznaczone Z3, Z11 i Z12. Na mapie toczy się starcie: kilku chudych, zgarbionych humanoidalnych przeciwników otacza większą, ponurą postać z rzadkimi włosami, a w lewym górnym rogu widać dwa tokeny, w tym jeden z rudowłosą postacią. Wokół nich rozciąga się złota magiczna aura w kształcie okręgu, a po prawej widoczna jest czerwona plama krwi. Na lewej krawędzi leży pergaminowa mapa, a obok stoją ławy i stoły z jedzeniem.",
+    "path": "images/190556_snapshot_0ce8796de51a.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3423.82,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze okrągłej drewnianej sali z długimi stołami zastawionymi jedzeniem po lewej stronie oraz spiralnymi schodami pośrodku. Na mapie widać skupisko tokenów: czterech zgarbionych, bladych humanoidów, dużą postać z długimi włosami i roślinnością oraz token z rudowłosą postacią i ciemnym skrzydlatym stworzeniem. Wokół nich widać świetlistą, złotą aureolę efektu magicznego i fioletowy obszar, a po prawej plamę krwi. Oznaczenia stref na mapie to Z12, Z3 i Z11, a na ścianie przy stole leży stara mapa na pergaminie.",
+    "path": "images/190619_snapshot_7f61e991c05b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3465.628,
+    "caption": "Scena Fort Zakrotha: widok z góry na okrągłe, drewniane wnętrze z długimi stołami zastawionymi jedzeniem po lewej oraz skrzyniami, beczkami i dzbanami rozrzuconymi wokół. W centrum stoi prostokątna drewniana konstrukcja z wachlarzowatym podestem, na którym ustawiono tokeny: duży, zgniły stwór z zielonym śluzem w pysku, białowłosy wojownik z mieczem, hełmiony wojownik oraz trzy pochylone, blade humanoidalne postacie w dolnej części. Po lewej widać także tokeny mężczyzny z brodą, ciemnowłosej postaci o niebieskiej poświacie oraz smoczą głowę, obok legowiska ze słomy z fioletowym kocem i plamami krwi. Na mapie widnieją oznaczenia stref Z3, Z13 i Z14.",
+    "path": "images/190701_snapshot_634646f3b275.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3498.302,
+    "caption": "Scena Fort Zakrotha przedstawia drewniane wnętrze o okrągłym kształcie z widokiem z góry, z pomieszczeniami oznaczonymi jako Z3, Z11 i Z12 oraz spiralnymi schodami pośrodku. Na mapie widać kilka tokenów: skrzydlatą, ciemną istotę z rudowłosą postacią u góry po lewej, trzy pochylone, humanoidalne stwory o bladej skórze oraz większego, zgniłego upiora z długimi dredami i zielonym pnączem w ustach. Na lewo leży pergaminowa mapa, a po prawej widać wielką czerwoną plamę krwi; wokół tokenów pojawia się złocisty magiczny okrąg z iskrami.",
+    "path": "images/190733_snapshot_7fa12b92b0d8.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3648.898,
+    "caption": "Widok mapy sceny Fort Zakrotha: wnętrze okrągłego, drewnianego pomieszczenia z deskową podłogą, długimi zastawionymi stołami po lewej, ogniskiem na dole oraz skrzyniami, beczkami i workami porozrzucanymi wokół. W centrum, w prostokątnym pomieszczeniu oznaczonym jako Z3, stoi skupisko tokenów, w tym duży zielonkawy stwór o zaniedbanym wyglądzie, postać z białymi włosami oraz trzy podobne tokeny w dolnym rzędzie, z niebieskimi podświetlonymi polami obok. Po lewej widać oznaczenie strefy Z14 z plamami krwi i posłaniem ze słomy, a po prawej oznaczenie Z13.",
+    "path": "images/191004_snapshot_3016ae7e365b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3769.443,
+    "caption": "Scena Fort Zakrotha przedstawia ciemne, drewniane wnętrze o charakterze fortu lub statku, z centralnym pomieszczeniem i korytarzami prowadzącymi na lewo i prawo, oznaczonymi jako Z12, Z3 i Z11. W środku trwa starcie: na mapie widać kilka tokenów, w tym podpisanego Murgrata ze statusem „Badly Injured”, rudowłosą postać z tokenem skrzydlatego stworzenia oraz kilka szarych, przygarbionych humanoidalnych sylwetek. Po lewej leży pergaminowa mapa, po prawej widać plamy krwi, a w centrum wyświetlony jest wachlarzowaty obszar zasięgu z dopiskiem „+20 ft”.",
+    "path": "images/191205_snapshot_780b6f326f3d.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3865.422,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze okrągłej drewnianej budowli widziane z góry. Po lewej stoją dwa długie stoły uставione jedzeniem, z krzesłami wokół i paleniskiem w dolnej części, a po prawej mniejsze pomieszczenia ze słomianymi posłaniami, skrzynią, beczką i stojakiem z bronią. Na mapie widać kilka tokenów: wielkiego, rozczochranego stwora z zielonymi pasmami w czerwonej obwódce, byka-minotaura u góry, dwie białowłose postacie z bronią przy centralnym okrągłym elemencie podłogi oraz kobietę w ciemnej szacie w prawym dolnym rogu. Na mapie widoczne są oznaczenia stref: Z3, Z8, Z9 i Z10.",
+    "path": "images/191341_snapshot_2f23fe00129f.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3890.17,
+    "caption": "Scena Fort Zakrotha przedstawia ciemną, drewnianą mapę z góry, wyglądającą na pokład lub wnętrze okrągłej budowli, z beczkami, skrzyniami i klamotami rozrzuconymi wokół. Pośrodku stoi kwadratowa konstrukcja z oznaczeniem Z3, a na mapie widać też znaczniki Z14 i Z13. W środku i przy jej krawędzi znajduje się kilka tokenów postaci, w tym podświetlony token starszego, siwego wojownika z bronią oraz token smoczej postaci, otoczone koncentrycznymi kręgami i smugami światła. Po lewej widać plamę krwi i ciemne, fioletowe elementy na sianie lub legowisku, a większość mapy pozostaje spowita ciemnością.",
+    "path": "images/191405_snapshot_d926087bcd3b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 3955.826,
+    "caption": "Scena Fort Zakrotha to wnętrze o drewnianej, ciemnej podłodze, widziane z góry, z mocno zacienionym polem widzenia i plamami krwi po prawej stronie. Na środku skupiło się kilka okrągłych tokenów: postać z rudymi włosami nałożona na token jasnowłosego, muskularnego mężczyzny, obok token rogatej, skrzydlatej istoty oraz token ponurego, wychudzonego humanoida; poniżej stoi token zgarbionej postaci z dredami i czaszkami, a po prawej kolejny token przycupniętego, wychudzonego humanoida. Nad jednym z tokenów widnieje napis „Badly Injured”, a na mapie widać też fioletowy obszar z efektem spirali, pergamin z mapą po lewej oraz oznaczenia „Z12” i „Z3”.",
+    "path": "images/191511_snapshot_ec2851f82c98.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4016.746,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianej fortecy widziane z góry. Po lewej stoją długie stoły uginające się od jedzenia, a po prawej znajdują się pomieszczenia z drewnianymi skrzyniami, stojakiem z włóczniami, żelaznym włazem, beczką i słomą. Pośrodku widać okrągłe drewniane podwyższenie oznaczone „Z3”, a w pobliżu pól „Z9” i „Z10”. Na mapie stoją cztery tokeny: minotaur po lewej oraz trzy postacie przy podwyższeniu, w tym dwie siwe, uzbrojone w broń. Dwa tokeny mają zielone paski życia, a jeden czerwony pasek.",
+    "path": "images/191612_snapshot_1c55a68c15a0.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4187.787,
+    "caption": "Scena Fort Zakrotha: widok z góry na drewniane wnętrze o okrągłym kształcie, z deskową podłogą, skrzyniami, beczkami, sianem z fioletowym kocem i plamami krwi. Pośrodku leży duże koło przypominające wachlarz z drewnianych klinów z oznaczeniem Z3, a w pobliżu widać też znaczniki stref Z13 i Z14. Na mapie stoją tokeny: duża zgniła postać o długich splotach włosów, wymiotująca zieloną substancją, trzy zgarbione bladoskóre istoty, smocza głowa, wojownik w hełmie oraz kilku bohaterów, w tym mężczyzna z brodą i postać o ciemnych włosach w niebieskiej obwódce. Przy tokenach widać kolorowe paski, a przy jednym z nich napis „+3 ft”.",
+    "path": "images/191903_snapshot_15900a17810d.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4248.918,
+    "caption": "Widok mapy sceny Fort Zakrotha: drewniane wnętrze o okrągłym kształcie, z deskami podłogi, skrzyniami, beczkami, workami i posłaniem ze słomy z plamami krwi po lewej stronie. W centrum, wokół okrągłego pnia oznaczonego jako Z3, stoi duży token zgniłej, długowłosej istoty z pnączem w pysku, a obok niej token minotaura, token hoplity w hełmie oraz trzy tokeny przygarbionych, bladych humanoidów. Po lewej widać także token mężczyzny z brodą, token postaci o ciemnych włosach z niebieskim blaskiem oraz token smoka, a na mapie widoczne są oznaczenia stref Z13 i Z14.",
+    "path": "images/192004_snapshot_95f1a66e184b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4456.885,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianego budynku z deskowaną podłogą, widziane z góry. Na środku znajduje się okrągły drewniany element oznaczony „Z3”, a obok niego token z napisem „Near Death” i podpisem „Gigantes Witch”, z niemal pustym paskiem życia. W pobliżu stoją drugi token podobnej wiedźmy oraz token przykucniętej postaci, a po lewej widać tokeny krowy i kilku świń. Po prawej, w ciemniejszej części pomieszczenia, rozmieszczone są tokeny stworów przy czerwonych rowach oraz kawałki mięsa na podłodze.",
+    "path": "images/192332_snapshot_59601f14e29e.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4495.877,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe wnętrze drewnianej wieży lub fortu w widoku z góry, z długimi stołami uginającymi się od jedzenia po lewej stronie oraz ogniskiem w lewym dolnym rogu. W centrum, w kwadratowym pomieszczeniu ze schodami spiralnymi oznaczonymi „Z3”, stoi skupisko tokenów, w tym kilka masywnych, włochatych stworów oraz mniejsze postacie; na podłodze widać plamy krwi. Na mapie są też oznaczenia stref „Z13” i „Z14”, a dookoła porozmieszczane skrzynie, beczki, worki, siano i stojak z włóczniami.",
+    "path": "images/192411_snapshot_823f3f8b7bea.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4754.502,
+    "caption": "Scena Fort Zakrotha pokazuje widok z góry na wnętrze drewnianego pomieszczenia o zaokrąglonej ścianie, z deskami podłogi, spiralnymi schodami po prawej i plamą krwi przy drzwiach. Na środku widać skupisko czterech tokenów: jeden przedstawia rogatą bestię ze skrzydłami, obok niej jest postać z rudymi włosami, a poniżej duży token zombie-podobnej istoty z długimi splątanymi włosami i dwa tokeny wychudzonych, przygarbionych humanoidów. Wokół tokenów widoczny jest złocisty okrąg efektu magicznego. Na podłodze leży pergaminowa mapa, a na mapie oznaczono strefy Z12, Z3 i Z11.",
+    "path": "images/192830_snapshot_358da5570415.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4850.401,
+    "caption": "Widok mapy sceny Fort Zakrotha: ciemne drewniane wnętrze z deskami podłogi, schodami spiralnymi po prawej oraz oznaczeniami stref Z12 i Z3. Na mapie widać kilka okrągłych tokenów w trakcie starcia, w tym przy dolnej części token podpisany Gigantes, oraz token ze skrzydlatym słoniem z małym portretem rudowłosej postaci. Jeden z tokenów ma wyświetlony status Injured. Na podłodze po lewej leży pergaminowa mapa, a po prawej brzegu widać ślady krwi.",
+    "path": "images/193006_snapshot_3fb819df15d0.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 4940.784,
+    "caption": "Scena Fort Zakrotha przedstawia ciemne, drewniane wnętrze fortu widziane z góry, z oznaczonymi strefami Z3, Z9 i Z10. Na środku, przy okrągłym wachlarzowatym elemencie podłogi, stoi token podpisany „Centaur Hero” ze statusem „Near Death”, otoczony fioletowym polem. W lewym górnym rogu oświetlone jest pomieszczenie z długimi, zastawionymi stołami i krzesłem, a na mapie widać też kilka innych tokenów oraz broń i skrzynie po prawej stronie.",
+    "path": "images/193136_snapshot_c39b3c98d21b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 5044.342,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na drewnianą podłogę wnętrza z rozstawionymi skrzyniami, deskami i słomą w rogu, a na środku widać duży okrągły drewniany wzór z oznaczeniem „Z3”. Na mapie stoją tokeny postaci, m.in. wojownik w rogatym hełmie, postać w hełmie hoplity, mężczyzna z zielonym światłem w dłoni oraz smok w ognistym kręgu, a w górnym rogu grupa postaci na jednym tokenie. Na dole znajdują się trzy tokeny przypominające blade, zgarbione stworzenia, a po mapie rozchlapane są plamy krwi. Po prawej widoczne jest jeszcze oznaczenie „Z13”.",
+    "path": "images/193319_snapshot_59b2761ddbcc.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 5198.19,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze okrągłego drewnianego budynku widziane z góry, z podziałem na pomieszczenia oznaczone Z1, Z2, Z3 i Z5. W lewej części znajdują się zagrody ze zwierzętami (tokeny krów i świń), w prawej ciemniejsze pomieszczenie z krwawymi śladami i pozostałościami mięsa, a u góry stół z jedzeniem i palenisko. Pośrodku, wokół centralnej okrągłej konstrukcji Z3, widać tokeny dwóch zielonkawych, zniszczonych postaci, białowłosego wojownika oraz token podpisany „Gigantes” z napisem „Unharmed”. Na dole mapy w osobnym pomieszczeniu znajduje się token postaci za kratami.",
+    "path": "images/193553_snapshot_b353b2181bda.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 5448.94,
+    "caption": "Widok mapy sceny Fort Zakrotha: okrągłe wnętrze o drewnianej podłodze, z oznaczonymi strefami Z3, Z13 i Z14. Pośrodku znajduje się wachlarzowy wzór desek z okrągłym pniem, a wokół leżą porozrzucane skrzynie, beczki, dzbany i worek, po lewej zaś posłanie ze słomy z fioletowym kocem oraz stoły z jedzeniem. Na mapie widać kilka tokenów, w tym trzy tokeny Gigantes (jeden zaznaczony czerwoną ramką z napisem „Injured”), token smoka oraz kilka tokenów postaci po lewej stronie. Na podłodze są plamy krwi.",
+    "path": "images/194004_snapshot_faa92ecf1446.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 5875.501,
+    "caption": "Scena Fort Zakrotha przedstawia drewnianą, okrągłą salę widzianą z góry, z zastawionymi stołami po lewej stronie, spiralnymi schodami pośrodku oraz plamą krwi przy drzwiach po prawej. Na schodach i wokół nich skupiły się tokeny: latający słoń o ciemnej skórze, dwie umięśnione postacie ludzkie, rudowłosa postać oraz większa, zgniła, upiorna istota z szatą z czaszek i zieloną mazią wydobywającą się z ust. Na podłodze leży pergaminowa mapa wysp, a na ekranie widać oznaczenia stref Z3, Z11 i Z12 oraz pomiar odległości 20 ft.",
+    "path": "images/194711_snapshot_a6856d686392.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6049.034,
+    "caption": "Widok mapy sceny Fort Zakrotha: ciemne, drewniane wnętrze z deskowaną podłogą, z wachlarzowatymi schodami lub platformą w centrum oraz oznaczeniami stref Z3 i Z12. Na mapie widać kilka tokenów: latającego słonia ze skrzydłami z oznaczeniem -21, token starszego mężczyzny z rudowłosą postacią obok oraz duży token wychudzonej, zniszczonej humanoidalnej postaci z długimi włosami. Pole widzenia jest ograniczone stożkami światła, a fioletowa strefa i pomiar 20 ft zaznaczają obszar działania, po prawej widać zaś czerwoną plamę krwi.",
+    "path": "images/195004_snapshot_ccfafd60386c.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6072.05,
+    "caption": "Scena Fort Zakrotha przedstawia ciemne, drewniane wnętrze z oznaczonymi strefami Z1, Z2, Z3 i Z5. Pośrodku znajduje się duży, wachlarzowaty okrągły element na podłodze (strefa Z3), a po bokach kilka zamkniętych drzwi z kłódkami. Na mapie stoi kilka tokenów, w tym podświetlony token z podpisem „Gigantes Witch” oznaczony jako „Injured”, obok niego dwie postacie i kolejna wiedźma po prawej. W pomieszczeniu po lewej widać liczne małe tokeny z zielonymi paskami zdrowia.",
+    "path": "images/195027_snapshot_8e31e010581d.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6103.588,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianej, okrągłej budowli z podłogą z desek, z wielką spiralną drewnianą konstrukcją schodów na środku. Na mapie stoi kilka tokenów: wyróżniony token „Gigantes Witch” z oznaczeniem „Injured”, dwie przygarbione, blade postacie oraz czerwonowłosa postać obok nich, a po lewej mniejszy token na rozłożonej mapie. Po prawej widać dużą plamę krwi, a na planszy oznaczono strefy Z3, Z11 i Z12 oraz odległość 20 ft.",
+    "path": "images/195059_snapshot_248cc1319b3f.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6218.823,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze z długimi stołami zastawionymi jedzeniem po lewej stronie oraz skrzyniami, beczkami i workami porozrzucanymi wokół. Pośrodku znajduje się centralna konstrukcja ze schodami lub podestem oznaczonym jako Z3, a w pobliżu widać też oznaczenia stref Z13 i Z14. Na mapie stoi kilka tokenów, w tym wojownik w hełmie, smoczy token oraz trzy blade, przygarbione postacie, a podłogę i legowisko ze słomą plamią ślady krwi.",
+    "path": "images/195254_snapshot_72d06b7f3ea5.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6460.927,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na drewnianą salę z deskową podłogą, pośrodku której znajduje się duży okrągły element przypominający wachlarz lub koło z oznaczeniem „Z3”. Po lewej stoją suto zastawione stoły z jedzeniem i krzesła, a po prawej metalowy właz lub skrzynia oraz drzwi i zamknięta kłódką przegroda na dole. Na mapie widoczne są trzy tokeny: potężny byk-wojownik z toporem w lewym górnym rogu, biały włosy wojownik z podpisem „Unharmed” przy górnej krawędzi po prawej oraz pochylona, umięśniona postać w prawym dolnym rogu.",
+    "path": "images/195656_snapshot_a766962ec8b0.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6648.949,
+    "caption": "Widok mapy sceny Fort Zakrotha: wnętrze okrągłego drewnianego pomieszczenia z deskową podłogą, ze stołami zastawionymi jedzeniem po lewej oraz skrzyniami, beczkami i dzbanami po prawej. Pośrodku znajduje się kwadratowa platforma z wachlarzowatym mechanizmem i oznaczeniem Z3, a obok widoczne są też znaczniki stref Z14 i Z13. Na mapie stoi kilka tokenów, m.in. postać z rogami z podpisem „kentos”, wojownik w hełmie, smocza postać oraz zakapturzona postać, a w kilku miejscach widać plamy krwi i legowisko ze słomą i fioletową tkaniną.",
+    "path": "images/200004_snapshot_e650b7ec7029.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6680.782,
+    "caption": "Scena Fort Zakrotha przedstawia drewniane, okrągłe wnętrze budowli widziane z góry, z długimi stołami zastawionymi jedzeniem po lewej stronie oraz oznaczeniami stref Z12, Z3 i Z11. Na środku widać schody spiralne, wokół których skupiły się tokeny: dwie postacie o ciemnej, zniszczonej skórze, potężna zgarbiona postać z długimi splątanymi włosami oraz czerwonowłosa postać z niebieską tarczą. Po lewej leży pergaminowa mapa z mniejszym tokenem, a po prawej widoczna jest duża plama krwi. Na ekranie widać też zaznaczone odległości: 20 ft i +20 ft.",
+    "path": "images/200036_snapshot_a1f92b797aa3.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 6736.953,
+    "caption": "Scena Fort Zakrotha: widok z góry na okrągłe, drewniane wnętrze z podłogą z desek, ławami, kałużą krwi po prawej stronie i oznaczeniami stref Z3, Z11 i Z12. W centrum mapy znajduje się spiralne drewniane schody z pniem pośrodku, wokół których skupiły się tokeny: duża, wychudzona postać z długimi włosami i dwie umięśnione, blade sylwetki, a obok nich postać o rudych włosach. Po lewej, na rozłożonej pergaminowej mapie, stoi ciemny token, a poniżej schodów widać token postaci o ciemnych włosach z zielonym paskiem zdrowia; na ekranie widać też linijkę dystansu z napisem „20 ft”.",
+    "path": "images/200132_snapshot_acee2a56534e.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7248.945,
+    "caption": "Widok mapy sceny Fort Zakrotha: wnętrze z ciemnymi drewnianymi deskami i szeroką spiralną drewnianą klatką schodową po prawej, z plamami krwi na podłodze po prawej stronie. Na środku ekranu skupione są tokeny, wśród nich postać z czerwonymi włosami oznaczona napisem „Injured”, obok ciemnowłosy mężczyzna, a pod nimi token podpisany „Gigantes”. Na lewym dole stoi duży token zgniłego, wychudzonego stworzenia z dredami i czaszkami na szyi, a obok leży rozłożona mapa skarbu. Na ekranie widać oznaczenia odległości (0 ft., 20 ft., +5 ft.) oraz etykiety stref Z12 i Z3.",
+    "path": "images/201004_snapshot_67ff0bdba233.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7316.084,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na drewniane wnętrze z okrągłą ścianą, po lewej stronie stoły zastawione ucztą, a po prawej wachlarzowaty drewniany podest ze środkowym pniem i oznaczeniem Z3. Na mapie widoczne są oznaczenia stref Z14 i Z13 oraz liczne plamy krwi. Na planszy stoją tokeny: smok w płonącym kręgu, szary baran-stwór z zakrzywionymi rogami i zielonym paskiem życia, hełmowany wojownik, pochylona humanoidalna postać po prawej oraz kilka półprzezroczystych tokenów. W prawym górnym rogu widać token grupy postaci.",
+    "path": "images/201111_snapshot_44fb5eeaf293.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7347.436,
+    "caption": "Scena Fort Zakrotha przedstawia drewniany pokład lub podłogę widzianą z góry, z dużym okrągłym elementem przypominającym wachlarz z oznaczeniem „Z3” oraz fragmentem znacznika „Z1” przy prawej krawędzi. Na mapie stoją tokeny: ogromny rogaty baran-potwór z zieloną belką życia, poszarzały żywy trup z czerwoną belką oraz smocza głowa w płonącym pierścieniu z pomarańczowym paskiem. Obok widać półprzezroczysty, wyblakły token i plamy krwi, a w rogach linę, skrzynię i gliniane dzbany.",
+    "path": "images/201143_snapshot_ac2fe38894b6.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7561.1,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe drewniane wnętrze z deskową podłogą, schodami w kształcie wachlarza pośrodku i długimi stołami zastawionymi jedzeniem po lewej stronie. W centrum, przy schodach, skupiło się kilka okrągłych tokenów, w tym zniszczona, zgarbiona postać z długimi włosami oraz postać o czerwonych włosach, a obok leży pergaminowa mapa z tokenem. Po prawej widać dużą plamę krwi z tokenem podpisanym „kentos”, a na mapie oznaczono strefy Z3, Z11 i Z12 oraz odległości 20 ft i 5 ft.",
+    "path": "images/201516_snapshot_bb963507d0de.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7705.273,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze okrągłej drewnianej budowli widziane z góry. Po lewej stoją długie stoły zastawione jedzeniem, a pośrodku znajduje się duży okrągły drewniany mechanizm z oznaczeniem Z3. Po prawej widać strefę Z10 ze stojakami na broń, skrzynią i innymi przedmiotami. Na mapie są trzy tokeny postaci, w tym jeden z głową byka (minotaur), a w rogu u dołu częściowo widać czwarty.",
+    "path": "images/201740_snapshot_0cf72c3ba156.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7748.04,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane pomieszczenie z długimi stołami zastawionymi jedzeniem po lewej stronie oraz oznaczeniami stref Z3, Z11 i Z12. Na środku, przy spiralnych schodach, skupiła się grupa tokenów: duża, wychudzona postać z dredami, ruda postać, postać o ciemnych włosach oraz blady, przygarbiony stwór, a obok widać też przyciemniony token z dopiskiem +5 ft. Na mapie leży pergaminowy fragment mapy, a po prawej stronie widać dużą czerwoną plamę krwi; widoczna jest też linia pomiaru dystansu 20 ft.",
+    "path": "images/201823_snapshot_14b8bd93b72b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7811.06,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na wnętrze okrągłej drewnianej budowli, podzielonej ścianami na pomieszczenia oznaczone jako Z3, Z8, Z9 i Z10. Po lewej stronie stoją suto zastawione stoły ucztowe z krzesłami oraz palenisko i beczka, w środku znajduje się okrągła drewniana konstrukcja przypominająca wiatrak lub podest, a po prawej zbrojownia z włóczniami i skrzyniami. Na mapie widać cztery tokeny postaci, w tym jeden z rogatym stworem w górnej lewej części, a w dolnej części sali leżą stogi siana.",
+    "path": "images/201926_snapshot_bf219f6777f0.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7848.962,
+    "caption": "Widok mapy sceny Fort Zakrotha: drewniane pomieszczenie z podłogą z desek, po lewej długie stoły zastawione ucztą, po prawej okrągłe schody i oznaczenia stref Z12 oraz Z3. Na pierwszym planie wyróżniony czerwoną ramką token Gigantes Witch ze statusem „Injured”, obok leży na podłodze pergaminowa mapa. W górnej części skupiło się kilka tokenów postaci, m.in. rudowłosa postać i ciemnowłosa postać z podpisem „+20 ft”, a obok widać pomiar odległości 20 ft; po prawej znajduje się duża plama krwi.",
+    "path": "images/202004_snapshot_3f3965f72d8b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 7943.928,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze okrągłego drewnianego pomieszczenia widzianego z góry, z długimi stołami zastawionymi jedzeniem po lewej stronie, legowiskiem ze słomy i fioletowym płótnem oraz beczkami, dzbanami i skrzyniami porozrzucanymi wokół. Pośrodku znajduje się wielkie koło z desek z oznaczeniem Z3, a na mapie widać też znaczniki stref Z14 i Z13 oraz plamy krwi. Na mapie stoi kilka tokenów w jednym szeregu, w tym podpisany token Gigantes z czerwonym napisem „Near Death”.",
+    "path": "images/202139_snapshot_293ba3f306f8.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 8001.866,
+    "caption": "Scena Fort Zakrotha: widok z góry na okrągłe, drewniane wnętrze z dużym wachlarzowatym podestem pośrodku, oznaczonym Z3, oraz strefami Z13 i Z14 po bokach. Po lewej stoją zastawione stoły z jedzeniem, a przy nich posłanie ze słomy z fioletowym kocem. W pomieszczeniu leżą skrzynie, beczki, dzbany, worki i stojaki z włóczniami, a podłogę znaczą liczne plamy krwi. Na mapie widać kilka tokenów, w tym token ze smoczą głową oraz hełmem, a także kilka przyciemnionych, półprzezroczystych tokenów przy podeście.",
+    "path": "images/202237_snapshot_415f12af96e0.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 8154.506,
+    "caption": "Scena Fort Zakrotha pokazuje z góry okrągłe wnętrze o drewnianej podłodze, zastawione skrzyniami, beczkami, workami i dzbanami. Po lewej ciągną się dwa długie stoły suto zastawione jedzeniem, a pośrodku znajduje się wachlarzowaty drewniany element z oznaczeniem Z3. Na mapie widać kilka tokenów, w tym postać ze smoczą głową oraz kilka półprzezroczystych tokenów pokrytych plamami krwi, a także token podpisany „adam” w prawym górnym rogu. Widoczne są też znaczniki stref Z13 i Z14 oraz posłanie ze słomy z fioletowym materiałem.",
+    "path": "images/202510_snapshot_a956bf802f14.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 8204.932,
+    "caption": "Scena Fort Zakrotha przedstawia z góry okrągłe, drewniane wnętrze fortu o ciemnych, ciepłych tonach. Po lewej stronie stoją długie stoły suto zastawione jedzeniem, z krzesłami wokół, oznaczone jako Z9. Pośrodku znajduje się okrągły podest oznaczony Z3, a po prawej pomieszczenia ze stojakami na broń, skrzyniami i beczką, oznaczone Z10. Na mapie widać dwa tokeny: postać przypominającą minotaura z zieloidnym paskiem zdrowia oraz token z pomarańczowym paskiem inicjatywy podpisanym „adam”, a w prawym dolnym rogu częściowo widoczny kolejny token.",
+    "path": "images/202600_snapshot_a45a2bd2c556.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 8448.949,
+    "caption": "Widok mapy sceny Fort Zakrotha: drewniane wnętrze z deskową podłogą i spiralnymi schodami po prawej stronie, na ścianie widać pergaminową mapę świata. Na planszy skupiło się kilka tokenów: dwie blade, pochylone humanoidalne postacie, obok nich czerwonowłosa postać, a także duża zgarbiona, rozczochrana istota wymiotująca zieloną cieczą oraz token potężnego barana lub minotaura z rogami. Widoczne są oznaczenia wysokości „+5 ft” i „+20 ft”, linia pomiaru „20 ft” oraz plama krwi przy prawej krawędzi.",
+    "path": "images/203004_snapshot_91a536c5ea5a.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 9025.019,
+    "caption": "Scena Fort Zakrotha przedstawiona w czarno-białej, ciemnej mapie z widokiem z góry na drewnianą podłogę i okrągły wzór wachlarza w górnej części. Na środku stoją tokeny w kółkach: kilka postaci z fioletowo zaznaczonym obszarem (prawdopodobnie zasięg lub szablon) oraz dwie większe, zniszczone, zombiepodobne postacie z długimi włosami. Na mapie widać etykiety stref Z1, Z2, Z3 i Z5, a po bokach liczne mniejsze tokeny z zielonymi paskami zdrowia.",
+    "path": "images/203940_snapshot_cda8e88cc0dc.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 9048.951,
+    "caption": "Widok mapy sceny Fort Zakrotha w czarno-białej, ciemnej oprawie, z oznaczonymi strefami Z1, Z2, Z3 i Z5 oraz drewnianą podłogą wnętrza fortu. Na środku widać zaznaczonego tokena Murgrat ze statusem „Near Death”, a nad nim dwa podobne blade, przygarbione tokeny. Po bokach stoją dwa duże tokeny przypominające zombie lub ghule o długich splecionych włosach, a w dolnej części mapy token białowłosego wojownika z mieczem i drugi token za kratami. U góry widoczny jest fioletowy obszar z linią pomiaru odległości oraz schody spiralne.",
+    "path": "images/204004_snapshot_6a7ba4bdefee.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 9110.206,
+    "caption": "Scena Fort Zakrotha przedstawia drewnianą, ciemną salę widzianą z góry, z okrągłymi schodami pośrodku oznaczonymi jako Z3 oraz sąsiednimi strefami Z12 po lewej i Z11 po prawej. Na mapie stoją tokeny, m.in. duży token zombie-podobnej postaci z dredami w lewym dolnym rogu grupy, smoczy token, token rudowłosej postaci, token łysiejącego mężczyzny, token rogatej bestii przy schodach oraz kilka mniejszych portretów. Na podłodze leży stara mapa na pergaminie, a po prawej widać duże czerwone plamy krwi. Na ekranie widoczne są też oznaczenia odległości, np. „20 ft”, „+20 ft” i „+5 ft”.",
+    "path": "images/204105_snapshot_c4267c528a1b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 10391.449,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze fortu z wielkimi schodami spiralnymi pośrodku, oznaczone strefami Z3, Z11 i Z12. Na mapie leży kilka tokenów, m.in. smocza głowa, rudowłosa postać, postać z ciemnymi włosami oraz masywny stwór z rogami, a w lewym dolnym rogu duży token zgniłego, zielonkawego humanoida z długimi dredami. Po lewej widać stoły z jedzeniem i pergaminową mapę, a po prawej czerwoną plamę krwi; na ekranie wyświetlone są też odległości (20 ft, +5 ft, +20 ft).",
+    "path": "images/210227_snapshot_956e65a14ff3.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 10850.389,
+    "caption": "Widok mapy sceny Fort Zakrotha przedstawia wnętrze o drewnianej podłodze, z kolistymi schodami i plamami krwi po prawej stronie. Na środku toczy się starcie: największy token z podpisem „Gigantes” to wychudzona, zgniła postać z dredami, obok niej token potwora z rogami barana, a wyżej token oznaczony „Badly Injured”, na którym widać mężczyznę i rudowłosą postać. W pobliżu stoją też tokeny ze złotym smokiem, hełmem wojownika oraz ciemniejszymi postaciami po bokach. Na podłodze leży mapa z zaznaczonymi lądami, a oznaczenia stref to Z12 i Z3.",
+    "path": "images/211006_snapshot_03fa7f69bb37.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 11449.413,
+    "caption": "Widok mapy sceny Fort Zakrotha: mroczne, drewniane pomieszczenie o okrągłym układzie, oświetlone stożkami światła, z oznaczonymi strefami Z12, Z3 i Z11. W centrum, wokół kolistych schodów, zgromadzone są tokeny, w tym duży token wychudzonej, zgarbionej postaci oraz token rogatej, byczej istoty. Po lewej leży rozłożona pergaminowa mapa, a po prawej widać plamy krwi na deskach podłogi.",
+    "path": "images/212005_snapshot_3cf85cf34a8e.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 11579.595,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe, drewniane wnętrze budynku widziane z góry, podzielone przegrodami na pomieszczenia, z zamkniętymi drzwiami oznaczonymi kłódkami. Po lewej stoją w zagrodach tokeny krów i kilku świń, po prawej w ciemnym pomieszczeniu widać rząd tokenów z przypiętymi tuszami oraz plamy krwi i kawałki mięsa. Na środku, przy okrągłym drewnianym podeście z oznaczeniem Z3, znajdują się tokeny dwóch postaci oraz większego, zgniłego stwora, a poniżej kolejne tokeny, w tym postać o białych włosach i drugi podobny stwór. W górnej części mapy widać stół zastawiony przedmiotami i ognisko.",
+    "path": "images/212215_snapshot_712987be77bb.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 11633.547,
+    "caption": "Scena Fort Zakrotha przedstawia mapę z góry okrągłego, drewnianego wnętrza fortu, z wewnętrzną izbą pośrodku i podłogą w kształcie wachlarza z oznaczeniem Z3. Po lewej stoją suto zastawione stoły z jedzeniem, na dole płonie ognisko, a dookoła leżą skrzynie, beczki, skrzynie z łupami, słoma i worki. Na mapie widać kilka tokenów postaci, m.in. potężnego byka-minotaura z zielonym paskiem życia po lewej oraz grupę tokenów w prawym górnym rogu, podpisanych m.in. „maciek” i „kentos”. Na podłodze widoczne są plamy krwi, a na planie znaczniki Z13 i Z14.",
+    "path": "images/212309_snapshot_462121bc3bae.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12048.522,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe, drewniane wnętrze budowli widziane z góry, podzielone ścianami na kilka pomieszczeń oznaczonych etykietami Z3, Z7, Z8, Z9 i Z10. Po lewej stronie stoją długie stoły z zastawą i krzesłami oraz palenisko i beczka, na górze leżą rozłożone płachty lub posłania, a na dole snopy siana; w prawym środkowym pomieszczeniu widać broń i inne wyposażenie. Na mapie znajdują się dwa tokeny z zielonymi paskami życia: jeden przy ścianie w lewej części centralnej, drugi w prawym dolnym pomieszczeniu.",
+    "path": "images/213004_snapshot_4bf5138649fc.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12102.732,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze fortu podzielone ścianami na liczne pomieszczenia, z oznaczonymi strefami Z1, Z2, Z3 i Z5. W górnej części widać stół zastawiony jedzeniem i paleniskiem, a po prawej stronie pomieszczenie z plamami krwi i szczątkami. Na mapie rozmieszczonych jest wiele tokenów: trzy duże po lewej, mniejsze w lewym skrzydle, rzędy tokenów po prawej oraz grupa postaci skupiona w centrum, gdzie jedna z nich jest zaznaczona pomarańczową ramką. Kilka kolejnych tokenów stoi w dolnej części mapy, w pobliżu wejścia.",
+    "path": "images/213058_snapshot_8f4c25e09d39.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12161.249,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe, drewniane wnętrze fortu widziane z góry, podzielone ścianami na kilka pomieszczeń oznaczonych etykietami Z1–Z6. W górnej części widać stół suto zastawiony jedzeniem, paleniska z kotłami, ogniska oraz plamy krwi na podłodze. W lewych pomieszczeniach stoi grupa tokenów z zielonymi paskami zdrowia, w tym trzy większe w czarno-białych portretach i kilka mniejszych, a po prawej stronie w ciemniejszej sali rząd mniejszych tokenów wśród krwi i resztek mięsa. Na środku znajduje się okrągły, promienisty podest z oznaczeniem Z3.",
+    "path": "images/213156_snapshot_3a759243df45.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12222.507,
+    "caption": "Handout zatytułowany „Kwatera Zakrotha” przedstawia ilustrację wnętrza drewnianej, poddaszowej izby z kominkiem, beczkami i dużą grecką amforą zdobioną czarnofigurowymi scenami, z której unosi się złoty blask. Na pierwszym planie stoi muskularny minotaur o jasnej grzywie i świecących niebieskich oczach, trzymający ozdobny topór. Naprzeciw niego stoi rudy minotaur w zielonkawej, zdobionej lwimi motywami zbroi, z płonącymi rogami i parą bucha z nozdrzy; w dłoni trzyma duży miecz. W tle, na łożu przykrytym futrami i fioletową tkaniną, leży uśmiechnięta niebieskoskóra postać o spiczastych uszach.",
+    "path": "images/213258_image_shown_2d58840b8e30.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 12338.421,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe, drewniane wnętrze fortu widziane z góry, podzielone ścianami na kilka pomieszczeń oznaczonych etykietami Z3, Z7, Z8, Z9 i Z10. Po lewej stronie stoją długie stoły zastawione jedzeniem z krzesłami wokół, a w pobliżu płonie ognisko i stoją beczki. W środkowym pomieszczeniu znajduje się duży okrągły element podłogi, a w pomieszczeniu po prawej leży broń i wyposażenie. Na dole widać stogi siana, a na mapie są dwa tokeny postaci: jeden przy drzwiach środkowego pomieszczenia, drugi w prawym dolnym rogu z zielonym paskiem życia.",
+    "path": "images/213454_snapshot_9c7a480f120b.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12360.497,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze fortu, podzielone ścianami i drzwiami na kilka pomieszczeń, z centralnym okrągłym podestem oznaczonym Z3. Po lewej stronie widać grupę tokenów – trzy większe oraz kilkanaście mniejszych – rozmieszczonych wokół prycz i posłań w strefie Z2. Po prawej, przy rzędzie ciemnych stanowisk w strefie Z5, stoi pięć małych tokenów, a podłogę znaczą plamy krwi i porozrzucane szczątki. Na mapie widać też znaczniki stref Z1, Z2, Z3 i Z5.",
+    "path": "images/213516_snapshot_5cb705a93111.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12479.878,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe, drewniane wnętrze fortu widziane z góry, podzielone na pomieszczenia oznaczone etykietami Z1–Z6. Pośrodku (Z3) znajduje się duży okrągły podest z promieniście ułożonych desek, obok którego stoi pojedynczy token podpisany „maciek”. W lewej części widać kilka większych tokenów z ciemnymi sylwetkami oraz grupę mniejszych tokenów, a po prawej i na dole mapy kolejne drobne tokeny z zielonymi paskami; w północno-wschodnim kącie (Z6) leży długi stół z jedzeniem i palą się ogniska, a na podłodze widać plamy krwi.",
+    "path": "images/213715_snapshot_c4d5944d9252.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12617.612,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe, drewniane wnętrze fortu z widokiem z góry, podzielone ścianami na kilka pomieszczeń oznaczonych etykietami Z1–Z6. W centrum znajduje się okrągły, wachlarzowaty podest (Z3), a w górnej części widać ogniska, długi stół z jedzeniem i skarbami oraz plamy krwi na podłodze. Po lewej stronie skupiły się tokeny przeciwników, w tym trzy większe z głowami przypominającymi byki oraz kilka mniejszych, a po prawej, w ciemniejszej części, ustawiono rząd małych tokenów. U dołu, przy wejściu, stoi niewielka grupa tokenów drużyny, a w prawym dolnym rogu widać token podpisany „maciek”.",
+    "path": "images/213933_snapshot_2d144e0b1605.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 12759.595,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze okrągłej drewnianej budowli z ciemnymi deskami podłogi, plamami krwi i rozrzuconymi skrzyniami. Mapa jest podzielona na pomieszczenia oznaczone znacznikami Z1, Z2 i Z5; w lewym górnym rogu widać zagrodę z kilkoma tokenami przypominającymi świnie i inne zwierzęta, a z prawej wąski korytarz z zakrwawionymi tokenami. W dolnej części, przy wejściu do głównej sali (Z1), skupiła się grupa tokenów, wśród nich jeden w turkusowej obwódce oraz jeden w pomarańczowej.",
+    "path": "images/214155_snapshot_038f124cce5c.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13076.499,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze okrągłej drewnianej budowli, podzielonej ścianami na strefy oznaczone jako Z3, Z8, Z9 i Z10. Po lewej stronie w strefie Z9 stoją długie stoły zastawione jedzeniem, a obok nich krzesła, ognisko i beczka. W części Z8 leżą sterty siana, a w strefie Z10 widać skrzynie, broń i zbrojownię oraz okrągły podest w Z3. Po prawej, przy poduszkach, znajduje się pojedynczy token postaci w zielonej obwódce, z zielonym paskiem życia.",
+    "path": "images/214712_snapshot_07af2657b233.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13176.771,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe drewniane wnętrze o deskowanej podłodze, z długimi stołami zastawionymi jedzeniem po lewej stronie i środkowym okrągłym podestem oznaczonym jako Z3. Po lewej stronie znajduje się strefa Z14 z plamami krwi, a obok niej grupa trzech tokenów na fioletowym obszarze z sianem i zaznaczonym okręgiem. Po prawej, przy oznaczeniu Z13, stoi druga grupa czterech tokenów, a w prawym górnym rogu widać token smoka. Wokół leżą skrzynie, beczki, dzbany i worki.",
+    "path": "images/214852_snapshot_006c3329d71d.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13201.025,
+    "caption": "Scena Fort Zakrotha przedstawia okrągłe wnętrze drewnianej budowli widziane z góry, z oznaczonymi strefami Z3, Z8, Z9 i Z10. Po lewej stoją długie stoły zastawione jedzeniem, krzesła, ognisko i beczka, a po prawej znajdują się pomieszczenia z zamkniętymi drzwiami, skrzynie, broń oraz słoma. Pośrodku, wokół okrągłego drewnianego podestu, skupiły się tokeny postaci, a obok nich widać token smoczej postaci; kolejny token stoi samotnie w prawym dolnym rogu.",
+    "path": "images/214916_snapshot_26aa5aea2fcf.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13249.465,
+    "caption": "Widok mapy sceny Fort Zakrotha: drewniane wnętrze z deskową podłogą, ukazane z góry, z drewnianą skrzynią, beczkami, stogami siana i ogniskiem w rogu. Na środku trzy tokeny w jednym rzędzie – mężczyzna o ciemnych włosach w niebieskiej obwódce, jasny minotaur z podpisem \"kento\" oraz zaznaczona pomarańczową ramką postać z rogami. Pod nimi w ścianie widać zamknięte drzwi z symbolem kłódki.",
+    "path": "images/215005_snapshot_e128034c3d44.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13365.298,
+    "caption": "Handout zatytułowany „Lesia” przedstawia ilustrację wnętrza kamiennej karczmy lub izby z kominkiem, w którym płonie ogień. Na pierwszym planie stoi centaurzyca o rudych, splecionych w warkocz włosach, ubrana w zieloną szatę ze skórzanym gorsetem i naramiennikami, z świecącym złotym wisiorem na szyi; wyciąga rękę, jakby przemawiała. Przy drewnianym stole po lewej siedzą dwaj mężczyźni, jeden brodaty w skórzanej zbroi, drugi ciemnowłosy z nożem w dłoni, a na blacie leżą kufel i mapa lub pergamin.",
+    "path": "images/215200_image_shown_28d817088eee.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 13743.841,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianej budowli widziane z góry, z oznaczonymi strefami Z3, Z9 i Z10. Po lewej stoją długie stoły uставione jedzeniem i półmiskami, a pośrodku znajduje się okrągła drewniana konstrukcja przypominająca schody lub podest, z fioletowo zaznaczonym fragmentem. Na mapie rozmieszczone są tokeny postaci, w tym grupa w lewym górnym rogu, token smoka przy podeście oraz kilka postaci w dolnej części, m.in. rudowłosa postać oraz większy token kobiety w zieleni, wśród słomy i poduszek. W otoczeniu widać też skrzynie, stojak z włóczniami, stalowy właz i ognisko w rogu.",
+    "path": "images/215819_snapshot_1660df5b0e25.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 13790.327,
+    "caption": "Pokazany graczom handout zatytułowany „Agrius” to ilustracja przedstawiająca centaura o brodatej twarzy i surowym spojrzeniu, w brązowej, ćwiekowanej zbroi ozdobionej kłami i metalowymi tarczami. W dłoni trzyma drewniany kostur zwieńczony świecącym, niebieskim kryształem, a za plecami ma kołczan ze strzałami. Za nim w szyku stoi grupa uzbrojonych w włócznie i łuki centaurów w podobnych strojach. Scena rozgrywa się na polanie w lesie o zmierzchu lub świcie, z mgłą i górskimi szczytami w tle.",
+    "path": "images/215905_image_shown_f131ff5fd6a5.webp",
+    "is_key": true
+  },
+  {
+    "offset_secs": 13849.457,
+    "caption": "Widok mapy sceny Fort Zakrotha: drewniane wnętrze z deskami podłogi, skrzyniami i drzwiami, pośrodku okrągła platforma z pniem oznaczonym „Z3”. Na platformie stoją tokeny centaurów, w tym jeden za kratami, a wokół widać kilkanaście innych tokenów postaci, m.in. smoka w prawym górnym rogu. Na jednym z tokenów widoczny jest napis „Unharmed”, a obok drugiego odległość „10 ft.”; fioletowy obszar zasięgu rozciąga się w stronę południowego wschodu.",
+    "path": "images/220005_snapshot_a0f870369577.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 14052.524,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianej, okrągłej budowli w widoku z góry, z zaciemnionym, ponurym oświetleniem. Po lewej stronie znajdują się zagrody ze słomą i poidłem, w których stoją tokeny zwierząt, m.in. krów i świń, a po prawej w rzędzie ustawione są tokeny w wąskich, zakrwawionych korytach, otoczone krwawymi plamami i kawałkami mięsa. Pośrodku widać duży drewniany krąg z kołem, zamknięte drzwi z kłódkami oraz oznaczenia stref Z1, Z2, Z3 i Z5.",
+    "path": "images/220328_snapshot_583e28ac81dd.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 14332.506,
+    "caption": "Scena Fort Zakrotha przedstawia wnętrze drewnianej budowli z deskowaną podłogą, widziane z góry. Po lewej stoją suto zastawione stoły z jedzeniem, a po prawej widać stojak z włóczniami, żelazną skrzynię i beczki. Pośrodku znajduje się okrągła drewniana platforma z oznaczeniem „Z3”, wokół której i na której rozmieszczono liczne tokeny postaci, w tym token smoka oraz więźnia za kratami. Na mapie widać też oznaczenie „Z9” przy stołach oraz dopisek „+5 ft”.",
+    "path": "images/220808_snapshot_bb5e879dfabb.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 14449.478,
+    "caption": "Widok mapy sceny Fort Zakrotha: wnętrze drewnianej budowli z deskowymi podłogami, ścianami działowymi, drzwiami i zamkniętymi kłódkami. Na środku znajduje się okrągła drewniana platforma oznaczona „Z3”, a po prawej widać oznaczenie „Z10”. Wokół platformy skupione są okrągłe tokeny postaci, m.in. wojownik z włócznią, więzień za kratami i kobieta w zielonej szacie, a także token smoka i grupka tokenów w lewym górnym rogu oraz kilka w dolnej części mapy. W otoczeniu leżą skrzynie, beczki, stojaki z włóczniami i żelazny właz, a nad jednym z tokenów widnieje napis „+5 ft”.",
+    "path": "images/221005_snapshot_68100203a3ea.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 14944.273,
+    "caption": "Scena Fort Zakrotha przedstawia widok z góry na okrągłe, drewniane wnętrze fortu z deskową podłogą i centralnym okrągłym podestem przypominającym wachlarz, wokół którego biegną wewnętrzne ściany. Na mapie widoczny jest jeden token postaci z zielonym paskiem zdrowia, stojący obok podestu, oraz grupa nakładających się, półprzezroczystych tokenów po lewej stronie. Oznaczenia stref to Z3, Z11 i Z12. Na podłodze widać plamy krwi, pergaminową mapę przy lewej ścianie, stojak z włóczniami i drugi z bronią, pochodnie oraz drewniane ławy.",
+    "path": "images/221819_snapshot_549f07efb1d3.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 15049.486,
+    "caption": "Widok mapy sceny Fort Zakrotha: wnętrze drewnianej budowli z podłogą z desek, długimi stołami zastawionymi jedzeniem po lewej stronie (oznaczenie Z9) oraz mniejszymi pomieszczeniami z drzwiami i kłódkami po prawej (oznaczenie Z10). Pośrodku znajduje się duża okrągła drewniana platforma z oznaczeniem Z3. Wokół niej rozmieszczone są tokeny postaci, w tym grupka przy lewej ścianie, token smoka przy platformie, dwa tokeny po prawej oraz jeden na dole z niebieskim podświetleniem i podpisem „kentos”. Widoczne są też podpisy „miłosz”, „maciek” i „keszu” oraz oznaczenia odległości „+5 ft” i „-95 ft”.",
+    "path": "images/222005_snapshot_8ff30cf90062.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 15118.562,
+    "caption": "Scena Thylea przedstawia ręcznie rysowaną mapę regionalną w stylu pergaminowym, z górami, lasami i zatokami. Widoczne podpisy to m.in. The Heartlands, The Oldwoods, The Greater Steppes, Mithral Mountains, The Cerulean Gulf i The Aresian Peninsula, a także miasta Estoria i Mytros oraz Orestessos Zythikē. W prawej części mapy, w lesie na wschodzie, świeci złoty znacznik z jasnym rozbłyskiem, a wzdłuż brzegów rozmieszczone są ponumerowane wyspy i ikony portów.",
+    "path": "images/222114_snapshot_95d067499d5e.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 15649.486,
+    "caption": "Widok ręcznie rysowanej mapy regionalnej w scenie Thylea, z podpisem „The Aresian Peninsula” (Półwysep Arezyjski) nad zalesionymi wzgórzami, górami i wybrzeżem. Na mapie widać token mężczyzny w średnim wieku o siwych włosach z zielonym paskiem zdrowia, a także rysunki stworów: koźlonogiej postaci grającej na rogu po prawej oraz minotaura lub podobnej istoty po lewej stronie. Pośrodku mapy stoi też niewielki obóz namiotowy, a na południu widać zarys zabudowań.",
+    "path": "images/223005_snapshot_f046ef46494e.webp",
+    "is_key": false
+  },
+  {
+    "offset_secs": 16250.331,
+    "caption": "Widok mapy w scenie Thylea przedstawia stylizowaną, ręcznie rysowaną mapę z półwyspem Aresian Peninsula (Półwysep Arezyjski) po prawej stronie i miastem Aresia (Arezja) na jego zachodnim wybrzeżu. Po lewej widać wody opisane jako The Cerulean Gulf (Zatoka Cerulańska) i The Forgotten Sea (Zapomniane Morze) z rozsianymi wyspami. Na mapie umieszczono ikony kotwic oraz ponumerowane znaczniki od 1 do 6 przy wyspach, a na morzu widać rysunek morskiego stwora.",
+    "path": "images/224005_snapshot_e48a6a31cda6.webp",
+    "is_key": false
+  }
+]

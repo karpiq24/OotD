@@ -1,0 +1,2126 @@
+[
+  {
+    "offset_secs": 654.899,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 14"
+  },
+  {
+    "offset_secs": 841.644,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 0 = 11"
+  },
+  {
+    "offset_secs": 1139.431,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 1523.539,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Fort Zakrotha"
+  },
+  {
+    "offset_secs": 1625.012,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 37"
+  },
+  {
+    "offset_secs": 1629.538,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 8"
+  },
+  {
+    "offset_secs": 1805.457,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 4 = 6"
+  },
+  {
+    "offset_secs": 1821.995,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 8"
+  },
+  {
+    "offset_secs": 1984.976,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 1984.976,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 28"
+  },
+  {
+    "offset_secs": 1995.624,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 26 (ST 18)"
+  },
+  {
+    "offset_secs": 2004.386,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 11 (ST 18)"
+  },
+  {
+    "offset_secs": 2010.966,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 18 piercing; 2d6 = 2 poison"
+  },
+  {
+    "offset_secs": 2022.396,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 10 piercing; 2d6 = 7 poison"
+  },
+  {
+    "offset_secs": 2096.022,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 2105.3,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 3 = 8; 1d20 + 3 = 16"
+  },
+  {
+    "offset_secs": 2118.383,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 27 poison"
+  },
+  {
+    "offset_secs": 2167.416,
+    "speaker": "Orestes",
+    "kind": "chat",
+    "text": "(OOC) Herculean Rage Class Starting at 10th level, your rages take on legendary qualities and grow more powerful the longer they endure. At the beginning of each of your turns, if you are already raging, your rage damage bonus increases by +1 1d20+1 , up to a maximum of your Strength modifier. Additionally, while raging, you are immune to poison damage and you cannot be frightened."
+  },
+  {
+    "offset_secs": 2291.748,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 23"
+  },
+  {
+    "offset_secs": 2291.748,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 13; 2d6 = 6"
+  },
+  {
+    "offset_secs": 2308.195,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 21"
+  },
+  {
+    "offset_secs": 2316.576,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 11; 2d6 = 6"
+  },
+  {
+    "offset_secs": 2327.164,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 7"
+  },
+  {
+    "offset_secs": 2339.285,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 16"
+  },
+  {
+    "offset_secs": 2348.373,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 11; 2d6 = 8"
+  },
+  {
+    "offset_secs": 2379.502,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 26"
+  },
+  {
+    "offset_secs": 2379.502,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d4  +  9 = 13"
+  },
+  {
+    "offset_secs": 2379.502,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 7"
+  },
+  {
+    "offset_secs": 2416.603,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[cursed]"
+  },
+  {
+    "offset_secs": 2464.353,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  13 = 18"
+  },
+  {
+    "offset_secs": 2490.259,
+    "speaker": "Grasping Vine",
+    "kind": "roll",
+    "text": "rzuty: 3d12 + 6 = 30"
+  },
+  {
+    "offset_secs": 2606.807,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  -  1 = 18"
+  },
+  {
+    "offset_secs": 2635.544,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  13 = 28"
+  },
+  {
+    "offset_secs": 2647.399,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 4d6 = 13"
+  },
+  {
+    "offset_secs": 2700.192,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 17"
+  },
+  {
+    "offset_secs": 2744.1,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 2744.1,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 15"
+  },
+  {
+    "offset_secs": 2755.249,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 17"
+  },
+  {
+    "offset_secs": 2755.249,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 10 PORAŻKA"
+  },
+  {
+    "offset_secs": 2927.593,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 28"
+  },
+  {
+    "offset_secs": 2934.108,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 11"
+  },
+  {
+    "offset_secs": 3068.001,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 + 6 = 29"
+  },
+  {
+    "offset_secs": 3095.464,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 25"
+  },
+  {
+    "offset_secs": 3095.464,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 19"
+  },
+  {
+    "offset_secs": 3112.348,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 2d10 + 12 + 8d6 = 54"
+  },
+  {
+    "offset_secs": 3161.581,
+    "speaker": "Versir",
+    "kind": "event",
+    "text": "używa: Celestial Revelation (Inner Radiance Damage)"
+  },
+  {
+    "offset_secs": 3203.321,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Lightning Breath (Save)"
+  },
+  {
+    "offset_secs": 3230.218,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 18 (ST 15)"
+  },
+  {
+    "offset_secs": 3230.218,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 24 (ST 15)"
+  },
+  {
+    "offset_secs": 3242.094,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath - Damage Roll | rzuty: 9d10 = 50 lightning"
+  },
+  {
+    "offset_secs": 3353.012,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 3353.012,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 21"
+  },
+  {
+    "offset_secs": 3365.938,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 3365.938,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 18"
+  },
+  {
+    "offset_secs": 3374.772,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 3374.772,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 24"
+  },
+  {
+    "offset_secs": 3383.4,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 13 piercing; 2d6 = 9 poison"
+  },
+  {
+    "offset_secs": 3470.473,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 30"
+  },
+  {
+    "offset_secs": 3503.195,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[falling]"
+  },
+  {
+    "offset_secs": 3605.914,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Lightning Bolt (Legacy) (Save)"
+  },
+  {
+    "offset_secs": 3656.282,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Lightning Bolt (Legacy) - Damage Roll | rzuty: 8d6 = 25 lightning"
+  },
+  {
+    "offset_secs": 3686.027,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 12 (ST 18)"
+  },
+  {
+    "offset_secs": 3686.027,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 15 (ST 18)"
+  },
+  {
+    "offset_secs": 3686.027,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 21 (ST 18)"
+  },
+  {
+    "offset_secs": 3765.752,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 29"
+  },
+  {
+    "offset_secs": 3773.303,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 6"
+  },
+  {
+    "offset_secs": 3802.208,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 3802.208,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 13"
+  },
+  {
+    "offset_secs": 3822.966,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 3822.966,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 28"
+  },
+  {
+    "offset_secs": 3822.966,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 3822.966,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 11"
+  },
+  {
+    "offset_secs": 3838.521,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 17 piercing; 2d6 = 5 poison"
+  },
+  {
+    "offset_secs": 3852.563,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 3 + 5 + max(1,6) = 28 (ST 11)"
+  },
+  {
+    "offset_secs": 3913.114,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 17"
+  },
+  {
+    "offset_secs": 3921.771,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 11; 2d6 = 8"
+  },
+  {
+    "offset_secs": 3948.284,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 29"
+  },
+  {
+    "offset_secs": 3959.801,
+    "speaker": "Centaur Hero",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 13"
+  },
+  {
+    "offset_secs": 3973.534,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Centaur Hero pada (0 PW)"
+  },
+  {
+    "offset_secs": 3980.497,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 6"
+  },
+  {
+    "offset_secs": 3980.657,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 6"
+  },
+  {
+    "offset_secs": 4028.1,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 26"
+  },
+  {
+    "offset_secs": 4056.466,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Claws (Damage)"
+  },
+  {
+    "offset_secs": 4069.235,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 19"
+  },
+  {
+    "offset_secs": 4069.235,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 12"
+  },
+  {
+    "offset_secs": 4086.364,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "rzuty: 2d20kl + 9 = 21"
+  },
+  {
+    "offset_secs": 4095.026,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Claws (Damage)"
+  },
+  {
+    "offset_secs": 4095.026,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Claws - Damage Roll | rzuty: 2d8 + 5 = 12 slashing; 4d6 = 11 poison"
+  },
+  {
+    "offset_secs": 4152.724,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  5 = 12"
+  },
+  {
+    "offset_secs": 4153.368,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 4159.639,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 45 poison"
+  },
+  {
+    "offset_secs": 4170.942,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 3 + 5 + max(1,6) = 32 (ST 22)"
+  },
+  {
+    "offset_secs": 4221.172,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 4221.172,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 18"
+  },
+  {
+    "offset_secs": 4254.265,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 13 = 25; 1d12 + 8 = 12; 2d6 = 11; 1d6 = 5"
+  },
+  {
+    "offset_secs": 4267.599,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 10"
+  },
+  {
+    "offset_secs": 4277.003,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 12"
+  },
+  {
+    "offset_secs": 4285.216,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d6 = 5"
+  },
+  {
+    "offset_secs": 4297.033,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Gigantes Witch pada (0 PW)"
+  },
+  {
+    "offset_secs": 4347.121,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 13 = 20; 1d20 + 13 = 25; 1d12 + 8 = 14; 2d6 = 8; 1d6 = 2"
+  },
+  {
+    "offset_secs": 4376.238,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 13 = 33; 1d20 + 13 = 17; 1d12 + 8 = 12; 2d6 = 6; 1d6 = 4; 1d12 = 7; 2d6 = 4; 2d12 = 13"
+  },
+  {
+    "offset_secs": 4401.587,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Gigantes pada (0 PW)"
+  },
+  {
+    "offset_secs": 4420.888,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 4 = 16"
+  },
+  {
+    "offset_secs": 4512.541,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 13"
+  },
+  {
+    "offset_secs": 4528.111,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 23"
+  },
+  {
+    "offset_secs": 4528.111,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 10; 2d6 = 7"
+  },
+  {
+    "offset_secs": 4528.111,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 8"
+  },
+  {
+    "offset_secs": 4552.661,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 23"
+  },
+  {
+    "offset_secs": 4552.661,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 14; 2d6 = 7"
+  },
+  {
+    "offset_secs": 4573.144,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 15"
+  },
+  {
+    "offset_secs": 4583.821,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d4  +  9 = 12"
+  },
+  {
+    "offset_secs": 4583.821,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 10"
+  },
+  {
+    "offset_secs": 4601.144,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[cursed]"
+  },
+  {
+    "offset_secs": 4615.332,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  13 = 26"
+  },
+  {
+    "offset_secs": 4615.332,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 4d6 = 7"
+  },
+  {
+    "offset_secs": 4720.201,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  13 = 30"
+  },
+  {
+    "offset_secs": 4725.557,
+    "speaker": "Grasping Vine",
+    "kind": "roll",
+    "text": "rzuty: 3d12 + 6 = 17"
+  },
+  {
+    "offset_secs": 4757.176,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 6d8 = 25"
+  },
+  {
+    "offset_secs": 4783.706,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 4783.706,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 25"
+  },
+  {
+    "offset_secs": 4798.418,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 8 piercing; 2d6 = 6 poison"
+  },
+  {
+    "offset_secs": 4808.853,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Versir pada (0 PW)"
+  },
+  {
+    "offset_secs": 4904.495,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 4904.495,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 10 PORAŻKA"
+  },
+  {
+    "offset_secs": 4983.021,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "(szept do: karpiq, Claude) rzuty: 1d20 = 11"
+  },
+  {
+    "offset_secs": 5015.029,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 22"
+  },
+  {
+    "offset_secs": 5021.293,
+    "speaker": "Trąba",
+    "kind": "roll",
+    "text": "rzuty: 1d8 + 6 = 11"
+  },
+  {
+    "offset_secs": 5037.643,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)"
+  },
+  {
+    "offset_secs": 5037.643,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)"
+  },
+  {
+    "offset_secs": 5037.643,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 3 (ST 5)"
+  },
+  {
+    "offset_secs": 5126.122,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 5126.122,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 27"
+  },
+  {
+    "offset_secs": 5138.455,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 28"
+  },
+  {
+    "offset_secs": 5138.455,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 20"
+  },
+  {
+    "offset_secs": 5153.09,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 16 piercing; 2d6 = 5 poison"
+  },
+  {
+    "offset_secs": 5153.09,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 18 piercing; 2d6 = 4 poison"
+  },
+  {
+    "offset_secs": 5153.09,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 19 piercing; 2d6 = 9 poison"
+  },
+  {
+    "offset_secs": 5219.851,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 5219.851,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 22"
+  },
+  {
+    "offset_secs": 5219.851,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Multiattack (Use)"
+  },
+  {
+    "offset_secs": 5219.851,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 29 KRYTYK"
+  },
+  {
+    "offset_secs": 5219.851,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 22"
+  },
+  {
+    "offset_secs": 5249.246,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 19 piercing; 2d6 = 8 poison"
+  },
+  {
+    "offset_secs": 5259.862,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 4d10 + 5 = 30 piercing KRYTYK; 4d6 = 11 poison KRYTYK"
+  },
+  {
+    "offset_secs": 5279.807,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 16 piercing; 2d6 = 4 poison"
+  },
+  {
+    "offset_secs": 5291.937,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Orion Xul pada (0 PW)"
+  },
+  {
+    "offset_secs": 5301.839,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[falling]"
+  },
+  {
+    "offset_secs": 5842.305,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "(OOC) Etherealness Legacy • 7th Level Transmutation (Cast at 7th Level) Casting Time 1 action Duration 8 hours Components V, S Range Self You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you or…"
+  },
+  {
+    "offset_secs": 5959.228,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 5959.228,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 18"
+  },
+  {
+    "offset_secs": 5975.958,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 25"
+  },
+  {
+    "offset_secs": 5983.505,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 22 piercing; 2d6 = 2 poison"
+  },
+  {
+    "offset_secs": 5995.489,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 26"
+  },
+  {
+    "offset_secs": 6003.145,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 16 piercing; 2d6 = 3 poison"
+  },
+  {
+    "offset_secs": 6012.943,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 15 piercing; 2d6 = 3 poison"
+  },
+  {
+    "offset_secs": 6030.533,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 29 KRYTYK"
+  },
+  {
+    "offset_secs": 6038.262,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 4d10 + 5 = 25 piercing KRYTYK; 4d6 = 14 poison KRYTYK"
+  },
+  {
+    "offset_secs": 6048.118,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Trąba pada (0 PW)"
+  },
+  {
+    "offset_secs": 6074.517,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 7"
+  },
+  {
+    "offset_secs": 6074.639,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 7"
+  },
+  {
+    "offset_secs": 6129.418,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Claws (Damage)"
+  },
+  {
+    "offset_secs": 6142.167,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 2d20kl + 9 = 17"
+  },
+  {
+    "offset_secs": 6279.303,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 13 = 27; 1d20 + 13 = 18; 1d12 + 8 = 18; 2d6 = 9; 1d6 = 5"
+  },
+  {
+    "offset_secs": 6287.406,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d6 = 3"
+  },
+  {
+    "offset_secs": 6355.809,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 5 = 19"
+  },
+  {
+    "offset_secs": 6375.098,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 13 = 28; 1d20 + 13 = 15; 1d12 + 8 = 10; 2d6 = 5; 1d6 = 6"
+  },
+  {
+    "offset_secs": 6513.704,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 21"
+  },
+  {
+    "offset_secs": 6513.704,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 11; 2d6 = 4"
+  },
+  {
+    "offset_secs": 6530.678,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 5"
+  },
+  {
+    "offset_secs": 6533.312,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 4"
+  },
+  {
+    "offset_secs": 6554.093,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 18"
+  },
+  {
+    "offset_secs": 6554.093,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 12; 2d6 = 7"
+  },
+  {
+    "offset_secs": 6571.345,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Gigantes pada (0 PW)"
+  },
+  {
+    "offset_secs": 6582.882,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 13"
+  },
+  {
+    "offset_secs": 6616.913,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d10 + 14 = 21"
+  },
+  {
+    "offset_secs": 6672.477,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[cursed]"
+  },
+  {
+    "offset_secs": 6787.209,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 1d8 1d8 for each spell slot level above 5."
+  },
+  {
+    "offset_secs": 7072.352,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Healing Word 1st Level Abjuration (Cast at 7th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 7th Level Components: : V Roll Damages"
+  },
+  {
+    "offset_secs": 7077.259,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d4 = 1"
+  },
+  {
+    "offset_secs": 7077.259,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 14d4  +  6 = 41"
+  },
+  {
+    "offset_secs": 7158.66,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7182.999,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 14"
+  },
+  {
+    "offset_secs": 7182.999,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7182.999,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 25"
+  },
+  {
+    "offset_secs": 7182.999,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7182.999,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 16"
+  },
+  {
+    "offset_secs": 7205.824,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 24 piercing; 2d6 = 8 poison"
+  },
+  {
+    "offset_secs": 7216.904,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 7245.474,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 8d8 + 6 = 44"
+  },
+  {
+    "offset_secs": 7268.027,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 3 (ST 5)"
+  },
+  {
+    "offset_secs": 7350.137,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 7350.137,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 20"
+  },
+  {
+    "offset_secs": 7350.137,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 7350.137,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10 (ST 15)"
+  },
+  {
+    "offset_secs": 7350.137,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 7350.137,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10 (ST 15)"
+  },
+  {
+    "offset_secs": 7377.598,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 2d10 + 5 = 11 slashing"
+  },
+  {
+    "offset_secs": 7434.94,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7434.94,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 15"
+  },
+  {
+    "offset_secs": 7479.64,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7479.64,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 26"
+  },
+  {
+    "offset_secs": 7479.64,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7479.64,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 26"
+  },
+  {
+    "offset_secs": 7479.64,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7479.64,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 24"
+  },
+  {
+    "offset_secs": 7515.718,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 11 piercing; 2d6 = 5 poison"
+  },
+  {
+    "offset_secs": 7515.718,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 20 piercing; 2d6 = 6 poison"
+  },
+  {
+    "offset_secs": 7515.718,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 22 piercing; 2d6 = 8 poison"
+  },
+  {
+    "offset_secs": 7554.571,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[falling]"
+  },
+  {
+    "offset_secs": 7646.482,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Greater Invisibility (Legacy) (Use)"
+  },
+  {
+    "offset_secs": 7770.105,
+    "speaker": "Murgrat",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 7770.105,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 13"
+  },
+  {
+    "offset_secs": 7778.879,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 14"
+  },
+  {
+    "offset_secs": 7778.879,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 22"
+  },
+  {
+    "offset_secs": 7792.862,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 17 piercing; 2d6 = 10 poison"
+  },
+  {
+    "offset_secs": 7804.121,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 8"
+  },
+  {
+    "offset_secs": 7804.261,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 8"
+  },
+  {
+    "offset_secs": 7865.708,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Incite Rage (Use)"
+  },
+  {
+    "offset_secs": 7888.466,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Claws (Damage)"
+  },
+  {
+    "offset_secs": 7895.226,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 15"
+  },
+  {
+    "offset_secs": 7895.226,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 12"
+  },
+  {
+    "offset_secs": 7912.07,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  5 = 6"
+  },
+  {
+    "offset_secs": 7921.795,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 7921.795,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 29 poison"
+  },
+  {
+    "offset_secs": 7961.23,
+    "speaker": "Dire Bullgoat",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  6 = 17; 2d8  +  4 = 6"
+  },
+  {
+    "offset_secs": 7975.114,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Gigantes pada (0 PW)"
+  },
+  {
+    "offset_secs": 8023.59,
+    "speaker": "Dire Bullgoat",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  6 = 21; 2d4  +  4 = 8"
+  },
+  {
+    "offset_secs": 8058.748,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "roll",
+    "text": "rzuty: 1d20 = 8"
+  },
+  {
+    "offset_secs": 8244.753,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[cursed]"
+  },
+  {
+    "offset_secs": 8330.041,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Wither and Bloom Legacy • 2nd Level Necromancy (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a withered vine twisted into a loop) Range 60ft. Area of Effect 10ft. AoE Shape Sphere You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical ve…"
+  },
+  {
+    "offset_secs": 8349.378,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d10  +  3 = 8"
+  },
+  {
+    "offset_secs": 8351.329,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 6 = 13"
+  },
+  {
+    "offset_secs": 8353.681,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 0 = 15"
+  },
+  {
+    "offset_secs": 8356.236,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Constitution Saving Throw | rzuty: 1d20 + 0 = 8"
+  },
+  {
+    "offset_secs": 8362.729,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 4d6 = 8"
+  },
+  {
+    "offset_secs": 8413.192,
+    "speaker": "Gigantes",
+    "kind": "event",
+    "text": "używa: Pike (Attack)"
+  },
+  {
+    "offset_secs": 8413.192,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 12"
+  },
+  {
+    "offset_secs": 8421.071,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 15"
+  },
+  {
+    "offset_secs": 8421.071,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 16"
+  },
+  {
+    "offset_secs": 8437.837,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Pike - Damage Roll | rzuty: 2d10 + 5 = 21 piercing; 2d6 = 7 poison"
+  },
+  {
+    "offset_secs": 8453.466,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 8533.127,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 20"
+  },
+  {
+    "offset_secs": 8535.326,
+    "speaker": "Murgrat",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 14"
+  },
+  {
+    "offset_secs": 8537.676,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Wisdom Saving Throw | rzuty: 1d20 + 1 = 3"
+  },
+  {
+    "offset_secs": 8607.298,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 8"
+  },
+  {
+    "offset_secs": 8628.472,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)"
+  },
+  {
+    "offset_secs": 8649.045,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 8"
+  },
+  {
+    "offset_secs": 8776.203,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Multiattack (Use)"
+  },
+  {
+    "offset_secs": 8815.953,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 8815.953,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 14"
+  },
+  {
+    "offset_secs": 8829.529,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 13"
+  },
+  {
+    "offset_secs": 8841.415,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Repulsion Breath (Save)"
+  },
+  {
+    "offset_secs": 8845.751,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 5 = 15"
+  },
+  {
+    "offset_secs": 8875.215,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[falling]"
+  },
+  {
+    "offset_secs": 8945.016,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Strength Saving Throw | rzuty: 1d20 + 5 = 12"
+  },
+  {
+    "offset_secs": 9032.985,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 24"
+  },
+  {
+    "offset_secs": 9043.53,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 2d10 + 5 = 21 slashing"
+  },
+  {
+    "offset_secs": 9064.689,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 29"
+  },
+  {
+    "offset_secs": 9074.312,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d10 + 6 = 9"
+  },
+  {
+    "offset_secs": 9074.312,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 4d6 = 13"
+  },
+  {
+    "offset_secs": 9094.08,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Murgrat pada (0 PW)"
+  },
+  {
+    "offset_secs": 9108.194,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "runda 9"
+  },
+  {
+    "offset_secs": 9108.287,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round 9"
+  },
+  {
+    "offset_secs": 10439.909,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Claws (Damage)"
+  },
+  {
+    "offset_secs": 10447.76,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 20"
+  },
+  {
+    "offset_secs": 10470.44,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Claws - Damage Roll | rzuty: 2d8 + 5 = 18 slashing; 4d6 = 9 poison"
+  },
+  {
+    "offset_secs": 10479.24,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Versir pada (0 PW)"
+  },
+  {
+    "offset_secs": 10549.606,
+    "speaker": "karpiq",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 9 = 12"
+  },
+  {
+    "offset_secs": 10570.663,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 0 + 3 + max(1,6) + 0 = 15"
+  },
+  {
+    "offset_secs": 10570.947,
+    "speaker": "Gigantes Witch",
+    "kind": "event",
+    "text": "używa: Spit (Save)"
+  },
+  {
+    "offset_secs": 10580.817,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Spit - Damage Roll | rzuty: 10d6 = 48 poison"
+  },
+  {
+    "offset_secs": 10597.833,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Kairos pada (0 PW)"
+  },
+  {
+    "offset_secs": 10644.832,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "event",
+    "text": "używa: Ram (Attack)"
+  },
+  {
+    "offset_secs": 10644.832,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "roll",
+    "text": "Ram - Attack Roll | rzuty: 1d20 + 6 + 2 = 17"
+  },
+  {
+    "offset_secs": 10658.582,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "event",
+    "text": "używa: Hooves (Attack)"
+  },
+  {
+    "offset_secs": 10658.582,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "roll",
+    "text": "Hooves - Attack Roll | rzuty: 1d20 + 6 + 2 = 11"
+  },
+  {
+    "offset_secs": 10689.119,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "roll",
+    "text": "Hooves - Damage Roll | rzuty: 2d4[bludgeoning] + 6 = 11 bludgeoning"
+  },
+  {
+    "offset_secs": 10712.821,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "roll",
+    "text": "Ram - Damage Roll | rzuty: 2d8[bludgeoning] + 6 = 17 bludgeoning"
+  },
+  {
+    "offset_secs": 10760.767,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 17; 1d20 + 12 = 28"
+  },
+  {
+    "offset_secs": 10769.113,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 13; 2d6 = 9"
+  },
+  {
+    "offset_secs": 10779.109,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 23; 1d20 + 12 = 26"
+  },
+  {
+    "offset_secs": 10779.109,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 11; 2d6 = 5"
+  },
+  {
+    "offset_secs": 10779.109,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 6"
+  },
+  {
+    "offset_secs": 10798.329,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 21; 1d20 + 12 = 31"
+  },
+  {
+    "offset_secs": 10798.329,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d8  +  9 = 11; 2d6 = 5"
+  },
+  {
+    "offset_secs": 10832.715,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 12 = 26; 1d20 + 12 = 30"
+  },
+  {
+    "offset_secs": 10832.715,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d4  +  9 = 12"
+  },
+  {
+    "offset_secs": 10832.715,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 8"
+  },
+  {
+    "offset_secs": 10875.65,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[cursed]"
+  },
+  {
+    "offset_secs": 10903.39,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Mass Cure Wounds 5th Level Abjuration (Cast at 7th Level) Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 1d8 1d8 for each spell slot le…"
+  },
+  {
+    "offset_secs": 10920.478,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 7d8  +  6 = 32"
+  },
+  {
+    "offset_secs": 10955.411,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d4 = 3"
+  },
+  {
+    "offset_secs": 10988.382,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 2d6 = 11"
+  },
+  {
+    "offset_secs": 11020.073,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  11 = 15; 1d20  +  11 = 12"
+  },
+  {
+    "offset_secs": 11051.004,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Rend (Attack)"
+  },
+  {
+    "offset_secs": 11051.004,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 28 KRYTYK"
+  },
+  {
+    "offset_secs": 11069.185,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Rend - Damage Roll | rzuty: 4d10 + 5 = 15 slashing KRYTYK"
+  },
+  {
+    "offset_secs": 11140.67,
+    "speaker": "Gigantes",
+    "kind": "roll",
+    "text": "Strength Ability Check | rzuty: 1d20 + 5 = 11"
+  },
+  {
+    "offset_secs": 11149.906,
+    "speaker": "Orestes (Dire Bullgoat)",
+    "kind": "roll",
+    "text": "Strength Ability Check | rzuty: 1d20 + 6 = 12"
+  },
+  {
+    "offset_secs": 11205.87,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[grappled]"
+  },
+  {
+    "offset_secs": 11274.193,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 17"
+  },
+  {
+    "offset_secs": 11274.193,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 26"
+  },
+  {
+    "offset_secs": 11290.132,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 2d10 + 12 = 22"
+  },
+  {
+    "offset_secs": 11290.132,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 8d6 = 31"
+  },
+  {
+    "offset_secs": 11313.227,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - success! | rzuty: 1d6 = 6 (ST 5)"
+  },
+  {
+    "offset_secs": 11313.566,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "(szept do: karpiq, Claude, maciek) rzuty: 1d6 = 6 (ST 5)"
+  },
+  {
+    "offset_secs": 11320.919,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Gigantes pada (0 PW)"
+  },
+  {
+    "offset_secs": 11325.768,
+    "speaker": "Kairos",
+    "kind": "event",
+    "text": "używa: Lightning Breath (Save)"
+  },
+  {
+    "offset_secs": 11341.757,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 4 + 0 = 11 (ST 15)"
+  },
+  {
+    "offset_secs": 11349.442,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath - Damage Roll | rzuty: 9d10 = 43 lightning"
+  },
+  {
+    "offset_secs": 11372.687,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "chat",
+    "text": "Applied conditions: &Reference[falling]"
+  },
+  {
+    "offset_secs": 11401.961,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "event",
+    "text": "używa: Disintegrate (Legacy) (Save)"
+  },
+  {
+    "offset_secs": 11435.274,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d6 = 6"
+  },
+  {
+    "offset_secs": 11435.557,
+    "speaker": "Gigantes Witch",
+    "kind": "roll",
+    "text": "Dexterity Saving Throw | rzuty: 1d20 + 4 + 0 - 1d6 = 21 (ST 18)"
+  },
+  {
+    "offset_secs": 11456.408,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "Disintegrate (Legacy) - Damage Roll | rzuty: 10d6 + 40 = 78 force"
+  },
+  {
+    "offset_secs": 11474.93,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Gigantes Witch pada (0 PW)"
+  },
+  {
+    "offset_secs": 11511.461,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "koniec walki po 9 rundach"
+  },
+  {
+    "offset_secs": 11511.539,
+    "speaker": "karpiq",
+    "kind": "chat",
+    "text": "Round End"
+  },
+  {
+    "offset_secs": 11513.385,
+    "speaker": "Kairos",
+    "kind": "roll",
+    "text": "Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)"
+  },
+  {
+    "offset_secs": 11687.765,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Greater Restoration Legacy • 5th Level Abjuration (Cast at 5th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(diamond dust worth at least 100 gp, which the spell consumes) Range Touch You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target: One effect that charmed or petrified the target One curse, including the target's attunement to a cursed…"
+  },
+  {
+    "offset_secs": 12194.88,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  -  1 = 10"
+  },
+  {
+    "offset_secs": 12205.563,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 11 = 21"
+  },
+  {
+    "offset_secs": 12222.507,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Kwatera Zakrotha (dziennik: Rozdział 8: Półwysep Arezyjski)"
+  },
+  {
+    "offset_secs": 12350.627,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 7"
+  },
+  {
+    "offset_secs": 12350.627,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 6"
+  },
+  {
+    "offset_secs": 12350.627,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 6"
+  },
+  {
+    "offset_secs": 12364.229,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Greater Restoration Legacy • 5th Level Abjuration (Cast at 5th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(diamond dust worth at least 100 gp, which the spell consumes) Range Touch You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target: One effect that charmed or petrified the target One curse, including the target's attunement to a cursed…"
+  },
+  {
+    "offset_secs": 12393.568,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 7"
+  },
+  {
+    "offset_secs": 12393.568,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 7"
+  },
+  {
+    "offset_secs": 12467.402,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 5"
+  },
+  {
+    "offset_secs": 12513.719,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 2d4 + 2 = 4"
+  },
+  {
+    "offset_secs": 12669.938,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d20  -  1 = 14"
+  },
+  {
+    "offset_secs": 12964.12,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 2 = 22; 1d20 + 2 = 9"
+  },
+  {
+    "offset_secs": 13036.775,
+    "speaker": "Krithon",
+    "kind": "roll",
+    "text": "rzuty: 1d2 = 2"
+  },
+  {
+    "offset_secs": 13365.298,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Lesia"
+  },
+  {
+    "offset_secs": 13408.811,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d20  +  16 = 33; 1d20  +  16 = 31"
+  },
+  {
+    "offset_secs": 13437.488,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "chat",
+    "text": "(OOC) Wall of Force 5th Level Evocation Casting Time 1 action Duration up to 10 minutes Components V, S, M(a shard of glass) Range 120ft. Concentration Requires Concentration An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or y…"
+  },
+  {
+    "offset_secs": 13790.327,
+    "speaker": "Handout",
+    "kind": "event",
+    "text": "pokazano graczom obraz: Agrius"
+  },
+  {
+    "offset_secs": 14460.041,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 14643.008,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Fort Zakrotha"
+  },
+  {
+    "offset_secs": 14961.617,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "rzuty: 1d20 + 5 = 17"
+  },
+  {
+    "offset_secs": 15115.24,
+    "speaker": "Scena",
+    "kind": "event",
+    "text": "aktywna scena: Thylea"
+  },
+  {
+    "offset_secs": 15162.727,
+    "speaker": "Versir",
+    "kind": "chat",
+    "text": "(OOC) Find Steed 2nd Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range 30ft. You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the Otherworldly Steed stat block. If you already have a steed from this spell, the steed is replaced by the new one. The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever y…"
+  },
+  {
+    "offset_secs": 16250.086,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Arevon Elorrenthi pada (0 PW)"
+  },
+  {
+    "offset_secs": 16252.689,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Orion Xul pada (0 PW)"
+  },
+  {
+    "offset_secs": 16254.183,
+    "speaker": "Orestes",
+    "kind": "roll",
+    "text": "rzuty: 1d12 = 10"
+  },
+  {
+    "offset_secs": 16263.655,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Felicjan Janus Twardowski pada (0 PW)"
+  },
+  {
+    "offset_secs": 16266.801,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d6 = 1"
+  },
+  {
+    "offset_secs": 16268.5,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 1"
+  },
+  {
+    "offset_secs": 16272.832,
+    "speaker": "Orion Xul",
+    "kind": "roll",
+    "text": "rzuty: 1d10 = 6"
+  },
+  {
+    "offset_secs": 16274.217,
+    "speaker": "Versir",
+    "kind": "roll",
+    "text": "rzuty: 1d6 = 5"
+  },
+  {
+    "offset_secs": 16275.575,
+    "speaker": "Arevon Elorrenthi",
+    "kind": "roll",
+    "text": "rzuty: 1d8 = 1"
+  },
+  {
+    "offset_secs": 16287.583,
+    "speaker": "Walka",
+    "kind": "event",
+    "text": "Versir pada (0 PW)"
+  },
+  {
+    "offset_secs": 16292.064,
+    "speaker": "Felicjan Janus Twardowski",
+    "kind": "roll",
+    "text": "rzuty: 1d6 = 6"
+  }
+]

@@ -1,0 +1,354 @@
+[00:10:54] Orestes (rzut): rzuty: 1d20 + 9 = 14
+[00:14:01] Orion Xul (rzut): rzuty: 1d20 + 0 = 11
+[00:18:59] Scena: aktywna scena: Thylea
+[00:25:23] Scena: aktywna scena: Fort Zakrotha
+[00:27:05] Versir (rzut): rzuty: 6d8 = 37
+[00:27:09] Gigantes Witch (rzut): Wisdom Saving Throw | rzuty: 1d20 + 1 = 8
+[00:30:05] Orestes (rzut): rzuty: 1d20 + 4 = 6
+[00:30:21] Arevon Elorrenthi (rzut): rzuty: 1d8 = 8
+[00:33:04] Gigantes: używa: Pike (Attack)
+[00:33:04] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 28
+[00:33:15] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 26 (ST 18)
+[00:33:24] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 11 (ST 18)
+[00:33:30] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 18 piercing; 2d6 = 2 poison
+[00:33:42] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 10 piercing; 2d6 = 7 poison
+[00:34:56] Gigantes Witch: używa: Spit (Save)
+[00:35:05] Orestes (rzut): rzuty: 1d20 + 3 = 8; 1d20 + 3 = 16
+[00:35:18] Gigantes Witch (rzut): Spit - Damage Roll | rzuty: 10d6 = 27 poison
+[00:36:07] Orestes: (OOC) Herculean Rage Class Starting at 10th level, your rages take on legendary qualities and grow more powerful the longer they endure. At the beginning of each of your turns, if you are already raging, your rage damage bonus increases by +1 1d20+1 , up to a maximum of your Strength modifier. Additionally, while raging, you are immune to poison damage and you cannot be frightened.
+[00:38:11] Orion Xul (rzut): rzuty: 1d20 + 12 = 23
+[00:38:11] Orion Xul (rzut): rzuty: 1d8  +  9 = 13; 2d6 = 6
+[00:38:28] Orion Xul (rzut): rzuty: 1d20 + 12 = 21
+[00:38:36] Orion Xul (rzut): rzuty: 1d8  +  9 = 11; 2d6 = 6
+[00:38:47] Orion Xul (rzut): rzuty: 1d8 = 7
+[00:38:59] Orion Xul (rzut): rzuty: 1d20 + 12 = 16
+[00:39:08] Orion Xul (rzut): rzuty: 1d8  +  9 = 11; 2d6 = 8
+[00:39:39] Orion Xul (rzut): rzuty: 1d20 + 12 = 26
+[00:39:39] Orion Xul (rzut): rzuty: 1d4  +  9 = 13
+[00:39:39] Orion Xul (rzut): rzuty: 2d6 = 7
+[00:40:16] Arevon Elorrenthi: Applied conditions: &Reference[cursed]
+[00:41:04] Arevon Elorrenthi (rzut): rzuty: 1d20  +  13 = 18
+[00:41:30] Grasping Vine (rzut): rzuty: 3d12 + 6 = 30
+[00:43:26] Arevon Elorrenthi (rzut): rzuty: 1d20  -  1 = 18
+[00:43:55] Arevon Elorrenthi (rzut): rzuty: 1d20  +  13 = 28
+[00:44:07] Arevon Elorrenthi (rzut): rzuty: 4d6 = 13
+[00:45:00] Versir (rzut): rzuty: 6d8 = 17
+[00:45:44] Gigantes: używa: Pike (Attack)
+[00:45:44] Gigantes (rzut): Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 15
+[00:45:55] Gigantes (rzut): Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 17
+[00:45:55] Gigantes (rzut): Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 10 PORAŻKA
+[00:48:47] Versir (rzut): rzuty: 6d8 = 28
+[00:48:54] Centaur Hero (rzut): Wisdom Saving Throw | rzuty: 1d20 + 1 = 11
+[00:51:08] Versir (rzut): rzuty: 6d8 + 6 = 29
+[00:51:35] Versir (rzut): rzuty: 1d20 + 11 = 25
+[00:51:35] Versir (rzut): rzuty: 1d20 + 11 = 19
+[00:51:52] Versir (rzut): rzuty: 2d10 + 12 + 8d6 = 54
+[00:52:41] Versir: używa: Celestial Revelation (Inner Radiance Damage)
+[00:53:23] Kairos: używa: Lightning Breath (Save)
+[00:53:50] Gigantes (rzut): Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 18 (ST 15)
+[00:53:50] Gigantes (rzut): Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 24 (ST 15)
+[00:54:02] Kairos (rzut): Lightning Breath - Damage Roll | rzuty: 9d10 = 50 lightning
+[00:55:53] Gigantes: używa: Pike (Attack)
+[00:55:53] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 21
+[00:56:05] Gigantes: używa: Pike (Attack)
+[00:56:05] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 18
+[00:56:14] Gigantes: używa: Pike (Attack)
+[00:56:14] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 24
+[00:56:23] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 13 piercing; 2d6 = 9 poison
+[00:57:50] Versir (rzut): rzuty: 6d8 = 30
+[00:58:23] Felicjan Janus Twardowski: Applied conditions: &Reference[falling]
+[01:00:05] Felicjan Janus Twardowski: używa: Lightning Bolt (Legacy) (Save)
+[01:00:56] Felicjan Janus Twardowski (rzut): Lightning Bolt (Legacy) - Damage Roll | rzuty: 8d6 = 25 lightning
+[01:01:26] Gigantes (rzut): Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 12 (ST 18)
+[01:01:26] Gigantes (rzut): Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 15 (ST 18)
+[01:01:26] Gigantes (rzut): Dexterity Saving Throw | rzuty: 1d20 + 6 + 0 = 21 (ST 18)
+[01:02:45] Versir (rzut): rzuty: 6d8 = 29
+[01:02:53] Murgrat (rzut): Wisdom Saving Throw | rzuty: 1d20 + 1 = 6
+[01:03:22] Murgrat: używa: Pike (Attack)
+[01:03:22] Murgrat (rzut): Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 13
+[01:03:42] Murgrat: używa: Pike (Attack)
+[01:03:42] Murgrat (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 28
+[01:03:42] Murgrat: używa: Pike (Attack)
+[01:03:42] Murgrat (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 11
+[01:03:58] Murgrat (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 17 piercing; 2d6 = 5 poison
+[01:04:12] Versir (rzut): Constitution Saving Throw | rzuty: 1d20 + 3 + 5 + max(1,6) = 28 (ST 11)
+[01:05:13] Orion Xul (rzut): rzuty: 1d20 + 12 = 17
+[01:05:21] Orion Xul (rzut): rzuty: 1d8  +  9 = 11; 2d6 = 8
+[01:05:48] Versir (rzut): rzuty: 6d8 = 29
+[01:05:59] Centaur Hero (rzut): Wisdom Saving Throw | rzuty: 1d20 + 1 = 13
+[01:06:13] Walka: Centaur Hero pada (0 PW)
+[01:06:20] Walka: runda 6
+[01:06:20] karpiq: Round 6
+[01:07:08] Versir (rzut): rzuty: 6d8 = 26
+[01:07:36] Gigantes Witch: używa: Claws (Damage)
+[01:07:49] Gigantes Witch (rzut): rzuty: 1d20 + 9 = 19
+[01:07:49] Gigantes Witch (rzut): rzuty: 1d20 + 9 = 12
+[01:08:06] Gigantes Witch (rzut): rzuty: 2d20kl + 9 = 21
+[01:08:15] Gigantes Witch: używa: Claws (Damage)
+[01:08:15] Gigantes Witch (rzut): Claws - Damage Roll | rzuty: 2d8 + 5 = 12 slashing; 4d6 = 11 poison
+[01:09:12] Versir (rzut): rzuty: 1d20  +  5 = 12
+[01:09:13] Gigantes Witch: używa: Spit (Save)
+[01:09:19] Gigantes Witch (rzut): Spit - Damage Roll | rzuty: 10d6 = 45 poison
+[01:09:30] Versir (rzut): Constitution Saving Throw | rzuty: 1d20 + 3 + 5 + max(1,6) = 32 (ST 22)
+[01:10:21] Gigantes: używa: Pike (Attack)
+[01:10:21] Gigantes (rzut): Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 18
+[01:10:54] Orestes (rzut): rzuty: 1d20 + 13 = 25; 1d12 + 8 = 12; 2d6 = 11; 1d6 = 5
+[01:11:07] Orestes (rzut): rzuty: 1d20 = 10
+[01:11:17] Felicjan Janus Twardowski (rzut): rzuty: 1d20 = 12
+[01:11:25] Orestes (rzut): rzuty: 1d6 = 5
+[01:11:37] Walka: Gigantes Witch pada (0 PW)
+[01:12:27] Orestes (rzut): rzuty: 1d20 + 13 = 20; 1d20 + 13 = 25; 1d12 + 8 = 14; 2d6 = 8; 1d6 = 2
+[01:12:56] Orestes (rzut): rzuty: 1d20 + 13 = 33; 1d20 + 13 = 17; 1d12 + 8 = 12; 2d6 = 6; 1d6 = 4; 1d12 = 7; 2d6 = 4; 2d12 = 13
+[01:13:21] Walka: Gigantes pada (0 PW)
+[01:13:40] Orestes (rzut): rzuty: 1d20 + 4 = 16
+[01:15:12] Orion Xul (rzut): rzuty: 1d20 + 12 = 13
+[01:15:28] Orion Xul (rzut): rzuty: 1d20 + 12 = 23
+[01:15:28] Orion Xul (rzut): rzuty: 1d8  +  9 = 10; 2d6 = 7
+[01:15:28] Orion Xul (rzut): rzuty: 1d8 = 8
+[01:15:52] Orion Xul (rzut): rzuty: 1d20 + 12 = 23
+[01:15:52] Orion Xul (rzut): rzuty: 1d8  +  9 = 14; 2d6 = 7
+[01:16:13] Orion Xul (rzut): rzuty: 1d20 + 12 = 15
+[01:16:23] Orion Xul (rzut): rzuty: 1d4  +  9 = 12
+[01:16:23] Orion Xul (rzut): rzuty: 2d6 = 10
+[01:16:41] Arevon Elorrenthi: Applied conditions: &Reference[cursed]
+[01:16:55] Arevon Elorrenthi (rzut): rzuty: 1d20  +  13 = 26
+[01:16:55] Arevon Elorrenthi (rzut): rzuty: 4d6 = 7
+[01:18:40] Arevon Elorrenthi (rzut): rzuty: 1d20  +  13 = 30
+[01:18:45] Grasping Vine (rzut): rzuty: 3d12 + 6 = 17
+[01:19:17] Versir (rzut): rzuty: 6d8 = 25
+[01:19:43] Gigantes: używa: Pike (Attack)
+[01:19:43] Gigantes (rzut): Pike - Attack Roll (Disadvantage) | rzuty: 2d20dis + 5 + 4 = 25
+[01:19:58] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 8 piercing; 2d6 = 6 poison
+[01:20:08] Walka: Versir pada (0 PW)
+[01:21:44] Gigantes: używa: Pike (Attack)
+[01:21:44] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 10 PORAŻKA
+[01:23:03] Versir (rzut): (szept do: karpiq, Claude) rzuty: 1d20 = 11
+[01:23:35] Trąba (rzut): rzuty: 1d20 + 11 = 22
+[01:23:41] Trąba (rzut): rzuty: 1d8 + 6 = 11
+[01:23:57] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)
+[01:23:57] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)
+[01:23:57] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 3 (ST 5)
+[01:25:26] Gigantes: używa: Pike (Attack)
+[01:25:26] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 27
+[01:25:38] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 28
+[01:25:38] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 20
+[01:25:53] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 16 piercing; 2d6 = 5 poison
+[01:25:53] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 18 piercing; 2d6 = 4 poison
+[01:25:53] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 19 piercing; 2d6 = 9 poison
+[01:26:59] Gigantes: używa: Pike (Attack)
+[01:26:59] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 22
+[01:26:59] Gigantes: używa: Multiattack (Use)
+[01:26:59] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 29 KRYTYK
+[01:26:59] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 22
+[01:27:29] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 19 piercing; 2d6 = 8 poison
+[01:27:39] Gigantes (rzut): Pike - Damage Roll | rzuty: 4d10 + 5 = 30 piercing KRYTYK; 4d6 = 11 poison KRYTYK
+[01:27:59] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 16 piercing; 2d6 = 4 poison
+[01:28:11] Walka: Orion Xul pada (0 PW)
+[01:28:21] Felicjan Janus Twardowski: Applied conditions: &Reference[falling]
+[01:37:22] Felicjan Janus Twardowski: (OOC) Etherealness Legacy • 7th Level Transmutation (Cast at 7th Level) Casting Time 1 action Duration 8 hours Components V, S Range Self You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you or…
+[01:39:19] Murgrat: używa: Pike (Attack)
+[01:39:19] Murgrat (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 18
+[01:39:35] Murgrat (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 25
+[01:39:43] Murgrat (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 22 piercing; 2d6 = 2 poison
+[01:39:55] Murgrat (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 26
+[01:40:03] Murgrat (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 16 piercing; 2d6 = 3 poison
+[01:40:12] Murgrat (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 15 piercing; 2d6 = 3 poison
+[01:40:30] Murgrat (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 29 KRYTYK
+[01:40:38] Murgrat (rzut): Pike - Damage Roll | rzuty: 4d10 + 5 = 25 piercing KRYTYK; 4d6 = 14 poison KRYTYK
+[01:40:48] Walka: Trąba pada (0 PW)
+[01:41:14] Walka: runda 7
+[01:41:14] karpiq: Round 7
+[01:42:09] Gigantes Witch: używa: Claws (Damage)
+[01:42:22] Versir (rzut): rzuty: 2d20kl + 9 = 17
+[01:44:39] Orestes (rzut): rzuty: 1d20 + 13 = 27; 1d20 + 13 = 18; 1d12 + 8 = 18; 2d6 = 9; 1d6 = 5
+[01:44:47] Orestes (rzut): rzuty: 1d6 = 3
+[01:45:55] Gigantes (rzut): Strength Saving Throw | rzuty: 1d20 + 5 = 19
+[01:46:15] Orestes (rzut): rzuty: 1d20 + 13 = 28; 1d20 + 13 = 15; 1d12 + 8 = 10; 2d6 = 5; 1d6 = 6
+[01:48:33] Orion Xul (rzut): rzuty: 1d20 + 12 = 21
+[01:48:33] Orion Xul (rzut): rzuty: 1d8  +  9 = 11; 2d6 = 4
+[01:48:50] Arevon Elorrenthi (rzut): rzuty: 1d20 = 5
+[01:48:53] Orion Xul (rzut): rzuty: 1d8 = 4
+[01:49:14] Orion Xul (rzut): rzuty: 1d20 + 12 = 18
+[01:49:14] Orion Xul (rzut): rzuty: 1d8  +  9 = 12; 2d6 = 7
+[01:49:31] Walka: Gigantes pada (0 PW)
+[01:49:42] Orion Xul (rzut): rzuty: 1d20 + 12 = 13
+[01:50:16] Orion Xul (rzut): rzuty: 1d10 + 14 = 21
+[01:51:12] Arevon Elorrenthi: Applied conditions: &Reference[cursed]
+[01:53:07] Arevon Elorrenthi: (OOC) Mass Cure Wounds 5th Level Abjuration Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 1d8 1d8 for each spell slot level above 5.
+[01:57:52] Arevon Elorrenthi: (OOC) Healing Word 1st Level Abjuration (Cast at 7th Level) Casting Time 1 bonus action Duration Instantaneous Components V Range 60ft. A creature of your choice that you can see within range regains Hit Points equal to 2d4 2d4 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 2d4 2d4 for each spell slot level above 1. Range: 60ft. Cast at: 7th Level Components: : V Roll Damages
+[01:57:57] Arevon Elorrenthi (rzut): rzuty: 1d4 = 1
+[01:57:57] Arevon Elorrenthi (rzut): rzuty: 14d4  +  6 = 41
+[01:59:18] Gigantes: używa: Pike (Attack)
+[01:59:42] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 14
+[01:59:42] Gigantes: używa: Pike (Attack)
+[01:59:42] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 25
+[01:59:42] Gigantes: używa: Pike (Attack)
+[01:59:42] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 16
+[02:00:05] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 24 piercing; 2d6 = 8 poison
+[02:00:16] Versir: Applied conditions: &Reference[grappled]
+[02:00:45] Versir (rzut): rzuty: 8d8 + 6 = 44
+[02:01:08] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 3 (ST 5)
+[02:02:30] Kairos: używa: Rend (Attack)
+[02:02:30] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 20
+[02:02:30] Kairos: używa: Rend (Attack)
+[02:02:30] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10 (ST 15)
+[02:02:30] Kairos: używa: Rend (Attack)
+[02:02:30] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 10 (ST 15)
+[02:02:57] Kairos (rzut): Rend - Damage Roll | rzuty: 2d10 + 5 = 11 slashing
+[02:03:54] Gigantes: używa: Pike (Attack)
+[02:03:54] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 15
+[02:04:39] Gigantes: używa: Pike (Attack)
+[02:04:39] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 26
+[02:04:39] Gigantes: używa: Pike (Attack)
+[02:04:39] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 26
+[02:04:39] Gigantes: używa: Pike (Attack)
+[02:04:39] Gigantes (rzut): Pike - Attack Roll (Advantage) | rzuty: 2d20adv + 5 + 4 = 24
+[02:05:15] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 11 piercing; 2d6 = 5 poison
+[02:05:15] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 20 piercing; 2d6 = 6 poison
+[02:05:15] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 22 piercing; 2d6 = 8 poison
+[02:05:54] Felicjan Janus Twardowski: Applied conditions: &Reference[falling]
+[02:07:26] Felicjan Janus Twardowski: używa: Greater Invisibility (Legacy) (Use)
+[02:09:30] Murgrat: używa: Pike (Attack)
+[02:09:30] Murgrat (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 13
+[02:09:38] Murgrat (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 14
+[02:09:38] Murgrat (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 22
+[02:09:52] Murgrat (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 17 piercing; 2d6 = 10 poison
+[02:10:04] Walka: runda 8
+[02:10:04] karpiq: Round 8
+[02:11:05] Gigantes Witch: używa: Incite Rage (Use)
+[02:11:28] Gigantes Witch: używa: Claws (Damage)
+[02:11:35] karpiq (rzut): rzuty: 1d20 + 9 = 15
+[02:11:35] karpiq (rzut): rzuty: 1d20 + 9 = 12
+[02:11:52] Versir (rzut): rzuty: 1d20  +  5 = 6
+[02:12:01] Gigantes Witch: używa: Spit (Save)
+[02:12:01] Gigantes Witch (rzut): Spit - Damage Roll | rzuty: 10d6 = 29 poison
+[02:12:41] Dire Bullgoat (rzut): rzuty: 1d20  +  6 = 17; 2d8  +  4 = 6
+[02:12:55] Walka: Gigantes pada (0 PW)
+[02:13:43] Dire Bullgoat (rzut): rzuty: 1d20  +  6 = 21; 2d4  +  4 = 8
+[02:14:18] Orestes (Dire Bullgoat) (rzut): rzuty: 1d20 = 8
+[02:17:24] Arevon Elorrenthi: Applied conditions: &Reference[cursed]
+[02:18:50] Arevon Elorrenthi: (OOC) Wither and Bloom Legacy • 2nd Level Necromancy (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(a withered vine twisted into a loop) Range 60ft. Area of Effect 10ft. AoE Shape Sphere You invoke both death and life upon a 10-foot-radius sphere centered on a point within range. Each creature of your choice in that area must make a Constitution saving throw, taking 2d6 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical ve…
+[02:19:09] Versir (rzut): rzuty: 1d10  +  3 = 8
+[02:19:11] Gigantes Witch (rzut): Constitution Saving Throw | rzuty: 1d20 + 6 = 13
+[02:19:13] Murgrat (rzut): Constitution Saving Throw | rzuty: 1d20 + 0 = 15
+[02:19:16] Gigantes (rzut): Constitution Saving Throw | rzuty: 1d20 + 0 = 8
+[02:19:22] Arevon Elorrenthi (rzut): rzuty: 4d6 = 8
+[02:20:13] Gigantes: używa: Pike (Attack)
+[02:20:13] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 12
+[02:20:21] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 15
+[02:20:21] Gigantes (rzut): Pike - Attack Roll | rzuty: 1d20 + 5 + 4 = 16
+[02:20:37] Gigantes (rzut): Pike - Damage Roll | rzuty: 2d10 + 5 = 21 piercing; 2d6 = 7 poison
+[02:20:53] Versir: Applied conditions: &Reference[grappled]
+[02:22:13] Gigantes Witch (rzut): Wisdom Saving Throw | rzuty: 1d20 + 1 = 20
+[02:22:15] Murgrat (rzut): Wisdom Saving Throw | rzuty: 1d20 + 1 = 14
+[02:22:17] Gigantes (rzut): Wisdom Saving Throw | rzuty: 1d20 + 1 = 3
+[02:23:27] Versir (rzut): rzuty: 2d4 + 2 = 8
+[02:23:48] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)
+[02:24:09] Versir (rzut): rzuty: 2d4 + 2 = 8
+[02:26:16] Kairos: używa: Multiattack (Use)
+[02:26:55] Kairos: używa: Rend (Attack)
+[02:26:55] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 14
+[02:27:09] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 13
+[02:27:21] Kairos: używa: Repulsion Breath (Save)
+[02:27:25] Gigantes Witch (rzut): Strength Saving Throw | rzuty: 1d20 + 5 = 15
+[02:27:55] Felicjan Janus Twardowski: Applied conditions: &Reference[falling]
+[02:29:05] Gigantes Witch (rzut): Strength Saving Throw | rzuty: 1d20 + 5 = 12
+[02:30:32] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 24
+[02:30:43] Kairos (rzut): Rend - Damage Roll | rzuty: 2d10 + 5 = 21 slashing
+[02:31:04] Versir (rzut): rzuty: 1d20 + 11 = 29
+[02:31:14] Versir (rzut): rzuty: 1d10 + 6 = 9
+[02:31:14] Versir (rzut): rzuty: 4d6 = 13
+[02:31:34] Walka: Murgrat pada (0 PW)
+[02:31:48] Walka: runda 9
+[02:31:48] karpiq: Round 9
+[02:53:59] Gigantes Witch: używa: Claws (Damage)
+[02:54:07] karpiq (rzut): rzuty: 1d20 + 9 = 20
+[02:54:30] Gigantes Witch (rzut): Claws - Damage Roll | rzuty: 2d8 + 5 = 18 slashing; 4d6 = 9 poison
+[02:54:39] Walka: Versir pada (0 PW)
+[02:55:49] karpiq (rzut): rzuty: 1d20 + 9 = 12
+[02:56:10] Kairos (rzut): Dexterity Saving Throw | rzuty: 1d20 + 0 + 3 + max(1,6) + 0 = 15
+[02:56:10] Gigantes Witch: używa: Spit (Save)
+[02:56:20] Gigantes Witch (rzut): Spit - Damage Roll | rzuty: 10d6 = 48 poison
+[02:56:37] Walka: Kairos pada (0 PW)
+[02:57:24] Orestes (Dire Bullgoat): używa: Ram (Attack)
+[02:57:24] Orestes (Dire Bullgoat) (rzut): Ram - Attack Roll | rzuty: 1d20 + 6 + 2 = 17
+[02:57:38] Orestes (Dire Bullgoat): używa: Hooves (Attack)
+[02:57:38] Orestes (Dire Bullgoat) (rzut): Hooves - Attack Roll | rzuty: 1d20 + 6 + 2 = 11
+[02:58:09] Orestes (Dire Bullgoat) (rzut): Hooves - Damage Roll | rzuty: 2d4[bludgeoning] + 6 = 11 bludgeoning
+[02:58:32] Orestes (Dire Bullgoat) (rzut): Ram - Damage Roll | rzuty: 2d8[bludgeoning] + 6 = 17 bludgeoning
+[02:59:20] Orion Xul (rzut): rzuty: 1d20 + 12 = 17; 1d20 + 12 = 28
+[02:59:29] Orion Xul (rzut): rzuty: 1d8  +  9 = 13; 2d6 = 9
+[02:59:39] Orion Xul (rzut): rzuty: 1d20 + 12 = 23; 1d20 + 12 = 26
+[02:59:39] Orion Xul (rzut): rzuty: 1d8  +  9 = 11; 2d6 = 5
+[02:59:39] Orion Xul (rzut): rzuty: 1d8 = 6
+[02:59:58] Orion Xul (rzut): rzuty: 1d20 + 12 = 21; 1d20 + 12 = 31
+[02:59:58] Orion Xul (rzut): rzuty: 1d8  +  9 = 11; 2d6 = 5
+[03:00:32] Orion Xul (rzut): rzuty: 1d20 + 12 = 26; 1d20 + 12 = 30
+[03:00:32] Orion Xul (rzut): rzuty: 1d4  +  9 = 12
+[03:00:32] Orion Xul (rzut): rzuty: 2d6 = 8
+[03:01:15] Arevon Elorrenthi: Applied conditions: &Reference[cursed]
+[03:01:43] Arevon Elorrenthi: (OOC) Mass Cure Wounds 5th Level Abjuration (Cast at 7th Level) Casting Time 1 action Duration Instantaneous Components V, S Range 60ft. Area of Effect 30ft. AoE Shape Sphere A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 5d8 plus your spellcasting ability modifier. Using a Higher-Level Spell Slot. The healing increases by 1d8 1d8 for each spell slot le…
+[03:02:00] Arevon Elorrenthi (rzut): rzuty: 7d8  +  6 = 32
+[03:02:35] Arevon Elorrenthi (rzut): rzuty: 1d4 = 3
+[03:03:08] Arevon Elorrenthi (rzut): rzuty: 2d6 = 11
+[03:03:40] Arevon Elorrenthi (rzut): rzuty: 1d20  +  11 = 15; 1d20  +  11 = 12
+[03:04:11] Kairos: używa: Rend (Attack)
+[03:04:11] Kairos (rzut): Rend - Attack Roll | rzuty: 1d20 + 5 + 3 = 28 KRYTYK
+[03:04:29] Kairos (rzut): Rend - Damage Roll | rzuty: 4d10 + 5 = 15 slashing KRYTYK
+[03:05:40] Gigantes (rzut): Strength Ability Check | rzuty: 1d20 + 5 = 11
+[03:05:49] Orestes (Dire Bullgoat) (rzut): Strength Ability Check | rzuty: 1d20 + 6 = 12
+[03:06:45] Versir: Applied conditions: &Reference[grappled]
+[03:07:54] Versir (rzut): rzuty: 1d20 + 11 = 17
+[03:07:54] Versir (rzut): rzuty: 1d20 + 11 = 26
+[03:08:10] Versir (rzut): rzuty: 2d10 + 12 = 22
+[03:08:10] Versir (rzut): rzuty: 8d6 = 31
+[03:08:33] Kairos (rzut): Lightning Breath recharge check - success! | rzuty: 1d6 = 6 (ST 5)
+[03:08:33] Kairos (rzut): (szept do: karpiq, Claude, maciek) rzuty: 1d6 = 6 (ST 5)
+[03:08:40] Walka: Gigantes pada (0 PW)
+[03:08:45] Kairos: używa: Lightning Breath (Save)
+[03:09:01] Gigantes Witch (rzut): Dexterity Saving Throw | rzuty: 1d20 + 4 + 0 = 11 (ST 15)
+[03:09:09] Kairos (rzut): Lightning Breath - Damage Roll | rzuty: 9d10 = 43 lightning
+[03:09:32] Felicjan Janus Twardowski: Applied conditions: &Reference[falling]
+[03:10:01] Felicjan Janus Twardowski: używa: Disintegrate (Legacy) (Save)
+[03:10:35] Arevon Elorrenthi (rzut): rzuty: 1d6 = 6
+[03:10:35] Gigantes Witch (rzut): Dexterity Saving Throw | rzuty: 1d20 + 4 + 0 - 1d6 = 21 (ST 18)
+[03:10:56] Felicjan Janus Twardowski (rzut): Disintegrate (Legacy) - Damage Roll | rzuty: 10d6 + 40 = 78 force
+[03:11:14] Walka: Gigantes Witch pada (0 PW)
+[03:11:51] Walka: koniec walki po 9 rundach
+[03:11:51] karpiq: Round End
+[03:11:53] Kairos (rzut): Lightning Breath recharge check - failure! | rzuty: 1d6 = 1 (ST 5)
+[03:14:47] Arevon Elorrenthi: (OOC) Greater Restoration Legacy • 5th Level Abjuration (Cast at 5th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(diamond dust worth at least 100 gp, which the spell consumes) Range Touch You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target: One effect that charmed or petrified the target One curse, including the target's attunement to a cursed…
+[03:23:14] Arevon Elorrenthi (rzut): rzuty: 1d20  -  1 = 10
+[03:23:25] Orestes (rzut): rzuty: 1d20 + 11 = 21
+[03:23:42] Handout: pokazano graczom obraz: Kwatera Zakrotha (dziennik: Rozdział 8: Półwysep Arezyjski)
+[03:25:50] Orion Xul (rzut): rzuty: 2d4 + 2 = 7
+[03:25:50] Orion Xul (rzut): rzuty: 2d4 + 2 = 6
+[03:25:50] Orion Xul (rzut): rzuty: 2d4 + 2 = 6
+[03:26:04] Arevon Elorrenthi: (OOC) Greater Restoration Legacy • 5th Level Abjuration (Cast at 5th Level) Casting Time 1 action Duration Instantaneous Components V, S, M(diamond dust worth at least 100 gp, which the spell consumes) Range Touch You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target: One effect that charmed or petrified the target One curse, including the target's attunement to a cursed…
+[03:26:33] Orion Xul (rzut): rzuty: 2d4 + 2 = 7
+[03:26:33] Orion Xul (rzut): rzuty: 2d4 + 2 = 7
+[03:27:47] Orion Xul (rzut): rzuty: 2d4 + 2 = 5
+[03:28:33] Orion Xul (rzut): rzuty: 2d4 + 2 = 4
+[03:31:09] Arevon Elorrenthi (rzut): rzuty: 1d20  -  1 = 14
+[03:36:04] Felicjan Janus Twardowski (rzut): rzuty: 1d20 + 2 = 22; 1d20 + 2 = 9
+[03:37:16] Krithon (rzut): rzuty: 1d2 = 2
+[03:42:45] Handout: pokazano graczom obraz: Lesia
+[03:43:28] Versir (rzut): rzuty: 1d20  +  16 = 33; 1d20  +  16 = 31
+[03:43:57] Arevon Elorrenthi: (OOC) Wall of Force 5th Level Evocation Casting Time 1 action Duration up to 10 minutes Components V, S, M(a shard of glass) Range 120ft. Concentration Requires Concentration An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or y…
+[03:49:50] Handout: pokazano graczom obraz: Agrius
+[04:01:00] Scena: aktywna scena: Thylea
+[04:04:03] Scena: aktywna scena: Fort Zakrotha
+[04:09:21] Felicjan Janus Twardowski (rzut): rzuty: 1d20 + 5 = 17
+[04:11:55] Scena: aktywna scena: Thylea
+[04:12:42] Versir: (OOC) Find Steed 2nd Level Conjuration (Cast at 4th Level) Casting Time 1 action Duration Instantaneous Components V, S Range 30ft. You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the Otherworldly Steed stat block. If you already have a steed from this spell, the steed is replaced by the new one. The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever y…
+[04:30:50] Walka: Arevon Elorrenthi pada (0 PW)
+[04:30:52] Walka: Orion Xul pada (0 PW)
+[04:30:54] Orestes (rzut): rzuty: 1d12 = 10
+[04:31:03] Walka: Felicjan Janus Twardowski pada (0 PW)
+[04:31:06] Versir (rzut): rzuty: 1d6 = 1
+[04:31:08] Arevon Elorrenthi (rzut): rzuty: 1d8 = 1
+[04:31:12] Orion Xul (rzut): rzuty: 1d10 = 6
+[04:31:14] Versir (rzut): rzuty: 1d6 = 5
+[04:31:15] Arevon Elorrenthi (rzut): rzuty: 1d8 = 1
+[04:31:27] Walka: Versir pada (0 PW)
+[04:31:32] Felicjan Janus Twardowski (rzut): rzuty: 1d6 = 6
