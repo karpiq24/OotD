@@ -1,0 +1,11 @@
+# Konfiguracja gitleaks dla tego repo (domyślne reguły + jeden wyjątek).
+# Pola `speaker.token` w zapisach czatu Foundry VTT to identyfikatory tokenów
+# na mapie, nie sekrety; reguła generic-api-key oznacza je jako fałszywe trafienia.
+# Wyjątek obejmuje tylko tę regułę i tylko pliki chat_log.json sesji.
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Identyfikatory tokenów Foundry VTT w zapisach czatu sesji"
+targetRules = ["generic-api-key"]
+paths = ['''(^|/)content/assets/sessions/[^/]+/chat_log\.json$''']
