@@ -104,3 +104,6 @@ Przed nocnym spoczynkiem drużyna uzgodniła dalsze kroki. Nazajutrz bohaterowie
 * Wódz Agrius po rozmowie przez barierę uznał sojusz z Zakrothem za zakończony, pozwolił drużynie odejść i wyprowadził centaury z fortu.
 * Bohaterowie wystawili bezgłowe ciało Zakrotha na krzyżu przed bramą i razem z Ugulatem przenieśli się na Wyspę Yonder.
 * Amfora Zakrotha trafiła do Astry, a drużyna postanowiła nazajutrz zażądać od Królowej Heleny wyjaśnień w sprawie dostaw żelaza.
+
+## Filmy
+![Krwawe Schody Fortu](../assets/sessions/088/088_krwawe_schody_fortu.webm)
