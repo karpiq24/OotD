@@ -21,3 +21,4 @@ group: Miasta i krainy
 - [[Taureus]]
 - [[Agrius]]
 - [[Ugulat]]
+- [[Zanner]]

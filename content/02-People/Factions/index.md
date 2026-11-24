@@ -32,3 +32,4 @@ title: Frakcje
 - [[Krąg Łuski]]
 - [[Rada Mistrzów Arezji]]
 - [[Zakon Smoczych Lordów]]
+- [[Gildia Winiarzy]]

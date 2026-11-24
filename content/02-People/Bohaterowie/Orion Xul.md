@@ -81,3 +81,5 @@ W [[Sesja 85 - Cienie nad Arezją]] od miesięcy śnił mu się ten sam sen: sto
 W [[Sesja 86 - Trzy Klucze Teogenezy]] [[Narsus]] w [[Komnata Piękna|Komnacie Piękna]] z żalem zerknął na jego zbroję, jeden ze swoich dawnych darów, który niegdyś w podzięce oddał bohaterom. W [[Bór Thrake|Borze Thrake]] czterema pchnięciami powalił dwóch minotaurów; trzeci dwukrotnie trafił go toporem, a po walce uleczył go [[Arevon Elorrenthi|Arevon]].
 
 W [[Sesja 87 - Upadek Zakrotha]] w komnacie [[Zakroth|Zakrotha]] uznał nimfę [[Belladona|Belladonę]] za wroga i zabił ją włócznią. Walczył z Zakrothem razem z [[Orestes|Orestesem]], aż wbił mu włócznię w pysk, patrząc mu w oczy i mówiąc: „To ja ją zabiłem”.
+
+W [[Sesja 88 - Krwawe Schody Fortu]] oszczędził wahającego się centaura i wzywał obrońców [[Fort Zakrotha|Fortu Zakrotha]] do poddania się. Klątwa wiedźmy [[Gigantes]] nie pozwalała mu potem się wycofać; [[Kyrah]] w smoczej postaci osłoniła go przed ciosem, który by go powalił.

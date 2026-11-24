@@ -532,3 +532,12 @@
 * Śmierć nimfy [[Belladona|Belladony]], ukochanej Zakrotha, z ręki [[Orion Xul|Oriona]].
 * Kradzież [[Amfora Zakrotha|Amfory Zakrotha]] przez [[Felicjan Janus Twardowski|Felicjana]]; na dnie zostaje tylko odrobina Ambrozji.
 * Śmierć Zakrotha z ręki Oriona; przeklęty przez wiedźmę [[Gigantes]] [[Versir]] broni schodów przed obrońcami fortu, którzy wciąż napierają z niższych pięter.
+
+## Sesja 88 - Krwawe Schody Fortu (23.11.2026)
+* Odrąbanie głowy [[Zakroth|Zakrotha]] przez [[Orestes|Orestesa]]; część obrońców [[Fort Zakrotha|Fortu Zakrotha]] traci wolę walki, lecz [[Gigantes]] walczą dalej.
+* Śmierć [[Trąba|Trąby]] i [[Murgrat|Murgrata]] w bitwie na schodach; [[Felicjan Janus Twardowski|Felicjan]] obraca ostatnią wiedźmę Gigantes w popiół.
+* Odkrycie w skarbcu Zakrotha umowy z [[Gildia Winiarzy|Gildią Winiarzy]] z [[Arezja|Arezji]], płacącej za napady na wozy z piwem z [[Orestessos Zythikē]], oraz zapisków o żelazie od [[Zanner|Zannera]], a wcześniej z Arezji.
+* Uwolnienie [[Lesia|Lesi]], córki lorda [[Agrius|Agriusa]], więzionej w forcie jako posłanka centaurów.
+* Koniec sojuszu centaurów Agriusa z Zakrothem po rokowaniach z drużyną; zaproszenie centaurów do rozmów o granicy w imieniu [[Zakon Smoczych Lordów|Zakonu Smoczych Lordów]].
+* Bezgłowe ciało Zakrotha na krzyżu przed bramą fortu; głowa zabrana jako dowód dla [[Królowa Helena|Królowej Heleny]].
+* Powierzenie [[Amfora Zakrotha|Amfory Zakrotha]] [[Astra|Astrze]] na [[Wyspa Yonder|Wyspie Yonder]].
