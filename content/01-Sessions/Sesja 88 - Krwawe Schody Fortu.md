@@ -1,6 +1,5 @@
 ---
 title: "Sesja 88: Krwawe Schody Fortu"
-draft: true
 ---
 **Data**: 23.11.2026
 

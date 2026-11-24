@@ -91,3 +91,4 @@ cover: ../assets/sessions/082/082_theme_seven_reflections.webp
 - [[Sesja 85 - Cienie nad Arezją|Sesja 85: Cienie nad Arezją]]
 - [[Sesja 86 - Trzy Klucze Teogenezy|Sesja 86: Trzy Klucze Teogenezy]]
 - [[Sesja 87 - Upadek Zakrotha|Sesja 87: Upadek Zakrotha]]
+- [[Sesja 88 - Krwawe Schody Fortu|Sesja 88: Krwawe Schody Fortu]]
