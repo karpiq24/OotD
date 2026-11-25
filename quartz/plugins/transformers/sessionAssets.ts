@@ -40,6 +40,7 @@ const NEVER_PUBLISHED = [
   /^validation_report/,
   /^details\.json$/,
   /^manifest\.json$/,
+  /^recording_start\.txt$/,
   /^\./,
 ]
 
