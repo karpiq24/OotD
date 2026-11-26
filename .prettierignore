@@ -1,3 +1,8 @@
 public
 node_modules
 .quartz-cache
+# notes are written by the rpg-tools skills and indexers, not formatted by hand
+content
+templates
+# standalone page copied verbatim into the site on deploy
+battle.html
