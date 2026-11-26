@@ -1,0 +1,68 @@
+name: Check the wiki
+
+# Pull requests only (master deploys through deploy.yml): the same type check, formatting check and
+# Quartz build a deploy would run, so a broken change shows before it is merged.
+# Public repo: GitHub-hosted runners only, never self-hosted.
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0 # page dates come from git history
+          persist-credentials: false
+
+      - name: Setup Node
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 22
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Type and format check
+        run: npm run check
+
+      - name: Build Quartz
+        run: npx quartz build
+
+  # Agent files check (infra#228): context budget (AGENTS.md/CLAUDE.md <= 10 000 B, skill description <= 200 characters)
+  # and layout; "who touches, fixes", observe mode (warnings only). Runs the vendored copy of platform-ci's
+  # agents_check.py from the base branch, so a PR cannot change the check that judges it (platform-ci README.md).
+  agents:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: agents (script from the base branch)
+        if: github.event_name == 'pull_request'
+        env:
+          PR_BASE: ${{ github.event.pull_request.base.sha }}
+          PR_HEAD: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+          # HEAD^1 of GitHub's merge checkout (second parent = PR head) = the base branch as merged, else the PR base
+          if [ "$(git rev-parse -q --verify 'HEAD^2' || true)" = "$PR_HEAD" ]; then base='HEAD^1'; else base=$PR_BASE; fi
+          git cat-file -e "$base^{commit}"
+          f=.github/scripts/agents_check.py
+          # the first PR adding the copy has none on the base - it runs its own (gate file, the reviewer checks it)
+          if git cat-file -e "$base:$f" 2>/dev/null; then git show "$base:$f" > "$RUNNER_TEMP/agents_check.py"; else cp "$f" "$RUNNER_TEMP/agents_check.py"; fi
+          python3 "$RUNNER_TEMP/agents_check.py" --self-test
+          python3 "$RUNNER_TEMP/agents_check.py" . --base "$base" --github

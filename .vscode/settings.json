@@ -1,8 +1,8 @@
 {
-    "files.watcherExclude": {
-        "**/node_modules/**": true,
-        "**/public/**": true,
-        "**/.quartz-cache/**": true,
-        "**/input/**": true
-    }
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/public/**": true,
+    "**/.quartz-cache/**": true,
+    "**/input/**": true
+  }
 }
