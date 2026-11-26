@@ -41,7 +41,7 @@ Then open `http://localhost:8080` in your browser.
 
 ## 🤖 AI-Assisted Wiki Management
 
-Session logging and wiki maintenance run through agent skills and the `rpg-tools` command line from the (private) [rpg-tools](https://github.com/karpiq24/rpg-tools) toolkit, which also runs the notes pipeline (rpgnotes). The inputs that pipeline learns from (phonetic corrections, learned rules, Whisper hotwords) are kept outside this public repo. `AGENTS.md` here holds this wiki's rules for agents (Claude Code reads it through `CLAUDE.md`, Gemini CLI through `.gemini/settings.json`). Skills split into two roles: pipeline skills (multi-step, user-facing entry points) and capability skills (focused jobs invoked by the pipelines).
+Session logging and wiki maintenance run through agent skills and the `rpg-tools` command line from the (private) [rpg-tools](https://github.com/karpiq24/rpg-tools) toolkit, which also runs the notes pipeline (rpgnotes). The inputs that pipeline learns from (phonetic corrections, learned rules, Whisper hotwords) are kept outside this public repo. `AGENTS.md` here holds this wiki's rules for agents (Claude Code reads it directly, Gemini CLI through `.gemini/settings.json`). Skills split into two roles: pipeline skills (multi-step, user-facing entry points) and capability skills (focused jobs invoked by the pipelines).
 
 ### Pipeline skills
 
